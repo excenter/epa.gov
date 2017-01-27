@@ -1,0 +1,825 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta http-equiv="cleartype" content="on" />
+<!--googleon: all--><meta name="DC.description" content="In order to support our growing planet and meet the needs of the current generation while preserving the ability of future generations to meet their needs, we must continue on the path toward sustainability through innovation." />
+<meta name="DC.title" content="EPA Science Matters Newsletter: Volume 2, Number 2" />
+<!--googleoff: snippet--><meta name="keywords" content="Sustainability Research, Innovation, EPA P3, people prosperity and planet, ecosystems, hydraulic facturing, natural gas, bed bugs, copper water pipes, pinhole leaks, Vehicle Emissions, fuel additives, nanoparticle, air monitoring, estuaries, climate change" />
+<link rel="canonical" href="epa-science-matters-newsletter-volume-2-number-2.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/95531" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Science &amp; Technology" />
+<meta name="DC.type" content="Collections and Lists" />
+<meta name="DC.date.created" content="2015-07-02" />
+<meta name="DC.date.modified" content="2016-11-25" />
+<meta name="DC.date.reviewed" content="2017-11-25" />
+<meta name="DC.creator" content="US EPA,ORD" />
+<meta name="WebArea" content="Science Matters" />
+<meta name="WebAreaType" content="Resource Directory" />
+<meta name="ContentType" content="page" />
+  <title>EPA Science Matters Newsletter: Volume 2, Number 2 | EPA Science Matters Newsletter | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Science Matters" href="https://www.epa.gov/feed/45061/rss.xml" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node-95531 node-type-page og-context og-context-node og-context-node-45061 section-sciencematters resource-directory" >
+  <div class="skip-links"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+    
+  
+  <div class="region-preface clearfix">  <div id="block-views-revision-hublinks-block" class="block block-views  block-views-revision-hublinks-block">
+
+  
+  
+    <div class="view view-revision-hublinks view-id-revision_hublinks view-display-id-block view-dom-id-e9259c7ace142fde9b779bee0eae569a">        <span class="related-info"><strong>Related Topics:</strong> </span>      
+
+<ul class="menu pipeline">
+  <li class="menu-item">  
+          <a href="https://www.epa.gov/sciencematters">Science Matters</a>  </li>
+
+</ul>          </div>  
+</div>
+<div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/sciencematters/epa-science-matters-newsletter-volume-2-number-2&amp;t=EPA%20Science%20Matters%20Newsletter:%20Volume%202,%20Number%202" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/sciencematters/epa-science-matters-newsletter-volume-2-number-2&amp;text=EPA%20Science%20Matters%20Newsletter:%20Volume%202,%20Number%202&amp;url=https://www.epa.gov/sciencematters/epa-science-matters-newsletter-volume-2-number-2&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/sciencematters/epa-science-matters-newsletter-volume-2-number-2" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/sciencematters/epa-science-matters-newsletter-volume-2-number-2&amp;description=EPA%20Science%20Matters%20Newsletter:%20Volume%202,%20Number%202&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="https://www.epa.gov/sciencematters/forms/contact-us-about-science-matters" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">EPA Science Matters Newsletter: Volume 2, Number 2</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <p><b>Published March / April 2011 </b></p>
+
+<h2>Executive Message</h2>
+
+<ul class="accordion"><li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-1" title="Click to expand description">Executive Message: Sustainability through innovation</a>
+
+		<div class="accordion-pane" id="vol2_2-1">
+			<p><em>Sustainability through innovation</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="Assistant Administrator Paul Anastas" height="167" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/paulai9nformal.jpg" title="" /></span></div>
+
+			<p>By 2050, it is estimated that there will be an additional 3 billion people living on Earth, with 70 percent of the world’s population living in cities. In order to support our growing planet and meet the needs of the current generation while preserving the ability of future generations to meet their needs, we must continue on the path toward sustainability through innovation.</p>
+
+			<p>History has shown that innovations for sustainability not only improve the health of our environment and communities, but also fuel job creation and economic prosperity. Whether it is through the creation of green jobs, introducing green products to market, or stimulating healthy competition within the private sector, sustainable innovations can help us achieve synergy between environmental protection and economic growth.</p>
+
+			<p>The <a href="https://www.epa.gov/P3">7th Annual EPA National Sustainable Design Expo and People Prosperity and the Planet (P3) competition</a>, taking place on April 16 - 17, are proof of this concept. P3 is about solving our current and future environmental challenges using innovative designs that work in real-world situations. This year’s P3 competition includes 55 teams of more than 400 college and university students who will showcase some of the best new designs and approaches for developing sustainable products and technologies. The projects offer creative solutions to a range of pressing environmental problems; from addressing the quantity and quality of drinking water throughout the world to using sun, wind, and waste to fuel alternative and renewable energy sources. Past P3 award winners have gone on to start new companies, launch non-profit organizations, and develop products for commercial use. </p>
+
+			<p>Over the years, the P3 competition has created jobs and helped contribute to a healthier environment. In combination with various innovation efforts within EPA, other Federal Agencies, and the private and academic sectors, the possibilities for sustainable innovation are proving to be limitless.</p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium caption" style="width:250px;"><img alt="Assistant Administrator Paul Anastas" height="166" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/paatp3.jpg" title="" /><span class="figcaption">Assistant Administrator Paul Anastas, Ph.D. checks out a design at the annual EPA P3 Student Design Competition for Sustainability.</span></span></div>
+
+			<p>EPA Administrator Lisa P. Jackson said it best when she delivered <a href="http://yosemite.epa.gov/opa/admpress.nsf/a883dc3da7094f97852572a00065d7d8/70ba33a218b8f22f852576e0006b2a53!OpenDocument">remarks at the National Press Club</a> last year.</p>
+
+			<p>“It’s time to put to rest the notion that economic growth and environmental protection are incompatible,” she said. “It’s time to finally dismiss this false choice.”</p>
+
+			<p>Indeed, every year, by demonstrating that thoughtful design can lead to practical, innovative, and economically viable environmental solutions, P3 participants have continued to help set the record straight."</p>
+
+			<p>Sincerely,<br />
+				Paul T. Anastas<br />
+				Assistant Administrator<br />
+				U.S. EPA<br />
+				Office of Research and Development</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="https://www.epa.gov/P3">7th Annual National Sustainable Design Expo and P3 Competition</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+</ul><h2>GEMS: Great Environmental Moments in Science</h2>
+
+<ul class="accordion"><li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-2" title="Click to expand description">True North: Sustainability Research at EPA </a>
+
+		<div class="accordion-pane" id="vol2_2-2">
+			<p><em>The Agency’s focus on sustainability brings an integrated approach to research, partnerships, and seeking solutions to help society now—and in the future.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="A compass pointing north" height="165" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/truenorth.jpg" title="" /></span></div>
+
+			<p>To arrive at a destination, one needs to chart a course. For EPA research, the destination is <a href="https://www.epa.gov/sustainability/basicinfo.htm#sustainability">sustainability</a>—the ability for society to meet its present needs while preserving the ability of future generations to meet their own. “Our solution to a problem must not only solve the problem at hand, but it also must not create a new problem as a result. Sustainability must be our <em>true north</em>,” says Dr. Paul Anastas, the Assistant Administrator of EPA’s Office of Research and Development.</p>
+
+			<p>Under Anastas’ leadership, the Office of Research and Development is aligning much of its diverse research portfolio into four major sustainability themes: 1) air, climate, and energy; 2) sustainable water; 3) healthy and sustainable communities; and 4) safer chemicals for sustainability. </p>
+
+			<p>With that effort already well underway, Anastas joined EPA Administrator Lisa P. Jackson and National Academy of Sciences (NAS) President Ralph Cicerone on November 30, 2010 to announce that the Agency has commissioned a <a href="http://nationalacademies.org/morenews/20101130.html">National Research Council (NRC) study</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a> that will define how to incorporate sustainability concepts across all EPA programs.</p>
+
+			<p>The final publication, informally called the “Green Book,” will follow in the tradition of the historic “<a href="http://www.nap.edu/openbook.php?isbn=0309033497">Red Book</a>” <!-- #BeginLibraryItem "/ORD/Sustainability/library/exit-EPA.lbi" --><!-- #EndLibraryItem --> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>Academy report on risk assessment. “There’s a lot of ongoing Agency workgroups thinking about sustainability in different contexts and they’ll be ready to hit the ground running when the ‘Green Book’ comes out in the summer,” explains EPA scientist Dr. Alan Hecht.</p>
+
+			<p>Hecht, a leader in sustainability and Senior Advisor to the Assistant Administrator, helped guide the 2007 release of EPA’s Sustainability Research Strategy (PDF) <span class="fileinfo">(72 pp, 9.2 MB)</span>. The strategy highlights six themes that help define the Agency’s research approach to sustainability:</p>
+
+			<ul><li><strong>Renewable Resource Systems – </strong>sustainable natural systems</li>
+				<li><strong>Non-Renewable Resource Systems – </strong>extraction of fossil fuels and minerals</li>
+				<li><strong>Long-Term Chemical and Biological Impacts – </strong>evaluating long-term threats and promoting a shift to environmentally preferable materials</li>
+				<li><strong>Human-Built Systems and Land Use – </strong>building design, efficiency, and managing urban impacts</li>
+				<li><strong>Economics and Human Behavior – </strong>ecosystem and health values, and incentives for human choices</li>
+				<li><strong>Information and Decision-Making – </strong>metrics, conditions, and satellite observations.</li>
+			</ul><p> “We need to work with others to plan more sustainably, efficiently, and effectively given the economic, environmental, and climate stresses we will face over the next several decades,” emphasizes Hecht. “Pursuing partnerships to get research out to the right people, coordinating with other agencies, and addressing public policy decisions in ways that positively reinforce actions rather than creating additional regulations are key,” says Hecht.</p>
+
+			<p>Momentum for such sustainability partnerships is growing, according to Dr. Joseph Fiksel, a sustainability expert from <a href="http://sustainability.osu.edu/">The Ohio State University</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>who is currently on a special appointment at EPA helping to incorporate systems thinking into the Agency's research programs. He points out that there has been a significant upswing recently in the number of businesses with an interest in sustainable product and process design, green certification, clean manufacturing, and lifecycle management. “Businesses are responding to customer pressures to ‘green’ their processes and supply chains in order to differentiate their products in the marketplace,” explains Fiksel.</p>
+
+			<p>An extensive EPA cross-program working group on green products has been busy meeting with businesses and other agencies to help clarify EPA’s role in defining green products.  Advancing the idea of green and sustainable products—which goes beyond typical regulatory issues—requires research on product manufacturing, green chemistry, and “green” certification in the marketplace.</p>
+
+			<p>According to Fiksel, another shift in EPA’s approach to sustainability involves moving from a focus on waste management to materials management. Two critical elements that he identifies are:  1) including the concerns of stakeholders when addressing sustainability challenges, and 2) introducing indicators and metrics to measure and guide progress. “Typically, no single indicator will work. Multiple metrics are needed to represent sustainability, and communicating those to the public on a regular basis is important,” Fiksel says.</p>
+
+			<p>He believes that there are virtually no environmental problems at the national level that cannot be addressed in a more integrated way, including, for example, transportation technologies, natural gas extraction methods such as hydraulic fracturing, and recycling of waste materials. In the energy field, the challenges confronting biofuels, renewable energy technologies, and fossil fuels could all benefit from a broader perspective based on systems thinking, Fiksel says. </p>
+
+			<p>Historically, environmental programs have largely focused on how to reduce air and water pollution, and how to identify and monitor chemical and environmental risks to human health and the environment. Today’s challenges depend on the sustainable use of natural resources, and require solutions that stress the linkages between energy use, water use, land use, material consumption, environmental protection, human health, quality of life, and the global economy.  The Green Book and efforts to strategically align its research efforts will help the Agency chart a course that addresses this complex suite of modern environmental challenges through science and research efforts that provide innovative, sustainable solutions.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="https://www.epa.gov/sciencematters/new-perspectives-products-and-partnerships-how-sustainability-figures-our-future">Q&amp;A with Sustainability Scientist Dr. Alan Hecht</a></li>
+				<li><a href="http://blog.epa.gov/blog/2010/12/01/sw-the-future-is-sustainability/">EPA Administrator Lisa Jackson Speaks on Sustainability</a></li>
+				<li><a href="http://yosemite.epa.gov/sab/sabproduct.nsf/796BB04146A5F14C852576F9004E5E69/$File/Anastas+Path+Forward+3-5-10.pdf">Paul Anastas Memo: Sustainability is Our True North (PDF)</a> <span class="fileinfo">(5 pp, 63KB)</span></li>
+				<li><a href="https://www.epa.gov/science-and-technology/sustainable-practices-science">EPA Science and Technology: Sustainable Practices </a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-3" title="Click to expand description">Toward Sustainability: Building a Better Understanding of Ecosystem Services</a>
+		<div class="accordion-pane" id="vol2_2-3">
+			<p><em>EPA researchers and partners are conducting a major study of the Tampa Bay estuary and its surrounding wetlands to quantify how natural ecosystems support human welfare.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:400px;"><img alt="Pier" height="250" width="400" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2014-09/ecosystem-u1.jpg" title="" /></span></div>
+
+			<p>If a major credit card company were to highlight the benefits of Tampa Bay’s natural ecosystems in one of its now-famous television commercials, it might feature an opening shot of a retired couple decked out in waders, sun hats, and khaki vests. As they lift binoculars to their eyes to spy on a squadron of pelicans gliding over flat, golden-hued open water, an announcer would deadpan: “Brand new, eight by forty binoculars for a day of adding to your life list: seventy-four dollars.” Images of a mom straining to lift a fishing rod to land a tarpon while her excited family cheers her on: “Charter boat and crew for a day of fun on the water: six hundred and fifty dollars.”</p>
+
+			<p>The kicker for such a commercial would feature a fast-paced series of images showing a diversity of wildlife and wetlands, people enjoying the great outdoors, and a dramatic thunderstorm sending cascades of runoff flowing through wetlands toward the Bay, all interspersed with scenes of everyday life. The voiceover: “Having healthy, functioning wetlands and other Tampa Bay region ecosystems supporting a vibrant economy, public well being, and a sustainable future: priceless.”</p>
+
+			<p>But while many do consider natural ecosystems and the benefits they provide to be priceless when they stop to recognize them, more often than not these benefits are so abundant and free-flowing that, paradoxically, they are easy to overlook. What’s worse, because they are difficult to quantify, such benefits are often left out or undervalued in risk assessments and other analysis that decision makers use to set environmental policies.</p>
+
+			<p>The end result, <a href="http://www.wri.org/publication/world-resources-2000-2001-people-and-ecosystems-fraying-web-life">according to the World Resources Institute</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>, is that our current way of life is unsustainable.</p>
+
+			<p>EPA scientists have embarked on a research program to help change that. They are developing a better scientific understanding of the benefits people derive from nature.</p>
+
+			<p>The research is advancing the science of sustainability by focusing on the aspects of the natural environment that form the foundation of our own ecology, economy, and overall well-being.  These aspects of ecosystems that humans derive benefits from are what biologists and others refer to as <a href="https://www.epa.gov/eco-research/ecosystem-services">ecosystem services</a>—such as flood control, fertile soils, biological diversity, and the natural cycles that cleanse our air and water.</p>
+
+			<p>Tampa Bay, home to Florida’s largest open-water estuary and a large and growing urban center, is the focus of one such study. EPA scientists Dr. Marc Russell and Dr. Janet Nestlerode are helping lead a broad coalition of researchers and stakeholders in a comprehensive study to identify and assess the <a href="https://www.epa.gov/eco-research/ecosystem-services">ecosystem services provided by the bay</a> and surrounding region.</p>
+
+			<p>“We and our partners are working to estimate the ecosystem services that Tampa Bay estuary and other ecosystems provide on a broad scale,” says Russell.</p>
+
+			<p>One example: usable water. Human activities can produce water pollutants such as nitrogen. Excess nitrogen reaching water bodies can lead to decreased water clarity, algal blooms, sea-grass death, and reduced fish populations.  But natural areas can act as a kind of natural filter. As water flows through wetlands, forests, and other natural areas within a watershed, levels of nitrogen and some other pollutants decrease.  The cleaner water produced is useable and valued by people—for drinking, farming, and recreational activities. </p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-full caption" style="width:300px;"><img alt="Dr. Marc Russell and Dr. Janet Nestlerode" height="205" width="300" class="right media-element file-full" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/large/public/2015-07/tampaecosytem.jpg" /><span class="figcaption">EPA scientists Dr. Marc Russell (left) and Dr. Janet Nestlerode are studying the Tampa Bay ecosystem.</span></span></div>
+
+			<p>If too much of a watershed’s natural areas are replaced with developed areas (housing complexes, parking lots, etc.), communities are faced with the need to build water treatment facilities to maintain useable water, a costly proposition. The maintenance of useable water is just one of many examples of what ecosystems do for us. </p>
+
+			<p>And useable water is just one of many examples. “The extensive fieldwork and analysis conducted will give us the information we need to build models that we can then use to predict the functionality of natural habitats such as wetlands, quantifying the role they play in things such as removing nitrogen, providing habitat, storing carbon, and preventing floods. All of the results can then be incorporated into more dynamic models as we proceed,” explains Russell.</p>
+
+			<p>The scientists are partnering with local governments, other research entities, planning organizations, and citizen and business groups to identify and assess the values a productive ecosystem provides to the community. “We consider everyone who lives, works, or benefits from the Tampa Bay region ecosystem to be stakeholders,” says Nestlerode.</p>
+
+			<p>The project’s current stage involves intensive fieldwork to gather baseline information and begin to build a database collected from environmental observation and monitoring that will continue to grow over the long term.   A stakeholder and collaborator meeting is scheduled for May 3 to discuss project progress, urban forest assessments, model development, phase two website development, and how upcoming research efforts can be refined to best meet the Tampa Bay region’s needs.</p>
+
+			<p>“I remind myself of the big picture when I’m out in the field conducting wetland surveys while also trying not to get eaten by alligators and mosquitoes,” says Nestlerode, who, along with other project scientists is conducting fieldwork and research investigating the functionality of wetlands in urban, agriculture, and natural watersheds and the differences between ecologically younger habitats such as restored salt marshes and older, more established mangrove stands. “Doing this kind of work gives us insight into how long it takes a disturbed or restored ecosystem to recover so that the diversity of habitats across the landscape is providing a full suite of services. It gives us the opportunity to address return-on-investment-type of questions about the environment.”</p>
+
+			<p>Because of the comprehensive nature of the study, a diverse group of experts are working together, including ecologists, biologists, wetland experts, geographers, modelers, and environmental economists.</p>
+
+			<p>All those experts will help paint a more complete picture of Tampa Bay that decision makers can use when establishing development and environmental plans. “Our science will help stakeholders balance the costs of human-caused stresses to the landscape while sustaining valuable ecosystem services. By focusing on specific questions and real-world, on-the-ground situations we can provide information that everyone can relate to, such as how losing wetlands could require building expensive water treatment plants to maintain water quality, and how our actions might unintentionally result in diminished bird watching and fishing opportunities,” says Russell.</p>
+
+			<p>Ultimately, the science EPA researchers and their partners are developing will enable resource managers, planners, governments, and others to more accurately value and be conscious of the benefits we derive from “healthy” ecosystems.  This information should help decision makers lead us and future generations toward a sustainable future. Now that would truly be “priceless.”</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li>Tampa Bay Ecosystem Services <a class="epa-archive-link" href="http://archive.epa.gov/" title="EPA's Archive">Search EPA Archive</a></li>
+				<li><a href="https://www.epa.gov/eco-research">EPA Ecosystems Services Research</a></li>
+				<li><a href="http://www.tampabaywatch.org/">Tampa Bay Watch</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+				<li><a href="http://baysoundings.com/legacy-archives/fall08/Stories/feature.php">“Mangroves: The Next Cash Crop?”</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a><em>Bay Soundings </em>newspaper article</li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-4" title="Click to expand description">Hydraulic Fracturing: Testing the Waters</a>
+		<div class="accordion-pane" id="vol2_2-4">
+			<p><em>EPA Researchers combine public and technical input on a study of the potential environmental and human health impacts of a technique used to drill for natural gas.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="Burning natural gas" height="164" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/fracturing.jpg" title="" /></span></div>
+
+			<p>“Natural Gas Now Viewed as Safer Bet,” declares a recent headline in <em>The New York Times</em> (March 21, 2011). From the aftermath of the tragic earthquake and tsunami in Japan that crippled the Fukishima nuclear reactor, to the BP oil spill, and continued political turmoil in the Middle East, a convergence of energy-related events all seem to be shinning an ever brighter spotlight on natural gas development.</p>
+
+			<p>In 2010, the U.S. Congress tasked EPA with planning and conducting a transparent, peer-reviewed study of the relationship between hydraulic fracturing—a method that relies on large amounts of water, sand and chemicals injected at high pressure to crack open underground rock formations to extract natural gas—and its relationship to drinking water resources. (See <a href="epa-science-matters-newsletter-volume-1-number-2.html#vol1_2-3"><em>Hydraulic Fracturing: Drilling for Answers</em></a>, “Science Matters” Vol 1, No. 2.)</p>
+
+			<p>On February 8, 2011, EPA released the <a href="http://yosemite.epa.gov/sab/sabproduct.nsf/0/D3483AB445AE61418525775900603E79/$File/Draft+Plan+to+Study+the+Potential+Impacts+of+Hydraulic+Fracturing+on+Drinking+Water+Resources-February+2011.pdf"><em>Draft Hydraulic Fracturing Study Plan</em> (PDF)</a> <span class="fileinfo">(140pp, 2.3 MB)</span>.</p>
+
+			<p>One of the unique aspects of the development strategy has been the amount of public engagement the Agency has solicited and incorporated into the draft study plan. More than 9,500 people provided written comments, participated in webinars, or spoke up at EPA-held meetings in Texas, Colorado, Pennsylvania, New York, and Washington, DC.</p>
+
+			<p>EPA scientist Jeanne Briskin, who is helping lead the hydraulic fracturing study, emphasizes the importance of public input in designing the study. “From each and every group, we have learned important and interesting things that will help make our study better,” she says.</p>
+
+			<p>Since the Congressional request for the study, Briskin, along with technical lead Dr. Robert W. Puls, and their colleagues have listened carefully. “We’ve gotten comments from an incredible diversity of stakeholders,” says Briskin. “Some feel that hydraulic fracturing and gas development are extremely important because natural gas is an important fuel for our country’s future. Others have raised concerns about potential impacts on their air, their water, and their community.”</p>
+
+			<p>“We feel that not only because Congress told us to, but just in general it is important for us to have a very open and transparent process as we put together our approach to studying this issue so that people can see what we’re doing, why we’re doing it, and how we’re doing it,” explains Briskin.</p>
+
+			<p>Managing the public input process has been integrated with researching the scientific evidence related to the potential environmental impacts associated with hydraulic fracturing and formulating a scientific strategy for the study plan. Briskin says that “making strong, scientifically-validated information available to the public is important to addressing their concerns and ensuring that policy makers have access to data that will assist them in decision- making.”</p>
+
+			<p>Combining both public input and scientific strategies is consistent with recommendations made in a key 1996 National Academy of Sciences (NAS) Report, <a href="http://www.nap.edu/openbook.php?isbn=030905396X"><em>Understanding Risk:  Informing Decisions in a Democratic Society</em></a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>. According to the report, five objectives are important to combining public input and science:</p>
+
+			<ul><li>Getting the science right</li>
+				<li>Getting the right science</li>
+				<li>Getting the participation right</li>
+				<li>Getting the right participation</li>
+				<li>Developing an accurate, balanced, and informative synthesis.</li>
+			</ul><h2><strong>The Draft Hydraulic Fracturing Study Plan </strong></h2>
+
+			<div><a class="colorbox-gallery" href="https://www.epa.gov/sites/production/files/styles/large/public/2015-07/fracturing-graph-large.jpg" title="Hydraulic Fracturing Lifecycle"><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:300px;"><img alt="Hydraulic Fracturing Lifecycle" height="221" width="300" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/fracturing-graph.jpg" title="" /></span></a></div>
+
+			<p>Briskin and her colleagues followed the objectives illuminated in the NAS report to produce the draft study plan, while focusing on providing the science Congress and the Agency need to make key decisions and on the research needed to advance the sustainability of water resources.</p>
+
+			<p>The heart of the study plan is research questions that address each stage of the lifecycle of water used during hydraulic fracturing operations. The five critical stages in this lifecycle are:</p>
+
+			<ul><li>Water acquisition—Large volumes of water are transported for the fracturing process.</li>
+				<li>Chemical mixing—Equipment mixes water, chemicals, and sand at the well site.</li>
+				<li>Well injection—The hydraulic fracturing fluid is pumped into the well at high injection rates.</li>
+				<li>Flowback and produced water—Recovered water (called flowback and produced water) is stored on-site in open pits or storage tanks.</li>
+				<li>Wastewater treatment and disposal—The wastewater is then transported for treatment and/or disposal.</li>
+			</ul><p>Flowback and produced water is generated when the injection pressure in the well is reduced, which allows theses wastewaters to return to the surface. The wastewater contains injected chemicals, natural gas and contaminants that are found in the subsurface rock formation (e.g., dissolved solids, metals and radionuclides).<br /><br />
+				The wastewater can be treated and used in another hydraulic fracturing operation. More common, however, is treatment followed by disposal in an underground injection control well. In areas without underground injection control wells, such as the Northeastern U.S., the wastewater may be treated and discharged via a publicly-owned treatment plant. Many publicly-owned treatment plants may not be able to remove some of the components of hydraulic fracturing wastewater, such as radionuclides and the high levels of dissolved solids. This is of concern particularly in the Northeastern U.S., where there has been increased activity and interest in natural gas development.</p>
+
+			<p>Briskin explains that the research plan is designed to identify which stage of the hydraulic fracturing water lifecycle warrants the closest exploration. Accordingly, her team is planning a series of forward- and backward-looking case studies, scenario evaluations, laboratory work, and an evaluation of the toxicity of chemicals. EPA also will be collaborating with the Department of Energy—which has strong wastewater and radioactivity research programs—in carrying out the study plan, as well as with other Federal partners.</p>
+
+			<p>Briskin and her EPA colleagues continue to welcome <a href="http://water.epa.gov/type/groundwater/uic/class2/hydraulicfracturing/wells_hydroout.cfm#hfcomments">stakeholder involvement</a> from members of the public, states, industry, tribes, sister Federal agencies, technical experts, and other stakeholders as they select locations for case studies and revise the draft study plan released on February 8, 2011.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="../hydraulicfracturing.html">EPA Hydraulic Fracturing web site </a></li>
+				<li><a href="http://water.epa.gov/type/groundwater/uic/class2/hydraulicfracturing/upload/HFStudyPlanDraft_SAB_020711-08.pdf">Draft Plan to Study the Potential Impacts of Hydraulic Fracturing on Drinking Water Resources (PDF)</a> <span class="fileinfo">(140 pp, 2.6 MB)</span></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-5" title="Click to expand description">EPA Co-Hosts National Bed Bug Summit to Address the Return of a Pest</a>
+		<div class="accordion-pane" id="vol2_2-5">
+			<p><em>EPA provides citizens with information about how to protect themselves from bed bugs.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:200px;"><img alt="Bedbugs" height="233" width="200" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/bedbug.jpg" title="" /></span></div>
+
+			<p>Although it might sound like a bad horror movie, the phrase <em>The Return of the Bed Bugs</em> has become all too real for many people who are dealing with the resurgence of a pest that until recently was considered a thing of the past. To help address the growing problem, EPA and several partner federal agencies hosted The Second National Bed Bug Summit on February 12, 2011, at Georgetown University in Washington, DC.</p>
+
+			<p>Dan Stout, an EPA biologist and urban entomologist who specializes in understanding people’s exposures to pesticides as they move and change in the residential environment, is working on addressing the resurgence of bed bug infestations. Stout explains that their presence is being reported in all 50 states. </p>
+
+			<p>The Associated Press identified the <a href="http://www.mnn.com/earth-matters/wilderness-resources/stories/bedbugs-10-most-infested-cities-in-america">10 most infested cities in</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>August 2010, which started a flurry of other investigations and reports about the problem. Apparently, the critters make good use of global transport systems, attach onto luggage, and find new homes with returning travelers. Not surprisingly, these unwanted guests are spreading to other living areas such as college libraries and dorms, buses, subways, movie theaters, retail stores, and hospital rooms.</p>
+
+			<p>Where are they hiding? Although initial infestations typically start in bedding, Stout says “They are partial to cracks and crevices in all sorts of places indoors, including where materials form gaps, like around drain pipes or electrical plugs.” Other spots include baseboards, cracks in plaster, upholstered furniture cushions, folds of curtains, and cloth-covered stereo speakers.</p>
+
+			<p>Bed bugs have even grabbed the attention of the U.S. Congress. In November 2009, a State and U.S. representative convened the first Congressional Bed Bug Forum, and subsequently introduced the <a href="http://thomas.loc.gov/cgi-bin/query/z?c111:H.R.2248:">Don’t Let the Bed Bugs Bite Act</a> (H.R. 2248) into Congress. If passed, the act will provide training in pest management prevention and eradication techniques.</p>
+
+			<p>These small vermin are causing serious problems for pest control professionals who say that they are among the most difficult pests to eradicate. Portraying the significance of the problem, the National Pest Management Association and the University of Kentucky conducted a survey in 2010, which reported that 95 percent of professional pest control companies had encountered bed bug infestations in the past year. Furthermore, U.S. consumers paid $258 million to treat buildings for bed bugs in 2009 alone.</p>
+
+			<p>“Females shed their skin after consuming human blood meals that are necessary to bring them to maturity.  These nuisance critters can live for several weeks between feedings, and  females can deposit up to five eggs a day, and as many as 200 in a lifetime if well-fed,” explains Stout, a lead scientist for the <a href="http://www.hud.gov/offices/lead/NHHC/presentations/R-15_Findings_from_AHH_survey.pdf">American Healthy Homes Survey (PDF)</a> <span class="fileinfo">(53 pp, 1.3 MB)</span>, a 2009 nationwide survey of residential pest concentrations conducted by EPA in collaboration with the U.S. Department of Housing and Urban Development.</p>
+
+			<p>Bed bug bites do not cause diseases in people, but they can lead to inflammation and possible secondary infection from excessive itching, Stout warned. Although bed bugs don’t pose a threat to public health or property, EPA and the Centers for Disease Control and Prevention have issued a <a href="http://www.cdc.gov/nceh/ehs/publications/bed_bugs_cdc-epa_statement.htm">joint statement</a> on integrated pest management approaches for controlling the pest. What’s the long-term fix for the bed bug dilemma? The National Pest Management Association says that specific solutions may take a decade of research, millions of dollars to accomplish, and could require a genetics-based approach to solve.</p>
+
+			<p>Stout suggests that the best scenario for now may be to focus on prevention. “People might want to reconsider not using second-hand furniture without a thorough, and if possible professional, cleaning first. People should minimize interior clutter to reduce bed bug hiding places.” Another tip: “examine travel suitcases thoroughly, and unpack the contents directly into the washing machine.” Here is a useful list of do’s and don’ts:</p>
+
+			<h3>Top five ways to find out if bed bugs are nearby:</h3>
+
+			<ol><li>Check indoor cracks and crevices under low light conditions.</li>
+				<li>Look for small blood drops in your home (wet or dry) or brown spots (fecal matter) because after engorging, bed bugs may excrete part of their meal, which leaves visible stains.</li>
+				<li>Sniff around. Musty, sweet, and the smell of raw beef-like odors may indicate infestation.</li>
+				<li>Launder linens regularly and dry your clothing at the highest temperature possible.</li>
+				<li>When lodging away from home, check bed crevices and folds, as well as furniture or fixtures near the bed. Keep your luggage off the floor. Use the rack in the room, the tub, or the dry-cleaning bag typically provided to inhibit infestation.</li>
+			</ol>
+			 
+
+			<h3 class="clear-both">Top five actions to take if bed bugs are found:</h3>
+
+			<ol><li>Don’t address the problem yourself. Contact building management or a licensed pest control professional with the tools and techniques to attack them where they live, without unnecessarily exposing occupants to pesticide residues.</li>
+				<li>Vacuum floors, baseboards, and other bed bug friendly locations often. Discard the vacuum bag (or contents) immediately after it is collected.</li>
+				<li>Periodically recheck the cracks, crevices, and other locations where bed bugs have previously been found to ensure that they have not returned. </li>
+				<li>If you suspect a bite, contact a physician for authoritative confirmation that it resulted from a bed bug.</li>
+				<li>Limit visitors (or visits) until the problem is gone.</li>
+			</ol>
+			 
+
+			<hr class="clear-both" /><h3>Learn More</h3>
+
+			<ul><li><a href="../bedbugs.html">EPA’s Bed Bug Website</a></li>
+				<li><a href="http://cfpub.epa.gov/oppref/bedbug/">EPA Bed Bug Products Search Tool</a></li>
+				<li><a href="http://www.ca.uky.edu/entomology/entfacts/ef636.asp">Bed Bug Fact (University of Kentucky Department of Entomology)</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-6" title="Click to expand description">Problems with Pinhole Leaks in Your Copper Water Pipes</a>
+		<div class="accordion-pane" id="vol2_2-6">
+			<p><em>EPA scientists document, experiment, and research water chemistry to better understand the nature of pitting corrosion and pinhole leaks in copper water pipes.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="A copper pipe with leaks" height="186" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/leaks.jpg" title="" /></span></div>
+
+			<p>Imagine a tiny, pinhead-sized hole in one of the copper water pipes running through the wall of your home. Water slowly drips, drips, drips. It soaks into the insulation and spreads until your wall becomes a breeding ground for mold and mildew that can not only make you sick, but can also go undetected for months or longer.</p>
+
+			<p>EPA researchers are gathering data and conducting experiments in an effort to get to the root of this aptly-named, “pinhole leak” problem. Pinhole leaks result from a localized copper corrosion called pitting corrosion, but the causes of this form of corrosion are poorly understood.</p>
+
+			<p>“Leaks from this corrosion can cause drywall damage, leaks on floors, mold build-up, and more,…but it’s a very, very complicated problem. It’s hard to predict and the mechanisms are difficult to sort out,” explains EPA environmental engineer Darren Lytle who has been involved with many of the pitting corrosion studies.</p>
+
+			<p>Since copper is a low-cost resource and allows for relatively easy installation, the majority of households across the country sit upon tunnels of copper plumbing. Not all copper plumbing experiences pitting corrosion, but often an entire community can be found where pinhole leak problems are prevalent. Researchers have been investigating what exactly separates such a community from the surrounding areas that are not experiencing similar corrosion problems.</p>
+
+			<p>“When there are widespread problems in a community, where many homeowners have a problem, it is likely associated with water chemistry,” says Lytle. “If we can understand what it is about the water chemistry that is in common among these communities, then we start to understand what water chemistries to avoid.”</p>
+
+			<p>“This is going to be something we have to follow and we have to watch,” warns Lytle. “It’s something we need be aware of as water becomes more scarce, as population grows, and as communities look to other sources with different chemistries to help supplement what they currently have. I think it’s a problem that is going to be around for awhile.”</p>
+
+			<p>Accordingly, researchers have been collecting water and pipe samples from both communities with pinhole leak problems and from nearby communities without. Using the data collected through these samples, as well as the documentation of full-scale case studies, researchers have compiled a database of corrosion distribution information and the associated water quality.</p>
+
+			<p>Using this information to compare problematic waters with corrosion-free waters will not only allow scientists to identify the mechanisms of pitting corrosion, but also to identify possible solutions to these problems. For example, one case study near Cincinnati, OH involved two neighboring communities, both receiving water from the same main source, but one community had prevalent pinhole leak problems while the other did not.</p>
+
+			<p>“We went to the community that doesn’t have a problem,” recalls Lytle, “and we found out the only difference is that they add a phosphate-based chemical for corrosion control, and the community that has a problem does not add phosphate.”</p>
+
+			<p>In addition to compiling this database and comparing water chemistries, researchers have designed and utilized a pipe-loop system to test water for its tendency to initiate pitting corrosion by continuously running water through a series of copper pipes. A small-scale, preliminary study using this pipe-loop system showed researchers that evidence of localized corrosion could be found after only 72 days of flowing water through the system. A tool like this pipe-loop system could prove very useful for water utilities.</p>
+
+			<p>“It’s an inexpensive system. You can go to the local hardware store and pick up all the plumbing and the fittings. A water utility could easily build it, put it in their water distribution system, and just run water through and periodically pull sections of the pipe out to examine them for any signs of corrosion by-products,” says Lytle, encouraging the use of such a system.</p>
+
+			<p>Pitting corrosion in copper piping is difficult for a homeowner to detect and correct before it becomes a big problem, and often will result in expensive repairs and replacement. The EPA-designed pipe-loop testing system offers the potential to provide a solution, giving water companies a low-cost early warning system for identifying water likely to lead to pinhole corrosion, and preventing homeowners from facing the damage and health risks that come from leaking pipes. Such pipe-loop testing systems could also help water companies to identify potential solutions for existing problems.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="https://www.wsscwater.com/water-quality--stewardship/research/pinhole-leaks--corrosion-control.html">Pinhole Leaks (Washing Suburban Sanitary Commission)</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-7" title="Click to expand description">Sparking Innovation to Meet Environmental and Human Health Challenges</a>
+		<div class="accordion-pane" id="vol2_2-7">
+			<p><em>EPA is invigorating its research efforts by tapping the collective vision and energy of its own scientists and engineers, as well as engaging others to join the discussion.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="A hand" height="210" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/innovation.jpg" title="" /></span></div>
+
+			<p><em>“Innovation needs to be the lifeblood of the progress we seek to make in protecting human health and the environment.”</em><br /><span>--Paul T. Anastas, EPA Assistant Administrator for Research and Development</span></p>
+
+			<p>How do you spark the kind of collective effort that facilitates collaboration across multiple disciplines, use new communication technologies to open the scientific process to creative problem-solving, and at the same time engage the collective expertise of EPA scientists, engineers, and their partners to bring new approaches to 40 years of work advancing environmental and human health science?</p>
+
+			<p>In a word: innovation.</p>
+
+			<p>“Innovation is not just a buzzword, it’s a critical way of life for a whole lot of very successful organizations. And with the pace at which things are changing, innovation has become the driver for tremendous change in the way every organization does business,” says Peter W. Preuss, PhD, the leader of EPA’s Innovation Team for research. “EPA research has embraced innovation as of a way of meeting today’s environmental and human health challenges.”</p>
+
+			<p>The Innovation Team is developing a more systematic approach to innovation at EPA, including increased emphasis on integrated transdisciplinary research, and encouraging high-risk, high-reward research.</p>
+
+			<p>On January 31, 2011, EPA Assistant Administrator Dr. Paul Anastas announced 12 Pathfinder Awards, the first of several targeted innovation activities to support creative problem solving. Scientists and engineers across EPA were invited to submit proposals for research projects that exemplify innovative, collaborative approaches for advancing sustainable solutions.</p>
+
+			<p>A total of 117 proposals were submitted to the EPA Innovation Team, who enlisted three external panels of experts to review submissions. The proposals selected to advance as Pathfinder projects illustrate exactly the kind of diversity and creativity the Innovation Team was looking for when it called for the rapid development of a new kind of research proposal.</p>
+
+			<p>Lead investigators on the selected projects range from long-standing, senior EPA scientists to post-doctoral researchers; a number of the projects involve collaborations across EPA laboratories. Technologies that will be employed during the research phase of the projects range from hyperspectral imaging on the International Space Station to innovative biological treatment of drinking water contaminants. One project will explore the intentional design of nanomaterials to facilitate their eventual decomposition in the environment, while other projects will apply cutting-edge genomics to assessment of chemical mixtures and of bacteria in water distribution systems.</p>
+
+			<p>The results of the Pathfinder projects have the potential to dramatically change environmental protection. But they are only one set of EPA’s efforts to incorporate innovation into its research. Another step the team is pursuing is to test innovation tools that better connect researchers within ORD and network ORD scientists with external stakeholders and partners. “We are targeting two initial approaches based on extensive discussions we’ve had with leaders across both government and private industry: improved collaboration and open source innovation,” explains Preuss.</p>
+
+			<p>The Agency is experimenting with a web-based collaborative platform called IdeaScale that allows its scientists and engineers to engage in an open, interactive dialogue.  Staff can share their ideas, then harness the input of their peers through on-line discussions and ranking tools to refine them.</p>
+
+			<p>EPA is also developing IdeaScale sites for the research programs, engaging both internal and external stakeholders to help prepare new research frameworks.<br />
+				The first IdeaScale platforms currently open for participation are:</p>
+
+			<ul type="disc"><li><a href="http://ace.ideascale.com/">Air, Climate, Energy IdeaScale</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+				<li><a href="http://sustainablecommunities.ideascale.com/">Sustainable and Healthy Communities IdeaScale</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+			</ul><p>The Innovation Team’s next significant activity will be to engage in a research and development tool called “Open Innovation.”  Open innovation taps the vast expertise that exists beyond the boundaries of a single organization.  Congress recently passed legislation that authorizes the use of prizes and challenges across the Federal government to spur innovation, solve tough problems, and advance core missions through a process like open innovation.  Over the next year, EPA will be tapping this resource to bring innovation to the forefront as they develop research and development problems or “challenges” for high-priority environmental protection needs.</p>
+
+			<p><a class="colorbox-inline" href="epa-science-matters-newsletter-volume-2-number-2.html#colorbox-hidden">View the Pathfinder Projects.</a></p>
+
+			<div id="hidden-content">
+				<div class="colorbox-hidden" id="colorbox-hidden">
+					<h3>The Pathfinder Projects are:</h3>
+
+					<ul><li><em>The Drinking Water Microbiome: Integrating Metagenomics and Transcriptomics as a Novel Pilot Approach to Assess Health Risks and Ecosystem Management</em></li>
+						<li><em>The Systems Reality Modeling Project Part 1: Chemical Inventory</em></li>
+						<li><em>Community-wide Health Status and Trends: Real-time Monitoring and Epidemiology Using Sewage Chemical-Information Mining </em></li>
+						<li><em>In Vitro Toxicity Evaluation of Alternative Sustainable Nanomaterials</em></li>
+						<li><em>Toxicoproteomic Identification, Classification, and Prioritization of Environmental Chemical Mixtures: Implication in Evaluation and Improvement of Current Risk Assessment Guidelines and Approaches </em></li>
+						<li><em>Developing an Integrated Screening Assay for Detection of Thyroid Hormone Disruptors: Environmental Samples and Chemicals of Concern</em></li>
+						<li><em>Global to Genome (G2G):  Specification of a Computational Platform for Agency-wide, Seamless Data Flow and Computational Modeling in Support of Health, Ecological, and Climate Risk Characterizations</em></li>
+						<li><em>Development of a Next-Generation Comprehensive Global Environmental Modeling System for Assessing Air and Water Quality in Current and Future Climates</em></li>
+						<li><em>Scaling of Ecological Patterns and Processes:  Achieving Regional Inference from Localized Observations</em></li>
+						<li><em>Innovative approach for biological treatment of hydrophobic chlorinated pollutants in water and gas streams under anoxic and anaerobic conditions</em></li>
+						<li><em>Transformational Approach to Monitoring Water Quality Sustainability of Coastal Ecosystems from Satellite Remote Sensing</em></li>
+						<li><em>Reducing the Persistence of Polymer Nanocomposites and Nanoparticle Coatings by Enhancing Their Light-Induced Degradation</em></li>
+					</ul></div>
+			</div>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="http://www.whitehouse.gov/open">Open Government Initiative</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-8" title="Click to expand description">Exploring Nano-sized Fuel Additives</a>
+		<div class="accordion-pane" id="vol2_2-8">
+			<p><em>EPA scientists examine nanoparticle impacts on vehicle emissions and air pollution.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="Pumping fuel" height="167" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/fuel.jpg" title="" /></span></div>
+
+			<p>Over the last decade, fuel prices in the United States increased to more than $3 per gallon, prompting everyone from drivers to auto manufacturers and even lawmakers to look for ways to increase the fuel efficiency of vehicles. Some companies are claiming to have done exactly that, by manufacturing fuel additives made of nanometer-sized cerium particles.</p>
+
+			<p>These additives are meant not only to increase engine efficiency, but also to reduce the amount of soot that leaves the exhaust pipes of <a href="https://www.epa.gov/otaq/fuels/dieselfuels/index.htm">diesel</a> trucks and buses. However, this may cover only part of the story, so EPA scientists are researching other effects the additives might have on overall air quality.</p>
+
+			<p>A team of EPA researchers, including Robert Willis, Michael Lewandowski, Jason Weinstein, and Prakash Bhave, are looking at the question of what <a href="http://en.wikipedia.org/wiki/Cerium(IV)_oxide">cerium oxide</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>does to vehicle emissions—and human health—by breaking the problem into several pieces. Willis, a measurement specialist, is examining the difference between ordinary diesel emissions and those from diesel mixed with nano-cerium additives. Bhave, who has worked extensively with atmospheric models, is focusing his efforts on predicting how cerium-induced emissions will change air quality.</p>
+
+			<p>“There are several possible effects that could result from adding nano-cerium to fuel,” Willis said. “One question we’re interested in answering is how it changes the composition of diesel exhaust.”</p>
+
+			<p>At room temperature, cerium nanoparticles form an extremely fine, inert powder, but these properties change at high temperatures found in combustion engines. There, nanoparticles help oxidize carbon at a lower temperature than is normally required to power a diesel engine. This helps improve fuel economy and decrease soot emissions. However, when nano-cerium is added to fuel, the exhaust from vehicles burning that fuel contains some cerium.</p>
+
+			<p>“Having cerium in the fuel can actually change all the pollutant levels,” Willis said.</p>
+
+			<p>Unfortunately, many of these pollutant levels can change for the worse. Lowering the amount of one emission-related chemical can significantly elevate the amount of another, and the newly increased level of that second pollutant might have unintended consequences. For example, the pollutant that is increased might react with other molecules in the atmosphere and create toxic byproducts in the air we breathe.</p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium caption" style="width:250px;"><img alt="Robert Willis (left) and Prakash Bhave" height="167" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/willis-and-bhave.jpg" title="" /><span class="figcaption">EPA scientists Robert Willis (left) and Prakash Bhave. On the screen behind them is an electron scanning microscope image of a common soot particle.</span></span></div>
+
+			<p>“Another question we’re trying to resolve is whether it’s a ‘nano’ problem,” Willis said. Because nanoparticles are very small, they can penetrate our respiratory tracts and enter our bloodstream in ways that larger particles cannot. However, it’s unclear whether cerium will leave the tailpipe in a nanoparticulate form. “If they attach to larger soot particles, they can’t go as far into the lung’s tissues,” he said. “So we’re trying to determine the form in which cerium will be emitted.”</p>
+
+			<p>The measurements Willis is making will figure into Bhave’s team’s efforts to model the way that nano-cerium additives might change the air to which we’re exposed. Chemicals and pollutants that leave tailpipes don’t enter a vacuum—once in the Earth’s atmosphere, they encounter numerous other particles with which they can combine.</p>
+
+			<p>For example, if cerium nanoparticles attach to micrometer-sized particles commonly found in the environment, the cerium could travel hundreds of miles away from the truck that emitted it and become ubiquitous in the atmosphere. If, on the other hand, nano-cerium exits the tailpipe on its own in a nanoparticulate form, it will quickly diffuse onto the surfaces of plants, trees, and buildings that are within a few hundred yards away. “In this case, one might need to investigate the effects of nano-cerium on plants and ecosystems in addition to the health of people living very near the roadways,” Bhave said.</p>
+
+			<p>Using sophisticated models of the atmosphere, Bhave can estimate the impact of a given set of emission changes.</p>
+
+			<p>“What if all the diesel vehicles across the United States were to start using nano-cerium fuel additives? By assembling the exhaust measurements from vehicles that have been tested with a cerium additive, we can generate a modified emissions scenario for input to our mathematical models,” he explained. “We run the model twice—once with present-day emission profiles, and a second time with the modified emissions scenario, and we can predict changes in various pollutant concentrations.”</p>
+
+			<p>The information and models that Willis, Bhave, and their partners generate will inform future research directions, including explorations of potential human health impacts, if necessary.</p>
+
+			<p>It’s not clear yet whether nano-cerium fuel additives will prove to be helpful, harmful, or benign, but Willis and Bhave’s study, which is expected to be completed in 2012, should provide some answers, and help inform future U.S. fuel additive regulations.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="../air-research.html">EPA Clean Air Research</a></li>
+				<li><a href="https://www.epa.gov/chemical-research/research-nanomaterials">EPA Nanotechnology Research</a></li>
+				<li><a href="https://www.epa.gov/oms">Transportation and Air Quality</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-9" title="Click to expand description">Mobile Air Monitoring Detects Hard-to-Find Air Pollution Problems</a>
+		<div class="accordion-pane" id="vol2_2-9">
+			<p><em>EPA scientists examine nanoparticle impacts on vehicle emissions and air pollution.</em></p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="Cars in traffic" height="165" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/traffic.jpg" title="" /></span></div>
+
+			<p>What would you do if you thought that methane might be leaking from an oil or gas well in your community?</p>
+
+			<p>If you were EPA researchers Dr. Eben Thoma or Dr. Gayle Hagler, you might go for a ride—in a specialized, high-tech vehicle.</p>
+
+			<p>Drs. Thoma and Hagler have worked with their colleagues to develop specially equipped vehicles that can detect local pockets of air pollutant emissions. These SUV-size mobile air measurement vehicles, which are now being tested, provide a way to measure air contaminants on a local scale, wherever problems are suspected.</p>
+
+			<p>“Mobile measurement approaches extend the spatial area you can cover,” Dr. Hagler explains. “while use of these advanced measurement techniques may be limited to short, intensive campaigns, you can learn a lot from them.” Mobile measurements of air pollution may be especially helpful in situations where there may be significant variability in local air pollution concentrations, such as nearby a large source, or where there are many small sources of air pollutants rather than one large one. One good application for mobile measurements, for example, is in the Western United States, where large numbers of oil and gas wells are spread over a wide geographic area, and where a particular well might leak methane only intermittently. EPA now has studies in progress to assess the value of using mobile measurements to detect methane emissions from oil and gas production.</p>
+
+			<p>Methane is not the only air pollutant that can be detected through mobile sampling, though, and oil and gas wells are not the only potential sources of pollution that can be monitored. Mobile measurements also can be used to detect near-roadway and near-rail yard pollution, for example, and to measure emissions from landfills. It also can detect a variety of other pollutants in addition to methane, including black carbon, carbon monoxide, sulfur dioxide, hydrogen sulfide, ammonia, and several classes of particulate matter.</p>
+
+			<p>In conducting the mobile measurements, EPA researchers ensure that the emissions from the mobile sampling vehicle do not interfere with accurate measurements. Thus, they utilize an electric vehicle when measuring pollutants that may come from a traditional vehicle's exhaust pipe, like particulate matter, but can use a standard gas-powered vehicle when measuring high levels of other pollutants, such as methane. These vehicles are equipped with a Global Positioning Systems (GPS) so that the location where the pollutants are detected can be accurately identified.</p>
+
+			<p>Mobile monitoring vehicles can be parked in an area for ongoing monitoring or used for occasional drive-by measurements. In communities where there are special concerns about industrial pollution, drive-by measurements could be scheduled on a regular basis. This research would serve to remind both community residents and potential polluters that EPA is addressing the community’s concerns.</p>
+
+			<p>Mobile monitoring does have some limitations. It focuses on a very local spatial scale (meters to kilometers) and the vehicles usually are deployed only for a relatively brief time (usually hours). Advanced applications of mobile monitoring can be labor intensive and involve complex data processing and analysis. On the other hand, some forms of mobile monitoring have great potential for wider use. Dr. Thoma explains “We are working with states, EPA Regional Offices, and industry collaborators to simplify and transfer mobile measurement technology to end users so that routine inspection uses can be realized.”</p>
+
+			<p>In the future, routine drive-by inspection of potential sources with automated data uplink to a public website is easily envisioned. Ultimately, technology may allow company-owned field service vehicles to be equipped with cost effective automated mobile measurement packages which look out for unexpected problems (like a leak from an underground pipe for example). Fast identification of issues leads to rapid repair, providing cost savings to the companies and improved safety and air quality.</p>
+
+			<p>Mobile measurements can help EPA learn more about localized emissions of air pollutants and how they affect nearby air quality. In this way, the special vehicles driven by Drs. Thoma and Hagler and their colleagues can help the Agency achieve its mission of protecting the quality of the air we breathe.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="https://www.epa.gov/methane/sources.html">Methane as an Air Pollutant </a></li>
+				<li><a href="https://www.epa.gov/otaq/nearroadway.htm">EPA Near-roadway Research</a></li>
+				<li><a href="https://www.epa.gov/pm">Particulate Matter</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+	<li><a class="accordion-title" href="epa-science-matters-newsletter-volume-2-number-2.html#vol2_2-10" title="Click to expand description">Saving our Estuaries: EPA's Climate Ready Estuaries Program Plans Ahead</a>
+		<div class="accordion-pane" id="vol2_2-10">
+			<p><em>Agency provides direct aid to implement adaption plans for climate change-related disaster</em>.</p>
+
+			<div><span
+    class="figure image file file-image file-image-jpeg right view-mode-medium" style="width:250px;"><img alt="Shoreline" height="166" width="250" class="right media-element file-medium right" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/medium/public/2015-07/esuary.jpg" title="" /></span></div>
+
+			<p>Recent scientific evidence indicates that the sea level along California’s coast could rise up to 55 inches as a result of climate change by the year 2100, just a single lifetime, causing mass flooding and billions of dollars in damages.<br /><br />
+				Sea level rise is unfortunately not the only effect of climate change currently plaguing the San Francisco Estuary and dozens of other estuarine systems around the country. These fragile environments are especially vulnerable to several variations in weather, including increased sea surface and air temperatures, changes in precipitation and storm intensity, and ocean acidification.</p>
+
+			<p>Enter the Climate Ready Estuaries program (CRE), a partnership between the U.S. Environmental Protection Agency and the National Estuary Programs (NEPs). Each NEP is made up of representatives from federal, state, and local government agencies responsible for managing the estuary's resources, as well as members of the community, such as citizens, business leaders, educators, and researchers. Twenty-eight estuary programs are currently working to safeguard the health of some of our Nation's most important coastal waters.</p>
+
+			<p>The primary goal of the partnership is to address climate change in coastal areas and prevent ecological catastrophe from occurring. This joint effort is working to enhance knowledge in the NEPs to enable them to develop local leadership and expertise to adapt to the effects of climate change.</p>
+
+			<p>Since CRE’s inception in 2008, 15 NEPs have become Partners and received more than $850,000 in direct technical assistance from the program. Additionally, more than $450,000 has been distributed through start-up grants. CRE has also developed the online <a href="https://www.epa.gov/cre">Coastal Toolkit</a>, an information resource for estuaries and coastal communities.</p>
+
+			<p>In 2008, the first six CRE pilot programs were launched. The <a href="https://www.epa.gov/cre/climate-ready-estuaries-partner-projects#region9">San Francisco Estuary Partnership</a> (SFEP) and <a href="https://www.epa.gov/cre/climate-ready-estuaries-partner-projects#region1">Massachusetts Bay Program</a> (MBP) were among these and, with EPA’s Global Change Research Program, initiated climate change vulnerability assessments to consider how salt marsh and mudflat ecosystems may be affected by changes in climate drivers such as temperature, precipitation, and storms.</p>
+
+			<p>Drs. Jordan West and Amanda Babson of EPA were integral members of the scientific teams that conducted both vulnerability assessments. In the spring of 2010, expert elicitations were held for both the SFEP and MBP projects. An expert elicitation (EE) is a process using expert judgment to inform decision-making when certain conditions exist. These include situations in which uncertainties are large, empirical data may not yet be available, more than one conceptual model can explain available data, and/or technical judgments are required to assess assumptions.</p>
+
+			<p>Conducted during a two-day workshop, the SFEP and MBP expert elicitations guided the experts through a series of questions regarding each aspect of the salt marsh or mudflat system. Conclusions then were drawn from the data derived from the experts’ judgments about climate change effects.</p>
+
+			<p>This innovative form of the EE, which had never before been applied to ecosystems, provided results that led to valuable implications for coastal area management and also produced an unintended benefit. “Engaging in the exercise caused [the experts] to view the system in a new way,” says Dr. West. “It sparked conversations among colleagues that may not have occurred otherwise. It really got the scientists and managers to work together and connect.”</p>
+
+			<p>Drs. Babson and West presented the project’s preliminary results in various locations; in early October 2010, Dr. Babson traveled to Portsmouth, NH to present MBP results at the <a href="http://www.rargom.org/">Regional Association for Research on the Gulf of Maine Annual Meeting</a> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a>. <!-- #BeginLibraryItem "/ORD/Sustainability/library/exit-EPA.lbi" --><!-- #EndLibraryItem --> In November 2010, Dr. West presented at the Restore America’s Estuaries Conference in Galveston, Texas. In the next six to ten months, the Agency will release separate reports chronicling the SFEP and MBP projects. A third report, focusing on an evaluation of the methodology and its measures of success, will follow.</p>
+
+			<p>Drs. Babson and West hope that the effort won’t stop there. “We are interested in doing follow-on work in two areas,” says West. “We hope to develop and refine the method into a users manual, and also work closely with NEPs in implementing their adaption plans.” While no definitive plans for such an undertaking currently exist, the positive outcomes of this project suggest that they one day could.</p>
+
+			<p>The <a href="https://www.epa.gov/climatechange/indicators.html">effects of climate change</a> can already be seen <a href="http://www3.epa.gov/climatechange/impacts/">along coastal areas</a>—such as the San Francisco Estuary and its rising waters. However, with programs like Climate Ready Estuaries and the EPA partnerships described above, plans can be put in place that hopefully will prevent these valuable ecosystems from being destroyed.</p>
+
+			<hr /><h3>Learn More</h3>
+
+			<ul><li><a href="https://www.epa.gov/cre">Climate Ready Estuaries</a></li>
+				<li><a href="https://www.epa.gov/cre/climate-ready-estuaries-progress-reports"><em>Climate Ready Estuaries 2010 Progress Report</em></a></li>
+				<li><a href="http://water.epa.gov/type/oceb/nep/index.cfm">National Estuary Programs</a></li>
+				<li><a href="../climatechange.html">EPA Climate Change web site</a></li>
+			</ul><p class="pagetop"><a href="epa-science-matters-newsletter-volume-2-number-2.html#main-content">Top of Page</a></p>
+		</div>
+	</li>
+</ul></div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="https://www.epa.gov/sciencematters/forms/contact-us-about-science-matters" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  </section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on November 25, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-okdq0m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"UWf0F9u3qixIv1Btp-KwJmvmPDAjlF2esQiF9OCI6F8"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"45061"}});
+//--><!]]>
+</script>
+<script src="https://www.epa.gov/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js"></script>
+<script>
+ jQuery(document).ready(function() {
+  // Hide the inline content
+  jQuery("#hidden-content").css({'display':'none'});
+  // Open inlined content in "box"
+  jQuery(".colorbox-inline").colorbox({inline:true,width:"50%"});
+ });
+// Menu links to open accordion
+if(window.location.hash) {
+var hash = window.location.hash;
+var thash = hash.substring(hash.lastIndexOf('#'), hash.length);
+jQuery('.accordion').find('a[href*='+ thash + ']').closest('a').trigger('click');
+
+}
+</script>    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":8442,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
