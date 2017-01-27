@@ -1,0 +1,2719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta http-equiv="cleartype" content="on" />
+<!--googleon: all--><meta name="DC.description" content="The Toxics Release Inventory tracks the management of certain toxic chemicals that may pose a threat to human health and the environment." />
+<meta name="DC.title" content="Toxics Release Inventory (TRI) Program" />
+<!--googleoff: snippet--><meta name="keywords" content="information, reporting, annual, pollution prevention, TRI-MEweb, guidance, international, analysis" />
+<link rel="canonical" href="toxics-release-inventory-tri-program.html" />
+<link rel="shortlink" href="node/3149.html" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Laws &amp; Regulations" />
+<meta name="DC.type" content="Overviews and Factsheets" />
+<meta name="DC.date.created" content="2013-01-31" />
+<meta name="DC.date.modified" content="2017-01-25" />
+<meta name="DC.date.reviewed" content="2018-01-25" />
+<meta name="DC.creator" content="US EPA,OEI,OIAA,TRIPD" />
+<meta name="WebArea" content="Toxics Release Inventory (TRI) Program" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="web_area" />
+  <title>Toxics Release Inventory (TRI) Program | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Toxics Release Inventory (TRI) Program" href="feed/3149/rss.xml.html" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node-3149 node-type-web-area og-context og-context-node og-context-node-3149 section-toxics-release-inventory-tri-program microsite" >
+  <div class="skip-links"><a href="toxics-release-inventory-tri-program.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Toxics Release Inventory (TRI) Program</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/toxics-release-inventory-tri-program&amp;t=Toxics%20Release%20Inventory%20(TRI)%20Program" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/toxics-release-inventory-tri-program&amp;text=Toxics%20Release%20Inventory%20(TRI)%20Program&amp;url=https://www.epa.gov/toxics-release-inventory-tri-program&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/toxics-release-inventory-tri-program" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/toxics-release-inventory-tri-program&amp;description=Toxics%20Release%20Inventory%20(TRI)%20Program&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="toxics-release-inventory-tri-program/forms/tri-program-contacts.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+  
+  
+  <div class="region-highlighted clearfix">  <div id="block-ds-extras-web-area-highlighted" class="block block-ds-extras  block-ds-extras-web-area-highlighted">
+
+  
+    
+  <ul class="epa-banner-field clearfix"><li class="epa-banner" style="background-image: url('sites/production/files/styles/microsite_banner/public/2015-01/tri_national_2013_v3.jpg.html');"><div class="banner-content"><h2 class="banner-title">2015 TRI National Analysis Now Available</h2><p>The TRI National Analysis offers analyses and interactive maps showing data at a state, county, city, and zip code level.</p>
+
+<p><a href="trinationalanalysis.html">Browse the 2015 National Analysis&nbsp;</a></p>
+</div></li><li class="epa-banner" style="background-image: url('sites/production/files/styles/microsite_banner/public/2016-06/reporting-calendar.jpg.html');"><div class="banner-content"><h2 class="banner-title">Start Your RY 2016 TRI Reporting</h2><div>A new version of TRI-MEweb, updated RY 2016 training materials, and a centralized way to access reporting instructions and guidance are all available&nbsp;<a href="node/17515.html">from the new,&nbsp;simpler TRI Reporting Portal.</a></div>
+
+<div>&nbsp;</div>
+</div></li><li class="epa-banner" style="background-image: url('sites/production/files/styles/microsite_banner/public/2017-01/epa-banner-images/istock_000002243147large.jpg');"><div class="banner-content"><h2 class="banner-title">TRI Proposes Adding Natural Gas Processing Facilities to List of Covered Sectors</h2><p><a href="node/165953.html">EPA is proposing to add natural gas processing facilities</a> to the scope of the industrial sectors covered by the Toxics Release Inventory.</p>
+</div></li></ul><div class="microsite-aside">
+
+  <div class="microsite-aside-content">
+
+          <div><iframe height="170" src="https://www.youtube.com/embed/Fqjh6t6Hx6s" width="270"></iframe></div>
+
+<ul><li><strong><a href="toxics-release-inventory-tri-program/30th-anniversary-toxics-release-inventory-tri-program.html">30 Years of TRI</a></strong></li>
+	<li><strong><a href="toxics-release-inventory-tri-program/recent-tri-program-news.html">Recent TRI News</a></strong></li>
+	<li><strong><a href="toxics-release-inventory-tri-program/tri-website-map.html">TRI Website Map</a></strong></li>
+</ul>    
+  </div>
+</div>
+  
+</div>
+  </div>
+  <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title element-invisible">Toxics Release Inventory (TRI) Program</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+  <div class="row row-a cols-1">          <div class="col">      
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-web-area clearfix view-mode-full ">
+
+  
+  <div id="tri-text">
+	<p>TRI is a resource for learning about toxic chemical releases and pollution prevention activities reported by industrial and federal facilities. TRI data support informed decision-making by communities, government agencies, companies, and others.</p>
+</div>
+</div>
+  </div>
+
+  
+  
+</div>
+
+      </div>                  </div>  <div class="row row-b cols-3">          <div class="col">      
+<div class="panel-pane pane-epa-core-html-pane" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="figure image mode-block_header" style="width:290px"><a href="toxics-release-inventory-tri-program/learn-about-toxics-release-inventory.html"><span
+    class="figure image file file-image file-image-jpeg view-mode-medium" style="width:290px;"><img alt="Click on the picture to learn more about the basics of the TRI Program." title="Click on the picture to learn more about the basics of the TRI Program." height="150" width="290" class="media-element file-medium" typeof="foaf:Image" src="sites/production/files/styles/medium/public/2014-12/tri-homepage_about.jpg.html" /></span></a></div>
+
+<ul><li><a href="toxics-release-inventory-tri-program/learn-about-toxics-release-inventory.html">Learn About TRI</a></li>
+	<li><a href="toxics-release-inventory-tri-program/basics-tri-reporting.html">Basics of TRI Reporting</a></li>
+	<li><a href="toxics-release-inventory-tri-program/descriptions-tri-data-terms.html">Common TRI Terms Explained</a></li>
+	<li><a href="toxics-release-inventory-tri-program/30th-anniversary-toxics-release-inventory-tri-program.html">TRI 30th Anniversary</a></li>
+</ul>  </div>
+
+  
+  
+</div>
+
+      </div>              <div class="col">      
+<div class="panel-pane pane-epa-core-html-pane" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="figure image mode-block_header" style="width:290px"><a href="toxics-release-inventory-tri-program/tri-resources.html"><span
+    class="figure image file file-image file-image-jpeg view-mode-medium" style="width:290px;"><img alt="Click on the picture to access TRI data and resources for specific users.  " title="Click on the picture to access TRI data and resources for specific users.  " height="150" width="290" class="media-element file-medium" typeof="foaf:Image" src="sites/production/files/styles/medium/public/2014-12/tri-homepage_resources.jpg.html" /></span></a></div>
+
+<ul><li><a href="trinationalanalysis.html">2015 TRI National Analysis Report</a></li>
+	<li><a href="toxics-release-inventory-tri-program/pollution-prevention-p2-and-tri.html">Pollution Prevention (P2) Data</a></li>
+	<li><a href="toxics-release-inventory-tri-program/tri-data-and-tools.html">Tools for TRI Data Analysis</a></li>
+	<li><a href="toxics-release-inventory-tri-program/tri-for-communities.html">TRI for Communities</a></li>
+</ul>  </div>
+
+  
+  
+</div>
+
+      </div>              <div class="col">      
+<div class="panel-pane pane-epa-core-html-pane" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="figure image mode-block_header" style="width:290px"><a href="tri/tri-reporting-directory.html"><span
+    class="figure image file file-image file-image-jpeg view-mode-medium" style="width:290px;"><img alt="Click on the picture to find resources for understanding TRI reporting requirements and for filling out and submitting TRI reporting forms." title="Click on the picture to find resources for understanding TRI reporting requirements and for filling out and submitting TRI reporting forms." height="150" width="290" class="media-element file-medium" typeof="foaf:Image" src="sites/production/files/styles/medium/public/2013-06/header-reporting3.jpg.html" /></span></a></div>
+
+<ul><li><a href="https://ofmpub.epa.gov/apex/guideme_ext/f?p=104:41:::NO:::">Reporting Instructions and Guidance</a></li>
+	<li><a href="toxics-release-inventory-tri-program/reporting-tri-facilities.html">TRI Facilities Portal</a></li>
+	<li><a href="tri/tri-threshold-screening-tool.html">Determine if Your Facility Must Report</a></li>
+	<li><a href="toxics-release-inventory-tri-program/electronic-submission-tri-reporting-forms.html">Electronic Reporting with TRI-MEweb</a></li>
+</ul>  </div>
+
+  
+  
+</div>
+
+      </div>          </div>                  
+<div class="panel-pane pane-epa-core-html-pane" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <h2>Find TRI Factsheets for Your Community</h2>
+
+<div class="row cols-2">
+	<div class="col size-3of4">
+		<div id="controls"><b>Search by:</b>  <input checked="checked" id="states" name="geo" type="radio" value="states" /> States   <input id="msa" name="geo" type="radio" value="msa" /> Metropolitan Areas   <input id="watershed" name="geo" type="radio" value="watershed" /> Watersheds   <input id="tribal" name="geo" type="radio" value="tribal" /> Tribal</div>
+
+		<div id="reports">
+			<div id="statefind">
+				<p><b>Search:</b>  State: <select id="state"><option value="none">Select...</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AS">American Samoa</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District Of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="GU">Guam</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="MP">Northern Mariana Is.</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="PR">Puerto Rico</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VI">Virgin Islands</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select> or Zip Code: <input id="zip" size="5" type="text" /> City: <input id="city" size="10" type="text" value="(Optional)" /> County: <input id="county" size="10" type="text" value="(Optional)" /><input id="locsearch" type="submit" value="Go" /></p>
+			</div>
+
+			<div id="msafind"><b>Search Metropolitan Areas:</b>  <input id="msasearch" size="25" type="text" value="Start typing for options..." /><input id="msago" type="submit" value="Go" /><input id="msaid" name="code" type="text" /></div>
+
+			<div id="watershedfind"><b>Search Watersheds:</b>  <select id="watershedsearch"><option value="none">Select...</option><option value="362">Chesapeake Bay</option><option value="261">Columbia River Basin</option><option value="258">Great Lakes Basin</option><option value="385">Gulf of Mexico</option><option value="600">Lake Champlain Basin</option><option value="353">Long Island Sound</option><option value="500">Pacific Islands</option><option value="142">Puget Sound-Georgia Basin</option><option value="257">San Francisco Bay Delta</option><option value="380">South Florida</option></select><input id="watershedgo" type="submit" value="Go" /></div>
+
+			<div id="tribalfind"><b>Search Tribes:</b>  <select id="tribalsearch"><option value="none">Select...</option><option value="Arapaho%20Tribe%20of%20the%20Wind%20River%20Reservation,%20Wyoming">Arapaho Tribe of the Wind River Reservation, Wyoming</option><option value="Coeur%20D%27Alene%20Tribe">Coeur D'Alene Tribe</option><option value="Colorado%20River%20Indian%20Tribes%20of%20the%20Colorado%20River%20Indian%20Reservation,%20Arizona%20and%20California">Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California</option><option value="Confederated%20Tribes%20and%20Bands%20of%20the%20Yakama%20Nation">Confederated Tribes and Bands of the Yakama Nation</option><option value="Gila%20River%20Indian%20Community%20of%20the%20Gila%20River%20Indian%20Reservation,%20Arizona">Gila River Indian Community of the Gila River Indian Reservation, Arizona</option><option value="Navajo%20Nation,%20Arizona,%20New%20Mexico%20and%20Utah">Navajo Nation, Arizona, New Mexico and Utah</option><option value="Nez%20Perce%20Tribe">Nez Perce Tribe</option><option value="Oneida%20Tribe%20of%20Indians%20of%20Wisconsin">Oneida Tribe of Indians of Wisconsin</option><option value="Puyallup%20Tribe%20of%20the%20Puyallup%20Reservation">Puyallup Tribe of the Puyallup Reservation</option><option value="Rincon%20Band%20of%20Luiseno%20Mission%20Indians%20of%20the%20Rincon%20Reservation,%20California">Rincon Band of Luiseno Mission Indians of the Rincon Reservation, California</option><option value="Saginaw%20Chippewa%20Indian%20Tribe%20of%20Michigan">Saginaw Chippewa Indian Tribe of Michigan</option><option value="Salt%20River%20Pima-Maricopa%20Indian%20Community%20of%20the%20Salt%20River%20Reservation,%20Arizona">Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona</option><option value="Sisseton-Wahpeton%20Oyate%20of%20the%20Lake%20Traverse%20Reservation,%20South%20Dakota">Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota</option><option value="Suquamish%20Indian%20Tribe%20of%20the%20Port%20Madison%20Reservation">Suquamish Indian Tribe of the Port Madison Reservation</option><option value="Tohono%20O%27odham%20Nation%20of%20Arizona">Tohono O'odham Nation of Arizona</option><option value="Tulalip%20Tribes%20of%20Washington%20(previously%20listed%20as%20the%20Tulalip%20Tribes%20of%20the%20Tulalip%20Reservation,%20Washington)">Tulalip Tribes of Washington</option><option value="Ute%20Indian%20Tribe%20of%20the%20Uintah%20and%20Ouray%20Reservation,%20Utah">Ute Indian Tribe of the Uintah and Ouray Reservation, Utah</option></select><input id="tribalgo" type="submit" value="Go" /></div>
+		</div>
+
+		<div id="specgraybox"><span
+    class="figure image file file-image file-image-png view-mode-full" style="width:652px;"><img alt="US Map" title="US Map" height="340" class="media-element file-full" usemap="#m_us-states" typeof="foaf:Image" src="sites/production/files/styles/large/public/2015-06/us-states_tri_homepage.png.html" /></span>
+			<p><strong>Note:</strong> Search results will display location-specific data based on facilities that reported to the TRI Program for 2015. Data are current as of October 2016.</p>
+		</div>
+		<map name="m_us-states" id="m_us-states"><area alt="Alabama" class="colorbox-inline" coords="291,168,293,218,298,220,303,219,301,212,326,209,324,203,324,193,320,188,313,166" href="toxics-release-inventory-tri-program.html#colorbox-alabama" shape="poly" title="Alabama" /><area alt="Alaska" class="colorbox-inline" coords="94,276,238,335" href="toxics-release-inventory-tri-program.html#colorbox-alaska" shape="rect" title="Alaska" /><area alt="American Samoa" class="colorbox-inline" coords="0,279,82,291" href="toxics-release-inventory-tri-program.html#colorbox-americansamoa" shape="rect" title="American Samoa" /><area alt="Arizona" class="colorbox-inline" coords="106,207,89,205,61,185,63,181,61,179,64,171,69,168,66,162,66,157,67,149,71,151,74,139,114,146" href="toxics-release-inventory-tri-program.html#colorbox-arizona" shape="poly" title="Arizona" /><area alt="Arkansas" class="colorbox-inline" coords="244,194,245,188,241,187,241,163,238,156,276,156,274,161,278,161,276,168,277,170,268,186,268,195" href="toxics-release-inventory-tri-program.html#colorbox-arkansas" shape="poly" title="Arkansas" /><area alt="California" class="colorbox-inline" coords="9,71,2,83,7,135,22,180,61,183,63,182,62,180,64,170,69,169,66,159,32,108,40,77" href="toxics-release-inventory-tri-program.html#colorbox-california" shape="poly" title="California" /><area alt="Colorado" class="colorbox-inline" coords="115,147,121,105,179,108,177,151" href="toxics-release-inventory-tri-program.html#colorbox-colorado" shape="poly" title="Colorado" /><area alt="Connecticut" class="colorbox-inline" coords="397,83,395,76,409,73,410,78,440,85,440,95,423,94,418,87,412,81" href="toxics-release-inventory-tri-program.html#colorbox-connecticut" shape="poly" title="Connecticut" /><area alt="Delaware" class="colorbox-inline" coords="386,102,388,114,393,114,405,120,423,120,423,108,406,109,392,111" href="toxics-release-inventory-tri-program.html#colorbox-delaware" shape="poly" title="Delaware" /><area alt="District of Columbia" class="colorbox-inline" coords="394,132,404,150,422,150,423,139" href="toxics-release-inventory-tri-program.html#colorbox-districtofcolumbia" shape="poly" title="District of Columbia" /><area alt="Florida" class="colorbox-inline" coords="357,208,352,206,353,212,350,213,349,210,328,212,327,210,300,212,303,216,302,219,366,269,398,255" href="toxics-release-inventory-tri-program.html#colorbox-florida" shape="poly" title="Florida" /><area alt="Georgia" class="colorbox-inline" coords="313,167,321,189,324,193,323,202,327,212,348,210,349,212,353,212,351,207,356,207,359,197,359,190,354,188,356,184,353,181,350,181,339,171,333,168,336,164" href="toxics-release-inventory-tri-program.html#colorbox-georgia" shape="poly" title="Georgia" /><area alt="Guam" class="colorbox-inline" coords="0,252,34,264" href="toxics-release-inventory-tri-program.html#colorbox-guam" shape="rect" title="Guam" /><area alt="Hawaii" class="colorbox-inline" coords="16,203,73,243" href="toxics-release-inventory-tri-program.html#colorbox-hawaii" shape="rect" title="Hawaii" /><area alt="Idaho" class="colorbox-inline" coords="77,12,69,43,73,45,71,51,65,58,65,68,60,83,104,92,109,66,93,63,89,53,85,52,86,47,88,43,86,41,81,30,84,13" href="toxics-release-inventory-tri-program.html#colorbox-idaho" shape="poly" title="Idaho" /><area alt="Illinois" class="colorbox-inline" coords="289,93,292,97,295,129,291,146,287,145,289,149,284,151,283,150,280,149,280,145,278,140,272,138,275,132,272,129,269,130,261,115,265,111,265,108,264,104,269,102,271,97,267,92" href="toxics-release-inventory-tri-program.html#colorbox-illinois" shape="poly" title="Illinois" /><area alt="Indiana" class="colorbox-inline" coords="291,98,310,95,316,125,315,129,310,129,307,136,305,134,292,139,294,131,295,125" href="toxics-release-inventory-tri-program.html#colorbox-indiana" shape="poly" title="Indiana" /><area alt="Iowa" class="colorbox-inline" coords="224,82,224,95,231,113,259,112,262,116,265,109,264,104,269,101,270,96,262,87,260,82" href="toxics-release-inventory-tri-program.html#colorbox-iowa" shape="poly" title="Iowa" /><area alt="Kansas" class="colorbox-inline" coords="178,150,179,120,231,120,235,124,234,125,237,129,238,152" href="toxics-release-inventory-tri-program.html#colorbox-kansas" shape="poly" title="Kansas" /><area alt="Kentucky" class="colorbox-inline" coords="283,154,288,149,287,146,290,146,291,139,305,134,307,136,311,129,316,129,316,124,321,125,322,126,334,127,337,131,340,139,332,147,295,152,292,150,290,153" href="toxics-release-inventory-tri-program.html#colorbox-kentucky" shape="poly" title="Kentucky" /><area alt="Louisiana" class="colorbox-inline" coords="245,194,244,209,248,211,247,228,278,235,292,233,285,221,281,217,266,217,271,201,268,199,268,195" href="toxics-release-inventory-tri-program.html#colorbox-louisiana" shape="poly" title="Louisiana" /><area alt="Maine" class="colorbox-inline" coords="405,36,409,10,419,8,434,31,413,60,411,60" href="toxics-release-inventory-tri-program.html#colorbox-maine" shape="poly" title="Maine" /><area alt="Maryland" class="colorbox-inline" coords="357,114,356,108,386,102,388,114,393,114,402,121,419,122,419,133,400,133,400,127,392,121,389,121,385,116,380,116,380,114,377,112,376,115,365,108" href="toxics-release-inventory-tri-program.html#colorbox-maryland" shape="poly" title="Maryland" /><area alt="Massachussets" class="colorbox-inline" coords="395,75,414,71,419,74,420,74,423,72,439,60,440,50,421,51,421,59,414,61,407,65,394,70" href="toxics-release-inventory-tri-program.html#colorbox-massachussets" shape="poly" title="Massachussets" /><area alt="Michigan" class="colorbox-inline" coords="265,47,282,35,305,40,321,47,330,81,323,92,295,96,301,88,300,78,297,75,297,68,286,60,283,55,276,51,274,53" href="toxics-release-inventory-tri-program.html#colorbox-michigan" shape="poly" title="Michigan" /><area alt="Minnesota" class="colorbox-inline" coords="219,24,218,30,217,34,220,39,222,63,224,65,224,82,261,81,260,77,254,71,252,70,251,62,250,57,253,55,253,46,269,31,246,24" href="toxics-release-inventory-tri-program.html#colorbox-minnesota" shape="poly" title="Minnesota" /><area alt="Mississippi" class="colorbox-inline" coords="292,168,293,218,285,221,281,217,266,216,271,201,268,200,268,186,276,170" href="toxics-release-inventory-tri-program.html#colorbox-mississippi" shape="poly" title="Mississippi" /><area alt="Missouri" class="colorbox-inline" coords="231,113,232,121,235,123,233,125,238,129,238,156,276,155,274,161,279,161,280,155,284,151,280,149,280,145,277,141,272,138,274,131,272,128,269,130,259,112" href="toxics-release-inventory-tri-program.html#colorbox-missouri" shape="poly" title="Missouri" /><area alt="Montana" class="colorbox-inline" coords="84,13,81,30,86,41,88,42,85,47,86,53,90,52,94,63,109,66,109,63,167,66,171,23" href="toxics-release-inventory-tri-program.html#colorbox-montana" shape="poly" title="Montana" /><area alt="Nebraska" class="colorbox-inline" coords="166,88,164,107,180,108,179,120,232,120,231,113,224,96,206,88" href="toxics-release-inventory-tri-program.html#colorbox-nebraska" shape="poly" title="Nebraska" /><area alt="Nevada" class="colorbox-inline" coords="39,77,33,108,66,160,67,148,71,151,83,89" href="toxics-release-inventory-tri-program.html#colorbox-nevada" shape="poly" title="Nevada" /><area alt="New Hampshire" class="colorbox-inline" coords="400,40,381,21,373,21,373,10,392,10,404,37,412,62,401,67" href="toxics-release-inventory-tri-program.html#colorbox-newhampshire" shape="poly" title="New Hampshire" /><area alt="New Jersey" class="colorbox-inline" coords="386,101,392,110,412,107,430,107,430,95,394,89,389,86,387,91,392,96" href="toxics-release-inventory-tri-program.html#colorbox-newjersey" shape="poly" title="New Jersey" /><area alt="New Mexico" class="colorbox-inline" coords="107,207,113,207,127,204,128,201,165,201,167,150,115,146" href="toxics-release-inventory-tri-program.html#colorbox-newmexico" shape="poly" title="New Mexico" /><area alt="New York" class="colorbox-inline" coords="350,82,354,69,377,48,388,44,390,63,392,63,397,84,411,82,405,87,395,89,388,87,383,79,350,86" href="toxics-release-inventory-tri-program.html#colorbox-newyork" shape="poly" title="New York" /><area alt="North Carolina" class="colorbox-inline" coords="344,145,344,150,340,153,337,153,335,156,333,156,331,160,329,160,326,165,355,160,357,161,364,161,377,168,403,153,395,135" href="toxics-release-inventory-tri-program.html#colorbox-northcarolina" shape="poly" title="North Carolina" /><area alt="North Dakota" class="colorbox-inline" coords="172,23,169,57,221,60,221,38,217,35,219,24" href="toxics-release-inventory-tri-program.html#colorbox-northdakota" shape="poly" title="North Dakota" /><area alt="Northern Mariana Islands" class="colorbox-inline" coords="0,293,83,316" href="toxics-release-inventory-tri-program.html#colorbox-northernmarianaislands" shape="rect" title="Northern Mariana Islands" /><area alt="Ohio" class="colorbox-inline" coords="311,94,323,92,344,86,347,101,344,102,346,106,342,117,340,117,334,127,323,126,316,124" href="toxics-release-inventory-tri-program.html#colorbox-ohio" shape="poly" title="Ohio" /><area alt="Oklahoma" class="colorbox-inline" coords="168,151,168,158,192,158,193,179,201,184,216,186,220,184,224,189,229,184,234,184,241,187,241,164,237,156,237,153" href="toxics-release-inventory-tri-program.html#colorbox-oklahoma" shape="poly" title="Oklahoma" /><area alt="Oregon" class="colorbox-inline" coords="24,29,29,31,30,38,36,39,38,38,45,41,56,40,72,45,71,51,65,58,65,66,60,83,9,70,8,58" href="toxics-release-inventory-tri-program.html#colorbox-oregon" shape="poly" title="Oregon" /><area alt="Pennsylvania" class="colorbox-inline" coords="344,85,349,110,385,102,392,96,387,91,389,87,382,80" href="toxics-release-inventory-tri-program.html#colorbox-pennsylvania" shape="poly" title="Pennsylvania" /><area alt="Puerto Rico" class="colorbox-inline" coords="249,271,304,300" href="toxics-release-inventory-tri-program.html#colorbox-puertorico" shape="rect" title="Puerto Rico" /><area alt="Rhode Island" class="colorbox-inline" coords="411,78,428,82,445,82,445,71,428,71,427,75,413,72,410,72" href="toxics-release-inventory-tri-program.html#colorbox-rhodeisland" shape="poly" title="Rhode Island" /><area alt="South Carolina" class="colorbox-inline" coords="336,164,333,167,336,169,341,172,343,174,350,181,353,181,355,184,355,188,359,190,373,177,377,168,366,161,358,162,355,160,341,161,341,163" href="toxics-release-inventory-tri-program.html#colorbox-southcarolina" shape="poly" title="South Carolina" /><area alt="South Dakota" class="colorbox-inline" coords="169,57,166,88,205,88,224,95,224,82,224,65,222,64,221,60" href="toxics-release-inventory-tri-program.html#colorbox-southdakota" shape="poly" title="South Dakota" /><area alt="Tennessee" class="colorbox-inline" coords="276,169,327,165,328,159,331,160,332,156,335,156,337,153,340,153,343,150,344,146,294,151,293,151,291,151,291,153,280,155" href="toxics-release-inventory-tri-program.html#colorbox-tennessee" shape="poly" title="Tennessee" /><area alt="Texas" class="colorbox-inline" coords="128,203,140,229,189,249,203,270,224,271,246,228,248,211,245,209,244,187,229,183,224,189,221,185,216,187,200,184,194,179,192,158,168,158,165,202,127,200" href="toxics-release-inventory-tri-program.html#colorbox-texas" shape="poly" title="Texas" /><area alt="Utah" class="colorbox-inline" coords="84,88,74,140,114,147,121,105,103,102,104,92" href="toxics-release-inventory-tri-program.html#colorbox-utah" shape="poly" title="Utah" /><area alt="Vermont" class="colorbox-inline" coords="367,37,387,45,390,63,392,62,394,70,400,67,401,41,385,27,367,26" href="toxics-release-inventory-tri-program.html#colorbox-vermont" shape="poly" title="Vermont" /><area alt="Virgin Islands" class="colorbox-inline" coords="322,268,357,302" href="toxics-release-inventory-tri-program.html#colorbox-virginislands" shape="rect" title="Virgin Islands" /><area alt="Virginia" class="colorbox-inline" coords="371,111,362,124,358,123,355,129,356,134,347,139,339,139,332,147,343,146,394,136,393,120,388,120,385,116,381,116,380,113,377,113,377,115" href="toxics-release-inventory-tri-program.html#colorbox-virginia" shape="poly" title="Virginia" /><area alt="Washington" class="colorbox-inline" coords="23,29,23,1,39,1,77,12,69,43,55,40,45,42,38,38,35,39,30,38" href="toxics-release-inventory-tri-program.html#colorbox-washington" shape="poly" title="Washington" /><area alt="West Virginia" class="colorbox-inline" coords="332,146,340,139,347,139,356,134,355,129,359,122,362,124,364,119,371,112,365,108,356,115,357,108,349,110,347,101,345,102,346,107,342,118,339,116,335,127" href="toxics-release-inventory-tri-program.html#colorbox-westvirginia" shape="poly" title="West Virginia" /><area alt="Wisconsin" class="colorbox-inline" coords="254,47,262,44,265,48,273,53,277,51,282,54,286,61,291,64,287,77,289,93,267,93,262,88,261,82,260,76,255,70,252,71,249,57,254,55" href="toxics-release-inventory-tri-program.html#colorbox-wisconsin" shape="poly" title="Wisconsin" /><area alt="Wyoming" class="colorbox-inline" coords="110,62,104,102,164,108,167,68" href="toxics-release-inventory-tri-program.html#colorbox-wyoming" shape="poly" title="Wyoming" /></map><div id="hidden-content">
+			<div class="colorbox-hidden" id="colorbox-alabama">
+				<h3>Alabama</h3>
+				Total on- and off-site disposal or other releases: 84,544,210.92 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-alaska">
+				<h3>Alaska</h3>
+				Total on- and off-site disposal or other releases: 586,438,952.14 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-arizona">
+				<h3>Arizona</h3>
+				Total on- and off-site disposal or other releases: 85,520,477.78 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-arkansas">
+				<h3>Arkansas</h3>
+				Total on- and off-site disposal or other releases: 32,820,421.41 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-california">
+				<h3>California</h3>
+				Total on- and off-site disposal or other releases: 31,262,131.85 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-colorado">
+				<h3>Colorado</h3>
+				Total on- and off-site disposal or other releases: 27,218,067.51 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-connecticut">
+				<h3>Connecticut</h3>
+				Total on- and off-site disposal or other releases: 1,512,947.48 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-delaware">
+				<h3>Delaware</h3>
+				Total on- and off-site disposal or other releases: 6,180,297.66 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-districtofcolumbia">
+				<h3>District of Columbia</h3>
+				Total on- and off-site disposal or other releases: 22,159.39 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-florida">
+				<h3>Florida</h3>
+				Total on- and off-site disposal or other releases: 60,541,062.19 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-georgia">
+				<h3>Georgia</h3>
+				Total on- and off-site disposal or other releases: 56,233,008.21 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-hawaii">
+				<h3>Hawaii</h3>
+				Total on- and off-site disposal or other releases: 2,569,578.12 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-idaho">
+				<h3>Idaho</h3>
+				Total on- and off-site disposal or other releases: 46,978,781.66 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-illinois">
+				<h3>Illinois</h3>
+				Total on- and off-site disposal or other releases: 115,508,200.26 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-indiana">
+				<h3>Indiana</h3>
+				Total on- and off-site disposal or other releases: 136,060,812.15 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-iowa">
+				<h3>Iowa</h3>
+				Total on- and off-site disposal or other releases: 35,315,577.37 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-kansas">
+				<h3>Kansas</h3>
+				Total on- and off-site disposal or other releases: 18,543,811.04 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-kentucky">
+				<h3>Kentucky</h3>
+				Total on- and off-site disposal or other releases: 62,345,343.92 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-louisiana">
+				<h3>Louisiana</h3>
+				Total on- and off-site disposal or other releases: 140,492,352.13 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-maine">
+				<h3>Maine</h3>
+				Total on- and off-site disposal or other releases: 9,449,081.20 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-maryland">
+				<h3>Maryland</h3>
+				Total on- and off-site disposal or other releases: 8,079,719.13 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-massachussets">
+				<h3>Massachussets</h3>
+				Total on- and off-site disposal or other releases: 3,392,685.17 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-michigan">
+				<h3>Michigan</h3>
+				Total on- and off-site disposal or other releases: 72,804,804.23 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-minnesota">
+				<h3>Minnesota</h3>
+				Total on- and off-site disposal or other releases: 26,085,660.58 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-mississippi">
+				<h3>Mississippi</h3>
+				Total on- and off-site disposal or other releases: 64,922,055.61 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-missouri">
+				<h3>Missouri</h3>
+				Total on- and off-site disposal or other releases: 75,491,116.57 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-montana">
+				<h3>Montana</h3>
+				Total on- and off-site disposal or other releases: 38,385,551.75 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-nebraska">
+				<h3>Nebraska</h3>
+				Total on- and off-site disposal or other releases: 20,929,989.15 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-nevada">
+				<h3>Nevada</h3>
+				Total on- and off-site disposal or other releases: 323,537,280.76 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-newhampshire">
+				<h3>New Hampshire</h3>
+				Total on- and off-site disposal or other releases: 471,293.63 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-newjersey">
+				<h3>New Jersey</h3>
+				Total on- and off-site disposal or other releases: 74,564,230.12 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-newmexico">
+				<h3>New Mexico</h3>
+				Total on- and off-site disposal or other releases: 22,398,411.35 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-newyork">
+				<h3>New York</h3>
+				Total on- and off-site disposal or other releases: 16,021,212.53 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-northcarolina">
+				<h3>North Carolina</h3>
+				Total on- and off-site disposal or other releases: 62,348,568.32 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-northdakota">
+				<h3>North Dakota</h3>
+				Total on- and off-site disposal or other releases: 46,911,141.39 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-ohio">
+				<h3>Ohio</h3>
+				Total on- and off-site disposal or other releases: 108,055,303.96 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-oklahoma">
+				<h3>Oklahoma</h3>
+				Total on- and off-site disposal or other releases: 26,892,337.07 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-oregon">
+				<h3>Oregon</h3>
+				Total on- and off-site disposal or other releases: 15,700,298.16 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-pennsylvania">
+				<h3>Pennsylvania</h3>
+				Total on- and off-site disposal or other releases: 65,926,515.52 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-rhodeisland">
+				<h3>Rhode Island</h3>
+				Total on- and off-site disposal or other releases: 460,541.90 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-southcarolina">
+				<h3>South Carolina</h3>
+				Total on- and off-site disposal or other releases: 38,985,962.93 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-southdakota">
+				<h3>South Dakota</h3>
+				Total on- and off-site disposal or other releases: 6,439,619.80 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-tennessee">
+				<h3>Tennessee</h3>
+				Total on- and off-site disposal or other releases: 86,737,425.35 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-texas">
+				<h3>Texas</h3>
+				Total on- and off-site disposal or other releases: 232,325,570.58 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-utah">
+				<h3>Utah</h3>
+				Total on- and off-site disposal or other releases: 229,213,528.60 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-vermont">
+				<h3>Vermont</h3>
+				Total on- and off-site disposal or other releases: 354,803.85 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-virginia">
+				<h3>Virginia</h3>
+				Total on- and off-site disposal or other releases: 38,726,321.41 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-washington">
+				<h3>Washington</h3>
+				Total on- and off-site disposal or other releases: 25,942,341.37 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-westvirginia">
+				<h3>West Virginia</h3>
+				Total on- and off-site disposal or other releases: 31,460,469.80 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-wisconsin">
+				<h3>Wisconsin</h3>
+				Total on- and off-site disposal or other releases: 32,060,073.97 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-wyoming">
+				<h3>Wyoming</h3>
+				Total on- and off-site disposal or other releases: 20,517,131.87 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-americansamoa">
+				<h3>American Samoa</h3>
+				Total on- and off-site disposal or other releases: 58,478.20 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-guam">
+				<h3>Guam</h3>
+				Total on- and off-site disposal or other releases: 467,032.62 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-northernmarianaislands">
+				<h3>Northern Mariana Islands</h3>
+				Total on- and off-site disposal or other releases: 5,544.82 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-puertorico">
+				<h3>Puerto Rico</h3>
+				Total on- and off-site disposal or other releases: 2,084,251.71 pounds</div>
+
+			<div class="colorbox-hidden" id="colorbox-virginislands">
+				<h3>Virgin Islands</h3>
+				Total on- and off-site disposal or other releases: 15,994.89 pounds</div>
+		</div>
+	</div>
+
+	<div class="col size-1of4">
+		<div class="box multi related-info right" style="width:200px">
+			<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USAEPATRI/subscriber/qualify" class="govdelivery-form" id="GD-snippet-form" method="post" target="_blank">
+				<div><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="7Mfj0+YD7NB0wdwFUU5YBmMU8w36TvhfTwpQKEiOSSw=" /></div>
+
+				<fieldset class="govdelivery-fieldset"><legend class="govdelivery-legend">Get email<br />
+					alerts</legend> <input id="email" name="email" placeholder="Enter your email" size="15" style="width:125px" type="text" /><input class="govdelivery-submit" name="commit" type="submit" value="sign up" /></fieldset></form>
+
+			<h2 class="pane-title">Find TRI Facilities</h2>
+
+			<div class="pane-content">
+				<div id="contentSearch">
+					<form id="searchform"><label for="Street">Street</label> <input name="street" type="text" /><label for="City">City</label> <input name="city" type="text" /><label for="State">State</label> <input name="state" type="text" /><label for="Zip">Zip</label> <input name="zip" type="text" /><br /><br /><button id="findfacilities" type="button">Find Facilities</button></form>
+
+					<p><small><strong>Note:</strong> Search results will display facilities that reported to the TRI Program for 2015. Data are current as of October 2016. Search uses the myRTK tool.</small></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+
+  
+  
+</div>
+
+                                            <div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="toxics-release-inventory-tri-program/forms/tri-program-contacts.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  </section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="accessibility.html">Accessibility</a></li>
+      <li><a href="aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="contracts.html">Contracting</a></li>
+      <li><a href="grants.html">Grants</a></li>
+      <li><a href="ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="careers.html">Jobs</a></li>
+      <li><a href="newsroom.html">Newsroom</a></li>
+      <li><a href="open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="foia.html">FOIA Requests</a></li>
+      <li><a href="home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on January 25, 2017</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="sites/all/modules/custom/epa_core/js/alert-oke86b.js"></script>
+<script type="text/javascript" src="sites/production/files/js/js_DBsMAW8EsQeh_DLbxt9isNkGBGTiUkUZLDDBvcmxSkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"6E5V1nFdZbtSra1uGOqM7q9gl0THtSfts3T7DZ7ZR7U"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"3149"}});
+//--><!]]>
+</script>
+<script src="sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js"></script>
+<script>
+ jQuery(document).ready(function() {
+  jQuery("#tri-text").addClass('region-highlighted');
+  jQuery("#tri-text").css({'margin':'0px'});
+ //jQuery("#tri-text").css({'padding-left':'10px'});
+  // Hide the inline contents
+  jQuery("#hidden-content").css({'display':'none'});
+  // Open inlined content in "box"
+  jQuery(".colorbox-inline").colorbox({inline:true,width:"25%",opacity:"0.10",title:false});
+ });
+</script>
+
+<script src="sites/all/libraries/rwdimagemaps/jquery.rwdImageMaps.min.js"></script>
+<script>
+  jQuery(document).ready(function(e) {
+    jQuery('img[usemap]').rwdImageMaps();
+  });
+</script>
+
+<style>#float_left {
+float: left;
+}
+
+#float_right {
+float: right;
+}
+
+#specgraybox {
+
+padding-top: 30px;
+padding-left: 15px;
+padding-left: 15px;
+border:2px solid #b7b7b7;
+ -moz-box-sizing:    border-box;
+   -webkit-box-sizing: border-box;
+    box-sizing:        border-box;
+
+}
+</style>
+<script>
+if(document.attachEvent) {
+var OldIframe = document.getElementById("mapframe");
+var OldIframe1 = document.getElementById("widgetframe");
+
+var NewIframe = OldIframe.cloneNode(true);
+var NewIframe1 = OldIframe1.cloneNode(true);
+
+//no scrollbars - overflow:hidden works for other browsers
+NewIframe.setAttribute("scrolling", "no");
+NewIframe1.setAttribute("scrolling", "no");
+
+// IE8 and lower add a special border on frames.
+// It's actually in addition to the css border property.
+if(!document.addEventListener)
+NewIframe.setAttribute("frameBorder", 0);
+NewIframe1.setAttribute("frameBorder", 0);
+OldIframe.parentNode.replaceChild(NewIframe, OldIframe);
+OldIframe1.parentNode.replaceChild(NewIframe1, OldIframe1);
+
+}
+</script>
+
+
+<script type="text/javascript" src="http://myrtk.epa.gov/info/js/cookies.js"></script> 	 
+<script type="text/javascript" src="http://myrtk.epa.gov/info/js/core.js"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript" src="http://myrtk.epa.gov/info/js/geolocate.js"></script>
+	
+<script type="text/javascript"> 
+window.onload = function() { 
+   initialize(); 
+} 
+</script> 
+
+<script type="text/javascript">
+		var map = null;
+		var geocoder = null;
+		
+		function initialize() {		
+				geocoder = new google.maps.Geocoder();
+		}
+		
+		function showAddressBasedOnURL() {
+				
+			showAddress();
+			}
+	
+		
+		function showAddress() {
+			if (geocoder) {
+				var inputs = document.getElementsByClassName("searchbox");
+				var addr = "";
+addr += jQuery("input[name='street']").attr('value').trim()+" ";
+addr += jQuery("input[name='city']").attr('value').trim()+" ";
+addr += jQuery("input[name='state']").attr('value').trim()+" ";
+addr += jQuery("input[name='zip']").attr('value').trim();
+				
+				geocoder.geocode({'address': addr, 'region': 'us'}, function(results, status) {
+
+					if (status == google.maps.GeocoderStatus.OK) {
+
+						
+					
+					window.location = "http://myrtk.epa.gov/info/map.jsp?point="+results[0].geometry.location.toUrlValue();
+					cookieZommGen();
+					return false;
+					} else {
+						alert("Please enter an address.");
+					
+					}
+				});
+			} else { alert("Geocoder is failing."); }
+		}
+
+		window.scrollTo(80, 0);
+
+	function cookieZommGen() {
+			del_cookie('centerlevel');		
+			setCookie('centerlevel',13,1);
+		}
+jQuery(document).ready( function() {
+jQuery("#findfacilities").click( function() {
+showAddress(); 
+return false;
+});
+});
+	</script>
+
+
+<script src="sites/all/libraries/js/highcharts/highcharts.js"></script>
+<script src="sites/all/libraries/js/highcharts/modules/exporting.js"></script>
+<script>
+jQuery(function () {
+
+Highcharts.setOptions({
+			lang: {
+				myButton: "Export",
+				myButton1: "Print",
+				thousandsSep:','
+			}
+		});
+
+	    jQuery('#disposal').highcharts({
+        chart: {
+            type: 'bar',
+marginRight:30,
+marginLeft:250,
+            height:500
+        },
+		colors: ['#DC6D01','#38551D','#136594','#CBE3FD'],
+		exporting: {
+			buttons: {
+				contextButton: {
+					enabled: false
+					},
+				exportButton: {
+					_id: 'myButton',
+					_titleKey: "myButton",
+					//text: 'Download',
+					symbol: 'url(/sites/production/files/2014-12/download_20.png)',
+					// Use only the download related menu items from the default context button
+					menuItems: Highcharts.getOptions().exporting.buttons.contextButton.menuItems.splice(2)
+				},
+				printButton: {
+					_id: 'myButton1',
+					_titleKey: "myButton1",
+					// text: 'Print',
+					symbol: 'url(/sites/production/files/2014-12/print_20.png)',
+					onclick: function () {
+						this.print();
+					}
+				}
+			}
+		},
+		credits: {
+            enabled: false
+        },
+        title: {
+            text: 'TRI Disposal or Other Releases by Large Aquatic Ecosystem, 2013'
+        },
+        xAxis: {
+            categories: ['Gulf of Mexico* (367 million lb)','Great Lakes  (218 million lb)','Columbia River Basin (93 million lb)','Chesapeake Bay (51 million lb)','San Francisco Bay Delta (36 million lb)','Puget Sound-Georgia Basin (7 million lb)','Long Island Sound (4 million lb)','Lake Champlain Basin (615 thousand lb)','Pacific Islands (533 thousand lb)']
+        },
+        yAxis: {
+			max: 100,
+            title: {
+                text: '<b>Percent of Total</b>'
+            },
+			labels: {
+                format: '{value}%'
+            }
+        },
+        legend: {
+        	reversed: true,
+		borderWidth:1,
+		verticalAlign: 'top',
+		y:25,
+			  title: {
+				text: '<span style="font-size: 12px; color: #666; font-weight: normal;">Click on legend items below to customize items displayed in the chart</span>',
+				style: {
+					fontStyle: 'italic'
+					},
+				}
+        },
+		tooltip: {
+            valueDecimals: 2,
+            valueSuffix: '%',
+	    formatter: function () {
+                return '<b>' + this.x + '<b><br/>' +
+                    this.series.name + ': ' + Highcharts.numberFormat(this.y,2) + '%';
+            }
+        },
+        plotOptions: {
+            series: {
+                stacking: 'normal'
+            }
+        },
+        series: [{
+            name: 'Total Off-site Disposal or Other Releases',
+            data: [10.6284775768802, 32.4764315147261, 10.2639464920557, 17.2383840802555, 5.17128005333856, 24.806396229933, 53.7921199074366, 12.4222239559968, 0.000751129981165416]
+        }, {
+            name: 'Land',
+            data: [50.8097716736657, 35.1140259638486, 69.2384621105639, 13.4628764382173, 79.9628304935672, 7.86308587587367, 0.0566468972356904, 13.1699142431749, 0.747374331259589]
+        }, {
+            name: 'Water',
+            data: [7.70327209826226, 4.20188519551595, 4.59472104019123, 12.6208816327107, 4.39252635912878, 9.60156078193275, 5.24570437944714, 37.7065088064913, 34.114258137085]
+        }, {
+            name: 'Air',
+            data: [30.8584786511918, 28.2076573259093, 15.9028703571892, 56.6778578488166, 10.4733630939655, 57.7289571122606, 40.9055288158806, 36.7013529943371, 65.1376164016743]
+        }]
+	},
+        function(chart) { // on complete
+             chart.renderer.text('*includes South Florida Geographic Initiative facilities', 0, 490)
+            .css({
+                color: '#2F4F4F',
+                fontSize: '11px'
+            })
+            .add();
+    });
+	
+	
+    jQuery('#disposalpersqmile').highcharts({
+        chart: {
+            type: 'bar',
+            height:430
+        },
+		colors: ['#b73340'],
+		exporting: {
+			buttons: {
+				contextButton: {
+					enabled: false
+					},
+				exportButton: {
+					_id: 'myButton',
+					_titleKey: "myButton",
+					//text: 'Download',
+					symbol: 'url(/sites/production/files/2014-12/download_20.png)',
+					// Use only the download related menu items from the default context button
+					menuItems: [{
+						text: 'Download PNG image',
+						onclick: function () {
+							this.exportChart()}},
+						{
+						text: 'Download JPEG image',
+						onclick: function () {
+							this.exportChart({type:"image/jpeg"})}},
+						{
+						text: 'Download PDF document',
+						onclick: function() {
+							this.exportChart({type:"application/pdf"})}},
+						{
+						text: 'Download SVG vector image',
+						onclick: function() {
+							this.exportChart({type:"image/svg+xml"})}}]
+				},
+				printButton: {
+					_id: 'myButton1',
+					_titleKey: "myButton1",
+					// text: 'Print',
+					symbol: 'url(/sites/production/files/2014-12/print_20.png)',
+					onclick: function () {
+						this.print();
+					}
+				}
+			}
+		},
+        title: {
+            text: 'Total Disposal or Other Releases by Large Aquatic Ecosystem<br />per Square Mile, 2013'
+        },
+		credits: {
+            enabled: false
+        },
+        xAxis: {
+            categories: ['Gulf of Mexico*','Great Lakes','Pacific Islands','Chesapeake Bay','San Francisco Bay Delta','Puget Sound - Georgia Basin','Columbia River Basin','Long Island Sound','Lake Champlain Basin'],
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: '<b>Pounds per Sq. Mile</b>',
+            },
+            labels: {                
+overflow: 'justify',
+formatter: function() {
+return Highcharts.numberFormat(this.value,0);}
+            }
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: false
+                }
+            }
+        },
+        legend: {
+            enabled: false
+		},
+        credits: {
+            enabled: false
+        },
+		tooltip: {
+		   formatter: function () {
+                    return '<b>' + this.x + '<b><br/>' +
+                    Highcharts.numberFormat(this.y,0) + ' pounds per sq. mile';
+            }
+		},
+        series: [{
+            data: [3403.55649656502, 1228.59341115079, 1089.79454045228, 736.57982993431, 520.670428745704, 480.505616359985, 426.189834129056, 232.769496715756, 79.5950535118813],
+			name: 'Pounds per Sq Mile:'
+		}
+		]
+	},
+        function(chart) { // on complete
+             chart.renderer.text('*includes South Florida Geographic Initiative facilities', 0, 420)
+            .css({
+                color: '#2F4F4F',
+                fontSize: '11px'
+            })
+            .add();
+    });
+});
+	
+jQuery( document ).ready(function() {
+jQuery("#controls").css({"background-color":"#ebbb8a","margin-right":"0px","padding":"3px 8px","border-width":"2px 2px 0 2px","border-style":"solid","border-color":"#b7b7b7"});
+jQuery("#reports").css({"background-color":"#efefef","padding":"3px 8px","margin-right":"0px","border-width":"2px 2px 0 2px","border-style":"solid","border-color":"#b7b7b7"});
+jQuery("#locsearch").css({"margin":"0","margin":"0 0 4px 6px"});
+jQuery("#msafind").css({"display":"none","top":"6px","left":"8px","font-size":"12px"});
+jQuery("#statefind").css({"top":"6px","left":"8px","font-size":"12px"});
+jQuery("#msasearch").css({"z-index":"10000"});
+jQuery("#msago").css({"margin":"0 0 0 6px"});
+jQuery("#msaid").css({"display":"none"});
+jQuery("#watershedfind").css({"display":"none","top":"6px","left":"8px","font-size":"12px"});
+jQuery("#watershedgo").css({"margin":"0 0 0 6px"});
+jQuery("#tribalfind").css({"display":"none","top":"6px","left":"8px","font-size":"12px"});
+jQuery("#tribalsearch").css({"word-wrap":"break-word","width":"90%"});
+jQuery("#tribalgo").css({"margin":"0 0 0 6px"});
+jQuery("#maparea").css({"height":"650px","margin-right":"10px"});
+jQuery("#theme").css({"top":"8px","left":"100px","z-index":"100","font-size":"11.5px","color":"white"});
+jQuery("#maptheme").css({"font-size":"11px"});
+jQuery("#map_state_total").css({"top":"0","left":"0","z-index":"22"});
+jQuery("#map_state_air").css({"top":"0","left":"0","z-index":"21"});
+jQuery("#map_state_water").css({"top":"0","left":"0","z-index":"20"});
+jQuery("#map_state_land").css({"top":"0","left":"0","z-index":"19"});
+jQuery("#map_msa_total").css({"top":"0","left":"0","z-index":"18"});
+jQuery("#map_msa_air").css({"top":"0","left":"0","z-index":"17"});
+jQuery("#map_msa_water").css({"top":"0","left":"0","z-index":"16"});
+jQuery("#map_msa_land").css({"top":"0","left":"0","z-index":"15"});
+jQuery("#map_lae_total").css({"top":"0","left":"0","z-index":"14"});
+jQuery("#map_lae_air").css({"top":"0","left":"0","z-index":"13"});
+jQuery("#map_lae_water").css({"top":"0","left":"0","z-index":"12"});
+jQuery("#map_lae_land").css({"top":"0","left":"0","z-index":"11"});
+jQuery("#map_tribal").css({"top":"0","left":"0","z-index":"10"});
+jQuery("#map_state_pop").css({"top":"0","left":"0","z-index":"9"});
+jQuery("#map_msa_pop").css({"top":"0","left":"0","z-index":"8"});
+jQuery("#map_lae_pop").css({"top":"0","left":"0","z-index":"7"});
+jQuery("#map_state_total p,#map_state_total p,#map_state_air p,#map_state_water p,#map_state_land p,#map_msa_total p,#map_msa_air p,#map_msa_water p,#map_msa_land p,#map_lae_total p,#map_lae_air p,#map_lae_water p,#map_lae_land p,#map_tribal p,#map_msa_pop p,#map_state_pop p,#map_lae_pop p").css("background-color","white");
+
+
+jQuery('#states').click(function(){
+	jQuery('#statefind').show();
+	jQuery('#msafind').hide();	
+	jQuery('#watershedfind').hide();	
+	jQuery('#tribalfind').hide();	  
+	jQuery('#theme').show();
+   if(jQuery("#maptheme option:selected").index() == 0) {	
+jQuery("#map_state_total").css("z-index","22");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 1) {
+jQuery("#map_state_total").css("z-index","21");
+jQuery("#map_state_air").css("z-index","22");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");		
+   }
+   if(jQuery("#maptheme option:selected").index() == 2) {	
+jQuery("#map_state_total").css("z-index","20");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","22");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 3) {
+jQuery("#map_state_total").css("z-index","19");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","22");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() ==4) {
+jQuery("#map_state_total").css("z-index","19");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","9");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","22");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+});
+jQuery('#msa').click(function(){	
+	jQuery('#statefind').hide();
+	jQuery('#msafind').show();
+	jQuery('#watershedfind').hide();	  
+	jQuery('#tribalfind').hide();
+	jQuery('#theme').show();	
+   if(jQuery("#maptheme option:selected").index() == 0) {	
+jQuery("#map_state_total").css("z-index","18");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","22");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 1) {
+jQuery("#map_state_total").css("z-index","17");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","22");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 2) {	
+jQuery("#map_state_total").css("z-index","16");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","22");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 3) {
+jQuery("#map_state_total").css("z-index","15");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","22");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 4) {
+jQuery("#map_state_total").css("z-index","15");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","8");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","22");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+});
+jQuery('#watershed').click(function(){
+	jQuery('#statefind').hide();
+	jQuery('#msafind').hide();
+	jQuery('#watershedfind').show();	
+	jQuery('#tribalfind').hide();		
+	jQuery('#theme').show();
+   if(jQuery("#maptheme option:selected").index() == 0) {	
+jQuery("#map_state_total").css("z-index","14");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","22");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");		
+   }
+   if(jQuery("#maptheme option:selected").index() == 1) {
+jQuery("#map_state_total").css("z-index","13");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","22");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 2) {	
+jQuery("#map_state_total").css("z-index","12");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","22");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 3) {
+jQuery("#map_state_total").css("z-index","11");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","22");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+   }
+   if(jQuery("#maptheme option:selected").index() == 4) {
+jQuery("#map_state_total").css("z-index","11");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","7");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","22");	
+   }
+});	
+jQuery('#tribal').click(function(){
+	jQuery('#statefind').hide();
+	jQuery('#msafind').hide();
+	jQuery('#watershedfind').hide();
+	jQuery('#tribalfind').show();	
+	jQuery('#theme').hide();	
+jQuery("#map_state_total").css("z-index","10");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","22");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+});	
+jQuery( "#maptheme" ).change(function() {
+   if(jQuery("#maptheme option:selected").index() == 0) {
+	   if(jQuery('#states').is(':checked')) {
+jQuery("#map_state_total").css("z-index","22");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#msa').is(':checked')) {
+jQuery("#map_state_total").css("z-index","18");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","22");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#watershed').is(':checked')) {
+jQuery("#map_state_total").css("z-index","14");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","22");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+   }
+   if(jQuery("#maptheme option:selected").index() == 1) {
+	   if(jQuery('#states').is(':checked')) {
+jQuery("#map_state_total").css("z-index","21");
+jQuery("#map_state_air").css("z-index","22");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#msa').is(':checked')) {
+jQuery("#map_state_total").css("z-index","17");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","22");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+	   else if(jQuery('#watershed').is(':checked')) {
+jQuery("#map_state_total").css("z-index","13");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","22");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+   }
+   if(jQuery("#maptheme option:selected").index() == 2) {
+	   if(jQuery('#states').is(':checked')) {
+jQuery("#map_state_total").css("z-index","20");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","22");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#msa').is(':checked')) {
+jQuery("#map_state_total").css("z-index","16");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","22");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");	
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+         }
+	   else if(jQuery('#watershed').is(':checked')) {
+jQuery("#map_state_total").css("z-index","12");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","22");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+   }
+   if(jQuery("#maptheme option:selected").index() == 3) {
+	   if(jQuery('#states').is(':checked')) {
+jQuery("#map_state_total").css("z-index","19");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","22");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#msa').is(':checked')) {
+jQuery("#map_state_total").css("z-index","15");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","22");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+	   else if(jQuery('#watershed').is(':checked')) {
+jQuery("#map_state_total").css("z-index","11");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","22");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+   }
+   if(jQuery("#maptheme option:selected").index() == 4) {
+	   if(jQuery('#states').is(':checked')) {
+jQuery("#map_state_total").css("z-index","19");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","9");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","22");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }
+	   else if(jQuery('#msa').is(':checked')) {
+jQuery("#map_state_total").css("z-index","15");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","8");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","11");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","22");
+jQuery("#map_lae_pop").css("z-index","7");	
+	   }		
+	   else if(jQuery('#watershed').is(':checked')) {
+jQuery("#map_state_total").css("z-index","11");
+jQuery("#map_state_air").css("z-index","21");
+jQuery("#map_state_water").css("z-index","20");
+jQuery("#map_state_land").css("z-index","19");
+jQuery("#map_msa_total").css("z-index","18");
+jQuery("#map_msa_air").css("z-index","17");
+jQuery("#map_msa_water").css("z-index","16");
+jQuery("#map_msa_land").css("z-index","15");
+jQuery("#map_lae_total").css("z-index","14");
+jQuery("#map_lae_air").css("z-index","13");
+jQuery("#map_lae_water").css("z-index","12");
+jQuery("#map_lae_land").css("z-index","7");
+jQuery("#map_tribal").css("z-index","10");
+jQuery("#map_state_pop").css("z-index","9");
+jQuery("#map_msa_pop").css("z-index","8");
+jQuery("#map_lae_pop").css("z-index","22");	
+	   }		
+   }
+});
+});
+	jQuery(function() {
+		jQuery('#msasearch').click(function(){
+		if( jQuery(this).val() == 'Start typing for options...'){
+			jQuery(this).val('');
+		}	
+		});
+		jQuery('#county').click(function(){
+		if( jQuery(this).val() == '(Optional)'){
+			jQuery(this).val('');
+		}
+		});
+		jQuery('#city').click(function(){
+		if( jQuery(this).val() == '(Optional)'){
+			jQuery(this).val('');
+		}
+		});
+
+		jQuery( "#msasearch" ).autocomplete({ 
+			minLength: 2,
+			focus: function(event, ui) {
+				event.preventDefault();
+				jQuery(this).val(ui.item.label);
+				},
+			source: [
+				{ label: "Aberdeen, SD", value: "1"},
+{ label: "Aberdeen, WA", value: "2"},
+{ label: "Abilene, TX", value: "3"},
+{ label: "Ada, OK", value: "4"},
+{ label: "Adjuntas, PR", value: "5"},
+{ label: "Adrian, MI", value: "6"},
+{ label: "Aguadilla-Isabela, PR", value: "7"},
+{ label: "Akron, OH", value: "8"},
+{ label: "Alamogordo, NM", value: "9"},
+{ label: "Albany, GA", value: "10"},
+{ label: "Albany, OR", value: "11"},
+{ label: "Albany-Schenectady-Troy, NY", value: "12"},
+{ label: "Albemarle, NC", value: "13"},
+{ label: "Albert Lea, MN", value: "14"},
+{ label: "Albertville, AL", value: "15"},
+{ label: "Albuquerque, NM", value: "16"},
+{ label: "Alexandria, LA", value: "17"},
+{ label: "Alexandria, MN", value: "18"},
+{ label: "Alice, TX", value: "19"},
+{ label: "Allentown-Bethlehem-Easton, PA-NJ", value: "20"},
+{ label: "Alma, MI", value: "21"},
+{ label: "Alpena, MI", value: "22"},
+{ label: "Altoona, PA", value: "23"},
+{ label: "Altus, OK", value: "24"},
+{ label: "Amarillo, TX", value: "25"},
+{ label: "Americus, GA", value: "26"},
+{ label: "Ames, IA", value: "27"},
+{ label: "Amsterdam, NY", value: "28"},
+{ label: "Anchorage, AK", value: "29"},
+{ label: "Andrews, TX", value: "30"},
+{ label: "Angola, IN", value: "31"},
+{ label: "Ann Arbor, MI", value: "32"},
+{ label: "Anniston-Oxford-Jacksonville, AL", value: "33"},
+{ label: "Appleton, WI", value: "34"},
+{ label: "Arcadia, FL", value: "35"},
+{ label: "Ardmore, OK", value: "36"},
+{ label: "Arecibo, PR", value: "37"},
+{ label: "Arkadelphia, AR", value: "38"},
+{ label: "Arkansas City-Winfield, KS", value: "39"},
+{ label: "Asheville, NC", value: "40"},
+{ label: "Ashland, OH", value: "41"},
+{ label: "Ashtabula, OH", value: "42"},
+{ label: "Astoria, OR", value: "43"},
+{ label: "Atchison, KS", value: "44"},
+{ label: "Athens, OH", value: "45"},
+{ label: "Athens, TN", value: "46"},
+{ label: "Athens, TX", value: "47"},
+{ label: "Athens-Clarke County, GA", value: "48"},
+{ label: "Atlanta-Sandy Springs-Roswell, GA", value: "49"},
+{ label: "Atlantic City-Hammonton, NJ", value: "50"},
+{ label: "Auburn, IN", value: "51"},
+{ label: "Auburn, NY", value: "52"},
+{ label: "Auburn-Opelika, AL", value: "53"},
+{ label: "Augusta-Richmond County, GA-SC", value: "54"},
+{ label: "Augusta-Waterville, ME", value: "55"},
+{ label: "Austin, MN", value: "56"},
+{ label: "Austin-Round Rock, TX", value: "57"},
+{ label: "Bainbridge, GA", value: "58"},
+{ label: "Bakersfield, CA", value: "59"},
+{ label: "Baltimore-Columbia-Towson, MD", value: "60"},
+{ label: "Bangor, ME", value: "61"},
+{ label: "Baraboo, WI", value: "62"},
+{ label: "Bardstown, KY", value: "63"},
+{ label: "Barnstable Town, MA", value: "64"},
+{ label: "Barre, VT", value: "65"},
+{ label: "Bartlesville, OK", value: "66"},
+{ label: "Bastrop, LA", value: "67"},
+{ label: "Batavia, NY", value: "68"},
+{ label: "Batesville, AR", value: "69"},
+{ label: "Baton Rouge, LA", value: "70"},
+{ label: "Battle Creek, MI", value: "71"},
+{ label: "Bay City, MI", value: "72"},
+{ label: "Bay City, TX", value: "73"},
+{ label: "Beatrice, NE", value: "74"},
+{ label: "Beaumont-Port Arthur, TX", value: "75"},
+{ label: "Beaver Dam, WI", value: "76"},
+{ label: "Beckley, WV", value: "77"},
+{ label: "Bedford, IN", value: "78"},
+{ label: "Beeville, TX", value: "79"},
+{ label: "Bellefontaine, OH", value: "80"},
+{ label: "Bellingham, WA", value: "81"},
+{ label: "Bemidji, MN", value: "82"},
+{ label: "Bend-Redmond, OR", value: "83"},
+{ label: "Bennettsville, SC", value: "84"},
+{ label: "Bennington, VT", value: "85"},
+{ label: "Berlin, NH-VT", value: "86"},
+{ label: "Big Rapids, MI", value: "87"},
+{ label: "Big Spring, TX", value: "88"},
+{ label: "Big Stone Gap, VA", value: "89"},
+{ label: "Billings, MT", value: "90"},
+{ label: "Binghamton, NY", value: "91"},
+{ label: "Birmingham-Hoover, AL", value: "92"},
+{ label: "Bismarck, ND", value: "93"},
+{ label: "Blackfoot, ID", value: "94"},
+{ label: "Blacksburg-Christiansburg-Radford, VA", value: "95"},
+{ label: "Bloomington, IL", value: "96"},
+{ label: "Bloomington, IN", value: "97"},
+{ label: "Bloomsburg-Berwick, PA", value: "98"},
+{ label: "Bluefield, WV-VA", value: "99"},
+{ label: "Blytheville, AR", value: "100"},
+{ label: "Bogalusa, LA", value: "101"},
+{ label: "Boise City, ID", value: "102"},
+{ label: "Boone, IA", value: "103"},
+{ label: "Boone, NC", value: "104"},
+{ label: "Borger, TX", value: "105"},
+{ label: "Boston-Cambridge-Newton, MA-NH", value: "106"},
+{ label: "Boulder, CO", value: "107"},
+{ label: "Bowling Green, KY", value: "108"},
+{ label: "Bozeman, MT", value: "109"},
+{ label: "Bradford, PA", value: "110"},
+{ label: "Brainerd, MN", value: "111"},
+{ label: "Branson, MO", value: "112"},
+{ label: "Breckenridge, CO", value: "113"},
+{ label: "Bremerton-Silverdale, WA", value: "114"},
+{ label: "Brenham, TX", value: "115"},
+{ label: "Brevard, NC", value: "116"},
+{ label: "Bridgeport-Stamford-Norwalk, CT", value: "117"},
+{ label: "Brookhaven, MS", value: "118"},
+{ label: "Brookings, OR", value: "119"},
+{ label: "Brookings, SD", value: "120"},
+{ label: "Brownsville-Harlingen, TX", value: "121"},
+{ label: "Brownwood, TX", value: "122"},
+{ label: "Brunswick, GA", value: "123"},
+{ label: "Bucyrus, OH", value: "124"},
+{ label: "Buffalo-Cheektowaga-Niagara Falls, NY", value: "125"},
+{ label: "Burley, ID", value: "126"},
+{ label: "Burlington, IA-IL", value: "127"},
+{ label: "Burlington, NC", value: "128"},
+{ label: "Burlington-South Burlington, VT", value: "129"},
+{ label: "Butte-Silver Bow, MT", value: "130"},
+{ label: "Cadillac, MI", value: "131"},
+{ label: "Calhoun, GA", value: "132"},
+{ label: "California-Lexington Park, MD", value: "133"},
+{ label: "Cambridge, MD", value: "134"},
+{ label: "Cambridge, OH", value: "135"},
+{ label: "Camden, AR", value: "136"},
+{ label: "Campbellsville, KY", value: "137"},
+{ label: "Cañon City, CO", value: "138"},
+{ label: "Canton, IL", value: "139"},
+{ label: "Canton-Massillon, OH", value: "140"},
+{ label: "Cape Coral-Fort Myers, FL", value: "141"},
+{ label: "Cape Girardeau, MO-IL", value: "142"},
+{ label: "Carbondale-Marion, IL", value: "143"},
+{ label: "Carlsbad-Artesia, NM", value: "144"},
+{ label: "Carson City, NV", value: "145"},
+{ label: "Casper, WY", value: "146"},
+{ label: "Cedar City, UT", value: "147"},
+{ label: "Cedar Rapids, IA", value: "148"},
+{ label: "Cedartown, GA", value: "149"},
+{ label: "Celina, OH", value: "150"},
+{ label: "Centralia, IL", value: "151"},
+{ label: "Centralia, WA", value: "152"},
+{ label: "Chambersburg-Waynesboro, PA", value: "153"},
+{ label: "Champaign-Urbana, IL", value: "154"},
+{ label: "Charleston, WV", value: "155"},
+{ label: "Charleston-Mattoon, IL", value: "156"},
+{ label: "Charleston-North Charleston, SC", value: "157"},
+{ label: "Charlotte-Concord-Gastonia, NC-SC", value: "158"},
+{ label: "Charlottesville, VA", value: "159"},
+{ label: "Chattanooga, TN-GA", value: "160"},
+{ label: "Cheyenne, WY", value: "161"},
+{ label: "Chicago-Naperville-Elgin, IL-IN-WI", value: "162"},
+{ label: "Chico, CA", value: "163"},
+{ label: "Chillicothe, OH", value: "164"},
+{ label: "Cincinnati, OH-KY-IN", value: "165"},
+{ label: "Claremont-Lebanon, NH-VT", value: "166"},
+{ label: "Clarksburg, WV", value: "167"},
+{ label: "Clarksdale, MS", value: "168"},
+{ label: "Clarksville, TN-KY", value: "169"},
+{ label: "Clearlake, CA", value: "170"},
+{ label: "Cleveland, MS", value: "171"},
+{ label: "Cleveland, TN", value: "172"},
+{ label: "Cleveland-Elyria, OH", value: "173"},
+{ label: "Clewiston, FL", value: "174"},
+{ label: "Clinton, IA", value: "175"},
+{ label: "Clovis, NM", value: "176"},
+{ label: "Coamo, PR", value: "177"},
+{ label: "Coco, PR", value: "178"},
+{ label: "Coeur d'Alene, ID", value: "179"},
+{ label: "Coffeyville, KS", value: "180"},
+{ label: "Coldwater, MI", value: "181"},
+{ label: "College Station-Bryan, TX", value: "182"},
+{ label: "Colorado Springs, CO", value: "183"},
+{ label: "Columbia, MO", value: "184"},
+{ label: "Columbia, SC", value: "185"},
+{ label: "Columbus, GA-AL", value: "186"},
+{ label: "Columbus, IN", value: "187"},
+{ label: "Columbus, MS", value: "188"},
+{ label: "Columbus, NE", value: "189"},
+{ label: "Columbus, OH", value: "190"},
+{ label: "Concord, NH", value: "191"},
+{ label: "Connersville, IN", value: "192"},
+{ label: "Cookeville, TN", value: "193"},
+{ label: "Coos Bay, OR", value: "194"},
+{ label: "Cordele, GA", value: "195"},
+{ label: "Corinth, MS", value: "196"},
+{ label: "Cornelia, GA", value: "197"},
+{ label: "Corning, NY", value: "198"},
+{ label: "Corpus Christi, TX", value: "199"},
+{ label: "Corsicana, TX", value: "200"},
+{ label: "Cortland, NY", value: "201"},
+{ label: "Corvallis, OR", value: "202"},
+{ label: "Coshocton, OH", value: "203"},
+{ label: "Craig, CO", value: "204"},
+{ label: "Crawfordsville, IN", value: "205"},
+{ label: "Crescent City, CA", value: "206"},
+{ label: "Crestview-Fort Walton Beach-Destin, FL", value: "207"},
+{ label: "Crossville, TN", value: "208"},
+{ label: "Cullman, AL", value: "209"},
+{ label: "Cullowhee, NC", value: "210"},
+{ label: "Cumberland, MD-WV", value: "211"},
+{ label: "Dallas-Fort Worth-Arlington, TX", value: "212"},
+{ label: "Dalton, GA", value: "213"},
+{ label: "Danville, IL", value: "214"},
+{ label: "Danville, KY", value: "215"},
+{ label: "Danville, VA", value: "216"},
+{ label: "Daphne-Fairhope-Foley, AL", value: "217"},
+{ label: "Davenport-Moline-Rock Island, IA-IL", value: "218"},
+{ label: "Dayton, OH", value: "219"},
+{ label: "Dayton, TN", value: "220"},
+{ label: "Decatur, AL", value: "221"},
+{ label: "Decatur, IL", value: "222"},
+{ label: "Decatur, IN", value: "223"},
+{ label: "Defiance, OH", value: "224"},
+{ label: "Del Rio, TX", value: "225"},
+{ label: "Deltona-Daytona Beach-Ormond Beach, FL", value: "226"},
+{ label: "Deming, NM", value: "227"},
+{ label: "Denver-Aurora-Lakewood, CO", value: "228"},
+{ label: "DeRidder, LA", value: "229"},
+{ label: "Des Moines-West Des Moines, IA", value: "230"},
+{ label: "Detroit-Warren-Dearborn, MI", value: "231"},
+{ label: "Dickinson, ND", value: "232"},
+{ label: "Dixon, IL", value: "233"},
+{ label: "Dodge City, KS", value: "234"},
+{ label: "Dothan, AL", value: "235"},
+{ label: "Douglas, GA", value: "236"},
+{ label: "Dover, DE", value: "237"},
+{ label: "Dublin, GA", value: "238"},
+{ label: "DuBois, PA", value: "239"},
+{ label: "Dubuque, IA", value: "240"},
+{ label: "Duluth, MN-WI", value: "241"},
+{ label: "Dumas, TX", value: "242"},
+{ label: "Duncan, OK", value: "243"},
+{ label: "Dunn, NC", value: "244"},
+{ label: "Durango, CO", value: "245"},
+{ label: "Durant, OK", value: "246"},
+{ label: "Durham-Chapel Hill, NC", value: "247"},
+{ label: "Dyersburg, TN", value: "248"},
+{ label: "Eagle Pass, TX", value: "249"},
+{ label: "Easton, MD", value: "250"},
+{ label: "East Stroudsburg, PA", value: "251"},
+{ label: "Eau Claire, WI", value: "252"},
+{ label: "Edwards, CO", value: "253"},
+{ label: "Effingham, IL", value: "254"},
+{ label: "El Campo, TX", value: "255"},
+{ label: "El Centro, CA", value: "256"},
+{ label: "El Dorado, AR", value: "257"},
+{ label: "Elizabeth City, NC", value: "258"},
+{ label: "Elizabethtown-Fort Knox, KY", value: "259"},
+{ label: "Elk City, OK", value: "260"},
+{ label: "Elkhart-Goshen, IN", value: "261"},
+{ label: "Elkins, WV", value: "262"},
+{ label: "Elko, NV", value: "263"},
+{ label: "Ellensburg, WA", value: "264"},
+{ label: "Elmira, NY", value: "265"},
+{ label: "El Paso, TX", value: "266"},
+{ label: "Emporia, KS", value: "267"},
+{ label: "Enid, OK", value: "268"},
+{ label: "Enterprise, AL", value: "269"},
+{ label: "Erie, PA", value: "270"},
+{ label: "Escanaba, MI", value: "271"},
+{ label: "Española, NM", value: "272"},
+{ label: "Eugene, OR", value: "273"},
+{ label: "Eureka-Arcata-Fortuna, CA", value: "274"},
+{ label: "Evanston, WY", value: "275"},
+{ label: "Evansville, IN-KY", value: "276"},
+{ label: "Fairbanks, AK", value: "277"},
+{ label: "Fairfield, IA", value: "278"},
+{ label: "Fairmont, WV", value: "279"},
+{ label: "Fallon, NV", value: "280"},
+{ label: "Fargo, ND-MN", value: "281"},
+{ label: "Faribault-Northfield, MN", value: "282"},
+{ label: "Farmington, MO", value: "283"},
+{ label: "Farmington, NM", value: "284"},
+{ label: "Fayetteville, NC", value: "285"},
+{ label: "Fayetteville-Springdale-Rogers, AR-MO", value: "286"},
+{ label: "Fergus Falls, MN", value: "287"},
+{ label: "Fernley, NV", value: "288"},
+{ label: "Findlay, OH", value: "289"},
+{ label: "Fitzgerald, GA", value: "290"},
+{ label: "Flagstaff, AZ", value: "291"},
+{ label: "Flint, MI", value: "292"},
+{ label: "Florence, SC", value: "293"},
+{ label: "Florence-Muscle Shoals, AL", value: "294"},
+{ label: "Fond du Lac, WI", value: "295"},
+{ label: "Forest City, NC", value: "296"},
+{ label: "Forrest City, AR", value: "297"},
+{ label: "Fort Collins, CO", value: "298"},
+{ label: "Fort Dodge, IA", value: "299"},
+{ label: "Fort Leonard Wood, MO", value: "300"},
+{ label: "Fort Madison-Keokuk, IA-IL-MO", value: "301"},
+{ label: "Fort Morgan, CO", value: "302"},
+{ label: "Fort Polk South, LA", value: "303"},
+{ label: "Fort Smith, AR-OK", value: "304"},
+{ label: "Fort Wayne, IN", value: "305"},
+{ label: "Frankfort, IN", value: "306"},
+{ label: "Frankfort, KY", value: "307"},
+{ label: "Fredericksburg, TX", value: "308"},
+{ label: "Freeport, IL", value: "309"},
+{ label: "Fremont, NE", value: "310"},
+{ label: "Fremont, OH", value: "311"},
+{ label: "Fresno, CA", value: "312"},
+{ label: "Gadsden, AL", value: "313"},
+{ label: "Gaffney, SC", value: "314"},
+{ label: "Gainesville, FL", value: "315"},
+{ label: "Gainesville, GA", value: "316"},
+{ label: "Gainesville, TX", value: "317"},
+{ label: "Galesburg, IL", value: "318"},
+{ label: "Gallup, NM", value: "319"},
+{ label: "Garden City, KS", value: "320"},
+{ label: "Gardnerville Ranchos, NV", value: "321"},
+{ label: "Georgetown, SC", value: "322"},
+{ label: "Gettysburg, PA", value: "323"},
+{ label: "Gillette, WY", value: "324"},
+{ label: "Glasgow, KY", value: "325"},
+{ label: "Glens Falls, NY", value: "326"},
+{ label: "Glenwood Springs, CO", value: "327"},
+{ label: "Gloversville, NY", value: "328"},
+{ label: "Goldsboro, NC", value: "329"},
+{ label: "Grand Forks, ND-MN", value: "330"},
+{ label: "Grand Island, NE", value: "331"},
+{ label: "Grand Junction, CO", value: "332"},
+{ label: "Grand Rapids-Wyoming, MI", value: "333"},
+{ label: "Grants, NM", value: "334"},
+{ label: "Grants Pass, OR", value: "335"},
+{ label: "Great Bend, KS", value: "336"},
+{ label: "Great Falls, MT", value: "337"},
+{ label: "Greeley, CO", value: "338"},
+{ label: "Green Bay, WI", value: "339"},
+{ label: "Greeneville, TN", value: "340"},
+{ label: "Greenfield Town, MA", value: "341"},
+{ label: "Greensboro-High Point, NC", value: "342"},
+{ label: "Greensburg, IN", value: "343"},
+{ label: "Greenville, MS", value: "344"},
+{ label: "Greenville, NC", value: "345"},
+{ label: "Greenville, OH", value: "346"},
+{ label: "Greenville-Anderson-Mauldin, SC", value: "347"},
+{ label: "Greenwood, MS", value: "348"},
+{ label: "Greenwood, SC", value: "349"},
+{ label: "Grenada, MS", value: "350"},
+{ label: "Guayama, PR", value: "351"},
+{ label: "Gulfport-Biloxi-Pascagoula, MS", value: "352"},
+{ label: "Guymon, OK", value: "353"},
+{ label: "Hagerstown-Martinsburg, MD-WV", value: "354"},
+{ label: "Hailey, ID", value: "355"},
+{ label: "Hammond, LA", value: "356"},
+{ label: "Hanford-Corcoran, CA", value: "357"},
+{ label: "Hannibal, MO", value: "358"},
+{ label: "Harrisburg-Carlisle, PA", value: "359"},
+{ label: "Harrison, AR", value: "360"},
+{ label: "Harrisonburg, VA", value: "361"},
+{ label: "Hartford-West Hartford-East Hartford, CT", value: "362"},
+{ label: "Hastings, NE", value: "363"},
+{ label: "Hattiesburg, MS", value: "364"},
+{ label: "Hays, KS", value: "365"},
+{ label: "Heber, UT", value: "366"},
+{ label: "Helena, MT", value: "367"},
+{ label: "Helena-West Helena, AR", value: "368"},
+{ label: "Henderson, NC", value: "369"},
+{ label: "Hereford, TX", value: "370"},
+{ label: "Hermiston-Pendleton, OR", value: "371"},
+{ label: "Hickory-Lenoir-Morganton, NC", value: "372"},
+{ label: "Hillsdale, MI", value: "373"},
+{ label: "Hilo, HI", value: "374"},
+{ label: "Hilton Head Island-Bluffton-Beaufort, SC", value: "375"},
+{ label: "Hinesville, GA", value: "376"},
+{ label: "Hobbs, NM", value: "377"},
+{ label: "Holland, MI", value: "378"},
+{ label: "Homosassa Springs, FL", value: "379"},
+{ label: "Hood River, OR", value: "380"},
+{ label: "Hot Springs, AR", value: "381"},
+{ label: "Houghton, MI", value: "382"},
+{ label: "Houma-Thibodaux, LA", value: "383"},
+{ label: "Houston-The Woodlands-Sugar Land, TX", value: "384"},
+{ label: "Hudson, NY", value: "385"},
+{ label: "Huntingdon, PA", value: "386"},
+{ label: "Huntington, IN", value: "387"},
+{ label: "Huntington-Ashland, WV-KY-OH", value: "388"},
+{ label: "Huntsville, AL", value: "389"},
+{ label: "Huntsville, TX", value: "390"},
+{ label: "Huron, SD", value: "391"},
+{ label: "Hutchinson, KS", value: "392"},
+{ label: "Hutchinson, MN", value: "393"},
+{ label: "Idaho Falls, ID", value: "394"},
+{ label: "Indiana, PA", value: "395"},
+{ label: "Indianapolis-Carmel-Anderson, IN", value: "396"},
+{ label: "Indianola, MS", value: "397"},
+{ label: "Ionia, MI", value: "398"},
+{ label: "Iowa City, IA", value: "399"},
+{ label: "Iron Mountain, MI-WI", value: "400"},
+{ label: "Ithaca, NY", value: "401"},
+{ label: "Jackson, MI", value: "402"},
+{ label: "Jackson, MS", value: "403"},
+{ label: "Jackson, OH", value: "404"},
+{ label: "Jackson, TN", value: "405"},
+{ label: "Jackson, WY-ID", value: "406"},
+{ label: "Jacksonville, FL", value: "407"},
+{ label: "Jacksonville, IL", value: "408"},
+{ label: "Jacksonville, NC", value: "409"},
+{ label: "Jacksonville, TX", value: "410"},
+{ label: "Jamestown, ND", value: "411"},
+{ label: "Jamestown-Dunkirk-Fredonia, NY", value: "412"},
+{ label: "Janesville-Beloit, WI", value: "413"},
+{ label: "Jasper, IN", value: "414"},
+{ label: "Jayuya, PR", value: "415"},
+{ label: "Jefferson, GA", value: "416"},
+{ label: "Jefferson City, MO", value: "417"},
+{ label: "Jesup, GA", value: "418"},
+{ label: "Johnson City, TN", value: "419"},
+{ label: "Johnstown, PA", value: "420"},
+{ label: "Jonesboro, AR", value: "421"},
+{ label: "Joplin, MO", value: "422"},
+{ label: "Junction City, KS", value: "423"},
+{ label: "Juneau, AK", value: "424"},
+{ label: "Kahului-Wailuku-Lahaina, HI", value: "425"},
+{ label: "Kalamazoo-Portage, MI", value: "426"},
+{ label: "Kalispell, MT", value: "427"},
+{ label: "Kankakee, IL", value: "428"},
+{ label: "Kansas City, MO-KS", value: "429"},
+{ label: "Kapaa, HI", value: "430"},
+{ label: "Kearney, NE", value: "431"},
+{ label: "Keene, NH", value: "432"},
+{ label: "Kendallville, IN", value: "433"},
+{ label: "Kennett, MO", value: "434"},
+{ label: "Kennewick-Richland, WA", value: "435"},
+{ label: "Kerrville, TX", value: "436"},
+{ label: "Ketchikan, AK", value: "437"},
+{ label: "Key West, FL", value: "438"},
+{ label: "Kill Devil Hills, NC", value: "439"},
+{ label: "Killeen-Temple, TX", value: "440"},
+{ label: "Kingsport-Bristol-Bristol, TN-VA", value: "441"},
+{ label: "Kingston, NY", value: "442"},
+{ label: "Kingsville, TX", value: "443"},
+{ label: "Kinston, NC", value: "444"},
+{ label: "Kirksville, MO", value: "445"},
+{ label: "Klamath Falls, OR", value: "446"},
+{ label: "Knoxville, TN", value: "447"},
+{ label: "Kokomo, IN", value: "448"},
+{ label: "Laconia, NH", value: "449"},
+{ label: "La Crosse-Onalaska, WI-MN", value: "450"},
+{ label: "Lafayette, LA", value: "451"},
+{ label: "Lafayette-West Lafayette, IN", value: "452"},
+{ label: "La Grande, OR", value: "453"},
+{ label: "LaGrange, GA", value: "454"},
+{ label: "Lake Charles, LA", value: "455"},
+{ label: "Lake City, FL", value: "456"},
+{ label: "Lake Havasu City-Kingman, AZ", value: "457"},
+{ label: "Lakeland-Winter Haven, FL", value: "458"},
+{ label: "Lamesa, TX", value: "459"},
+{ label: "Lancaster, PA", value: "460"},
+{ label: "Lansing-East Lansing, MI", value: "461"},
+{ label: "Laramie, WY", value: "462"},
+{ label: "Laredo, TX", value: "463"},
+{ label: "Las Cruces, NM", value: "464"},
+{ label: "Las Vegas, NM", value: "465"},
+{ label: "Las Vegas-Henderson-Paradise, NV", value: "466"},
+{ label: "Laurel, MS", value: "467"},
+{ label: "Laurinburg, NC", value: "468"},
+{ label: "Lawrence, KS", value: "469"},
+{ label: "Lawrenceburg, TN", value: "470"},
+{ label: "Lawton, OK", value: "471"},
+{ label: "Lebanon, MO", value: "472"},
+{ label: "Lebanon, PA", value: "473"},
+{ label: "Levelland, TX", value: "474"},
+{ label: "Lewisburg, PA", value: "475"},
+{ label: "Lewisburg, TN", value: "476"},
+{ label: "Lewiston, ID-WA", value: "477"},
+{ label: "Lewiston-Auburn, ME", value: "478"},
+{ label: "Lewistown, PA", value: "479"},
+{ label: "Lexington, NE", value: "480"},
+{ label: "Lexington-Fayette, KY", value: "481"},
+{ label: "Liberal, KS", value: "482"},
+{ label: "Lima, OH", value: "483"},
+{ label: "Lincoln, IL", value: "484"},
+{ label: "Lincoln, NE", value: "485"},
+{ label: "Little Rock-North Little Rock-Conway, AR", value: "486"},
+{ label: "Lock Haven, PA", value: "487"},
+{ label: "Logan, UT-ID", value: "488"},
+{ label: "Logan, WV", value: "489"},
+{ label: "Logansport, IN", value: "490"},
+{ label: "London, KY", value: "491"},
+{ label: "Longview, TX", value: "492"},
+{ label: "Longview, WA", value: "493"},
+{ label: "Los Alamos, NM", value: "494"},
+{ label: "Los Angeles-Long Beach-Anaheim, CA", value: "495"},
+{ label: "Louisville/Jefferson County, KY-IN", value: "496"},
+{ label: "Lubbock, TX", value: "497"},
+{ label: "Ludington, MI", value: "498"},
+{ label: "Lufkin, TX", value: "499"},
+{ label: "Lumberton, NC", value: "500"},
+{ label: "Lynchburg, VA", value: "501"},
+{ label: "Macomb, IL", value: "502"},
+{ label: "Macon, GA", value: "503"},
+{ label: "Madera, CA", value: "504"},
+{ label: "Madison, IN", value: "505"},
+{ label: "Madison, WI", value: "506"},
+{ label: "Madisonville, KY", value: "507"},
+{ label: "Magnolia, AR", value: "508"},
+{ label: "Malone, NY", value: "509"},
+{ label: "Malvern, AR", value: "510"},
+{ label: "Manchester-Nashua, NH", value: "511"},
+{ label: "Manhattan, KS", value: "512"},
+{ label: "Manitowoc, WI", value: "513"},
+{ label: "Mankato-North Mankato, MN", value: "514"},
+{ label: "Mansfield, OH", value: "515"},
+{ label: "Marietta, OH", value: "516"},
+{ label: "Marinette, WI-MI", value: "517"},
+{ label: "Marion, IN", value: "518"},
+{ label: "Marion, NC", value: "519"},
+{ label: "Marion, OH", value: "520"},
+{ label: "Marquette, MI", value: "521"},
+{ label: "Marshall, MN", value: "522"},
+{ label: "Marshall, MO", value: "523"},
+{ label: "Marshall, TX", value: "524"},
+{ label: "Marshalltown, IA", value: "525"},
+{ label: "Martin, TN", value: "526"},
+{ label: "Martinsville, VA", value: "527"},
+{ label: "Maryville, MO", value: "528"},
+{ label: "Mason City, IA", value: "529"},
+{ label: "Mayagüez, PR", value: "530"},
+{ label: "Mayfield, KY", value: "531"},
+{ label: "Maysville, KY", value: "532"},
+{ label: "McAlester, OK", value: "533"},
+{ label: "McAllen-Edinburg-Mission, TX", value: "534"},
+{ label: "McComb, MS", value: "535"},
+{ label: "McMinnville, TN", value: "536"},
+{ label: "McPherson, KS", value: "537"},
+{ label: "Meadville, PA", value: "538"},
+{ label: "Medford, OR", value: "539"},
+{ label: "Memphis, TN-MS-AR", value: "540"},
+{ label: "Menomonie, WI", value: "541"},
+{ label: "Merced, CA", value: "542"},
+{ label: "Meridian, MS", value: "543"},
+{ label: "Merrill, WI", value: "544"},
+{ label: "Mexico, MO", value: "545"},
+{ label: "Miami, OK", value: "546"},
+{ label: "Miami-Fort Lauderdale-West Palm Beach, FL", value: "547"},
+{ label: "Michigan City-La Porte, IN", value: "548"},
+{ label: "Middlesborough, KY", value: "549"},
+{ label: "Midland, MI", value: "550"},
+{ label: "Midland, TX", value: "551"},
+{ label: "Milledgeville, GA", value: "552"},
+{ label: "Milwaukee-Waukesha-West Allis, WI", value: "553"},
+{ label: "Mineral Wells, TX", value: "554"},
+{ label: "Minneapolis-St. Paul-Bloomington, MN-WI", value: "555"},
+{ label: "Minot, ND", value: "556"},
+{ label: "Missoula, MT", value: "557"},
+{ label: "Mitchell, SD", value: "558"},
+{ label: "Moberly, MO", value: "559"},
+{ label: "Mobile, AL", value: "560"},
+{ label: "Modesto, CA", value: "561"},
+{ label: "Monroe, LA", value: "562"},
+{ label: "Monroe, MI", value: "563"},
+{ label: "Montgomery, AL", value: "564"},
+{ label: "Montrose, CO", value: "565"},
+{ label: "Morehead City, NC", value: "566"},
+{ label: "Morgan City, LA", value: "567"},
+{ label: "Morgantown, WV", value: "568"},
+{ label: "Morristown, TN", value: "569"},
+{ label: "Moscow, ID", value: "570"},
+{ label: "Moses Lake, WA", value: "571"},
+{ label: "Moultrie, GA", value: "572"},
+{ label: "Mountain Home, AR", value: "573"},
+{ label: "Mountain Home, ID", value: "574"},
+{ label: "Mount Airy, NC", value: "575"},
+{ label: "Mount Pleasant, MI", value: "576"},
+{ label: "Mount Pleasant, TX", value: "577"},
+{ label: "Mount Sterling, KY", value: "578"},
+{ label: "Mount Vernon, IL", value: "579"},
+{ label: "Mount Vernon, OH", value: "580"},
+{ label: "Mount Vernon-Anacortes, WA", value: "581"},
+{ label: "Muncie, IN", value: "582"},
+{ label: "Murray, KY", value: "583"},
+{ label: "Muscatine, IA", value: "584"},
+{ label: "Muskegon, MI", value: "585"},
+{ label: "Muskogee, OK", value: "586"},
+{ label: "Myrtle Beach-Conway-North Myrtle Beach, SC-NC", value: "587"},
+{ label: "Nacogdoches, TX", value: "588"},
+{ label: "Napa, CA", value: "589"},
+{ label: "Naples-Immokalee-Marco Island, FL", value: "590"},
+{ label: "Nashville-Davidson--Murfreesboro--Franklin, TN", value: "591"},
+{ label: "Natchez, MS-LA", value: "592"},
+{ label: "Natchitoches, LA", value: "593"},
+{ label: "New Bern, NC", value: "594"},
+{ label: "Newberry, SC", value: "595"},
+{ label: "New Castle, IN", value: "596"},
+{ label: "New Castle, PA", value: "597"},
+{ label: "New Haven-Milford, CT", value: "598"},
+{ label: "New Orleans-Metairie, LA", value: "599"},
+{ label: "New Philadelphia-Dover, OH", value: "600"},
+{ label: "Newport, OR", value: "601"},
+{ label: "Newport, TN", value: "602"},
+{ label: "Newton, IA", value: "603"},
+{ label: "New Ulm, MN", value: "604"},
+{ label: "New York-Newark-Jersey City, NY-NJ-PA", value: "605"},
+{ label: "Niles-Benton Harbor, MI", value: "606"},
+{ label: "Nogales, AZ", value: "607"},
+{ label: "Norfolk, NE", value: "608"},
+{ label: "North Platte, NE", value: "609"},
+{ label: "North Port-Sarasota-Bradenton, FL", value: "610"},
+{ label: "North Vernon, IN", value: "611"},
+{ label: "North Wilkesboro, NC", value: "612"},
+{ label: "Norwalk, OH", value: "613"},
+{ label: "Norwich-New London, CT", value: "614"},
+{ label: "Oak Harbor, WA", value: "615"},
+{ label: "Ocala, FL", value: "616"},
+{ label: "Ocean City, NJ", value: "617"},
+{ label: "Odessa, TX", value: "618"},
+{ label: "Ogden-Clearfield, UT", value: "619"},
+{ label: "Ogdensburg-Massena, NY", value: "620"},
+{ label: "Oil City, PA", value: "621"},
+{ label: "Okeechobee, FL", value: "622"},
+{ label: "Oklahoma City, OK", value: "623"},
+{ label: "Olean, NY", value: "624"},
+{ label: "Olympia-Tumwater, WA", value: "625"},
+{ label: "Omaha-Council Bluffs, NE-IA", value: "626"},
+{ label: "Oneonta, NY", value: "627"},
+{ label: "Ontario, OR-ID", value: "628"},
+{ label: "Opelousas, LA", value: "629"},
+{ label: "Orangeburg, SC", value: "630"},
+{ label: "Orlando-Kissimmee-Sanford, FL", value: "631"},
+{ label: "Oshkosh-Neenah, WI", value: "632"},
+{ label: "Oskaloosa, IA", value: "633"},
+{ label: "Othello, WA", value: "634"},
+{ label: "Ottawa, KS", value: "635"},
+{ label: "Ottawa-Peru, IL", value: "636"},
+{ label: "Ottumwa, IA", value: "637"},
+{ label: "Owatonna, MN", value: "638"},
+{ label: "Owensboro, KY", value: "639"},
+{ label: "Owosso, MI", value: "640"},
+{ label: "Oxford, MS", value: "641"},
+{ label: "Oxford, NC", value: "642"},
+{ label: "Oxnard-Thousand Oaks-Ventura, CA", value: "643"},
+{ label: "Ozark, AL", value: "644"},
+{ label: "Paducah, KY-IL", value: "645"},
+{ label: "Pahrump, NV", value: "646"},
+{ label: "Palatka, FL", value: "647"},
+{ label: "Palestine, TX", value: "648"},
+{ label: "Palm Bay-Melbourne-Titusville, FL", value: "649"},
+{ label: "Pampa, TX", value: "650"},
+{ label: "Panama City, FL", value: "651"},
+{ label: "Paragould, AR", value: "652"},
+{ label: "Paris, TN", value: "653"},
+{ label: "Paris, TX", value: "654"},
+{ label: "Parkersburg-Vienna, WV", value: "655"},
+{ label: "Parsons, KS", value: "656"},
+{ label: "Payson, AZ", value: "657"},
+{ label: "Pecos, TX", value: "658"},
+{ label: "Pensacola-Ferry Pass-Brent, FL", value: "659"},
+{ label: "Peoria, IL", value: "660"},
+{ label: "Peru, IN", value: "661"},
+{ label: "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", value: "662"},
+{ label: "Phoenix-Mesa-Scottsdale, AZ", value: "663"},
+{ label: "Picayune, MS", value: "664"},
+{ label: "Pierre, SD", value: "665"},
+{ label: "Pine Bluff, AR", value: "666"},
+{ label: "Pinehurst-Southern Pines, NC", value: "667"},
+{ label: "Pittsburg, KS", value: "668"},
+{ label: "Pittsburgh, PA", value: "669"},
+{ label: "Pittsfield, MA", value: "670"},
+{ label: "Plainview, TX", value: "671"},
+{ label: "Platteville, WI", value: "672"},
+{ label: "Plattsburgh, NY", value: "673"},
+{ label: "Plymouth, IN", value: "674"},
+{ label: "Pocatello, ID", value: "675"},
+{ label: "Point Pleasant, WV-OH", value: "676"},
+{ label: "Ponca City, OK", value: "677"},
+{ label: "Ponce, PR", value: "678"},
+{ label: "Pontiac, IL", value: "679"},
+{ label: "Poplar Bluff, MO", value: "680"},
+{ label: "Portales, NM", value: "681"},
+{ label: "Port Angeles, WA", value: "682"},
+{ label: "Port Clinton, OH", value: "683"},
+{ label: "Portland-South Portland, ME", value: "684"},
+{ label: "Portland-Vancouver-Hillsboro, OR-WA", value: "685"},
+{ label: "Port Lavaca, TX", value: "686"},
+{ label: "Port St. Lucie, FL", value: "687"},
+{ label: "Portsmouth, OH", value: "688"},
+{ label: "Pottsville, PA", value: "689"},
+{ label: "Prescott, AZ", value: "690"},
+{ label: "Price, UT", value: "691"},
+{ label: "Prineville, OR", value: "692"},
+{ label: "Providence-Warwick, RI-MA", value: "693"},
+{ label: "Provo-Orem, UT", value: "694"},
+{ label: "Pueblo, CO", value: "695"},
+{ label: "Pullman, WA", value: "696"},
+{ label: "Punta Gorda, FL", value: "697"},
+{ label: "Quincy, IL-MO", value: "698"},
+{ label: "Racine, WI", value: "699"},
+{ label: "Raleigh, NC", value: "700"},
+{ label: "Rapid City, SD", value: "701"},
+{ label: "Raymondville, TX", value: "702"},
+{ label: "Reading, PA", value: "703"},
+{ label: "Red Bluff, CA", value: "704"},
+{ label: "Redding, CA", value: "705"},
+{ label: "Red Wing, MN", value: "706"},
+{ label: "Reno, NV", value: "707"},
+{ label: "Rexburg, ID", value: "708"},
+{ label: "Richmond, IN", value: "709"},
+{ label: "Richmond, VA", value: "710"},
+{ label: "Richmond-Berea, KY", value: "711"},
+{ label: "Rio Grande City, TX", value: "712"},
+{ label: "Riverside-San Bernardino-Ontario, CA", value: "713"},
+{ label: "Riverton, WY", value: "714"},
+{ label: "Roanoke, VA", value: "715"},
+{ label: "Roanoke Rapids, NC", value: "716"},
+{ label: "Rochelle, IL", value: "717"},
+{ label: "Rochester, MN", value: "718"},
+{ label: "Rochester, NY", value: "719"},
+{ label: "Rockford, IL", value: "720"},
+{ label: "Rockingham, NC", value: "721"},
+{ label: "Rock Springs, WY", value: "722"},
+{ label: "Rocky Mount, NC", value: "723"},
+{ label: "Rolla, MO", value: "724"},
+{ label: "Rome, GA", value: "725"},
+{ label: "Roseburg, OR", value: "726"},
+{ label: "Roswell, NM", value: "727"},
+{ label: "Russellville, AR", value: "728"},
+{ label: "Ruston, LA", value: "729"},
+{ label: "Rutland, VT", value: "730"},
+{ label: "Sacramento--Roseville--Arden-Arcade, CA", value: "731"},
+{ label: "Safford, AZ", value: "732"},
+{ label: "Saginaw, MI", value: "733"},
+{ label: "St. Cloud, MN", value: "734"},
+{ label: "St. George, UT", value: "735"},
+{ label: "St. Joseph, MO-KS", value: "736"},
+{ label: "St. Louis, MO-IL", value: "737"},
+{ label: "St. Marys, GA", value: "738"},
+{ label: "Salem, OH", value: "739"},
+{ label: "Salem, OR", value: "740"},
+{ label: "Salina, KS", value: "741"},
+{ label: "Salinas, CA", value: "742"},
+{ label: "Salisbury, MD-DE", value: "743"},
+{ label: "Salt Lake City, UT", value: "744"},
+{ label: "San Angelo, TX", value: "745"},
+{ label: "San Antonio-New Braunfels, TX", value: "746"},
+{ label: "San Diego-Carlsbad, CA", value: "747"},
+{ label: "Sandpoint, ID", value: "748"},
+{ label: "Sandusky, OH", value: "749"},
+{ label: "Sanford, NC", value: "750"},
+{ label: "San Francisco-Oakland-Hayward, CA", value: "751"},
+{ label: "San Germán, PR", value: "752"},
+{ label: "San Jose-Sunnyvale-Santa Clara, CA", value: "753"},
+{ label: "San Juan-Carolina-Caguas, PR", value: "754"},
+{ label: "San Luis Obispo-Paso Robles-Arroyo Grande, CA", value: "755"},
+{ label: "Santa Cruz-Watsonville, CA", value: "756"},
+{ label: "Santa Fe, NM", value: "757"},
+{ label: "Santa Isabel, PR", value: "758"},
+{ label: "Santa Maria-Santa Barbara, CA", value: "759"},
+{ label: "Santa Rosa, CA", value: "760"},
+{ label: "Sault Ste. Marie, MI", value: "761"},
+{ label: "Savannah, GA", value: "762"},
+{ label: "Sayre, PA", value: "763"},
+{ label: "Scottsbluff, NE", value: "764"},
+{ label: "Scottsboro, AL", value: "765"},
+{ label: "Scranton--Wilkes-Barre--Hazleton, PA", value: "766"},
+{ label: "Searcy, AR", value: "767"},
+{ label: "Seattle-Tacoma-Bellevue, WA", value: "768"},
+{ label: "Sebastian-Vero Beach, FL", value: "769"},
+{ label: "Sebring, FL", value: "770"},
+{ label: "Sedalia, MO", value: "771"},
+{ label: "Selinsgrove, PA", value: "772"},
+{ label: "Selma, AL", value: "773"},
+{ label: "Seneca, SC", value: "774"},
+{ label: "Seneca Falls, NY", value: "775"},
+{ label: "Sevierville, TN", value: "776"},
+{ label: "Seymour, IN", value: "777"},
+{ label: "Shawano, WI", value: "778"},
+{ label: "Shawnee, OK", value: "779"},
+{ label: "Sheboygan, WI", value: "780"},
+{ label: "Shelby, NC", value: "781"},
+{ label: "Shelbyville, TN", value: "782"},
+{ label: "Shelton, WA", value: "783"},
+{ label: "Sheridan, WY", value: "784"},
+{ label: "Sherman-Denison, TX", value: "785"},
+{ label: "Show Low, AZ", value: "786"},
+{ label: "Shreveport-Bossier City, LA", value: "787"},
+{ label: "Sidney, OH", value: "788"},
+{ label: "Sierra Vista-Douglas, AZ", value: "789"},
+{ label: "Sikeston, MO", value: "790"},
+{ label: "Silver City, NM", value: "791"},
+{ label: "Sioux City, IA-NE-SD", value: "792"},
+{ label: "Sioux Falls, SD", value: "793"},
+{ label: "Snyder, TX", value: "794"},
+{ label: "Somerset, KY", value: "795"},
+{ label: "Somerset, PA", value: "796"},
+{ label: "Sonora, CA", value: "797"},
+{ label: "South Bend-Mishawaka, IN-MI", value: "798"},
+{ label: "Spartanburg, SC", value: "799"},
+{ label: "Spearfish, SD", value: "800"},
+{ label: "Spencer, IA", value: "801"},
+{ label: "Spirit Lake, IA", value: "802"},
+{ label: "Spokane-Spokane Valley, WA", value: "803"},
+{ label: "Springfield, IL", value: "804"},
+{ label: "Springfield, MA", value: "805"},
+{ label: "Springfield, MO", value: "806"},
+{ label: "Springfield, OH", value: "807"},
+{ label: "Starkville, MS", value: "808"},
+{ label: "State College, PA", value: "809"},
+{ label: "Statesboro, GA", value: "810"},
+{ label: "Staunton-Waynesboro, VA", value: "811"},
+{ label: "Steamboat Springs, CO", value: "812"},
+{ label: "Stephenville, TX", value: "813"},
+{ label: "Sterling, CO", value: "814"},
+{ label: "Sterling, IL", value: "815"},
+{ label: "Stevens Point, WI", value: "816"},
+{ label: "Stillwater, OK", value: "817"},
+{ label: "Stockton-Lodi, CA", value: "818"},
+{ label: "Storm Lake, IA", value: "819"},
+{ label: "Sturgis, MI", value: "820"},
+{ label: "Sulphur Springs, TX", value: "821"},
+{ label: "Summerville, GA", value: "822"},
+{ label: "Summit Park, UT", value: "823"},
+{ label: "Sumter, SC", value: "824"},
+{ label: "Sunbury, PA", value: "825"},
+{ label: "Susanville, CA", value: "826"},
+{ label: "Sweetwater, TX", value: "827"},
+{ label: "Syracuse, NY", value: "828"},
+{ label: "Tahlequah, OK", value: "829"},
+{ label: "Talladega-Sylacauga, AL", value: "830"},
+{ label: "Tallahassee, FL", value: "831"},
+{ label: "Tampa-St. Petersburg-Clearwater, FL", value: "832"},
+{ label: "Taos, NM", value: "833"},
+{ label: "Taylorville, IL", value: "834"},
+{ label: "Terre Haute, IN", value: "835"},
+{ label: "Texarkana, TX-AR", value: "836"},
+{ label: "The Dalles, OR", value: "837"},
+{ label: "The Villages, FL", value: "838"},
+{ label: "Thomaston, GA", value: "839"},
+{ label: "Thomasville, GA", value: "840"},
+{ label: "Tiffin, OH", value: "841"},
+{ label: "Tifton, GA", value: "842"},
+{ label: "Toccoa, GA", value: "843"},
+{ label: "Toledo, OH", value: "844"},
+{ label: "Topeka, KS", value: "845"},
+{ label: "Torrington, CT", value: "846"},
+{ label: "Traverse City, MI", value: "847"},
+{ label: "Trenton, NJ", value: "848"},
+{ label: "Troy, AL", value: "849"},
+{ label: "Truckee-Grass Valley, CA", value: "850"},
+{ label: "Tucson, AZ", value: "851"},
+{ label: "Tullahoma-Manchester, TN", value: "852"},
+{ label: "Tulsa, OK", value: "853"},
+{ label: "Tupelo, MS", value: "854"},
+{ label: "Tuscaloosa, AL", value: "855"},
+{ label: "Twin Falls, ID", value: "856"},
+{ label: "Tyler, TX", value: "857"},
+{ label: "Ukiah, CA", value: "858"},
+{ label: "Union City, TN-KY", value: "859"},
+{ label: "Urbana, OH", value: "860"},
+{ label: "Urban Honolulu, HI", value: "861"},
+{ label: "Utica-Rome, NY", value: "862"},
+{ label: "Uvalde, TX", value: "863"},
+{ label: "Valdosta, GA", value: "864"},
+{ label: "Vallejo-Fairfield, CA", value: "865"},
+{ label: "Valley, AL", value: "866"},
+{ label: "Van Wert, OH", value: "867"},
+{ label: "Vermillion, SD", value: "868"},
+{ label: "Vernal, UT", value: "869"},
+{ label: "Vernon, TX", value: "870"},
+{ label: "Vicksburg, MS", value: "871"},
+{ label: "Victoria, TX", value: "872"},
+{ label: "Vidalia, GA", value: "873"},
+{ label: "Vincennes, IN", value: "874"},
+{ label: "Vineland-Bridgeton, NJ", value: "875"},
+{ label: "Vineyard Haven, MA", value: "876"},
+{ label: "Virginia Beach-Norfolk-Newport News, VA-NC", value: "877"},
+{ label: "Visalia-Porterville, CA", value: "878"},
+{ label: "Wabash, IN", value: "879"},
+{ label: "Waco, TX", value: "880"},
+{ label: "Wahpeton, ND-MN", value: "881"},
+{ label: "Walla Walla, WA", value: "882"},
+{ label: "Wapakoneta, OH", value: "883"},
+{ label: "Warner Robins, GA", value: "884"},
+{ label: "Warren, PA", value: "885"},
+{ label: "Warrensburg, MO", value: "886"},
+{ label: "Warsaw, IN", value: "887"},
+{ label: "Washington, IN", value: "888"},
+{ label: "Washington, NC", value: "889"},
+{ label: "Washington-Arlington-Alexandria, DC-VA-MD-WV", value: "890"},
+{ label: "Washington Court House, OH", value: "891"},
+{ label: "Waterloo-Cedar Falls, IA", value: "892"},
+{ label: "Watertown, SD", value: "893"},
+{ label: "Watertown-Fort Atkinson, WI", value: "894"},
+{ label: "Watertown-Fort Drum, NY", value: "895"},
+{ label: "Wauchula, FL", value: "896"},
+{ label: "Wausau, WI", value: "897"},
+{ label: "Waycross, GA", value: "898"},
+{ label: "Weatherford, OK", value: "899"},
+{ label: "Weirton-Steubenville, WV-OH", value: "900"},
+{ label: "Wenatchee, WA", value: "901"},
+{ label: "West Plains, MO", value: "902"},
+{ label: "Wheeling, WV-OH", value: "903"},
+{ label: "Whitewater-Elkhorn, WI", value: "904"},
+{ label: "Wichita, KS", value: "905"},
+{ label: "Wichita Falls, TX", value: "906"},
+{ label: "Williamsport, PA", value: "907"},
+{ label: "Williston, ND", value: "908"},
+{ label: "Willmar, MN", value: "909"},
+{ label: "Wilmington, NC", value: "910"},
+{ label: "Wilmington, OH", value: "911"},
+{ label: "Wilson, NC", value: "912"},
+{ label: "Winchester, VA-WV", value: "913"},
+{ label: "Winnemucca, NV", value: "914"},
+{ label: "Winona, MN", value: "915"},
+{ label: "Winston-Salem, NC", value: "916"},
+{ label: "Wisconsin Rapids-Marshfield, WI", value: "917"},
+{ label: "Woodward, OK", value: "918"},
+{ label: "Wooster, OH", value: "919"},
+{ label: "Worcester, MA-CT", value: "920"},
+{ label: "Worthington, MN", value: "921"},
+{ label: "Yakima, WA", value: "922"},
+{ label: "Yankton, SD", value: "923"},
+{ label: "York-Hanover, PA", value: "924"},
+{ label: "Youngstown-Warren-Boardman, OH-PA", value: "925"},
+{ label: "Yuba City, CA", value: "926"},
+{ label: "Yuma, AZ", value: "927"},
+{ label: "Zanesville, OH", value: "928"},
+{ label: "Zapata, TX", value: "929"}
+			],
+			select: function(event, ui) {
+				event.preventDefault();
+				jQuery(this).val(ui.item.label);
+				jQuery("#msaid").val(ui.item.value);
+				}
+		});
+	});
+	
+	jQuery("#msago").click(function() {
+		var url = jQuery("#msaid").val();
+		window.open('http://iaspub.epa.gov/triexplorer/msa.html?pYear=2015&pLoc=' + url,'_blank');
+		});
+		
+	jQuery("#watershedgo").click(function() {
+		var url = jQuery("#watershedsearch").val();
+		window.open('http://iaspub.epa.gov/triexplorer/lae.html?pYear=2015&pLoc=' + url,'_blank');
+		});
+		
+	jQuery("#tribalgo").click(function() {
+	var url = jQuery("#tribalsearch").val();
+	window.open('http://iaspub.epa.gov/triexplorer/release_fac?sort=_VIEW_&trilib=TRIQ1&sort_fmt=1&state=TS&county=' + url + '&chemical=All+chemicals&industry=ALL&year=2015&p_view=TIFA&tab_rpt=1&fld=RELLBY&fld=TSFDSP','_blank');
+	});
+				
+	jQuery("#locsearch").click(function() {
+		var url = '';
+		var st = '';
+		if (jQuery("#zip").val() != '') { url += 'pzip=' + jQuery("#zip").val(); }
+		else if (jQuery("#state").val() != 'none') { 
+			url += '&pstate=' + jQuery("#state").val(); 
+			if (((jQuery("#city").val() == '')||(jQuery("#city").val() == '(Optional)')) && ((jQuery("#county").val() == '')||(jQuery("#county").val() == '(Optional)')) && (jQuery("#zip").val() == '')) {
+					st = '_forstate'; 
+			}
+		}
+		
+		else if ((jQuery("#city").val() != '')&&(jQuery("#city").val() != '(Optional)')) { url += '&pcity=' + jQuery("#city").val(); }
+		else if ((jQuery("#county").val() != '')&&(jQuery("#county").val() != '(Optional)')) { url += '&pcounty=' + jQuery("#county").val(); }		
+						
+
+		window.open('http://iaspub.epa.gov/triexplorer/tri_factsheet.factsheet' + st + '?' + url + '&pyear=2015&pParent=TRI&pDataSet=TRIQ1','_blank');
+		});	
+		
+		/* code from qodo.co.uk */
+		// create as many regular expressions here as you need:
+		var digitsOnly = /[1234567890]/g;
+		var integerOnly = /[0-9\.]/g;
+		var alphaOnly = /[A-Za-z]/g;
+		
+		function restrictCharacters(myfield, e, restrictionType) {
+			if (!e) var e = window.event
+			if (e.keyCode) code = e.keyCode;
+			else if (e.which) code = e.which;
+			var character = String.fromCharCode(code);
+		
+			// if they pressed esc... remove focus from field...
+			if (code==27) { this.blur(); return false; }
+			
+			// ignore if they are press other keys
+			// strange because code: 39 is the down key AND ' key...
+			// and DEL also equals .
+			if (!e.ctrlKey && code!=9 && code!=8 && code!=36 && code!=37 && code!=38 && (code!=39 || (code==39 && character=="'")) && code!=40) {
+				if (character.match(restrictionType)) {
+					return true;
+				} else {
+					return false;
+				}
+				
+			}
+		}
+</script>
+<style>.show { display:inline-block; border:3px solid #c00000;} 
+.ui-menu  {
+    background:white;
+	list-style-type: none;	
+	padding-left:4px;
+	padding-bottom:0;
+	width:300px;
+	border:1px solid #999;
+
+}
+.ui-autocomplete {
+                z-index: 9999 !important;
+                }
+</style>    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":14345,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
