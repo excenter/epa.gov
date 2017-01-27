@@ -1,0 +1,840 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta http-equiv="cleartype" content="on" />
+<!--googleon: all--><meta name="DC.description" content="Sources of greenhouse gas emissions, inculding electricity production, tranportation, industry, agriculture, and forestry." />
+<meta name="DC.title" content="Sources of Greenhouse Gas Emissions" />
+<!--googleoff: snippet--><meta name="keywords" content="human activities, energy, trucks, cars, fossil fuels, GHG, GHGs" />
+<link rel="canonical" href="sources-greenhouse-gas-emissions.html" />
+<link rel="shortlink" href="../node/130627.html" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Science &amp; Technology" />
+<meta name="DC.type" content="Overviews and Factsheets" />
+<meta name="DC.date.created" content="2015-12-29" />
+<meta name="DC.date.modified" content="2016-10-06" />
+<meta name="DC.date.reviewed" content="2017-10-06" />
+<meta name="DC.creator" content="US EPA,OA" />
+<meta name="WebArea" content="Greenhouse Gas Emissions" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>Sources of Greenhouse Gas Emissions | Greenhouse Gas (GHG) Emissions | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Greenhouse Gas Emissions" href="../feed/126337/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-130627 node-type-page og-context og-context-node og-context-node-126337 section-ghgemissions microsite" >
+  <div class="skip-links"><a href="sources-greenhouse-gas-emissions.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Greenhouse Gas Emissions</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions&amp;t=Sources%20of%20Greenhouse%20Gas%20Emissions" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions&amp;text=Sources%20of%20Greenhouse%20Gas%20Emissions&amp;url=https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions&amp;description=Sources%20of%20Greenhouse%20Gas%20Emissions&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/contact-us-about-greenhouse-gas-emissions.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Sources of Greenhouse Gas Emissions</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <div id="tabs">
+	<ul class="tabs" id="tabsnav"><li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#overview">Overview<br />
+			 </a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#electricity">Electricity<br />
+			 </a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#transportation">Transportation<br />
+			 </a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#industry">Industry<br />
+			 </a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#commercial-and-residential">Commercial/<br />
+			Residential</a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#agriculture">Agriculture<br />
+			 </a></li>
+		<li><a class="menu-internal" href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use/<br />
+			Forestry</a></li>
+	</ul><div id="overview">
+		<h2>Overview</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:411px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="440" width="411" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/ghge-sources-overview.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870 <a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2&nbsp;</sub>equivalent</a></strong><br /><br />
+
+* <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a>&nbsp;in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<p>Greenhouse gases trap heat and make the planet warmer. Human activities are responsible for almost all of the increase in greenhouse gases in the atmosphere over the last 150 years.<sup><a href="sources-greenhouse-gas-emissions.html#t1fn1">1</a></sup> The largest source of greenhouse gas emissions from human activities in the United States is from burning fossil fuels for electricity, heat, and transportation.</p>
+
+		<p>EPA tracks total U.S. emissions by publishing the <em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks</a></em>. This annual report estimates the total national greenhouse gas emissions and removals associated with human activities across the United States.</p>
+
+		<p>The primary sources of greenhouse gas emissions in the United States are:</p>
+
+		<ul><li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#electricity">Electricity production</a></span> (30 percent of 2014 greenhouse gas emissions) – Electricity production generates the largest share of greenhouse gas emissions. Approximately 67 percent of our electricity comes from burning fossil fuels, mostly coal and natural gas.<sup><a href="sources-greenhouse-gas-emissions.html#t1fn2">2</a></sup></li>
+			<li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#transportation">Transportation</a></span> (26 percent of 2014 greenhouse gas emissions) – Greenhouse gas emissions from transportation primarily come from burning fossil fuel for our cars, trucks, ships, trains, and planes. Over 90 percent of the fuel used for transportation is petroleum based, which includes gasoline and diesel.<sup><a href="sources-greenhouse-gas-emissions.html#t1fn3">3</a></sup></li>
+			<li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#industry">Industry</a></span> (21 percent of 2014 greenhouse gas emissions) – Greenhouse gas emissions from industry primarily come from burning fossil fuels for energy, as well as greenhouse gas emissions from certain chemical reactions necessary to produce goods from raw materials.</li>
+			<li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#commercial-and-residential">Commercial and Residential</a></span> (12 percent of 2014 greenhouse gas emissions) – Greenhouse gas emissions from businesses and homes arise primarily from fossil fuels burned for heat, the use of certain products that contain greenhouse gases, and the handling of waste.</li>
+			<li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#agriculture">Agriculture</a></span> (9 percent of 2014 greenhouse gas emissions) – Greenhouse gas emissions from agriculture come from livestock such as cows, agricultural soils, and rice production.</li>
+			<li><span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use and Forestry</a></span> (offset of 11 percent of 2014 greenhouse gas emissions) – Land areas can act as a sink (absorbing CO<sub>2</sub> from the atmosphere) or a source of greenhouse gas emissions. In the United States, since 1990, managed forests and other lands have absorbed more CO<sub>2</sub> from the atmosphere than they emit.</li>
+		</ul><h2>Emissions and Trends</h2>
+
+		<p>Since 1990, U.S. greenhouse gas emissions have increased by about 7 percent. From year to year, emissions can rise and fall due to changes in the economy, the price of fuel, and other factors. In 2014, U.S. greenhouse gas emissions increased compared to 2013 levels. This increase was due to a number of factors, including: cold winter conditions resulting in an increase in fuel demand, especially in residential and commercial sectors; an increase in transportation emissions resulting from an increase in vehicle miles traveled; and an increase in industrial production across multiple sectors that also resulted in increases in industrial sector emissions.</p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="U.S. GHG emissions, 1990-2014: Emissions steadily increase from ~6,400 million metric tons of carbon dioxide equivalents in 1990 to over 7000 in 1997. Between 2007-2009, emissions are ~6800, followed by ~7000 in 2010-2011, ~6000 in 2012, &amp; ~6900 in 2014." title="U.S. GHG emissions, 1990-2014: Emissions steadily increase from ~6,400 million metric tons of carbon dioxide equivalents in 1990 to over 7000 in 1997. Between 2007-2009, emissions are ~6800, followed by ~7000 in 2010-2011, ~6000 in 2012, &amp; ~6900 in 2014." height="550" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/ghge-total-all.png.html" /><span class="figcaption">All emission estimates from the&nbsp;<a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-total-all_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a>.</em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+		<h3>References</h3>
+
+		<p><small><sup id="t1fn1">1</sup>   <a href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/spm.html">IPCC (2007). Summary for Policymakers. In: <em>Climate Change 2007: The Physical Science Basis</em></a>. </small><a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a><small> <em>Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</em> [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.<br /><sup id="t1fn2">2</sup>   <a href="http://www.eia.gov/energyexplained/index.cfm?page=electricity_in_the_united_states">U.S. Energy Information Administration (2016). <em>Electricity Explained - Basics</em></a>.<br /><sup id="t1fn3">3</sup>   <a href="http://www.ipcc.ch/publications_and_data/ar4/wg3/en/ch5.html">Kahn Ribeiro, S., S. Kobayashi, M. Beuthe, J. Gasca, D. Greene, D. S. Lee, Y. Muromachi, P. J. Newton, S. Plotkin, D. Sperling, R. Wit, P. J. Zhou (2007). <em>Transport and its infrastructure. In Climate Change 2007: Mitigation</em></a>. </small><a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a><small> <em>Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</em> [B. Metz, O.R. Davidson, P.R. Bosch, R. Dave, L.A. Meyer (eds.)], Cambridge University Press, Cambridge, United Kingdom.</small></p>
+
+		<p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="electricity">
+		<h2>Electricity Sector Emissions</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:412px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="457" width="412" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-electricity-1.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870&nbsp;<a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2&nbsp;</sub>equivalent</a></strong><br /><br />
+
+*&nbsp;<span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a>&nbsp;in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em></span><br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span>The Electricity sector involves the generation, transmission, and distribution of electricity. <a href="overview-greenhouse-gases.html#carbon-dioxide">Carbon dioxide (CO<sub>2</sub>)</a> makes up the vast majority of greenhouse gas emissions from the sector, but smaller amounts of <a href="overview-greenhouse-gases.html#methane">methane (CH<sub>4</sub>)</a> and <a href="overview-greenhouse-gases.html#nitrous-oxide">nitrous oxide (N<sub>2</sub>O)</a> are also emitted. These gases are released during the combustion of fossil fuels, such as coal, oil, and natural gas, to produce electricity. Less than 1 percent of greenhouse gas emissions from the sector come from <a href="overview-greenhouse-gases.html#f-gases">sulfur hexafluoride (SF<sub>6</sub>)</a>, an insulating chemical used in electricity transmission and distribution equipment.</p>
+
+		<h2>Greenhouse Gas Emissions in the Electricity Sector by Fuel Source</h2>
+
+		<p>Coal combustion is generally more carbon intensive than burning natural gas or petroleum for electricity. Although coal accounts for about 77 percent of CO<sub>2</sub> emissions from the sector, it represents about 39 percent of the electricity generated in the United States. About 27 percent of electricity generated in 2014 was generated using natural gas, an increase relative to 2013. Petroleum accounts for approximately 1 percent of electricity generation. The remaining generation comes from nuclear (about 19 percent) and renewable sources (about 13 percent), which include hydroelectricity, biomass, wind, and solar.<sup><a href="sources-greenhouse-gas-emissions.html#Electricity%20ref">1</a></sup> These other sources usually release fewer greenhouse gas emissions than fossil fuel combustion, if any emissions at all.</p>
+
+		<h2>Emissions and Trends</h2>
+
+		<p>In 2014, the electricity sector was the largest source of U.S. greenhouse gas emissions, accounting for about 30 percent of the U.S. total. Greenhouse gas emissions from electricity have increased by about 12 percent since 1990 as electricity demand has grown and fossil fuels have remained the dominant source for generation.</p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a></em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span>.</p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="Greenhouse Gas Emissions from Electricity" title="Greenhouse Gas Emissions from Electricity" height="584" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-electricity-2.png.html" /><span class="figcaption">Note: All emission estimates from the&nbsp;<a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br /><a href="../sites/production/files/styles/large/public/2016-05/sources-electricity-2_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Greenhouse Gas Emissions by Electricity End-Use</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:411px;"><img alt="Pie chart showing total U.S. Greenhouse Gas Emissions by Sector with Electricity Distributed. 34 percent is from Residential and Commercial, 29 percent is from industry, 26 percent is from transportation, and 10 percent is from agriculture." title="Pie chart showing total U.S. Greenhouse Gas Emissions by Sector with Electricity Distributed. 34 percent is from Residential and Commercial, 29 percent is from industry, 26 percent is from transportation, and 10 percent is from agriculture." height="416" width="411" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-electricity-3_0.png.html" /><span class="figcaption">Note: All emission estimates from the&nbsp;<a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br /><a href="../sites/production/files/styles/large/public/2016-05/sources-electricity-3_2.png.html" target="_blank">Larger image to save or print.</a></span></span>Electricity is consumed by other sectors<span><span lang="EN" xml:lang="EN">—</span></span>in homes, businesses, and factories. Therefore, it is possible to attribute the greenhouse gas emissions from electricity production to the sectors that use the electricity. Looking at greenhouse gas emissions by end-use sector can help us understand energy demand across sectors and changes in energy use over time.</p>
+
+		<p>When emissions from electricity are allocated to the end-use sector, industrial activities account for a much larger share of U.S. greenhouse gas emissions. Emissions from commercial and residential buildings also increase substantially when emissions from electricity are included, due to their relatively large share of electricity consumption (e.g., lighting and appliances).</p>
+
+		<h2>Reducing Emissions from Electricity</h2>
+
+		<p>There are a variety of opportunities to reduce greenhouse gas emissions associated with electricity generation, transmission, and distribution. The table shown below categorizes these opportunities and provides examples. For a more comprehensive list, see <a href="https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter7.pdf">Chapter 7</a> of the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<p>Under the president's <a href="http://www.whitehouse.gov/share/climate-action-plan">Climate Action Plan</a><span>, EPA is taking action to reduce emissions from power plants. </span><a href="../cleanpowerplan.html">Learn More</a>.</p>
+
+		<table><caption>Example Reduction Opportunities for the Electricity Sector</caption>
+			<thead><tr><th>Type</th>
+					<th><strong>How Emissions Are Reduced</strong></th>
+					<th><strong>Examples</strong></th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Increased Efficiency of Power Plants and Fuel Switching</td>
+					<td style="vertical-align:top">Increasing efficiency of existing power plants by using advanced technologies or substituting fuels that combust more efficiently.</td>
+					<td style="vertical-align:top">
+						<ul><li>Converting a conventional coal-powered steam turbine into an advanced turbine that uses pulverized coal.</li>
+							<li>Converting a coal-powered turbine into a natural gas-powered turbine.</li>
+							<li>Converting a single-cycle turbine into a combined-cycle turbine.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Renewable Energy</td>
+					<td style="vertical-align:top">Using renewable energy sources rather than fossil fuel to generate electricity.</td>
+					<td style="vertical-align:top">Increasing the share of total electricity generated from wind, solar, hydro, and geothermal sources and from certain biofuel sources.</td>
+				</tr><tr><td style="vertical-align:top">Increased Energy Efficiency (end-use)</td>
+					<td style="vertical-align:top">Reducing energy demand by increasing efficiency and conservation in homes, businesses, and industry.</td>
+					<td style="vertical-align:top">EPA's <a href="http://www.energystar.gov/" target="_blank">ENERGY STAR®</a> partners removed over 300 million metric tons of greenhouse gases in 2014 alone, and saved consumers and businesses over $34 billion on their utility bills.</td>
+				</tr><tr><td style="vertical-align:top">Nuclear Energy</td>
+					<td style="vertical-align:top">Generating electricity from nuclear processes rather than the combustion of fossil fuels.</td>
+					<td style="vertical-align:top">Building nuclear power plants as fossil fuel power plants are retired.</td>
+				</tr><tr><td style="vertical-align:top">Carbon Capture Sequestration and Storage (CCS)</td>
+					<td style="vertical-align:top">Capturing CO<sub>2</sub> as a byproduct of fossil fuel combustion before it enters the atmosphere and then transferring the CO<sub>2</sub> to a long-term storage area, such as an underground geologic formation.</td>
+					<td style="vertical-align:top">Capturing CO<sub>2</sub> from the stacks of a coal-fired power plant, and then transferring the CO<sub>2</sub> via pipeline to a nearby abandoned oil field where the CO<sub>2</sub> is injected underground. <a href="https://www3.epa.gov/climatechange/ccs/index.html">Learn more about CCS</a>.</td>
+				</tr></tbody></table><h3><a name="Electricity ref" id="Electricity ref"></a>Reference</h3>
+
+		<p><small>1. <a href="http://www.eia.gov/energyexplained/index.cfm?page=electricity_in_the_united_states">U.S. Energy Information Administration (2014). Electricity Explained - Basics.</a></small></p>
+
+		<p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="transportation">
+		<h2>Transportation Sector Emissions</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:405px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="467" width="405" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-transportation-1.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870&nbsp;<a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2</sub>&nbsp;equivalent</a></strong><br /><br />
+
+*&nbsp;<span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a>&nbsp;in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em></span><br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span>The Transportation sector includes the movement of people and goods by cars, trucks, trains, ships, airplanes, and other vehicles. The majority of greenhouse gas emissions from transportation are <a href="overview-greenhouse-gases.html#carbon-dioxide">carbon dioxide (CO<sub>2</sub>)</a> emissions resulting from the combustion of petroleum-based products, like gasoline, in internal combustion engines. The largest sources of transportation-related greenhouse gas emissions include passenger cars and light-duty trucks, including sport utility vehicles, pickup trucks, and minivans. These sources account for over half of the emissions from the sector. The remainder of greenhouse gas emissions comes from other modes of transportation, including freight trucks, commercial aircraft, ships, boats, and trains, as well as pipelines and lubricants.</p>
+
+		<p>Relatively small amounts of <a href="overview-greenhouse-gases.html#methane">methane (CH<sub>4</sub>)</a> and <a href="overview-greenhouse-gases.html#nitrous-oxide">nitrous oxide (N<sub>2</sub>O)</a> are emitted during fuel combustion. In addition, a small amount of <a href="overview-greenhouse-gases.html#f-gases">hydrofluorocarbon (HFC)</a> emissions are included in the Transportation sector. These emissions result from the use of mobile air conditioners and refrigerated transport.</p>
+
+		<h2>Emissions and Trends</h2>
+
+		<div class="box multi related-info right">
+			<h2 class="pane-title">Related Links</h2>
+
+			<div class="pane-content">
+				<ul><li><a href="../otaq/climate.html">Transportation and Climate</a></li>
+					<li><a href="http://fueleconomy.gov/">EPA and U.S. DOE Fuel Economy</a></li>
+					<li><a href="../smartway/index.htm">SmartWay</a></li>
+					<li><a href="https://www3.epa.gov/climatechange/wycd/road.html">On The Road</a></li>
+					<li><a href="../dced/index.htm">Smart Growth</a></li>
+					<li><a href="../otaq/fuels/alternative-renewablefuels/index.htm">Renewable Fuel Standard</a></li>
+					<li><a href="us-greenhouse-gas-inventory-report-1990-2014.html">U.S. Inventory's section on Fossil Fuel Combustion</a></li>
+				</ul></div>
+		</div>
+
+		<p>In 2014, greenhouse gas emissions from transportation accounted for about 26 percent of total U.S. greenhouse gas emissions, making it the second largest contributor of U.S. greenhouse gas emissions after the <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#electricity">Electricity sector</a></span>. Greenhouse gas emissions from transportation have increased by about 17 percent since 1990. This historical increase is largely due to increased demand for travel and the limited gains in fuel efficiency across the U.S. vehicle fleet. The number of vehicle miles traveled by passenger cars and light-duty trucks increased 37 percent from 1990 to 2014. The increase in travel miles is attributed to several factors, including population growth, economic growth, urban sprawl, and low fuel prices during the beginning of this period. Between 1990 and 2004, average fuel economy among new vehicles sold annually declined, as sales of light-duty trucks increased. However, new vehicle fuel economy began to improve in 2005, largely due to a lower light-duty truck market share and higher fuel economy standards.</p>
+
+		<p>Learn more about <a href="../otaq/climate/measuring.htm">Greenhouse Gas Emissions from Transportation</a>. To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a></em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span>.</p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="Line graph of greenhouse gas emissions from transportation for 1990 to 2014. The GHG emissions started just above 1,500 MMtCO2e in 1990, and rose to a peak of just above 2,000 million in 2005. It ends just above 1,800 MMtCO2e." title="Line graph of greenhouse gas emissions from transportation for 1990 to 2014. The GHG emissions started just above 1,500 MMtCO2e in 1990, and rose to a peak of just above 2,000 million in 2005. It ends just above 1,800 MMtCO2e." height="574" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-transportation-2.png.html" /><span class="figcaption">Note: Emissions involved in the consumption of electricity for transportation activities are included above, but not shown separately (as was done for other sectors). These indirect emissions are negligible, accounting for less than 1 percent of the total emissions shown in the graph.<br />
+Note: All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em><br /><br /><a href="../sites/production/files/styles/large/public/2016-05/sources-transportation-2_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Reducing Emissions from Transportation</h2>
+
+		<p>There are a variety of opportunities to reduce greenhouse gas emissions associated with transportation. The table shown below categorizes these opportunities and provides examples. For a more comprehensive list, see <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter8.pdf">Chapter 8</a> of the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<p>EPA's <a href="../otaq/climate/regulations.htm">vehicle greenhouse gas rules</a> will save consumers $1.7 trillion at the pump by 2025, and eliminate 6 billion metric tons of greenhouse gas pollution.</p>
+
+		<table><caption>Examples of Reduction Opportunities in the Transportation Sector</caption>
+			<thead><tr><th scope="col">Type</th>
+					<th scope="col">How Emissions Are Reduced</th>
+					<th scope="col">Examples</th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Fuel Switching</td>
+					<td style="vertical-align:top">Using fuels that emit less CO<sub>2</sub> than fuels currently being used. Alternative sources can include biofuels; hydrogen; electricity from renewable sources, such as wind and solar; or fossil fuels that are less CO<sub>2</sub>-intensive than the fuels that they replace.<br />
+						Learn more about <a href="../otaq/fuels/alternative-renewablefuels/index.htm">Alternative and Renewable Fuels</a>.</td>
+					<td style="vertical-align:top">
+						<ul><li>Using public buses that are fueled by compressed natural gas rather than gasoline or diesel.</li>
+							<li>Using electric or hybrid automobiles, provided that the energy is generated from lower-carbon or non-fossil fuels.</li>
+							<li>Using renewable fuels such as low-carbon biofuels.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Improving Fuel Efficiency with Advanced Design, Materials, and Technologies</td>
+					<td style="vertical-align:top">Using advanced technologies, design, and materials to develop more fuel-efficient vehicles.<br /><br />
+						Learn about EPA's <a href="../otaq/climate/regulations.htm">vehicle greenhouse gas rules</a>.</td>
+					<td style="vertical-align:top">
+						<ul><li>Developing advanced vehicle technologies such as hybrid vehicles and electric vehicles, that can store energy from braking and use it for power later.</li>
+							<li>Reducing the weight of materials used to build vehicles.</li>
+							<li>Reducing the aerodynamic resistance of vehicles through better shape design.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Improving Operating Practices</td>
+					<td style="vertical-align:top">Adopting practices that minimize fuel use.<br />
+						Improving <a href="https://www3.epa.gov/climatechange/wycd/road.html">driving practices and vehicle maintenance</a>.<br />
+						Learn about how the freight transportation industry can reduce emissions through EPA's <a href="../smartway/index.htm">SmartWay Program</a>.</td>
+					<td style="vertical-align:top">
+						<ul><li>Reducing the average taxi time for aircraft.</li>
+							<li>Driving sensibly (avoiding rapid acceleration and braking, observing the speed limit).</li>
+							<li>Reducing engine-idling.</li>
+							<li>Improved voyage planning for ships, such as through improved weather routing, to increase fuel efficiency.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Reducing Travel Demand</td>
+					<td style="vertical-align:top">Employing urban planning to reduce the number of miles that people drive each day.<br />
+						Learn about EPA's <a href="../dced.html">Smart Growth Program</a>.<br /><br />
+						Reducing the need for driving through travel efficiency measures such as commuter, biking, and pedestrian programs. <br /><a href="../otaq/stateresources/rellinks/mms_bikepedprogs.htm">See a list of links to state, local, and regional travel-efficiency programs.</a></td>
+					<td style="vertical-align:top">
+						<ul><li>Building public transportation, sidewalks, and bike paths to increase lower-emission transportation choices.</li>
+							<li>Zoning for mixed use areas, so that residences, schools, stores, and businesses are close together, reducing the need for driving.</li>
+						</ul></td>
+				</tr></tbody></table><p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="industry">
+		<h2>Industry Sector Emissions</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:412px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="457" width="412" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-industry-1.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870 <a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2</sub>&nbsp;equivalent</a></strong>
+&nbsp;<br /><br />
+
+* <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a> in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em></span><br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span>The Industry sector produces the goods and raw materials we use every day. The greenhouse gases emitted during industrial production are split into two categories:<strong> direct emissions</strong> that are produced at the facility, and <strong>indirect emissions</strong> that occur off site, but are associated with the facility's use of energy.</p>
+
+		<p><strong>Direct emissions</strong> are produced by burning fuel for power or heat, through chemical reactions, and from leaks from industrial processes or equipment. Most direct emissions come from the consumption of fossil fuels for energy. A smaller amount, roughly a third, come from leaks from natural gas and petroleum systems, the use of fuels in production (e.g., petroleum products used to make plastics), and chemical reactions during the production of chemicals, iron and steel, and cement.</p>
+
+		<p><strong>Indirect emissions</strong> are produced by burning fossil fuel at a power plant to make electricity, which is then used by an industrial facility to power industrial buildings and machinery.</p>
+
+		<p>More information about facility-level emissions from large industrial sources is available through EPA's Greenhouse Gas Reporting Program's <a href="http://ghgdata.epa.gov/ghgp/main.do">data publication tool</a>. National-level information about emissions from industry as a whole can be found in the <a href="us-greenhouse-gas-inventory-report-1990-2014.html">sections on Fossil Fuel Combustion and the Industrial Processes chapter in the </a><em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks</a>.</em></p>
+
+		<h2>Emissions and Trends</h2>
+
+		<p>In 2014, direct industrial greenhouse gas emissions accounted for approximately 21 percent of total U.S. greenhouse gas emissions, making it the third largest contributor to U.S. greenhouse gas emissions, after the <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#electricity">Electricity</a></span> and <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#transportation">Transportation</a></span> sectors. If both direct and indirect emissions associated with electricity use are included, industry's share of total U.S. greenhouse gas emissions in 2014 was 29 percent, making it the largest contributor of greenhouse gases of any sector. Greenhouse gas emissions from industry have declined by almost 10 percent since 1990, while emissions from most other sectors have increased.</p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a>.</em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="Direct &amp; indirect GHG emissions from industry electricity-consumption for 1990-2014: In 1990, total emissions are ~2,250 million metric tons of CO2 equivalents. Total emissions peak at ~2,400 in 1998, trough at ~1,850 in 2009, &amp; reach ~2,000 in 2014." title="Direct &amp; indirect GHG emissions from industry electricity-consumption for 1990-2014: In 1990, total emissions are ~2,250 million metric tons of CO2 equivalents. Total emissions peak at ~2,400 in 1998, trough at ~1,850 in 2009, &amp; reach ~2,000 in 2014." height="589" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-industry-2.png.html" /><span class="figcaption">All emission estimates from the <a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/sources-industry-2_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Reducing Emissions from Industry</h2>
+
+		<p>There are a wide variety of industrial activities that cause greenhouse gas emissions, and many opportunities to reduce them. The table shown below provides some examples of opportunities for industry to reduce emissions. For a more comprehensive list, see <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf">Chapter 10</a> of the <em><a href="https://www.ipcc.ch/report/ar5/wg3/">Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</a>.</em> <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<table><caption>Examples of Reduction Opportunities for the Industry Sector</caption>
+			<thead><tr><th>Type</th>
+					<th><strong>How Emissions Are Reduced</strong></th>
+					<th><strong>Examples</strong></th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Energy Efficiency</td>
+					<td style="vertical-align:top">Upgrading to more efficient industrial technology.<br />
+						EPA's <a href="http://www.energystar.gov/index.cfm?c=industry.bus_industry">ENERGY STAR®</a> program helps industries become more energy-efficient.</td>
+					<td style="vertical-align:top">Identifying the ways that <a href="http://www.energystar.gov/ia/business/industry/LBNL-50939.pdf">manufacturers</a><span class="fileinfo">(87 pp, 1 M, <a href="../home/pdf-files.html">About PDF</a>)</span> can use less energy to light and heat factories or to run equipment.</td>
+				</tr><tr><td style="vertical-align:top">Fuel Switching</td>
+					<td style="vertical-align:top">Switching to fuels that result in less CO<sub>2</sub> emissions but the same amount of energy, when combusted.</td>
+					<td style="vertical-align:top">Using natural gas instead of coal to run machinery.</td>
+				</tr><tr><td style="vertical-align:top">Recycling</td>
+					<td style="vertical-align:top">Producing industrial products from materials that are recycled or renewable, rather than producing new products from raw materials.</td>
+					<td style="vertical-align:top">Using scrap steel and scrap aluminum as opposed to smelting new aluminum or forging new steel.</td>
+				</tr><tr><td style="vertical-align:top">Training and Awareness</td>
+					<td style="vertical-align:top">
+						<p>Making companies and workers aware of the steps to reduce or prevent emissions leaks from equipment.<br />
+							EPA has a variety of voluntary programs that provide resources for training and other steps for reducing emissions. EPA supports programs for the <a href="../f-gas-partnership-programs/voluntary-aluminum-industrial-partnership.html">aluminum</a>, <a href="../f-gas-partnership-programs/semiconductor-industry.html">semiconductor</a>, and <a href="../f-gas-partnership-programs/magnesium-industry.html">magnesium</a> industries.</p>
+					</td>
+					<td style="vertical-align:top">Instituting handling policies and procedures for perfluorocarbons (PFCs), hydrofluorocarbons (HFCs), and sulfur hexafluoride (SF<sub>6</sub>) that reduce occurrences of accidental releases and leaks from containers and equipment.<br />
+						 
+						
+					</td>
+				</tr></tbody></table><p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="commercial-and-residential">
+		<h2>Commercial and Residential Sector Emissions</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:416px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="466" width="416" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-commercial.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870 <a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2</sub>&nbsp;equivalent</a></strong>
+&nbsp;<br /><br />
+
+* <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a> in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em></span><br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span>The residential and commercial sectors include all homes and commercial businesses (excluding agricultural and industrial activities). Greenhouse gas emissions from this sector come from fossil fuel combustion for heating and cooking needs, management of waste and wastewater, and leaks from refrigerants in homes and businesses. Indirect emissions, resulting from electricity consumed by homes and businesses, are discussed on the <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#electricity">Electricity sector</a></span> page.</p>
+
+		<p>Residential and commercial activities contribute to emissions in a variety of ways:</p>
+
+		<ul><li>Combustion of natural gas and petroleum products for heating and cooking needs emits <a href="overview-greenhouse-gases.html#carbon-dioxide">carbon dioxide (CO<sub>2</sub>)</a>, <a href="overview-greenhouse-gases.html#methane">methane (CH<sub>4</sub>)</a>, and <a href="overview-greenhouse-gases.html#nitrous-oxide">nitrous oxide (N<sub>2</sub>O)</a>. Emissions from natural gas consumption represent about 81 percent of the direct fossil fuel CO<sub>2</sub> emissions from the residential and commercial sectors. Coal consumption is a minor component of energy use in both of these sectors.</li>
+			<li>Organic waste sent to landfills emits CH<sub>4</sub>.</li>
+			<li>Wastewater treatment plants emit CH<sub>4</sub> and N<sub>2</sub>O.</li>
+			<li><a href="overview-greenhouse-gases.html#f-gases">Fluorinated gases</a> (mainly hydrofluorocarbons, or HFCs) used in air conditioning and refrigeration systems can be released during servicing or from leaking equipment.</li>
+		</ul><p>More national-level information about emissions from the residential and commercial sectors can be found in the <a href="us-greenhouse-gas-inventory-report-1990-2014.html">U.S. Inventory's Energy and Trends chapters</a>.</p>
+
+		<h2>Emissions and Trends</h2>
+
+		<p>In 2014, direct greenhouse gas emissions from homes and businesses accounted for approximately 12 percent of total U.S. greenhouse gas emissions. Greenhouse gas emissions from homes and businesses have generally been increasing since 1990, but vary from year to year based on short-term fluctuations in energy consumption caused by weather conditions. Total residential and commercial greenhouse gas emissions in 2014 have increased by about 11 percent since 1990. Greenhouse gas emissions from on-site energy combustion in homes and businesses have increased by about 11 percent since 1990. Additionally, indirect emissions from <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#electricity">electricity</a></span> use by homes and businesses have increased by 27 percent since 1990, due to increasing electricity consumption for lighting, heating, air conditioning, and appliances.</p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a>.</em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="Direct &amp; indirect GHG emissions from homes &amp; businesses for 1990-2014: Direct emissions remain relatively constant over the time span, at 750-850 million metric tons of CO2 equivalents. Total emissions increase from ~1,900 in 1990 to ~2,300 in 2014." title="Direct &amp; indirect GHG emissions from homes &amp; businesses for 1990-2014: Direct emissions remain relatively constant over the time span, at 750-850 million metric tons of CO2 equivalents. Total emissions increase from ~1,900 in 1990 to ~2,300 in 2014." height="553" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-commercial-2.png.html" /><span class="figcaption">All emission estimates from the <a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/sources-commercial-2_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Reducing Emissions from Homes and Businesses</h2>
+
+		<p>The table shown below provides some examples of opportunities to reduce emissions from homes and businesses. For a more comprehensive list of options and a detailed assessment of how each option affects different gases, see <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter9.pdf">Chapter 9</a> and <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter12.pdf">Chapter 12</a> of the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<table><caption>Examples of Reduction Opportunities in the Residential and Commercial Sector</caption>
+			<thead><tr><th>Type</th>
+					<th>How Emissions Are Reduced</th>
+					<th>Examples</th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Homes and Commercial Buildings</td>
+					<td style="vertical-align:top">Reducing energy use through energy efficiency.</td>
+					<td style="vertical-align:top">Homes and commercial buildings use large amounts of energy for heating, cooling, lighting, and other functions. "Green building" techniques and retrofits can allow new and existing buildings to use less energy to accomplish the same functions, leading to fewer greenhouse gas emissions. Techniques to improve building energy efficiency include better insulation; more energy-efficient heating, cooling, ventilation, and refrigeration systems; efficient fluorescent lighting; passive heating and lighting to take advantage of sunlight; and the purchase of energy-efficient appliances and electronics. Learn more about <a href="http://www.energystar.gov">ENERGY STAR®</a>.</td>
+				</tr><tr><td style="vertical-align:top">Wastewater Treatment</td>
+					<td style="vertical-align:top">Making water and wastewater systems more energy-efficient.</td>
+					<td style="vertical-align:top">Drinking water and wastewater systems account for approximately 3 percent to 4 percent of energy use in the United States. Studies estimate potential savings of 15 percent to 30 percent that are "readily achievable" in water and wastewater plants.<sup><a href="sources-greenhouse-gas-emissions.html#t5fn1">1</a></sup><br />
+						Learn more about <a href="http://water.epa.gov/infrastructure/sustain/energyefficiency.cfm">Energy Efficiency for Water and Wastewater Utilities</a>.</td>
+				</tr><tr><td style="vertical-align:top">Waste Management</td>
+					<td style="vertical-align:top">Reducing solid waste sent to landfills.<br />
+						Capturing and using methane produced in current landfills.</td>
+					<td style="vertical-align:top">Landfill gas is the natural byproduct of the decomposition of solid waste in landfills. It primarily consists of CO<sub>2</sub> and CH<sub>4</sub>.<br />
+						Well established, low-cost methods to reduce greenhouse gases from consumer waste exist, including recycling programs, waste reduction programs, and landfill methane capture programs.
+						<ul><li>Learn about EPA's <a href="../epawaste/index.htm">waste reduction and resource conservation efforts</a>.</li>
+							<li>Learn more about <a href="../climatechange/climate-change-and-waste.html">climate change and waste</a>.</li>
+							<li>Learn about EPA's <a href="../lmop.html">Landfill Methane Outreach Program</a>, which promotes the recovery and use of landfill gas.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Refrigeration</td>
+					<td style="vertical-align:top">Reducing leakage from refrigeration equipment.<br />
+						Using refrigerants with lower global warming potentials.</td>
+					<td style="vertical-align:top">Commonly used refrigerants include ozone-depleting hydrochlorofluorocarbon (HCFC) refrigerants, often HCFC-22, and blends consisting entirely or primarily of hydrofluorocarbons (HFCs), both of which are potent greenhouse gases. In recent years there have been several advancements in refrigeration technology that can help food retailers reduce both refrigerant charges and refrigerant emissions.<br />
+						Learn more about EPA's <a href="../greenchill.html">GreenChill Program</a> to reduce greenhouse gas emissions from commercial refrigerators.</td>
+				</tr></tbody></table><h3>References</h3>
+
+		<p><small><sup id="t5fn1">1</sup>   <a href="http://water.epa.gov/infrastructure/sustain/energyefficiency.cfm">EPA (2012). Energy Efficiency for Water and Wastewater Utilities</a>. Accessed 03/13/2012</small></p>
+
+		<p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="agriculture">
+		<h2>Agriculture Sector Emissions</h2>
+
+		<p><span
+    class="figure image file file-image file-image-png right view-mode-medium caption" style="width:419px;"><img alt="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." title="Pie chart of total U.S. greenhouse gas emissions by economic sector in 2014. 30 percent is from electricity, 26 percent is from transportation, 21 percent is from industry, 12 percent is from commercial and residential, and 9 percent is from agriculture." height="465" width="419" class="right media-element file-medium right" typeof="foaf:Image" src="../sites/production/files/styles/medium/public/2016-05/sources-agriculture.png.html" /><span class="figcaption"><strong>Total Emissions in 2014 = 6,870 <a class="colorbox-inline" href="sources-greenhouse-gas-emissions.html#colorbox-hidden">Million Metric Tons of CO<sub>2</sub>&nbsp;equivalent</a></strong><br /><br />
+
+* <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry</a> in the United States is a net sink and offsets approximately 11 percent&nbsp;of these greenhouse gas emissions.<br />
+	All emission estimates from the&nbsp;<em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a>.</em><br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/ghge-sources-overview_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<p>Agricultural activities – the cultivation of crops and livestock for food – contribute to emissions in a variety of ways:</p>
+
+		<ul><li>Various management practices for agricultural soils can lead to production and emission of <a href="overview-greenhouse-gases.html#nitrous-oxide">nitrous oxide (N<sub>2</sub>O)</a>. The large number of different activities that can contribute to N<sub>2</sub>O emissions from agricultural lands range from fertilizer application to methods of irrigation and tillage. Management of agricultural soils accounts for over half of the emissions from the Agriculture sector.*</li>
+			<li>Livestock, especially cattle, produce <a href="overview-greenhouse-gases.html#methane">methane (CH<sub>4</sub>)</a> as part of their digestion. This process is called enteric fermentation, and it represents almost one third of the emissions from the Agriculture sector.</li>
+			<li>The way in which manure from livestock is managed also contributes to CH<sub>4</sub> and N<sub>2</sub>O emissions. Manure storage methods and the amount of exposure to oxygen and moisture can affect how these greenhouse gases are produced. Manure management accounts for about 14 percent of the total greenhouse gas emissions from the Agriculture sector in the United States.</li>
+			<li>Smaller sources of emissions include rice cultivation, which produces CH<sub>4</sub>, and burning crop residues, which produce CH<sub>4</sub> and N<sub>2</sub>O.</li>
+		</ul><p>More national-level information about emissions from agriculture can be found in the <a href="us-greenhouse-gas-inventory-report-1990-2014.html">agriculture chapter in the </a><em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks</a>.</em></p>
+
+		<p>* Management of agricultural soils can also lead to emissions of <a href="overview-greenhouse-gases.html#carbon-dioxide">carbon dioxide (CO<sub>2</sub>)</a>. However, these emissions are included under the <span class="menu-internal"><a href="sources-greenhouse-gas-emissions.html#land-use-and-forestry">Land Use, Land-Use Change, and Forestry sector</a></span>.</p>
+
+		<h2>Emissions and Trends</h2>
+
+		<p>In 2014, greenhouse gas emissions from agriculture accounted for approximately 9 percent of total U.S. greenhouse gas emissions. Greenhouse gas emissions from agriculture have increased by approximately 11 percent since 1990. One driver for this increase has been the 54 percent growth in combined CH<sub>4</sub> and N<sub>2</sub>O emissions from livestock manure management systems, reflecting the increased use of emission-intensive liquid systems over this time period. Emissions from agricultural soil management have also increased by about 5 percent since 1990. Emissions from other agricultural sources have either remained flat or changed by a relatively small amount since 1990.</p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a>.</em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="GHG emissions from agriculture for 1990-2014: Indirect emissions remain relatively constant over the time span, at ~65 million metric tons of CO2 equivalents. Direct emissions start at ~560 in 1990, and peak at ~635 in 2012. 2014 total emissions are ~690." title="GHG emissions from agriculture for 1990-2014: Indirect emissions remain relatively constant over the time span, at ~65 million metric tons of CO2 equivalents. Direct emissions start at ~560 in 1990, and peak at ~635 in 2012. 2014 total emissions are ~690." height="588" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-agriculture-1.png.html" /><span class="figcaption">All emission estimates from the <a href="us-greenhouse-gas-inventory-report-1990-2014.html"><em>Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</em></a>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/sources-agriculture-1_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Reducing Emissions from Agriculture</h2>
+
+		<p>The table shown below provides some examples of opportunities to reduce emissions from agriculture. For a more comprehensive list of options and a detailed assessment of how each option affects different gases, see <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter11.pdf">Chapter 11</a> of the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<table><caption>Examples of Reduction Opportunities for the Agriculture Sector</caption>
+			<thead><tr><th>Type</th>
+					<th><strong>How Emissions Are Reduced</strong></th>
+					<th><strong>Examples</strong></th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Land and Crop Management</td>
+					<td style="vertical-align:top">Adjusting the methods for managing land and growing crops.</td>
+					<td style="vertical-align:top">
+						<ul><li>Fertilizing crops with the precise amount of nitrogen required, since less efficient nitrogen application can lead to higher N<sub>2</sub>O emissions.</li>
+							<li>Draining water from wetland rice soils during the growing season to reduce CH<sub>4</sub> emissions.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Livestock Management</td>
+					<td style="vertical-align:top">Adjusting feeding practices and other management methods to reduce the amount of CH<sub>4</sub> resulting from enteric fermentation.</td>
+					<td style="vertical-align:top">Improving pasture quality to increase animal productivity, which can reduce the amount of CH<sub>4</sub> emitted per unit of animal product. Also, increased productivity can be accomplished through breeding.</td>
+				</tr><tr><td style="vertical-align:top">Manure Management</td>
+					<td style="vertical-align:top">
+						<ul><li>Controlling the way in which manure decomposes to reduce N<sub>2</sub>O and CH<sub>4</sub> emissions.</li>
+							<li>Capturing CH<sub>4</sub> from manure decomposition to produce renewable energy.</li>
+						</ul></td>
+					<td style="vertical-align:top">
+						<ul><li>Handling manure as a solid or depositing it on pasture rather than storing it in a liquid-based system such as a lagoon. This would likely reduce CH<sub>4</sub> emissions but may increase N<sub>2</sub>O emissions.</li>
+							<li>Storing manure in anaerobic containment areas to maximize CH<sub>4</sub> production and then capturing the CH<sub>4</sub> to use as an energy substitute for fossil fuels.</li>
+							<li>For more information, see EPA's <a href="../agstar.html">AgSTAR</a> Program, a voluntary outreach and education program that promotes recovery and use of methane from animal manure.</li>
+						</ul></td>
+				</tr></tbody></table><p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+
+	<div id="land-use-and-forestry">
+		<h2>Land Use, Land-Use Change, and Forestry Sector Emissions</h2>
+
+		<p>Plants absorb <a href="overview-greenhouse-gases.html#carbon-dioxide">carbon dioxide (CO<sub>2</sub>)</a> from the atmosphere as they grow, and they store some of the carbon throughout their lifetime. Soils can also store CO<sub>2</sub>, depending on how the soil is managed. This storage of carbon in plants and soils is called biological carbon sequestration. Because biological sequestration takes CO<sub>2</sub> out of the atmosphere, it is also called a greenhouse gas "sink."</p>
+
+		<p>Emissions or sequestration of CO<sub>2</sub> can occur as land uses change. For example, CO<sub>2</sub> is exchanged between the atmosphere and the plants and soils on land as former cropland is converted into grassland, as new areas are cultivated and become cropland, or as forests grow. In addition, using biological feedstocks (such as energy crops or wood) for purposes such as electricity generation, input to processes that create liquid fuels, or building materials can lead to emissions or sequestration.</p>
+
+		<p>In the United States overall, since 1990, land use, land-use change, and forestry activities have resulted in more removal of CO<sub>2</sub> from the atmosphere than emissions. Because of this, the Land Use, Land-Use Change, and Forestry (LULUCF) sector in the United States is considered a net sink, rather than a source, of CO<sub>2</sub> over this period. In many areas of the world, the opposite is true: In countries where large areas of forest land are cleared, often for agricultural purposes or for settlements, the LULUCF sector can be a net source of greenhouse gas emissions.</p>
+
+		<ul><li>More national-level information about land use, land-use change, and forestry is available from the <a href="us-greenhouse-gas-inventory-report-1990-2014.html">Land Use, Land-Use Change, and Forestry chapter in the <em>Inventory of U.S. Greenhouse Gas Emissions and Sinks</em></a>.</li>
+			<li>See EPA's <a href="global-greenhouse-gas-emissions-data.html">Global Greenhouse Gas emissions page</a> for more information about global greenhouse gas emissions from land use and forestry activities.</li>
+			<li>For more information about global emissions from land use and forestry activities, see the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></li>
+		</ul><h2>Emissions and Trends</h2>
+
+		<p>In 2014, the net CO<sub>2</sub> removed from the atmosphere from the LULUCF sector offset about 11 percent of total U.S. greenhouse gas emissions. Forests (including vegetation, soils, and harvested wood) accounted for approximately 87 percent of the total 2014 LULUCF CO<sub>2</sub> removals.</p>
+
+		<p>The net carbon sequestration by the LULUCF sector has increased by about 5 percent since 1990, largely as a result of changes in the land area of forests and improved forest management.</p>
+
+		<p>To learn about projected greenhouse gas emissions to 2020, visit the <em><a href="http://www.state.gov/documents/organization/219038.pdf">U.S. Climate Action Report 2014</a>.</em><span class="fileinfo">(310 pp, 23 M, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+		<p><span
+    class="figure image file file-image file-image-png center view-mode-full caption" style="width:928px;"><img alt="GHG emissions from land use, land use change, &amp; forestry for 1990-2014: Emissions start at -740 million metric tons of CO2 equivalent and peak at -660 in 2002. From 2002 onward, emissions drop quickly to a low of -770 in 2010, and ends at -760 in 2014." title="GHG emissions from land use, land use change, &amp; forestry for 1990-2014: Emissions start at -740 million metric tons of CO2 equivalent and peak at -660 in 2002. From 2002 onward, emissions drop quickly to a low of -770 in 2010, and ends at -760 in 2014." height="641" width="928" class="center media-element file-full" typeof="foaf:Image" src="../sites/production/files/styles/large/public/2016-05/sources-lulucf.png.html" /><span class="figcaption">*Note: The LULUCF sector is a net &quot;sink&quot; of emissions in the United States (e.g., more greenhouse gas emissions are sequestered than emitted from land use activities), so net greenhouse gas emissions from LULUCF are negative.<br />
+	All emission estimates from the <em><a href="us-greenhouse-gas-inventory-report-1990-2014.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990&ndash;2014</a></em>.<br /><br />
+<a href="../sites/production/files/styles/large/public/2016-05/sources-lulucf_1.png.html" target="_blank">Larger image to save or print.</a></span></span></p>
+
+		<h2>Reducing Emissions and Enhancing Sinks from Land Use, Land-Use Change, and Forestry</h2>
+
+		<p>In the LULUCF sector, opportunities exist to reduce emissions and increase the potential to sequester carbon from the atmosphere by enhancing sinks. The table shown below provides some examples of opportunities for both reducing emissions and enhancing sinks. For a more comprehensive list, see <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter11.pdf">Chapter 11</a> of the <a href="https://www.ipcc.ch/report/ar5/wg3/"><em>Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</em></a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+
+		<table><caption>Examples of Reduction Opportunities in the LULUCF Sector</caption>
+			<thead><tr><th>Type</th>
+					<th><strong>How Emissions Are Reduced or Sinks Are Enhanced Examples</strong></th>
+					<th><strong>Examples</strong></th>
+				</tr></thead><tbody><tr><td style="vertical-align:top">Change in Uses of Land</td>
+					<td style="vertical-align:top">Increasing carbon storage by using land differently or maintaining carbon storage by avoiding land degradation.</td>
+					<td style="vertical-align:top">
+						<ul><li>Encouraging the transformation of cropland to forest.</li>
+							<li>Avoiding the conversion of forest land to settlements.</li>
+						</ul></td>
+				</tr><tr><td style="vertical-align:top">Changes in Land Management Practices</td>
+					<td style="vertical-align:top">Improving management practices on existing land-use types.</td>
+					<td style="vertical-align:top">
+						<ul><li>Reducing soil erosion to minimize losses in soil carbon storage.</li>
+							<li>Planting after natural or human-induced forest disturbances to accelerate vegetation growth and minimize soil carbon losses.</li>
+						</ul></td>
+				</tr></tbody></table><p class="pagetop"><a href="sources-greenhouse-gas-emissions.html#main-content">Top of Page</a></p>
+	</div>
+</div>
+
+<div id="hidden-content">
+	<div class="colorbox-hidden" id="colorbox-hidden">
+		<h3 id="dialog-title">6,870 million metric tons of CO<sub>2</sub> equivalent – what does that mean?</h3>
+
+		<h4>An Explanation of Units</h4>
+
+		<p>A million metric tons is equal to about 2.2 billion pounds, or 1 trillion grams. For comparison, a small car is likely to weigh a little more than 1 metric ton. Thus, a million metric tons is roughly the same mass as 1 million small cars!</p>
+
+		<p>The U.S. Inventory uses metric units for consistency and comparability with other countries. For reference, a metric ton is a little bit larger (about 10 percent) than a U.S. "short" ton.</p>
+
+		<p>Greenhouse gas emissions are often measured in carbon dioxide (<em>CO<sub>2</sub></em>) <em>equivalent</em>. To convert emissions of a gas into CO<sub>2</sub> equivalent, its emissions are multiplied by the gas's <a href="understanding-global-warming-potentials.html">Global Warming Potential (GWP)</a>. The GWP takes into account the fact that many gases are more effective at warming Earth than CO<sub>2</sub>, per unit mass.</p>
+
+		<p>The GWP values appearing in the Emissions Web pages reflect the values used in the U.S. Inventory, which are drawn from the IPCC's Second Assessment Report (SAR). For further discussion of GWPs and an estimate of greenhouse gas emissions using updated GWPs, see Annex 6 of the <a href="us-greenhouse-gas-inventory-report-1990-2014.html">U.S. Inventory</a> and the <a href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-2.html">IPCC's discussion on GWPs</a>. <a class="exit-disclaimer" href="../home/exit-epa.html" title="EPA's External Link Disclaimer">Exit</a></p>
+	</div>
+</div>
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/contact-us-about-greenhouse-gas-emissions.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Greenhouse Gas Emissions</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../climatechange/index.html" title="" class="menu-link">Climate Change Home</a></li>
+<li class="expanded active-trail menu-item"><a href="../ghgemissions.html" title="" class="menu-node-unpublished active-trail menu-link">Greenhouse Gas Emissions</a><ul class="menu"><li class="menu-item"><a href="overview-greenhouse-gases.html" class="menu-node-unpublished menu-link">Overview of Greenhouse Gases</a></li>
+<li class="active-trail menu-item"><a href="sources-greenhouse-gas-emissions.html" class="menu-node-unpublished active-trail menu-link active">Sources of Greenhouse Gas Emissions</a></li>
+<li class="menu-item"><a href="global-greenhouse-gas-emissions-data.html" class="menu-node-unpublished menu-link">Global Emissions</a></li>
+<li class="menu-item"><a href="us-greenhouse-gas-inventory-report-1990-2014.html" class="menu-node-unpublished menu-link">National Emissions</a></li>
+<li class="menu-item"><a href="../ghgreporting.html" title="" class="menu-link">Facility-Level Emissions</a></li>
+<li class="menu-item"><a href="household-carbon-footprint-calculator.html" class="menu-node-unpublished menu-link">Carbon Footprint Calculator</a></li>
+<li class="menu-item"><a href="../energy/greenhouse-gas-equivalencies-calculator.html" title="" class="menu-link">GHG Equivalencies Calculator </a></li>
+</ul></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on October 6, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke86b.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"A_DJw7ONM1lqKn6jtwKXZARiQPE1fc3XFQUlDlTrt-U"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"126337"}});
+//--><!]]>
+</script>
+<script src="../sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js"></script>
+
+<script>
+ jQuery(document).ready(function() {
+  // Hide the inline content
+  jQuery("#hidden-content").css({'display':'none'});
+  // Open inlined content in "box"
+  jQuery(".colorbox-inline").colorbox({inline:true,width:"50%"});
+
+jQuery('#tabs > div').hide(); // hide all child divs
+  jQuery('#tabs div:first').show(); // show first child dive
+  jQuery('#tabsnav li:first').addClass('active');
+
+  jQuery('a.menu-internal').click(function(){
+    jQuery('#tabsnav li').removeClass('active');
+    var currentTab = jQuery(this).attr('href');
+    jQuery('#tabsnav li a[href="'+currentTab+'"]').parent().addClass('active');
+    jQuery('#tabs > div').hide();
+    jQuery(currentTab).show();
+
+    return false;
+  });
+
+  // links to tabs on the same page
+  jQuery('span.menu-internal a').click(function(){
+    jQuery('#tabsnav li').removeClass('active');
+    var pageTab = jQuery(this).attr('href').split('#')[1];
+    jQuery('#tabsnav li a[href="#' + pageTab + '"]').parent().addClass('active');
+    jQuery('#tabs > div').hide();
+    jQuery('#' + pageTab).show();
+$("#tabs").scrollTop();
+    return false;
+
+  });
+jQuery('#tabs ul > li').css('padding-right', '0.35em');
+  // Create a bookmarkable tab link
+  hash = window.location.hash;
+  elements = jQuery('a[href="'+hash+'"]'); // look for tabs that match the hash
+  if (elements.length === 0) { // if there aren't any, then
+    jQuery("ul.tabs li:first").addClass("active").show(); // show the first tab
+  } else { // else, open the tab in the hash
+    elements.click();
+  }
+ });
+</script>    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":18950,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
