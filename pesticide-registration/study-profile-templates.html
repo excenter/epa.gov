@@ -1,0 +1,801 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta http-equiv="cleartype" content="on" />
+<!--googleon: all--><meta name="DC.description" content="Listing of study profile templates and brief description about each to include downloadable file in Word and/or PDF formats." />
+<meta name="DC.title" content="Study Profile Templates" />
+<!--googleoff: snippet--><meta name="keywords" content="study templates, study submissions, study profiles" />
+<link rel="canonical" href="study-profile-templates.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/17845" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Laws &amp; Regulations" />
+<meta name="DC.type" content="Policies and Guidance" />
+<meta name="DC.date.created" content="2013-03-04" />
+<meta name="DC.date.modified" content="2016-06-02" />
+<meta name="DC.date.reviewed" content="2017-06-02" />
+<meta name="DC.creator" content="US EPA,OCSPP,OPP" />
+<meta name="WebArea" content="Pesticide Registration" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>Study Profile Templates | Pesticide Registration | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Pesticide Registration" href="../feed/16873/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-17845 node-type-page og-context og-context-node og-context-node-16873 section-pesticide-registration microsite" >
+  <div class="skip-links"><a href="study-profile-templates.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Pesticide Registration</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/pesticide-registration/study-profile-templates&amp;t=Study%20Profile%20Templates" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/pesticide-registration/study-profile-templates&amp;text=Study%20Profile%20Templates&amp;url=https://www.epa.gov/pesticide-registration/study-profile-templates&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/pesticide-registration/study-profile-templates" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/pesticide-registration/study-profile-templates&amp;description=Study%20Profile%20Templates&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/contact-us-about-pesticide-registration.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Study Profile Templates</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <div class="box multi related-info right">
+	<h2 class="pane-title">Related Information</h2>
+
+	<div class="pane-content">
+		<ul><li><a href="https://www.epa.gov/pesticide-registration/oecd-data-evaluation-record-templates">Templates for Microbial Pesticides (OECD DER Templates)</a></li>
+			<li><a href="https://www.epa.gov/test-guidelines-pesticides-and-toxic-substances/final-test-guidelines-pesticides-and-toxic">Harmonized test guidelines</a></li>
+			<li><a href="https://www.epa.gov/pesticide-registration/standardized-efficacy-study-report-and-efficacy-study-summary">Efficacy Study Report and Summary (Antimicrobials)</a></li>
+			<li>
+				<p><a href="background-development-harmonized-product-chemistry-templates.html">Background on Development of Harmonized Product Chemistry Templates</a></p>
+			</li>
+		</ul></div>
+</div>
+
+<p>The study profile templates below describe the layout and scope of information that should be contained within a study profile and can serve as a guide for the preparation of study documents. Applicants may include additional information beyond that prescribed in a particular study profile; however, it should be done without affecting or changing the format and content of the template.</p>
+
+<p>Registrants are encouraged to submit completed study profile(s) and supporting data in electronic format in Microsoft Word. See <a href="electronic-submissions-pesticide-applications.html">electronic data submissions</a> for additional information.</p>
+
+<p>On this page:</p>
+
+<ul><li><a href="study-profile-templates.html#product">Product Chemistry: Series 830</a></li>
+	<li><a href="study-profile-templates.html#fate">Environmental Fate: Series 835</a></li>
+	<li><a href="study-profile-templates.html#effects">Environmental Effects: Series 850</a></li>
+	<li><a href="study-profile-templates.html#chemistry">Chemistry: Series 860 - Residue Chemistry Test Guidelines</a></li>
+	<li><a href="study-profile-templates.html#toxicology">Toxicology: Series 870 - Health Effects Test Guidelines</a></li>
+	<li><a href="study-profile-templates.html#occupational">Occupational / Residential: Series 875 - Occupational and Residential Exposure Test Guidelines</a></li>
+	<li><a href="study-profile-templates.html#endocrine">Endocrine: Series 890 - Endocrine Disruptor Screening Program Test Guidelines</a></li>
+	<li><a href="study-profile-templates.html#info">More Information and Additional Resources</a></li>
+</ul><p><span class="disclaimer pdf">You will need Adobe Reader to view some of the files on this page. See <a href="../home/pdf-files.html">EPA’s About PDF page</a> to learn more.</span></p>
+
+<hr /><h2><a id="product" name="product"></a>Product Chemistry: Series 830</h2>
+
+<table summary="Listing of product chemistry study profile templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td><span id="file-289583" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-06/final-tg-active-ingredient-product-chemistry-may-2016.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=46734" class="file-link">Product Chemistry for Technical Grade of the Active Ingredient or Manufacturing Use Products (Group A and B data) (DOCX)</a><span class="fileinfo">(19 pp, 47 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>May 2016</td>
+		</tr><tr><td><span id="file-290067" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-06/final-ep-template-june2-2016.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=42734" class="file-link">Product Chemistry for End Use Products (DOCX)</a><span class="fileinfo">(15 pp, 43 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>May 2016</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="fate" id="fate"></a>Environmental Fate: Series 835</h2>
+
+<table summary="Listing of environmental fate study profile (series 850) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td><span id="file-219739" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/adsorption-desorption-835-1230-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=87146" class="file-link">Adsorption and desorption of test compound in soils or sediments (DOCX)</a><span class="fileinfo">(11 pp, 87 K)</span></span>
+</td>
+			<td>835.1230</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217423" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/laboratory-volatility-835-1410-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=93656" class="file-link">Laboratory Volatility of [test compound] (DOCX)</a><span class="fileinfo">(11 pp, 94 K)</span></span>
+</td>
+			<td>835.1410</td>
+			<td>December 2012</td>
+		</tr><tr><td><span id="file-217425" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/hydrolysis-835-2120-may2012_0.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=96447" class="file-link">Hydrolysis of [test compound] at pH [4,7, and 9, or other values studied] (DOCX)</a><span class="fileinfo">(7 pp, 96 K)</span></span>
+</td>
+			<td>835.2120</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217427" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/aqueous-photolysis-835-2240-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=106860" class="file-link">Aqueous Photolysis of [test compound] (DOCX)</a><span class="fileinfo">(12 pp, 107 K)</span></span>
+</td>
+			<td>835.2240</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217429" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/soil-photolysis-835-2410-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=114850" class="file-link">Soil Photolysis of [test compound] (DOCX)</a><span class="fileinfo">(15 pp, 115 K)</span></span>
+</td>
+			<td>835.2410</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217433" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/aerobic-835-4100-4200-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=134556" class="file-link">Aerobic (or Anaerobic) Degradation in Soil of [test compound] (DOCX)</a><span class="fileinfo">(14 pp, 135 K)</span></span>
+</td>
+			<td>835.4100<br />
+				835.4200</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217435" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/aerobic-aquatic-835-4300-4400-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=136817" class="file-link">Aerobic (or Anaerobic) Degradation in Aquatic Systems (DOCX)</a><span class="fileinfo">(14 pp, 137 K)</span></span>
+</td>
+			<td>835.4300<br />
+				835.4400</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217441" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/field-dissipation-835-6100-6200-may2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=995034" class="file-link">Field Dissipation of [test compound] (DOCX)</a><span class="fileinfo">(22 pp, 995 K)</span></span>
+</td>
+			<td>835.6100<br />
+				835.6200</td>
+			<td>May 2012</td>
+		</tr><tr><td><span id="file-217443" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/prospective-groundwater-835-7100-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=124276" class="file-link">Prospective Ground Water Monitoring of [test compound] (DOCX)</a><span class="fileinfo">(7 pp, 124 K)</span></span>
+</td>
+			<td>835.7100</td>
+			<td>December 2012</td>
+		</tr><tr><td><span id="file-217445" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/field-volatility-835-8100-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=7354197" class="file-link">Field volatility of [test compound] (DOCX)</a><span class="fileinfo">(15 pp, 7 MB)</span></span>
+</td>
+			<td>835.8100</td>
+			<td>December 2012</td>
+		</tr><tr><td><span id="file-217447" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/sample-storage-non-guideline-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=89136" class="file-link">Sample storage stability of [test compound(s)] in [frozen soil, water, etc.] (DOCX)</a><span class="fileinfo">(6 pp, 89 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>December 2012</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="effects" id="effects"></a>Environmental Effects: Series 850</h2>
+
+<table summary="Listing of environmental effects study profile (series 835) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td><span id="file-217451" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/earthworm.doc" type="application/msword; length=159232" class="file-link">Acute Toxicity Effects of {TAI or EUP} on Earthworms (DOC)</a><span class="fileinfo">(9 pp, 159 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217459" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-daphnid.doc" type="application/msword; length=179329" class="file-link">Acute Toxicity of {TAI or EUP} to Freshwater Invertebrates - [Daphnia sp.] (DOC)</a><span class="fileinfo">(9 pp, 179 K)</span></span>
+</td>
+			<td headers="guideline">850.1010</td>
+			<td headers="version">May 2004</td>
+		</tr><tr><td><span id="file-217463" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-fish.doc" type="application/msword; length=196608" class="file-link">Acute Toxicity of {TAI or EUP} to Fish - [name of species] (DOC)</a><span class="fileinfo">(10 pp, 197 K)</span></span>
+</td>
+			<td>850.1075</td>
+			<td>May 2004</td>
+		</tr><tr><td headers="title"><span id="file-217465" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/chronic-daphnid.doc" type="application/msword; length=141824" class="file-link">Chronic Toxicity of {TAI or EUP} to Fresh Water Invertebrates - [Daphnia sp.] (DOC)</a><span class="fileinfo">(11 pp, 142 K)</span></span>
+</td>
+			<td>850.1300</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217467" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/fish-early-life-stage.doc" type="application/msword; length=174592" class="file-link">Toxicity of {TAI or EUP} to Fish Early Life-Stage (DOC)</a><span class="fileinfo">(10 pp, 175 K)</span></span>
+</td>
+			<td>850.1400</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217469" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/fish-oyster-bcf-850-1710-1730-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=214779" class="file-link">[Fish or Oyster] Bioconcentration Factor (BCF) of [Test Compound] (DOCX)</a><span class="fileinfo">(13 pp, 215 K)</span></span>
+</td>
+			<td>850.1710<br />
+				850.1730</td>
+			<td>December 2012</td>
+		</tr><tr><td headers="title"><span id="file-217477" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/avian-acute-oral.doc" type="application/msword; length=144384" class="file-link">Acute Oral Toxicity of {TAI or EUP} to Avian Species - [name of species] (DOC)</a><span class="fileinfo">(8 pp, 144 K)</span></span>
+</td>
+			<td>850.2100</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217485" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/avian-dietary.doc" type="application/msword; length=153600" class="file-link">Acute Dietary Toxicity of {TAI or EUP} to Avian Species - [name of species] (DOC)</a><span class="fileinfo">(10 pp, 154 K)</span></span>
+</td>
+			<td>850.2200</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217489" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/avian-reproduction.doc" type="application/msword; length=198656" class="file-link">Reproductive Effects of {TAI or EUP} on Avian Species - [name of species] (DOC)</a><span class="fileinfo">(10 pp, 199 K)</span></span>
+</td>
+			<td>850.2300</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217491" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/terrestrial-vascular-plant.doc" type="application/msword; length=393216" class="file-link">Acute Toxicity of {TAI or EUP} to Terrestrial Vascular Plant - [name of species - seed germination-root elongation/seedling emergence/vegetative vigour] (DOC)</a><span class="fileinfo">(21 pp, 393 K)</span></span>
+</td>
+			<td>850.4100<br />
+				850.4150</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217523" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/aquatic-vascular-plant.doc" type="application/msword; length=163328" class="file-link">Acute Toxicity of {TAI or EUP} to Aquatic Vascular Plants - [name of species] (DOC)</a><span class="fileinfo">(11 pp, 163 K)</span></span>
+</td>
+			<td>850.4400</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217527" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/algae.doc" type="application/msword; length=327680" class="file-link">Acute Toxicity of {TAI or EUP} to Algae - [name of species] (DOC)</a><span class="fileinfo">(12 pp, 328 K)</span></span>
+</td>
+			<td>850.5400</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-217535" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/analytical-method-850-6100-dec2012.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=62599" class="file-link">Analytical method for [analyte(s)] in [soil, water, air, or other environmental medium] (DOCX)</a><span class="fileinfo">(6 pp, 63 K)</span></span>
+</td>
+			<td>850.6100</td>
+			<td>December 2012</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="chemistry" id="chemistry"></a>Chemistry: Series 860 - Residue Chemistry DER Templates</h2>
+
+<table summary="Listing of residue chemistry test guideline (series 860) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td><span id="file-254003" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7_residue_data.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=31759" class="file-link">B.7 Residue Data</a><span class="fileinfo">(3 pp, 32 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254007" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.1_plant_metabolism.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=42194" class="file-link">B.7.1 Plant Metabolism</a><span class="fileinfo">(7 pp, 42 K)</span></span>
+</td>
+			<td>860.1300</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254009" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.2_livestock_metabolism.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=62468" class="file-link">B.7.2 Livestock Metabolism</a><span class="fileinfo">(15 pp, 62 K)</span></span>
+</td>
+			<td>860.1300</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254011" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.5.2_residue_analytical_methods.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=77619" class="file-link">B.5.2 Residue Analytical Methods</a><span class="fileinfo">(25 pp, 78 K)</span></span>
+</td>
+			<td>860.1340</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254013" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.6.2_freezer_storage_stability_in_plants.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=36681" class="file-link">B.7.6.2 Freezer Storage Stability in Plants</a><span class="fileinfo">(4 pp, 37 K)</span></span>
+</td>
+			<td>860.1380</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254015" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.8.3_freezer_storage_stability_in_livestock.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=35293" class="file-link">B.7.8.3 Freezer Storage Stability in Livestock</a><span class="fileinfo">(4 pp, 35 K)</span></span>
+</td>
+			<td>860.1380</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254017" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.8_livestock_feeding.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=44783" class="file-link">B.7.8 Livestock Feeding</a><span class="fileinfo">(7 pp, 45 K)</span></span>
+</td>
+			<td>860.1480</td>
+			<td headers="version">February 2016</td>
+		</tr><tr><td><span id="file-254019" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.6_crop_residue_trials.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=57273" class="file-link">B.7.6 Crop Residue Trials</a><span class="fileinfo">(6 pp, 57 K)</span></span>
+</td>
+			<td>860.1500</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254021" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.7_processing.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=34558" class="file-link">B.7.7 Processing</a><span class="fileinfo">(6 pp, 35 K)</span></span>
+</td>
+			<td>860.1520</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254023" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.9_confined_crop_rotation.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=40659" class="file-link">B.7.9 Confined Crop Rotation</a><span class="fileinfo">(7 pp, 41 K)</span></span>
+</td>
+			<td>860.1850</td>
+			<td>February 2016</td>
+		</tr><tr><td><span id="file-254027" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2016-02/b.7.9.2_field_accumulation.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=40995" class="file-link">B.7.9.2 Field Accumulation</a><span class="fileinfo">(6 pp, 41 K)</span></span>
+</td>
+			<td>860.1900</td>
+			<td>February 2016</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="toxicology" id="toxicology"></a>Toxicology: Series 870 - Health Effects Test Guidelines</h2>
+
+<table summary="Listing of toxicology health effects test guideline (series 870) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td><span id="file-218233" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-toxicity.doc" type="application/msword; length=171520" class="file-link">Acute Oral Toxicity - [species] (DOC)</a><span class="fileinfo">(2 pp, 172 K)</span></span>
+</td>
+			<td>870.1100</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218277" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-dermal-toxicity.doc" type="application/msword; length=40448" class="file-link">Acute Dermal Toxicity - [species] (DOC)</a><span class="fileinfo">(2 pp, 40 K)</span></span>
+</td>
+			<td>870.1200</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218287" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-inhalation-toxicity.doc" type="application/msword; length=46592" class="file-link">Acute Inhalation Toxicity - [species] (DOC)</a><span class="fileinfo">(2 pp, 47 K)</span></span>
+</td>
+			<td>870.1300</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218291" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/primary-eye-irritation.doc" type="application/msword; length=48128" class="file-link">Primary Eye Irritation - [species] (DOC)</a><span class="fileinfo">(3 pp, 48 K)</span></span>
+</td>
+			<td>870.2400</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218295" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/primary-dermal-irritation.doc" type="application/msword; length=29696" class="file-link">Primary Dermal Irritation - [species] (DOC)</a><span class="fileinfo">(1 pg, 30 K)</span></span>
+</td>
+			<td>870.2500</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218297" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/dermal-sensitization.doc" type="application/msword; length=86528" class="file-link">Dermal Sensitization - [species] (DOC)</a><span class="fileinfo">(4 pp, 87 K)</span></span>
+</td>
+			<td>870.2600</td>
+			<td>May 2004</td>
+		</tr><tr><td><span id="file-218317" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/90-day-oral-toxicity-rodent.doc" type="application/msword; length=179200" class="file-link">90-Day Oral Toxicity [dietary, gavage or drinking water] - [rodent species] (DOC)</a><span class="fileinfo">(9 pp, 179 K)</span></span>
+</td>
+			<td>870.3100</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218325" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/90-day-oral-toxicity-non-rodent.doc" type="application/msword; length=177152" class="file-link">90-Day Oral Toxicity [dietary, gavage or drinking water] - [non-rodent species] (DOC)</a><span class="fileinfo">(8 pp, 177 K)</span></span>
+</td>
+			<td>870.3150</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218343" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/28-day-dermal-toxicity.doc" type="application/msword; length=178176" class="file-link">28-Day Dermal Toxicity - [species] (DOC)</a><span class="fileinfo">(9 pp, 178 K)</span></span>
+</td>
+			<td>870.3200</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218359" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/90-day-dermal-toxicity.doc" type="application/msword; length=177664" class="file-link">90-Day Dermal Toxicity - [species] (DOC)</a><span class="fileinfo">(9 pp, 178 K)</span></span>
+</td>
+			<td>870.3250</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218363" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/subchronic-inhalation-toxicity.doc" type="application/msword; length=178688" class="file-link">Subchronic Inhalation Toxicity - [species] (DOC)</a><span class="fileinfo">(8 pp, 179 K)</span></span>
+</td>
+			<td>870.3465</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218367" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/prenataldev-toxicity-rodent.doc" type="application/msword; length=146432" class="file-link">Prenatal Developmental Toxicity Study - [rodent species] (DOC)</a><span class="fileinfo">(8 pp, 146 K)</span></span>
+</td>
+			<td>870.3700</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218369" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/prenataldev-toxicity-non-rodent.doc" type="application/msword; length=145920" class="file-link">Prenatal Developmental Toxicity Study - [non-rodent species] (DOC)</a><span class="fileinfo">(8 pp, 146 K)</span></span>
+</td>
+			<td>870.3700</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218371" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/reproduction-fertility-effects.doc" type="application/msword; length=243200" class="file-link">Reproduction and Fertility Effects Study - [species] (DOC)</a><span class="fileinfo">(12 pp, 243 K)</span></span>
+</td>
+			<td>870.3800</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218413" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/chronic-toxicity-rodent.doc" type="application/msword; length=184320" class="file-link">Chronic Toxicity [dietary, gavage, drinking water, dermal or inhalation] - [rodent species] (DOC)</a><span class="fileinfo">(9 pp, 184 K)</span></span>
+</td>
+			<td>870.4100</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218415" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/chronic-toxicity-non-rodent.doc" type="application/msword; length=179200" class="file-link">Chronic Toxicity [feeding, water, dermal or inhalation] - [non-rodent species] (DOC)</a><span class="fileinfo">(8 pp, 179 K)</span></span>
+</td>
+			<td>870.4100</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218419" class="file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet"><a href="https://www.epa.gov/sites/production/files/2015-10/statoxdatawkbk.xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=39201" class="file-link">Supplementary Tumor Data Spreadsheet for Toxicology 870.4200 and 870.4300  (XLSX)</a><span class="fileinfo">(1 pg, 39 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>Feb 2012</td>
+		</tr><tr><td><span id="file-218421" class="file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet"><a href="https://www.epa.gov/sites/production/files/2015-10/statoxdatawkbk-ex-gu.xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=44236" class="file-link">Guidance and Examples for Supplementary Tumor Data Spreadsheet for Toxicology 870.4200 and 870.4300 (XLSX)</a><span class="fileinfo">(1 pg, 44 K)</span></span>
+</td>
+			<td>N/A</td>
+			<td>Feb 2012</td>
+		</tr><tr><td><span id="file-218425" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/carcinogenicity-mouse.doc" type="application/msword; length=185344" class="file-link">Carcinogenicity [dietary, gavage, drinking water, dermal or inhalation] - Mouse (DOC)</a><span class="fileinfo">(9 pp, 185 K)</span></span>
+</td>
+			<td>870.4200</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218431" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/carcinogenicity-rat.doc" type="application/msword; length=186368" class="file-link">Carcinogenicity [dietary, gavage, drinking water, dermal or inhalation] - Rat (DOC)</a><span class="fileinfo">(9 pp, 186 K)</span></span>
+</td>
+			<td>870.4200</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218479" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/combined-chronic-toxicity-carcinogenicity.doc" type="application/msword; length=187904" class="file-link">Combined Chronic Toxicity/Carcinogenicity [dietary, gavage, drinking water, dermal or inhalation] - [species] (DOC)</a><span class="fileinfo">(9 pp, 188 K)</span></span>
+</td>
+			<td>870.4300</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218489" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/invitro-microbial-gene-mutation.doc" type="application/msword; length=74752" class="file-link">In Vitro Microbial Gene Mutation (DOC)</a><span class="fileinfo">(4 pp, 75 K)</span></span>
+</td>
+			<td>870.5xxx</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218493" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/invitro-mammalian-culture-gene-mutation.doc" type="application/msword; length=84480" class="file-link">In Vitro Mammalian Cells in Culture Gene Mutation Assay in [name cell type used] cells (DOC)</a><span class="fileinfo">(4 pp, 84 K)</span></span>
+</td>
+			<td>870.5300</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218497" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/invitro-mammalian-cytogenetics.doc" type="application/msword; length=83968" class="file-link">In Vitro Mammalian Cytogenetics (specify assay) or In Vitro Sister Chromatid Exchange Assay in (name species/cell type) (DOC)</a><span class="fileinfo">(5 pp, 84 K)</span></span>
+</td>
+			<td>870.5375<br />
+				870.5900</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218505" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/invivo-mammalian-cytogenetics-erythrocyte.doc" type="application/msword; length=87552" class="file-link">In Vivo Mammalian Cytogenetics - Erythrocyte Micronucleus Assay in [name species] (DOC)</a><span class="fileinfo">(4 pp, 88 K)</span></span>
+</td>
+			<td>870.5395</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218511" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/other-genotoxicity.doc" type="application/msword; length=52224" class="file-link">Other Genotoxicity: Unscheduled DNA Synthesis in Primary Rat Hepatocytes / Mammalian Cell Culture (DOC)</a><span class="fileinfo">(4 pp, 52 K)</span></span>
+</td>
+			<td>870.5550</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218517" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/acute-neurotoxicity-screening-battery-rat.doc" type="application/msword; length=312832" class="file-link">Neurotoxicity Screening Battery - Rat (Acute) (DOC)</a><span class="fileinfo">(16 pp, 313 K)</span></span>
+</td>
+			<td>870.6200</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218521" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/subchronic-neurotoxicity-screening-battery-rat.doc" type="application/msword; length=287744" class="file-link">Neurotoxicity Screening Battery - Rat (Subchronic) (DOC)</a><span class="fileinfo">(16 pp, 288 K)</span></span>
+</td>
+			<td>870.6200</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218523" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/developmental-neurotoxicity-rat.doc" type="application/msword; length=629760" class="file-link">Developmental Neurotoxicity Study - Rat (DOC)</a><span class="fileinfo">(29 pp, 630 K)</span></span>
+</td>
+			<td>870.6300</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218527" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/metabolism-rat.doc" type="application/msword; length=134144" class="file-link">Metabolism Study - Rat (DOC)</a><span class="fileinfo">(7 pp, 134 K)</span></span>
+</td>
+			<td>870.7485</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218529" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/dermal-penetration.doc" type="application/msword; length=121856" class="file-link">Dermal Penetration (DOC)</a><span class="fileinfo">(2 pp, 122 K)</span></span>
+</td>
+			<td>870.7600</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218531" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/immunotoxicity.doc" type="application/msword; length=167424" class="file-link">Immunotoxicity (DOC)</a><span class="fileinfo">(10 pp, 167 K)</span></span>
+</td>
+			<td>870.7800</td>
+			<td>July 2010</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="occupational" id="occupational"></a>Occupational / Residential: Series 875 - Occupational and Residential Exposure Test Guidelines</h2>
+
+<table summary="Listing of occupational/residental exposure test guideline (series 875) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td headers="title"><span id="file-218547" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/use-pattern-exposure-scenarios.doc" type="application/msword; length=51712" class="file-link">Use Pattern/Exposure Scenarios (DOC)</a><span class="fileinfo">(5 pp, 52 K)</span></span>
+</td>
+			<td headers="guideline">N/A</td>
+			<td headers="version">July 2010</td>
+		</tr><tr><td><span id="file-218549" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/residential-post-application-passive-dosimetry.doc" type="application/msword; length=320000" class="file-link">Residential Post Application Passive Dosimetry (DOC)</a><span class="fileinfo">(13 pp, 320 K)</span></span>
+</td>
+			<td>875.xxxx</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218553" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/mixer-loader-applicator-passive-dosimetry.doc" type="application/msword; length=380416" class="file-link">Mixer/Loader/Applicator Passive Dosimetry (DOC)</a><span class="fileinfo">(4 pp, 380 K)</span></span>
+</td>
+			<td>875.1000</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218555" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/agricultural-post-application-passive-dosimetry.doc" type="application/msword; length=334336" class="file-link">Agricultural Post Application Passive Dosimetry (DOC)</a><span class="fileinfo">(14 pp, 334 K)</span></span>
+</td>
+			<td>875.2000</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218559" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/dislodgeable-turf-residues.doc" type="application/msword; length=100864" class="file-link">Dislodgeable Turf Residues (DOC)</a><span class="fileinfo">(9 pp, 101 K)</span></span>
+</td>
+			<td>875.2100</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218561" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/dislodgeable-foliar-residue.doc" type="application/msword; length=99840" class="file-link">Dislodgeable Foliar Residue (DOC)</a><span class="fileinfo">(9 pp, 100 K)</span></span>
+</td>
+			<td>875.2100</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218565" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/transfer-residue-indoor-treated-surfaces.doc" type="application/msword; length=144896" class="file-link">Determination of Transferable Residue on Indoor Treated Surfaces (DOC)</a><span class="fileinfo">(13 pp, 145 K)</span></span>
+</td>
+			<td>875.2300</td>
+			<td>July 2010</td>
+		</tr><tr><td><span id="file-218567" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/hand-press-residues.doc" type="application/msword; length=108032" class="file-link">Hand Press Residues (DOC)</a><span class="fileinfo">(9 pp, 108 K)</span></span>
+</td>
+			<td>875.2300</td>
+			<td>July 2010</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="endocrine" id="endocrine"></a>Endocrine: Series 890 - Endocrine Disruptor Screening Program Test Guidelines</h2>
+
+<table summary="Listing of Endocrine Disruptor Screening Program Test Guidelines (series 890) templates available in Word format."><thead><tr><th>Study Profile Template</th>
+			<th>Guideline<br />
+				Number</th>
+			<th>Version</th>
+		</tr></thead><tbody><tr><td headers="title"><span id="file-219385" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1100-amphibian-template.doc" type="application/msword; length=449536" class="file-link">Amphibian Metamorphosis (DOC)</a><span class="fileinfo">(25 pp, 450 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Amphibian Metamorphosis (PDF)</a></td>
+			<td headers="guideline">890.1100</td>
+			<td headers="version">September 2011</td>
+		</tr><tr><td headers="title"><span id="file-219387" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1150-androgen-cytosol-template.doc" type="application/msword; length=383488" class="file-link">Androgen Receptor Binding (Rat Prostate) (DOC)</a><span class="fileinfo">(25 pp, 383 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Androgen Receptor Binding (Rat Prostate) (PDF)</a></td>
+			<td headers="guideline">890.1150</td>
+			<td headers="version">October 2011</td>
+		</tr><tr><td headers="title"><span id="file-219399" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1200-aromatase-template.doc" type="application/msword; length=296448" class="file-link">Aromatase (Human Recombinant) (DOC)</a><span class="fileinfo">(12 pp, 296 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Aromatase (Human Recombinant) (PDF)</a></td>
+			<td headers="guideline">890.1200</td>
+			<td headers="version">July 2011</td>
+		</tr><tr><td headers="title"><span id="file-219401" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1250-estrogen-cytosol-template.doc" type="application/msword; length=345088" class="file-link">Estrogen Receptor Binding (DOC)</a><span class="fileinfo">(15 pp, 345 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Estrogen Receptor Binding (PDF)</a></td>
+			<td headers="guideline">890.1250</td>
+			<td headers="version">October 2011</td>
+		</tr><tr><td headers="title"><span id="file-219403" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/1300-erta-template.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=63233" class="file-link">Estrogen Receptor Transcriptional Activation (Human Cell Line HeLa-9903)  (DOCX)</a><span class="fileinfo">(10 pp, 63 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Estrogen Receptor Transcriptional Activation (Human Cell Line HeLa-9903) (PDF)</a></td>
+			<td headers="guideline">890.1300</td>
+			<td headers="version">August 2011</td>
+		</tr><tr><td headers="title"><span id="file-219405" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/1350-fish-short-term-template.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=159340" class="file-link">Fish Short-Term Reproduction (DOCX)</a><span class="fileinfo">(31 pp, 159 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Fish Short-Term Reproduction (PDF)</a></td>
+			<td headers="guideline">890.1350</td>
+			<td headers="version">October 2011</td>
+		</tr><tr><td headers="title"><span id="file-219413" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1400-hershberger-template.doc" type="application/msword; length=243712" class="file-link">Hershberger (Rat) (DOC)</a><span class="fileinfo">(13 pp, 244 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Hershberger (Rat) (PDF)</a></td>
+			<td headers="guideline">890.1400</td>
+			<td headers="version">October 2011</td>
+		</tr><tr><td headers="title"><span id="file-219417" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1450-female-pubertal-template.doc" type="application/msword; length=256512" class="file-link">Female Pubertal (Rat) (DOC)</a><span class="fileinfo">(12 pp, 257 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Female Pubertal (Rat) (PDF)</a></td>
+			<td headers="guideline">890.1450</td>
+			<td headers="version">August 2011</td>
+		</tr><tr><td headers="title"><span id="file-219421" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1500-male-pubertal-template_0.doc" type="application/msword; length=273920" class="file-link">Male Pubertal (Rat) (DOC)</a><span class="fileinfo">(12 pp, 274 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Male Pubertal (Rat) (PDF)</a></td>
+			<td headers="guideline">890.1500</td>
+			<td headers="version">August 2011</td>
+		</tr><tr><td headers="title"><span id="file-219423" class="file file-document file-application-msword"><a href="https://www.epa.gov/sites/production/files/2015-10/1550-steroidogenesis-template.doc" type="application/msword; length=210944" class="file-link">Steroidogenesis (Human Cell Line – H295R) (DOC)</a><span class="fileinfo">(9 pp, 211 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Steroidogenesis (Human Cell Line – H295R) (PDF)</a></td>
+			<td headers="guideline">890.1550</td>
+			<td headers="version">July 2011</td>
+		</tr><tr><td headers="title"><span id="file-219425" class="file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument"><a href="https://www.epa.gov/sites/production/files/2015-10/1600-uterotrophic-template.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=74250" class="file-link">Uterotrophic (Rat) (DOCX)</a><span class="fileinfo">(13 pp, 74 K)</span></span>
+<br /><a href="https://www.epa.gov/pesticide-registration/study-profile-templates-series-890-endocrine-disruptor-screening-program-test">Uterotrophic (Rat) (PDF)</a></td>
+			<td headers="guideline">890.1600</td>
+			<td headers="version">September 2011</td>
+		</tr></tbody></table><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+
+<h2><a name="info" id="info"></a>More Information and Additional Resources</h2>
+
+<ul><li><a href="../test-guidelines-pesticides-and-toxic-substances.html">OCSPP Harmonized Test Guidelines</a></li>
+	<li><a href="../science-and-technology/pesticides-science.html">Pesticides Science and Policy Information</a> - policy and guidance documents, test guidelines, models and databases, and analytical methods.</li>
+	<li><a href="../endocrine-disruption.html">Endocrine Disruptor Screening Program (EDSP)</a></li>
+</ul><p class="pagetop"><a href="study-profile-templates.html#main-content">Top of Page</a></p>
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/contact-us-about-pesticide-registration.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Pesticide Registration</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../pesticide-registration.html" title="" class="menu-node-unpublished menu-link">Pesticide Registration Home</a></li>
+<li class="menu-item"><a href="about-pesticide-registration.html" class="menu-node-unpublished menu-link">About Pesticide Registration</a></li>
+<li class="menu-item"><a href="electronic-submissions-pesticide-applications.html" class="menu-node-unpublished menu-link">Electronic Submission of Applications</a></li>
+<li class="menu-item"><a href="pesticide-registration-manual.html" class="menu-node-unpublished menu-link">Pesticide Registration Manual</a></li>
+<li class="menu-item"><a href="pesticide-registration-fees-and-fee-waivers.html" class="menu-node-unpublished menu-link">Fees and Waivers</a></li>
+<li class="menu-item"><a href="registration-information-type-pesticide.html" class="menu-node-unpublished menu-link">Registration Information by Type of Pesticide</a></li>
+<li class="menu-item"><a href="antimicrobial-pesticide-registration.html" class="menu-node-unpublished menu-link">— Antimicrobial Registration</a></li>
+<li class="menu-item"><a href="biopesticide-registration.html" class="menu-node-unpublished menu-link">— Biopesticide Registration</a></li>
+<li class="menu-item"><a href="conventional-pesticide-registration.html" class="menu-node-unpublished menu-link">— Conventional Registration</a></li>
+<li class="menu-item"><a href="inert-ingredients-regulation.html" class="menu-node-unpublished menu-link">— Inert Ingredient Regulation</a></li>
+<li class="menu-item"><a href="registration-requirements-and-guidance.html" class="menu-node-unpublished menu-link">Requirements and Guidance</a></li>
+<li class="menu-item"><a href="data-requirements-pesticide-registration.html" class="menu-node-unpublished menu-link">— Data</a></li>
+<li class="menu-item"><a href="pesticide-registration-manual-chapter-20-forms-and-how-obtain-them.html" class="menu-node-unpublished menu-link">— Forms</a></li>
+<li class="menu-item"><a href="labeling-requirements.html" class="menu-node-unpublished menu-link">— Labeling</a></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on June 2, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke95m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"9JFgVrScp5RkFBnK3jwAk9W6NgkWJpXPHYzq2uNwILw"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"16873"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":38907,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

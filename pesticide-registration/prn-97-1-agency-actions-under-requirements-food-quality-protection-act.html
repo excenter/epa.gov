@@ -1,0 +1,719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<meta http-equiv="ImageToolbar" content="false" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width" />
+<meta name="HandheldFriendly" content="true" />
+<!--googleon: all--><meta name="DC.title" content="PRN 97-1: Agency Actions under the Requirements of the Food Quality Protection Act" />
+<meta name="DC.description" content="This pesticide registration notice describes EPA&#039;s implementation of the Food Quality Protection Act, including the risk cup and risk management strategies under the new safety standard." />
+<!--googleoff: snippet--><meta name="keywords" content="FQPA, food use, aggregate exposure, common mechanism of toxicity" />
+<link rel="canonical" href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/62579" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Laws &amp; Regulations, Learn the Issues" />
+<meta name="DC.type" content="Policies and Guidance" />
+<meta name="DC.Subject.eparegulation" content="Food Quality Protection Act" />
+<meta name="DC.Subject.eparit" content="Pesticide Registration &amp; Reregistration" />
+<meta name="DC.Subject.epasubstance" content="Pesticides" />
+<meta name="DC.audience" content="Regulated Community" />
+<meta name="DC.date.created" content="2014-09-10" />
+<meta name="DC.date.modified" content="2017-01-09" />
+<meta name="DC.date.reviewed" content="2018-01-09" />
+<meta name="DC.creator" content="US EPA,OCSPP,OPP" />
+<meta name="WebArea" content="Pesticide Registration" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>PRN 97-1: Agency Actions under the Requirements of the Food Quality Protection Act | Pesticide Registration | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Pesticide Registration" href="../feed/16873/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-62579 node-type-page og-context og-context-node og-context-node-16873 section-pesticide-registration microsite" >
+  <div class="skip-links"><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Pesticide Registration</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/pesticide-registration/prn-97-1-agency-actions-under-requirements-food-quality-protection-act&amp;t=PRN%2097-1:%20Agency%20Actions%20under%20the%20Requirements%20of%20the%20Food%20Quality%20Protection%20Act" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/pesticide-registration/prn-97-1-agency-actions-under-requirements-food-quality-protection-act&amp;text=PRN%2097-1:%20Agency%20Actions%20under%20the%20Requirements%20of%20the%20Food%20Quality%20Protection%20Act&amp;url=https://www.epa.gov/pesticide-registration/prn-97-1-agency-actions-under-requirements-food-quality-protection-act&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/pesticide-registration/prn-97-1-agency-actions-under-requirements-food-quality-protection-act" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/pesticide-registration/prn-97-1-agency-actions-under-requirements-food-quality-protection-act&amp;description=PRN%2097-1:%20Agency%20Actions%20under%20the%20Requirements%20of%20the%20Food%20Quality%20Protection%20Act&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/contact-us-about-pesticide-registration.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">PRN 97-1: Agency Actions under the Requirements of the Food Quality Protection Act</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <p>January 31, 1997</p>
+
+<p><strong>Notice To:</strong> Manufacturers, Producers, Formulators, and Registrants of Pesticide Products</p>
+
+<p><strong>Attention:</strong> Persons Responsible for the Registration and Reregistration of Pesticides</p>
+
+<p><strong>Subject:</strong> Agency Actions under the Requirements of the Food Quality Protection Act</p>
+
+<div><strong>On This Page</strong></div>
+
+<ol type="I"><li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#intro">Introduction</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#applicability">Applicability</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#effectivedate">Effective Date</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#background">Background</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#risk">Interim Approach To Risk Management</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#nextpr">Next PR Notices</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#info">For Further Information</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#appendixa">Appendix A</a></li>
+	<li><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#appendixb">Appendix B</a></li>
+</ol><hr /><ol type="I"><li>
+		<h2><a name="intro" id="intro"></a>Introduction</h2>
+
+		<p>The Food Quality Protection Act of 1996 (FQPA) requires the Environmental Protection Agency (EPA) to consider new factors when making pesticide regulatory decisions. Registrants, applicants, or petitioners for pesticide product registrations or reregistrations, or for tolerances or tolerance exemptions, whether pending or future, are advised to consider comprehensively the provisions contained in the Food Quality Protection Act (FQPA), specifically the factors relevant to aggregate exposure assessment, children's exposure, and other issues raised by the new statutory standard. This PR Notice explains to registrants how EPA will, on an interim basis, implement the new statutory provisions.</p>
+
+		<p>Although this PR Notice does not require registrants to submit any additional information, the Agency recognizes that because the Agency is required to consider additional information in order to make the necessary decisions, many registrants, applicants and petitioners may wish to provide the supplemental information to the Agency even without a requirement to do so. The Agency has already received a number of requests for information about the type of information that the Agency will need to consider under the new statutory provisions, as well as instructions for ensuring that the proper requests are updated with any supplemental information the registrant, applicant or petitioner wishes the Agency to consider. For those registrants, applicants or petitioners who wish to supplement their original submissions with additional information, the Appendices to this Notice describe what information the Agency would consider helpful, when and how material may be submitted to allow for the most efficient processing and review(*1).</p>
+
+		<p>(*1) The collection of information related to the registration, reregistration, and tolerance programs has been approved by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act under OMB Control Numbers 2070-0024; 2070-0032; 2070-0040; 2070-0060; 2070- 0122; 2070-0107. These approvals cover the original submissions by the registrant, applicant or petitioner. In addition, EPA believes that the discussions within these existing Information Collection Requests also serve to cover any registrant's voluntary submission of information intended to supplement their original submissions.</p>
+	</li>
+	<li>
+		<h2><a name="applicability" id="applicability"></a>Applicability</h2>
+
+		<p>This Notice applies to most applicants with registration applications, non-crop-destruct experimental use permit applications, tolerance or tolerance exemption petitions, or reregistration eligibility decisions pending within the Agency. It also applies to most future applicants seeking new or amended pesticide registrations. This Notice includes all actions for synthetic chemicals, antimicrobials, biochemical and microbial pesticides. Those who may be affected are pesticide manufacturing companies, Interregional Research Project No. 4 (IR-4) petitioners, and other third party registrants. This Notice, however, does not apply to applicants seeking fast track "me-too" registrations or amendments not involving new uses.</p>
+
+		<p>Although the new standard in FQPA is clearly applicable to food use pesticides and chemicals related to such pesticides, EPA intends to apply a similar standard to actions involving non-food use pesticides that may pose significant non-dietary risks to infants and children.</p>
+	</li>
+	<li>
+		<h2><a name="effectivedate" id="effectivedate"></a>Effective Date</h2>
+
+		<p>This PR Notice is effective immediately.</p>
+	</li>
+	<li>
+		<h2><a name="background" id="background"></a>Background</h2>
+
+		<p>On August 3, 1996, the Food Quality Protection Act was signed into law. Effective upon signature, the new statute significantly amended the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Food, Drug and Cosmetic Act (FFDCA). It was designed, among other things, to provide increased protection for infants and children from pesticide risks.</p>
+
+		<p><strong>FQPA</strong></p>
+
+		<p>Title IV of the statute amends the Federal Food, Drug and Cosmetic Act. The most important aspect of this title is the establishment of a single, health-based standard for setting pesticide residue tolerances. This eliminates the longstanding problems posed by different standards for pesticides in raw and processed foods. The provision removes the requirement of food additive tolerances for processed foods and instead regulates them all under the same tolerance provision. A tolerance (or exemption from tolerance) for a pesticide residue on a raw agricultural commodity (RAC) also applies to residues in a processed food derived from the RAC that are not higher than the RAC tolerance. If the levels in the processed food are higher, a separate tolerance must be set for that processed food. Residue levels in both the RAC and the processed food must be determined by EPA to be "safe."</p>
+
+		<p>The new safety standard, provided in section 408(b)(2)(A)(ii) of the statute, is a "reasonable certainty of no harm" standard for aggregate exposure using dietary residues and all other reliable exposure information. When setting new or reassessing existing tolerances or tolerance exemptions under the new standard, EPA must now focus explicitly on exposures and risks to children and infants. EPA must, 1) explicitly determine that the tolerance, or exemption from tolerance, is safe for children; 2) consider the need for an additional safety factor of up to ten-fold to account for uncertainty in the data base relative to children unless there is evidence that a different factor should be used; and 3) consider children's special sensitivities and often unique exposure patterns to pesticides.</p>
+
+		<p>In addition, when making a determination as to whether or not there is a reasonable certainty that a pesticide chemical will cause "no harm," EPA must now consider other non-occupational sources of pesticide exposure when performing risk assessments and setting tolerances. This includes dietary exposure from drinking water, non-occupational exposure, exposure from like pesticides that share a common mechanism of toxicity as well as other exposure scenarios. When setting new or reassessing existing tolerances and tolerance exemptions, EPA must also evaluate the potential for endocrine disruption. The new law directs the Agency to use its authority to require specific tests and information on estrogenic effects for all pesticide chemical residues.</p>
+
+		<p><strong>Initial Communication To Registrants</strong></p>
+
+		<p>EPA began the task of implementing the requirements of the FQPA by explaining its goals and immediate plans in a letter sent August 21, 1996, to all current pesticide manufacturers, grower and other pesticide user groups, industry, environmental, consumer, and public interest groups. A second letter, containing more detailed information, was sent on September 6, to all holders of pesticide registrations. In its September 6 letter, the Agency stressed that work was continuing on many registration and reregistration activities and that interim decisions were being made. However, to ensure compliance with the new law's provisions to protect against pesticide uses which may pose unacceptable risks to children, additional time was needed to adequately review certain applications, especially food use applications. A letter has been sent to the States outlining the additional materials and information needed to make section 18 emergency exemption tolerance decisions.</p>
+
+		<p><strong>Program Implementation - Status Of Food Use Phase-in Process</strong></p>
+
+		<p>To deal with day-to-day decisions and procedural changes that must occur, EPA has identified key implementation processes on which to focus for all of the food and tolerance provisions of the Act. One area of immediate concern is phasing-in and applying the new requirements to currently pending registration, reregistration, and tolerance decisions. The Agency is inventorying all pending actions, and sorting them according to the applicable requirements of FQPA. The Agency estimates that there are more than a thousand actions pending at various stages of review. The inventory of all the registration priority actions, biopesticide actions, and scheduled reregistration actions is almost complete. Criteria for ranking the inventory are being developed and, once actions are ranked, a process for handling each category will be devised and put into place.</p>
+	</li>
+	<li>
+		<h2><a name="risk" id="risk"></a>Interim Approach To Risk Management</h2>
+
+		<p>The Food Quality Protection Act does not provide an explicit transition or phase-in period for many of the new requirements in the law. Some of the new requirements call for scientific analyses which have not been part of EPA's current risk assessment procedures. For example, traditionally EPA has assessed pesticide exposures separately by source and has not combined risks. Developing methodologies to address these issues requires a new way of approaching risk assessment and risk management.</p>
+
+		<p>While FQPA did not specify time frames for phasing in most of these provisions (with the exceptions of the 3-year time frame for developing a plan to assess endocrine effects, 1 year to develop an antimicrobial program, and a few others), the law contains sufficient flexibility to allow for a transition period while EPA develops new, long-term assessment practices. Congress, in discussions regarding the law, has confirmed this flexibility. EPA's goal even during this interim period is to fulfill the intent of the new law to increase the protectiveness of its regulatory process. While it is necessary to develop new assessment procedures and policies to implement the new requirements to the fullest, the Agency also needs to make timely decisions about the use of pesticide products. Delaying decisions does not achieve greater health protection and, in some instances, can cause harm. An interim decision logic allows decisions to be made now which are protective, more economic of resources, and which can be revisited as knowledge increases. EPA has designed an interim strategy to meet the new FQPA reasonable certainty of no harm standard in the absence of full data and fully developed exposure and risk assessment methodologies.</p>
+
+		<p><strong>Interim Decision Logic For Aggregate Exposure</strong></p>
+
+		<p>The Agency's interim decision logic is a screening process for making regulatory decisions that are protective of public health and are workable within the current risk assessment practices with available data and methodologies. It also is designed to be flexible so that when actual data are submitted, earlier assumptions can be easily replaced with new information. Outcomes, at least initially, will be conservative and any approvals will most likely result in time limited or conditional decisions. As additional exposure data and improved methods and models are developed, decisions based on the interim logic will be revisited and modified as appropriate.</p>
+
+		<p>The new law says the Agency must now consider aggregate exposures from dietary and non-occupational sources when assessing the risks of a chemical and setting tolerances. In addition to dietary exposure, such sources as drinking water, residential and lawn care use need to be considered. For most pesticides, EPA has insufficient information on specific exposures through these routes. While new data are being generated and new exposure models developed, EPA will estimate the exposure components and risk, and allocate portions of that total aggregate risk to drinking water, and residential and lawn use exposures (provided the pesticide is to be used indoors or on lawns). The remainder of the aggregate risk will be allocated to dietary exposure.</p>
+
+		<p><strong>"The Risk Cup"</strong></p>
+
+		<p>EPA's interim decision logic is based on the concept that the total level of acceptable risk to a pesticide is represented by the pesticide's Reference Dose (RfD). This is the level of exposure to a specific pesticide that a person could receive every day over a seventy-year period without significant risk of a long-term or chronic non-cancer health effect. The analogy of a "risk cup" is being used to describe aggregate exposure estimates. The full cup represents the total RfD and each use of the pesticide contributes a specific amount of exposure that adds a finite amount of risk to the cup. As long as the cup is not full, meaning that the combined total of all estimated sources of exposure to the pesticide has not reached 100% of the RfD, EPA can consider registering additional uses and setting new tolerances. If it is shown that the risk cup is full, no new uses could be approved until the risk level is lowered. This can be done by the registrant providing new data which more accurately represent the risk or by implementing risk mitigation measures. While this explanation is focused on chronic non-cancer risk, the Agency will use a similar logic to assess acute risk and cancer risk.</p>
+
+		<p>The important issue for making interim decisions which take aggregate exposure into account is how much of the "risk cup" should be set aside or reserved for sources of possible exposure for which the Agency has limited or no actual data. Unless actual exposure data are available for these non-dietary pathways, the size of the "reserve" portion will be based on various characteristics of the pesticide, such as toxicity, mobility and persistence in soils, and use pattern. It has been decided that, in general, between 5% and 20% of the risk cup will be set aside for non-dietary exposures. The remainder of the risk cup will be left for dietary risk for which reliable data are available.</p>
+
+		<p><strong>Interim Decision Logic For Common Mechanism Of Toxicity</strong></p>
+
+		<p>Similar to the decision logic for aggregate exposure, the Agency has developed a conservative approach for assessing a common mechanism of toxicity for pesticides, ensuring that it is protective of public health, workable, and flexible for making timely regulatory decisions. If a pesticide shares a common toxicological endpoint and structural similarity with other substances, EPA will assume that a common mechanism of toxicity may exist. For such pesticides, any approvals will be time limited or conditional. As the Agency's understanding of common mechanism of toxicity increases, it will revisit such time limited or conditional decisions.</p>
+
+		<p><strong>Making Interim Regulatory Decisions</strong></p>
+
+		<p>The decision logic for aggregate and cumulative risk, as described above, applies when EPA lacks data to estimate specific exposures from the various routes. If data were submitted which permitted a more precise estimate of exposure from a particular source, that information would be used to assign the appropriate portion of the risk cup for that source, rather than the more general default assumption. Further, if a registration or reregistration action did not pass the decision logic screen, additional data could be used to reassess the risk or risk mitigation measures could be adopted which could lower the risk sufficiently to grant the action.</p>
+
+		<p>Using this interim decision logic, EPA is making regulatory decisions on pending actions, and registrants can now submit applications as instructed in the Appendices of this PR Notice. Over time, the decision logic will be revised and updated as new exposure data are generated. The interim decisions made will also be revisited, as necessary, based on new information and/or new methodologies.</p>
+	</li>
+	<li>
+		<h2><a name="nextpr" id="nextpr"></a>Next PR Notices</h2>
+
+		<p>EPA places a very high priority on the development of new policies and procedures to implement the new law quickly and efficiently and to achieve its pre-enactment pace of regulatory activities. Even while activities resulting from this PR Notice are being put in place, work is continuing on many registration and reregistration activities, and interim decisions are being made. Biopesticide registration activities have continued although all pending tolerance actions have to be reannounced to meet the new FQPA requirements. For chemical pesticides, the Agency intends to issue a PR Notice requesting that registrants submit their next round of five priorities within several months. These priorities will include those required under the new law for minor use pesticides. The Agency also will be issuing a Notice similar to this one specifically directed to the minor use registrant community.</p>
+
+		<p>As the Agency works on a number of fronts to implement the new law fully and resume processing of all actions, it will provide registrants and applicants early and continuous information relating to their applications and petitions. The Agency also plans to issue a final document once it has gained significant experience in reviewing the applications and has put in place appropriate administrative procedures. The final document will include revised policy decisions and refinements of the items included in this PR Notice.</p>
+	</li>
+	<li>
+		<h2><a name="info" id="info"></a>For Further Information</h2>
+
+		<p>For further information, applicants may contact Stephen Johnson, Director, Registration Division at 703-305-5447; Lois Rossi, Director, Special Review and Reregistration Division at 703-308-8000; Janet Andersen, Director, Biopesticides and Pollution Prevention Division at 703-308-8712, or Frank Sanders, Director, Antimicrobials Division at 703-305-5440.</p>
+
+		<p>(signed)</p>
+
+		<p>Date: 01/31/97 Daniel M. Barolo, Director<br />
+			Office of Pesticide Programs</p>
+
+		<p class="pagetop"><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#main-content">Top of Page</a></p>
+	</li>
+	<li>
+		<h2><a name="appendixa" id="appendixa"></a>Appendix A</h2>
+
+		<p>As indicated at the beginning of the PR Notice, registrants, applicants and petitioners are not currently required to submit any additional information. Nevertheless, since the new statute requires the Agency to consider additional information in order to make the necessary decisions, EPA recognizes that many registrants, applicants and petitioners may wish to provide the supplemental information to the Agency even without a requirement to do so. For those registrants, applicants or petitioners who wish to supplement their original submissions with additional information, this Appendix describes what information the Agency would consider helpful additions for its review(*2).</p>
+
+		<p>(*2) An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it either displays a currently valid OMB control number or is imposed on the person by statute (5 CFR 1320.6(a)&amp;(e)). The collection of information relating to the registration, reregistration, and tolerance programs have are approved under OMB Control Numbers 2070-0024 (expires: 6/30/99); 2070-0032 (expires: 5/3/98); 2070-0040 (expires: 11/30/99); 2070-0060 (expires: 5/31/98); 2070-0122 (expires: 11/30/97); 2070-0107 (expires: 7/31/99). If you should have any comments on the collection activities, please send them to the Director, OPPE Regulatory Information Division, U.S. Environmental Protection Agency (Mailcode 2137), 401 M St., S.W., Washington, D.C. 20460. Include the OMB control number in any correspondence. Note that this address is ONLY for comments on the collection activity. Do not submit your information to this address.</p>
+
+		<p>All tolerances or tolerance exemptions and associated registration actions under FIFRA section 3 or reregistration actions under FIFRA section 4, whether pending or future, will need to comply with the new safety standard of section 408(b)(2) of the Federal Food, Drug and Cosmetic Act. In addition, because EPA intends to apply a similar standard to actions involving non-food use pesticides that may pose significant non-dietary risks to infants and children, all registration and reregistration actions also will need to comply with this standard with respect to the Agency's consideration of infants and children exposure to the pesticide. In preparing a package to be submitted, those seeking a registration, reregistration, tolerance, or an exemption from the requirement of a tolerance for a food use pesticide, or a registration or reregistration of a non-food use pesticide that may result in significant exposure to children, may need to provide additional information and/or materials to address adequately the factors and specific questions contained here. Those who wish to submit additional information should keep in mind that the Agency will consider each factor listed below (and perhaps others as Agency policies are developed) in addition to any data and information already required. In addition, it is important to note that the information identified here may not be definitive in all cases. Additional information or more detailed information may be needed in individual cases. If a registrant, applicant, or petitioner can identify additional information that would assist the Agency in addressing the FQPA provisions, EPA welcomes such information. Although the submission of this information is not currently required by the regulations, if such information is not submitted, the Agency must rely on previously submitted data, if applicable, or on broad or default assumptions when considering the factors listed. As a result, favorable action on an application, petition, or reregistration decision may be significantly delayed or precluded altogether.</p>
+
+		<p>It would be helpful for any submitted documentation to contain a discussion of each of the following factors as it relates to the pesticide and proposed tolerance or tolerance exemption. If information on any factor is not known, that fact, along with an explanation, should be noted in the rationale. It is important to note that EPA does not expect the registrant, applicant, or petitioner at this time to perform any additional testing to derive the data necessary to develop its rationales. However, if it has in its possession data from preliminary reports of ongoing studies, articles from published literature, unpublished report information, previously unsubmitted studies, or supplemental data that are otherwise pertinent to the Agency's concerns, the party is encouraged to submit them. Likewise, if a registrant, applicant, or petitioner believes that a factor is not applicable to its product, a discussion as to why this view is held should also be included. The Agency will consider all relevant factors in determining an application's completeness and in setting priorities for review.</p>
+
+		<p>Based on the new safety standard, EPA will need the following additional information in order to make appropriate regulatory decisions: (For details on each factor, please refer to the explanations below in parts A and B.)</p>
+
+		<ol><li>An informative summary of the petition or application, including a summary of the supporting data, information, accompanying rationales, and a statement providing permission to publish such summary, and</li>
+			<li>Information and discussion pertaining to a specific safety determination for infants and children including their special susceptibilities and exposure patterns to the particular pesticide.</li>
+			<br /><br /><br />
+			 
+			<li> </li>
+		</ol><p>In the format described in Appendix C of this PR Notice, address each of the following with respect to the pesticide and its use(s):</p>
+		 
+
+		<p><strong>Residue Chemistry</strong></p>
+
+		<p>Information should include a discussion of compatibility with established Codex Alimentarius Commission Maximum Residue Levels (MRLs), submission of a practical analytical method with an appropriate limit of detection, and a discussion of the potential need for tolerances for processed foods. For tolerance exemption petitions, indicate if the chemical is on the Food and Drug Administration's Generally Recognized As Safe (GRAS) list. A summary of all tolerances and exemptions from tolerance being proposed should also be included.</p>
+
+		<p><strong>Benefits Information (For Reregistration Actions Only)</strong></p>
+
+		<p>If the information and data submitted indicate that an existing tolerance, reviewed according to the requirements of the new legislation, should be determined to be unsafe (that is, to exceed the "reasonable certainty of no harm" standard), the new law allows EPA to consider pesticide benefits information in certain instances. An "eligible pesticide chemical residue" (for which an "eligible tolerance" may be applicable) is defined as a chemical residue for which</p>
+
+		<ol type="A"><li><strong>Food Use Pesticides: Registration and Reregistration Actions, Experimental Use Permits, Tolerance (or Exemption) Petitions and Reassessments</strong><br />
+				 
+				<p><strong>Special Sensitivities</strong></p>
+
+				<ol type="a"><li><strong>Chronic Endpoints </strong>
+
+						<p>For a chemical pesticide: Discuss and/or provide evidence as to whether or not the current Reference Dose (RfD) is sufficient to adequately protect infants and children. Discuss and/or provide evidence as to whether or not infants and children are more susceptible to the chemical. If you believe that an additional safety factor of 10X, to take into account potential pre- and post-natal toxicity to infants and children is not necessary, provide evidence to support the additional safety factor, if any, you believe to be more appropriate. Please bear in mind that the Agency may accept a different margin of safety only if, based on reliable data, EPA concludes that the margin will be safe for infants and children.</p>
+
+						<p>For a biochemical pesticide: Does the toxicity testing indicate that the establishment of an RfD is warranted? If so, then discuss whether or not the RfD is sufficient to adequately protect infants and children. Discuss and/or provide evidence as to whether or not infants and children are more susceptible to the biochemical pesticide.</p>
+
+						<p>For a microbial pesticide: Discuss the potential for chronic dietary risks for infants and children. Discuss and/or provide evidence as to whether or not infants and children are more susceptible to the microbial pesticide than is the adult population.</p>
+					</li>
+					<br /><li><strong>Acute Endpoints</strong>
+						<p>Discuss the potential for greater acute dietary risk for infants and children. If the chemical or biochemical pesticide demonstrates acute effects, then discuss the endpoint used to perform the assessment including relevance to infants and children and the details as to how the exposure assessment was conducted and whether the estimated risk is within the Agency's levels of concern.</p>
+					</li>
+					<br /><li><strong>Carcinogenic Endpoints</strong>
+						<p>If the chemical or biochemical has been determined to be a carcinogen and has a cancer potency factor (Q1*), discuss the aggregate excess lifetime cancer risk resulting from exposure to the chemical from residues in food and drinking water (ground and surface water) and from residential and other non-occupational source(s).</p>
+					</li>
+					<br /><br /><br />
+					 
+					<li> </li>
+				</ol><p><strong>Aggregate Exposure</strong></p>
+
+				<ol type="a"><li><strong>Water</strong>
+
+						<p>For a chemical or biochemical pesticide: Discuss the potential for the transfer of residues (of both the parent pesticide and any degradates) to drinking water. The discussion should include, but not be limited to, information indicating whether the pesticide is persistent and/or mobile, relevant product chemistry, and any available modeling data.</p>
+
+						<p>Has the chemical or any of its degradates been detected in ground water or surface water? Would this chemical or any of its degradates likely pass through primary or secondary drinking water treatment into finished water? Are any States conducting water monitoring programs for this pesticide? If so, data collected by the States and all relevant information should also be included.</p>
+
+						<p>For a microbial pesticide: Discuss the potential for the transfer of the microbial pesticide to drinking water. The discussion should include, but not be limited to, information pertaining to the biology of the microorganism, and indicating whether the pesticide is persistent and/or mobile or has the potential for transport in air (spray drift and volatility data). Are any States conducting water monitoring programs for this strain? If so, data collected by the States and all other relevant information should also be included.</p>
+					</li>
+					<br /><li><strong>Non-occupational Exposures</strong>
+						<p>Discuss the potential for significant exposure to the pesticide of children by routes other than dietary. Are there any non-occupational, structural, or residential uses (e.g., pet, swimming pool, lawn and garden, or topical insect repellent)? Is the pesticide used in or around schools, parks, or recreation facilities? Provide all available exposure data. If the pesticide demonstrates acute effects, then discuss the endpoint used to perform the assessment, including relevance to infants and children and the details of how the residential exposure assessment was conducted and whether the estimated risk is within the Agency's levels of concern.</p>
+					</li>
+					<br /><li><strong>Multiple Pathway Assessment</strong>
+						<p>Discuss the chronic and/or acute risk of aggregate exposure via multiple pathways for the general population, and for infants and children. This should include a discussion of all assumptions used and uncertainties. You should also identify, and include in the discussion, any non-pesticidal uses of the chemical (e.g., industrial, pharmaceutical, cosmetic, food additive).</p>
+					</li>
+					<br /><br /><br />
+					 
+					<li> </li>
+				</ol><p><strong>Cumulative Effects</strong></p>
+
+				<p>Discuss the mechanism and mode of action of this pesticide. Identify other chemicals that may fall into this category (both pesticide and non-pesticide chemicals). Provide information regarding common mechanisms and modes of action with other chemical substances based on structural similarity, same or similar endpoints, and other relevant criteria. Provide any data and/or evidence illustrating similarities at the cellular/molecular level.</p>
+
+				<p>Discuss the appropriateness of combining exposures in this particular case. Where data are not available, discuss appropriateness of using default assumptions and what defaults should be used.</p>
+
+				<p><strong>Endocrine Effects</strong></p>
+
+				<p>Discuss and provide any evidence relevant to the possibility that the pesticide may have endocrine disrupter effects individually or in combination with another chemical. Include the potential for synergistic effects of your chemical in combination with other chemicals.</p>
+
+				<p>Identify any instances of reported (proven or alleged) adverse reproductive or developmental effects to domestic animals or wildlife as a result of exposure to your chemical, or that occurred in an area where the chemical is known to have been used. Provide all information regarding the circumstances, estimated level of exposure, and details of the effect.</p>
+
+				<ol><li>EPA is unable to identify a level of exposure that will not cause or contribute to a known or anticipated harm to human health (that is, the effect is a non-threshold effect);</li>
+					<li>an appropriate quantitative risk assessment for the lifetime risk of the non-threshold effect has been determined; and</li>
+					<li>if there are also threshold effects associated with the chemical, EPA is able to identify a level at which the residue will not cause any known or anticipated harm to human health and that the level of aggregate exposure is safe.</li>
+					<br /><br /><br />
+					 
+					<li> </li>
+				</ol><p>Registrants who suspect that an existing tolerance for their chemical, which has been classified by the Agency as exhibiting a non-threshold effect, may exceed the new safety standard, and wish the Agency to consider an eligible tolerance for residues of that pesticide, may need to submit the following information:</p>
+
+				<p><strong>Conditions Regarding The Use Of the Pesticide</strong></p>
+
+				<p>Information and/or data indicating that the use of the pesticide chemical that produces the residue protects consumers from adverse health effects that would pose a greater risk than the dietary risk from the residue, OR</p>
+
+				<p>Information and/or data showing that the use of the pesticide chemical that produces the residue is necessary to avoid a significant disruption in the domestic production of an adequate, wholesome, and economic food supply.</p>
+
+				<p>Conditions Regarding the Risk of a Pesticide Evidence that the yearly risk associated with the nonthreshold effect from aggregate exposure to the residue is not greater than ten times the yearly risk allowed under the new safety standard, AND</p>
+
+				<p>Evidence that the tolerance is limited to ensure that the lifetime risk associated with the nonthreshold effect from aggregate exposure to the residue is not greater than twice the lifetime risk allowed under the new safety standard.</p>
+
+				<p>It is important to note that the above information does not supersede any existing benefits requirements under FIFRA, such as public health pests and benefits data necessary for a public interest finding under FIFRA section (3)(c)(7).</p>
+			</li>
+			<br /><li><strong>Non-Food Use Pesticides: Registration Or Reregistration Actions</strong>
+				<p>In the format described in Appendix C of this PR Notice, address each of the following with respect to the pesticide and its use(s):</p>
+
+				<p><strong>Potential For Exposure To Children</strong></p>
+
+				<p>Describe the use pattern of your chemical. If you believe that its use(s) would not potentially result in significant exposure to infants and children, provide a discussion and rationale as to why this view is held. For chemicals that appear not to result in a significant exposure to infants and children, no additional information is needed.</p>
+
+				<p>If you believe that the use of your chemical may result in significant children's exposure, the following factors may need to be addressed:</p>
+
+				<p><strong>Special Sensitivities</strong></p>
+
+				<p>Discuss and/or provide evidence as to whether or not infants and children are more susceptible to the chemical than adults.</p>
+
+				<p>Discuss the potential for greater acute and/or chronic risk for infants and children. If the pesticide demonstrates toxic effects, then discuss the endpoint used to perform the assessment including relevance to infants and children and the details as to how the exposure assessment was conducted and whether the estimated risk is within the Agency's levels of concern.</p>
+
+				<p><strong>Aggregate Exposure</strong></p>
+
+				<p>Discuss the potential for the transfer of residues of both the parent chemical and any degradates or of the microbial pesticide to drinking water. For chemical pesticides, the discussion should include, but not be limited to, information indicating whether the pesticide is persistent and/or mobile, the potential for transport in air (spray drift and volatility data), and any available modeling data. For microbial pesticides, the discussion should instead include information pertaining to the biology of the microorganism and indicate whether the pesticide is persistent and/or mobile.</p>
+
+				<p>Has the chemical or any of its degradates been detected in ground water or surface water? Would this chemical or any of its degradates likely pass through primary or secondary drinking water treatment into finished water? Are any States conducting water monitoring programs for this pesticide? If so, data collected by the States and all relevant information should also be included.</p>
+
+				<p>Discuss the potential for significant exposure to the chemical of children by non-dietary routes. Are there non-occupational, structural, or residential uses (e.g., pet, swimming pool, lawn and garden, or topical insect repellents)? Is the pesticide used in or around schools, parks, or recreation facilities? Provide all available exposure data.</p>
+
+				<p>Discuss the chronic and/or acute risk of aggregate exposure via multiple pathways for the general population, infants and children should include a discussion of all assumptions used and uncertainties.</p>
+
+				<p>Identify other non-pesticidal uses of the chemical (e.g., industrial, pharmaceutical, cosmetic, food additive).</p>
+
+				<p><strong>Cumulative Effects</strong></p>
+
+				<p>Discuss the mechanism and mode of action of this pesticide. Identify other chemicals that may fall into this category (both pesticide and non-pesticide chemicals). Provide information regarding common mechanisms and modes of action with other chemical substances based on structural similarity, same or similar endpoints, and other relevant criteria. Provide any data and/or evidence illustrating similarities at the cellular/molecular level.</p>
+
+				<p>Discuss the appropriateness of combining exposures in this particular case. Where data are not available, discuss appropriateness of using default assumptions and what defaults should be used.</p>
+
+				<p><strong>Endocrine Effects</strong></p>
+
+				<p>Discuss and provide any evidence relevant to the possibility that the chemical may have endocrine disrupter effects individually or in combination with another chemical. Include the potential for synergistic effects of your chemical in combination with other chemicals and whether or not your chemical could act as a catalyst for another hormone-disrupting chemical.</p>
+
+				<p>Identify any instances of reported (proven or otherwise) adverse reproductive or developmental effects to domestic animals or wildlife as a result of exposure to your chemical, or that occurred in an area where the chemical is known to has been used. Provide all information regarding the circumstances, estimated level of exposure, and details of the effect.</p>
+			</li>
+		</ol><p class="pagetop"><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#main-content">Top of Page</a></p>
+	</li>
+	<br /><li>
+		<h2><a name="appendixb" id="appendixb"></a>Appendix B</h2>
+
+		<p><strong>Information Now Being Accepted</strong></p>
+
+		<p>As mentioned, EPA has developed and is now implementing an interim strategy for phasing in and applying the requirements of the new legislation to pending registration and reregistration decisions. During this period, the Agency will be establishing new policies as well as revising its current policies and, to the greatest extent possible, will continue to make regulatory decisions.</p>
+
+		<ol type="A"><li><strong>Submissions Now Being Accepted For Priority Review</strong>
+
+				<ol><li><strong>Section 18 Emergency Exemptions.</strong><br /><br />
+						The Agency's first priority is the review of pending section 18 specific and crisis emergency exemptions and the accompanying determination of whether or not a tolerance can be established consistent with requirements of the FQPA. A letter has been sent to the States on October 24, 1996, which explains what additional materials and information the Agency must consider in order to make a tolerance decision. EPA is currently accepting supplemental information for all pending requests for section 18 actions and for all new emergency exemption requests.</li>
+					<br /><li><strong>Time-Limited Tolerances And Registrations. </strong><br /><br />
+						EPA will also give top priority to the review of expiring time-limited tolerances, inert ingredient tolerances or exemption requests, and registrations that have expired or will expire by January 30, 1997. Registrants of these uses have been notified by the Agency that they should address the FQPA factors and must have submitted the information by October 1, 1996, and that the additional materials must have been submitted either in the form of a tolerance petition and/or a registration amendment. The Agency will continue to accept any supplemental information relative to these actions, but cannot guarantee a decision before the expiration date of existing time-limited tolerances.</li>
+					<br /><li><strong>Reduced Risk Pesticides.</strong><br /><br />
+						Work will continue on all pending and any new food use registration requests for active ingredients and tolerances that are submitted in conjunction with the Agency's Reduced Risk Program. For priority review, these applications must clearly meet the new statutory standard of reasonable certainty of no harm, especially as it relates to special subpopulations, such as children. The Agency is currently accepting supplemental information for all pending (food and non-food use) reduced risk applications, and is also accepting new registration applications for reduced risk active ingredients or new food uses of existing pesticides registered under the reduced risk program. All pending tolerances for these affected actions will need to be refiled regardless of whether the Agency has published a Notice of Filing prior to August 3, 1996.</li>
+					<br /><li><strong>Biological Pesticides. </strong><br /><br />
+						Priority will also be given to the review of biochemical and microbial pesticide active ingredients, tolerances, or exemptions from tolerance. For biopesticides, a complete package is required before a pending review can be completed.<br /><br />
+						The Biopesticides and Pollution Prevention Division will continue to review pending applications and does not intend to reprioritize the in-house applications based on submitted information. The Agency is currently accepting supplemental information for all pending (food and non-food use) biopesticide applications and is also accepting any new applications for new biopesticide active ingredients for both food and non-food use registrations. All pending tolerances for these affected actions will need to be refiled regardless of whether the Agency has published a Notice of Filing prior to August 3, 1996.</li>
+					<br /><li><strong>Planned Priority System Actions.</strong><br /><br />
+						Consistent with the priorities identified in items 1-4, the Agency is now resuming work on the review of all in-house actions for which a human health risk assessment was completed by August 3, 1996, but further assessment is now required due to the passage of the FQPA. These include actions that were submitted as part of the Agency's current planned priority system, which includes new active ingredients, significant new food uses, and inert tolerances or exemption requests. Registrants should be aware of the status of their affected applications. All pending tolerances for these affected actions will need to be refiled regardless of whether the Agency has published a Notice of Filing prior to August 3, 1996.</li>
+				</ol></li>
+			<br /><li><strong>Other Submissions Now Being Accepted For Pending Actions</strong>
+				<p>Registrants and applicants may now submit the supplemental information outlined in this Notice for all other actions that are currently pending within the Agency. These types of submissions include, but are not limited to:</p>
+
+				<ol><li><strong>Pending Applications.</strong><br /><br />
+						Supplemental information may be submitted for registration applications of new chemical or new uses of existing chemical that were submitted to the Agency before August 3, 1996. These include any pending food use applications and tolerance petitions, non-food uses with the potential for significant children's exposure, and for chemical pesticide registration actions requiring a human health risk assessment.</li>
+					<br /><li><strong>Reregistration.</strong><br /><br />
+						Work has resumed on the pesticide chemical cases scheduled for reregistration eligibility decisions in FY 1997. The Agency is finalizing its list of chemicals for '97 REDs and will be notifying affected registrants by letter. Supplemental information should be submitted for these chemical cases only. As required by FQPA, EPA will be focusing its efforts on groups of chemicals, such as the organophosphates, carbamates and B2 carcinogens. In order for EPA to most effectively utilize the information, however, and not be put in a position requiring reliance on broad assumptions and default judgements, registrants are advised to submit the information in a timely fashion.</li>
+				</ol></li>
+			<br /><li><strong>Submissions Which Will Receive Lower Priority At This Time</strong>
+				<ol><li><strong>New Applications.</strong><br /><br />
+						In the interest of greatest efficiency, for both the Agency and registrants, the Agency would prefer that registrants continue to hold applications for new pesticide chemical registration and tolerance actions, except for Emergency Exemptions, Reduced Risk and Biological Pesticides, and time-Limited Tolerances and Registrations, as outlined in section A above. EPA expects to issue another PR Notice in March, which will update information about our priorities and request the next group of registrants' priorities. While the Agency will not refuse to accept a complete registration application package (including the supplemental information outlined in this notice) for any new chemical pesticide or new use of an existing chemical pesticide, EPA encourages the registrants to await the March notice. If a submission is made, it must be one of the registrant's next five priorities (Registration Priority Actions 11-15). Given our current priority workload and in fairness to all registrants, if such an application is received, it will not be placed in the priority queue until the Agency is able to schedule all of the Registration Priority Actions 11-15.</li>
+					<br /><li><strong>Reregistration.</strong><br /><br />
+						Recognizing that the FQPA did not amend the FIFRA Section 4 reregistration deadlines, registrants for future (FY 1998 and beyond) RED chemicals should continue to satisfy existing data requirements and be ready to submit required information as soon as it is requested by the Agency.</li>
+				</ol></li>
+		</ol></li>
+	<br /><li>
+		<h2><a name="appendixc" id="appendixc"></a>Appendix C</h2>
+
+		<p><strong>Formatting And Submittal Procedures</strong></p>
+
+		<ol type="A"><li><strong>Format</strong>
+
+				<p>If, as a registrant or applicant, you choose to submit information, please provide a separate FQPA Supplemental Information Document on a floppy disc WordPerfect 5.1 format. For pending registration applications, tolerance, or tolerance exemption petitions that must be refiled, and for applicable reregistration actions scheduled for FY 97 eligibility decisions, all additional information required by FQPA should be submitted according to this Notice. This information is in addition to, and does not substitute for, data and information already required under FIFRA or FFDCA. The Transmittal Letter must include a statement that the petitioner agrees that the summary or any information it contains may be published as a part of the Agency's notice of filing of the petition and as part of a proposed or final regulation. The Supplemental Information Document (Part II - Statutory Findings and Information Summary--see below) and any supporting data must comply with <a href="https://www.epa.gov/pesticide-registration/prn-2011-3-standard-format-data-submitted-under-fifra-and-certain-provisions">PR Notice 86-5</a> formatting requirements.</p>
+
+				<p>As mentioned, the Agency is not requiring any additional testing at this time. If a registrant or applicant chooses to submit additional information, the Agency would appreciate it if the applicant or registrant could submit the information in support of their new or pending actions in the format outlined below.</p>
+
+				<ul><li>I. Transmittal Letter</li>
+					<li>II. Statutory Findings and Information Summaries
+						<ul><li>1. Executive Summary</li>
+							<li>2. Background Information and Use profile</li>
+							<li>3. Risk Assessment and Statutory Findings
+								<ul><li>a) Toxicology Profile
+										<ul><li>(I) Data Summary
+												<ul><li>(ii) Acute Toxicity</li>
+													<li>(iii)Developmental/Reproductive Effects</li>
+													<li>(iv) Chronic Effects</li>
+													<li>(v) Carcinogenicity</li>
+													<li>(vi) Endocrine Effects</li>
+												</ul></li>
+										</ul></li>
+									<li>b) Aggregate Exposure
+										<ul class="indented"><li>(I) Dietary Exposure
+												<ul><li>(ii) Drinking Water Exposure</li>
+													<li>(iii)Non-occupational Exposure</li>
+												</ul></li>
+										</ul></li>
+									<li>c) Cumulative Risk</li>
+									<li>d) Safety Determination
+										<ul><li>(I) U.S. General Population
+												<ul><li>(ii) Infants and Children</li>
+												</ul></li>
+										</ul></li>
+									<li>e) Other Considerations</li>
+								</ul></li>
+							<li>4. Residue Chemistry Data Summary
+								<ul class="indented"><li>a) Residues in the Raw Agricultural Commodity and Processed Food/Feed</li>
+									<li>b) List International Tolerances (Codex MRLs)</li>
+									<li>c) Practical Analytical Method</li>
+									<li>d) List of All Pending Tolerances and Exemptions</li>
+								</ul></li>
+							<li>5. Environmental Fate Data Summary</li>
+							<li>6. Benefits Information (only applicable to chemicals identified in section VI)</li>
+						</ul></li>
+					<li>III. Supporting Evidence and Data</li>
+				</ul></li>
+			<br /><li><strong>Submittal Procedures</strong>
+				<p>For actions that are currently pending within the Agency, registrants and applicants are directed to indicate in the Transmittal Letter the appropriate Agency pending registration number, the petition number, or the reregistration case number, which the supplemental information submission supports. This procedure will enable the Agency to identify easily the supplemental information and link it with the appropriate pending action. Registrants and applicants are asked to submit their documentation on a floppy disc using WordPerfect 5.1 format.</p>
+
+				<p>Submissions should be directed to the OPP Document Processing Desk and must include the following distribution code: (FQPA Supplemental Information).</p>
+
+				<p>By mail, submission packages should be sent to OPP at the following address:</p>
+
+				<blockquote>Document Processing Desk (FQPA Supplemental Information)<br />
+					Office of Pesticide Programs - 7504C<br />
+					U.S. Environmental Protection Agency<br />
+					401 M Street, S.W.<br />
+					Washington, DC 20460-0001</blockquote>
+				 
+
+				<p>By personal or courier delivery, submissions (with appropriate distribution code) should be brought to the Document Processing Desk between the hours of 8:00 a.m. and 4:00 p.m., Monday through Friday, excluding federal holidays. OPP's Document Processing Desk is located at the following address:</p>
+
+				<blockquote>Office of Pesticide Programs (FQPA Supplemental Information)<br />
+					Room 266A, Crystal Mall No. 2<br />
+					1921 Jefferson Davis Highway<br />
+					Arlington, Virginia</blockquote>
+			</li>
+		</ol></li>
+</ol><p class="pagetop"><a href="prn-97-1-agency-actions-under-requirements-food-quality-protection-act.html#main-content">Top of Page</a></p>
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/contact-us-about-pesticide-registration.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Pesticide Registration</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../pesticide-registration.html" title="" class="menu-node-unpublished menu-link">Pesticide Registration Home</a></li>
+<li class="menu-item"><a href="about-pesticide-registration.html" class="menu-node-unpublished menu-link">About Pesticide Registration</a></li>
+<li class="menu-item"><a href="electronic-submissions-pesticide-applications.html" class="menu-node-unpublished menu-link">Electronic Submission of Applications</a></li>
+<li class="menu-item"><a href="pesticide-registration-manual.html" class="menu-node-unpublished menu-link">Pesticide Registration Manual</a></li>
+<li class="menu-item"><a href="pesticide-registration-fees-and-fee-waivers.html" class="menu-node-unpublished menu-link">Fees and Waivers</a></li>
+<li class="menu-item"><a href="registration-information-type-pesticide.html" class="menu-node-unpublished menu-link">Registration Information by Type of Pesticide</a></li>
+<li class="menu-item"><a href="antimicrobial-pesticide-registration.html" class="menu-node-unpublished menu-link">— Antimicrobial Registration</a></li>
+<li class="menu-item"><a href="biopesticide-registration.html" class="menu-node-unpublished menu-link">— Biopesticide Registration</a></li>
+<li class="menu-item"><a href="conventional-pesticide-registration.html" class="menu-node-unpublished menu-link">— Conventional Registration</a></li>
+<li class="menu-item"><a href="inert-ingredients-regulation.html" class="menu-node-unpublished menu-link">— Inert Ingredient Regulation</a></li>
+<li class="menu-item"><a href="registration-requirements-and-guidance.html" class="menu-node-unpublished menu-link">Requirements and Guidance</a></li>
+<li class="menu-item"><a href="data-requirements-pesticide-registration.html" class="menu-node-unpublished menu-link">— Data</a></li>
+<li class="menu-item"><a href="pesticide-registration-manual-chapter-20-forms-and-how-obtain-them.html" class="menu-node-unpublished menu-link">— Forms</a></li>
+<li class="menu-item"><a href="labeling-requirements.html" class="menu-node-unpublished menu-link">— Labeling</a></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on January 9, 2017</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  
+  
+  <div class="region-page-bottom">  <div id="autologout-warn" style="display: none;" title="Warning: Session Timeout"><span class="warning-message"></span></div>  </div>
+<script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke95m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"B1efMeu0gXe3-MKhS9I9Jeyhn1kiJkKuZZB9al-1TYM"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"16873"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":12341,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
