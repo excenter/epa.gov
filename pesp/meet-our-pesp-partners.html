@@ -1,0 +1,2474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="cleartype" content="on" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<!--googleon: all--><meta name="DC.description" content="The Pesticide Environmental Stewardship Program is a voluntary membership program that promotes the adoption of innovative, alternative pest control practices such as Integrated Pest Management. PESP has three membership tiers: Bronze, Silver, Gold." />
+<meta name="DC.title" content="Meet our PESP Partners" />
+<!--googleoff: snippet--><meta name="keywords" content="PestWise, PESP, members" />
+<link rel="canonical" href="meet-our-pesp-partners.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/130049" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Learn the Issues" />
+<meta name="DC.type" content="Collections and Lists" />
+<meta name="DC.Subject.epacat" content="Partnerships" />
+<meta name="DC.date.created" content="2015-12-18" />
+<meta name="DC.date.modified" content="2016-08-31" />
+<meta name="DC.date.reviewed" content="2017-08-31" />
+<meta name="DC.creator" content="US EPA,OCSPP,OPP" />
+<meta name="WebArea" content="Pesticide Environmental Stewardship Program (PESP)" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>Meet our PESP Partners | Pesticide Environmental Stewardship Program (PESP) | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Pesticide Environmental Stewardship Program (PESP)" href="../feed/118783/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-130049 node-type-page og-context og-context-node og-context-node-118783 section-pesp microsite" >
+  <div class="skip-links"><a href="meet-our-pesp-partners.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Pesticide Environmental Stewardship Program (PESP)</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/pesp/meet-our-pesp-partners&amp;t=Meet%20our%20PESP%20Partners" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/pesp/meet-our-pesp-partners&amp;text=Meet%20our%20PESP%20Partners%20&amp;url=https://www.epa.gov/pesp/meet-our-pesp-partners&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/pesp/meet-our-pesp-partners" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/pesp/meet-our-pesp-partners&amp;description=Meet%20our%20PESP%20Partners%20&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/contact-us-about-pesticide-environmental-stewardship-program.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Meet our PESP Partners </h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <p>The Pesticide Environmental Stewardship Program (PESP) is a voluntary membership program that promotes the adoption of innovative, alternative pest control practices such as Integrated Pest Management (IPM). PESP has three membership tiers: Bronze, Silver, and Gold. </p>
+
+<p><span
+    class="figure image file file-image file-image-jpeg left view-mode-thumbnail" style="width:24px;"><img alt="gold member" height="34" width="24" style="line-height: 1.5;" class="left media-element file-thumbnail left" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/thumbnail/public/2015-12/goldribbon.jpg" title="" /></span></p>
+
+<h2>PESP Gold Members</h2>
+
+<p>Gold membership is reserved for PESP's outstanding environmental stewards. These members’ demonstrated commitment to pesticide risk reduction makes them models for other PESP members. Gold members may develop an IPM strategy, demonstrate significant and sustained progress in reducing pesticide risks, and independently measure the progress of their IPM implementation. </p>
+
+<p><span
+    class="figure image file file-image file-image-jpeg left view-mode-thumbnail" style="width:24px;"><img alt="silver members" height="34" width="24" class="left media-element file-thumbnail left" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/thumbnail/public/2015-12/silverribbon.jpg" title="" /></span></p>
+
+<h2>PESP Silver Members</h2>
+
+<p>Silver membership is reserved for PESP's higher achieving environmental stewards. These members’ are well on their way in demonstrating a commitment to pesticide risk reduction and may serve as models for PESP Bronze-level members. Silver members may develop an IPM strategy and independently measure the progress of their IPM implementation.</p>
+
+<p><span
+    class="figure image file file-image file-image-jpeg left view-mode-thumbnail" style="width:24px;"><img alt="bronze members" height="34" width="24" class="left media-element file-thumbnail left" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/thumbnail/public/2015-12/bronzeribbon.jpg" title="" /></span></p>
+
+<h2>PESP Bronze Members</h2>
+
+<p>Bronze membership is the starting point for new members entering the program. Bronze members affirm that environmental stewardship is an integral part of their approach to pest management and may independently measure the progress of their IPM implementation.</p>
+
+<p>Below is a list of all active PESP members with details about their participation. Please note that each PESP member is listed by the state and EPA Region in which it is headquartered or in which its primary PESP representative is located. However, a member's sphere of influence may extend beyond this state or EPA Region.</p>
+
+<table id="datatable"><thead><tr><th scope="col">Member Name</th>
+			<th scope="col">Date Joined</th>
+			<th scope="col">Group</th>
+			<th scope="col">Tier</th>
+			<th scope="col">State</th>
+			<th scope="col">EPA Region</th>
+		</tr></thead><tbody><tr><td>A-Active Termite &amp; Pest Control Company </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>A&amp;D Professional Pest Elimination </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>RI</td>
+			<td>1</td>
+		</tr><tr><td>Aard Pest Control, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>ABC Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Accurase Termite and Pest Control</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>AR</td>
+			<td>6</td>
+		</tr><tr><td>Accurate &amp; Thrifty Pest Control</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AR</td>
+			<td>6</td>
+		</tr><tr><td>Ace Exterminators</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WV</td>
+			<td>3</td>
+		</tr><tr><td>Action Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>A-Custom Pest Service Inc.</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Adam’s Pest Control, Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MN</td>
+			<td>5</td>
+		</tr><tr><td>Aim Pest Control</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Albie Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>All Service Pest Management, Inc.</td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Allgood Pest Solutions </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Allied Biological, Inc. </td>
+			<td>2003</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Almond Board of California </td>
+			<td>1997</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Alterra</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>UT</td>
+			<td>8</td>
+		</tr><tr><td>Amco Ranger Termite &amp; Pest Solutions</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>American Mosquito Control Association</td>
+			<td>1996</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>American Nursery and Landscape Association</td>
+			<td>1996</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>American Pest </td>
+			<td>1997</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>American Veterinary Medical Association</td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Anderson Pest Control</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NV</td>
+			<td>9</td>
+		</tr><tr><td>Anderson Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Anti-Pesto</td>
+			<td>2016</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Aptive Environmental </td>
+			<td>2016</td>
+			<td>Work</td>
+			<td><span>Bronze</span></td>
+			<td>UT</td>
+			<td>8</td>
+		</tr><tr><td>ArboRx Tree Care</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CO</td>
+			<td>8</td>
+		</tr><tr><td>Arlington Independent School District </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Arrow Exterminatging Co.</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Arrow Exterminators </td>
+			<td>2003</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td><span>Arrow Exterminating Company, Inc.</span></td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>6</td>
+		</tr><tr><td>Ascension Parish School Board</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>LA</td>
+			<td>6</td>
+		</tr><tr><td>Aspenn Environmental Services</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Assured Environments</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Audubon International </td>
+			<td>1997</td>
+			<td>Play</td>
+			<td>Gold</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Baltimore Gas &amp; Electric Company </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Balfour Beatty Communities</td>
+			<td>2004</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Batzner Pest Management, Inc.</td>
+			<td>2006</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>Bay Area Stormwater Management Agencies Association </td>
+			<td>1995</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Bayonne Exterminating Company</td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>BBX Eliminator</td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Beautiful plants LLC</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Beaverton (OR) School District</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Berrett Pest Management</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Best Pest Solutions, LLC</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>Big Time Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Bio-Integral Resource Center </td>
+			<td>1997</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Bio-Tech Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Birds Eye Fresh </td>
+			<td>2005</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Black Pest Prevention, Inc. </td>
+			<td>2007</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Blacks Pest Services, LLC </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Blue Chip Pest Services </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>B.O.G. Pest Control</td>
+			<td>2016</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Borite Termite &amp; Pest Treatments Corporation </td>
+			<td>2004</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Borst Landscape and Design </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Braman Chemical Enterprise, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Brock Lawn and Pest Contro, Inc.</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Buffalo Exterminating Company, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Bug Busters, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Bug Master</td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>6</td>
+		</tr><tr><td>Bug Off Pest Control Center </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Bug Out Service</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Buono Pest Control Co., Inc.</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Cadenhead Services, Inc.</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>California American Exterminator </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>California Fresh Carrot Advisory Board</td>
+			<td>1997</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>California Garlic and Onion Research Advisory Board </td>
+			<td>2006</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>California Leafy Greens Research Program </td>
+			<td>1998</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>California Melon Research Advisory Board </td>
+			<td>2000</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>California Walnut Board </td>
+			<td>2000</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Campbell Soup Company </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Carolina Pest Management, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Cascade Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Cass County Vector Control </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>ND</td>
+			<td>8</td>
+		</tr><tr><td>Central Coast Vineyard Team </td>
+			<td>2002</td>
+			<td>Farm</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Central Vermont Public Service Corporation</td>
+			<td>2003</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>VT</td>
+			<td>1</td>
+		</tr><tr><td>Certified Pest Control Operators of Florida </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>ChemTech Pest Control Corporation </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Chesapeake Ecology Center </td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Chicago Parks District, Department of Conservatories </td>
+			<td>1999</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Chicago Zoological Society at Brookfield Zoo</td>
+			<td>2000</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Cimex K9</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Chiloquin Vector Control District</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>City of Davis </td>
+			<td>1997</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>City of Greensboro, Parks &amp; Recreation</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>City of Phoenix Public Works Department </td>
+			<td>2007</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>City of West DesMoines Parks Department </td>
+			<td>2007</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>IA</td>
+			<td>7</td>
+		</tr><tr><td>Clark Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Clark Seif Clark, Inc.</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Clarke Environmental Mosquito Management, Inc.</td>
+			<td>2006</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Clark County (GA) School District</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Coachella Valley Mosquito &amp; Vector Control District</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Columbia Gorge Fruit Growers </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Commonwealth Edison</td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Contra Costa Mosquito &amp; Vector Control District</td>
+			<td>2012</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>County of Santa Clara (CA)</td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Craig Thomas Pest Control, Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Cramer Pest Control</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>Cranberry Institute </td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Crane Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Critter Ridders LLC </td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>Crooked River Weed Management Area </td>
+			<td>2003</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>CropLife Foundation </td>
+			<td>2005</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>Cuyahoga County Board of Health </td>
+			<td>2003</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>David Wheeler Pest Control</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Debug Pest Control </td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>RI</td>
+			<td>2</td>
+		</tr><tr><td>Del Monte Foods </td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Delmarva Power (formerly Conectiv)</td>
+			<td>1995</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>DE</td>
+			<td>3</td>
+		</tr><tr><td>Designscapes of Lubbock</td>
+			<td>2016</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Dial One Franklynn Pest Control Company </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>LA</td>
+			<td>6</td>
+		</tr><tr><td>Diligent Lawn &amp; Pest Control</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>District of Columbia, Executive Office of the Mayor / Office of the Clean City</td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>DUCK Home &amp; Pest Services</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Duquesne Light Company </td>
+			<td>1998</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Early Bird Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Earth's Best Natural Pest Management </td>
+			<td>2007</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Eastside Exterminators</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>EcoFirst Pest Control, Inc. </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Eco-Pest </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>ID</td>
+			<td>10</td>
+		</tr><tr><td>Eastside Exterminators</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>EcoShield Pest Control</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Eden Advanced Pest Technologies </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Edison Electric Institute </td>
+			<td>1995</td>
+			<td>Live</td>
+			<td>Gold</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>Elite Pest Management </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Elk Grove Park District </td>
+			<td>2006</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Enviroguard Pest Solutions Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Environmental Coalition Incorporated</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Environmental Health Services, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>EnviroSafe, Inc.</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Enviro-Tech Enterprises, LLC</td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Envirotech Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CO</td>
+			<td>8</td>
+		</tr><tr><td>e-PAR USA, Inc.</td>
+			<td>2012</td>
+			<td>Play</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Everett's Pest Management </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Excel Termite &amp; Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Falcon Termite &amp; Pest Control, Inc. </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Families Exterminators, Inc.</td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Fenn Termite Pest Control, Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Fischer Environmental Services, Inc. </td>
+			<td>2001</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>LA</td>
+			<td>6</td>
+		</tr><tr><td>Flash Exterminating</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Florida A&amp;M University, Public Health Entomology Research and Education Center </td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Florida Fruit &amp; Vegetable Association </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Florida Yards &amp; Neighborhoods </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Forsyth County Department of Public Health </td>
+			<td>2010</td>
+			<td>Live, Play</td>
+			<td>Silver</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Fox Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>UT</td>
+			<td>8</td>
+		</tr><tr><td>General Mills, Inc. </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MN</td>
+			<td>5</td>
+		</tr><tr><td>General Pest Elimination </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>General Pest Control Co. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>Gerber Products Company </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>GGA Pest Management Services </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>TX</td>
+			<td>5</td>
+		</tr><tr><td>Gilbert Public Schools</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Glades Crop Care, Inc. </td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>GlenOaks Country Club</td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>KY</td>
+			<td>4</td>
+		</tr><tr><td>GM Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>GMH Military Housing LLC</td>
+			<td>2004</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Golf Course Superintendents Association of America </td>
+			<td>1995</td>
+			<td>Play</td>
+			<td>Gold</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Green Brands LLC T/A Enviro-Tech Pest Services </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Green Lawn Plus LLC</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>GreenHow, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Green Team Pest Defense LLC</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>Greenwize Lawn Care </td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>Gregory Pest Solutions</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>Gregory Termite &amp; Moisture Control</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Griffin Pest Solutions </td>
+			<td>2004</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Guardian Pest Solutions, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MN</td>
+			<td>5</td>
+		</tr><tr><td>Gulf Stream Termite &amp; Environmental Services</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Hancock Glen</td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>HealthySoil (formerly Highlands Soil &amp; Water) </td>
+			<td>2003</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Hearts Pest Management, Inc. </td>
+			<td>2012</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Hesperian Group </td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Holpers Pest and Animal Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>Hopper Environmental Services, Inc. </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>AR</td>
+			<td>6</td>
+		</tr><tr><td>Horizon Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>House-Tech Pest Control </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Hulett Environmental Services, Inc. </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Insight Pest Solutions</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Integrated Pest Management, Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>International Cut Flower Growers Association </td>
+			<td>1998</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>International Transmission Company</td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Invader Pest Management </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>IPM Institute of North America, Inc. </td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>IPM - Intelligent Pest Management</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>JP Pest Services </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NH</td>
+			<td>1</td>
+		</tr><tr><td>Jungle Island </td>
+			<td>2004</td>
+			<td>Play</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Kansas Corn Growers Association</td>
+			<td>1999</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Kansas Department of Agriculture</td>
+			<td>2012</td>
+			<td>Farm</td>
+			<td>Bronze</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Kansas Grain Sorghum Producers Association</td>
+			<td>1999</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Kenmore Pest Control and Termite Services </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Kyrene Elementary School District </td>
+			<td>2000</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Lake County Winegrape Commission</td>
+			<td>2003</td>
+			<td>Farm</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Lake County Winegrape Commission</td>
+			<td>2003</td>
+			<td>Farm</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Lakewood Exterminating</td>
+			<td>2016</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>LawnStarter</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Lodi-Woodbridge Winegrape Commission </td>
+			<td>1997</td>
+			<td>Farm</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Louisiana Pest Management Association </td>
+			<td>2004</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>LA</td>
+			<td>6</td>
+		</tr><tr><td>Low Input Viticulture and Enology of Oregon </td>
+			<td>1999</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Lyme Disease Association, Inc. </td>
+			<td>2007</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>M&amp;M Environmental </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Maine Integrated Pest Management Council </td>
+			<td>2004</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>ME</td>
+			<td>1</td>
+		</tr><tr><td>Massey Services, Inc.</td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Maui Ag Tech LLC</td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Bronze</td>
+			<td>HI</td>
+			<td>9</td>
+		</tr><tr><td>Mayfield City School District </td>
+			<td>2006</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>Maze Services </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>McCloud Services</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>MD Weaver Corporation</td>
+			<td>2016</td>
+			<td><span>Work</span></td>
+			<td><span>Bronze</span></td>
+			<td>NH</td>
+			<td>1</td>
+		</tr><tr><td>Merlin's Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Michigan Asparagus Research, Inc.</td>
+			<td>2001</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Michigan Cherry Committee</td>
+			<td>1997</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Mint Industry Research Council </td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Modern Pest Services </td>
+			<td>2007</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>ME</td>
+			<td>1</td>
+		</tr><tr><td>Monroe County School Corporation </td>
+			<td>1996</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>Moody Air Force Base </td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>MowCow Lawn &amp; Landscape </td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Mt. Prospect Park District </td>
+			<td>2010</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Myers Pest &amp; Termite Services, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>National Center for Healthy Housing </td>
+			<td>2006</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>National Environmental Solutions LLC</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>National Gardening Association </td>
+			<td>2002</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>VT</td>
+			<td>1</td>
+		</tr><tr><td>National Grape Cooperative, Inc. </td>
+			<td>2000</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>National Pest Management Association </td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>National Potato Council </td>
+			<td>1994</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>NaturaLawn of America, Inc. </td>
+			<td>2004</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Natural Resources General Management &amp; Services</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>NaturZone Pest Control </td>
+			<td>2006</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Newark Public Schools</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>New Orleans Sewerage &amp; Water Board</td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>LA</td>
+			<td>6</td>
+		</tr><tr><td>New England Vegetable &amp; Berry Growers Association</td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>New York City Board of Education </td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>New York Power Authority </td>
+			<td>2002</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Nick's Pest Management</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>KY</td>
+			<td>4</td>
+		</tr><tr><td>Noosa Pest Management, LLC </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>North American Pollinator Protection Campaign </td>
+			<td>2003</td>
+			<td>Live</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Northern Indiana Public Service Company</td>
+			<td>1996</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>Northern Virginia Regional Park Authority </td>
+			<td>2008</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Northwest Alfalfa Seed Grower Association</td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Northwest Exterminating </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Northwest Exterminating </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Nozzle Nolen, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Nvirotect Pest Control Services Inc. </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>OPC Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>KY</td>
+			<td>4</td>
+		</tr><tr><td>Organic Golf Maintenance and Design</td>
+			<td>2001</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Organic Materials Review Institute</td>
+			<td>2002</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Orkin, Inc. </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Osborne School District</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Pacific Gas &amp; Electric Co. </td>
+			<td>2001</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Palmetto Exterminators </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>SC</td>
+			<td>4</td>
+		</tr><tr><td>PCO Environmental Achievement Group</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Peachtree Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Pebble Beach Company </td>
+			<td>1995</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>PermaTreat Pest Control </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Pest Control Technicians </td>
+			<td>2009</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Pest Czar</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Pest Management Systems, Inc.</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>PestRite Eco-$mart Pest Solutions </td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CO</td>
+			<td>8</td>
+		</tr><tr><td>Pete's Pest Control</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Pied Piper Pest Control </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TN</td>
+			<td>4</td>
+		</tr><tr><td>Pineapple Growers Association of Hawaii</td>
+			<td>1996</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>HI</td>
+			<td>9</td>
+		</tr><tr><td>Pioneer Pest Management </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Precision Pest Control</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Premier Pest Control, Inc. </td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Pro Lawn Plus Inc./All Seasons Pest Control</td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Pro Pacific Pest Control</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>ProBest Pest Management </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Professional Landcare Network (PLANET) </td>
+			<td>1995</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>Protected Harvest </td>
+			<td>2005</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Public Utility District No. 1 of Skagit County, WL4 </td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Quality Pest Control of Southwest Florida, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Quik-Kill Pest Eliminators, Inc.</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Rainbow LawnCare </td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MN</td>
+			<td>5</td>
+		</tr><tr><td>Red Owl Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Reliable Pest Solutions</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>Rentokil-JC Ehrlich, Presto-X, Watch All </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Rivard's Resources: IPM</td>
+			<td>2008</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Rose Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MI</td>
+			<td>5</td>
+		</tr><tr><td>Ross Environmental Solutions, Inc. </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Rottler Pest and Lawn Solutions </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>Ryan Lawn &amp; Tree, Inc. </td>
+			<td>2009</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Sacramento-Yolo Mosquito and Vector Control District </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Safer Pest Control Project </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Salt Lake City School District</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>UT</td>
+			<td>8</td>
+		</tr><tr><td>Salt River Pima-Maricopa Indian Community </td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>Sarasota County Government</td>
+			<td>1999</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Schendel Pest Services</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>KS</td>
+			<td>7</td>
+		</tr><tr><td>Scotts Lawn Service</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IL</td>
+			<td>5</td>
+		</tr><tr><td>Servicon Systems, Inc. </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Skyline</td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Slug-A-Bug, Inc. </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>Sonoma County Winegrape Commission </td>
+			<td>2003</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>South Central Indiana REMC </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>Southwest School IPM Technical Resource Center </td>
+			<td>2002</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Spencer Services </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Sprague Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Springer Pest Solutions </td>
+			<td>2005</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>IA</td>
+			<td>7</td>
+		</tr><tr><td>Star Environmental Group Inc.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Steritech Group, Inc. </td>
+			<td>1998</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>SureHarvest</td>
+			<td>2011</td>
+			<td>Farm</td>
+			<td>Bronze</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Suburban Exterminating</td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>Surety Pest Control</td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Swamp Inc./Municipal Pest Management</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>ME</td>
+			<td>1</td>
+		</tr><tr><td>SYSCO Corporation </td>
+			<td>2005</td>
+			<td>Farm</td>
+			<td>Gold</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Team Too Termite &amp; Pest Control</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Tennessee Valley Authority</td>
+			<td>1995</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>TN</td>
+			<td>4</td>
+		</tr><tr><td>The Bug Killer</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NY</td>
+			<td>2</td>
+		</tr><tr><td>The Bug Master </td>
+			<td>2015</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>The Pesticide Stewardship Alliance </td>
+			<td>2001</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>The Terminix lnternational Co. L.P.</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>TN</td>
+			<td>4</td>
+		</tr><tr><td>Three Rivers Mosquito and Vector Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>OR</td>
+			<td>10</td>
+		</tr><tr><td>Texas Pest Management Association </td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>The Turf Doctor</td>
+			<td>2009</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>ME</td>
+			<td>1</td>
+		</tr><tr><td>Thomas Pest Control, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Thompson School District R2-J</td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>CO</td>
+			<td>8</td>
+		</tr><tr><td>Tri-County Termite &amp; Pest Control, Inc.</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Tri Scapes Inc.</td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>Triangle Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Truly Green Pest Service</td>
+			<td>2016</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MO</td>
+			<td>7</td>
+		</tr><tr><td>TruGreen </td>
+			<td>2008</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>OH</td>
+			<td>5</td>
+		</tr><tr><td>UGL Unicco </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>VA</td>
+			<td>3</td>
+		</tr><tr><td>United Pest Solutions </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>U.S. Department of Defense </td>
+			<td>1995</td>
+			<td>Live</td>
+			<td>Gold</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>U.S. Golf Association </td>
+			<td>1995</td>
+			<td>Play</td>
+			<td>Silver</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>U.S. Hop Industry Plant Protection Committee </td>
+			<td>1998</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>U.S. Public Health Service - Centers for Disease Control and Prevention </td>
+			<td>1996</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>GA</td>
+			<td>4</td>
+		</tr><tr><td>University of Arizona - Arizona Pest Management Center</td>
+			<td>2004</td>
+			<td>Farm</td>
+			<td>Gold</td>
+			<td>AZ</td>
+			<td>9</td>
+		</tr><tr><td>University of Florida Cooperative Extension Service</td>
+			<td>2000</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>University of Florida, Department of Housing</td>
+			<td>2011</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>University of Florida, Florida Medical Entomology Laboratory</td>
+			<td>2010</td>
+			<td>Live</td>
+			<td>Bronze</td>
+			<td>FL</td>
+			<td>4</td>
+		</tr><tr><td>University of Maryland - Department of Residential Facilities </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>University of Wisconsin Center for Integrated Agricultural Systems</td>
+			<td>1998</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>University of Wisconsin Environmental Resource Center </td>
+			<td>1995</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>WI</td>
+			<td>5</td>
+		</tr><tr><td>Value Pest</td>
+			<td>2016</td>
+			<td><span>Work</span></td>
+			<td>Bronze</td>
+			<td>NC</td>
+			<td>4</td>
+		</tr><tr><td>Van-Cal Pest Solutions LLC</td>
+			<td>2016</td>
+			<td><span>Work</span></td>
+			<td><span>Bronze</span></td>
+			<td>MD</td>
+			<td>3</td>
+		</tr><tr><td>Vegetation Managers, Inc.</td>
+			<td>1996</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>PA</td>
+			<td>3</td>
+		</tr><tr><td>Venus Pest Company </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>6</td>
+		</tr><tr><td>Vermont Electric Power Co., Inc. </td>
+			<td>2005</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>VT</td>
+			<td>1</td>
+		</tr><tr><td>Versacor Enterprises LLC </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>9</td>
+		</tr><tr><td>Viking Termite &amp; Pest Control, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Wal-Mart, Inc.</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>AR</td>
+			<td>6</td>
+		</tr><tr><td>Walnut Marketing Board</td>
+			<td>1998</td>
+			<td>Farm</td>
+			<td>Silver</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Waltham Services</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>MA</td>
+			<td>1</td>
+		</tr><tr><td>Washington State Department of Transportation </td>
+			<td>1998</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Wayne's Environmental Services, Inc. </td>
+			<td>2003</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>AL</td>
+			<td>4</td>
+		</tr><tr><td>Western Exterminator Company </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>CA</td>
+			<td>9</td>
+		</tr><tr><td>Western Pest Control</td>
+			<td>2014</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>UT</td>
+			<td>8</td>
+		</tr><tr><td>Western Pest Services </td>
+			<td>2008</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>NJ</td>
+			<td>2</td>
+		</tr><tr><td>Whitworth Pest Solutions, Inc. </td>
+			<td>2010</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>WA</td>
+			<td>10</td>
+		</tr><tr><td>Wholeness for Humanity </td>
+			<td>2009</td>
+			<td>Live</td>
+			<td>Silver</td>
+			<td>DC</td>
+			<td>3</td>
+		</tr><tr><td>Wood River Pest Management</td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Gold</td>
+			<td>ID</td>
+			<td>10</td>
+		</tr><tr><td>Young Environmental Solutions, Inc.</td>
+			<td>2011</td>
+			<td>Work</td>
+			<td>Bronze</td>
+			<td>IN</td>
+			<td>5</td>
+		</tr><tr><td>Your Pest Control Company </td>
+			<td>2009</td>
+			<td>Work</td>
+			<td>Silver</td>
+			<td>TX</td>
+			<td>9</td>
+		</tr></tbody></table><p>Disclaimer: The PESP members listed above have expressed a commitment to incorporate integrated pest management principles and practices in their operations and services. Reference herein to any specific organization does not constitute or imply its endorsement or favoring by the U.S. Environmental Protection Agency.</p>
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/contact-us-about-pesticide-environmental-stewardship-program.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Pesticide Environmental Stewardship Program</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../pesp.html" title="" class="menu-node-unpublished menu-link">PESP Home</a></li>
+<li class="menu-item"><a href="overview-pesticide-environmental-stewardship-program.html" class="menu-node-unpublished menu-link" title="">PESP Overview</a></li>
+<li class="menu-item"><a href="about-pesp-membership.html" class="menu-node-unpublished menu-link">About PESP Membership</a></li>
+<li class="menu-item"><a href="forms/pesp-application-form.html" class="menu-node-unpublished menu-link">PESP Application Form</a></li>
+<li class="menu-item"><a href="pesticide-environmental-stewardship-program-member-handbook.html" class="menu-node-unpublished menu-link">PESP Member Handbook</a></li>
+<li class="menu-item"><a href="pesp-member-portal.html" class="menu-node-unpublished menu-link">PESP Member Portal</a></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on August 31, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke86b.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"MsRNRrzls4MewVQlEHThoQ93HPK9wsSDezXMz3vcSdY"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"118783"}});
+//--><!]]>
+</script>
+<link rel="stylesheet" href="../sites/all/libraries/js/datatables/media/css/jquery.dataTables.min.css">
+<script src="../sites/all/libraries/js/datatables/media/js/jquery.dataTables.min.js"></script>
+<script>
+  jQuery(function(){
+		jQuery( "table" ).addClass( "stripe" );
+		jQuery("#datatable").dataTable( {
+			"pageLength": 25
+		});
+  });
+</script>    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":9683,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
