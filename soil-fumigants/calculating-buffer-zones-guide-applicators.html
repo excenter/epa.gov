@@ -1,0 +1,616 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<!--googleon: all--><meta name="DC.title" content="Calculating Buffer Zones: A Guide for Applicators" />
+<meta name="DC.description" content="Buffer zones provide distance between the application block (i.e., edge of the treated field) and bystanders, in order to control pesticide exposure risk from soil fumigants. Distance requirements may be reduced by credits such as tarps." />
+<!--googleoff: snippet--><meta name="keywords" content="shank injection, look-up tables, clay content, buffer zone calculator" />
+<link rel="canonical" href="calculating-buffer-zones-guide-applicators.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/42061" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Laws &amp; Regulations" />
+<meta name="DC.type" content="Overviews and Factsheets" />
+<meta name="DC.Subject.epaemt" content="Soils &amp; Land" />
+<meta name="DC.Subject.epaindustry" content="Crop Production" />
+<meta name="DC.Subject.eparit" content="Pesticide Registration &amp; Reregistration" />
+<meta name="DC.Subject.epasubstance" content="Pesticides" />
+<meta name="DC.audience" content="Regulated Community" />
+<meta name="DC.date.created" content="2013-11-01" />
+<meta name="DC.date.modified" content="2016-10-13" />
+<meta name="DC.date.reviewed" content="2017-10-13" />
+<meta name="DC.creator" content="US EPA,OCSPP,OPP" />
+<meta name="WebArea" content="Soil Fumigants" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>Calculating Buffer Zones: A Guide for Applicators | Soil Fumigant Toolbox | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Soil Fumigants" href="../feed/40337/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-42061 node-type-page og-context og-context-node og-context-node-40337 section-soil-fumigants microsite" >
+  <div class="skip-links"><a href="calculating-buffer-zones-guide-applicators.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Soil Fumigants</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/soil-fumigants/calculating-buffer-zones-guide-applicators&amp;t=Calculating%20Buffer%20Zones:%20A%20Guide%20for%20Applicators" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/soil-fumigants/calculating-buffer-zones-guide-applicators&amp;text=Calculating%20Buffer%20Zones:%20A%20Guide%20for%20Applicators&amp;url=https://www.epa.gov/soil-fumigants/calculating-buffer-zones-guide-applicators&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/soil-fumigants/calculating-buffer-zones-guide-applicators" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/soil-fumigants/calculating-buffer-zones-guide-applicators&amp;description=Calculating%20Buffer%20Zones:%20A%20Guide%20for%20Applicators&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/contact-us-about-soil-fumigants.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Calculating Buffer Zones: A Guide for Applicators</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <p>This page will help fumigant applicators understand how to calculate required sizes of buffer zones and learn ways to reduce sizes of buffer zones.</p>
+
+<p>On this page:</p>
+
+<ul><li><a href="calculating-buffer-zones-guide-applicators.html#zones">What are Buffer Zones?</a></li>
+	<li><a href="calculating-buffer-zones-guide-applicators.html#lookup">How to Use Look-Up Tables to Determine a Buffer Zone</a></li>
+	<li><a href="calculating-buffer-zones-guide-applicators.html#credits">How to Use Credits to Calculate a Buffer Zone</a></li>
+	<li><a href="calculating-buffer-zones-guide-applicators.html#reduce">Other Ways to Reduce Buffer Zones</a></li>
+	<li><a href="calculating-buffer-zones-guide-applicators.html#calculate%20buffer">Buffer Zone Calculator</a></li>
+	<li>Metam Sodium – Shank Injection – Broadcast</li>
+</ul><h2><a id="zones" name="zones"></a>What are Buffer Zones?</h2>
+
+<p>Buffer zones provide distance between the application block (i.e., edge of the treated field) and bystanders. Buffer zones:</p>
+
+<ul><li>Allow airborne residues to disperse before reaching bystanders, reducing the potential for fumigant exposure.</li>
+	<li>Are established around the perimeter of the application block.</li>
+	<li>Extend outward from the edge of the application block perimeter equally in all directions</li>
+</ul><table><thead><tr><th scope="col">Buffer Zone →</th>
+			<th scope="col">
+				<div class="figure image mode-full center" style="width:389px"><span
+    class="figure image file file-image file-image-jpeg view-mode-full" style="width:389px;"><img alt="A treated field diagram" title="Treated Field" height="182" width="389" class="media-element file-full" typeof="foaf:Image" src="https://www.epa.gov/sites/production/files/styles/large/public/2013-11/treated-field.jpg" /></span></div>
+			</th>
+		</tr></thead><tbody></tbody></table><p>For more information on buffer zones, see the EPA’s fact sheets on <a href="buffer-zone-fact-sheets.html">Buffer Zones</a> and <a href="buffer-zone-fact-sheets.html">Posting Requirements</a> for Buffer Zones.</p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+
+<h2><a id="lookup" name="lookup"></a>How to Use Look-Up Tables to Determine a Buffer Zone</h2>
+
+<p>Soil fumigant product labels provide look-up tables that a certified applicator will use to determine the buffer zone. The buffer zone distance will be determined by the broadcast equivalent application rate and the size of the application block. The broadcast equivalent rate is the application rate for the fumigant applied to the entire application block, based on the:</p>
+
+<ul><li>amount of fumigant applied in beds/strips; and</li>
+	<li>size of untreated areas.</li>
+</ul><p>See the product label for instructions on calculating the broadcast equivalent rate.</p>
+
+<p>When using the tables, round up to the nearest rate and block size, if applicable. Applications are prohibited for rates and block sizes that exceed what is presented in the buffer zone tables.</p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+
+<h2>Examples of Look-up Tables</h2>
+
+<h3 class="highlighted">Buffer Zone Distance Requirements</h3>
+
+<ul class="indented"><li>25 feet is the minimum buffer zone distance, regardless of credits or site-specific application parameters</li>
+	<li>The application is prohibited if the buffer zone is greater than ½ mile (2,640 feet) </li>
+</ul><h3>Example 1 - Basic Use of Look-Up Table</h3>
+
+<table><caption><strong>Metam Sodium – Shank Injection - Broadcast<br />
+		Buffer Zone Distances in Feet</strong><br /><em>Example Only</em></caption>
+	<thead><tr><th colspan="1" rowspan="1"> </th>
+			<th colspan="5" id="blocksize" rowspan="1"><strong>Application Block Size (acres)</strong></th>
+		</tr><tr><th headers="rate">Application Rate</th>
+			<th headers="blocksize" id="60">60</th>
+			<th headers="blocksize" id="80">80</th>
+			<th headers="blocksize" id="100">100</th>
+			<th headers="blocksize" id="120">120</th>
+			<th headers="blocksize" id="160">160</th>
+		</tr></thead><tbody><tr><th headers="rate" id="row1">30 gal/acre</th>
+			<td headers="blocksize-60">25</td>
+			<td headers="blocksize-80">27</td>
+			<td headers="blocksize-100">30</td>
+			<td headers="blocksize-120">39</td>
+			<td headers="blocksize-160">51</td>
+		</tr><tr><th headers="rate" id="row2">50 gal/acre</th>
+			<td headers="blocksize-60">35</td>
+			<td headers="blocksize-80">45</td>
+			<td headers="blocksize-100">50</td>
+			<td headers="blocksize-120">65</td>
+			<td headers="blocksize-160">87</td>
+		</tr><tr><th headers="rate" id="row3">60 gal/acre</th>
+			<td headers="blocksize-60">49</td>
+			<td headers="blocksize-80">59</td>
+			<td headers="blocksize-100">68</td>
+			<td headers="blocksize-120">89</td>
+			<td headers="blocksize-160">119</td>
+		</tr><tr><th headers="rate" id="row4">75 gal/acre</th>
+			<td headers="blocksize-60">72</td>
+			<td headers="blocksize-80">82</td>
+			<td headers="blocksize-100">98</td>
+			<td headers="blocksize-120">129</td>
+			<td headers="blocksize-160">172</td>
+		</tr><tr><th headers="rate" id="row5">85 gal/acre</th>
+			<td headers="blocksize-60">86</td>
+			<td headers="blocksize-80">96</td>
+			<td headers="blocksize-100">116</td>
+			<td headers="blocksize-120">153</td>
+			<td headers="blocksize-160">204</td>
+		</tr></tbody></table><p>The table above is an example of a look-up table. Use the table from the label that is specific to the application method. Using the example table above, if an applicator applies metam sodium by shank injection to beds at the broadcast equivalent rate of 75 gallons per acre (gal/acre) to an application block that is 120 acres, the buffer zone is 129 feet.</p>
+
+<h3>Example 2 - Rounding Up When Using Look-Up Table</h3>
+
+<p>Using the same table, if the applicator is making the same application but at a broadcast equivalent rate of 80 gal/acre, you must round up to the next application rate – in this case, 85 gal/acre. The buffer zone for this scenario is 153 feet. </p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+
+<h2><a id="credits" name="credits"></a>How to Use Credits to Calculate a Buffer Zone</h2>
+
+<p>Depending on the fumigant, credits that are listed on product labels can be used to reduce the buffer zone by up to 80 percent. <strong>Reminder</strong>: The minimum buffer zone distance is 25 feet regardless of buffer zone credits.</p>
+
+<p>The credits that are listed on product labels are fumigant-specific but can be based on factors that reduce fumigant off-gassing such as:</p>
+
+<ul><li>Use of specific high-barrier tarps (see www.tarpcredits.epa.gov).</li>
+	<li>Use of potassium thiosulfate.</li>
+	<li>Organic content of the soil.</li>
+	<li>Clay content of the soil.</li>
+	<li>Soil temperature.</li>
+	<li>Water seals.</li>
+	<li>Symmetry™ application system.</li>
+</ul><p>Keep in mind that the types of credits allowed are product-specific. Always check the label to see which credits may be applicable.<br /><br />
+	To use a buffer zone credit, use the formula below to calculate the size of the reduced buffer zone:<br />
+	 <br /><strong>Size of buffer zone – (size of buffer zone x % credit) = Size of reduced buffer zone</strong><br />
+	 </p>
+
+<h3>Example 1 - Basic Credit Reduction</h3>
+
+<table><caption><strong>Metam Sodium – Shank Injection - Broadcast<br />
+		Buffer Zone Distances in Feet</strong><br /><em>Example Only</em></caption>
+	<thead><tr><th colspan="1" rowspan="1"> </th>
+			<th colspan="5" id="blocksize-1" rowspan="1"><strong>Application Block Size (acres)</strong></th>
+		</tr><tr><th headers="rate">Application Rate</th>
+			<th headers="blocksize-1" id="60-1">60</th>
+			<th headers="blocksize-1" id="80-1">80</th>
+			<th headers="blocksize-1" id="100-1">100</th>
+			<th headers="blocksize-1" id="120-1">120</th>
+			<th headers="blocksize-1" id="160-1">160</th>
+		</tr></thead><tbody><tr><th headers="rate" id="row1-1">30 gal/acre</th>
+			<td headers="blocksize-1-60">25</td>
+			<td headers="blocksize-1-80">27</td>
+			<td headers="blocksize-1-100">30</td>
+			<td headers="blocksize-1-120">39</td>
+			<td headers="blocksize-1-160">51</td>
+		</tr><tr><th headers="rate" id="row2-1">50 gal/acre</th>
+			<td headers="blocksize-1-60">35</td>
+			<td headers="blocksize-1-80">45</td>
+			<td headers="blocksize-1-100">50</td>
+			<td headers="blocksize-1-120">65</td>
+			<td headers="blocksize-1-160">87</td>
+		</tr><tr><th headers="rate" id="row3-1">60 gal/acre</th>
+			<td headers="blocksize-1-60">49</td>
+			<td headers="blocksize-1-80">59</td>
+			<td headers="blocksize-1-100">68</td>
+			<td headers="blocksize-1-120">89</td>
+			<td headers="blocksize-1-160">119</td>
+		</tr><tr><th headers="rate" id="row4-1">75 gal/acre</th>
+			<td headers="blocksize-1-60">72</td>
+			<td headers="blocksize-1-80">82</td>
+			<td headers="blocksize-1-100">98</td>
+			<td headers="blocksize-1-120">129</td>
+			<td headers="blocksize-160">172</td>
+		</tr><tr><th headers="rate" id="row5-1">85 gal/acre</th>
+			<td headers="blocksize-1-60">86</td>
+			<td headers="blocksize-1-80">96</td>
+			<td headers="blocksize-1-100">116</td>
+			<td headers="blocksize-1-120">153</td>
+			<td headers="blocksize-1-160">204</td>
+		</tr></tbody></table><p>An applicator wants to apply 75 gal/acre to 100 acres. Using the table above, we see that the buffer zone distance is 98 feet.</p>
+
+<p>The applicator is applying to soil that has 2.5% organic matter, for which the product label allows a 20% credit to reduce the buffer zone. To calculate the reduced buffer zone, use the formula above:</p>
+
+<ul><li>98 - (98 x 20%) = Size of reduced buffer zone</li>
+	<li>98 - (19.6) = 78.4 feet</li>
+</ul><p>EPA expects that applicators will round to the nearest whole number. In cases where the decimal is .5 or above, the applicator should round up. In this case, the applicator would round down to 78 feet.</p>
+
+<h3>Example 2 - Multiple Credit Reductions</h3>
+
+<p>In some cases, there may be multiple credits that can be used. For example, an applicator may be able to use the following credits listed on a product label:</p>
+
+<ul><li>Applies to a field with 2.5% organic matter = 20% credit</li>
+	<li>Applies to a field where the soil temperature is less than 50ºF = 10% credit</li>
+	<li>Applies to a field where the clay content is greater than 27% = 10% credit</li>
+</ul><p>Note that the credits, in this case, cannot exceed 80%.</p>
+
+<p>Using the same scenario above, we can calculate what the buffer zone will be with the multiple credits. First, you need to add the credits together.</p>
+
+<p>20% organic matter credit + 10% soil temperature credit + 10% clay content credit = 40% credit</p>
+
+<p>Then, using the same formula as above:</p>
+
+<ul><li>98 - (98 x 40%) = Size of reduced buffer zone</li>
+	<li>98 - 39.2 = 58.8 feet</li>
+</ul><p>In this case, the applicator should round up to 59 feet.</p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+
+<h2><a id="reduce" name="reduce"></a>Other Ways to Reduce Buffer Zones</h2>
+
+<p>There are other ways, besides using buffer zone credits, to reduce the size of buffer zone. Some examples:</p>
+
+<ul><li>Use a lower application rate.</li>
+	<li>Divide the application block into smaller application block sizes.</li>
+	<li>Use a different application method.</li>
+</ul><h3>Example 1 - Use a Lower Application Rate</h3>
+
+<table><caption><strong>Metam Sodium – Shank Injection - Broadcast<br />
+		Buffer Zone Distances in Feet</strong><br /><em>Example Only</em></caption>
+	<thead><tr><th colspan="1" rowspan="1"> </th>
+			<th colspan="5" id="blocksize-2" rowspan="1"><strong>Application Block Size (acres)</strong></th>
+		</tr><tr><th headers="rate">Application Rate</th>
+			<th headers="blocksize-2" id="60-2">60</th>
+			<th headers="blocksize-2" id="80-2">80</th>
+			<th headers="blocksize-2" id="100-2">100</th>
+			<th headers="blocksize-2" id="120-2">120</th>
+			<th headers="blocksize-2" id="160-2">160</th>
+		</tr></thead><tbody><tr><th headers="rate" id="row1-2">30 gal/acre</th>
+			<td headers="blocksize-2-60">25</td>
+			<td headers="blocksize-2-80">27</td>
+			<td headers="blocksize-2-100">30</td>
+			<td headers="blocksize-2-120">39</td>
+			<td headers="blocksize-2-160">51</td>
+		</tr><tr><th headers="rate" id="row2-2">50 gal/acre</th>
+			<td headers="blocksize-2-60">35</td>
+			<td headers="blocksize-2-80">45</td>
+			<td headers="blocksize-2-100">50</td>
+			<td headers="blocksize-2-120">65</td>
+			<td headers="blocksize-2-160">87</td>
+		</tr><tr><th headers="rate" id="row3-2">60 gal/acre</th>
+			<td headers="blocksize-2-60">49</td>
+			<td headers="blocksize-2-80">59</td>
+			<td headers="blocksize-2-100">68</td>
+			<td headers="blocksize-2-120">89</td>
+			<td headers="blocksize-2-160">119</td>
+		</tr><tr><th headers="rate" id="row4-2">75 gal/acre</th>
+			<td headers="blocksize-2-60">72</td>
+			<td headers="blocksize-2-80">82</td>
+			<td headers="blocksize-2-100">98</td>
+			<td headers="blocksize-2-120">129</td>
+			<td headers="blocksize-2-160">172</td>
+		</tr><tr><th headers="rate" id="row5-2">85 gal/acre</th>
+			<td headers="blocksize-2-60">86</td>
+			<td headers="blocksize-2-80">96</td>
+			<td headers="blocksize-2-100">116</td>
+			<td headers="blocksize-2-120">153</td>
+			<td headers="blocksize-2-160">204</td>
+		</tr></tbody></table><p>An applicator is making an application to a 120-acre application block. The applicator has determined that an application rate of 75 - 85 gal/acre will be effective. Using the table above, the applicator sees that the buffer zone is 153 feet with the 85 gal/acre application rate and 129 feet with the 75 gal/acre application rate. Using 75 gal/acre will result in a buffer zone that is 24 feet smaller than if the higher rate is used.</p>
+
+<h3>Example 2 - Divide the Application Block</h3>
+
+<p>The applicator chooses to use the 75 gal/acre application rate and still needs to apply the product to 120 acres but would like to further reduce the buffer zone. The applicator decides to divide the application block in half. Using the table above, the buffer zone for each 60 acre application block is 72 feet, significantly reducing the buffer zone for each application block.</p>
+
+<p>Follow the label directions for applications regarding buffer zone proximity. For overlapping buffer zones, a minimum amount of time must elapse for most application methods before the second application can occur.</p>
+
+<h3>Example 3 - Using Application Parameters and Credits in Combination to Reduce Buffer Zones</h3>
+
+<p>The applicator is pleased to have reduced the buffer zone to 72 feet but checks to see if it is possible to use any buffer zone credits.</p>
+
+<p>The applicator notes that the soil has 2.5% organic matter, for which the label allows a 20% credit to reduce the buffer zone. The applicator calculates the reduced buffer zone:</p>
+
+<ul><li>72 - (72 x 20%) = Size of reduced buffer zone</li>
+	<li>72 - (14.4) = 57.6 feet</li>
+</ul><p>The size of the buffer zone should be rounded up to 58 feet.</p>
+
+<p>Using a combination of modifying the application parameters and applying credits, the applicator ends up with a buffer zone of 58 feet.</p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+
+<h2><a name="calculate buffer" id="calculate buffer"></a>Buffer Zone Calculator</h2>
+
+<p>This tool, developed by EPA, is specific to each fumigant product and is based on the look-up tables on the product labels. In addition to calculating buffer zone distances, the calculator can also be used to quickly calculate buffer zone reductions through the use of credits and modifications to application parameters. Applicators must verify that the buffer zone results from the calculator are consistent with the buffer zone requirements on product labels. If there are any discrepancies, the label must be followed.</p>
+
+<p>Use the <a href="https://iaspub.epa.gov/apex/pesticides/f?p=sfbz">Buffer Zone Calculator</a></p>
+
+<p class="pagetop"><a href="calculating-buffer-zones-guide-applicators.html#main-content">Top of Page</a></p>
+</div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/contact-us-about-soil-fumigants.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Soil Fumigants</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../soil-fumigants.html" title="" class="menu-node-unpublished menu-link">Soil Fumigants Home</a></li>
+<li class="menu-item"><a href="what-are-soil-fumigants.html" class="menu-link">About Soil Fumigants</a></li>
+<li class="menu-item"><a href="introduction-soil-fumigant-management-plans.html" class="menu-node-unpublished menu-link">Fumigant Management Plans</a></li>
+<li class="menu-item"><a href="implementing-safety-measures.html" class="menu-link">Fumigant Safety Measures</a></li>
+<li class="menu-item"><a href="buffer-zone-requirements-soil-fumigant-applications.html" class="menu-node-unpublished menu-link">Buffer Zone Requirements</a></li>
+<li class="active-trail menu-item"><a href="calculating-buffer-zones-guide-applicators.html" class="menu-node-unpublished active-trail menu-link active">— Calculating Buffer Zones</a></li>
+<li class="menu-item"><a href="tarps.html" class="menu-node-unpublished menu-link">Tarps and Tarp Credits</a></li>
+<li class="menu-item"><a href="soil-fumigant-training-certified-applicators.html" class="menu-node-unpublished menu-link">Soil Fumigant Training</a></li>
+<li class="menu-item"><a href="emergency-preparedness-and-response-requirements.html" class="menu-link">Emergency Preparedness and Response</a></li>
+<li class="menu-item"><a href="community-outreach-and-education-soil-fumigants.html" class="menu-link">Community Outreach and Education</a></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on October 13, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-okdq0m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"yDxyWg8P8YrBs_JijOw_jlHVSEOnHHAMNa91X-3fvpA"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"40337"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--></body>
+</html>
+
+<!-- Page cached by Boost @ 2017-01-26 04:11:18, expires @ 2017-01-26 16:11:18, lifetime 12 hours -->
