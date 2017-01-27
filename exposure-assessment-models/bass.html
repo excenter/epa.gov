@@ -1,0 +1,496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<!--googleon: all--><meta name="DC.description" content="On Bioaccumulation and Aquatic System Simulator (BASS), a model that simulates the population and bioaccumulation dynamics of age-structured fish communities." />
+<meta name="DC.title" content="BASS" />
+<!--googleoff: snippet--><meta name="keywords" content="surface water, fish, bioaccumulation, population dynamics, biomass dynamics, rivers, lakes, reservoirs, assessment, management, regulatory, software information, model abstract, model usage, support information, QA/QC information, chemical pollutants" />
+<link rel="canonical" href="bass.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/8843" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Science &amp; Technology" />
+<meta name="DC.type" content="Data and Tools" />
+<meta name="DC.Subject.epabrm" content="Monitoring / Modeling Methods Development" />
+<meta name="DC.Subject.epaemt" content="Species" />
+<meta name="DC.Subject.epahealth" content="Cumulative Exposure, Exposure Assessment" />
+<meta name="DC.Subject.epaopt" content="Software Development" />
+<meta name="DC.Subject.eparat" content="Research &amp; Analysis" />
+<meta name="DC.Subject.epasubstance" content="Water Pollutants" />
+<meta name="DC.date.created" content="2013-02-19" />
+<meta name="DC.date.modified" content="2016-04-05" />
+<meta name="DC.date.reviewed" content="2017-04-05" />
+<meta name="DC.creator" content="US EPA,ORD,OSIM" />
+<meta name="WebArea" content="Exposure Assessment Models" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="page" />
+  <title>BASS | EPA Center for Exposure Assessment Modeling (CEAM) | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="Exposure Assessment Models" href="../feed/4107/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-8843 node-type-page og-context og-context-node og-context-node-4107 section-exposure-assessment-models microsite" >
+  <div class="skip-links"><a href="bass.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+  <h2 class="microsite-name">Exposure Assessment Models</h2>  
+  
+  <div class="region-preface clearfix">  <div id="block-pane-social-sharing" class="block block-pane  block-pane-social-sharing">
+
+  
+  
+    <ul class="menu utility-menu">
+    <li id="share" class="menu-item">
+        <button class="share-button">Share</button>
+        <ul>
+            <li class="share-facebook">
+                <a class="share-link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/exposure-assessment-models/bass&amp;t=BASS" title="Share this page" target="_blank">Facebook</a>
+            </li>
+            <li class="share-twitter">
+                <a class="share-link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/exposure-assessment-models/bass&amp;text=BASS&amp;url=https://www.epa.gov/exposure-assessment-models/bass&amp;via=EPA&amp;count=none&amp;lang=en" title="Tweet this page" target="_blank">Twitter</a>
+            </li>
+            <li class="share-googleplus">
+                <a class="share-link" href="https://plus.google.com/share?url=https://www.epa.gov/exposure-assessment-models/bass" title="Plus 1 this page" target="_blank">Google+</a>
+            </li>
+            <li class="share-pinterest">
+                <a class="share-link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/exposure-assessment-models/bass&amp;description=BASS&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" title="Pin this page" target="_blank">Pinterest</a>
+            </li>
+        </ul>
+    </li>
+</ul>  
+</div>
+<div id="block-pane-epa-web-area-connect" class="block block-pane  block-pane-epa-web-area-connect">
+
+  
+  
+    <ul class="menu utility-menu"><li class="menu-item"><a href="forms/center-exposure-assessment-models-contact-us.html" class="menu-link">Contact Us</a></li></ul>  
+</div>
+  </div>
+    <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">BASS</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node-page clearfix view-mode-full ">
+
+  
+  <ul><li><a href="bass.html#Introduction">Introduction</a></li>
+	<li><a href="bass.html#Audience">Audience</a></li>
+	<li><a href="bass.html#Abstract">Abstract</a></li>
+	<li><a href="bass.html#Applications">Applications and Possible Uses</a></li>
+	<li><a href="bass.html#History">Model History</a></li>
+	<li><a href="bass.html#Support">Technical Support and Training</a></li>
+	<li><a href="bass.html#QAQC">Quality Assurance and Quality Control</a></li>
+	<li><a href="bass.html#Related_Sites">Related Sites</a></li>
+	<li><a href="bass.html#References">References</a></li>
+	<li><a href="https://www.epa.gov/exposure-assessment-models/bioaccumulation-and-aquatic-system-simulator-bass-download-page">Go to BASS Model Download Page</a></li>
+</ul><h4><a id="Introduction" name="Introduction">Introduction</a></h4>
+
+<p>Bioaccumulation and Aquatic System Simulator (BASS) is a model that simulates the population and bioaccumulation dynamics of age-structured fish communities. Although BASS was specifically developed to investigate the bioaccumulation of chemical pollutants within a community or ecosystem context, it can also be used to explore population and community dynamics of fish assemblages that are exposed to a variety of nonchemical stressors such as altered thermal regimes associated with hydrological alterations or industrial activities, commercial or sports fisheries, and introductions of non native or exotic fish species.<br /><br />
+	The ability to predict accurately the bioaccumulation of chemicals in fish has become an essential component in assessing the ecological and human health risks of chemical pollutants. Accurate bioaccumulation estimates are needed not only to predict realistic dietary exposures to humans and piscivorous wildlife but also to assess more accurately potential ecological risks to fish assemblages themselves. Although the bioaccumulation of many chemicals in fish can often be predicted accurately using simple bioaccumulation factors (BAF) and measured or predicated chemical water concentrations, such calculations frequently fail to predict accurately concentrations of extremely hydrophobic chemicals and metals such as mercury that are often the chemicals of greatest concern. Process-based models like BASS that simulate the toxicokinetic, physiological, and ecological processes of fish can overcome many of the limitations associated with the use BAF approaches.</p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="Audience" name="Audience">Audience</a></h4>
+
+<p>Ecologist, Scientist, Biologist, Researcher</p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="Abstract" name="Abstract">Abstract</a></h4>
+
+<p>BASS is a Fortran 95 simulation program that predicts the population and bioaccumulation dynamics of age-structured fish assemblages that are exposed to hydrophobic organic pollutants and class B and borderline metals that complex with sulfhydryl groups (e.g., cadmium, copper, lead, mercury, nickel, silver, and zinc). The model's bioaccumulation algorithms are based on diffusion kinetics and are coupled to a process-based model for the growth of individual fish. The model's bioaccumulation algorithms consider both biological attributes of fishes and physico-chemical pro perties of the chemicals that determine diffusive exchange across gill membranes and intestinal mucosa. Biological characteristics used by the model include the fish's gill morphometry, feeding and growth rate, and proximate composition (i.e., its fractional aqueous, lipid, and structural organic content). Relevant physico-chemical properties are the chemical's aqueous diffusivity, n-octanol / water partition coefficient (Kow), and, for metals, binding coefficients to proteins and other organic matter. BASS simulates the growth of individual fish using a standard mass balance, bioenergetic model (i.e., growth = ingestion - egestion - respiration - specific dynamic action - excretion). A fish's realized ingestion is calculated from its maximum consumption rate adjusted for the availability of prey of the appropriate size and taxonomy. The community's food web is specified by defining one or more foraging classes for each fish species based on either its body weight, body length, or age. The dietary composition of each of these foraging classes is specified as a combination of benthos, incidental terrestrial insects, periphyton / attached algae, phytoplankton, zooplankton, and one or more fish species. Population dynamics are generated by predatory mortalities defined by community's food web and standing stocks, physiological mortality rates, the maximum longevity of species, toxicological responses to chemical exposures, and dispersal. The model's temporal and spatial scales of resolution are a day and a hectare, respectively. Currently, BASS ignores the immigration of fish into the simulated hectare.</p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="Applications" name="Applications">Applications and Possible Uses</a></h4>
+
+<ul><li>BASS's predecessor FGETS has been used to model PCBs dynamics in Lake Ontario salmonids, various laboratory studies, largemouth bass-bluegill-catfish communities of Lake Hartwell / Twelvemile Creek, SC, and Tennessee stream fishes (Barber et al. 1991, USEPA 1994, Brockway et al. 1996, Simon 1999, Marchettini et al. 2001, USEPA 2004). Hunt et al. (1992) used FGETS to model DDT bioaccumulation in caged channel catfish at Superfund Sites. BASS itself has been used to simulate fish methylmercury bioaccumulation in the Florida Everglades (Barber 2006, 2001) and in the South River and the South Fork of the Shenandoah River, Virginia (Murphy 2004). More recently, BASS was used to estimate lag times of mercury residues in fish responding to mercury load reductions as part of ORD's review of the Agency's Clean Air Mercury Rule (CAMR, February 15, 2005). This work was subsequently incorporated into the Regulatory Impact Analysis that assessed the benefits of atmospheric load reductions to aquatic ecosystems (USEPA 2005).<br />
+		 </li>
+	<li>Several researchers (Lassiter and Hallam 1990, ECOFRAM Aquatic Effects Subcommittee et al. 1998, ECOFRAM 1999, Boxall et al. 2001, Boxall et al. 2002, Reinert et al. 2002) have used BASS's predecessor,FGETS, to predict acute and chronic lethality, and the EPA's Office of Water's AQUATOX modeling system uses the FGETS/BASS lethal effects algorithm as its principal effects module (Park and Clough 2004) . Additionally, the Office of Water has recognized BASS as one of the leading models available for simulating time dynamic bioaccumulation for applications when simple steady-state methods (e.g., BAFs or BSAFs) are considered insufficient (USEPA 2003). The Commonwealth of Virginia has identified BASS as an accepted tool for its PCB bioaccumulation assessments (VDEQ 2005). BASS has also been recommended to the states of Michigan and Washington as an assessment tool (Exponent 1998, 2003).<br />
+		 </li>
+	<li>Currently, BASS is being used to conduct a regional assessment of fish community structure and function in Mid-Atlantic Highland streams sampled by the USEPA Environmental Monitoring and Assessment Program (EMAP). In particular, BASS is being used to evaluate how fish community composition, biomass, production, and PCB/mercury bioaccumulation potential can be expected to change under a variety of assumed regional climate, land use, and fisheries management scenarios<br />
+		 </li>
+</ul><p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="History" name="History">Model History</a></h4>
+
+<ul><li>BASS version 1.0 (1995 to 3 Dec 1996, DEC Workstation). FGETS (Food and Gill Exchange of Toxic Substances) modeling framework implemented within an age-structured, multi-species, population model.<br />
+		 </li>
+	<li>BASS version 1.1 (3 Dec 1996 to 17 Sep 1998, DEC Workstation). Model converted from Fortran 77 to Fortran 95 taking advantage of updated language features (e.g., dynamic allocation, derived type variables, implicit subroutine and function interfaces, etc.) Model expanded to simulate mercury bioaccumulation in addition to organic hydrophobic pollutants.<br />
+		 </li>
+	<li>BASS version 2.0 (21 Nov 1999 to 4 Jan 2000, PC version, distributed by request).<br />
+		 </li>
+	<li>BASS version 2.1 (3 Aug 2000 to 5 Feb 2002, PC version, distributed by request). Model upgrades based on extensive peer review comments.<br />
+		 </li>
+	<li>BASS version 2.2 (5 Feb 2002 to present, PC version, distributed by Science FTP Server). Model expanded to include habitat effects on fish growth, reproduction, and survival; algorithms for simulating fishery's management (i.e., stocking and harvest) also implemented.<br />
+		 </li>
+	<li>BASS version 2.2 - March 2008 Publication/distribution via CEAM<br />
+		 </li>
+	<li>Model documentation:
+		<ul><li>Barber MC. 2008. <a href="https://www.epa.gov/exposure-assessment-models/bioaccumulation-and-aquatic-system-simulator-bass-users-manual-version-22">Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Version 2.2.</a>  U.S. Environmental Protection Agency, National Exposure Research Laboratory, Athens, GA. EPA/600/R-01/035 update 2.2.<br />
+				 </li>
+			<li>Barber MC. 2006. Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Version 2.2. U.S. Environmental Protection Agency, National Exposure Research Laboratory, Athens, GA. EPA/600/R-01/035 update 2.2.<br />
+				 </li>
+			<li>Barber MC. 2001. Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Beta Test Version 2.1. U.S. Environmental Protection Agency, National Exposure Research Laboratory, Athens, GA. EPA/600/R-01/035.<br />
+				 </li>
+			<li>Barber MC. 1998. Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Beta Test Version 1.1. U.S. Environmental Protection Agency, Office of Research and Development, Athens, GA. Internal Report.<br />
+				 </li>
+			<li>Barber MC. 1996. Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Beta Test Version 1.0. U.S. Environmental Protection Agency, Office of Research and Development, Athens, GA. Internal Report.<br />
+				 </li>
+		</ul></li>
+	<li>The BASS/FGETS modeling framework has been included in numerous reviews of bioaccumulation models that are applicable for ecological risk assessments and environmental management (Barron 1990, Jones et al. 1991, Barnthouse 1992, Chapra and Boyer 1992, Landrum et al. 1992, Olem et al. 1992, Dixon and Florian 1993, Wurbs 1994, Cowan et al. 1995, Campfens and Mackay 1997, Feijtel et al. 1997, Deliman and Gerald 1998, Exponent 1998, Howgate 1998, Vorhees et al. 1998, Wania and Mackay 1999, Bartell et al. 2000, Gobas and Morrison 2000, Mackay and Fraser 2000, Bartell 2001, Limno-Tech 2002, Exponent 2003, Sood and Bhagat 2005).</li>
+</ul><p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="Support" name="Support">Technical Support / Training</a></h4>
+
+<p>For information concerning the distribution or installation of BASS software, documentation, or data please contact <a href="forms/center-exposure-assessment-models-contact-us.html">Center for Exposure Assessment Modeling (CEAM)</a> that is located at the EPA's National Exposure Research Laboratory in Athens, GA.<br /><br />
+	For questions regarding how to use or apply the BASS model, please contact the principal investigator, <a href="mailto:barber.craig@epa.gov">Craig Barber</a> (barber.craig@epa.gov), at: U.S. Environmental Protection Agency, 960 College Station Road, Athens, Georgia 30605-2700<br /><br />
+	Currently, there are no planned BASS model training sessions.</p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="QAQC" name="QAQC">Quality Assurance/Quality Control</a></h4>
+
+<p>Quality Assurance (QA) and Quality Control (QC) for the BASS simulation model has been addressed with respect to:</p>
+
+<ul><li>The model's theoretical foundations, i.e., does the model's conceptual and mathematical framework standup to scientific / engineering peer view?</li>
+	<li>The model's implementation, i.e., does the code actually do what it is intended to do?</li>
+	<li>The model's documentation and application, i.e., can the model be used by the outside research and regulatory community in a meaningful way?</li>
+</ul><p>For detailed information please refer to chaper 7 in the <a href="https://www.epa.gov/exposure-assessment-models/bioaccumulation-and-aquatic-system-simulator-bass-users-manual-version-22">Bioaccumulation and Aquatic System Simulator (BASS) User's Manual Version 2.2.</a>  </p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="Related_Sites" name="Related_Sites">Related Sites</a></h4>
+
+<ul><li>CEAM's Food and Gill Exchange of Toxic Substances, (<a href="https://www.epa.gov/exposure-assessment-models/fgets">FGETS</a>) model page.</li>
+</ul><p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a id="References" name="References">References of Published BASS Applications and Uses</a></h4>
+
+<p>Barber, M.C., L.A. Suárez, and R.R. Lassiter. 1991. Modelling bioaccumulation of organic pollutants in fish with an application to PCBs in Lake Ontario salmonids. Canadian Journal of Fisheries and Aquatic Sciences 48: 318-337.<br /><br />
+	Barnthouse, L.W. 1992. The role of models in ecological risk assessment: a 1990's perspective. Environmental Toxicology and Chemistry 11: 1751-1760.<br /><br />
+	Barron, M.G. 1990. Bioconcentration. Environmental Science and Technology 24: 1612-1618.<br /><br />
+	Bartell, S.M. 2001. Chapter 9. Ecosystem Models - Aquatic. In Ecological Modeling in Risk Assessment: Chemical Effects on Populations, Ecosystems, and Landscapes. Edited by R.A. Pastorok, S.M. Bartell, S. Ferson and L.R. Ginzburg. CRC Press, Lewis Publishers, Boca Raton, FL.<br /><br />
+	Bartell, S.M., K.R. Campbell, C.M. Lovelock, S.K. Nair, and J.L. Shaw. 2000. Characterizing aquatic ecological risks from pesticides using a diquat dibromide case study III: ecological process models. Environmental Toxicology and Chemistry 19: 1441-1453.<br /><br />
+	Boxall, A., C. Brown, and K. Barrett. 2001. Higher tier laboratory aquatic toxicity testing. Cranfield University, Cranfield Centre for EcoChemistry, Silsoe, Beds MK45 4DT, UK. Research Report No. JF 4317E for DETR.<br /><br />
+	Boxall, A.B.A., C.D. Brown, and K.L. Barrett. 2002. Higher-tier laboratory methods for assessing the aquatic toxicity of pesticides. Pest Management Science 58: 637-648.<br /><br />
+	Brockway, D.L., P.D. Smith, and M.C. Barber. 1996. PCBs in the Aquatic-Riparian zone of the Lake Hartwell Ecosystem, South Carolina. U.S. Environmental Protection Agency, National Exposure Research Laboratory, Athens, GA. Internal Report.<br /><br />
+	Campfens, J. and D. Mackay. 1997. Fugacity-based model of PCB bioaccumulation in complex aquatic food webs. Environmental Science and Technology 31: 577-583.<br /><br />
+	Chapra, S.C. and J.M. Boyer. 1992. Fate of environmental pollutants. Water Environmental Research 64: 581-593.<br /><br />
+	Cowan, C.E., D.J. Versteeg, R.J. Larson, and P.J. Kloepper-Sams. 1995. Integrated approach for environmental assessment of new and existing substances. Regulatory Toxicology and Pharmacology 21: 3-31.<br /><br />
+	Deliman, P.N. and J.A. Gerald. 1998. Development of a Multimedia Exposure Assessment Model for Evaluating Ecological Risk of Exposure to Military-Related Compounds (MRCs) at Military Sites. US Army Corps of Engineers, Waterways Experiment Station, Wahington, DC. Technical Report IRRP-98-9.<br /><br />
+	Dixon, K.R. and J.D. Florian, Jr. 1993. Modeling mobility and effects of contaminants in wetlands. Environmental Toxicology and Chemistry 12: 2281-2292.<br /><br />
+	ECOFRAM. 1999. Aquatic Draft Report (http://www.epa.gov/oppefed1/ecorisk/aquareport.pdf). Ecological Committee on Federal, Insecticide, Fungicide and Rodenticide Act, Risk Assessment.<br /><br />
+	ECOFRAM Aquatic Effects Subcommittee, J. Giddings, L. Barnthouse, D. Farrar, T. Hall, M. McKee, M. Newman, K. Reinert, B. Sebastien, K. Solomon, A. Stavola, L. Touart, and R. Wentsel. 1998. Preliminary Findings of the Ecological Committee on Fifra Risk Assessment Methods (Ecofram): VI. Aquatic Effects Analysis. Poster (http://www.epa.gov/oppefed1/ecorisk/setac98a.pdf), SETAC Annual Meeting, Charlotte, NC.<br /><br />
+	Exponent. 1998. Review of Bioaccumulation Methods for Fish and Shellfish. Exponent, Bellevue, WA. Prepared for Washington State Department of Ecology, Olympia, WA.<br /><br />
+	Exponent. 2003. Fish Contaminant Monitoring Program: Review and Recommendations. Exponent, Bellevue, WA. Prepared for Michigan Department of Environmental Quality, Water Division, Lansing, MI.<br /><br />
+	Feijtel, T., P. Kloepper-Sams, K. den Haan, R. van Egmond, M. Comber, R. Heusel, P. Wierich, W. Ten Berge, A. Gard, W. de Wolf, and H. Niessen. 1997. Integration of bioaccumulation in an environmental risk assessment. Chemosphere 34: 2337-2350.<br /><br />
+	Gobas, F.A.P.C. and H.A. Morrison. 2000. Chapter 9. Bioconcentration and Biomagnification in the Aquatic Environment. In Handbook of Property Estimation Methods for Chemicals: Environmental and Health Sciences. Edited by R.S. Boethling and D. Mackay. Lewis Publishers, CRC Press, Boca Raton, FL.<br /><br />
+	Howgate, P. 1998. Review of the public health safety of products from aquaculture. International Journal of Food Science and Technology 33: 99-125.<br /><br />
+	Hunt, T., K. Roberts, and K. Red Knox. 1992. Bioaccumulation simulation of DDT by channel catfish, 13th Annual Meeting Society of Environmental Toxicology and Chemistry.<br /><br />
+	Jones, K.C., T. Keating, P. Diage, and A.C. Chang. 1991. Transport and food chain modeling and its role in assessing human exposure to organic chemicals. Journal of Environmental Quality 20: 317-329.<br /><br />
+	Landrum, P.F., H. Lee, II, and M.J. Lydy. 1992. Toxicokinetics in aquatic systems: model comparisons and use in hazard assessment. Environmental Toxicology and Chemistry 11: 1709-1725.<br /><br />
+	Lassiter, R.R. and T.G. Hallam. 1990. Survival of the fattest: implications for acute effects of lipophilic chemicals on aquatic populations. Environmental Toxicology and Chemistry 9: 585-595.<br /><br />
+	Limno-Tech. 2002. Descriptive Inventory of Models with Prospective Relevance to Ecological Impacts of Water Withdrawals. Limno-Tech, Inc., Ann Arbor, MI. Prepared for The Great Lakes Commission, October 14, 2002.<br /><br />
+	Mackay, D. and A. Fraser. 2000. Bioaccumulation of persistent organic chemicals: mechanisms and models. Environmental Pollution 110: 375-391.<br /><br />
+	Marchettini, N., M. Panzieri, and E.B.P. Tiezzi. 2001. Effects of bioaccumulation of PCBs on biodiversity and distribution of fish in two creeks in east Tennessee (USA). Ann. Chim. 91: 435-443.<br /><br />
+	Murphy, G.W. 2004. Uptake of mercury and relationship to food habits of selected fish species in the Shenandoah River Basin, Virginia. Virginia Polytechnic Institute and State University, Blacksburg, VA.<br /><br />
+	Olem, H., S. Livengood, and K.M. Sandra. 1992. Lake and reservoir management. Water Environmental Research 64: 523-531.<br /><br />
+	Reinert, K.H., J.M. Giddings, and L. Judd. 2002. Effects analysis of time-varying or repeated exposures in aquatic ecological risk assessment of argochemicals. Environmental Toxicology and Chemistry 21: 1977-1992.<br /><br />
+	Simon, T.W. 1999. Two-dimensional Monte Carlo simulation and beyond: A comparison of several probabilistic Risk Assessment methods applied to a Superfund Site. Human and Ecological Risk Assessment 5: 823-843.<br /><br />
+	Sood, C. and R.M. Bhagat. 2005. Interfacing geographical information systems and pesticide models. Current Science 89: 1362-1370.<br /><br />
+	USEPA. 1994. EPA Superfund Record of Decision: Sangamo Weston/Twelvemile Creek/Lake Hartwell PCB Contamination Superfund Site - Operable Unit Two Pickens, Pickens County, South Carolina (EPA ID: SCD003354412). U.S. Environmental Protection Agency, Region 4, Atlanta, GA. EPA/ROD/R04-94/178.<br /><br />
+	USEPA. 2003. Methodology for Deriving Ambient Water Quality Criteria for the Protection of Human Health (2000) Technical Support Document Volume 2: Development of National Bioaccumulation Factors. U.S. Environmental Protection Agency, Office of Water, Office of Science and Technology, Washington, DC. EPA/822/R-03/030.<br /><br />
+	USEPA. 2004. Five-year Review Report for the Sangamo Weston/Twelvemile Creek/Lake Hartwell PCB Contamination Superfund Site - Operable Unit Two Pickens, Pickens County, South Carolina (EPA ID: SCD003354412) (http://www.epa.gov/region04/waste/npl/nplsc/sangamo5yr.pdf ). U.S. Environmental Protection Agency, Region 4, Atlanta, GA.<br /><br />
+	USEPA. 2005. Regulatory Impact Analysis for the Clean Air Mercury Rule. U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards. EPA/452/R-05/003.<br /><br />
+	VDEQ. 2005. <a href="http://www.deq.virginia.gov/Portals/0/DEQ/Water/WaterQualityMonitoring/FishSedimentMonitoring/PCB-Statewide-Strategy-2005.pdf">PCB Strategy For the Commonwealth of Virginia</a> (http://www.deq.virginia.gov/Portals/0/DEQ/Water/WaterQualityMonitoring/FishSedimentMonitoring/PCB-Statewide-Strategy-2005.pdf). Virginia Department of Environmental Quality.<br /><br />
+	Vorhees, D.J., S.B.K. Driscoll, K. von Stackelberg, and T.S. Bridges. 1998. Improving Dredged Material Management Decisions with Uncertainty Analysis. US Army Corps of Engineers Waterways Experiment Station, Washington, DC. Technical Report DOER-3.<br /><br />
+	Wania, F. and D. Mackay. 1999. The evolution of mass balance models of persistent organic pollutant fate in the environment. Environmental Pollution 100: 223-240.<br /><br />
+	Wurbs, R.A. 1994. Computer Models for Water Resources Planning and Management. U.S. Army Corps of Engineers, Institute for Water Resources, Alexandria, VA. IWR Report 94-NDS-7.</p>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /><h4><a href="https://www.epa.gov/exposure-assessment-models/bioaccumulation-and-aquatic-system-simulator-bass-download-page">Go to BASS model download page.</a></h4>
+
+<p class="pagetop"><a href="bass.html#main-content">Top of page</a></p>
+
+<hr /></div>
+  </div>
+
+  
+  
+</div>
+
+
+
+<div id="block-pane-epa-web-area-footer" class="block block-pane  block-pane-epa-web-area-footer">
+  
+  
+  
+  
+    <p class="web-area-footer"><a href="forms/center-exposure-assessment-models-contact-us.html" class="contact-us">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>  
+</div>
+  
+    <!--googleoff: all-->
+      </div>
+  
+  
+  <div class="region-sidebar-first region-sidebar">  <div id="block-og-menu-og-single-menu-block" class="block block-og-menu  block-og-menu-og-single-menu-block">
+
+      <h2 class="element-invisible">Exposure Assessment Models</h2>
+  
+  
+    <ul class="menu"><li class="menu-item"><a href="../exposure-assessment-models.html" title="" class="menu-link">Exposure Assessment Models</a></li>
+<li class="menu-item"><a href="https://www.epa.gov/exposure-assessment-models/modeling-products" title="A complete list of software models, modeling tools, data sets, and documents distributed by the EPA Center for Exposure Assessment Modeling (CEAM)" class="menu-node-unpublished menu-link">Modeling Products</a></li>
+<li class="menu-item"><a href="groundwater.html" class="menu-link">Groundwater Models</a></li>
+<li class="menu-item"><a href="surface-water-models.html" class="menu-link">Surface Water Models</a></li>
+<li class="menu-item"><a href="food-chain-models.html" class="menu-link">Food Chain Models</a></li>
+<li class="menu-item"><a href="multimedia.html" title="" class="menu-link">Multimedia Models</a></li>
+<li class="menu-item"><a href="tmdl-models-and-tools.html" class="menu-link">TMDL Models and Tools</a></li>
+<li class="menu-item"><a href="https://www.epa.gov/exposure-assessment-models/tools-data" class="menu-link">Tools &amp; Data</a></li>
+<li class="collapsed menu-item"><a href="https://www.epa.gov/exposure-assessment-models/information-sources" class="menu-link">Information Sources</a></li>
+</ul>  
+</div>
+  </div>
+</section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on April 5, 2016</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke95m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"Hkio_2yt47vrMIlUbf9MztCojy9oiwyhizUXytXhIWI"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"4107"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--></body>
+</html>
+
+<!-- Page cached by Boost @ 2017-01-26 12:16:30, expires @ 2017-01-27 12:16:30, lifetime 1 day -->
