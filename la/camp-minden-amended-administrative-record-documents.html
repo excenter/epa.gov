@@ -1,0 +1,1281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEFVVRQGwEBXVRTBQcP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="cleartype" content="on" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="../sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width" />
+<meta name="MobileOptimized" content="width" />
+<!--googleon: all--><meta name="DC.description" content="Amended Administrative Record for the Camp Minden Superfund site in Minden, Louisiana." />
+<meta name="DC.title" content="Camp Minden Amended Administrative Record Documents" />
+<!--googleoff: snippet--><link rel="canonical" href="camp-minden-amended-administrative-record-documents.html" />
+<link rel="shortlink" href="https://www.epa.gov/node/78347" />
+<meta name="keywords" content="Explo Systems Inc., Camp Minden, Louisiana, Region 6, amended administrative record, Superfund Site" />
+<meta name="DC.language" content="en" />
+<meta name="DC.Subject.epachannel" content="Learn the Issues, Science &amp; Technology" />
+<meta name="DC.type" content="Reports and Assessments" />
+<meta name="DC.date.created" content="2015-03-20" />
+<meta name="DC.date.modified" content="2015-05-19" />
+<meta name="DC.date.reviewed" content="2018-05-18" />
+<meta name="DC.creator" content="US EPA,REG 06" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="DC.epapubnumber" content="" />
+<meta name="WebArea" content="EPA in Louisiana" />
+<meta name="WebAreaType" content="Microsite" />
+<meta name="ContentType" content="document" />
+  <title>Camp Minden Amended Administrative Record Documents | EPA in Louisiana | US EPA</title>
+  <!--googleoff: all-->
+  <link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_3h5HfPyG4w0xmgk_oaLP90_rUIs7Xmed0sNIfCxGAyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_NFNG4tEiKv-n_hlnQ4iBNlFbb-9XRaRVA9wRk6nUPHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_Pvo-DHIdW2Qn9LljtH2R1QKqzm8QoJ18zl6wR9Dk-Ak.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_28CvFue6tf4M8aL9zid2j2W58Z6HleySMQyNH35QhI0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.epa.gov/sites/production/files/css/css_H7Qs31C_4pOAKdUe1sAA01nOyZTqO_KOIt1uDr0iKB4.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="../sites/production/files/css/css_68w49Vk1SYPj8EPx2iW8fUagDJ4xc2WJQO7Dn7aLNaU.css" media="all" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov All Press Releases" href="../newsreleases/search/rss.rss" />
+  <link rel="alternate" type="application/atom+xml" title="EPA.gov Headquarters Press Releases" href="../newsreleases/search/rss/field_press_office/headquarters.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Greenversations, EPA's Blog" href="https://blog.epa.gov/blog/feed/" />
+  <link rel="alternate" type="application/atom+xml" title="EPA in Louisiana" href="../feed/62103/rss.xml.rss" />  <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.js"></script><![endif]-->  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node-78347 node-type-document og-context og-context-node og-context-node-62103 section-la microsite" >
+  <div class="skip-links"><a href="camp-minden-amended-administrative-record-documents.html#main-content" class="skip-link element-invisible element-focusable">Jump to main content</a></div>
+      
+  
+  <div class="region-alert">  <div id="block-pane-epa-admin-public-alert-message" class="block block-pane  block-pane-epa-admin-public-alert-message block-alert">
+  
+  
+  
+  
+      
+</div>
+<div id="block-pane-epa-gtm" class="block block-pane  block-pane-epa-gtm">
+  
+  
+  
+  
+    <!-- Google Tag Manager -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-L8ZB");</script>
+<!-- End Google Tag Manager -->  
+</div>
+  </div>
+<header class="masthead clearfix" role="banner">
+
+      <img class="site-logo" src="../sites/all/themes/epa/logo.png" alt="" />
+  
+  
+  <hgroup class="site-name-and-slogan">
+      <h1 class="site-name">
+
+      
+      <a href="../index.html" title="Go to the home page" rel="home">      <span>US EPA</span>
+      </a>
+    </h1>
+  
+      <div class="site-slogan">United States Environmental Protection Agency</div>
+  
+  </hgroup>
+  
+  
+  <div class="region-header">  <div id="block-epa-core-gsa-epa-search" class="block block-epa-core  block-epa-core-gsa-epa-search">
+  
+  
+  
+  
+    <form class="epa-search" method="get" action="https://search.epa.gov/epasearch/epasearch">
+  <label class="element-hidden" for="search-box">Search</label>
+  <input class="form-text" placeholder="Search EPA.gov" name="querytext" id="search-box" value=""/>
+  <button class="epa-search-button" id="search-button" type="submit" title="Search">Search</button>
+  <input type="hidden" name="areaname" value="" />
+  <input type="hidden" name="areacontacts" value="" />
+  <input type="hidden" name="areasearchurl" value="" />
+  <input type="hidden" name="typeofsearch" value="epa" />
+  <input type="hidden" name="result_template" value="2col.ftl" />
+  </form>  
+</div>
+  </div>
+</header>
+<section id="main-content" class="main-content clearfix" role="main" lang="en">
+        <div class="main-column clearfix">
+            
+          <!--googleon: all-->
+      <h1  class="page-title">Camp Minden Amended Administrative Record Documents</h1>
+      <!--googleoff: all-->
+    
+            
+    
+    <!--googleon: all-->
+    
+  
+    
+
+
+
+
+<div class="panel-pane pane-node-content" >
+
+  
+  
+  
+  
+  
+  <div class="pane-content">
+    <article class="node node-document clearfix view-mode-full" about="/la/camp-minden-amended-administrative-record-documents" typeof="sioc:Item foaf:Document" role="article">
+
+  
+  <div class="box multi related-info right">
+	<h2 class="pane-title">Additional Resources</h2>
+
+	<div class="pane-content">
+		<ul><li><a href="camp-minden.html">Camp Minden</a></li>
+			<li><a href="camp-minden-baseline-air-and-soil-quality-assurance-sampling-plan.html">Camp Minden Baseline Sampling Plan</a></li>
+			<li><a href="camp-minden-dialogue.html">Minden Dialogue</a></li>
+			<li><a href="camp-minden-questions-and-answers.html">Questions and Answers</a></li>
+			<li><a href="camp-minden-reference-documents.html">Reference Documents</a></li>
+		</ul></div>
+</div>
+
+<p>On March 18, EPA issued a modification of the EPA time-critical action memo for the cleanup at Camp Minden.</p>
+
+<p><a href="https://www.epa.gov/la/action-memorandum-time-critical-removal-m6-and-cbi-amended-3182015"><strong>Action Memorandum Time-Critical Removal for M6 and CBI – Amended (3/18/2015) (PDF)</strong></a><span class="fileinfo"> (23  pp, 1 MB, <a href="../home/pdf-files.html">About PDF</a>)</span></p>
+
+<p>The amended action memo allows alternative technologies to be considered in disposing of the materials abandoned by Explo and left deteriorating at the site. The amendment clears the way for the Louisiana Military Department to review quotes for alternative methods and select a company to dispose of the M6 and CBI.</p>
+
+<p>The original Administrative Record has been amended to include these documents in support of the amended action memorandum. <a href="https://www.epa.gov/la/camp-minden-administrative-record">View the original Administrative Record.</a></p>
+
+<p>This page contains the Amended Administrative Record documents and a link to the Original Administrative Record for the Camp Minden site in Minden, Louisiana.</p>
+
+<p>Copies of all these materials are located at the following libraries:</p>
+
+<p>Webster Parish Library, 521 East and West Street, Minden, La. 71055, 318-371-3080</p>
+
+<p>Doyline Branch Library, 333 Main Street, P.O. Box 8, Doyline, La. 71023, 318-745-3800</p>
+
+<hr /><h2>Amended Administrative Record Documents</h2>
+
+<p>See the Amended Administrative Record Index to locate the name and Doc ID of all records for ease of access.</p><span class="disclaimer pdf">You will need Adobe Reader to view some of the files on this page. See <a href="../home/pdf-files.html">EPA’s About PDF page</a> to learn more.</span>
+<ul class="field field-name-field-file field-type-file field-label-hidden">
+
+      <li>
+      <span id="file-117319" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175687.pdf" type="application/pdf; length=788133" class="file-link">Amended Administrative Record Index (1175687) (PDF)</a><span class="fileinfo">(106 pp, 788 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117253" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1150056.pdf" type="application/pdf; length=617351" class="file-link">Camp Minden Chronology 10/15/2012 - 2/11/2015 (1150056) (PDF)</a><span class="fileinfo">(10 pp, 617 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117255" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172328.pdf" type="application/pdf; length=1931066" class="file-link">Department of Army Report of Explosives Safety Assist Visit 12/01/2014 - 12/05/2014 (1172328) (PDF)</a><span class="fileinfo">(8 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117257" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172610.pdf" type="application/pdf; length=1215273" class="file-link">Draft preliminary List of Potential Technologies for the Destruction of M6 (1172610) (PDF)</a><span class="fileinfo">(11 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117259" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172647.pdf" type="application/pdf; length=496177" class="file-link">Draft Agenda for 2/25/2015 Technical Workgroup Meeting (1172647) (PDF)</a><span class="fileinfo">(1 pg, 496 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117261" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172654.pdf" type="application/pdf; length=511867" class="file-link">Table of Estimated Materials Remaining at the Camp Minden Site (1172654) (PDF)</a><span class="fileinfo">(2 pp, 512 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117263" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172682.pdf" type="application/pdf; length=631562" class="file-link">Resolution Objecting to an Open Air Burn at Camp Minden of M6 Propellant and Assurance of a Timely and Safe Disposal of these Explosives (1172682) (PDF)</a><span class="fileinfo">(1 pg, 632 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117265" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1172827.pdf" type="application/pdf; length=700087" class="file-link">January 2015 Camp Minden Fact Sheet (1172827) (PDF)</a><span class="fileinfo">(3 pp, 700 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117267" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1174155.pdf" type="application/pdf; length=811847" class="file-link">Community Letter of Opposition to the EPA Plan to Open Burn 15 Million Pounds of Abandoned M6 Propellants (1174155) (PDF)</a><span class="fileinfo">(2 pp, 812 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117269" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1174543.pdf" type="application/pdf; length=14026497" class="file-link">Sign in Sheet for 3/10/2015 Meeting (1174543) (PDF)</a><span class="fileinfo">(14 pp, 14 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117271" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1174821.pdf" type="application/pdf; length=817552" class="file-link">Results of the Camp Minden Dialogue Facilitators&#039; Report (1174821) (PDF)</a><span class="fileinfo">(20 pp, 818 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117273" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1174824.pdf" type="application/pdf; length=34036" class="file-link">Target Sheet for Doc ID 9545977 - Table Listing Vendor Information for Specific Technologies (1174824) (PDF)</a><span class="fileinfo">(3 pp, 34 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117277" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1174896.pdf" type="application/pdf; length=462938" class="file-link">Target Sheet for Doc ID 9546014 - Draft Deliberative: Comment on Explo Systems - Camp Minden Controlled Open Burning (1174896) (PDF)</a><span class="fileinfo">(2 pp, 463 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117333" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175085_0.pdf" type="application/pdf; length=757198" class="file-link">Memo to Camp Minden File - The Use of a Dialogue Committee and Camp Minden and its Uniqueness (1175085) (PDF)</a><span class="fileinfo">(2 pp, 757 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117279" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175085.pdf" type="application/pdf; length=757198" class="file-link">Weston Solutions Inc., Response to EPA OBODM Model Set-up Questions (1175105) (PDF)</a><span class="fileinfo">(2 pp, 757 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117281" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175108.pdf" type="application/pdf; length=655837" class="file-link">General Atomics Responses to Additional Questions Regarding Industrial Supercritical Water Oxidation (1175108) (PDF)</a><span class="fileinfo">(5 pp, 656 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117283" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175109.pdf" type="application/pdf; length=583297" class="file-link">Response to Request for Assistance with Open Burn and Open Detonation Model and Estimates of Emission Impacts from Planned Open Burning of M6 Propellant (1175109)  (PDF)</a><span class="fileinfo">(2 pp, 583 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117285" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175150.pdf" type="application/pdf; length=1581473" class="file-link">U.S. Demil, LLC - Presentation best Technology Available in the World Patented Decineration Thermal Process (1175150) (PDF)</a><span class="fileinfo">(5 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117297" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175422-1.pdf" type="application/pdf; length=51147939" class="file-link">Request for Approval of an Amended Time-Critical Removal for M6 and ABI Propellant (Part 1 of 4) (1175422) (PDF)</a><span class="fileinfo">(122 pp, 51 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117299" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175422-2.pdf" type="application/pdf; length=142011867" class="file-link">Request for Approval of an Amended Time-Critical Removal for M6 and ABI Propellant (Part 2 of 4) (1175422) (PDF)</a><span class="fileinfo">(135 pp, 142 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117301" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175422-3.pdf" type="application/pdf; length=143956940" class="file-link">Request for Approval of an Amended Time-Critical Removal for M6 and ABI Propellant (Part 3 of 4) (1175422) (PDF)</a><span class="fileinfo">(82 pp, 144 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117309" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175422-4.pdf" type="application/pdf; length=139667185" class="file-link">Request for Approval of an Amended Time-Critical Removal for M6 and ABI Propellant (Part 4 of 4) (1175422) (PDF)</a><span class="fileinfo">(817 pp, 140 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117311" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175492.pdf" type="application/pdf; length=496123" class="file-link">Target Sheet for Doc ID 1175465 - PowerPoint Presentation: L-3 Tour (1175492) (PDF)</a><span class="fileinfo">(32 pp, 496 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117315" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175498.pdf" type="application/pdf; length=496058" class="file-link">Target Sheet for Doc ID 1175370 - PowerPoint Presentation: L-1 &amp; L-4 Tour (1175498) (PDF)</a><span class="fileinfo">(19 pp, 496 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117317" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/1175555.pdf" type="application/pdf; length=497424" class="file-link">Target Sheet for Doc ID 1175464 - PowerPoint Presentation: L-2 tour (1175555) (PDF)</a><span class="fileinfo">(64 pp, 497 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117335" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718322.pdf" type="application/pdf; length=541421" class="file-link">Provision of Louisiana Environmental Action Network Article Regarding Camp Minden (718322) (PDF)</a><span class="fileinfo">(3 pp, 541 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117337" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718323.pdf" type="application/pdf; length=853598" class="file-link">Louisiana Department of Environmental Quality Request for EPA to Justify its Decision and Provision of Proper Safety Assurances Regarding the Disposal Process (718323) (PDF)</a><span class="fileinfo">(2 pp, 854 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117339" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718324.pdf" type="application/pdf; length=1075612" class="file-link">EPA Response to Louisiana Department of Environmental Quality Request for EPA to Justify its Decision and Provision of Proper Safety Assurances Regarding the Disposal Process (718324) (PDF)</a><span class="fileinfo">(3 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117341" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718392.pdf" type="application/pdf; length=974125" class="file-link">LDEQ Request for EPA Administrator Intervention and Conference Call Regarding the Open Tray Disposal of Explosives (718392) (PDF)</a><span class="fileinfo">(2 pp, 974 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117343" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718518.pdf" type="application/pdf; length=910747" class="file-link">EXPAL USA Inc., Proposal to Recycle Explosives (718518) (PDF)</a><span class="fileinfo">(3 pp, 911 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117345" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718621.pdf" type="application/pdf; length=1126404" class="file-link">LDEQ Request for Confirmation of EPA Participation in meeting by 2/23/2015 and Request all EPA Data and Information Regarding the Open Tray Burn Method by 1/28/2015 (718621) (PDF)</a><span class="fileinfo">(2 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117347" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718631.pdf" type="application/pdf; length=694701" class="file-link">Request for DOD Explosives Safety Board to make Technical Visit to Camp Minden (718631) (PDF)</a><span class="fileinfo">(1 pg, 695 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117349" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718632.pdf" type="application/pdf; length=555372" class="file-link">Camp Minden Chronology 10/15/2012 - 2/11/2015 (718632) (PDF)</a><span class="fileinfo">(9 pp, 555 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117351" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718661.pdf" type="application/pdf; length=862174" class="file-link">Questions Regarding EPA&#039;s Decision to use an Open-Burn Process at Camp Minden (718661) (PDF)</a><span class="fileinfo">(2 pp, 862 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117353" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718787.pdf" type="application/pdf; length=1070004" class="file-link">EPA Notification of 90 Day Extension of Compliance Deadlines to Louisiana National Guard (718787) (PDF)</a><span class="fileinfo">(3 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117361" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718812.pdf" type="application/pdf; length=1124850" class="file-link">Request for Confirmation to Participate in Meeting and Request for Information Regarding Open Tray Burn Method (718812) (PDF)</a><span class="fileinfo">(2 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117363" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718815.pdf" type="application/pdf; length=13731048" class="file-link">Open Letter from Louisiana Progress Action Regarding the Proposed Open Burn Process (718815) (PDF)</a><span class="fileinfo">(6 pp, 14 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117365" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718816.pdf" type="application/pdf; length=903180" class="file-link">Site Clean-Up History with Request for Louisiana National Guard to Designate Technical Team Representatives by 1/30/2015 (718816) (PDF)</a><span class="fileinfo">(2 pp, 903 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117367" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718817.pdf" type="application/pdf; length=947294" class="file-link">Site Clean-Up History with Request for LDEQ to Designate Technical Team Representatives by 1/30/2015 (718817) (PDF)</a><span class="fileinfo">(2 pp, 947 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117369" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/718832.pdf" type="application/pdf; length=863428" class="file-link">Acknowledgement that the Community and Elected Officials Need Additional Time to Comment on the Removal of M6 (718832) (PDF)</a><span class="fileinfo">(2 pp, 863 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117371" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719057.pdf" type="application/pdf; length=893061" class="file-link">Letter from LDEQ to EPA Naming Participants for Discussion Regarding the Camp Minden Removal (719057) (PDF)</a><span class="fileinfo">(2 pp, 893 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117375" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719059.pdf" type="application/pdf; length=498429" class="file-link">EPA Response to Louisiana Progress Action Regarding Discussions for Alternative Options (719059) (PDF)</a><span class="fileinfo">(2 pp, 498 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117377" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719060.pdf" type="application/pdf; length=494607" class="file-link">EPA Update to Representative Reynolds Regarding Progress to Increase Public Involvement (719060) (PDF)</a><span class="fileinfo">(2 pp, 495 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117383" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719061.pdf" type="application/pdf; length=859863" class="file-link">Advisement to LDEQ that EPA has Granted 90-Day Extension to Compliance Deadlines in the Administrative Settlement Agreement (719061) (PDF)</a><span class="fileinfo">(2 pp, 860 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117385" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719132.pdf" type="application/pdf; length=544579" class="file-link">Draft - Nine Criteria factors Applied to Camp Minden Remedies (719132) (PDF)</a><span class="fileinfo">(2 pp, 545 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117387" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719437.pdf" type="application/pdf; length=501255" class="file-link">Facilitators Instructions for Managing Meetings of Stakeholders to Obtain Individual Input (719437) (PDF)</a><span class="fileinfo">(3 pp, 501 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117391" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719665.pdf" type="application/pdf; length=628123" class="file-link">EPA News Advisory - Dialogue Committee to Meet to Discuss Camp Minden Alternatives (719665) (PDF)</a><span class="fileinfo">(1 pg, 628 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117393" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/719906.pdf" type="application/pdf; length=544975" class="file-link">Notice of Intent to use Emergency Response Procedures Set Forth in Executive Order BJ 2013-14 to Expedite of M6 (719906)  (PDF)</a><span class="fileinfo">(2 pp, 545 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117399" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9534179.pdf" type="application/pdf; length=649086" class="file-link">Transmittal of Department of Army Report of Explosives Safety Assist visit 12/01/2014 - 12/5/2014 (9534179) (PDF)</a><span class="fileinfo">(1 pg, 649 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117403" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544681.pdf" type="application/pdf; length=191401" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544681) (PDF)</a><span class="fileinfo">(1 pg, 191 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117405" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544682.pdf" type="application/pdf; length=173807" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544682) (PDF)</a><span class="fileinfo">(1 pg, 174 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117407" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544683.pdf" type="application/pdf; length=178927" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544683) (PDF)</a><span class="fileinfo">(1 pg, 179 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117409" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544684.pdf" type="application/pdf; length=190932" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544684) (PDF)</a><span class="fileinfo">(1 pg, 191 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117411" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544685.pdf" type="application/pdf; length=183267" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544685) (PDF)</a><span class="fileinfo">(1 pg, 183 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117413" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544686.pdf" type="application/pdf; length=169192" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544686) (PDF)</a><span class="fileinfo">(1 pg, 169 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117415" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544687.pdf" type="application/pdf; length=172615" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544687) (PDF)</a><span class="fileinfo">(1 pg, 173 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117417" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544688.pdf" type="application/pdf; length=394855" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544688) (PDF)</a><span class="fileinfo">(2 pp, 395 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117419" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544689.pdf" type="application/pdf; length=187617" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544689) (PDF)</a><span class="fileinfo">(1 pg, 188 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117421" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544690.pdf" type="application/pdf; length=216786" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544690) (PDF)</a><span class="fileinfo">(2 pp, 217 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117423" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544691.pdf" type="application/pdf; length=192023" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544691) (PDF)</a><span class="fileinfo">(1 pg, 192 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117425" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544692.pdf" type="application/pdf; length=168437" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544692) (PDF)</a><span class="fileinfo">(1 pg, 168 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117427" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544693.pdf" type="application/pdf; length=174337" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544693) (PDF)</a><span class="fileinfo">(1 pg, 174 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117431" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544694.pdf" type="application/pdf; length=186740" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544694) (PDF)</a><span class="fileinfo">(1 pg, 187 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117433" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544695.pdf" type="application/pdf; length=190614" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544695) (PDF)</a><span class="fileinfo">(1 pg, 191 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117435" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544696.pdf" type="application/pdf; length=178277" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544696) (PDF)</a><span class="fileinfo">(1 pg, 178 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117441" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544697.pdf" type="application/pdf; length=172021" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544697) (PDF)</a><span class="fileinfo">(1 pg, 172 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117445" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544698.pdf" type="application/pdf; length=150940" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544698) (PDF)</a><span class="fileinfo">(1 pg, 151 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117447" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544699.pdf" type="application/pdf; length=191890" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544699) (PDF)</a><span class="fileinfo">(1 pg, 192 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117449" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544700.pdf" type="application/pdf; length=142450" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544700) (PDF)</a><span class="fileinfo">(1 pg, 142 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117451" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544701.pdf" type="application/pdf; length=187697" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544701) (PDF)</a><span class="fileinfo">(1 pg, 188 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117455" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544702.pdf" type="application/pdf; length=208598" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544702) (PDF)</a><span class="fileinfo">(1 pg, 209 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117457" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544703.pdf" type="application/pdf; length=208817" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544703) (PDF)</a><span class="fileinfo">(1 pg, 209 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117461" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544704.pdf" type="application/pdf; length=164088" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544704) (PDF)</a><span class="fileinfo">(1 pg, 164 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117463" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544705.pdf" type="application/pdf; length=144874" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544705) (PDF)</a><span class="fileinfo">(1 pg, 145 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117465" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544706.pdf" type="application/pdf; length=282415" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544706) (PDF)</a><span class="fileinfo">(1 pg, 282 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117467" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544707.pdf" type="application/pdf; length=177485" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544707) (PDF)</a><span class="fileinfo">(1 pg, 177 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117469" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544708.pdf" type="application/pdf; length=216394" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544708) (PDF)</a><span class="fileinfo">(2 pp, 216 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117471" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544709.pdf" type="application/pdf; length=194708" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544709) (PDF)</a><span class="fileinfo">(1 pg, 195 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117473" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544710.pdf" type="application/pdf; length=164172" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544710) (PDF)</a><span class="fileinfo">(1 pg, 164 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117475" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544711.pdf" type="application/pdf; length=221774" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544711) (PDF)</a><span class="fileinfo">(1 pg, 222 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117477" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544712.pdf" type="application/pdf; length=169359" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544712) (PDF)</a><span class="fileinfo">(1 pg, 169 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117481" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544713.pdf" type="application/pdf; length=189779" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544713) (PDF)</a><span class="fileinfo">(1 pg, 190 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117485" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544714.pdf" type="application/pdf; length=184338" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544714) (PDF)</a><span class="fileinfo">(1 pg, 184 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117487" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544715.pdf" type="application/pdf; length=183069" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544715) (PDF)</a><span class="fileinfo">(1 pg, 183 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117489" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544716.pdf" type="application/pdf; length=253181" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544716) (PDF)</a><span class="fileinfo">(1 pg, 253 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117491" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544717.pdf" type="application/pdf; length=201208" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544717) (PDF)</a><span class="fileinfo">(1 pg, 201 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117495" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544718.pdf" type="application/pdf; length=198537" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544718) (PDF)</a><span class="fileinfo">(1 pg, 199 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117497" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544719.pdf" type="application/pdf; length=192826" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544719) (PDF)</a><span class="fileinfo">(1 pg, 193 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117501" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544720.pdf" type="application/pdf; length=186762" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544720) (PDF)</a><span class="fileinfo">(1 pg, 187 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117503" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544721.pdf" type="application/pdf; length=184435" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544721) (PDF)</a><span class="fileinfo">(1 pg, 184 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117507" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544722.pdf" type="application/pdf; length=182843" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544722) (PDF)</a><span class="fileinfo">(1 pg, 183 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117509" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544723.pdf" type="application/pdf; length=195074" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544723) (PDF)</a><span class="fileinfo">(1 pg, 195 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117511" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544724.pdf" type="application/pdf; length=193776" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544724) (PDF)</a><span class="fileinfo">(1 pg, 194 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117513" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544725.pdf" type="application/pdf; length=220552" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544725) (PDF)</a><span class="fileinfo">(1 pg, 221 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117515" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544726.pdf" type="application/pdf; length=178955" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544726) (PDF)</a><span class="fileinfo">(1 pg, 179 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117517" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544727.pdf" type="application/pdf; length=192881" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544727) (PDF)</a><span class="fileinfo">(1 pg, 193 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117519" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544728.pdf" type="application/pdf; length=222965" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544728) (PDF)</a><span class="fileinfo">(1 pg, 223 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117525" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544729.pdf" type="application/pdf; length=173311" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544729) (PDF)</a><span class="fileinfo">(1 pg, 173 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117527" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544730.pdf" type="application/pdf; length=177142" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544730) (PDF)</a><span class="fileinfo">(1 pg, 177 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117531" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544731.pdf" type="application/pdf; length=140706" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544731) (PDF)</a><span class="fileinfo">(1 pg, 141 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117533" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544732.pdf" type="application/pdf; length=201510" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544732) (PDF)</a><span class="fileinfo">(1 pg, 202 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117537" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544733.pdf" type="application/pdf; length=214584" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544733) (PDF)</a><span class="fileinfo">(1 pg, 215 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117541" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544734.pdf" type="application/pdf; length=141722" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544734) (PDF)</a><span class="fileinfo">(1 pg, 142 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117545" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544735.pdf" type="application/pdf; length=286875" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544735) (PDF)</a><span class="fileinfo">(2 pp, 287 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117547" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544736.pdf" type="application/pdf; length=218989" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544736) (PDF)</a><span class="fileinfo">(1 pg, 219 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117549" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544737.pdf" type="application/pdf; length=302670" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544737) (PDF)</a><span class="fileinfo">(2 pp, 303 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117553" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544738.pdf" type="application/pdf; length=184116" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544738) (PDF)</a><span class="fileinfo">(1 pg, 184 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117555" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544739.pdf" type="application/pdf; length=169173" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544739) (PDF)</a><span class="fileinfo">(1 pg, 169 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117557" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544740.pdf" type="application/pdf; length=185167" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544740) (PDF)</a><span class="fileinfo">(1 pg, 185 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117559" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544741.pdf" type="application/pdf; length=175054" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544741) (PDF)</a><span class="fileinfo">(1 pg, 175 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117561" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544742.pdf" type="application/pdf; length=278107" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544742) (PDF)</a><span class="fileinfo">(2 pp, 278 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117565" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544743.pdf" type="application/pdf; length=192967" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544743) (PDF)</a><span class="fileinfo">(1 pg, 193 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117567" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544744.pdf" type="application/pdf; length=210323" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544744) (PDF)</a><span class="fileinfo">(1 pg, 210 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117569" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544745.pdf" type="application/pdf; length=211592" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544745) (PDF)</a><span class="fileinfo">(1 pg, 212 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117571" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544746.pdf" type="application/pdf; length=225802" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544746) (PDF)</a><span class="fileinfo">(1 pg, 226 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117573" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544747.pdf" type="application/pdf; length=293334" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544747) (PDF)</a><span class="fileinfo">(2 pp, 293 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117575" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544748.pdf" type="application/pdf; length=198987" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544748) (PDF)</a><span class="fileinfo">(1 pg, 199 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117577" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544749.pdf" type="application/pdf; length=174502" class="file-link">Citizen Request for Safer Alternative to Open Burning of Hazardous Wastes (9544749) (PDF)</a><span class="fileinfo">(1 pg, 175 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117579" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544798.pdf" type="application/pdf; length=523763" class="file-link">November 2014 Fact Sheet (9544798) (PDF)</a><span class="fileinfo">(3 pp, 524 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117581" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544803.pdf" type="application/pdf; length=528797" class="file-link">EPA, ARMY Agreement on Propellant Cleanup Sidesteps Liability Questions (9544803) (PDF)</a><span class="fileinfo">(3 pp, 529 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117583" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544819.pdf" type="application/pdf; length=708331" class="file-link">Vitter - EPA Response to Questions to EPA Regarding Camp Minden on Open Burn (9544819) (PDF)</a><span class="fileinfo">(6 pp, 708 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117585" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544851.pdf" type="application/pdf; length=941042" class="file-link">EPA Responses to Congressional Inquiries (9544851) (PDF)</a><span class="fileinfo">(12 pp, 941 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117587" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544852.pdf" type="application/pdf; length=595941" class="file-link">Memorialization of 90 Day Deadline Extension for the Administrative Agreement and Order on Consent for Removal Action (9544852) (PDF)</a><span class="fileinfo">(1 pg, 596 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117589" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544853.pdf" type="application/pdf; length=494570" class="file-link">EPA Notification to Army Regarding Withdrawing RCRA Section 7003 Unilateral Administrative Order - Docket No. RCRA-06-2014-0902 (9544853) (PDF)</a><span class="fileinfo">(1 pg, 495 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117593" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9544900.pdf" type="application/pdf; length=70107" class="file-link">Transmittal of EPA Notification to Army Regarding Withdrawing RCRA Section 7003 Unilateral Administrative Order - Docket No. RCRA-06-2014-0902 (9544900) (PDF)</a><span class="fileinfo">(1 pg, 70 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117595" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545921.pdf" type="application/pdf; length=4285503" class="file-link">Figures - Air Modeling - December 2014 (9545921) (PDF)</a><span class="fileinfo">(5 pp, 4 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117599" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545924.pdf" type="application/pdf; length=499698" class="file-link">List of Facts Regarding Camp Minden - Submersion of M6 Propellant in Water (9545924) (PDF)</a><span class="fileinfo">(3 pp, 500 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117601" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545925.pdf" type="application/pdf; length=507829" class="file-link">Army Response to EPA Additional Questions (9545925) (PDF)</a><span class="fileinfo">(3 pp, 508 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117603" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545926.pdf" type="application/pdf; length=3172793" class="file-link">Technical Manual General Instructions for Demilitarization/Disposal of Conventional Munitions (9545926) (PDF)</a><span class="fileinfo">(152 pp, 3 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117605" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545927.pdf" type="application/pdf; length=1819572" class="file-link">U.S. Army Toxic and Hazardous Materials Agency - Economic Evaluation of Propellant Reuse/Recovery Technology (9545927) (PDF)</a><span class="fileinfo">(38 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117607" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545928.pdf" type="application/pdf; length=4359875" class="file-link">Alternatives to Open Burning/Open Detonation of Energetic Materials - A Summary of Current Technologies (9545928) (PDF)</a><span class="fileinfo">(72 pp, 4 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117609" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545930.pdf" type="application/pdf; length=12395368" class="file-link">Dissolution Rate of Propellant Energetics from Nitrocellulose Matrices (9545930) (PDF)</a><span class="fileinfo">(131 pp, 12 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117611" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545931.pdf" type="application/pdf; length=515954" class="file-link">Defense Explosives Safety Board Role in Approving Demilitarization Technology for Ammunition and Explosives Information Paper (9545931) (PDF)</a><span class="fileinfo">(5 pp, 516 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117613" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545933.pdf" type="application/pdf; length=633204" class="file-link">Submittal of Declassified 2/20/2015 Technology Chart - Status of Advanced Treatment Technology for Energetics Destruction (9545933) (PDF)</a><span class="fileinfo">(3 pp, 633 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117617" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545935.pdf" type="application/pdf; length=2096487" class="file-link">Crossland Notes from Vendor Presentations - Alternatives (9545935) (PDF)</a><span class="fileinfo">(5 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117619" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545936.pdf" type="application/pdf; length=480642" class="file-link">Response to Request for Information on How M6 and CBI have been Moved from Location to Location in the Past (9545936) (PDF)</a><span class="fileinfo">(1 pg, 481 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117625" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545937.pdf" type="application/pdf; length=477779" class="file-link">List of Facts Regarding Camp Minden - Propellant Stabilization (9545937) (PDF)</a><span class="fileinfo">(2 pp, 478 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117629" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545938.pdf" type="application/pdf; length=474900" class="file-link">List of Facts Regarding Department of Defense Explosives Safety Board Approval Process (9545938) (PDF)</a><span class="fileinfo">(1 pg, 475 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117631" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545941.pdf" type="application/pdf; length=852941" class="file-link">Preliminary Compilation of Possible Alternative Remedies (9545941) (PDF)</a><span class="fileinfo">(5 pp, 853 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117633" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545942.pdf" type="application/pdf; length=1573027" class="file-link">Product Information SDC and MDS - Hot Detonation Chambers (9545942) (PDF)</a><span class="fileinfo">(1 pg, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117635" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545943.pdf" type="application/pdf; length=890452" class="file-link">Product Information - Horizontal Detonation Chambers (9545943) (PDF)</a><span class="fileinfo">(2 pp, 890 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117637" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545944.pdf" type="application/pdf; length=1260453" class="file-link">PowerPoint Presentation - Current Status of Transportable Controlled Detonation Chambers Presented at National Defense Industrial Association 5/14/2007 - 5/17/2007 (9545944) (PDF)</a><span class="fileinfo">(20 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117639" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545945.pdf" type="application/pdf; length=679851" class="file-link">Web Homepage for Program Executive Office, Assembled Chemical Weapons Alternatives (9545945) (PDF)</a><span class="fileinfo">(3 pp, 680 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117641" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545946.pdf" type="application/pdf; length=494805" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information (9545946) (PDF)</a><span class="fileinfo">(2 pp, 495 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117643" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545947.pdf" type="application/pdf; length=3415168" class="file-link">Presentation - Davinch Detonation System (9545947) (PDF)</a><span class="fileinfo">(32 pp, 3 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117645" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545949.pdf" type="application/pdf; length=571981" class="file-link">Outline of EPA Questions on various Technology Presentation (9545949) (PDF)</a><span class="fileinfo">(2 pp, 572 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117647" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545950.pdf" type="application/pdf; length=513255" class="file-link">Figure 18: Equivalent Weight Based on Positive Impulse (9545950) (PDF)</a><span class="fileinfo">(1 pg, 513 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117649" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545951.pdf" type="application/pdf; length=2907397" class="file-link">Explosive Destruction System Overview Fact Sheet (9545951) (PDF)</a><span class="fileinfo">(2 pp, 3 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117651" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545953.pdf" type="application/pdf; length=2434829" class="file-link">Presentation: Proven &amp; Effective Green Sustainable - M6 Propellant Disposal (9545953) (PDF)</a><span class="fileinfo">(22 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117653" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545954.pdf" type="application/pdf; length=528572" class="file-link">Camp Minden and CBI Potential Technology Screening Information - Archtech - Actodemil Non Thermal Humic Acid (9545954) (PDF)</a><span class="fileinfo">(3 pp, 529 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117657" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545955.pdf" type="application/pdf; length=30330934" class="file-link">Archtech Response to Questions from EPA Dialogue Committee - Actodemil (9545955) (PDF)</a><span class="fileinfo">(178 pp, 30 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117661" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545957.pdf" type="application/pdf; length=8152071" class="file-link">Destruction of Energetic Materials in Supercritical Water (9545957) (PDF)</a><span class="fileinfo">(217 pp, 8 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117663" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545958.pdf" type="application/pdf; length=603473" class="file-link">Bluegrass Chemical Agent Pilot Plant System (9545958) (PDF)</a><span class="fileinfo">(2 pp, 603 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117665" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545959.pdf" type="application/pdf; length=608869" class="file-link">Follow-Up to 2/25/2015 Dialogue Technology Workgroup and Transmittal of Draft Preliminary List of Potential Technologies for the Destruction of M6 at Camp Minden and Destruction of Energetic Materials in Supercritical Water (9545959) (PDF)</a><span class="fileinfo">(2 pp, 609 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117667" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545960.pdf" type="application/pdf; length=581910" class="file-link">Copy of Notice of Concerns Regarding Supercritical Water Oxidation and Hydrolysis Treatment Methods (9545960) (PDF)</a><span class="fileinfo">(2 pp, 582 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117669" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545961.pdf" type="application/pdf; length=708316" class="file-link">Information Regarding Industrial Supercritical Water Oxidation (9545961) (PDF)</a><span class="fileinfo">(8 pp, 708 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117671" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545961_0.pdf" type="application/pdf; length=708316" class="file-link">Supercritical Water Oxidation - Current Status of Full-Scale Commercial Activity for Waste Destruction (9545963) (PDF)</a><span class="fileinfo">(8 pp, 708 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117675" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545969.pdf" type="application/pdf; length=485003" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - General Atomics (9545965) (PDF)</a><span class="fileinfo">(2 pp, 485 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117681" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545966.pdf" type="application/pdf; length=762657" class="file-link">Slide Images Regarding Supercritical Water Oxidation Uses and Process (9545966) (PDF)</a><span class="fileinfo">(1 pg, 763 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117683" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545969_0.pdf" type="application/pdf; length=485003" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - Munirem Environmental LLC (9545969) (PDF)</a><span class="fileinfo">(2 pp, 485 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117685" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545970.pdf" type="application/pdf; length=2250608" class="file-link">Deploying Munirem Technologies to Neutralize Nitrocellulose Propellants and Other Explosives (9545970) (PDF)</a><span class="fileinfo">(24 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117691" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545971.pdf" type="application/pdf; length=717082" class="file-link">High-Performance Liquid Chromatography Analytical Service Report (9545971) (PDF)</a><span class="fileinfo">(8 pp, 717 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117693" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545972.pdf" type="application/pdf; length=979150" class="file-link">Analytical Results for Samples on 10/29/2010 (9545972) (PDF)</a><span class="fileinfo">(17 pp, 979 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117695" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545973.pdf" type="application/pdf; length=584976" class="file-link">M6 Disposal Feedback from Regions (9545973) (PDF)</a><span class="fileinfo">(2 pp, 585 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117703" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545974.pdf" type="application/pdf; length=581325" class="file-link">Status of Advanced Treatment Technology for Energetics Destruction (9545974) (PDF)</a><span class="fileinfo">(1 pg, 581 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117705" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545978.pdf" type="application/pdf; length=589761" class="file-link">Review of the Economic Evaluation of Propellant Reuse/Recovery Technology (9545978) (PDF)</a><span class="fileinfo">(1 pg, 590 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117707" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545980.pdf" type="application/pdf; length=9332028" class="file-link">Tactical Missile Demilitarization Program and the Environment (9545980) (PDF)</a><span class="fileinfo">(10 pp, 9 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117711" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545981.pdf" type="application/pdf; length=1009502" class="file-link">Technology for the Disposal of M6 Propellant Waste - Offer Brochure (9545981) (PDF)</a><span class="fileinfo">(7 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117713" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545982.pdf" type="application/pdf; length=607929" class="file-link">Aton Diagrams - Minden Flow Process, Minden Material Flow Process, and Minden Gas Flow Process (9545982) (PDF)</a><span class="fileinfo">(3 pp, 608 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117717" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545983.pdf" type="application/pdf; length=565736" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - Aton MTT Technology (9545983) (PDF)</a><span class="fileinfo">(2 pp, 566 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117719" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545984.pdf" type="application/pdf; length=506743" class="file-link">Photography - Aton Microwave Incinerator (9545984) (PDF)</a><span class="fileinfo">(1 pg, 507 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117721" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545985.pdf" type="application/pdf; length=698868" class="file-link">LDEQ and Dialogue Committee Questions with Responses from CH2M Hill (9545985) (PDF)</a><span class="fileinfo">(5 pp, 699 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117727" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545987.pdf" type="application/pdf; length=490059" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - CH2M Hill, Dynasafe US and Expal Team (9545987) (PDF)</a><span class="fileinfo">(1 pg, 490 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117729" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545989.pdf" type="application/pdf; length=643946" class="file-link">CH2M Hill Team Responses to Questions From EPA (9545989) (PDF)</a><span class="fileinfo">(5 pp, 644 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117731" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545990.pdf" type="application/pdf; length=721628" class="file-link">Responses to EPA Follow-Up Questions Regarding M6 Cleanup Technology (9545990) (PDF)</a><span class="fileinfo">(12 pp, 722 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117735" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545991_0.pdf" type="application/pdf; length=1527530" class="file-link">Camp Minden M6 Removal - Alternative Technology - Presentation (9545991) (PDF)</a><span class="fileinfo">(13 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117737" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545992.pdf" type="application/pdf; length=653766" class="file-link">Response to Minden Dialogue Committee Follow-Up Questions Regarding M6 Cleanup Technology (9545992) (PDF)</a><span class="fileinfo">(7 pp, 654 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117739" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545993.pdf" type="application/pdf; length=577949" class="file-link">Presentation: M6 Disposal (9545993) (PDF)</a><span class="fileinfo">(5 pp, 578 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117743" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545994.pdf" type="application/pdf; length=484622" class="file-link">Draft Camp Minden M6 and CBI Potential Screening Information - CO2AL (9545994) (PDF)</a><span class="fileinfo">(1 pg, 485 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117745" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545995.pdf" type="application/pdf; length=713223" class="file-link">CO2AL Responses to EPA Questions (9545995) (PDF)</a><span class="fileinfo">(2 pp, 713 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117747" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545996.pdf" type="application/pdf; length=5993363" class="file-link">Characterization of Emissions Produced by the Open Burning/Open Detonation of Complex Munitions (9545996) (PDF)</a><span class="fileinfo">(111 pp, 6 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117749" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9545997.pdf" type="application/pdf; length=586182" class="file-link">Link to Information Regarding Open Burning as an Approved Method (9545997) (PDF)</a><span class="fileinfo">(3 pp, 586 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117751" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546000.pdf" type="application/pdf; length=582023" class="file-link">Forwarding of Information from Robert Kirgan of U.S. Army Environmental Command Regarding an Emission Factor Question of M6 Open Burning (9546000) (PDF)</a><span class="fileinfo">(3 pp, 582 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117753" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546001.pdf" type="application/pdf; length=626309" class="file-link">Response to Query Regarding the Units for the Emission Factors in the Open Burn Detonation Fuel - M6 Emission Factors (9546001) (PDF)</a><span class="fileinfo">(3 pp, 626 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117755" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546002.pdf" type="application/pdf; length=632924" class="file-link">Provision and Discussion of an Excerpt from an August 1998 EPA Document Regarding OB/OD Emission Factor Development (9546002) (PDF)</a><span class="fileinfo">(2 pp, 633 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117757" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546003.pdf" type="application/pdf; length=506797" class="file-link">Advisement Regarding the Exclusion Zones for Each Burn Area, Prevailing Wind/Weather Direction, and Name of Closest Community to E Line (9546003) (PDF)</a><span class="fileinfo">(1 pg, 507 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117759" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546007.pdf" type="application/pdf; length=2371768" class="file-link">Emission Factors from Deactivation of Munitions, Part 1, with Notice Regarding Component Part of Compilation Report for Minutes of 8/28/1984 Explosives Safety Seminar (9546007) (PDF)</a><span class="fileinfo">(18 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117761" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546008.pdf" type="application/pdf; length=8052017" class="file-link">Emission Factors for the Disposal of Energetic Materials by Open Burning and Open Detonation (9546008) (PDF)</a><span class="fileinfo">(131 pp, 8 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117763" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546009.pdf" type="application/pdf; length=1177282" class="file-link">Open Burn/Open Detonation Dispersion Model (OBODM) User&#039;s Guide - Volume II - Technical Description (9546009) (PDF)</a><span class="fileinfo">(58 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117765" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546010.pdf" type="application/pdf; length=7275780" class="file-link">Draft Final Open Burning/Open Detonation Permitting Guidelines - February 2002 (9546010) (PDF)</a><span class="fileinfo">(201 pp, 7 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117769" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546011.pdf" type="application/pdf; length=3226084" class="file-link">Journal of Hazardous Materials Article: Aerostat-Based Sampling of Emissions from Open Burning and Open Detonation of Military Ordnance (9546011) (PDF)</a><span class="fileinfo">(13 pp, 3 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117771" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546017.pdf" type="application/pdf; length=497238" class="file-link">Final Rule: Title 33 Environmental Quality - Part III. Air - Chapter 51 - Comprehensive Toxic Air Pollutant Emission Control Program (9546017) (PDF)</a><span class="fileinfo">(3 pp, 497 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117773" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546018.pdf" type="application/pdf; length=27004383" class="file-link">Title 33 - Environmental Quality Part III. Air (9546018) (PDF)</a><span class="fileinfo">(359 pp, 27 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117775" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546019.pdf" type="application/pdf; length=626816" class="file-link">Model Predicted vs Associated Standards Table (9546019) (PDF)</a><span class="fileinfo">(2 pp, 627 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117779" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546021.pdf" type="application/pdf; length=559294" class="file-link">Modeling Results vs Standards for PowerPoint Presentation (9546021) (PDF)</a><span class="fileinfo">(1 pg, 559 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117781" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546022.pdf" type="application/pdf; length=692833" class="file-link">Air Modeling - Open Burn Open Detonation Fuel (9546022) (PDF)</a><span class="fileinfo">(54 pp, 693 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117785" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546023.pdf" type="application/pdf; length=1662426" class="file-link">Open Burn/Open Detonation Dispersion Model (OBODM) User&#039;s Guide - Volume I - Technical Description (9546023) (PDF)</a><span class="fileinfo">(196 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117787" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546027.pdf" type="application/pdf; length=4546870" class="file-link">TCEQ Interoffice Memorandum - March 2014 Effects Screening Levels (9546027) (PDF)</a><span class="fileinfo">(117 pp, 5 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117791" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546028.pdf" type="application/pdf; length=487139" class="file-link">Total Pounds of Emission from Burning 15 Million Pounds of M6 (9546028) (PDF)</a><span class="fileinfo">(1 pg, 487 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117793" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546029.pdf" type="application/pdf; length=1260862" class="file-link">American Chemical Society Article - Canadian Study - Residual Dinitrotoluenes from Open Burning of Gun Propellant (9546029) (PDF)</a><span class="fileinfo">(14 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117795" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546030.pdf" type="application/pdf; length=571873" class="file-link">Code of Federal Regulation 1996 - Title 40 - Volume 13 - Section 265-382 (9546030) (PDF)</a><span class="fileinfo">(2 pp, 572 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117797" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546031.pdf" type="application/pdf; length=1931320" class="file-link">University of Nebraska - Lincoln - Digital Commons Article - Controlled Expedient Disposal of Excess Gun Propellant (9546031) (PDF)</a><span class="fileinfo">(7 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117799" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546032.pdf" type="application/pdf; length=478870" class="file-link">HQAMC Installations Open Burn Permits (9546032) (PDF)</a><span class="fileinfo">(1 pg, 479 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117801" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546033.pdf" type="application/pdf; length=697521" class="file-link">Controlled Open Burning - Remedy Selection Process (9546033) (PDF)</a><span class="fileinfo">(2 pp, 698 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117803" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546034.pdf" type="application/pdf; length=483754" class="file-link">Statement on Open Burning / Open Detonation (9546034) (PDF)</a><span class="fileinfo">(2 pp, 484 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117805" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546035.pdf" type="application/pdf; length=9863250" class="file-link">Request for Proposal - Hazardous Materials Removal and Disposal Service for Military Department, State of Louisiana (9546035) (PDF)</a><span class="fileinfo">(90 pp, 10 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117807" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546037.pdf" type="application/pdf; length=542641" class="file-link">PIKA In-Depth Analysis of the Accumulated Energetics Stored at Camp Minden with Respect to Potential Alternative Applications to Destroy or Recycle Deteriorating Propellants and Clean Burning Igniters (9564037) (PDF)</a><span class="fileinfo">(8 pp, 543 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117809" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546039.pdf" type="application/pdf; length=563772" class="file-link">Federal Remediation Technologies Roundtable Screening Matrix and Reference Guide - Version 4.0 (9564039) (PDF)</a><span class="fileinfo">(2 pp, 564 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117811" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546040.pdf" type="application/pdf; length=638189" class="file-link">Review of Canadian Study on Residual Dinitroluenes from Open Burning of Gun Propellant (9546040) (PDF)</a><span class="fileinfo">(2 pp, 638 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117813" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546041.pdf" type="application/pdf; length=5216506" class="file-link">Department of the Army Technical Manual - TM 9-1300-214 - Military Explosives (9546041) (PDF)</a><span class="fileinfo">(355 pp, 5 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117815" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546042.pdf" type="application/pdf; length=570687" class="file-link">El Dorado Comments to Dialogue Technical Subcommittee (9546042) (PDF)</a><span class="fileinfo">(3 pp, 571 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117817" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546043.pdf" type="application/pdf; length=1225929" class="file-link">Contained Burn Process Description and Applications (9546043) (PDF)</a><span class="fileinfo">(16 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117819" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546044.pdf" type="application/pdf; length=501700" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - Contained Burn - El Dorado Engineering (9546044) (PDF)</a><span class="fileinfo">(2 pp, 502 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117821" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546045.pdf" type="application/pdf; length=1146602" class="file-link">El Dorado Engineering Inc., Capabilities and Experience (9546045) (PDF)</a><span class="fileinfo">(10 pp, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117823" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546046.pdf" type="application/pdf; length=1958341" class="file-link">El Dorado Engineering Inc., PowerPoint Presentation - Propellant Disposal Technology - Sample Projects (9546046) (PDF)</a><span class="fileinfo">(15 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117825" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546047.pdf" type="application/pdf; length=717840" class="file-link">El Dorado Engineering Inc., Responses to Questions (9546047) (PDF)</a><span class="fileinfo">(5 pp, 718 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117827" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546048.pdf" type="application/pdf; length=18105559" class="file-link">El Dorado Sample Projects (9546048) (PDF)</a><span class="fileinfo">(100 pp, 18 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117829" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546051.pdf" type="application/pdf; length=965763" class="file-link">El Dorado Incinerator Brochure (9546021) (PDF)</a><span class="fileinfo">(7 pp, 966 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117831" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546055.pdf" type="application/pdf; length=2301399" class="file-link">El Dorado Engineering Inc., PowerPoint Presentation - Propellant Disposal Technology - Non-Open Burning Thermal Treatment Alternatives (9546055) (PDF)</a><span class="fileinfo">(17 pp, 2 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117833" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546056.pdf" type="application/pdf; length=668747" class="file-link">US Demil LLC Answers to LDEQ Questions (9546056) (PDF)</a><span class="fileinfo">(4 pp, 669 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117835" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546057.pdf" type="application/pdf; length=832424" class="file-link">Draft Camp Minden M6 and CBI Potential Technology Screening Information - Decineration - Leidos - U.S. Demil LLC (9546057) (PDF)</a><span class="fileinfo">(6 pp, 832 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117837" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546058.pdf" type="application/pdf; length=576090" class="file-link">EPA Response to Energy and Environment Twenty-One Inc., Correspondence Regarding the Regulatory Status of the Wyvern Process for Recovery of Metals from Small and Large Caliber Unused Munitions (9546058) (PDF)</a><span class="fileinfo">(2 pp, 576 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117839" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546059.pdf" type="application/pdf; length=1393051" class="file-link">Table 3-2: Treatment Technologies Screening Matrix (9546059) (PDF)</a><span class="fileinfo">(1 pg, 1 MB)</span></span>
+    </li>
+      <li>
+      <span id="file-117843" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546061.pdf" type="application/pdf; length=526189" class="file-link">Questions Posed to Vendors as of 3/6/2015 - Camp Minden Dialogue Committee (9546061) (PDF)</a><span class="fileinfo">(8 pp, 526 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117845" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546062.pdf" type="application/pdf; length=605569" class="file-link">Questions Posed to Vendors as of 3/7/2015 - Camp Minden Dialogue Committee (9546062) (PDF)</a><span class="fileinfo">(14 pp, 606 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117847" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546064.pdf" type="application/pdf; length=652686" class="file-link">Army Response to 2/23/2015 EPA Request for Additional Technical Assistance Visit (9546064) (PDF)</a><span class="fileinfo">(1 pg, 653 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117849" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546072.pdf" type="application/pdf; length=552046" class="file-link">EPA Response to Senator Adley Regarding Safety of Open Burn (9546072) (PDF)</a><span class="fileinfo">(2 pp, 552 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117851" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546074.pdf" type="application/pdf; length=476284" class="file-link">EPA Response to Representative Reynolds Questions from 1/13/2015 (9546074) (PDF)</a><span class="fileinfo">(4 pp, 476 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117855" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546075.pdf" type="application/pdf; length=581450" class="file-link">EPA Response to Dr. Brian Salvatore Regarding Two Open Burn Reports (9546075) (PDF)</a><span class="fileinfo">(2 pp, 581 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117857" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546076.pdf" type="application/pdf; length=845566" class="file-link">Shreveport Times: Coleman: Safety Remains a Top Priority in Disposal of M6 (9546076) (PDF)</a><span class="fileinfo">(3 pp, 846 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117859" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546086.pdf" type="application/pdf; length=921053" class="file-link">LDEQ and LA National Guard Response to Representative Reynolds Regarding 1/13/2015 Request for Information on M6 Emergency Removal Action (9546086) (PDF)</a><span class="fileinfo">(6 pp, 921 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117861" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546089.pdf" type="application/pdf; length=713084" class="file-link">Notes from Phone Conversation Between Carl and Brian Salvator (9546089) (PDF)</a><span class="fileinfo">(1 pg, 713 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117863" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546091.pdf" type="application/pdf; length=739465" class="file-link">Comments from Citizen on Federal Register Notice for U.S. Army Administrative Order on Consent (9546091) (PDF)</a><span class="fileinfo">(5 pp, 739 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117865" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546094.pdf" type="application/pdf; length=756361" class="file-link">Webster Parish Hearing Request - Concerns with Disposal of M6 Propellant (9546094) (PDF)</a><span class="fileinfo">(2 pp, 756 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117869" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546096.pdf" type="application/pdf; length=707699" class="file-link">EPA Response to Citizen Regarding Request for White House to Investigate Safety of Disposal Methods for M6 (9546096) (PDF)</a><span class="fileinfo">(1 pg, 708 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117871" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546097.pdf" type="application/pdf; length=873609" class="file-link">Citizen Federal Register Comment Regarding Open Burn (9546097) (PDF)</a><span class="fileinfo">(9 pp, 874 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117873" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546099.pdf" type="application/pdf; length=360540" class="file-link">February 2015 Camp Minden Fact Sheet (9546099) (PDF)</a><span class="fileinfo">(3 pp, 361 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117875" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546100.pdf" type="application/pdf; length=31543" class="file-link">Camp Minden Information Center Strategy (9546100) (PDF)</a><span class="fileinfo">(2 pp, 32 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117877" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546102.pdf" type="application/pdf; length=373541" class="file-link">Camp Minden Meeting Minutes (9546102) (PDF)</a><span class="fileinfo">(4 pp, 374 K)</span></span>
+    </li>
+      <li>
+      <span id="file-117881" class="file file-document file-application-pdf"><a href="https://www.epa.gov/sites/production/files/2015-03/documents/9546104.pdf" type="application/pdf; length=112909" class="file-link">This Week in Community Involvement: Camp Minden Outreach (9546104) (PDF)</a><span class="fileinfo">(1 pg, 113 K)</span></span>
+    </li>
+  
+</ul>
+</article>
+  </div>
+
+  
+  
+</div>
+
+
+
+  
+    <!--googleoff: all-->
+      </div>
+  </section>
+
+  <nav class="nav simple-nav simple-main-nav" role="navigation">
+    <div class="nav__inner">
+      <h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a href="../environmental-topics.html" title="View links to the most popular pages for each of EPA’s top environmental topics." class="menu-link">Environmental Topics</a><ul class="menu"><li class="menu-item"><a href="../environmental-topics/air-topics.html" title="" class="menu-link">Air</a></li>
+<li class="menu-item"><a href="../bedbugs.html" title="" class="menu-link">Bed Bugs</a></li>
+<li class="menu-item"><a href="../environmental-topics/chemicals-and-toxics-topics.html" title="" class="menu-link">Chemicals and Toxics</a></li>
+<li class="menu-item"><a href="../climatechange.html" title="" class="menu-link">Climate Change</a></li>
+<li class="menu-item"><a href="../environmental-topics/environmental-information-location.html" title="" class="menu-link">Environmental Information by Location</a></li>
+<li class="menu-item"><a href="../environmental-topics/greener-living.html" title="" class="menu-link">Greener Living</a></li>
+<li class="menu-item"><a href="../environmental-topics/health-topics.html" title="" class="menu-link">Health</a></li>
+<li class="menu-item"><a href="../environmental-topics/land-waste-and-cleanup-topics.html" title="" class="menu-link">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a href="../lead.html" title="" class="menu-link">Lead</a></li>
+<li class="menu-item"><a href="../mold.html" title="" class="menu-link">Mold</a></li>
+<li class="menu-item"><a href="../pesticides.html" title="" class="menu-link">Pesticides</a></li>
+<li class="menu-item"><a href="../radon.html" title="" class="menu-link">Radon</a></li>
+<li class="menu-item"><a href="../environmental-topics/water-topics.html" title="" class="menu-link">Water</a></li>
+<li class="menu-item"><a href="../environmental-topics/z-index.html" title="" class="menu-link">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a href="../laws-regulations.html" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement." class="menu-link">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a href="../regulatory-information-sector.html" title="" class="menu-link">By Business Sector</a></li>
+<li class="menu-item"><a href="../regulatory-information-topic.html" title="" class="menu-link">By Topic</a></li>
+<li class="menu-item"><a href="../compliance.html" title="" class="menu-link">Compliance</a></li>
+<li class="menu-item"><a href="../enforcement.html" title="" class="menu-link">Enforcement</a></li>
+<li class="menu-item"><a href="../laws-regulations/laws-and-executive-orders.html" title="" class="menu-link">Laws and Executive Orders</a></li>
+<li class="menu-item"><a href="../laws-regulations/policy-guidance.html" title="" class="menu-link">Policy and Guidance</a></li>
+<li class="menu-item"><a href="../laws-regulations/regulations.html" title="" class="menu-link">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a href="../aboutepa.html" title="Learn more about our mission, organization, and locations." class="menu-link">About EPA</a><ul class="menu"><li class="menu-item"><a href="../aboutepa/epas-acting-administrator.html" title="" class="menu-node-unpublished menu-link">EPA Administrator</a></li>
+<li class="menu-item"><a href="../aboutepa/current-epa-leadership.html" title="" class="menu-link">Current Leadership</a></li>
+<li class="menu-item"><a href="../aboutepa/epa-organization-chart.html" title="" class="menu-link">Organization Chart</a></li>
+<li class="menu-item"><a href="http://cfpub.epa.gov/locator/index.cfm" title="" class="menu-link">Staff Directory</a></li>
+<li class="menu-item"><a href="../planandbudget.html" title="" class="menu-link">Planning, Budget and Results</a></li>
+<li class="menu-item"><a href="../careers.html" title="" class="menu-link">Jobs and Internships</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-2" title="" class="menu-link">Headquarters Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-4" title="" class="menu-link">Regional Offices</a></li>
+<li class="menu-item"><a href="../aboutepa.html#pane-5" title="" class="menu-link">Labs and Research Centers</a></li>
+</ul></li>
+</ul>    </div>
+  </nav>
+
+
+<footer class="main-footer clearfix" role="contentinfo">
+  <div class="main-footer__inner">
+    
+  
+  <div class="region-footer">  <div id="block-pane-epa-global-footer" class="block block-pane  block-pane-epa-global-footer">
+  
+  
+  
+  
+    <div class="row cols-3">
+  <div class="col size-1of3">
+    <div class="col__title">Discover.</div>
+    <ul class="menu">
+      <li><a href="../accessibility.html">Accessibility</a></li>
+      <li><a href="../aboutepa/epas-acting-administrator.html">EPA Administrator</a></li>
+      <li><a href="../planandbudget.html">Budget &amp; Performance</a></li>
+      <li><a href="../contracts.html">Contracting</a></li>
+      <li><a href="../grants.html">Grants</a></li>
+      <li><a href="../ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees.html">No FEAR Act Data</a></li>
+      <li><a href="../home/privacy-and-security-notice.html">Privacy and Security</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Connect.</div>
+    <ul class="menu">
+      <li><a href="https://www.data.gov/">Data.gov</a></li>
+      <li><a href="../office-inspector-general/about-epas-office-inspector-general.html">Inspector General</a></li>
+      <li><a href="../careers.html">Jobs</a></li>
+      <li><a href="../newsroom.html">Newsroom</a></li>
+      <li><a href="../open.html">Open Government</a></li>
+      <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+      <li><a href="../newsroom/email-subscriptions.html">Subscribe</a></li>
+      <li><a href="https://www.usa.gov/">USA.gov</a></li>
+      <li><a href="https://www.whitehouse.gov/">White House</a></li>
+    </ul>
+  </div>
+  <div class="col size-1of3">
+    <div class="col__title">Ask.</div>
+    <ul class="menu">
+      <li><a href="../home/forms/contact-epa.html">Contact Us</a></li>
+      <li><a href="../home/epa-hotlines.html">Hotlines</a></li>
+      <li><a href="../foia.html">FOIA Requests</a></li>
+      <li><a href="../home/frequent-questions-specific-epa-programstopics.html">Frequent Questions</a></li>
+    </ul>
+
+    <div class="col__title">Follow.</div>
+    <ul class="social-menu">
+      <li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+      <li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+      <li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+      <li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+      <li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+    </ul>
+
+    <p class="last-updated">Last updated on May 19, 2015</p>
+  </div>
+</div>  
+</div>
+  </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="../sites/production/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_oZD9-WvfiElJ5KPavqu9ZAQiZcfWlzNCzxFHpedR9dI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_slEmfY49PYt03JJafrjvmxmEfVQE7vqI-454V7NM5ys.js"></script>
+<script type="text/javascript" src="../sites/all/modules/custom/epa_core/js/alert-oke95m.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_cjmkhjdYj9qyv8rH-ylGyD-SIMacZ-dzdqW9m8x_TEc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0005/9240.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<script type="text/javascript" src="../sites/production/files/js/js_UG00nMwTXcewn_yu8c3s7Bgbxmhbdk0BE1GwQLAuoQU.js"></script>
+<script type="text/javascript" src="../sites/production/files/js/js_CaVFOiO3QpcJYEzSDhR3RmEeSnMbgnImgh5uEDkDD_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"ZcVyLbOcO_R8B0K4DL8yXcYrqOnaDzgTw84OcgHoemk"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/termlookup.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"62103"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.js"></script><![endif]--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ead36e43ac","applicationID":"21951268","transactionName":"YABRbUoFXRBYAUNeXllKclpMDVwNFhJWUFRoCFJXWQNWEWYMWFNUaBNaXE87QwJeBw==","queueTime":0,"applicationTime":42520,"atts":"TEdSGwIfTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
