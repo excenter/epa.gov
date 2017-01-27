@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/61585/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA in Vermont</title>
+    <link>https://www.epa.gov/feed/61585/rss.xml</link>
+    <description>Updated EPA in Vermont content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/61585/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Environmental Information for Vermont</title>
+    <link>https://www.epa.gov/vt/environmental-information-vermont</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Air&quot;&gt;Air&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Water&quot;&gt;Water&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Enforcement&quot;&gt;Enforcement&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Cleanups&quot;&gt;Cleanups&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#ToxicReleases&quot;&gt;Toxic Releases&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Pesticides&quot;&gt;Pesticides&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#Grants&quot;&gt;Grants&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;Air&quot;&gt;
+		&lt;h3&gt;Air in Vermont&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.airnow.gov/index.cfm?action=airnow.local_state&amp;amp;stateid=47&amp;amp;mapcenter=1&amp;amp;tabs=0&quot;&gt;Real-Time Map of Today&#039;s Air Quality Forecast in Vermont on AirNow.gov&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/myenv/MyAir.html?minx=-78.55225&amp;amp;miny=41.83683&amp;amp;maxx=-66.35742&amp;amp;maxy=45.87471&amp;amp;ve=6,44.07521,-72.66269&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=Vermont&quot;&gt;MyAir for Vermont&lt;/a&gt;&lt;br /&gt;
+				MyClimate shows greenhouse gas emissions by sector, and &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyClimate&quot;&gt;other kinds of climate data, for Vermont&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/myenv/MyClimate.html?minx=-78.55225&amp;amp;miny=41.83683&amp;amp;maxx=-66.35742&amp;amp;maxy=45.87471&amp;amp;ve=6,44.07521,-72.66269&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=Vermont&quot;&gt;MyClimate for Vermont&lt;/a&gt;&lt;br /&gt;
+				MyClimate shows greenhouse gas emissions by sector, and &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyClimate&quot;&gt;other kinds of climate data, for Connecticut&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/caa-permitting/caa-permitting-vermont&quot;&gt;Clean Air Act Permitting in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/radnet/radnet-air-data-burlington-vt&quot;&gt;RadNet Near-Real-Time Air Monitoring Results from Burlington, VT&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/approved-sips/approved-sips-region-1&quot;&gt;State Implementation Plans (SIPs) for Air Quality Approved by EPA for Vermont&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/topics/air/sips/sips_vt.html&quot;&gt;Vermont EPA-Approved Regulations&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/topics/air/sips/ne_sip_summaries.html#vt&quot;&gt;Vermont Air Quality Plan Summaries&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/vt_infrabypoll.html&quot;&gt;Status of SIP Infrastructure Requirements for Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/vt_areabypoll.html&quot;&gt;Status of SIP Requirements for Designated Areas in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://dmv.vermont.gov/safety/laws/emissions&quot;&gt;Automobile Exhaust Testing&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h3&gt;Air in New England&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;Air Permitting
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/caa-permitting/caa-permitting-epas-new-england-region&quot;&gt;Clean Air Act Permitting in EPA&#039;s New England Region&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/permits/title5/index.html&quot;&gt;Title V Operating Permits&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;Air Quality
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data&quot;&gt;Air Quality Data Collected at Outdoor Monitors Across the US&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/aqi/index.html&quot;&gt;Air Quality Index&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/airquality/contacts.html&quot;&gt;Air Quality Planning Unit&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://airnow.gov&quot;&gt;AIRNOW (Real Time Air Pollution Data)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/airquality/co.html&quot;&gt;Carbon Monoxide&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/diesel/index.html&quot;&gt;Diesel Exhaust&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/airquality/index.html&quot;&gt;Ground-Level Ozone (Smog) Information&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/airquality/strategy.html&quot;&gt;Ozone Control Strategies&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/airquality/partic.html&quot;&gt;Particulate Matter (PM) in New England&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/airtox/index.html&quot;&gt;Air Toxics in New England&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/indoor-air-quality-iaq/region-1-new-england-indoor-air-quality&quot;&gt;Indoor Air&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.northeastdiesel.org&quot;&gt;Northeast Diesel Collaborative&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;Water&quot;&gt;
+		&lt;h3&gt;Water in Vermont&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/myenv/MyWater.html?minx=-78.55225&amp;amp;miny=41.83683&amp;amp;maxx=-66.35742&amp;amp;maxy=45.87471&amp;amp;ve=6,44.07521,-72.66269&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=Vermont&quot;&gt;MyWater for Vermont&lt;/a&gt;&lt;br /&gt;
+				MyWater shows &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyWater&quot;&gt;many different kinds of water data&lt;/a&gt; for Vermont&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/nodiscrg/ct.html&quot;&gt;No Discharges Zones in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/npdes/vt.html&quot;&gt;NPDES Permits for Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/soakuptherain/local-organizations-help-you-soak-rain#vt&quot;&gt;Soak Up the Rain: Local Organizations in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/tmdl/region-1-approved-tmdls-state#tmdl-vt&quot;&gt;Total Maximum Daily Loads (Approved) for Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/wqs-tech/water-quality-standards-regulations-vermont&quot;&gt;Water Quality Standards Specific to Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://healthvermont.gov/enviro/water/recwater.aspx&quot;&gt;VT Department of Health - Healthy Recreational Waters&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h3&gt;Water in New England&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/publicnotices/actions-open-public-comment-epa-new-england#enforcement&quot;&gt;Clean Water Act Public Notices&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/ocean-dumping/managing-ocean-dumping-epa-region-1&quot;&gt;Managing Ocean Dumping Off of Region 1&#039;s Coasts&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/drinkwater/index.html&quot;&gt;New England Drinking Water Program&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/nodiscrg/index.html&quot;&gt;No Discharge Zones&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Sustainable Water Infrastructure
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/eco/drinkwater/dwsrf.html&quot;&gt;Drinking Water State Revolving Fund&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/sso/&quot;&gt;Eliminating Sanitary Sewer Overflows in New England&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/soakuptherain&quot;&gt;Soak Up the Rain&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/tmdl/impaired-waters-and-tmdls-new-england&quot;&gt;Total Maximum Daily Load (TMDL)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/uic/underground-injection-control-epa-region-1-ct-me-ma-nh-ri-and-vt&quot;&gt;Underground Injection Control Program in EPA Region 1&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.midwestbiodiversityinst.org/publications?type=r&amp;amp;page=1&quot;&gt;Midwest Biodiversity Institute: Reports&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.midwestbiodiversityinst.org/reports/36/MBI New England REMAP MAIN REPORT 20151231.pdf&quot;&gt;Development of Methods and Designs for the Assessment of the Fish Assemblages of Non-Wadeable Rivers in New England (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(181 pp, 13.6 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;
+						&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.midwestbiodiversityinst.org/reports/36/MBI New England REMAP APPENDICES 20151231.pdf&quot;&gt;Appendices (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(748 pp, 21.3 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;Enforcement&quot;&gt;
+		&lt;h3&gt;Compliance &amp;amp; Enforcement in Vermont&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;Compliance Dashboards for Vermont&lt;br /&gt;
+				See trends in environmental compliance and enforcement. The dashboards provide an easy-to-use summary of activities to answer questions like: which facilities are regulated, how many have been inspected or otherwise evaluated, and how many have alleged violations and have been subject to enforcement.
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/trends/comparative-maps-dashboards/state-air-dashboard?view=activity&amp;amp;state=VT&quot;&gt;Air Dashboard&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/trends/comparative-maps-dashboards/drinking-water-dashboard?state=Vermont&quot;&gt;Drinking Water Dashboard&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/trends/comparative-maps-dashboards/state-hazardous-waste-dashboard?view=activity&amp;amp;state=VT&quot;&gt;Hazardous Waste Dashboard&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/trends/comparative-maps-dashboards/state-pest-dashboard?state=Vermont&quot;&gt;Pesticide Dashboard&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/trends/comparative-maps-dashboards/state-water-dashboard?state=Vermont&quot;&gt;Water Dashboard&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/compliance/vermont-state-review-framework&quot;&gt;State Review Framework Reports Assessing EPA and State Enforcement of Environmental Laws in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;VT DEC &lt;a href=&quot;http://dec.vermont.gov/environmental-assistance&quot;&gt;Environmental Assistance&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://dec.vermont.gov/enforcement&quot;&gt;Environmental Enforcement&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/lead/reporting-violation-lead-paint-rules-new-england&quot;&gt;Reporting a Violation of Lead Paint Rules in New England&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/lead/forms/epa-new-england-lead-based-paint-disclosure-rule-tipcomplaint-form&quot;&gt;Lead-Based Paint Disclosure Rule Tip/Complaint Form&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/lead/forms/epa-new-england-lead-based-paint-renovation-repair-painting-rule-tipcomplaint-form&quot;&gt;Lead-Based Paint Renovation, Repair &amp;amp; Painting Rule Tip/Complaint Form&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;div class=&quot;box multi related-info&quot; id=&quot;ECHOSearch&quot;&gt;
+			&lt;h2 class=&quot;pane-title&quot;&gt;ECHO&lt;/h2&gt;
+
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;p&gt;Use EPA&#039;s ECHO website to search for facilities in your community to assess their compliance with environmental regulations. You can also investigate pollution sources, examine and create enforcement-related maps, or explore your state&#039;s performance. &lt;a href=&quot;https://echo.epa.gov/resources/general-info/learn-more-about-echo&quot;&gt;Learn more about ECHO&lt;/a&gt;.&lt;/p&gt;
+
+				&lt;form action=&quot;https://echo.epa.gov/facilities/facility-search/results&quot; id=&quot;searchTextForm&quot; method=&quot;post&quot; name=&quot;searchTextForm&quot; target=&quot;_blank&quot;&gt;&lt;label for=&quot;searchText&quot;&gt;Search Community&lt;/label&gt; &lt;input id=&quot;searchText&quot; name=&quot;searchText&quot; placeholder=&quot;Enter city, state and/or zip code&quot; size=&quot;40&quot; title=&quot;Search results open in a new window/tab.&quot; value=&quot;Enter city, state and/or zip code&quot; type=&quot;text&quot; /&gt;&lt;input id=&quot;SubmitECHO&quot; title=&quot;Search results open in a new window/tab.&quot; value=&quot;Search&quot; type=&quot;submit&quot; /&gt; 
+					&lt;p&gt;&lt;a href=&quot;https://echo.epa.gov/facilities/facility-search&quot;&gt;More Search Options &lt;/a&gt;&lt;/p&gt;
+				&lt;/form&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;Cleanups&quot;&gt;
+		&lt;h3&gt;Land and Waste Cleanups in Vermont&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Vermont%20AND%20%20FIELD%20FS_SiteTypeTmp%20CONTAINS%20%22Brownfields%20%28BF%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;Brownfields in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:35::::35:P35_BF_ASSESS_IND,P35_BF_ASSESS_PILOT_IND,P35_BF_CLEANUP_IND,P35_BF_RLF_IND,P35_BF_RLF_PILOT_IND,P35_BF_128A_IND,P35_BF_TBA_IND,P35_FF_BRAC_IND,P35_FF_RCRA_IND,P35_FF_SF_IND,P35_RCRA_CURRENT_IND,P35_RCRA_REMEDY_SEL_IND,P35_RCRA_CONSTR_COMPLT_IND,P35_RCRA_REMEDY_COMPLT_IND,P35_RCRA_REMEDY_NYS_IND,P35_SF_NPL_CODE,P35_SF_NPL_CODE_F,P35_SF_NPL_CODE_D,P35_STIMULUS_SF_IND,P35_STIMULUS_BF_IND,P35_State_code,P35_city_name,P35_BASIC_QUERY:Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,P,F,D,Y,Y,VT,&quot;&gt;List of All Cleanups in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:73::::71:P71_WELSEARCH:VT|State|VT|||true|true|true|true|true|true||-1|sites|N|basic&quot;&gt;Map of All Cleanups in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/removal-sites/index.html?Vermont&quot;&gt;Removal Actions &amp;amp; Emergency Responses in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Vermont%20AND%20%20FIELD%20FS_SiteTypeTmp%20CONTAINS%20%22RCRA%20Corrective%20Action%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=1&amp;amp;target=_top&quot;&gt;Resource Conservation and Recovery Act (RCRA) Cleanups in Vermont&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Vermont%20AND%20%20FIELD%20FS_SiteType_Disp%20CONTAINS%20%22Long%20Term/National%20Priorities%20List%20%28NPL%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;Superfund in Vermont&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h3&gt;Land and Waste Cleanups in New England&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cleanups/cleaning-new-england&quot;&gt;Find New England Cleanup Sites&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/brownfields/brownfields-and-land-revitalization-connecticut-maine-massachusetts-new-hampshire-rhode&quot;&gt;Brownfields and Land Revitalization in New England&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/superfund/search-superfund-sites-where-you-live#region-1&quot;&gt;National Priorities List (NPL) Superfund Sites in New England&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;ToxicReleases&quot;&gt;
+		&lt;h3&gt;Toxic Releases in Vermont&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/triexplorer/tri_factsheet.factsheet_forstate?&amp;amp;pstate=VT&amp;amp;pyear=2014&amp;amp;pDataSet=TRIQ1&quot;&gt;Most Recent Fact Sheet on the Management of Certain Toxic Chemicals in State of Vermont&lt;/a&gt; from &lt;a href=&quot;/toxics-release-inventory-tri-program&quot;&gt;EPA&#039;s Toxic Release Inventory&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;div class=&quot;box multi related-info&quot; id=&quot;TRISearch&quot;&gt;
+			&lt;h2 class=&quot;pane-title&quot;&gt;Get TRI Summary Information&lt;/h2&gt;
+
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;p&gt;The Toxics Release Inventory is a resource for learning about toxic chemical releases and pollution prevention activities reported by industrial and federal facilities. TRI data support informed decision-making by communities, government agencies, industries, and others. &lt;a href=&quot;/toxics-release-inventory-tri-program&quot;&gt;Learn more about TRI&lt;/a&gt;.&lt;/p&gt;
+
+				&lt;form action=&quot;https://iaspub.epa.gov/enviro/find.trifactssheet&quot; id=&quot;TRIFACTSSHEET&quot; method=&quot;get&quot; name=&quot;TRIFACTSSHEET&quot; target=&quot;_blank&quot;&gt;&lt;label for=&quot;TRIFACTSSHEETinp&quot;&gt;See a TRI snapshot for a: &lt;/label&gt; &lt;input checked=&quot;checked&quot; name=&quot;pType&quot; value=&quot;zip&quot; type=&quot;radio&quot; /&gt; ZIP Code&lt;br /&gt;&lt;input name=&quot;pType&quot; value=&quot;city&quot; type=&quot;radio&quot; /&gt; City, State&lt;br /&gt;&lt;input name=&quot;pType&quot; value=&quot;county&quot; type=&quot;radio&quot; /&gt; County, State&lt;br /&gt;&lt;input id=&quot;TRIFACTSSHEETinp&quot; name=&quot;pLocation&quot; placeholder=&quot;Enter zip code / city, state / county, state&quot; size=&quot;40&quot; title=&quot;Search results open in a new window/tab.&quot; value=&quot;Enter zip code / city, state / county, state&quot; type=&quot;text&quot; /&gt;&lt;input id=&quot;SubmitTRI&quot; title=&quot;Search results open in a new window/tab.&quot; value=&quot;Search&quot; type=&quot;submit&quot; /&gt; &lt;/form&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;Pesticides&quot;&gt;
+		&lt;h3&gt;Pesticides in Connecticut&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://npic.orst.edu/mlrDetail.html?lang=en&amp;amp;to=SPE&amp;amp;state=VT#statePesticide&quot;&gt;VT Agency of Agriculture, Food &amp;amp; Markets, Agricultural Resource Management &amp;amp; Environmental Stewardship&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;Grants&quot;&gt;
+		&lt;h3&gt;Grants in New England&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/grants/grants-your-region-information-specific-epa-region-1&quot;&gt;Grants Information Specific to Region 1&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 29 Apr 2015 15:32:16 +0000</pubDate>
+ <dc:creator>jng</dc:creator>
+ <guid isPermaLink="false">82437 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Popular Resources for Vermont</title>
+    <link>https://www.epa.gov/vt/popular-resources-vermont</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://airnow.gov/index.cfm?action=airnow.local_state&amp;amp;stateid=47&quot;&gt;View Map of Current Air Quality for Vermont&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://echo.epa.gov/facilities/facility-search/results?state=VT&amp;amp;activeOp=Y&quot;&gt;Find Enforcement Efforts in Vermont&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/aboutepa/epa-region-1-new-england&quot;&gt;About EPA&#039;s Region 1 (New England) Office in Boston&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/foia/foia-request-process&quot;&gt;Submit a Freedom of Information Act (FOIA) Request&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/npdes/vt.html&quot;&gt;Learn About Vermont Wastewater Permits (&lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt;)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 29 Apr 2015 15:30:21 +0000</pubDate>
+ <dc:creator>jng</dc:creator>
+ <guid isPermaLink="false">82435 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA News Affecting Vermont Communities</title>
+    <link>https://www.epa.gov/vt/epa-news-affecting-vermont-communities</link>
+    <description>&lt;p&gt;Click on data points for more information.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe id=&quot;EnvMap&quot; scrolling=&quot;no&quot; src=&quot;https://epa.maps.arcgis.com/apps/Embed/index.html?webmap=adc73cc0c1324248933f420b96cf1365&amp;amp;extent=-76.707731, 42.472192, -68.270231, 45.282707&amp;amp;zoom=true&amp;amp;scale=true&amp;amp;theme=light&amp;amp;level=8&quot; width=&quot;930&quot; height=&quot;600&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 29 Apr 2015 15:19:16 +0000</pubDate>
+ <dc:creator>jng</dc:creator>
+ <guid isPermaLink="false">82423 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us About EPA in Vermont</title>
+    <link>https://www.epa.gov/vt/forms/contact-us-about-epa-vermont</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you&#039;d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;U.S. EPA New England&lt;br /&gt;
+	5 Post Office Square, Suite 100&lt;br /&gt;
+	Boston, MA 02109-3912&lt;/p&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 15:54:09 +0000</pubDate>
+ <dc:creator>jng</dc:creator>
+ <guid isPermaLink="false">61587 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:27:41, expires @ 2017-01-26 04:27:41, lifetime 12 hours -->

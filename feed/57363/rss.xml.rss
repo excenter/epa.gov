@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/57363/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Trends</title>
+    <link>https://www.epa.gov/feed/57363/rss.xml</link>
+    <description>Updated Air Trends content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/57363/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Particulate Matter (PM10) Trends</title>
+    <link>https://www.epa.gov/air-trends/particulate-matter-pm10-trends</link>
+    <description>
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#pmnat&quot;&gt;National Trends in PM&lt;sub&gt;10&lt;/sub&gt; Levels&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#pmreg&quot;&gt;Regional Trends in PM&lt;sub&gt;10&lt;/sub&gt; Levels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;pmnat&quot; name=&quot;pmnat&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;National Trends in PM&lt;sub&gt;10&lt;/sub&gt; Levels&lt;/h3&gt;
+
+&lt;p&gt;Using a nationwide network of monitoring sites, EPA has developed ambient air quality trends for particle pollution, also called Particulate Matter (PM). PM&lt;sub&gt;10&lt;/sub&gt; describes inhalable particles, with diameters that are generally 10 micrometers and smaller.  Under the Clean Air Act, EPA sets and reviews national air quality standards for PM. Air quality monitors measure concentrations of PM throughout the country. EPA, state, tribal and local agencies use that data to ensure that PM in the air is at levels that protect public health and the environment. Nationally, average PM&lt;sub&gt;10&lt;/sub&gt; concentrations have decreased over the years. For information on PM standards, sources, health effects, and programs to reduce PM, please see &lt;a href=&quot;/pm-pollution&quot;&gt;www.epa.gov/pm-pollution&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;button id=&quot;natplot1&quot;&gt;1990-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot2&quot;&gt;2000-2015 Trend&lt;/button&gt;&lt;/p&gt;
+
+&lt;div id=&quot;natplotpm10&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;pmreg&quot; name=&quot;pmreg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;Regional Trends in PM&lt;sub&gt;10&lt;/sub&gt; Levels&lt;/h3&gt;
+
+&lt;p&gt;Air quality trends can vary regionally. The following climatically consistent regions within the contiguous United States provide a relevant way to look at regional trends in air quality.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-block_header caption&quot; style=&quot;width:525px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-05/us-climate-regions_0.gif&quot;&gt;&lt;img alt=&quot;U.S. Climate Regions from NOAA&amp;#039;s National Climatic Data Center&quot; height=&quot;329&quot; width=&quot;525&quot; class=&quot;left media-element file-block-header left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/block_header/public/2016-05/us-climate-regions_0.gif&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Source: &lt;a href=&quot;http://www.ncdc.noaa.gov/temp-and-precip/us-climate-regions.php&quot;&gt;NOAA National Climatic Data Center&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;Select a region: (graph appears below)&lt;/p&gt;
+
+&lt;form&gt;&lt;!--&lt;label for=&quot;region&quot;&gt;&lt;strong&gt;Select a region&lt;/strong&gt;: (graph below)&lt;/label&gt;--&gt;&lt;select id=&quot;region&quot; name=&quot;region&quot; size=&quot;9&quot;&gt;&lt;!-- Note that all URLs in this selection box must be absolute --&gt;&lt;option value=&quot;1&quot;&gt;Central&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Upper Midwest&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Northeast&lt;/option&gt;&lt;option value=&quot;4&quot;&gt;Northwest&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;South&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Southeast&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Southwest&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;West&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Northern Rockies and Plains&lt;/option&gt;&lt;/select&gt;&lt;/form&gt;
+
+&lt;div id=&quot;regplotpm10&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 19 Jul 2016 14:51:08 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">155231 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Particulate Matter (PM2.5) Trends</title>
+    <link>https://www.epa.gov/air-trends/particulate-matter-pm25-trends</link>
+    <description>
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;PM&lt;sub&gt;2.5&lt;/sub&gt; Data Omitted from Air Trends Assessment&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;EPA has identified data quality issues affecting PM&lt;sub&gt;2.5&lt;/sub&gt; monitoring data in some states. This data is not included in the PM&lt;sub&gt;2.5&lt;/sub&gt; trends assessment or summary tables on this website. &lt;a href=&quot;/air-trends/pm25-data-omitted-air-trends-assessment&quot;&gt;More information&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#pmnat&quot;&gt;National Trends in PM&lt;sub&gt;2.5&lt;/sub&gt; Levels&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#pmreg&quot;&gt;Regional Trends in PM&lt;sub&gt;2.5&lt;/sub&gt; Levels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;pmnat&quot; name=&quot;pmnat&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;National Trends in PM&lt;sub&gt;2.5&lt;/sub&gt; Levels&lt;/h3&gt;
+
+&lt;p&gt;Using a nationwide network of monitoring sites, EPA has developed ambient air quality trends for particle pollution, also called Particulate Matter (PM). PM&lt;sub&gt;2.5&lt;/sub&gt; describes fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.  Under the Clean Air Act, EPA sets and reviews national air quality standards for PM. Air quality monitors measure concentrations of PM throughout the country. EPA, state, tribal and local agencies use that data to ensure that PM in the air is at levels that protect public health and the environment. Nationally, average PM&lt;sub&gt;2.5&lt;/sub&gt; concentrations have decreased over the years. For information on PM standards, sources, health effects, and programs to reduce PM, please see &lt;a href=&quot;/pm-pollution&quot;&gt;www.epa.gov/pm-pollution&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;div id=&quot;natplotpm25&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;pmreg&quot; name=&quot;pmreg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;Regional Trends in PM&lt;sub&gt;2.5&lt;/sub&gt; Levels&lt;/h3&gt;
+
+&lt;p&gt;Air quality trends can vary regionally. The following climatically consistent regions within the contiguous United States provide a relevant way to look at regional trends in air quality.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-block_header caption&quot; style=&quot;width:525px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-05/us-climate-regions_0.gif&quot;&gt;&lt;img alt=&quot;U.S. Climate Regions from NOAA&amp;#039;s National Climatic Data Center&quot; height=&quot;329&quot; width=&quot;525&quot; class=&quot;left media-element file-block-header left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/block_header/public/2016-05/us-climate-regions_0.gif&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Source: &lt;a href=&quot;http://www.ncdc.noaa.gov/temp-and-precip/us-climate-regions.php&quot;&gt;NOAA National Climatic Data Center&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;Select a region: (graph appears below)&lt;/p&gt;
+
+&lt;form&gt;&lt;!--&lt;label for=&quot;region&quot;&gt;&lt;strong&gt;Select a region&lt;/strong&gt;: (graph below)&lt;/label&gt;--&gt;&lt;select id=&quot;region&quot; name=&quot;region&quot; size=&quot;9&quot;&gt;&lt;!-- Note that all URLs in this selection box must be absolute --&gt;&lt;option value=&quot;1&quot;&gt;Central&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Upper Midwest&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Northeast&lt;/option&gt;&lt;option value=&quot;4&quot;&gt;Northwest&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;South&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Southeast&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Southwest&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;West&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Northern Rockies and Plains&lt;/option&gt;&lt;/select&gt;&lt;/form&gt;
+
+&lt;div id=&quot;regplotpm25&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 19 Jul 2016 13:28:33 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">155213 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PM2.5 Data Omitted from Air Trends Assessment</title>
+    <link>https://www.epa.gov/air-trends/pm25-data-omitted-air-trends-assessment</link>
+    <description>&lt;p&gt;Through a combination of regularly scheduled technical systems audits of non-EPA laboratories processing state PM&lt;sub&gt;2.5&lt;/sub&gt; monitoring data and additional assessments of data quality, EPA has identified data quality issues that affect Florida, Illinois, most of Tennessee and parts of Kentucky. EPA has made a preliminary determination that this data should not be used for regulatory purposes. Until a final determination has been made, EPA has moved the data in the Air Quality System database for the PM&lt;sub&gt;2.5&lt;/sub&gt; sites in question from parameter code 88101 (PM&lt;sub&gt;2.5&lt;/sub&gt; at local conditions; used for regulatory data) to parameter code 88501 (PM&lt;sub&gt;2.5&lt;/sub&gt; raw data). This change will clarify to data users that data from these sites should not be compared to the PM&lt;sub&gt;2.5&lt;/sub&gt; National Ambient Air Quality Standards until EPA has made a final validity determination. This data is not included in the PM&lt;sub&gt;2.5&lt;/sub&gt; trends assessment or summary tables on this website.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 15 Jul 2016 13:59:00 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">155013 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Quality Trends - How to Interpret the Graphs</title>
+    <link>https://www.epa.gov/air-trends/air-quality-trends-how-interpret-graphs</link>
+    <description>&lt;p&gt;The blue band shows the distribution of air pollution levels among the trend sites, displaying the middle 80 percent. The white line represent the average among all the trend sites. Ninety percent of sites have concentrations below the top line, while ten percent of sites have concentrations below the bottom line. &lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:440px;&quot;&gt;&lt;img alt=&quot;Example graph to explain the trend graphs for the pollutants&quot; height=&quot;231&quot; width=&quot;440&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-05/exampletrendgraph.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;For each pollutant, the trend statistic is directly related to the level and averaging time of the National Ambient Air Quality Standard (NAAQS). For more information regarding the levels and averaging times for the NAAQS statistics, see the &lt;a href=&quot;/criteria-air-pollutants/naaqs-table&quot;&gt;NAAQS Table&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 16 May 2016 17:23:10 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">149681 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Trends in Ozone Adjusted for Weather Conditions</title>
+    <link>https://www.epa.gov/air-trends/trends-ozone-adjusted-weather-conditions</link>
+    <description>&lt;p&gt;Variations in weather conditions play an important role in determining ozone concentrations. Ozone is more readily formed on warm, sunny days when the air is stagnant. Conversely, ozone production is more limited when it is cloudy, cool, rainy, or windy. EPA uses a statistical model to adjust for the variability in seasonal ozone concentrations due to weather to provide a more accurate assessment of the underlying trend in ozone caused by emissions.&lt;/p&gt;
+
+&lt;p&gt;The graphs below show the national trends in the May - September average of the daily maximum 8-hour ozone concentrations from 2000 to 2015 in urban and rural locations, respectively. The dotted red lines show the trend in observed ozone concentrations at selected monitoring sites, while the solid blue lines show the underlying ozone trend at those sites after removing the effects of weather. The solid blue lines represent ozone levels anticipated under average weather conditions and serve as a more accurate assessment of the trend in ozone due to changes in precursor emissions. For example, below average temperatures and above average humidity in the Eastern US in the summer of 2009 contributed to decreased ozone formation, while above average temperatures and below average humidity in the Central and Eastern US in 2012 contributed to increased ozone formation. The statistical model accounts for these effects by adjusting the seasonal average ozone trend upward in 2009 and downward in 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:750px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-06/_urban2000_2015.jpeg&quot;&gt;&lt;img alt=&quot;This graph shows the national trend in the May - September average of the daily maximum 8-hour ozone concentrations from 2000 to 2015 in urban locations.&quot; title=&quot;This graph shows the national trend in the May - September average of the daily maximum 8-hour ozone concentrations from 2000 to 2015 in urban locations.&quot; height=&quot;450&quot; width=&quot;750&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-06/_urban2000_2015.jpeg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:750px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-06/_rural2000_2015.jpeg&quot;&gt;&lt;img alt=&quot;This graph shows the national trend in the May - September average of the daily maximum 8-hour ozone concentrations from 2000 to 2015 in rural locations.&quot; title=&quot;This graph shows the national trend in the May - September average of the daily maximum 8-hour ozone concentrations from 2000 to 2015 in rural locations.&quot; height=&quot;450&quot; width=&quot;750&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-06/_rural2000_2015.jpeg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Summertime weather patterns may differ across various regions of the US, therefore it is often useful to examine regional ozone trends. For example, the summer of 2009 was dominated by cooler than average weather in the Northeast region, but warmer than average weather in the Northwest region. Thus, the trends in these two regions are adjusted in opposite directions in 2009.  Here are zip files of regiona&lt;span&gt;l&lt;/span&gt;&lt;span&gt; and location-specific &lt;/span&gt;&lt;span&gt;trend graphs:&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-291015&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-06/_metadj_regions.zip&quot; type=&quot;application/zip; length=1167948&quot; class=&quot;file-link&quot;&gt;Met adjusted regions 2015 zip file&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-291017&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-06/_metadj_all.zip&quot; type=&quot;application/zip; length=20174027&quot; class=&quot;file-link&quot;&gt;Met adjusted all locations 2015 zip file&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(161 pp, 20 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The statistical model used by EPA to determine the adjustments to the ozone trend is fit independently in each location using local ozone and weather data. However, the results tend to have a strong geographic coherence. The maps below illustrate the spatial pattern in the adjustments to the observed ozone trend across the nation in 2009 and 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:750px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-06/_adjmap_2009.jpeg&quot;&gt;&lt;img alt=&quot;This map illustrates the spatial pattern in meteorological adjustments to the observed ozone trend across the nation in 2009.&quot; title=&quot;This map illustrates the spatial pattern in meteorological adjustments to the observed ozone trend across the nation in 2009.&quot; height=&quot;550&quot; width=&quot;750&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-06/_adjmap_2009.jpeg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:750px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-06/_adjmap_2012.jpeg&quot;&gt;&lt;img alt=&quot;This map illustrates the spatial pattern in meteorological adjustments to the observed ozone trend across the nation in 2012.&quot; title=&quot;This map illustrates the spatial pattern in meteorological adjustments to the observed ozone trend across the nation in 2012.&quot; height=&quot;550&quot; width=&quot;750&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-06/_adjmap_2012.jpeg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are maps of the annual adjustments to the observed ozone trend for 2000 to 2015 - &lt;span id=&quot;file-291025&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-06/_metadj_maps.zip&quot; type=&quot;application/zip; length=3049606&quot; class=&quot;file-link&quot;&gt;Met Adjusted Maps 2000-2015&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Additional Resources&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/j.atmosenv.2007.04.061&quot;&gt;Technical Approach&lt;/a&gt; - Louise Camalier, William Cox, and Pat Dolwick. The Effects of Meteorology on Ozone in Urban Areas and their use in Assessing Ozone Trends. Atmospheric Environment, Volume 41, Issue 33, October 2007, pages 7127-7137.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/1352-2310(95)00346-0&quot;&gt;Reference&lt;/a&gt; - William Cox and Shao-Hang Chu. Assessment of Interannual Ozone Variation in Urban Areas from a Climatological Perspective. Atmospheric Environment, Volume 30, Issue 14, July 1996, pages 2615-2625.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 06 May 2016 17:15:40 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">148847 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sulfur Dioxide Trends</title>
+    <link>https://www.epa.gov/air-trends/sulfur-dioxide-trends</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#sonat&quot;&gt;National Trends in Sulfur Dioxide Levels&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#soreg&quot;&gt;Regional Trends in Sulfur Dioxide Levels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;sonat&quot; name=&quot;sonat&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+&lt;h3&gt;National Trends in Sulfur Dioxide Levels&lt;/h3&gt;
+
+&lt;p&gt;Using a nationwide network of monitoring sites, EPA has developed ambient air quality trends for sulfur dioxide (SO2). Trends starting in 1980, 1990, and 2000 are shown here. Under the Clean Air Act, EPA sets and reviews national air quality standards for SO2. Air quality monitors measure concentrations of SO2 throughout the country. EPA, state, tribal and local agencies use that data to ensure that SO2 in the air is at levels that protect public health and the environment. Nationally, average SO2 concentrations have decreased substantially over the years. For information on SO2 standards, sources, health effects, and programs to reduce SO2, please see &lt;a href=&quot;/so2-pollution&quot;&gt;www.epa.gov/so2-pollution&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;button id=&quot;natplot1&quot;&gt;1980-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot2&quot;&gt;1990-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot3&quot;&gt;2000-2015 Trend&lt;/button&gt;&lt;/p&gt;
+
+&lt;div id=&quot;natplot&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;soreg&quot; name=&quot;soreg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+&lt;h3&gt;Regional Trends in Sulfur Dioxide Levels&lt;/h3&gt;
+
+&lt;p&gt;Air quality trends can vary regionally. The following climatically consistent regions within the contiguous United States provide a relevant way to look at regional trends in air quality.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-block_header caption&quot; style=&quot;width:525px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-05/us-climate-regions_0.gif&quot;&gt;&lt;img alt=&quot;U.S. Climate Regions from NOAA&amp;#039;s National Climatic Data Center&quot; height=&quot;329&quot; width=&quot;525&quot; class=&quot;left media-element file-block-header left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/block_header/public/2016-05/us-climate-regions_0.gif&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Source: &lt;a href=&quot;http://www.ncdc.noaa.gov/temp-and-precip/us-climate-regions.php&quot;&gt;NOAA National Climatic Data Center&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;Select a region: (graph appears below)&lt;/p&gt;
+
+&lt;form&gt;&lt;select id=&quot;region&quot; name=&quot;region&quot; size=&quot;8&quot;&gt;&lt;!-- Note that all URLs in this selection box must be absolute --&gt;&lt;option value=&quot;1&quot;&gt;Central&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Upper Midwest&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Northeast&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;South&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Southeast&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Southwest&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;West&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Northern Rockies and Plains&lt;/option&gt;&lt;/select&gt;&lt;/form&gt;
+
+&lt;p&gt;&lt;small&gt;Note: The Northwest region does not have enough data to construct a regional trend for sulfur dioxide.&lt;/small&gt;&lt;/p&gt;
+
+&lt;div id=&quot;regplot&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 04 May 2016 20:20:55 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">148667 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ozone Trends</title>
+    <link>https://www.epa.gov/air-trends/ozone-trends</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Trends in Ozone Adjusted for Weather Conditions&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;EPA uses a statistical model to account for the weather-related variability of seasonal ozone concentrations to provide a more accurate assessment of the underlying trend in the precursor emissions that cause ozone.  &lt;a href=&quot;/air-trends/trends-ozone-adjusted-weather-conditions&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#oznat&quot;&gt;National Trends in Ozone Levels&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ozreg&quot;&gt;Regional Trends in Ozone Levels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;oznat&quot; name=&quot;oznat&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;National Trends in Ozone Levels&lt;/h3&gt;
+
+&lt;p&gt;Using a nationwide network of monitoring sites, EPA has developed ambient air quality trends for ozone. Trends are shown here for the 8-hour ozone standards. Under the Clean Air Act, EPA sets and reviews national air quality standards for ozone. Air quality monitors measure concentrations of ozone throughout the country. EPA, state, tribal and local agencies use that data to ensure that ozone is at levels that protect public health and the environment. Nationally, average ozone levels declined in the 1980&#039;s, leveled off in the 1990&#039;s, and showed a notable decline after 2002. For information on ozone standards, sources, health effects, and programs to reduce ozone, please see &lt;a href=&quot;/ozone-pollution&quot;&gt;www.epa.gov/ozone-pollution&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;button id=&quot;natplot1&quot;&gt;1980-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot2&quot;&gt;1990-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot3&quot;&gt;2000-2015 Trend&lt;/button&gt;&lt;/p&gt;
+
+&lt;div id=&quot;natplot&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;ozreg&quot; name=&quot;ozreg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;h3&gt;Regional Trends in Ozone Levels&lt;/h3&gt;
+
+&lt;p&gt;Air quality trends can vary regionally. The following climatically consistent regions within the contiguous United States provide a relevant way to look at regional trends in air quality.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-block_header caption&quot; style=&quot;width:525px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-05/us-climate-regions_0.gif&quot;&gt;&lt;img alt=&quot;U.S. Climate Regions from NOAA&amp;#039;s National Climatic Data Center&quot; height=&quot;329&quot; width=&quot;525&quot; class=&quot;left media-element file-block-header left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/block_header/public/2016-05/us-climate-regions_0.gif&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Source: &lt;a href=&quot;http://www.ncdc.noaa.gov/temp-and-precip/us-climate-regions.php&quot;&gt;NOAA National Climatic Data Center&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;Select a region: (graph appears below)&lt;/p&gt;
+
+&lt;form&gt;&lt;select id=&quot;region&quot; name=&quot;region&quot; size=&quot;9&quot;&gt;&lt;option value=&quot;1&quot;&gt;Central&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Upper Midwest&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Northeast&lt;/option&gt;&lt;option value=&quot;4&quot;&gt;Northwest&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;South&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Southeast&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Southwest&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;West&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Northern Rockies and Plains&lt;/option&gt;&lt;/select&gt;&lt;/form&gt;
+
+&lt;div id=&quot;regplot&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 04 May 2016 20:16:39 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">148663 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Nitrogen Dioxide Trends</title>
+    <link>https://www.epa.gov/air-trends/nitrogen-dioxide-trends</link>
+    <description>&lt;div&gt;On this page:
+	&lt;div&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#nonat&quot;&gt;National Trends in Nitrogen Dioxide Levels&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#noreg&quot;&gt;Regional Trends in Nitrogen Dioxide Levels&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;nonat&quot; name=&quot;nonat&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+		&lt;h3&gt;National Trends in Nitrogen Dioxide Levels&lt;/h3&gt;
+
+		&lt;p&gt;Using a nationwide network of monitoring sites, EPA has developed ambient air quality trends for nitrogen dioxide (NO2). Under the Clean Air Act, EPA sets and reviews national air quality standards for NO2. Air quality monitors measure concentrations of NO2 throughout the country. EPA, state, tribal and local agencies use that data to ensure that NO2 in the air is at levels that protect public health and the environment. Nationally, average NO2 concentrations have decreased substantially over the years. For information on NO2 standards, sources, health effects, and programs to reduce NO2, please see &lt;a href=&quot;/airquality/nitrogenoxides&quot;&gt;www.epa.gov/airquality/nitrogenoxides/&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;button id=&quot;natplot1&quot;&gt;1980-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot2&quot;&gt;1990-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot3&quot;&gt;2000-2015 Trend&lt;/button&gt;&lt;/p&gt;
+
+		&lt;div id=&quot;natplot&quot;&gt; &lt;/div&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;noreg&quot; name=&quot;noreg&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+		&lt;h3&gt;Regional Trends in Nitrogen Dioxide Levels&lt;/h3&gt;
+
+		&lt;p&gt;Air quality trends can vary regionally. The following climatically consistent regions within the contiguous United States provide a relevant way to look at regional trends in air quality.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-block_header caption&quot; style=&quot;width:525px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-05/us-climate-regions_0.gif&quot;&gt;&lt;img alt=&quot;U.S. Climate Regions from NOAA&amp;#039;s National Climatic Data Center&quot; height=&quot;329&quot; width=&quot;525&quot; class=&quot;left media-element file-block-header left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/block_header/public/2016-05/us-climate-regions_0.gif&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Source: &lt;a href=&quot;http://www.ncdc.noaa.gov/temp-and-precip/us-climate-regions.php&quot;&gt;NOAA National Climatic Data Center&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;Select a region: (graph appears below)&lt;/p&gt;
+
+		&lt;form&gt;&lt;select id=&quot;region&quot; name=&quot;region&quot; size=&quot;8&quot;&gt;&lt;!-- Note that all URLs in this selection box must be absolute --&gt;&lt;option value=&quot;1&quot;&gt;Central&lt;/option&gt;&lt;option value=&quot;2&quot;&gt;Upper Midwest&lt;/option&gt;&lt;option value=&quot;3&quot;&gt;Northeast&lt;/option&gt;&lt;option value=&quot;5&quot;&gt;South&lt;/option&gt;&lt;option value=&quot;6&quot;&gt;Southeast&lt;/option&gt;&lt;option value=&quot;7&quot;&gt;Southwest&lt;/option&gt;&lt;option value=&quot;8&quot;&gt;West&lt;/option&gt;&lt;option value=&quot;9&quot;&gt;Northern Rockies and Plains&lt;/option&gt;&lt;/select&gt;&lt;/form&gt;
+
+		&lt;p&gt;&lt;small&gt;Note: The Northwest region does not have enough data to construct a regional trend for nitrogen dioxide.&lt;/small&gt;&lt;/p&gt;
+
+		&lt;div id=&quot;regplot&quot;&gt; &lt;/div&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 04 May 2016 20:15:06 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">148661 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lead Trends</title>
+    <link>https://www.epa.gov/air-trends/lead-trends</link>
+    <description>&lt;h3&gt;National Trends in Lead Levels&lt;/h3&gt;
+
+&lt;p&gt;Under the Clean Air Act, EPA sets and reviews national air quality standards for lead. Air quality monitors measure concentrations of lead throughout the country. EPA, state, tribal and local agencies use those data to ensure that lead is at levels that protect public health and the environment. EPA has tracked air quality trends for lead using data from this network of monitors. Nationally, average lead concentrations decreased dramatically after EPA&#039;s regulations reduced the lead content in on-road motor vehicle gasoline. For information on lead standards, sources, health effects, and programs to reduce lead, please see &lt;a href=&quot;/lead-air-pollution&quot;&gt;www.epa.gov/lead-air-pollution&lt;/a&gt; and &lt;a href=&quot;/otaq/aviation.htm&quot;&gt;www.epa.gov/otaq/aviation.htm&lt;/a&gt;.&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;/air-trends/air-quality-trends-how-interpret-graphs&quot;&gt;How to Interpret the Graphs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;button id=&quot;natplot1&quot;&gt;1980-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot2&quot;&gt;1990-2015 Trend&lt;/button&gt; &lt;button id=&quot;natplot3&quot;&gt;2000-2015 Trend&lt;/button&gt;&lt;/p&gt;
+
+&lt;div id=&quot;natplot&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</description>
+     <pubDate>Wed, 04 May 2016 20:13:20 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">148659 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:35:31, expires @ 2017-01-26 05:35:31, lifetime 12 hours -->

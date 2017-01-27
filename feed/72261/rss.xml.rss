@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/72261/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Benchmark Dose Software</title>
+    <link>https://www.epa.gov/feed/72261/rss.xml</link>
+    <description>Updated Benchmark Dose Software content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/72261/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>BMDS Sitemap</title>
+    <link>https://www.epa.gov/bmds/bmds-sitemap</link>
+    <description>&lt;p&gt;This page links to all BMDS topics on this site. &lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;About BMDS&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/what-benchmark-dose-software-bmds&quot;&gt;What is Benchmark Dose Software (BMDS)?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-model-code-versions&quot;&gt;Benchmark Dose Software (BMDS) Model Code Versions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;BMDS History&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-announcements&quot;&gt;Benchmark Dose Software (BMDS) Announcements (2007-present)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/timeline-external-reviews-benchmark-dose-software-bmds-models&quot;&gt;Timeline: External Reviews of Benchmark Dose Software (BMDS) Models&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-development-history-1995-present&quot;&gt;Benchmark Dose Software (BMDS) Development History (1995-present)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;BMDS Program and Model Downloads&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-program-model-downloads&quot;&gt;Benchmark Dose Software (BMDS) Program &amp;amp; Model Downloads&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/download-benchmark-dose-software-bmds&quot;&gt;Download Benchmark Dose Software (BMDS)&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-user-manual&quot;&gt;Benchmark Dose Software (BMDS) User Manual&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-2601-readme-file&quot;&gt;Benchmark Dose Software (BMDS) 2.6.0.1 ReadMe file&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/download-benchmark-dose-software-bmds-source-code&quot;&gt;Download Benchmark Dose Software (BMDS) Source Code&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/additional-benchmark-dose-software-bmds-related-model-documentation-downloads&quot;&gt;Additional Benchmark Dose Software (BMDS) Related Model Documentation &amp;amp; Downloads&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/download-benchmark-dose-software-bmds-model-executables&quot;&gt;Download Benchmark Dose Software (BMDS) Model Executables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;BMDS Quick Start Tutorials&lt;/h2&gt;
+
+&lt;h3&gt;Getting Started&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/about-quick-start-guide-benchmark-dose-software-bmds-and-bmds-wizard&quot;&gt;About the Quick Start Guide for BMDS and BMDS Wizard&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/installing-benchmark-dose-software-bmds-and-bmds-wizard&quot;&gt;Installing BMDS and BMDS Wizard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;The Basics - Using BMDS and the BMDS Wizard&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/choosing-use-benchmark-dose-software-bmds-or-bmds-wizard&quot;&gt;Choosing to Use BMDS or BMDS Wizard&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/using-benchmark-dose-software-bmds-quickly-evaluate-single-dichotomous-dataset&quot;&gt;Using BMDS to Evaluate a Single Dichotomous Dataset&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/setting-and-using-bmds-wizard-tips-and-best-practices&quot;&gt;Setting Up and Using BMDS Wizard – Tips and Best Practices&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/bmds-wizard-basics-and-using-bmds-wizard-evaluate-dichotomous-datasets&quot;&gt;BMDS Wizard Basics and Using BMDS Wizard to Evaluate Dichotomous Datasets&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/using-bmds-wizard-evaluate-continuous-datasets&quot;&gt;Using BMDS Wizard to Evaluate Continuous Datasets&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/viewing-text-and-graphics-output-benchmark-dose-software-bmds-and-bmds-wizard&quot;&gt;Viewing Text and Graphics Output in BMDS and BMDS Wizard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Additional Models&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/multiple-tumor-analysis-mscombo-model-use-bmds-wizard&quot;&gt;Multiple-Tumor Analysis with MS_Combo model (Use with BMDS Wizard)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/repeated-responsetoxicodiffusion-modeling-use-benchmark-dose-software-bmds&quot;&gt;Repeated Response/ToxicoDiffusion Modeling (Use with BMDS)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/ten-berge-concentration-x-time-model-use-benchmark-dose-software-bmds&quot;&gt;ten Berge Concentration x Time Model (Use with BMDS)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/nested-dichotomous-data-use-benchmark-dose-software-bmds&quot;&gt;Nested Dichotomous Data (Use with BMDS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;BMDS Training Webinars&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-training-webinars&quot;&gt;Benchmark Dose Software (BMDS) Training Webinars&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-software-bmds-training-webinars-qa-transcripts-errata&quot;&gt;Benchmark Dose Software (BMDS) Training Webinars: Q&amp;amp;A Transcripts &amp;amp; Errata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/benchmark-dose-bmd-methods&quot;&gt;Benchmark Dose (BMD) Methods&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/additional-benchmark-dose-software-bmds-resources&quot;&gt;Additional Dose-Response Resources&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/sor_internet/registry/termreg/searchandretrieve/glossariesandkeywordlists/search.do?details=&amp;amp;vocabName=BMDS%20Glossary&amp;amp;uid=1821254&amp;amp;taxonomyName=BMDS%20Glossaryhttp://ofmpub.epa.gov/sor_internet/registry/termreg/searchandretrieve/glossariesandkeywordlists/search.do?details=&amp;amp;vocabName=BMDS%20Glossary&amp;amp;uid=1821254&amp;amp;taxonomyName=BMDS%20Glossary&quot;&gt;BMDS Glossary&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Contact Us&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/forms/contact-us-about-benchmark-dose-software-bmds&quot;&gt;Contact Us About Benchmark Dose Software (BMDS)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://bmds.epa.gov/eticket/&quot;&gt;BMDS eTicket User Support&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/bmds/forms/get-latest-benchmark-dose-software-bmds-news&quot;&gt;Get the Latest Benchmark Dose Software (BMDS) News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Sat, 25 Jun 2016 15:47:54 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">153257 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Model Averaging Workshop - Final Report</title>
+    <link>https://www.epa.gov/bmds/model-averaging-workshop-final-report</link>
+    <description>&lt;p&gt;EPA’s National Center for Environmental Assessment (NCEA) hosted a &lt;a href=&quot;/bmds/model-averaging-webinar-workshop-announcement&quot;&gt;public workshop on model averaging methods&lt;/a&gt; for dose-response analysis. The workshop was held by webinar in two half-day increments (12:00 PM–4:00 PM EST) on December 10-11, 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;The final report on the workshop has been approved by EPA. The report includes the pre-meeting written responses from discussants, discussants&#039; comments during the workshop to the EPA discussion questions, and their responses to questions asked by workshop audience participants.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-276675&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-04/documents/final_model_averaging_wksp_notes_04-12-16.pdf&quot; type=&quot;application/pdf; length=2475522&quot; class=&quot;file-link&quot;&gt;Model Averaging Workshop - Final Report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(82 pp, 2 MB, 
+  2016-04-12)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Meeting notes and summary from Model Averaging Workshop  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 14 Apr 2016 20:24:36 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">142937 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CatReg User Guide</title>
+    <link>https://www.epa.gov/bmds/catreg-user-guide</link>
+    <description>&lt;div class=&quot;box multi related-info right clear-right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;CatReg Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/catreg&quot;&gt;CatReg Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/download-catreg&quot;&gt;Download CatReg&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/catreg-user-guide&quot;&gt;Download CatReg User Guide&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The CatReg User Guide contains procedures on using the application, along with deeper and more technical reference information on CatReg concepts.&lt;/p&gt;
+
+&lt;p&gt;You can find a copy of this PDF in the CatReg application folder.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-271591&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/catreg_user_guide.pdf&quot; type=&quot;application/pdf; length=1426195&quot; class=&quot;file-link&quot;&gt;CatReg (Categorical Regression) User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 pp, 1 MB, 
+  2016-05-31)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Concepts and procedures for using and understanding CatReg  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 25 Mar 2016 21:36:03 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">141447 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Download CatReg </title>
+    <link>https://www.epa.gov/bmds/download-catreg</link>
+    <description>&lt;div class=&quot;box multi related-info right clear-right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;CatReg Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/catreg&quot;&gt;CatReg Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/download-catreg&quot;&gt;Download CatReg&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/catreg-user-guide&quot;&gt;Download CatReg User Guide&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;box multi related-info right clear-right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;CatReg Version Info&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;CatReg 3.0.1.5 (rel. 2016-05-31)&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;a href=&quot;/bmds/forms/get-latest-benchmark-dose-software-bmds-news&quot;&gt;Sign up&lt;/a&gt; to receive news on the latest updates to CatReg, BMDS, model codes, source code, and more.&lt;/h2&gt;
+
+&lt;p&gt;The CatReg download package includes the most current version of the CatReg software for Windows.&lt;/p&gt;
+
+&lt;p&gt;The download package also includes sample data files and the &lt;a href=&quot;/bmds/catreg-user-guide&quot;&gt;CatReg User Guide&lt;/a&gt; in PDF. You can find these files in the CatReg application folder.&lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#sysreqs&quot;&gt;System Requirements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#uninstalling&quot;&gt;Uninstalling Older CatReg Versions (Optional)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#installing&quot;&gt;Downloading and Installing the Software&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#r-version&quot;&gt;R-only CatReg Version&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#notifications&quot;&gt;Receive Updates on Future Releases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;sysreqs&quot; name=&quot;sysreqs&quot;&gt;&lt;/a&gt;System Requirements&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;16 Megabytes of RAM&lt;/li&gt;
+	&lt;li&gt;Microsoft Windows 7 or later.&lt;/li&gt;
+	&lt;li&gt;Microsoft .NET 4.6 or later. If your computer is set up to allow or be notified of downloads of Microsoft software, then it is likely that that version of the .NET framework is already installed. Otherwise, you can download and install the latest version from &lt;a href=&quot;http://www.microsoft.com/net/default.aspx&quot;&gt;Microsoft .NET Home&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;R statistical software version 3.2.2 or later for Windows. Download and install the latest version from &lt;a href=&quot;https://cran.r-project.org/bin/windows/base/&quot;&gt;The Comprehensive R Archive Network&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;. CatReg relies on the open source package R for Windows to perform all statistical calculations.&lt;/li&gt;
+&lt;/ul&gt;&lt;blockquote&gt;
+	&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; There are no plans at this time to create Macintosh or Linux versions of CatReg 3.0.1.5 at this time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;uninstalling&quot; id=&quot;uninstalling&quot;&gt;&lt;/a&gt;Uninstalling Older CatReg Versions (Optional)&lt;/h2&gt;
+
+&lt;p&gt;You do not need to uninstall previous versions of CatReg.&lt;/p&gt;
+
+&lt;p&gt;However, if you want to uninstall previous versions of CatReg, it is recommended that you retain the directory structure for the folders holding your previous model runs&#039; input and output data files. Keeping those files and folders in place will maintain the functionality of your previous CatReg sessions.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;installing&quot; name=&quot;installing&quot;&gt;&lt;/a&gt;Downloading and Installing the Software&lt;/h2&gt;
+
+&lt;ol start=&quot;1&quot; type=&quot;1&quot;&gt;&lt;li&gt;Download the &lt;span id=&quot;file-289093&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-05/catreg_3015.zip&quot; type=&quot;application/zip; length=1634507&quot; class=&quot;file-link&quot;&gt;CatReg 3.0.1.5 install package (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+	&lt;li&gt;Locate the CatReg.zip file you downloaded. Typical locations for file downloads are the Windows Desktop or the Downloads directory in My Documents.&lt;/li&gt;
+	&lt;li&gt;In Windows Explorer, open the downloaded .zip file. Drag and drop the CATREG folder from the .zip file to the directory of your choice on your computer.&lt;/li&gt;
+&lt;/ol&gt;&lt;div&gt;When installing the CatReg application folder, you should:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Place the CatReg application folder (and its subfolders) in the simplest, shortest directory possible. For most EPA users, the preferred path would be C:\Users\[EPA user&#039;s LAN ID]; for non-EPA users, this could be as simple as C:\.&lt;/li&gt;
+	&lt;li&gt;Have administrative rights for the folder.&lt;/li&gt;
+	&lt;li&gt;Ensure there are no special characters or spaces in the folder names.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Refer to the &lt;span id=&quot;file-289099&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-05/catreg_3015_readme.txt&quot; type=&quot;text/plain; length=3614&quot; class=&quot;file-link&quot;&gt;CatReg 3.0.1.5 Readme file (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 4 K)&lt;/span&gt;&lt;/span&gt;
+ in the CatReg application folder for details on known issues or other information that did not make it into the user guide.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;p&gt;If you have problems or concerns, please contact us using our &lt;a href=&quot;https://bmds.epa.gov/eticket/&quot;&gt;Help Desk Form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;r-version&quot; name=&quot;r-version&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;h2&gt;R-only CatReg Version&lt;/h2&gt;
+
+&lt;p&gt;You can also &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=18162&amp;amp;CFID=44968906&amp;amp;CFTOKEN=27184336&quot;&gt;download&lt;/a&gt; CatReg 2.3, the R-only version of the software released in 2012, along with sample data files and a PDF user guide. You must download and install the latest version of the &lt;a href=&quot;http://www.r-project.org/&quot;&gt;R statistical software&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to run this CatReg version.&lt;/p&gt;
+
+&lt;p&gt;None of the statistics in 2.3 have changed in the Windows version of CatReg, except that the Windows version provides automatic hypothesis testing.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;notifications&quot; name=&quot;notifications&quot;&gt;&lt;/a&gt;Receive Updates on New Releases&lt;/h2&gt;
+
+&lt;p&gt;Registration is not required to download the software. However, you can &lt;a href=&quot;/bmds/forms/get-latest-benchmark-dose-software-bmds-news&quot;&gt;sign up&lt;/a&gt; to receive an email to learn about new releases or important information.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 25 Mar 2016 20:54:58 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">141441 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CatReg</title>
+    <link>https://www.epa.gov/bmds/catreg</link>
+    <description>&lt;div class=&quot;box multi related-info right clear-right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;CatReg Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/bmds/catreg&quot;&gt;CatReg Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/download-catreg&quot;&gt;Download CatReg&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/bmds/catreg-user-guide&quot;&gt;Download CatReg User Guide&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Categorical Regression Analysis (CatReg)&lt;/h2&gt;
+
+&lt;p&gt;EPA has released an update to EPA’s suite of &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;benchmark dose&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; height=&quot;48&quot; width=&quot;48&quot; /&gt;&lt;em&gt;benchmark dose&lt;/em&gt;An exposure due to a dose of a substance associated with a specified low incidence of risk, generally in the range of 1% to 10%, of a health effect; or the dose associated with a specified measure or change of a biological effect.&lt;/span&gt;&lt;/a&gt; modeling tools to include a Microsoft Windows enhanced version of the Agency’s &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;categorical regression&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; height=&quot;48&quot; width=&quot;48&quot; /&gt;&lt;em&gt;categorical regression&lt;/em&gt;Regression analysis in which the dependent variable is defined as a category rather than as a count or continuous variable. In some analyses, the categories are ordered, for example, 1 = enzyme induction, 2 = histological damage, . . . 10 = death of sensitive organisms, . . . 20 = extinction of all metazoan species.&lt;/span&gt;&lt;/a&gt; analysis (CatReg) program. &lt;a href=&quot;/bmds/download-catreg&quot;&gt;CatReg 3.0 for Microsoft Windows is now available for download&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;CatReg complements EPA’s existing Benchmark Dose Software (&lt;a href=&quot;/bmds&quot;&gt;BMDS&lt;/a&gt;) by greatly enhancing a risk assessor’s ability to determine whether data from separate toxicological or epidemiological studies can be pooled into a single dose-response-time meta-analysis. CatReg can be used to support the analysis of health effect studies and other types of toxicity data used to support toxicity assessments developed by EPA and other interested stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;335&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-05/epa-banner-images/catreg_banner-large.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Since its introduction by EPA in 2006, CatReg was available only as an application written in and run using the R statistics package. The new CatReg Version 3.0 requires R be installed and relies on the same statistical algorithms, but offers a Windows-based interface that makes specifying variables, filters, stratification, clustering, hypotheses, and applying the algorithms an easier and more efficient experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/bmds/forms/get-latest-benchmark-dose-software-bmds-news&quot;&gt;Subscribe&lt;/a&gt; to the BMDS newsletter to stay informed on CatReg availability, software updates, and training opportunities.&lt;/p&gt;
+
+&lt;div class=&quot;pane-content&quot;&gt;
+	&lt;div&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#abstract&quot;&gt;Purpose of CatReg&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#features&quot;&gt;Special CatReg Features&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#advantages&quot;&gt;Advantages of CatReg Compared to Other Dose-Response Tools&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#umiv&quot;&gt;Use Multiple Independent Variables&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#eslasc&quot;&gt;Evaluate Severity Levels and Severity Categories&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#cmsiasa&quot;&gt;Combine Multiple Studies in a Single Analysis&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#th&quot;&gt;Test Hypotheses&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#requiresr&quot;&gt;CatReg Requires R&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#previous&quot;&gt;R-only CatReg Version&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;a id=&quot;abstract&quot; name=&quot;abstract&quot;&gt;&lt;/a&gt;
+
+		
+
+		&lt;h2&gt;Purpose of CatReg&lt;/h2&gt;
+
+		&lt;p&gt;CatReg was developed to support risk assessors, toxicologists, and health scientists in conducting exposure-response analyses, most often for controlled animal experiments. CatReg reads data from ordinary comma-separated data files and outputs both plots and text-based results.&lt;/p&gt;
+
+		&lt;p&gt;CatReg can be used to perform categorical regression analyses on toxicity data after effects have been assigned to ordinal severity categories (e.g., no effect, adverse effect, severe effect) and associated with up to two independent variables corresponding to the exposure conditions (e.g., concentration and duration) under which the effects occurred. &lt;b&gt;CatReg calculates the probabilities of the different severity categories over the continuum of the variables describing exposure conditions.&lt;/b&gt; The categorization of observed responses allows expression of dichotomous, continuous, and descriptive data in terms of effect severity and supports the analysis of data from single studies or a combination of similar studies.&lt;/p&gt;
+
+		&lt;p&gt;There are many potential applications of the CatReg program in the analysis of health effects studies and other types of data. It was originally developed to support toxicity assessments for acute inhalation exposures, but modifications have been made to the software (e.g., the ability to estimate background responses and derive upper and lower bound confidence limits on BMD estimates) that facilitate its broader use for the evaluation of chronic studies and for its use in the derivation of traditional EPA &lt;a href=&quot;/iris&quot;&gt;Integrated Risk Information System (IRIS)&lt;/a&gt; reference values.&lt;br /&gt;
+			 &lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;a id=&quot;features&quot; name=&quot;features&quot;&gt;&lt;/a&gt;
+
+		&lt;h2&gt;Special CatReg Features&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;Stratifying the analysis by user-specified covariates (e.g., species, sex, etc.)&lt;/li&gt;
+			&lt;li&gt;Choosing among several basic forms of the exposure-response curve&lt;/li&gt;
+			&lt;li&gt;Using effects assigned to a range of severity categories, rather than a single category&lt;/li&gt;
+			&lt;li&gt;Using cluster-correlated data&lt;/li&gt;
+			&lt;li&gt;Using aggregate data&lt;/li&gt;
+			&lt;li&gt;Filtering data to analyze subsets of data and perform sensitivity analyses&lt;/li&gt;
+			&lt;li&gt;User-friendly hypothesis testing interface that can be used to determine whether data associated with variables such as gender, species, genetics, and other factors that can influence a dose-response-time relationship should be pooled together or analyzed separately for estimating the model parameters (e.g., intercept, dose, and time model coefficients)&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;For screenshots and more information on CatReg, download and view the &lt;a href=&quot;/bmds/catreg-user-guide&quot;&gt;CatReg User Guide&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;advantages&quot; name=&quot;advantages&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Advantages of CatReg Compared to Other Dose-Response Tools&lt;/h2&gt;
+
+		&lt;p&gt;CatReg’s advantages over other dose-response analysis tools include its abilities to:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Use multiple independent variables to explain the response,&lt;/li&gt;
+			&lt;li&gt;Predict exposures related to various levels of effect severity,&lt;/li&gt;
+			&lt;li&gt;Combine multiple studies in a single analysis,&lt;/li&gt;
+			&lt;li&gt;Test hypotheses.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;umiv&quot; name=&quot;umiv&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Use Multiple Independent Variables&lt;/h3&gt;
+
+		&lt;p&gt;Most often, the independent variables modeled in in CatReg are exposure (or dose) and duration of exposure. The latter allows for estimating risk at different exposure durations—even time points not included in the dataset being modeled. &lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;eslasc&quot; name=&quot;eslasc&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Evaluate Severity Levels and Severity Categories&lt;/h3&gt;
+
+		&lt;p&gt;Using categorical regression to evaluate different levels of severity is of particular use for developing emergency planning guidelines, which are defined in terms of the exposure limits needed to protect people from increasingly severe effects (e.g., protection from mild effects,. severe effects, and death). &lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;cmsiasa&quot; name=&quot;cmsiasa&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Combine Multiple Studies in a Single Analysis&lt;/h3&gt;
+
+		&lt;p&gt;The meta-analytical use of categorical regression can be invaluable when individual studies provide only minimal useful dose-response data. Classifying toxic effects into severity categories provides a way to put different endpoints on a common scale for analysis and also allows the use of all types of data in the analysis. For example, individual animal studies investigating liver lesions and serum biochemistry can be combined with human studies reporting preclinical and clinical liver effects to provide an overall estimation of the dose-response for liver toxicity. &lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;th&quot; name=&quot;th&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Test Hypotheses&lt;/h3&gt;
+
+		&lt;p&gt;Finally, the CatReg 3.0 implementation of categorical regression offers valuable and practical hypothesis testing tools, combined with a user-friendly interface, to assist the user in determining whether data associated with variables that can sometimes influence a dose-response (e.g., sex, species, diet, age, genetic differences) should be evaluated separately or combined together into a more robust, data-rich multiple study meta-analysis.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;requiresr&quot; name=&quot;requiresr&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;CatReg Requires R&lt;/h2&gt;
+
+		&lt;p&gt;All versions of CatReg rely on the &lt;a href=&quot;http://www.r-project.org/&quot;&gt;open source package R&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to perform all statistical calculations. To use CatReg, you &lt;em&gt;&lt;strong&gt;must &lt;/strong&gt;&lt;/em&gt;have version 3.1 or later of the R statistical software installed on your computer.&lt;/p&gt;
+
+		&lt;p&gt;All previous non-Windows versions of CatReg can run on any computer operating system on which R can be installed.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;pane-content&quot;&gt;
+	&lt;div&gt;&lt;a id=&quot;previous&quot; name=&quot;previous&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;h2&gt;R-only CatReg Version&lt;/h2&gt;
+
+	&lt;p&gt;You can also &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=18162&amp;amp;CFID=44968906&amp;amp;CFTOKEN=27184336&quot;&gt;download&lt;/a&gt; CatReg 2.3, the R-only version of the software released in 2012, along with sample data files and a PDF user guide. You must download and install the latest version of R to run this CatReg version.&lt;/p&gt;
+
+	&lt;p&gt;None of the statistics in 2.3 have changed in the Windows version of CatReg, except that the Windows version provides automatic hypothesis testing.&lt;/p&gt;
+
+	&lt;div&gt;
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+</description>
+     <pubDate>Wed, 16 Dec 2015 16:23:48 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">129837 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Model Averaging Webinar Workshop Support Materials</title>
+    <link>https://www.epa.gov/bmds/model-averaging-webinar-workshop-support-materials</link>
+    <description>&lt;p&gt;EPA’s National Center for Environmental Assessment (NCEA) hosted a &lt;a href=&quot;/bmds/model-averaging-webinar-workshop-announcement&quot;&gt;public workshop&lt;/a&gt; on model averaging methods for dose-response analysis. The workshop was held via webinar in two half-day increments (12:00 PM–4:00 PM EST) on December 10-11, 2015.&lt;/p&gt;
+
+&lt;p&gt;The documents on this page provided background material and discussion questions to be used by workshop participants.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-226777&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/support_material_for_model_averaging_workshop-11_06_2015-508.pdf&quot; type=&quot;application/pdf; length=11186810&quot; class=&quot;file-link&quot;&gt;Support Material for Model Averaging Workshop.pdf (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(135 pp, 11 MB, 
+  2015-11-06)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Background and Support Materials for Peer Consultation Webinar Workshop on Model Averaging Methods for Dose-Response Analysis  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-226779&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/discussion_questions_for_model_averaging_workshop-11-04-2015.pdf&quot; type=&quot;application/pdf; length=44936&quot; class=&quot;file-link&quot;&gt;Discussion Questions for Model Averaging Workshop (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 45 K, 
+  2015-11-04)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-238085&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/model_averaging_workshop_discussant_responses.pdf&quot; type=&quot;application/pdf; length=1766720&quot; class=&quot;file-link&quot;&gt;Discussant Responses to Model Averaging Workshop Discussion Questions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 2 MB)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Discussant responses to the discussion questions  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-238069&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/model_averaging_workshop_virtual_participation_guide.pdf&quot; type=&quot;application/pdf; length=145134&quot; class=&quot;file-link&quot;&gt;Virtual Participation Guide for Model Averaging Workshop (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 145 K)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Instructions and screenshots for using Adobe Connect to participate in the Model Averaging Workshop  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-238081&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/model_averaging_workshop_agenda_12.7.pdf&quot; type=&quot;application/pdf; length=224932&quot; class=&quot;file-link&quot;&gt;Model Averaging Workshop Agenda (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 225 K)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Agenda items and schedule for Model Averaging Workshop  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 09 Nov 2015 21:50:13 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">125511 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Model Averaging Webinar Workshop Announcement</title>
+    <link>https://www.epa.gov/bmds/model-averaging-webinar-workshop-announcement</link>
+    <description>&lt;h4 class=&quot;highlighted&quot;&gt;EPA’s National Center for Environmental Assessment (NCEA) hosted a public workshop on model averaging methods for dose-response analysis. The workshop was held by webinar in two half-day increments (12:00 PM–4:00 PM EST) on December 10-11, 2015.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;04/15/2016: EPA has reviewed and approved for release the &lt;/strong&gt;&lt;a href=&quot;/bmds/model-averaging-workshop-final-report&quot;&gt;Model Averaging Workshop Report&lt;/a&gt;. The report &lt;span&gt;&lt;span&gt;includes the pre-meeting written responses from discussants, discussants&#039; comments during the workshop to the EPA discussion questions, and their responses to questions asked by workshop audience participants.&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Workshop Details&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Workshop Registration&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;Workshop Support Materials&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Purpose&quot;&gt;Workshop Overview&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;&lt;a href=&quot;#link&quot;&gt;Conference Link and Participation Guide &lt;/a&gt;&lt;/ins&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#location&quot;&gt;Location/Date&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#public&quot;&gt;Public Participation&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#bg&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#discussants&quot;&gt;Discussants&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#bg&quot;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Workshop Overview&lt;/h2&gt;
+
+		&lt;p&gt;The purpose of this workshop is to obtain expert peer consultation on model averaging methods for dose-response analysis. To facilitate the workshop, EPA will provide invited workshop consultants with background and support materials for consideration, including a document describing methods that are consistent with published recommendations and software that illustrates how those existing methods could be implemented.&lt;/p&gt;
+
+		&lt;p&gt;Workshop consultants will examine EPA’s background and support material and provide written comments prior to the workshop. Discussions and conclusions reached during the workshop will form the basis of a workshop report that EPA will consider for the identification of the model averaging method(s) that offer(s) the greatest potential for the development of chemical health assessments.&lt;/p&gt;
+
+		&lt;p&gt;While the workshop support material and software describe candidate methods for use in evaluating continuous response measures, participants will also be asked to comment on the potential for extension of any preferred method(s) identified to dichotomous response measures.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;link&quot; name=&quot;link&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;Conference Link and Participation Guide&lt;/ins&gt;&lt;/h2&gt;
+
+		&lt;p&gt;You can connect to the webinar by selecting this Adobe Connect address: http://epawebconferencing.acms.com/modelaveragingworkshop/ (opens in a new browser window).&lt;/p&gt;
+
+		&lt;p&gt;You can download a 2-page Virtual Participation Guide from the &lt;a href=&quot;/bmds/model-averaging-webinar-workshop-support-materials&quot;&gt;Workshop Support Materials&lt;/a&gt; page. It contains basic information on how to use Adobe Connect for this conference.&lt;/p&gt;
+
+		
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;location&quot; name=&quot;location&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Location/Date&lt;/h2&gt;
+
+		&lt;p&gt;This workshop will be held only by webinar. The workshop will be open to attendance by interested public attendees and/or speakers on a first-come, first-served basis up to the limits of available webinar room.&lt;/p&gt;
+
+		&lt;p&gt;This workshop will be held &lt;strong&gt;December 10-11, 2015&lt;/strong&gt; from 12:00 pm - 4:00 pm EST.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;public&quot; name=&quot;public&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Public Participation&lt;/h2&gt;
+
+		&lt;p&gt;Instructions for workshop registration are described on the Workshop Registration tab. Interested parties with expertise in this field of study are invited to provide their perspective by registering for the workshop and preparing a brief presentation (≤ 5 minutes) for the workshop consultants. Instructions for requesting to make a presentation at the workshop are provided on the Workshop Registration tab.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;bg&quot; name=&quot;bg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Background&lt;/h2&gt;
+
+		&lt;p&gt;The benchmark dose (BMD) method is a key component of chemical risk assessments performed by EPA, other U.S Federal and State Agencies, and multiple international organizations. The BMD method is used to establish toxicity values such as EPA reference doses and cancer slope factors for chemicals expected to have human health effects. Existing BMD methods involve the selection of a single dose-response model from among a suite of models with little biological basis, based largely on a comparison of model fits to the data. As such, they have been criticized for not adequately accounting for model uncertainty and biological considerations. Model averaging is a well-recognized and published scientific approach that can assist in the characterization of model uncertainty, and has the potential for incorporating biological considerations. Bayesian methods can be applied to allow prior information, including biological considerations, to influence model averaging results. Given these potential benefits, model averaging and several model averaging approaches are being investigated and tested by EPA.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;discussants&quot; name=&quot;discussants&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Discussants&lt;/h2&gt;
+
+		&lt;table summary=&quot;List of discussants for Model Averaging Workshop&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Affiliation&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;David Dunson&lt;/td&gt;
+					&lt;td&gt;Duke University&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ruth Hummel&lt;/td&gt;
+					&lt;td&gt;US EPA&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Michael Messner&lt;/td&gt;
+					&lt;td&gt;US EPA&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Walter Piegorsch&lt;/td&gt;
+					&lt;td&gt;University of Arizona&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Woody Setzer&lt;/td&gt;
+					&lt;td&gt;US EPA&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Matthew Wheeler&lt;/td&gt;
+					&lt;td&gt;National Institute for Occupational Safety and Health (NIOSH)&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;A PDF version of the discussants&#039; response to the discussion questions is available for download from the &lt;a href=&quot;/bmds/model-averaging-webinar-workshop-support-materials&quot;&gt;Model Averaging Workshop Support Materials&lt;/a&gt; page.&lt;/ins&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;agenda&quot; name=&quot;agenda&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Agenda&lt;/h2&gt;
+
+		
+
+		&lt;p&gt;&lt;strong&gt;Thursday, December 10, 2015&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;table style=&quot;width:690px&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Time&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Activity&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;12:00 – 12:20&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Welcome and Opening Remarks&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;12:20 – 1:00&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Public Presentations&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;1:00 – 1:20&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 1:&lt;/strong&gt;&lt;strong&gt; Overall approach to model-averaging&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Are there other model averaging methods that EPA should consider?&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;1:20 – 2:00&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 2, 5:&lt;/strong&gt;&lt;strong&gt; Completeness of suite of models&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Are there other parametric models that should be included in model-averaging? If so, do you recommend testing performance of the new suite?&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;2:00 – 2:15&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;BREAK&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;2:15 – 3:00&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 3:&lt;/strong&gt;&lt;strong&gt; Implementation of methods&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Do you agree with the approaches used to implement the methods reviewed in the workshop support material?&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;3:00 – 3:30&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 4:&lt;/strong&gt; &lt;strong&gt;Testing approach&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Should additional testing be performed to identify a model averaging approach for dose-response analyses that offers the greatest advantage for the development of chemical health assessments?&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;3:30 – 4:00&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Day 1 Audience Questions and Day 1 Wrap-Up&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;4:00&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;ADJOURN&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Friday, December 11, 2015&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;table style=&quot;width:690px&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Time&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Activity&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;12:00 – 12:20&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Welcome and Day 1 Recap&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;12:20 – 1:45&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 6:&lt;/strong&gt;&lt;strong&gt; Motives for using model averaging in health assessments&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;div class=&quot;indented&quot;&gt;a. How useful is model averaging for characterizing model uncertainty?&lt;/div&gt;
+
+						&lt;div class=&quot;indented&quot;&gt;b. How useful is model averaging for incorporating prior information?&lt;/div&gt;
+
+						&lt;div&gt; &lt;/div&gt;
+
+						&lt;p&gt;&lt;strong&gt;Discussion Question 7: Should alternatives or complements to model averaging be investigated? &lt;/strong&gt;Examples: Isotonic regression; Non-parametric and semi-parametric (Bayesian and frequentist) modeling; Full Bayesian model averaging; Flexible parametric models&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;1:45 – 2:00&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;BREAK&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;2:00 – 2:40&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 8:&lt;/strong&gt;&lt;strong&gt; Dichotomous Data&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Describe any major concerns for the application of methods described in this report to dichotomous data. How do the results of the present background paper on models for continuous data compare to published work on model averaging for dichotomous models?&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;2:40 – 3:10&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 9: &lt;/strong&gt;&lt;strong&gt;Is Model Averaging Ready for Use in Chemical Health Assessment?&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Is model averaging as implemented in the workshop support material suitable for use in chemical health assessments, possibly with some reservations or precautions? Can you identify circumstances when model averaging may be helpful and informative or misleading?&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;3:10 – 3:30&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Discussion Question 10:&lt;/strong&gt;&lt;strong&gt; Conclusions&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Do you agree with the conclusions made in Section 4.1 of the workshop support material?&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;3:30 – 4:00&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td colspan=&quot;2&quot; style=&quot;width:582px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Audience Questions and Final &lt;/strong&gt;&lt;strong&gt;Wrap-Up&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:108px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;4:00&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td style=&quot;width:581px&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;ADJOURN&lt;/strong&gt;&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td&gt;
+						
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;p&gt;To register for the workshop, please send your name, title, affiliation, contact information, and if you are interested in making a brief (≤ 5 minutes) presentation to &lt;a href=&quot;mailto:EPA_MA_Workshop@icfi.com&quot;&gt;EPA_MA_Workshop@icfi.com&lt;/a&gt;. Registration will remain open, as permitted by webinar capacity, through the duration of the workshop.&lt;/p&gt;
+
+		&lt;p&gt;&lt;ins&gt;If you are requesting to make a brief presentation, you will be sent &lt;/ins&gt;&lt;ins&gt;instructions for the preparation and submission of presentation materials&lt;/ins&gt;&lt;ins&gt;.&lt;/ins&gt; &lt;ins&gt;T&lt;/ins&gt;&lt;ins&gt;o promote transparency,&lt;/ins&gt; if you &lt;ins&gt;request &lt;/ins&gt;&lt;ins&gt;to make &lt;/ins&gt;a presentation, please also &lt;ins&gt;disclose&lt;/ins&gt;&lt;ins&gt;: (1) The nature of any financial relationships (&lt;em&gt;e.g.,&lt;/em&gt; consulting agreements, expert witness support, or research funding) you may have with any organization(s) or entities having an interest in issues under discussion; and (2) The extent to which your comments were reviewed by an interested party prior to submission.&lt;/ins&gt;&lt;/p&gt;
+
+		&lt;p&gt;Please direct questions regarding workshop registration or logistics to Susan Blaine at &lt;a href=&quot;mailto:EPA_MA_Workshop@icfi.com&quot;&gt;EPA_MA_Workshop@icfi.com&lt;/a&gt; or by phone at 703-225-2471. To obtain clarification or provide comments on the workshop support materials, contact Jeff Gift, Ph.D., at &lt;a href=&quot;mailto:gift.jeff@epa.gov&quot;&gt;gift.jeff@epa.gov&lt;/a&gt; or by phone at 919-541-4828.&lt;/p&gt;
+
+		
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;h2&gt;Supporting Materials for the Workshop&lt;/h2&gt;
+
+		&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;/bmds/model-averaging-webinar-workshop-support-materials&quot;&gt;Model Averaging Webinar Workshop Support Materials&lt;/a&gt;. This page includes links to the following PDF documents:
+
+				&lt;ul&gt;&lt;li&gt;Report: &lt;span id=&quot;file-226777&quot;&gt;&lt;em&gt;Background and Support Materials for Peer Consultation Webinar Workshop on Model Averaging Methods for Dose-Response Analysis&lt;/em&gt; &lt;/span&gt;&lt;/li&gt;
+					&lt;li&gt;Discussion Questions&lt;/li&gt;
+					&lt;li&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;Discussant Responses to the Discussion Questions&lt;/ins&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;Model Averaging Workshop Virtual Participation Guide&lt;/ins&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;ins data-date=&quot;2015,12,8&quot;&gt;Model Averaging Workshop Agenda&lt;/ins&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-226771&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-11/modelavggui_20151106.zip&quot; type=&quot;application/zip; length=1718998&quot; class=&quot;file-link&quot;&gt;Model Averaging Application With Graphical User Interface (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  2015-11-12)&lt;/span&gt;&lt;/span&gt;
+ - Requires Windows XP or better. A sample data file and instructions are included.&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-226773&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-11/modelavgbatch_20151106.zip&quot; type=&quot;application/zip; length=5274848&quot; class=&quot;file-link&quot;&gt;Software for performing model runs on multiple datasets in batch (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-226775&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-11/ma_data.zip&quot; type=&quot;application/zip; length=3654493&quot; class=&quot;file-link&quot;&gt;Real and simulated data for Model Averaging test runs (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 04 Nov 2015 17:12:57 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">124759 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Benchmark Dose Software (BMDS) User Manual</title>
+    <link>https://www.epa.gov/bmds/benchmark-dose-software-bmds-user-manual</link>
+    <description>&lt;p&gt;The BMDS User Manual contains procedures on using the application, along with deeper and more technical reference information on BMDS concepts, models, etc.&lt;/p&gt;
+
+&lt;p&gt;The BMDS User Manual is a PDF version of the BMDS online help included as part of the BMDS installation. You can find a copy of this PDF in the BMDS application folder.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-224977&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/bmds_manual.pdf&quot; type=&quot;application/pdf; length=6114670&quot; class=&quot;file-link&quot;&gt;BMDS User Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(310 pp, 6 MB, 
+  2016-03-08, 
+  2.6.0.1)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    User manual for Benchmark Dose Software (BMDS) application  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Nov 2015 16:28:46 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">124733 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Benchmark Dose Software (BMDS) Training Webinars: Q&amp;A Transcripts &amp; Errata</title>
+    <link>https://www.epa.gov/bmds/benchmark-dose-software-bmds-training-webinars-qa-transcripts-errata</link>
+    <description>&lt;p&gt;The &lt;a href=&quot;/bmds/benchmark-dose-software-bmds-training-webinars&quot;&gt;BMDS Training Webinars&lt;/a&gt; page contains links to the recorded webinars and the data files used for the hands-on training.&lt;/p&gt;
+
+&lt;p&gt;The Slide Errata and Notes file contains edits and deletions that have since been made to the BMDS training slides.&lt;/p&gt;
+
+&lt;p&gt;The edited transcripts of the in-session Q&amp;amp;A chats address specific issues raised by the webinar attendees.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-150167&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/bmds-slide-errata-and-notes.pdf&quot; type=&quot;application/pdf; length=364214&quot; class=&quot;file-link&quot;&gt;BMDS Webinar Slide Errata and Notes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 364 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-150173&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/qanda_intro-dich.pdf&quot; type=&quot;application/pdf; length=375225&quot; class=&quot;file-link&quot;&gt;Introduction and Dichotomous Models Q&amp;amp;A Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 375 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-150175&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/qanda_cont.pdf&quot; type=&quot;application/pdf; length=235994&quot; class=&quot;file-link&quot;&gt;Continuous Models Q&amp;amp;A Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 236 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-150179&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/qanda_nested.pdf&quot; type=&quot;application/pdf; length=235815&quot; class=&quot;file-link&quot;&gt;Nested Dichotomous Models Q&amp;amp;A Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 236 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-150181&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/qanda_cancer.pdf&quot; type=&quot;application/pdf; length=224894&quot; class=&quot;file-link&quot;&gt;Cancer Models Q&amp;amp;A Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 225 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-150183&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-06/documents/qanda_time.pdf&quot; type=&quot;application/pdf; length=192314&quot; class=&quot;file-link&quot;&gt;Time Models Q&amp;amp;A Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 192 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 22 Jun 2015 21:03:05 +0000</pubDate>
+ <dc:creator>mbrown06</dc:creator>
+ <guid isPermaLink="false">93597 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:26:06, expires @ 2017-01-26 17:26:06, lifetime 12 hours -->

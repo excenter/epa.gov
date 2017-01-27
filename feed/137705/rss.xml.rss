@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137705/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Energy Efficiency and Renewable Energy in SIPs and TIPs</title>
+    <link>https://www.epa.gov/feed/137705/rss.xml</link>
+    <description>Updated Energy Efficiency and Renewable Energy in SIPs and TIPs content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137705/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Emissions Quantification Methods Comparison</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/emissions-quantification-methods-comparison</link>
+    <description>&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;&gt;Key Considerations&lt;/th&gt;
+			&lt;th colspan=&quot;4&quot; rowspan=&quot;1&quot; scope=&quot;col&quot;&gt;
+				&lt;p&gt;                                                            Methods&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;eGrid non-baseload&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Capacity Factor&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Hourly Emissions&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Energy Modeling&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Preliminary&lt;/strong&gt; Analysis&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Voluntary&lt;/strong&gt; Programs&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;General&lt;/strong&gt; Benefits Info&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Regulatory&lt;/strong&gt; or statutory&lt;br /&gt;
+				requirement&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;acceptable*&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Emissions&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Pollutants&lt;/strong&gt; of interest&lt;/td&gt;
+			&lt;td&gt;CO2, NOx,&lt;br /&gt;
+				SO2, CH4, N2O&lt;/td&gt;
+			&lt;td&gt;NOx, SO2, CO2&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;NOx, SO2, CO2&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;NOx, SO2, CO2,&lt;br /&gt;
+				varies&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;&lt;strong&gt;Scale&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Geographic&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;eGRID subregion&lt;/td&gt;
+			&lt;td&gt;eGRID subregion&lt;/td&gt;
+			&lt;td&gt;Regions vary&lt;/td&gt;
+			&lt;td&gt;modeling regions&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Imports &amp;amp; Exports&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Only within&lt;br /&gt;
+				eGRID regions&lt;/td&gt;
+			&lt;td&gt;Only within&lt;br /&gt;
+				eGRID regions&lt;/td&gt;
+			&lt;td&gt;Depends on&lt;br /&gt;
+				size of regions&lt;/td&gt;
+			&lt;td&gt;Fully addressed&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Source Aggregation&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Boiler,&lt;br /&gt;
+				generator,&lt;br /&gt;
+				plant&lt;/td&gt;
+			&lt;td&gt;Power plant or&lt;br /&gt;
+				Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)**&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Temporal&lt;/strong&gt; - time scale,&lt;br /&gt;
+				historical vs forecasted&lt;/td&gt;
+			&lt;td&gt;Annual &amp;amp;&lt;br /&gt;
+				ozone season&lt;br /&gt;
+				(NOx) historical&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;Annual &amp;amp;&lt;br /&gt;
+				ozone season&lt;br /&gt;
+				(NOx) historical&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;Hourly&lt;br /&gt;
+				historical&lt;/td&gt;
+			&lt;td&gt;Annual, seasonal,&lt;br /&gt;
+				hourly forecasted&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;3&quot;&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Money&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Staff Expertise&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;Notes:&lt;br /&gt;
+	* Better suited when electric generating unit (EGU) capacity factors are used and future generation is included. When appropriate, the outputs could also be at the county level.  See Roadmap, Appendix I for details.&lt;br /&gt;
+	** Electric generator units encompass boilers, combustion turbines, internal combustion engines, or other electric generating technologies.&lt;/small&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 31 May 2016 13:16:12 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">150685 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Information, Guidance Documents and Information About Energy Efficiency and Renewable Resources</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/frequent-information-guidance-documents-and</link>
+    <description>&lt;ul&gt;&lt;li&gt;The EPA has a &lt;a href=&quot;/energy-efficiency-and-renewable-energy-sips-and-tips/frequently-asked-questions-roadmap&quot;&gt;Frequently Asked Questions&lt;/a&gt; document that will be updated as new information is added.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;EPA held a &lt;a href=&quot;/energy-efficiency-and-renewable-energy-sips-and-tips/epa-webinar-energy-efficiencyrenewable-energy&quot;&gt;webinar on the EE/RE manual&lt;/a&gt; on August 27, 2012.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;The EPA has issued &lt;a href=&quot;/energy-efficiency-and-renewable-energy-sips-and-tips/energy-efficiencyrenewable-energy-programs&quot;&gt;three guidance documents&lt;/a&gt; related to incorporating energy efficiency/renewable energy (EE/RE) programs in State Implementation Plans&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Resources are available on EE/RE from EPA and several other sources:
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/statelocalclimate&quot;&gt;EPA Climate and Energy Resources for State, Local, and Tribal Governments&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/statelocalclimate/energy-and-environment-guide-action&quot;&gt;EPA Energy and Environmental Guide to Action&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/chp&quot;&gt;EPA CHP Partnership for Help Accounting for the Emissions Benefits of CHP Projects&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/energy&quot;&gt;National Action Plan for Energy Efficiency&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;The &lt;a href=&quot;http://www.dsireusa.org/&quot;&gt;Database of State Incentives for Renewable and Efficiency&lt;/a&gt; (DSIRE) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;which is a comprehensive source of information on state, local, utility and federal incentives and policies that promote RE and EE. Established in 1995 and funded by the U.S. Department of Energy, DSIRE is an ongoing project of the N.C. Solar Center and the Interstate Renewable Energy Council.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://eetd.lbl.gov/ea/ems/reports/lbnl-154e-revised.pdf&quot;&gt;Lawrence Berkeley National Laboratory on Renewable Portfolio Standards&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;The &lt;a href=&quot;http://www4.eere.energy.gov/seeaction/&quot;&gt;State and Local Energy Efficiency Action Network&lt;/a&gt; (SEE Action) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;is a state- and local-led effort facilitated by the U.S. Department of Energy and the U.S. Environmental Protection Agency to take energy efficiency to scale and achieve all cost-effective energy efficiency by 2020. SEE Action offers information resources and technical assistance to state and local decision makers as they provide low-cost, reliable energy to their communities through energy efficiency. &lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 18 May 2016 12:39:46 +0000</pubDate>
+ <dc:creator>ddixon</dc:creator>
+ <guid isPermaLink="false">149845 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequently Asked Questions on the Roadmap for Incorporating EE/RE Policies and Programs into SIPs/TIPs</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/frequently-asked-questions-roadmap</link>
+    <description>&lt;p&gt;The Frequently Asked Questions document below will be updated as new information is added.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-285593&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/eerefaqaug2013.pdf&quot; type=&quot;application/pdf; length=455913&quot; class=&quot;file-link&quot;&gt;FAQs on the Roadmap for Incorporating EE/RE Policies and Programs into SIPs/TIPs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 456 K, 
+  08/2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 17 May 2016 19:48:41 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">149809 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Energy Efficiency/Renewable Energy Programs in State Implementation Plans - Guidance Documents</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/energy-efficiencyrenewable-energy-programs</link>
+    <description>&lt;p&gt;The EPA has issued three guidance documents related to incorporating Energy Efficiency/Renewable Energy (EE/RE) programs in State Implementation Plans (SIPs):&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-285463&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/ereseerem_gd.pdf&quot; type=&quot;application/pdf; length=849743&quot; class=&quot;file-link&quot;&gt;Guidance on SIP Credits for Emission Reductions from Electric-Sector EE/RE Measures (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(39 pp, 850 K, 
+  08/05/04)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-285507&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/voluntarycontrolmeasurespolicyepa.pdf&quot; type=&quot;application/pdf; length=1230873&quot; class=&quot;file-link&quot;&gt;Guidance on Incorporating Emerging and Voluntary Measures in a SIP (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 1 MB, 
+  09/2004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-285511&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/10885guideibminsip.pdf&quot; type=&quot;application/pdf; length=3204987&quot; class=&quot;file-link&quot;&gt;Guidance on Incorporating Bundled Measures in a State Implementation Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(55 pp, 3 MB, 
+  08/16/05)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 17 May 2016 15:16:31 +0000</pubDate>
+ <dc:creator>ddixon</dc:creator>
+ <guid isPermaLink="false">149747 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Webinar on the Energy Efficiency/Renewable Energy Manual</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/epa-webinar-energy-efficiencyrenewable-energy</link>
+    <description>&lt;p&gt;EPA held a webinar on the EE/RE manual on August 27, 2012.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/apti/video/082712webinar/082712webinar.html&quot;&gt;Webinar Recording&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-285437&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/20120827present1.pdf&quot; type=&quot;application/pdf; length=279243&quot; class=&quot;file-link&quot;&gt;Presentation 1 - EE/RE Roadmap Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 279 K, 
+  08/27/12)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-285441&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/20120827present2.pdf&quot; type=&quot;application/pdf; length=1776743&quot; class=&quot;file-link&quot;&gt;Presentation 2 - Recognizing State &amp;amp; Local Action: Resources for Incorporating EE/RE in Air Quality Plans (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 2 MB, 
+  08/27/12)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-285445&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/20120827qanda.pdf&quot; type=&quot;application/pdf; length=400149&quot; class=&quot;file-link&quot;&gt;Webinar Questions and Answers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 400 K, 
+  10/09/12)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 17 May 2016 14:54:55 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">149741 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Quantification</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/quantification</link>
+    <description>&lt;p&gt;To determine whether there is an appreciable emissions benefit to include in a State or Tribal Implementation Plan (SIP/TIP), the first step is to understand the potential energy savings and emissions impacts of Energy Efficiency and Renewable Energy (EE/RE) policies and programs in your jurisdiction.&lt;/p&gt;
+
+&lt;h2&gt;Data:&lt;/h2&gt;
+
+&lt;p&gt;To develop the emissions projections for estimating future baseline emissions of the electric power sector, your state can use credible and accessible energy forecasts to help reflect the energy impacts of existing EE/RE policies. These &lt;a href=&quot;/statelocalclimate/chapter-2-assessing-potential-energy-impacts-clean-energy-initiatives&quot;&gt;energy forecasts&lt;/a&gt; are produced by federal and state agencies, utilities, Public Utilities Commissions (PUC) and electric transmission independent system operators.&lt;/p&gt;
+
+&lt;p&gt;For example, the U.S. Energy Information Administration (EIA) produces an Annual Energy Outlook (AEO) each year that provides long-term projections of energy supply, demand, and prices, based on data it collects from various industry sources. EPA analyzes state EE/RE policies that are adopted in state law and codified in rule or order, but that are not reflected in the EIA&#039;s AEO 2010 electricity demand projections.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;/statelocalclimate/avoided-emissions-and-generation-tool-avert&quot;&gt;tool &lt;/a&gt;that estimates the emissions benefits of energy efficiency and renewable energy policies and programs &lt;span&gt;for specific state-level EE/RE policies. States can adjust their forecasts to reflect missing policies, when applicable.  &lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;Methods:&lt;/h2&gt;
+
+&lt;p&gt;Methods to quantify emissions reductions vary in complexity, rigor, resource implications, and data requirements. Refer to Roadmap, Appendix 1 for more information.&lt;/p&gt;
+
+&lt;p&gt;Methods range from basic to sophisticated:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;eGRID Non-baseload Emissions Rate Method&lt;/li&gt;
+	&lt;li&gt;Capacity Factor Emissions Rate Method&lt;/li&gt;
+	&lt;li&gt;Historical Hourly Emissions Rate Method&lt;/li&gt;
+	&lt;li&gt;Energy Modeling Method&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To choose the method that best meets your needs, consider the following questions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;What is the purpose of the analysis?&lt;/li&gt;
+	&lt;li&gt;What staff expertise is available?&lt;/li&gt;
+	&lt;li&gt;What budget resources are available?&lt;/li&gt;
+	&lt;li&gt;What energy information is available?&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Emissions Quantification Methods Comparison:&lt;/h2&gt;
+
+&lt;p&gt;This table can help you select the best method for your situation: &lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;&gt;     Key Considerations&lt;/th&gt;
+			&lt;th colspan=&quot;4&quot; rowspan=&quot;1&quot; scope=&quot;col&quot;&gt;
+				&lt;p&gt;                                                            Methods&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;eGrid non-baseload&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Capacity Factor&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Hourly Emissions&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Energy Modeling&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Preliminary&lt;/strong&gt; Analysis&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Voluntary&lt;/strong&gt; Programs&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;General&lt;/strong&gt; Benefits Info&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Regulatory&lt;/strong&gt; or statutory&lt;br /&gt;
+				requirement&lt;/td&gt;
+			&lt;td&gt;not well-suited&lt;br /&gt;
+				(either too costly or&lt;br /&gt;
+				not robust enough)&lt;/td&gt;
+			&lt;td&gt;acceptable*&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+			&lt;td&gt;well-suited for&lt;br /&gt;
+				intended purpose&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Emissions&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Pollutants&lt;/strong&gt; of interest&lt;/td&gt;
+			&lt;td&gt;CO2, NOx,&lt;br /&gt;
+				SO2, CH4, N2O&lt;/td&gt;
+			&lt;td&gt;NOx, SO2, CO2&lt;/td&gt;
+			&lt;td&gt;NOx, SO2, CO2&lt;/td&gt;
+			&lt;td&gt;NOx, SO2, CO2,&lt;br /&gt;
+				varies&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;&lt;strong&gt;Scale&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Geographic&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;eGRID subregion&lt;/td&gt;
+			&lt;td&gt;eGRID subregion&lt;/td&gt;
+			&lt;td&gt;Regions vary&lt;/td&gt;
+			&lt;td&gt;modeling regions&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Imports &amp;amp; Exports&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Only within&lt;br /&gt;
+				eGRID regions&lt;/td&gt;
+			&lt;td&gt;Only within&lt;br /&gt;
+				eGRID regions&lt;/td&gt;
+			&lt;td&gt;Depends on&lt;br /&gt;
+				size of regions&lt;/td&gt;
+			&lt;td&gt;Fully addressed&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Source Aggregation&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Boiler,&lt;br /&gt;
+				generator,&lt;br /&gt;
+				plant&lt;/td&gt;
+			&lt;td&gt;Power plant or&lt;br /&gt;
+				Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)**&lt;/td&gt;
+			&lt;td&gt;Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)&lt;/td&gt;
+			&lt;td&gt;Electric&lt;br /&gt;
+				Generating&lt;br /&gt;
+				Unit (EGU)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Temporal&lt;/strong&gt; - time scale,&lt;br /&gt;
+				historical vs forecasted&lt;/td&gt;
+			&lt;td&gt;Annual &amp;amp;&lt;br /&gt;
+				ozone season&lt;br /&gt;
+				(NOx) historical&lt;/td&gt;
+			&lt;td&gt;Annual &amp;amp;&lt;br /&gt;
+				ozone season&lt;br /&gt;
+				(NOx) historical&lt;/td&gt;
+			&lt;td&gt;Hourly&lt;br /&gt;
+				historical&lt;/td&gt;
+			&lt;td&gt;Annual, seasonal,&lt;br /&gt;
+				hourly forecasted&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;3&quot;&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Money&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Staff Expertise&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Low&lt;/td&gt;
+			&lt;td&gt;Medium&lt;/td&gt;
+			&lt;td&gt;High&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;Notes:&lt;br /&gt;
+	* Better suited when electric generating unit (EGU) capacity factors are used and future generation is included. When appropriate, the outputs could also be at the county level.  See Roadmap, Appendix I for details.&lt;br /&gt;
+	** Electric generator units encompass boilers, combustion turbines, internal combustion engines, or other electric generating technologies.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2&gt;Emissions Quantification Tool:&lt;/h2&gt;
+
+&lt;p&gt;EPA has developed the AVoided Emissions and geneRation Tool (AVERT). AVERT employs the historical hourly emissions rate approach, and uses statistics to project the hourly changes in generation - and the associated changes in air emissions - at individual generating units that are a result of the introduction of new energy efficiency (EE) or renewable energy (RE) resources in a specific geographic region in the contiguous United States.&lt;/p&gt;
+
+&lt;p&gt;The purpose of AVERT is to provide NOx, SO&lt;sub&gt;2&lt;/sub&gt;, and CO&lt;sub&gt;2&lt;/sub&gt; estimates of the changes in large stationary source emissions (25 MW or greater) that result from new EE/RE policies, programs and measures. It allows users to explore multiple energy efficiency and renewable energy scenarios without having to invest in formal, resource intensive production cost models.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/statelocalclimate/avoided-emissions-and-generation-tool-avert&quot;&gt;More information on AVERT&lt;/a&gt; &lt;/p&gt;
+</description>
+     <pubDate>Thu, 05 May 2016 17:10:04 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">148733 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Energy Efficiency/Renewable Energy Roadmap Manual</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/energy-efficiencyrenewable-energy-roadmap</link>
+    <description>&lt;p&gt;EPA is providing a range of products to assist agencies with the use of energy efficiency/renewable energy (EE/RE) emissions reduction strategies in air quality plans, including the &lt;em&gt;Roadmap Manual&lt;/em&gt; below.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Roadmap&lt;/em&gt; clarifies existing agency guidance on incorporating EE/RE policies and programs into State and Tribal Implementation Plans (SIPs/TIPs). The document consists of an overview and several detailed appendices.  &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-281907&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/eeremanual_0.pdf&quot; type=&quot;application/pdf; length=2862703&quot; class=&quot;file-link&quot;&gt;Roadmap for Incorporating Energy Efficiency/Renewable Energy Policies and Programs into State and Tribal Implementation Plans (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 3 MB, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Introduces the four pathways available for incorporating EE/RE policies and programs in SIPs/TIPs, answers frequently asked questions, provides basic information on how to get started and includes a decision flowchart to assist agencies in determining which pathway is appropriate for each EE/RE strategy.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281911&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixa_0.pdf&quot; type=&quot;application/pdf; length=349252&quot; class=&quot;file-link&quot;&gt;Appendix A:  Glossary (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 349 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides a glossary of key air quality and electric energy terms.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281913&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixb_0.pdf&quot; type=&quot;application/pdf; length=744983&quot; class=&quot;file-link&quot;&gt;Appendix B:  Overview of U.S. Electric System (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 745 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Highlights the basic workings of the electric system and addresses important issues that arise in energy and air quality planning, such as quantification of emission benefits for incorporation in SIPs/ TIPs.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281917&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixc_0.pdf&quot; type=&quot;application/pdf; length=421057&quot; class=&quot;file-link&quot;&gt;Appendix C:  Existing EPA Energy Efficiency/Renewable Energy Guidance (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 421 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Summarizes existing EPA guidance relating to EE/RE and SIPs.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281919&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixd_0.pdf&quot; type=&quot;application/pdf; length=429499&quot; class=&quot;file-link&quot;&gt;Appendix D:  Understanding State Energy Efficiency and Renewable Energy Policies and Programs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 429 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides a general description of common EE and RE policies, and offers government officials suggested questions to ask when evaluating whether it makes sense for state, tribal or local agencies to account for the future impacts of EE/RE policies in SIPs/TIPs.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281921&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixe_0.pdf&quot; type=&quot;application/pdf; length=759906&quot; class=&quot;file-link&quot;&gt;Appendix E:  Baseline Emissions Projection Pathway (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 760 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides details on the baseline emissions projection pathway, one of four approaches for incorporating EE/RE policies and programs in SIPs. The appendix includes the circumstances for which the pathway is best suited, documentation needs for the pathway and the steps agencies would take to implement it.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281923&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixf_0.pdf&quot; type=&quot;application/pdf; length=649996&quot; class=&quot;file-link&quot;&gt;Appendix F:  Control Strategy Pathway (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 650 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides details on the control strategy pathway, one of four approaches for incorporating EE/RE policies and programs in SIPs. The appendix includes the circumstances for which the pathway is best suited, as well as documentation needs for the pathway and guidance on how to obtain SIP credit in a multi-state scenario.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281925&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixg_0.pdf&quot; type=&quot;application/pdf; length=593409&quot; class=&quot;file-link&quot;&gt;Appendix G:  Emerging/Voluntary Measures Pathway (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 593 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides details on the emerging/voluntary measures pathway, one of four approaches for incorporating EE/RE policies and programs in SIPs. The appendix includes the circumstances for which the pathway is best suited, as well as documentation needs for the pathway and guidance on bundling of emerging/voluntary measures.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281943&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixh_0.pdf&quot; type=&quot;application/pdf; length=492423&quot; class=&quot;file-link&quot;&gt;Appendix H:  Weight-of-Evidence Pathway (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 492 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides details on the weight-of-evidence pathway, one of four approaches for incorporating EE/RE policies and programs in SIPs. The information includes what circumstances for which the pathway is best suited, as well as documentation needs for the pathway and guidance on how to strengthen the weight-of-evidence analysis.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281951&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixi_0.pdf&quot; type=&quot;application/pdf; length=1379317&quot; class=&quot;file-link&quot;&gt;Appendix I:  Methods for Quantifying Energy Efficiency and Renewable Energy Emission Reductions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 1 MB, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides information to help jurisdictions determine the emissions quantification approach best suited for each SIP/TIP pathway when accounting for EE/RE policies and programs in SIPs/TIPs. It includes an overview of four quantification approaches, including advantages and limitations.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281955&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixj_0.pdf&quot; type=&quot;application/pdf; length=814511&quot; class=&quot;file-link&quot;&gt;Appendix J:  EPA&amp;#039;s Draft Methodology for Estimating Energy Impacts of Energy Efficiency/Renewable Energy Policies (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 815 K, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides information on (EPA&amp;#039;s) draft methodology for estimating the projected energy and demand impacts of existing state EE and RE policies, and (EPA&amp;#039;s) results from using the methodology. This appendix describes the process and calculations used to develop the energy savings estimates and an overview of the available information.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281959&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/appendixk_0.pdf&quot; type=&quot;application/pdf; length=2674878&quot; class=&quot;file-link&quot;&gt;Appendix K:  State, Tribal and Local Examples and Opportunities (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(46 pp, 3 MB, 
+  07/2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Provides information on states that have addressed EE/RE policies and programs in their 1997 ozone National Ambient Air Quality Standards SIPs or are considering incorporating such strategies in future SIPs. The appendix also discusses emerging opportunities for incorporating EE/RE policies and programs in SIPs, tribal governments that have implemented EE/RE programs on tribal lands and other opportunities to reduce electricity consumption through green infrastructure projects.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 May 2016 18:23:45 +0000</pubDate>
+ <dc:creator>ddixon</dc:creator>
+ <guid isPermaLink="false">148623 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Basic Information for Incorporating Energy Efficiency/Renewable Energy in State and Tribal Implementation Plans</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/basic-information-incorporating-energy</link>
+    <description>&lt;h2&gt;Definitions&lt;/h2&gt;
+
+&lt;h3&gt;Energy Efficiency&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;Energy Efficiency (EE) policies are laws and/or regulations enacted by a state, locality or public utility commission order which require energy suppliers or other entities to adopt energy efficient technologies and/or practices, or to undertake activities to further such adoption in the marketplace. Energy efficiency programs are initiatives designed to increase adoption of energy efficient technologies and practices in particular end-use sectors (or specific market segments within a sector) through education and outreach, financial incentives, and/or technical assistance.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Renewable Energy&lt;/h3&gt;
+
+&lt;p&gt;Renewable Energy (RE) policies are regulations, statutes or state public utility commission orders that require parties to acquire RE or to commit to funding levels for programs aimed at acquiring RE. Renewable energy programs are initiatives designed to increase the production and use of RE sources through resource development and procurement, education and outreach, financial incentives, and/or technical assistance. Examples of RE include hydropower (use of water from rivers and dams), wind energy (using wind turbines) and solar power (using the power of the sun to heat water or produce electricity).&lt;/p&gt;
+
+&lt;h3&gt;Electric-sector Energy Efficiency and Renewable Energy Policies&lt;/h3&gt;
+
+&lt;p&gt;Electric-sector EE and RE policies, programs and projects that will result in quantifiable reductions in emissions at existing fossil fuel-fired electric generating units and that improve air quality in a nonattainment area can be accounted for in State and Tribal Implementation Plans.&lt;/p&gt;
+
+&lt;h3&gt;State and Tribal Implementation Plans&lt;/h3&gt;
+
+&lt;p&gt;A State Implementation Plan (SIP) is a plan developed by a state air pollution agency showing how that state will comply with the requirements of the federal Clean Air Act, administered by the U.S. Environmental Protection Agency. The SIP consists of narrative, rules, technical documentation, and agreements that an individual state will use to meet National Ambient Air Quality Standards.&lt;/p&gt;
+
+&lt;p&gt;Although not required to do so, a tribe with “treatment as state” eligibility may develop its own air quality control plan, called a Tribal Implementation Plan (TIP), for approval by the EPA.  A TIP enacted by a tribal government and approved by the EPA is legally binding under both tribal and federal law and may be enforced by the tribe, EPA, and the public.&lt;/p&gt;
+
+&lt;h2&gt;Training&lt;/h2&gt;
+
+
+&lt;p&gt;The nature and function of the electric energy system is complex. To help make it more understandable, EPA is providing comprehensive training on electric energy that covers a whole range of topics, including:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;How the electric system works&lt;/li&gt;
+	&lt;li&gt;Characterizing EE and its benefits&lt;/li&gt;
+	&lt;li&gt;Characterizing RE and its benefits&lt;/li&gt;
+	&lt;li&gt;Estimating the benefits of EE/RE &lt;/li&gt;
+	&lt;li&gt;Industrial EE as a method to comply with air rules        &lt;/li&gt;
+	&lt;li&gt;Other energy issues, developments, and emerging technologies&lt;/li&gt;
+	&lt;li&gt;Emissions baseline projections &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Visit the &lt;a href=&quot;https://www3.epa.gov/apti/video/ElectricEnergy/ElectricEnergy0212.html&quot;&gt;Air Pollution Training Institute (APTI)&lt;/a&gt; for more information.&lt;/p&gt;
+
+
+
+
+
+
+</description>
+     <pubDate>Tue, 03 May 2016 18:42:07 +0000</pubDate>
+ <dc:creator>jcortely</dc:creator>
+ <guid isPermaLink="false">148485 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Roadmap for Incorporating Energy Efficiency/Renewable Energy in State and Tribal Implementation Plans</title>
+    <link>https://www.epa.gov/energy-efficiency-and-renewable-energy-sips-and-tips/roadmap-incorporating-energy</link>
+    <description>&lt;h2&gt;Action&lt;/h2&gt;
+
+&lt;p&gt;On July 3, 2012, the U.S. Environmental Protection Agency (EPA) released the first version of the “Roadmap for Incorporating Energy Efficiency and Renewable Energy (EE/RE) Policies and Programs in State Implementation Plans (SIPs) and Tribal Implementation Plans (TIPs).” &lt;/p&gt;
+
+&lt;p&gt;The Roadmap will help air agencies estimate and account for emission reductions from EE and RE policies and programs in their Clean Air Act plans to improve air quality (SIPs and TIPs). EE/RE policies and programs offer the potential to achieve emission reductions at a cost that can be lower than traditional control measures.&lt;/p&gt;
+
+&lt;p&gt;Most states have EE/RE policies and programs in place for the power generation sector to meet energy independence goals. The Roadmap will provide clarified guidance and new tools to help air quality planners account for the emission reductions that occur because of these energy-related efforts.&lt;/p&gt;
+
+&lt;p&gt;These emission reductions can help states and tribes meet and maintain compliance with National Ambient Air Quality Standards, as well as reduce regional haze, air toxics, and greenhouse gases. &lt;/p&gt;
+
+&lt;p&gt;To accompany the Roadmap, EPA is providing:&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li class=&quot;indented&quot;&gt;Hands-on tools for quantifying the emissions impacts of state, tribal and local EE/RE policies and programs.&lt;/li&gt;
+	&lt;li class=&quot;indented&quot;&gt;Training for air quality planners on the electric energy sector.&lt;/li&gt;
+	&lt;li class=&quot;indented&quot;&gt;Data on the projected energy impacts of state EE/RE policies to help states and tribes use electricity demand projections from the Energy Information Administration&#039;s Annual Energy Outlook 2010.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;These resources can help sate, tribal and local agencies assess the magnitude of potential emissions reduction in a particular area and determine whether they want to account for those reductions in their SIPs/TIPs. &lt;/p&gt;
+
+&lt;h3&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;State and local air agencies have committed significant resources to EE/RE policies and programs, which creates new opportunities for state, tribal and local air agencies to consider incorporating EE/RE policies and programs in SIPs and TIPs. For example: &lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;In 2011, states committed more than $5 billion of electricity ratepayer funding for energy efficiency -- more than double what was spent in 2006. &lt;/li&gt;
+	&lt;li&gt;As of 2011, 29 states and Washington, D.C. have adopted renewable portfolio standards that require retail electricity providers to supply a minimum percentage or amount of retail demand with renewable resources.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In addition, information on the energy and emissions impacts of EE/RE is increasingly widely available from governmental and non-governmental organizations.&lt;/p&gt;
+
+&lt;p&gt;EPA intends to update this document periodically, as new information becomes available.&lt;/p&gt;
+
+&lt;p&gt;In 2004-2005, EPA issued several guidance documents about incorporating EE/RE policies, programs and measures in SIPs. The Roadmap clarifies these EPA guidance documents: &lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;“SIP Credits for Emission Reductions from Electric-Sector Energy Efficiency and Renewable Energy Measures” (August 2004), which explains how to quantify and include emission reductions from EE/RE measures in SIPs. &lt;/li&gt;
+	&lt;li&gt;“Incorporating Emerging and Voluntary Measures in State Implementation Plans” (September 2004), which encourages the development of voluntary and emerging measures that can be included in SIPs.&lt;/li&gt;
+	&lt;li&gt;“Incorporating Bundled Measures in a State Implementation Plan” (August 2005), which explains how states can identify individual voluntary and emerging measures and &quot;bundle&quot; them in a single SIP submission. &lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 03 May 2016 17:59:42 +0000</pubDate>
+ <dc:creator>jcortely</dc:creator>
+ <guid isPermaLink="false">148473 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:21:05, expires @ 2017-01-26 16:21:05, lifetime 12 hours -->

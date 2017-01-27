@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/36581/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Insect Repellents</title>
+    <link>https://www.epa.gov/feed/36581/rss.xml</link>
+    <description>Updated Insect Repellents content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/36581/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Using Repellent Products to Protect against Mosquito-Borne Illnesses </title>
+    <link>https://www.epa.gov/insect-repellents/using-repellent-products-protect-against-mosquito-borne-illnesses</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;More Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/features/stopmosquitoes/&quot;&gt;CDC-Avoid Mosquito Bites&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/dengue/&quot;&gt;CDC-Dengue&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/zika/index.html&quot;&gt;CDC-Zika Virus&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/chikungunya/pdfs/fs_mosquito_bite_prevention_travelers.pdf&quot;&gt;CDC-Mosquito bite prevention for travelers&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 924 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/zika/pregnancy/question-answers.html&quot;&gt;CDC- Questions and Answers about Zika and Pregnancy&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/chikungunya/&quot;&gt;CDC-Chikungunya Virus&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/mosquitocontrol&quot;&gt;Mosquito control&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/dengue/entomologyEcology/m_habitats.html&quot;&gt;Mosquito aquatic habitats&lt;/a&gt; &lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/dengue/entomologyEcology/m_lifecycle.html&quot;&gt;Mosquito lifecycle&lt;/a&gt; &lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://espanol.epa.gov/control-de-plagas/uso-de-repelentes-para-protegerse-contra-enfermedades-transmitidas-por-mosquitos&quot;&gt;Esta página Web está disponible en español&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recent outbreaks of mosquito-borne viral illnesses in Puerto Rico and Hawaii have raised questions about how to protect against the mosquitoes that transmit dengue, Zika, and other viral diseases (&lt;em&gt;Aedes albopictus&lt;/em&gt; and &lt;em&gt;Aedes aegypti&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/insect-repellents/find-insect-repellent-right-you&quot;&gt;Insect repellents registered by the EPA&lt;/a&gt; can be expected to repel these mosquitoes, provided the EPA-approved labeling says the product is for use to protect against mosquitoes in general or against Aedes mosquitoes in particular. EPA must have reviewed and accepted data to support these claims. &lt;/p&gt;
+
+&lt;p&gt;Insect repellents are one part of a more comprehensive program to control mosquitoes that transmit diseases such as dengue or Zika. Avoiding or preventing bites can help prevent transmission of dengue and any other vector-borne diseases. You can, for example, exclude mosquitoes from your home by using window and door screens. Dressing in light-colored clothing, long pants, and long sleeves, avoiding areas where mosquitoes are present, and &lt;a href=&quot;/mosquitocontrol&quot;&gt;taking other actions&lt;/a&gt; such as removing sources of standing water to prevent breeding can also help.&lt;/p&gt;
+
+&lt;p&gt;When using repellents, always follow label directions and &lt;a href=&quot;/insect-repellents/using-insect-repellents-safely-and-effectively&quot;&gt;safety precautions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Finding EPA-Registered Mosquito Adulticides and Larvicides&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://npic.orst.edu/NPRO/&quot;&gt;National Pesticide Information Center&#039;s NPRO portal&lt;/a&gt;  &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;is a public access point to the EPA&#039;s registered pesticide database. NPIC is an EPA information-sharing partner, and NPRO allows searches for pesticides that are registered against specific pests (such as Aedes mosquitoes), specific active ingredients, use sites (such as Ultra Low Volume, Institution, Outdoors, etc.), or Pesticide Types (such as Repellent or Feeding Depressant), then filter the results for actively registered products. NPRO has a type-ahead feature that suggests terms in the database based on the words you type, which makes it easier to find the proper search terms.&lt;/p&gt;
+
+&lt;p&gt;For example, someone who is interested in products that are registered for use in Ultra-Low Volume public health applications to combat Aedes species mosquitoes would follow these steps to search the NPRO portal:&lt;/p&gt;
+
+&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;Under the AI/Pest/Site tab at &lt;a href=&quot;http://npic.orst.edu/NPRO/&quot;&gt;http://npic.orst.edu/NPRO/&lt;/a&gt;, &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; type in &lt;em&gt;Aedes &lt;/em&gt;in the Pest box and select Aedes Mosquito from the type-ahead list.&lt;/li&gt;
+	&lt;li&gt;In the site box, type in ultra and select all of the Ultra Low Volume search terms in the type-ahead list.&lt;/li&gt;
+	&lt;li&gt;Click &quot;Search All Tabs,&quot; which will bring up a list of active and cancelled products.&lt;/li&gt;
+	&lt;li&gt;To filter the results to only active products, next to &quot;Product legend (click to filter),&quot; click &quot;Active&quot;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;This will bring up a list of four active products. Clicking on each one brings up its main NPRO product page with links to the latest EPA-approved label. For other search results that do not link to the EPA label, copy the EPA Reg. No. of the product and paste it into EPA&#039;s &lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=PPLS:1&quot;&gt;Pesticide Product Label System&lt;/a&gt; to bring up the EPA-approved master labels for the products.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 Jan 2016 13:49:53 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">131231 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Joint Statement on Insect Repellents by EPA and CDC</title>
+    <link>https://www.epa.gov/insect-repellents/joint-statement-insect-repellents-epa-and-cdc</link>
+    <description>&lt;p&gt;This statement discusses diseases of concern, government roles, and repellent selection and use.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-75391&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-07/documents/joint-epa-cdc-stmnt_3.pdf&quot; type=&quot;application/pdf; length=74977&quot; class=&quot;file-link&quot;&gt;Joint Statement on Insect Repellents by EPA and CDC (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 75 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 17 Jul 2014 15:30:53 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">57801 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Pests of Significant Public Health Importance</title>
+    <link>https://www.epa.gov/insect-repellents/list-pests-significant-public-health-importance</link>
+    <description>&lt;p&gt;Federal pesticide law requires EPA, in coordination with the United States Department of Health and Human Services and the United States Department of Agriculture, to identify pests of significant public health importance. This list is derived in large part from review of the pesticide/pest combinations for which efficacy (product performance) data are generally required to be submitted and reviewed before registration. In no way should this be interpreted to mean that EPA has or would base any regulatory action solely on this list. EPA is publishing this list separate from any statutory or regulatory conclusions which may be associated with public health pesticides.&lt;/p&gt;
+
+&lt;p&gt;Following is a brief description of some of the identified pests or category of pests and an explanation for designating each as a public health pest:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Cockroaches. The listed cockroaches are controlled to halt the spread of asthma, allergy, and food contamination.&lt;/li&gt;
+	&lt;li&gt;Body, head, and crab lice. These lice are surveyed for and controlled to prevent the spread of skin irritation and rashes, and to prevent the occurrence of louse-borne diseases such as epidemic typhus, trench fever, and epidemic relapsing fever in the United States.&lt;/li&gt;
+	&lt;li&gt;Mosquitoes. Mosquitoes are controlled to prevent the spread of mosquitoes bearing such diseases as malaria; St. Louis, Eastern, Western, West Nile and LaCrosse encephalitis; yellow fever and dengue fever.&lt;/li&gt;
+	&lt;li&gt;Ticks: The various tick species transmit diseases such as Lyme disease, tick-borne relapsing fever, ehrlichiosis, and Rocky Mountain spotted fever.&lt;/li&gt;
+	&lt;li&gt;Bed bugs: Controlled because their bites can cause allergic reactions.&lt;/li&gt;
+	&lt;li&gt;Various rats and mice. The listed rats and mice include those which are controlled to prevent the spread of rodent-borne diseases and contamination of food for human consumption.&lt;/li&gt;
+	&lt;li&gt;Various microorganisms, including bacteria, viruses, and protozoans. The listed  microorganisms are the subject of control programs by public health agencies and hospitals for the purpose of preventing the spread of numerous diseases.&lt;/li&gt;
+	&lt;li&gt;Reptiles and birds. The listed organisms are controlled to prevent the spread of disease and the prevention of direct injury.&lt;/li&gt;
+	&lt;li&gt;Various mammals. The listed organisms have the potential for direct human injury and can act as disease reservoirs (i.e., rabies, etc.).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA, the Department of Health and Human Services and the U.S. Department of Agriculture do not envision that this list of pests of significant public health importance will remain static. It is possible in the future, as there are new discoveries concerning the roles of species in spreading disease, that this list may need to be changed. Should any additional species be found to present public health problems, EPA may determine that it should consider them to be pests of significant public health importance under FIFRA Section 28 (d). As deemed necessary, the Agency will update the list of pests of significant public health importance.&lt;/p&gt;
+
+&lt;p&gt;More about this list: &lt;a href=&quot;/pesticide-registration/prn-2002-1-lists-pests-significant-public-health-importance&quot;&gt;List of pests of significant public health importance&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 11 Jul 2014 20:20:48 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">57607 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Repellency Awareness Graphic</title>
+    <link>https://www.epa.gov/insect-repellents/repellency-awareness-graphic</link>
+    <description>&lt;p&gt;EPA is allowing companies to apply for permission to include the new repellency awareness graphic on product labels of skin-applied insect repellents. This graphic is intended to help consumers easily identify the repellency time for mosquitos and ticks. Use of the graphic by manufacturers will be voluntary and available for qualifying companies. EPA will review products that apply to use the graphic to ensure that their scientific data meet current testing protocols and standard evaluation practices.&lt;/p&gt;
+
+&lt;p&gt;Current labeling of skin-applied insect repellent products does not allow for easily identifying the insects repelled by a product and the amount of time a product will repel insects. Over the past few years, EPA has:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;held focus groups;&lt;/li&gt;
+	&lt;li&gt;gotten input through an on line survey; and &lt;/li&gt;
+	&lt;li&gt;worked with manufacturers and others to create this graphic.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA recently accepted public comments on the graphic, which are available for viewing at&lt;a href=&quot;https://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=postedDate;po=0;s=EPA-HQ-OPP-2013-0406;dct=FR%252BPR%252BN%252BO%252BSR%252BPS&quot;&gt;docket number EPA-HQ-OPP-2013-0406&lt;/a&gt;.  Thank you to those who commented on the graphic! Your input will help guide our work.&lt;/p&gt;
+
+&lt;p&gt;Look for the graphic to appear on skin-applied insect repellent labels in 2016!&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;On This Page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#looklike&quot;&gt;What Does the Graphic Look Like?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#benefits&quot;&gt;Benefits of the Graphic&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#participate&quot;&gt;How Can A Company Participate?&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/blockquote&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;looklike&quot; id=&quot;looklike&quot;&gt;&lt;/a&gt;What Does the Graphic Look Like?&lt;/h2&gt;
+
+&lt;div class=&quot;figure image mode-full&quot; style=&quot;width:350px&quot;&gt;
+	&lt;div class=&quot;figure image mode-full caption&quot; style=&quot;width:550px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:350px;&quot;&gt;&lt;img alt=&quot;Bottle Symbols&quot; title=&quot;Sample of how the graphic looks&quot; height=&quot;400&quot; width=&quot;350&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-07/bottle-symbols.jpg&quot; /&gt;&lt;/span&gt;
+		&lt;div class=&quot;figcaption&quot;&gt;&lt;strong&gt;You may see one of three versions of the graphic on a product label showing mosquitoes, ticks, or mosquitoes and ticks are repelled.&lt;/strong&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;benefits&quot; id=&quot;benefits&quot;&gt;&lt;/a&gt;Benefits of the Graphic&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Protection&lt;/strong&gt;
+
+		&lt;ul&gt;&lt;li&gt;​The repellency awareness graphic can help people protect themselves. Mosquitoes and ticks may carry &lt;a href=&quot;/insect-repellents/risk-disease-mosquito-and-tick-bites&quot;&gt;diseases, such as West Nile virus and Lyme disease&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;The best way to protect yourself and your family is to avoid bites!&lt;/li&gt;
+			&lt;li&gt;Insect repellents can discourage mosquitoes, ticks and other biting insects from landing on you. Also see:
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/insect-repellents/tips-prevent-mosquito-bites&quot;&gt;Tips to prevent mosquito bites&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/insect-repellents/tips-prevent-tick-bites&quot;&gt;Tips to prevent tick bites&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Information&lt;/strong&gt;
+		&lt;ul&gt;&lt;li&gt;The graphic will identify the type of pest the product is expected to repel and the amount of time the repellent will be effective. The repellency awareness graphic will be available only for skin-applied insect repellent products.&lt;/li&gt;
+			&lt;li&gt;You may see one of three versions of the graphic on a product label showing that mosquitoes, ticks, or mosquitoes AND ticks are repelled.&lt;/li&gt;
+		&lt;/ul&gt;&lt;blockquote&gt;
+			&lt;div class=&quot;figure image mode-full caption&quot; style=&quot;width:580px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:580px;&quot;&gt;&lt;img alt=&quot;Description of the Repellency Awareness Graphic&quot; title=&quot;Description of the Repellency Awareness Graphic&quot; height=&quot;200&quot; width=&quot;580&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-07/symbol-description.jpg&quot; /&gt;&lt;/span&gt;
+				&lt;div class=&quot;figcaption&quot;&gt;&lt;strong&gt;The Repellency Awareness graphic will provide clear information about repellency on a product label to help you choose an insect repellent.&lt;/strong&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/blockquote&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Choice&lt;/strong&gt;
+		&lt;ul&gt;&lt;li&gt;Some repellents work longer than others. Choose a product with a protection time that works for your expected activity.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Confidence&lt;/strong&gt;
+		&lt;ul&gt;&lt;li&gt;The number(s) shown in the graphic represent typical protection time(s).&lt;/li&gt;
+			&lt;li&gt;Protection time(s) are based on multiple, reliable studies. Products with this graphic have gone through an extra review by EPA.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;participate&quot; id=&quot;participate&quot;&gt;&lt;/a&gt;How Can A Company Participate?&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Participation in including the graphic on the label is voluntary.&lt;/li&gt;
+	&lt;li&gt;A company must provide new or cite existing scientific data to support their proposed graphic that EPA will evaluate to ensure that their scientific data meet current testing protocols and standard evaluation processes.&lt;/li&gt;
+	&lt;li&gt;Companies interested in participating should review the &lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OPP-2013-0406-0003&quot;&gt;guidance document&lt;/a&gt; and are encouraged to &lt;a href=&quot;/insect-repellents/forms/contact-us-about-insect-repellents&quot;&gt;contact us&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 02 Jul 2014 12:40:48 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">56763 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How to Apply for Protection Time Graphic</title>
+    <link>https://www.epa.gov/insect-repellents/how-apply-protection-time-graphic</link>
+    <description>&lt;p&gt;Apply for permission to use the new repellency awareness graphic on product labels of skin-applied insect repellents to help consumers easily identify the repellency time for mosquitoes and ticks. We will review products that apply to use the graphic to ensure that their scientific data meet current testing protocols and standard evaluation processes. Participation in this program is voluntary. &lt;/p&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Errors when Accessing Docket Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Note: If you are using versions 8 or 9 of Internet Explorer, links to some documents may take you to the regulations.gov home page, not the document you are seeking. If you experience this problem, try using another browser or later version of IE. Alternatively, you can right-click on the link and select either “open in a new window” or “copy the link,” which you would then paste into your browser.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If your company is interested in participating in this program:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OPP-2013-0406-0003&quot;&gt;Review the guidance document&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/insect-repellents/forms/contact-us-about-insect-repellents&quot;&gt;Contact us for more information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 30 Aug 2013 19:56:20 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">38957 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Find the Insect Repellent that is Right for You</title>
+    <link>https://www.epa.gov/insect-repellents/find-insect-repellent-right-you</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;ins data-date=&quot;2016,2,1&quot;&gt;&lt;a href=&quot;/insect-repellents/using-repellent-products-protect-against-mosquito-borne-illnesses&quot;&gt;Using Repellent Products to Protect against Mosquito-Borne Illnesses&lt;/a&gt;&lt;/ins&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/insect-repellents/using-insect-repellents-safely-and-effectively&quot;&gt;Using insect repellents safely and effectively&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/insect-repellents/skin-applied-repellent-ingredients&quot;&gt;Information on active ingredients in EPA-registered repellent products&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/insect-repellents/regulation-skin-applied-repellents&quot;&gt;Learn more about registered and unregistered repellent products&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/insect-repellents/repellency-awareness-graphic&quot;&gt;Repellency awareness graphic&lt;/a&gt; -- We now allow repellent manufacturers to apply to add a graphic on labels of skin-applied insect repellent products to communicate the repellency time for mosquitos and ticks.
+				&lt;ul&gt;&lt;li class=&quot;indented&quot;&gt;Use of the graphic by manufacturers will be voluntary and available for qualifying products.&lt;/li&gt;
+					&lt;li class=&quot;indented&quot;&gt;We took comments on this graphic at docket number &lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OPP-2013-0406-0001&quot;&gt;EPA-HQ-OPP-2013-0406&lt;/a&gt;. &lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://espanol.epa.gov/control-de-plagas/encuentre-el-repelente-de-insectos-adecuado&quot;&gt;Información relacionada disponible en español&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;#search tool&quot;&gt;Use the search tool below&lt;/a&gt; to help you choose the repellent product that is right for you. &lt;span&gt;You can specify the:&lt;/span&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;insect,&lt;/li&gt;
+	&lt;li&gt;protection time,&lt;/li&gt;
+	&lt;li&gt;active ingredient, or&lt;/li&gt;
+	&lt;li&gt;other product-specific information.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;span&gt;Consider these factors when choosing an insect repellent:&lt;/span&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;Do you need protection from mosquitoes, ticks or both?&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;How long will you be exposed to them? &lt;span&gt;Be sure to use a product with a protection time that fits your activity.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/insect-repellents/using-repellent-products-protect-against-mosquito-borne-illnesses&quot;&gt;Learn about using repellent products to protect against mosquito-borne illnesses (e.g., Zika, Dengue, West Nile Virus)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span&gt;For the safe and effective use of pesticide products, always read the product label before using the product. &lt;/span&gt;&lt;a href=&quot;/insect-repellents/using-insect-repellents-safely-and-effectively&quot;&gt;More about safe use of insect repellents&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;span&gt;Notes about the results:&lt;/span&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;The results from the search tool include only skin-applied insect repellent products registered by EPA. No unregistered products are listed.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;The registration number means the company provided EPA with technical information on the safety of the product and its effectiveness against mosquitoes and/or ticks. While this technical information is based on scientific testing guidelines and approved study methods, there are variations in the resulting protection times because of differences in the testing conditions.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;A single registered insect repellent product may have multiple product names that a company may use for marketing purposes. You can look for the registration number of repellents products you buy and check them against this database. &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;Some of the products listed may not be available in all areas of the United States.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;&lt;span&gt;&lt;a name=&quot;search tool&quot; id=&quot;search tool&quot;&gt;&lt;/a&gt;​Disclaimer: &lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;Any products listed are for informational purposes only. Inclusion of a product listed/referenced is not an endorsement.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;EPA and the U.S. Government do not endorse any product or service. &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;The information in this database was last updated in February 2016.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;If you believe a product not on the list should be included, use the contact us link to request that the product be added.&lt;span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;iframe height=&quot;725&quot; name=&quot;Insect repellent search&quot; scrolling=&quot;auto&quot; src=&quot;https://cfpub.epa.gov/oppref/insect_s/&quot; width=&quot;900&quot; id=&quot;Insect repellent search&quot;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Tue, 20 Aug 2013 13:39:06 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">38139 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Skin-Applied Repellent Ingredients</title>
+    <link>https://www.epa.gov/insect-repellents/skin-applied-repellent-ingredients</link>
+    <description>&lt;p&gt;The following are active ingredients in EPA-registered skin-applied insect repellents:&lt;/p&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Search for Insect Repellents&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/insect-repellents/find-insect-repellent-right-you&quot;&gt;Find insect repellent products registered by EPA&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:3032&quot;&gt;Catnip oil -- EPA pesticide regulatory information&lt;/a&gt; (Nepeta cataria, also known as catmint) (4 products)&lt;/li&gt;
+	&lt;li&gt;Oil of citronella (3 registered products; also used in &lt;a href=&quot;/insect-repellents/regulation-skin-applied-repellents&quot;&gt;unregistered products&lt;/a&gt; that meet the requirements for exemption from registration)
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:3153&quot;&gt;EPA pesticide regulatory information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://npic.orst.edu/ingred/citronella.html&quot;&gt;National Pesticide Information Center (NPIC) citronella fact sheet&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/insect-repellents/deet&quot;&gt;DEET&lt;/a&gt; (more than 500 products)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:62&quot;&gt;IR 3535 -- EPA pesticide regulatory information&lt;/a&gt; (3-[N-Butyl-N-acetyl]-aminopropionic acid, ethyl ester) (about 45 products)&lt;/li&gt;
+	&lt;li&gt;Oil of Lemon Eucalyptus (chemical name: &lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:1968&quot;&gt;p-Menthane-3,8-diol -- EPA pesticide regulatory information&lt;/a&gt; (10 products)&lt;/li&gt;
+	&lt;li&gt;Picaridin (about 40 products)
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:3413&quot;&gt;EPA pesticide regulatory information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://npic.orst.edu/ingred/picaridin.html&quot;&gt;NPIC picaridin fact sheet&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:31:0::NO:1,3,31,7,12,25:P3_XCHEMICAL_ID:2883&quot;&gt;2-undecanone -- EPA pesticide regulatory information&lt;/a&gt; (or methyl nonyl ketone) (1 product)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Read about &lt;a href=&quot;/insect-repellents/regulation-skin-applied-repellents&quot;&gt;EPA regulation of skin-applied insect repellents&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 18 Jul 2013 16:47:54 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">37199 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>What is an Insect Repellent?</title>
+    <link>https://www.epa.gov/insect-repellents/what-insect-repellent</link>
+    <description>&lt;p&gt;Did you know that insect repellents are pesticides? According to pesticide law, a pesticide is any substance or mixture of substances intended for:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;preventing;&lt;/li&gt;
+	&lt;li&gt;destroying;&lt;/li&gt;
+	&lt;li&gt;repelling; or&lt;/li&gt;
+	&lt;li&gt;mitigating any pest. (Mitigating means reducing the effect of something.)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;​People often think of the term pesticide as referring only to something that kills insects, but &quot;pesticide&quot; is a broad term and includes products that don&#039;t kill anything, such as insect repellents. Products labeled as repellents are not designed to eliminate pests. For example, in the case of the skin-applied repellents, the product makes people less attractive to the pest.&lt;/p&gt;
+
+&lt;h2&gt;Types of Insect Repellents &lt;/h2&gt;
+
+&lt;p&gt;Insect repellents applied to the skin are often what we think of when we want to avoid insect bites. These are the most broadly useful, since they stay with you regardless of your movements. Other types of repellents that EPA registers include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Clip-on products that have a pad with the repellent and a fan or other mechanism that disperses the repellent near your body.&lt;/li&gt;
+	&lt;li&gt;Spatial repellents use a heating mechanism to disperse repellent in an outdoor area. Examples of dispersal mechanisms for spatial repellents include:
+		&lt;ul&gt;&lt;li&gt;Lanterns.&lt;/li&gt;
+			&lt;li&gt;Torches.&lt;/li&gt;
+			&lt;li&gt;Table-top diffusers.&lt;/li&gt;
+			&lt;li&gt;Candles.&lt;/li&gt;
+			&lt;li&gt;Coils.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Note that both stationary and wearable spatial repellents are for outdoor use only, unless the label specifically states they can be used indoors. Read the label to understand any limitations such as:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;The area they cover.&lt;/li&gt;
+	&lt;li&gt;The effect of wind on their use.&lt;/li&gt;
+	&lt;li&gt;Whether or not the repellent needs to build up in an area before mosquitoes will be repelled effectively.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To be registered by EPA, these products must have safety and effectiveness data, which EPA evaluates before allowing them on the market.&lt;/p&gt;
+
+&lt;p&gt;Other products on the market, such as devices that rely on sound waves, are not registered by EPA, so no safety or effectiveness data are available, and EPA does not know if they will be effective against mosquitoes. They may be subject to certain regulatory requirements as &quot;devices.&quot; &lt;a href=&quot;/safepestcontrol/pesticide-devices-guide-consumers&quot;&gt;Read more about regulation of devices&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;http://wwwnc.cdc.gov/travel/yellowbook/2016/the-pre-travel-consultation/protection-against-mosquitoes-ticks-other-arthropods&quot;&gt;information for travelers from the Centers for Disease Control and Prevention&lt;/a&gt; on protection from mosquitoes, including &lt;a href=&quot;https://www.cdc.gov/zika/geo/index.html&quot;&gt;locations where Zika transmission has occurred in the United States and other areas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;For more information:&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/safepestcontrol&quot;&gt;Pest Control and Pesticide Safety for Consumers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/mosquitocontrol&quot;&gt;Mosquito Control&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticides&quot;&gt;More information about pesticides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 18 Jul 2013 13:48:50 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">37167 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Tips to Prevent Tick Bites</title>
+    <link>https://www.epa.gov/insect-repellents/tips-prevent-tick-bites</link>
+    <description>&lt;p&gt;&lt;a href=&quot;https://espanol.epa.gov/control-de-plagas/consejos-para-prevenir-las-picaduras-de-garrapatas&quot;&gt;Información relacionada disponible en español&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using the right insect repellent and other preventive actions can discourage ticks, mosquitoes, and other biting insects from landing on you. Here are tips for other preventive actions you can take against ticks. &lt;a href=&quot;/insect-repellents/tips-prevent-mosquito-bites&quot;&gt;Also see Tips to Prevent Mosquito Bites.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Avoid Tick Habitats&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Reduce time spent in potentially tick-infested habitats such as tall grass and shrubs.&lt;/li&gt;
+	&lt;li&gt;Reduce leaf litter and mow tall grass or brush that may serve as tick habitat.&lt;/li&gt;
+	&lt;li&gt;Walk in the center of trails to avoid contact with adjacent vegetation.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Avoid Tick Bites&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Keep ticks away from exposed skin by wearing long-sleeved shirts, long pants, and high boots.&lt;/li&gt;
+	&lt;li&gt;Tuck shirts into pants and pants into socks to cover gaps in your clothing where ticks can get in.&lt;/li&gt;
+	&lt;li&gt;Wear light-colored clothing to be able to see ticks more easily.&lt;/li&gt;
+	&lt;li&gt;Check the entire body for ticks; promptly &lt;a href=&quot;http://www.cdc.gov/lyme/removal/index.html&quot;&gt;remove attached ticks without squeezing them&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Additional Information on Avoiding Tick Habitats, Bites and Infection&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://npic.orst.edu/pest/tick/index.html&quot;&gt;Managing Ticks and Preventing Bites&lt;/a&gt; - NPIC &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/ticks/index.html&quot;&gt;Ticks&lt;/a&gt; - CDC&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lymediseaseassociation.org/images/NewDirectory/Resources/LDA_Brochures/LymeRPrimer-2013.pdf&quot;&gt;Lyme Primer Brochure (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 685 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; - Lyme Disease Association, Inc. (LDA) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 15 Jul 2013 17:01:33 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">37053 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:00:07, expires @ 2017-01-26 16:00:07, lifetime 12 hours -->

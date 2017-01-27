@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/52447/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Clearinghouse for Inventories and Emissions Factors</title>
+    <link>https://www.epa.gov/feed/52447/rss.xml</link>
+    <description>Updated Clearinghouse for Inventories and Emissions Factors content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/52447/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>CHIEF Listserv</title>
+    <link>https://www.epa.gov/chief/chief-listserv</link>
+    <description>&lt;p&gt;The Emission Inventory and Analysis Group (EIAG) and the Measurement Policy Group (MPG) maintain the CHIEF Listserv.  Once you subscribe to CHIEF you will receive notices of conferences, new EIAG and MPG documents, updates on electronic reporting, and other emission factor and inventory information via e-mail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To join the CHIEF Listserv, send an e-mail to&lt;a href=&quot;mailto:join-chief@lists.epa.gov&quot;&gt; join-chief@lists.epa.gov&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To unsubscribe from the Listserv, send an e-mail to &lt;a href=&quot;mailto:leave-chief@lists.epa.gov&quot;&gt;leave-chief@lists.epag&lt;/a&gt;&lt;/strong&gt;&lt;a href=&quot;mailto:leave-chief@lists.epa.gov&quot;&gt;&lt;strong&gt;.g&lt;/strong&gt;&lt;strong&gt;ov&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 08 Sep 2016 19:14:43 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">159703 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CHIEF Archive Search</title>
+    <link>https://www.epa.gov/chief/chief-archive-search</link>
+    <description>&lt;p&gt;The CHIEF Archive is a collection of references cited in the &lt;a href=&quot;/air-emissions-factors-and-quantification/ap-42-compilation-air-emission-factors#5thed&quot;&gt;&lt;i&gt;Compilation of Air Pollutant Emission Factors, AP-42, Volume I: Stationary Point &amp;amp; Area Sources&lt;/i&gt;&lt;/a&gt; and the supporting background documentation.&lt;/p&gt;
+
+&lt;p&gt;If you need older AP-42 emission factors for comparison or historical purposes, the earlier editions and supplements are available on the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/oldeditions.html&quot;&gt;&lt;span&gt;Older Editions of AP 42, Compilation of Air Pollutant Emission Factors webpage.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This information is provided for reference purposes only. This is an archive of older and often superseded documentation related to stationary source emissions factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;form action=&quot;http://search.epa.gov/epasearch/epasearch&quot; method=&quot;get&quot;&gt;
+	&lt;div class=&quot;form-item form-type-textfield&quot;&gt;&lt;label for=&quot;what-look&quot;&gt;What are you looking for?&lt;/label&gt; &lt;input class=&quot;form-text&quot; id=&quot;what-look&quot; name=&quot;querytext&quot; size=&quot;40&quot; value=&quot;&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+	&lt;input class=&quot;form-submit&quot; value=&quot;Submit Search&quot; type=&quot;submit&quot; /&gt;&lt;input name=&quot;typeofsearch&quot; value=&quot;area&quot; type=&quot;hidden&quot; /&gt;&lt;input name=&quot;fld&quot; value=&quot;ttnchie1|old&quot; type=&quot;hidden&quot; /&gt;&lt;input name=&quot;areaname&quot; value=&quot;CHIEF Archive&quot; type=&quot;hidden&quot; /&gt;&lt;input name=&quot;doctype&quot; value=&quot;pdf&quot; type=&quot;hidden&quot; /&gt;&lt;input name=&quot;areacontacts&quot; value=&quot;https://www.epa.gov/chief/forms/contact-us-about-clearinghouse-inventories-and-emissions-factors&quot; type=&quot;hidden&quot; /&gt;&lt;input name=&quot;filter&quot; value=&quot;sample4filt.hts&quot; type=&quot;hidden&quot; /&gt;&lt;/form&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Search Tips&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+	By default, the search locates documents containing words in the exact order they are typed. When you want documents containing any of several words, use commas to separate them.&lt;br /&gt;&lt;br /&gt;
+	For example, searching for:&lt;br /&gt;&lt;br /&gt;
+	1) &lt;em&gt;formaldehyde emissions&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;indented&quot;&gt;
+	&lt;div class=&quot;indented&quot;&gt;will find documents that contain the phrase &lt;strong&gt;formaldehyde emissions&lt;/strong&gt; somewhere in the document.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	2) &lt;em&gt;formaldehyde, emissions&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;indented&quot;&gt;
+	&lt;div class=&quot;indented&quot;&gt;will find documents that contain either &lt;strong&gt;formaldehyde &lt;/strong&gt;or&lt;strong&gt; emissions&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	3) &lt;em&gt;formaldehyde and emissions&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;indented&quot;&gt;
+	&lt;div class=&quot;indented&quot;&gt;will find documents that contain both &lt;strong&gt;formaldehyde &lt;/strong&gt;and &lt;strong&gt;emissions&lt;/strong&gt;, but not in any particular order.&lt;/div&gt;
+
+	&lt;div class=&quot;indented&quot;&gt; &lt;/div&gt;
+
+	&lt;div&gt;The search results are displayed in the EPA Search Results page.  Going to Advance Search from the Results page will search all of EPA.&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 22 Apr 2016 14:33:43 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">147403 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us About Clearinghouse for Inventories and Emissions Factors</title>
+    <link>https://www.epa.gov/chief/forms/contact-us-about-clearinghouse-inventories-and-emissions-factors</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Send your questions or comments to &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;, or use the form below. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address: &lt;/strong&gt;&lt;br /&gt;
+	US EPA/OAQPS&lt;br /&gt;
+	109 TW Alexander Drive&lt;br /&gt;
+	Research Triangle Park, NC 27711&lt;/p&gt;
+</description>
+     <pubDate>Fri, 15 Jan 2016 17:41:15 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">132161 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:47:07, expires @ 2017-01-26 16:47:07, lifetime 12 hours -->

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/16797/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Technical Resources about Beaches</title>
+    <link>https://www.epa.gov/feed/16797/rss.xml</link>
+    <description>Updated Technical Resources about Beaches content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/16797/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>2016 Recreational Waters Conference Poster Presentations</title>
+    <link>https://www.epa.gov/beach-tech/2016-recreational-waters-conference-poster-presentations</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference&quot;&gt;2016 Recreational Waters Conference&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Information related to the 2016 Recreational Waters Conference Poster Presentations.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295995&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/application-hydrodynamic-modeling.pdf&quot; type=&quot;application/pdf; length=5344655&quot; class=&quot;file-link&quot;&gt;Application of Hydrodynamic Modeling to Predict Viral Impacts from Wastewater Treatment Plant Discharges Adjacent to Shellfish Growing Areas (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296063&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/improving-nyc-beach.pdf&quot; type=&quot;application/pdf; length=1575243&quot; class=&quot;file-link&quot;&gt;Improving Water Quality Modeling for NYC Beach Advisory and Closure Guidance (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296071&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/heal-bays-report-card.pdf&quot; type=&quot;application/pdf; length=1879432&quot; class=&quot;file-link&quot;&gt;Heal the Bay’s Beach Report Card (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296073&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/next-generation-pcrbased.pdf&quot; type=&quot;application/pdf; length=903482&quot; class=&quot;file-link&quot;&gt;The Next Generation PCR-Based Quantification Method for Ambient Waters: Digital PCR (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 903 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296075&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/comparison-agar-pectin-based.pdf&quot; type=&quot;application/pdf; length=917834&quot; class=&quot;file-link&quot;&gt;Comparison of Agar- and Pectin-Based Methods for the Detection of Male-Specific Coliphage (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 918 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296079&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/customized-dna-micorarray.pdf&quot; type=&quot;application/pdf; length=1711166&quot; class=&quot;file-link&quot;&gt;A Customized DNA Microarray for Microbial Source Tracking in Environmental Systems (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296081&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/how-epa-source-id.pdf&quot; type=&quot;application/pdf; length=4291437&quot; class=&quot;file-link&quot;&gt;How EPA’s Source ID Technology and Digital PCR Enhance Watershed Management (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296049&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/risk-levels-toxic-cyanobacteria.pdf&quot; type=&quot;application/pdf; length=830461&quot; class=&quot;file-link&quot;&gt;Risk Levels of Toxic Cyanobacteria in Portuguese Recreational Freshwaters (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 830 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296057&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/pollution-source-italian-beaches.pdf&quot; type=&quot;application/pdf; length=545874&quot; class=&quot;file-link&quot;&gt;Pollution Source Identification, Tracking, and Sanitary Survey on Italian Beaches (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 546 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296085&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/microbial-source-tracking.pdf&quot; type=&quot;application/pdf; length=2628790&quot; class=&quot;file-link&quot;&gt;Microbial Source Tracking at Two Beaches (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296087&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/beyond-swimming.pdf&quot; type=&quot;application/pdf; length=2646355&quot; class=&quot;file-link&quot;&gt;Beyond Swimming: Playing in the Cold Waters of Alaska (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296267&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/washington-state-marine-beach.pdf&quot; type=&quot;application/pdf; length=3958088&quot; class=&quot;file-link&quot;&gt;Washington State Marine Beach Bacteria Trends, 2003–2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296327&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/assessing-potential-sources.pdf&quot; type=&quot;application/pdf; length=3076921&quot; class=&quot;file-link&quot;&gt;Assessing Potential Sources and Influential Parameters of Fecal Contamination at F.W. Kent Park Lake, Oxford, Iowa (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296329&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/using-canine-scent-tracking.pdf&quot; type=&quot;application/pdf; length=2324677&quot; class=&quot;file-link&quot;&gt;Using Canine Scent Tracking To Determine Bacteria Source Contamination: A Case Study from the Grand Traverse Bay Watershed, Michigan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296467&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/utilizing-green-infrastructure.pdf&quot; type=&quot;application/pdf; length=2679952&quot; class=&quot;file-link&quot;&gt;Utilizing Green Infrastructure to Protect Public Health at Beaches: A Case Study in Suttons Bay, MI (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296069&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/rapid-assessment-methods.pdf&quot; type=&quot;application/pdf; length=756701&quot; class=&quot;file-link&quot;&gt;On Rapid Assessment Methods Using Statistical Modeling: Multiple Least Squares Regression vs. Logistic Regression (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 757 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296011&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/beach-sand.pdf&quot; type=&quot;application/pdf; length=2404172&quot; class=&quot;file-link&quot;&gt;Beach Sand and the Potential for Infectious Disease Transmission: Observations and Recommendations (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296469&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/methods-sample-ecoli.pdf&quot; type=&quot;application/pdf; length=2344725&quot; class=&quot;file-link&quot;&gt;Methods to Sample E. coli in Foreshore Sand and Pore Water (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296269&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/how-achieve-major-reduction.pdf&quot; type=&quot;application/pdf; length=1509697&quot; class=&quot;file-link&quot;&gt;How to Achieve a Major Reduction in Shore Pollution Using a Business Quality Approach (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-296077&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/economic-evaluation-beach-safety.pdf&quot; type=&quot;application/pdf; length=1354961&quot; class=&quot;file-link&quot;&gt;An Economic Evaluation of the Demand for Beach Safety Information (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-298795&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/predictive-modeling-microbial-indicators.pdf&quot; type=&quot;application/pdf; length=4375117&quot; class=&quot;file-link&quot;&gt;Predictive Modeling of Microbial Indicators for Timely Beach Notifications and Advisories at Marine Beaches (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-298797&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/process-relationships-evaluating-role.pdf&quot; type=&quot;application/pdf; length=4222228&quot; class=&quot;file-link&quot;&gt;Process Relationships for Evaluating the Role of Light-induced Inactivation of Coliphages at Selected Beaches and Nearby Tributaries of the Great Lakes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 22 Jun 2016 16:50:24 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">152989 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2016 Recreational Waters Conference Proceedings</title>
+    <link>https://www.epa.gov/beach-tech/2016-recreational-waters-conference-proceedings</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference&quot;&gt;2016 Recreational Waters Conference&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Information related to the 2016 Recreational Waters Conference Proceedings.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295857&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-toc-2016.pdf&quot; type=&quot;application/pdf; length=1002415&quot; class=&quot;file-link&quot;&gt;Agenda and Table of Contents (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295859&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session1-2016.pdf&quot; type=&quot;application/pdf; length=218657&quot; class=&quot;file-link&quot;&gt;Session 1: Welcome Speakers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 219 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295861&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session2-2016.pdf&quot; type=&quot;application/pdf; length=5882746&quot; class=&quot;file-link&quot;&gt;Session 2: Trends in Beach Management (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 6 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295863&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session3-2016.pdf&quot; type=&quot;application/pdf; length=9237574&quot; class=&quot;file-link&quot;&gt;Session 3: Recreation Water Monitoring and Implementation Challenges/Successes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 9 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295869&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session4-2016.pdf&quot; type=&quot;application/pdf; length=10106503&quot; class=&quot;file-link&quot;&gt;Session 4: Citizen Science (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 10 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295871&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session5-2016.pdf&quot; type=&quot;application/pdf; length=2167176&quot; class=&quot;file-link&quot;&gt;Session 5: Epidemiology and Quantitative Microbial Risk Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295873&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session6-2016.pdf&quot; type=&quot;application/pdf; length=5656254&quot; class=&quot;file-link&quot;&gt;Session 6: Advances in Alternative Indicators and Measurement (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 6 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295875&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session7-2016.pdf&quot; type=&quot;application/pdf; length=5050826&quot; class=&quot;file-link&quot;&gt;Session 7: Pollution Source Identification, Tracking, and Sanitary Surveys (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295881&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session8-2016.pdf&quot; type=&quot;application/pdf; length=6718980&quot; class=&quot;file-link&quot;&gt;Session 8: Harmful Algal Blooms Impact (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 7 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295883&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session9-2016.pdf&quot; type=&quot;application/pdf; length=6752025&quot; class=&quot;file-link&quot;&gt;Session 9: Restoration and Remediation of Beaches (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 7 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295885&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-session10-2016.pdf&quot; type=&quot;application/pdf; length=5886069&quot; class=&quot;file-link&quot;&gt;Session 10: Predictive Modeling and Forecasting (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 6 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295889&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-abstracts-2016.pdf&quot; type=&quot;application/pdf; length=574141&quot; class=&quot;file-link&quot;&gt;Poster Presenters Abstracts and Bios (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(55 pp, 574 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295891&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/recreational-waters-attendees-2016.pdf&quot; type=&quot;application/pdf; length=231596&quot; class=&quot;file-link&quot;&gt;Attendee List (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 232 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 22 Jun 2016 14:05:29 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">152953 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Six Key Steps to Developing and Using Predictive Tools at Your Beach</title>
+    <link>https://www.epa.gov/beach-tech/six-key-steps-developing-and-using-predictive-tools-your-beach</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/beach-tech/models-predicting-beach-water-quality&quot;&gt;Models for Predicting Beach Water Quality&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This document provides guidance on developing predictive tools for recreational beaches.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-266075&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/six-key-steps-guidance-factsheet.pdf&quot; type=&quot;application/pdf; length=109823&quot; class=&quot;file-link&quot;&gt;Fact Sheet: Six Key Steps to Developing and Using Predictive Tools at Your Beach (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 110 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-266079&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/six-key-steps-guidance-report.pdf&quot; type=&quot;application/pdf; length=15122484&quot; class=&quot;file-link&quot;&gt;Six Key Steps to Developing and Using Predictive Tools at Your Beach (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(104 pp, 15 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Mar 2016 12:36:23 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">139109 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2016 Recreational Waters Conference Agenda</title>
+    <link>https://www.epa.gov/beach-tech/2016-recreational-waters-conference-agenda</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference&quot;&gt;2016 Recreational Waters Conference&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Information related to 2016 Recreational Waters Conference Agenda.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-257949&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-02/documents/recreational-waters-agenda-2016.pdf&quot; type=&quot;application/pdf; length=213421&quot; class=&quot;file-link&quot;&gt;2016 Recreational Waters Conference Agenda (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 213 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 22 Feb 2016 18:58:57 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">136333 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Beach Act of 2000</title>
+    <link>https://www.epa.gov/beach-tech/beach-act-2000</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Other Beaches Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://watersgeo.epa.gov/beacon2/&quot;&gt;Find your Beach&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/national-list-beaches&quot;&gt;National List of Beaches&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-grants&quot;&gt;Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-sanitary-surveys&quot;&gt;Sanitary Survey Tool&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/annual-swimming-season-statistics-1999-2012&quot;&gt;Annual Swimming Season Statistics&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Information related to the Beach Act of 2000.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-125207&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-04/documents/beaches-act-2000.pdf&quot; type=&quot;application/pdf; length=117556&quot; class=&quot;file-link&quot;&gt;BEACH Act (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 118 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Sun, 10 Jan 2016 14:32:27 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">131459 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PRAWN Beach Notification Data User Guide</title>
+    <link>https://www.epa.gov/beach-tech/prawn-beach-notification-data-user-guide</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Other Beaches Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://watersgeo.epa.gov/beacon2/&quot;&gt;Find your Beach&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/national-list-beaches&quot;&gt;National List of Beaches&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-grants&quot;&gt;Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-sanitary-surveys&quot;&gt;Sanitary Survey Tool&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/annual-swimming-season-statistics-1999-2012&quot;&gt;Annual Swimming Season Statistics&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Information related to PRAWN Beach Notification Data User Guide.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-234757&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/beachnotification-user-guide.pdf&quot; type=&quot;application/pdf; length=2496215&quot; class=&quot;file-link&quot;&gt;PRAWN Beach Notification Data User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(130 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 01 Dec 2015 14:23:45 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">127727 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2016 Recreational Waters Conference</title>
+    <link>https://www.epa.gov/beach-tech/2016-recreational-waters-conference</link>
+    <description>&lt;p&gt;April 12 – 15, 2016&lt;br /&gt;
+	New Orleans, Louisiana&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;The EPA’s Office of Science and Technology hosted a Recreational Waters Conference on:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Beach monitoring,&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Beach notification, and&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Implementation tools for the 2012 Recreational Water Quality Criteria&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA sponsored the national Recreational Waters Conference to bring together public health and environmental professionals from states, tribes, territories, the federal government, academic researchers, and other stakeholders to discuss the wide-ranging issues related to human health in waters used for recreation (e.g., swimming at beaches).&lt;/p&gt;
+
+&lt;p&gt;Approximately 250 federal, state, local government and other stakeholders attended the conference. The conference included a pre-conference session with presentations on sanitary surveys, quantitative polymerase chain reaction (qPCR) laboratory techniques, and predictive modeling; 10 sessions covering a range of topics related to recreational waters; and a poster session.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference-agenda&quot;&gt;Conference Agenda&lt;/a&gt;&lt;/h2&gt;
+
+&lt;hr /&gt;&lt;h2&gt;Conference Proceedings&lt;/h2&gt;
+
+&lt;p&gt;You can download the proceedings, separated into files by session, and poster presentations from the conference through the links below.&lt;/p&gt;
+
+&lt;p&gt;Please note that not all presenters provided their presentations or posters.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference-proceedings&quot;&gt;2016 Recreational Waters Conference Proceedings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/beach-tech/2016-recreational-waters-conference-poster-presentations&quot;&gt;2016 Recreational Waters Conference Poster Presentations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;If you have questions about the conference, please email &lt;a href=&quot;mailto:bone.tracy@epa.gov&quot;&gt;Tracy Bone&lt;/a&gt; (bone.tracy@epa.gov) or call (202) 564-5257.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 10 Nov 2015 19:44:49 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">125633 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Review of Potential Modeling Tools and Approaches to Support the BEACH Program</title>
+    <link>https://www.epa.gov/beach-tech/review-potential-modeling-tools-and-approaches-support-beach-program</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Other Beaches Links&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://watersgeo.epa.gov/beacon2/&quot;&gt;Find your Beach&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/national-list-beaches&quot;&gt;National List of Beaches&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-grants&quot;&gt;Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-sanitary-surveys&quot;&gt;Sanitary Survey Tool&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/beach-tech/annual-swimming-season-statistics-1999-2012&quot;&gt;Annual Swimming Season Statistics&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Information related to Review of Potential Modeling Tools and Approaches to Support the BEACH Program.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-223891&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/review-modeling-tools-appendices.pdf&quot; type=&quot;application/pdf; length=355651&quot; class=&quot;file-link&quot;&gt;Appendices (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(27 pp, 356 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 02 Nov 2015 22:52:41 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">124135 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Measure beach water to learn how clean it is</title>
+    <link>https://www.epa.gov/beach-tech/measure-beach-water-learn-how-clean-it</link>
+    <description>&lt;p&gt;We provide grant money to states, tribes, and local governments to protect beachgoers from contaminated water at coastal and Great Lakes beaches. We&#039;re also developing tools to better measure, identify, and address microbes in recreational waters and to better understand how these pollutants affect people’s health.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li id=&quot;microbes&quot;&gt;Create national standards and criteria (indicators) for pathogens (bacteria/ microbes) and work with states and tribes on adopting protections for their waterbodies.
+		&lt;ul&gt;&lt;li&gt;Recommended
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/wqc/microbial-pathogenrecreational-water-quality-criteria&quot;&gt;Bacteria criteria and guidance for implementation&lt;/a&gt;
+
+						&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/beaches/state-and-local-beach-programs&quot;&gt;Status report on state adoption&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/wqc/scientific-workshops-and-research&quot;&gt;Research&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;Regulatory
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/beach-tech/final-water-quality-standards-bacteria-rule-coastal-and-great-lakes-recreation-waters&quot;&gt;Final Water Quality Standards Bacteria Rule&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Create EPA-approved test methods
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/other-clean-water-act-test-methods-microbiological&quot;&gt;Methods to detect biological pollutants&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/200036RZ.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=2011%20Thru%202015|1995%20Thru%201999|1981%20Thru%201985|2006%20Thru%202010|1991%20Thru%201994|1976%20Thru%201980|2000%20Thru%202005|1986%20Thru%201990|Prior%20to%201976|Hardcopy%20Publications&amp;amp;Docs=&amp;amp;Query=821R97004&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A\ZYFILES\INDEX%20DATA\95THRU99\TXT\00000008\200036RZ.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=h|-&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;Improved Enumeration Methods for the Recreational Water Quality Indicators: Enterococci and Escherichia coli&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/beach-tech/beach-grants&quot;&gt;Give grants to fund state monitoring programs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Compile a &lt;a href=&quot;/beach-tech/national-list-beaches&quot;&gt;list of beaches&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/beach-tech/annual-swimming-season-statistics-1999-2012&quot;&gt;Conduct an annual survey of beach monitoring and closures&lt;/a&gt;&lt;/li&gt;
+	&lt;li id=&quot;research&quot;&gt;Use &lt;strong&gt;research and development&lt;/strong&gt; to obtain better environmental indicators and methods of detection
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractdetail/abstract/1765/report/0&quot;&gt;Epidemiological study&lt;/a&gt; - how water quality affects people&#039;s health&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/P10096DL.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=2000%20Thru%202005&amp;amp;Docs=&amp;amp;Query=EMPACT%20Beaches%20Project%20&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5CZYFILES%5CINDEX%20DATA%5C00THRU05%5CTXT%5C00000026%5CP10096DL.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=-%7Ch&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;The EMPACT Beaches Project: Results from a Study on Microbiological Monitoring in Recreational Waters&lt;/a&gt; &lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/P100NT28.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=1995%20Thru%201999&amp;amp;Docs=&amp;amp;Query=Review%20Potential%20Modeling%20Tools%20Approaches%20Support%20BEACH%20Program%20&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5CZYFILES%5CINDEX%20DATA%5C95THRU99%5CTXT%5C00000037%5CP100NT28.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=-%7Ch&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;Predict beach conditions through modelling&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/beach-tech/review-potential-modeling-tools-and-approaches-support-beach-program&quot;&gt;Appendices&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/waterdata&quot;&gt;Water Quality Models&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Mon, 02 Nov 2015 21:10:52 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">124123 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:25:32, expires @ 2017-01-26 17:25:32, lifetime 12 hours -->

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/148851/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Emissions Factors and Quantification</title>
+    <link>https://www.epa.gov/feed/148851/rss.xml</link>
+    <description>Updated Air Emissions Factors and Quantification content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/148851/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>AP-42: Compilation of Air Emission Factors</title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-compilation-air-emission-factors</link>
+    <description>&lt;p class=&quot;highlighted&quot;&gt;&lt;strong&gt;On This Page:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Compilation of Air Pollutant Emission Factors (AP-42)
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Proposed/&quot;&gt;Proposed/Revised/New Emisions Factors&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#drafts&quot;&gt;AP-42 Proposed Factors, But Not Finalized&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#5thed&quot;&gt;AP-42, Fifth Edition Compilation of Air Pollutant Emission Factors, Volume 1: Stationary Point and Area Sources&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Additional AP 42 Resources
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Historical&quot;&gt;Historical AP-42 Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#faqs&quot;&gt;AP-42 Frequent Questions&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#older&quot;&gt;Older editions of AP-42, Volume 1&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;em&gt;&lt;a name=&quot;Compilation of Air Pollutant Emission&quot; id=&quot;Compilation of Air Pollutant Emission&quot;&gt;&lt;/a&gt;Compilation of Air Pollutant Emission Factors (AP-42)&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;AP-42, &lt;em&gt;Compilation of Air Pollutant Emission Factors&lt;/em&gt;, has been published since 1972 as the primary compilation of EPA&#039;s emission factor information. It contains emission factors and process information for more than 200 air pollution source categories. A source category is a specific industry sector or group of similar emitting sources. The emission factors have been developed and compiled from source test data, material balance studies, and engineering estimates. The Fifth Edition of AP-42 was published in January 1995. Since then EPA has published supplements and updates to the fifteen chapters available in&lt;em&gt; Volume I, Stationary Point and Area Sources. &lt;/em&gt;The latest emissions factors are available below on this website. Use the AP 42 Chapter webpage links below to access the document by chapter.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;a name=&quot;Proposed/&quot; id=&quot;Proposed/&quot;&gt;&lt;/a&gt;Proposed/Revised/New Emissions Factors&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;/air-emissions-factors-and-quantification/documentation-supporting-proposed-and-new-emissions-factors&quot;&gt;Documentation Supporting Proposed and New Emissions Factors&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;a id=&quot;drafts&quot; name=&quot;drafts&quot;&gt;&lt;/a&gt;AP-42 Proposed Emissions Factors, But Not Finalized&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/whatisadraft.txt&quot;&gt;After the comment period, can I use a draft section? (TXT)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 p, 1 K)&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Chapter &amp;amp; Section&lt;/th&gt;
+			&lt;th&gt;Description&lt;/th&gt;
+			&lt;th&gt;Comments Requested by:&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Section 2.4&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch02/index.html&quot;&gt;Municipal Solid Waste Landfills&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;May 5, 2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Section 4.12&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch04/index.html&quot;&gt;Manufacture of Rubber Products&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;February 2, 2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 15&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch15/index.html&quot;&gt;Ordnance Detonation&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;December 7, 2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;5thed&quot; name=&quot;5thed&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;AP 42, Fifth Edition Compilation of Air Pollutant Emission Factors, Volume 1: Stationary Point and Area Sources&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Chapter&lt;/th&gt;
+			&lt;th&gt;Title&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Cover page and Table of Contents&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/toc_kwrd.pdf&quot;&gt;Cover page, detailed Table of Contents, Publications in Series, Insertion Instructions, and Key Word Index (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 128 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;. This is current through the Fifth Edition, Supplement C of AP 42. For sections and chapters added after November 1997, see the chapter web pages below.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Introduction&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/c00s00.pdf&quot;&gt;Introduction to AP 42, Volume I, Fifth Edition ( PDF)&lt;/a&gt; - January 1995 &lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 70 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 1&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch01/index.html&quot;&gt;External Combustion Sources&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 2&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch02/index.html&quot;&gt;Solid Waste Disposal&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 3&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch03/index.html&quot;&gt;Stationary Internal Combustion Sources&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 4&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch04/index.html&quot;&gt;Evaporation Loss Sources&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 5&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch05/index.html&quot;&gt;Petroleum Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 6&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch06/index.html&quot;&gt;Organic Chemical Process Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 7&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch07/index.html&quot;&gt;Liquid Storage Tanks&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 8&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch08/index.html&quot;&gt;Inorganic Chemical Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 9&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch09/index.html&quot;&gt;Food and Agricultural Industries&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 10&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch10/index.html&quot;&gt;Wood Products Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 11&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch11/index.html&quot;&gt;Mineral Products Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 12&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch12/index.html&quot;&gt;Metallurgical Industry&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 13&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch13/index.html&quot;&gt;Miscellaneous Sources&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 14&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch14/index.html&quot;&gt;Greenhouse Gas Biogenic Sources&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chapter 15&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch15/index.html&quot;&gt;Ordnance Detonation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Appendix A&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/appendix/appa.pdf&quot;&gt;Miscellaneous Data and Conversion Factors&lt;/a&gt; -- September 1985 &lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 103 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Appendix B.1&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/appendix/appb-1.pdf&quot;&gt;Particle Size Distribution Data and Sized Emission Factors for Selected Sources&lt;/a&gt; -- October 1986&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 2 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Appendix B.2&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/appendix/appb-2.pdf&quot;&gt;Generalized Particle Size Distributions&lt;/a&gt; -- September 1996&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 137 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Appendix C.1&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/appendix/app-c1.pdf&quot;&gt;Procedures for Sampling Surface/Bulk Dust Loading&lt;/a&gt; -- July 1993&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 65 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Appendix C.2&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/appendix/app-c2.pdf&quot;&gt;Procedures for Laboratory Analysis of Surface/Bulk Dust Loading Samples&lt;/a&gt; -- July 1993&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 42 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;&lt;a id=&quot;Historical&quot; name=&quot;Historical&quot;&gt;&lt;/a&gt;Historical AP-42 Information&lt;/h3&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;strong&gt;Proposed and final rules related to emissions factors&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;October 14, 2009&lt;/strong&gt; - The &lt;a href=&quot;http://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2009-0174-0001&quot;&gt;Emissions Factors Program Improvements - Advanced notice of proposed rulemaking&lt;/a&gt; is available on the www.regulations.gov website. The comment period ended December 14, 2009.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;&lt;a id=&quot;faqs&quot; name=&quot;faqs&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;AP 42 FAQs&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;/air-emissions-factors-and-quantification/ap-42-frequent-questions&quot;&gt;Answers to frequent questions about AP 42.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;Drafts Under Review&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p class=&quot;indented&quot;&gt;There are currently no drafts sections under review.&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;AP 42 listing of supplements and updates.&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/suppchga-f.pdf&quot;&gt;Supplements A through F (1996 - 2000)(PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 148 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;/ttn/chief/ap42/suppchg-updates.pdf&quot;&gt;Updates 2001 to 2011 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 241 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;&lt;a id=&quot;older&quot; name=&quot;older&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;Older editions of AP-42, Volume 1&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/oldeditions.html&quot;&gt;This information is available for historical purposes only&lt;/a&gt;. For the most recent emissions factors, supported by the EPA, please see the &lt;a href=&quot;#5thed&quot;&gt;table of contents above&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 26 Sep 2016 15:14:27 +0000</pubDate>
+ <dc:creator>tlowe</dc:creator>
+ <guid isPermaLink="false">161129 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 12: Metallurgical Industry  - Frequent Questions </title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-12-metallurgical-industry-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#arcwelding&quot;&gt;I would like to estimate emissions from electric arc welding operations for a client, but I could not find an emission factor for the electrode type in their operation. I have already checked tables 12.19-1 and 12.19-2 of AP 42. Any suggestions?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here? Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;arcwelding&quot; name=&quot;arcwelding&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;I WOULD LIKE TO ESTIMATE EMISSIONS FROM ELECTRIC ARC WELDING OPERATIONS FOR A CLIENT, BUT I COULD NOT FIND AN EMISSION FACTOR FOR THE ELECTRODE TYPE IN THEIR OPERATION. I HAVE ALREADY CHECKED TABLES 12.19-1 AND 12.19-2 OF AP 42. ANY SUGGESTIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Select the welding rod that comes closest to the welding rod your client is using. Be sure to have them select a rod that is flux coated if their rod is flux coated and vice versa. Be sure to have them select a rod that can be used to weld the same base metal that they are welding. &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 18:24:15 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159819 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 11: Mineral Products  - Frequent Questions</title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-11-mineral-products-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#crushstone&quot;&gt;Where do I find the updated table 11.19.2-1, Emission Factors for Crushed Stone Processing Operations?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;crushstone&quot; name=&quot;crushstone&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;WHERE DO I FIND THE UPDATED TABLE 11.19.2-1, EMISSION FACTORS FOR CRUSHED STONE PROCESSING OPERATIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;At the time the section was made final some additional QA work was expected on test reports that would allow us to publish the total particulate emission factors. You can find the results of the total particulate tests in the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch11/bgdocs/b11s1902.pdf&quot;&gt;Chapter 11.19.2 Background Document (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(50 pp, 700 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;. The test data are as good if not better than many we use for other emission factors. However, industry and some state agencies have expressed their uncertainty of the data.&lt;br /&gt;
+	Contact &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;Info CHIEF&lt;/a&gt;, for more information. &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 16:30:31 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159797 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 7: TANKS Software  - Frequent Questions </title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-7-tanks-software-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;How do I get a copy of the user&#039;s manual?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;How do I estimate emissions from a heated tank?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#3&quot;&gt;How does the TANKS model generate speciated emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#4&quot;&gt;How do I calculate emissions from a fixed roof tank with a roof geometry other than a cone or dome?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#5&quot;&gt;How can I obtain Antoine&#039;s coefficients for other chemical compounds?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#6&quot;&gt;I have a tank that is operated with little or no change in the liquid level (i.e., a &quot;constant level&quot; tank). I believe the model is overestimating the working losses from the tank. What should I do?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#7&quot;&gt;My storage tank has a nitrogen blanket. How should I estimate emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#8&quot;&gt;Can I use TANKS to estimate emissions from a fixed roof tank operated under &quot;low pressure&quot; conditions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#9&quot;&gt;I vent my fixed roof tank to a control device. How should I estimate emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#10&quot;&gt;What do I do if my tank color is not found in AP-42?&lt;/a&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#11&quot;&gt;The meteorological data is not available in TANKS for my storage tank location. Where can I get this information?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#12&quot;&gt;Can I use the TANKS model to estimate emissions from a tank storing an inorganic liquid?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#13&quot;&gt;My tank fittings are not in AP-42. How can I calculate emissions? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#14&quot;&gt;How can I estimate emissions from degassing and cleaning operations during a tank turnaround? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#15&quot;&gt;How can I estimate emissions from roof landing losses in the TANKS program?&lt;/a&gt; Updated February 2010.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#16&quot;&gt;My tank contains a two-phase liquid. What do I do?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#17&quot;&gt;If my horizontal fixed roof tank is underground, how do I estimate emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#18&quot;&gt;I have a gasoline service station with underground fixed roof tanks that are vapor balanced. What equations should I use to estimate emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#19&quot;&gt;My tank stores different liquids during the year. How do I account for this variability? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#20&quot;&gt;Can TANKS be used to calculate emissions from indoor tanks? What about heated indoor tanks? &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;1&quot; name=&quot;1&quot;&gt;&lt;/a&gt;HOW DO I GET A COPY OF THE USER&#039;S MANUAL?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www3.epa.gov/ttn/chief/software/tanks/tank4man.pdf&quot;&gt;user&#039;s manual (PDF)&lt;/a&gt; for TANKS 4.0&lt;span class=&quot;fileinfo&quot;&gt;(87 pp, 415 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; is available here and on the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/software/tanks/index.html&quot;&gt;TANKS webpage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;2&quot; name=&quot;2&quot;&gt;&lt;/a&gt;HOW DO I ESTIMATE EMISSIONS FROM A HEATED TANK?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;If a tank is heated, the vapor space can be assumed to be at a constant temperature and no breathing losses will occur. The tank must be heated to a uniform temperature and well insulated, thus isolating it from heat gains and losses due to insolation and variations in ambient temperature. Changes in atmospheric pressure are assumed to have only negligible contributions to breathing losses and are not considered.&lt;/p&gt;
+
+&lt;p&gt;The menu selection &quot;Is Tank Heated&quot; on the Physical Characterics screen should be answered &quot;Yes&quot; to estimate emissions from vertical and horizontal fixed roof tanks. This will allow you to enter the temperature data directly on the Tank Contents screen. There are temperature data input fields for Average, Minimum and Maximum Liquid Surface Temperature and for Bulk Liquid Temperature (degrees Fahrenheit). The temperature at which the tank is heated should be entered in all four data fields. If the tank is not well insulated, daily variations in liquid surface temperatures may be observed. The Minimum and Maximum Liquid Surface Temperatures, if available, should be input to estimate breathing losses.&lt;/p&gt;
+
+&lt;p&gt;You also should check the information in the chemical database to ensure that appropriate data are available for the program to estimate vapor pressure at the desired temperature. For example, if Option 1 is used in the chemical database for estimating vapor pressure (valid in the temperature range from 40 to 100 F) and the desired temperature is over 100 F, the program will calculate a vapor pressure at 100 F (it will not extrapolate to higher temperatures). Options 2, 3 or 4 in the chemical database should be used for estimating vapor pressures at temperatures greater than 100 F.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;3&quot; name=&quot;3&quot;&gt;&lt;/a&gt;HOW DOES THE TANKS MODEL GENERATE SPECIATED EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The model offers several options for speciating emissions into their component parts. When the user is able to specify the properties and amounts of the liquids stored, the program relies upon Raoult&#039;s Law and Dalton&#039;s Law to estimate component emissions. If liquid properties are not known, Version 4.0 of TANKS has default liquid speciation profiles for crude oil and selected petroleum products. The last option uses tank headspace vapor speciation data for fixed roof tanks. The user must supply this data.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;4&quot; name=&quot;4&quot;&gt;&lt;/a&gt;HOW DO I CALULATE EMISSIONS FROM A FIXED ROOF TANK WITH A ROOF GEOMETRY OTHER THAN A CONE OR DOME?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The model is programmed to handle cone and dome roofs which are the most common geometries. Other geometries must use one of these options to calculate the &quot;Roof Outage&quot; (the additional tank shell height in feet that would produce a volume of space equivalent to the space under the roof alone). The Roof Outage is one component of the Vapor Space Outage used in the breathing loss calculation.&lt;/p&gt;
+
+&lt;p&gt;You must calculate the Roof Outage external to the program based on the geometry of the roof. Once a value of the outage is obtained, modify the program using either the dome or cone roof options by varying either the dome roof radius or the cone roof slope until an equivalent outage is calculated. As an example, if the tank has a flat roof, the &quot;Cone Roof&quot; option can be selected and the slope set to &quot;0&quot;.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;5&quot; name=&quot;5&quot;&gt;&lt;/a&gt;HOW DO I OBTAIN ANTOINE&#039;S COEFFICIENTS FOR OTHER CHEMICAL COMPOUNDS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Two of the best resources are the Handbook of Chemistry and Physics and Perry&#039;s Chemical Engineering Handbook. These references should be available at most technical libraries. Other references are:&lt;/p&gt;
+
+&lt;blockquote&gt;Reid, Prausnitz and Sherwood, &lt;i&gt;Properties of Liquids and Gases&lt;/i&gt;, McGraw Hill, 1987.&lt;/blockquote&gt;
+
+&lt;blockquote&gt;Yaws and Yang, &lt;i&gt;Property Data: To Estimate Vapor Pressure Easily, Hydrocarbon Processing,&lt;/i&gt; October 1989.&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+	&lt;p&gt;Baublik, Fried and Hola, &lt;i&gt;The Vapor Pressures of Pure Substances, Selected Values of the Temperature Dependent Vapor Pressure in the Normal and Low Pressure Regions,&lt;/i&gt; Elsevier Science Publishers, Amsterdam, 1984.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Antoine&#039;s Coeffecients are also in the NIST Chemistry workbook, which is available online at: &lt;a href=&quot;http://webbook.nist.gov/chemistry/&quot;&gt;http://webbook.nist.gov/chemistry/&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;**Please note that in some resources, such as the NIST Chemistry Workbook, the Antoine&#039;s equation constants in bar, K must be converted to mmHg, degrees C for use in TANKS 4.0.   To do this, add 2.8751 to A, keep B the same, and add 273.15 to C.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;6&quot; name=&quot;6&quot;&gt;&lt;/a&gt;I HAVE A TANK THAT IS OPERATED WITH LITTLE OR NO CHANGE IN THE LIQUID LEVEL (i.e. a &quot;constant level&quot; tank). I BELIEVE THE MODEL IS OVERESTIMATING THE WORKING LOSSES FROM THE TANK. WHAT SHOULD I DO?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The inputs to the working loss equation should be modified for constant level tanks since the working losses are based on changes in the height of the liquid. First, determine the annual tank turnover rate by dividing the tank throughput by the tank volume. Next, determine the average change in liquid height and divide it by the maximum liquid height to establish a ratio. Multiply the annual tank turnover rate by this ratio to obtain the adjusted annual turnover rate for input to the model.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;7&quot; name=&quot;7&quot;&gt;&lt;/a&gt;MY STORAGE TANK HAS A NITROGEN BLANKET. HOW SHOULD I ESTIMATE EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Whether the tank is of fixed roof or internal floating roof design, no modifications to the equations are required. The gas blanket will not affect emissions if the tank is operated near atmospheric pressure.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;8&quot; name=&quot;8&quot;&gt;&lt;/a&gt;CAN I USE TANKS TO ESTIMATE EMISSIONS FROM A FIXED ROOF TANK OPERATED UNDER &quot;LOW PRESSURE&quot; CONDITIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Low pressure conditions are defined by API as an operating range of just above atmospheric to 15 psig. The TANKS model uses equations developed under atmospheric conditions and is not programmed to estimate emissions from low pressure tanks. However, you may use API Bulletin 2516, Evaporation Loss From Low-Pressure Tanks, to determine if your storage pressure is sufficient to prevent standing storage losses from the material stored. Working losses can be calculated as a percentage of the throughput.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;9&quot; name=&quot;9&quot;&gt;&lt;/a&gt;I VENT MY ROOF TO A CONTROL DEVICE. HOW SHOULD I ESTIMATE EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have test data from the outlet of the control device, you can use it to estimate emissions rather than using the model. If you have a limited amount of data, but have conducted inlet and outlet testing, you can calculate the efficiency of the control device and apply it to emissions estimated by the model.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;10&quot; name=&quot;10&quot;&gt;&lt;/a&gt;WHAT DO I DO IF MY TANK COLOR IS NOT FOUND IN AP-42?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;You should select the most similar color available to represent your tank. If you have a paint with high reflectivity, use white.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;11&quot; name=&quot;11&quot;&gt;&lt;/a&gt;THE METEOROLOGICAL DATA IS NOT AVAILABLE IN TANKS FOR MY STORAGE TANK LOCATION.  WHERE CAN I GET THIS INFORMATION?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes it is possible to substitute another city from TANKS that has similar meteorological data.  The substitutions can be found in Appendix C of the TANKS User&#039;s Manual.&lt;/p&gt;
+
+&lt;p&gt;Meteorological data for cities that cannot be substituted can be found online at the following web sites:&lt;/p&gt;
+
+&lt;p&gt;United States:  National Solar Radiation Data Base (&lt;a href=&quot;http://rredc.nrel.gov/solar/old_data/nsrdb/&quot;&gt;http://rredc.nrel.gov/solar/old_data/nsrdb/&lt;/a&gt;) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;International:  NASA Surface Meteorology and Solar Energy Data Set (&lt;a href=&quot;https://eosweb.larc.nasa.gov/sse/&quot;&gt;https://eosweb.larc.nasa.gov/sse/&lt;/a&gt;) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;12&quot; name=&quot;12&quot;&gt;&lt;/a&gt;CAN I USE THE TANKS MODEL TO ESTIMATE EMISSIONS FROM A TANK STORING AN INORGANIC LIQUID?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Although the equations used in the model were developed to estimate evaporative losses from storage of organic liquids, it is possible to use the model if the inorganic liquid has a measurable vapor pressure and data are available for one of the vapor pressure options in the chemical database. Emission estimates produced by the model will be of unknown accuracy due to the absence of confirmatory testing for emissions from inorganic liquid storage tanks.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;13&quot; name=&quot;13&quot;&gt;&lt;/a&gt;MY TANK FITTINGS ARE NOT IN AP-42. HOW CAN I CALCULATE EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Loss factors for the most common fitting types and control configurations have been developed through testing conducted by the American Petroleum Institute (API) and reviewed by EPA. The fittings tested were generic designs that approximated evaporative loss mechanisms common to most vendor components. In most cases, if the exact design is not found, one that is of similar geometry will be available and should be selected.&lt;/p&gt;
+
+&lt;p&gt;API, with the support of EPA, has developed the Tank Seals and Fittings (TSF) Program which can be used to develop loss factors for vendor specific component designs. You should contact API for further information if you want to conduct testing to establish a loss factor for your component.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;14&quot; name=&quot;14&quot;&gt;&lt;/a&gt;HOW CAN I ESTIMATE EMISSIONS FROM DEGASSING AND CLEANING OPERATIONS DURING A TANK TURNAROUND?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The following procedure can be used to approximate emissions from each step of the operation:&lt;/p&gt;
+
+&lt;p&gt;Emptying (degassing)&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;For a fixed roof tank, calculate emissions from one turnover with the turnover factor (K&lt;sub&gt;N&lt;/sub&gt;) = 1 to account for vapors displaced during filling and then add the emissions from 1 turnover calculated as if the tank had a floating roof to account for clingage.&lt;/li&gt;
+	&lt;li&gt;For a floating roof tank, calculate emissions for one turnover then add the emissions from the tank assuming it has a fixed roof with a height equal to the height of the legs (about 6 or 7 ft.) to approximate the vapor displaced from the space under the floating roof.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Cleaning (sludge handling)&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Most wet sludges are about 80% to 90% liquid by weight. A conservative approach for estimating emissions is to assume the sludge is 80% liquid. The remainder is assumed to be VOC and emitted. As an alternative, the actual sludge moisture content can be determined.&lt;/li&gt;
+&lt;/ol&gt;&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;15&quot; name=&quot;15&quot;&gt;&lt;/a&gt;HOW CAN I ESTIMATE EMISSIONS FROM ROOF LANDING LOSSES in the TANKS program?&lt;/b&gt; Updated February 2010.&lt;/p&gt;
+
+&lt;p&gt;In November 2006, &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/ch07/index.html&quot;&gt;Section 7.1 of AP-42 was updated with subsection 7.1.3.2.2 Roof Landings&lt;/a&gt;. The TANKS program has not been updated with these new algorithms for internal floating roof tanks. It is based on the 1997 version of section 7.1.&lt;/p&gt;
+
+&lt;p&gt;It is possible to estimate these losses in TANKS by using a portion of the guidance developed for degassing and cleaning a tank by modeling the vapor space under the roof as a fixed roof tank and calculating the emissions from one turnover. This is less accurate than using section 7.1.3.2.2 of AP-42.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;16&quot; name=&quot;16&quot;&gt;&lt;/a&gt;MY TANK CONTAINS A TWO-PHASE LIQUID. WHAT DO I DO?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the properties (P, M&lt;sub&gt;v&lt;/sub&gt;, etc.) of the top phase to estimate emissions. Calculate throughput using the overall liquid.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;17&quot; name=&quot;17&quot;&gt;&lt;/a&gt;IF MY HORIZONTAL FIXED ROOF TANK IS UNDERGROUND, HOW DO I ESTIMATE EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;You should select the Horizontal Tank option and from the Physical Characteristics screen and answer &quot;Yes&quot; to the question, &quot;Is the tank underground?&quot; Since the surrounding earth limits the diurnal temperature change, the model assumes that there are no breathing losses from the tank (breathing losses from atmospheric pressure fluctuations are assumed to be negligible). Only working losses will be calculated.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;18&quot; name=&quot;18&quot;&gt;&lt;/a&gt;I HAVE A GASOLINE SERVICE STATION WITH UNDERGROUND FIXED ROOF TANKS THAT ARE VAPOR BALANCED. WHAT EQUATIONS SHOULD I USE TO ESTIMATE EMISSIONS?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the equations presented in Section 7.1.3.3 of AP-42 for variable vapor space tanks.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;19&quot; name=&quot;19&quot;&gt;&lt;/a&gt;MY TANK STORES DIFFERENT LIQUIDS DURING THE YEAR. HOW DO I ACCOUNT FOR THIS VARIABILITY?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Estimate emissions for the time period over which each liquid was stored, and sum the emissions to obtain the annual emissions.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;&lt;a id=&quot;20&quot; name=&quot;20&quot;&gt;&lt;/a&gt;CAN TANKS BE USED TO ESTIMATE EMISSIONS FROM INDOOR TANKS? WHAT ABOUT HEATED INDOOR TANKS? &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, it can be used for indoor tanks. It should be entered as a heated tank and input all 4 temperatures with the temperature of the building. The program knows that the temperatures are constant so no breathing losses are generated. TANKS doesn&#039;t care if the tank is at room temperature or is heated above that.  &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 16:09:02 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159793 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 6: Organic Chemical Process Industry  - Frequent Questions </title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-6-organic-chemical-process-industry-frequent</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#synrubber&quot;&gt;When will EPA update Section 6.10, synthetic rubber?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;synrubber&quot; name=&quot;synrubber&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;WHEN WILL EPA UPDATE CHAPTER 6.10, SYNTHETIC RUBBER?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;It is not on any schedule for updating at the moment. There&#039;s some MACT work that has to be done for synthetic rubber manufacturing. Contact &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;Info CHIEF&lt;/a&gt; for more information.  &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 16:04:56 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159791 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 5: Petroleum Industry  - Frequent Questions</title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-5-petroleum-industry-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#gasoline&quot;&gt;Are there any later references for emissions from dispensed gasoline spillage?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;gasoline&quot; name=&quot;gasoline&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;SECTION 5.2.2.3 OF AP-42 LISTS EMISSIONS FROM SPILLAGE AT 0.7LB/1000 GAL OF DISPENSED GASOLINE. THE REFERENCES FOR THIS EMISSION FACTOR ARE FROM 1972 AND 1975. ARE THERE ANY LATER REFERENCES?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Contact &lt;a href=&quot;mailto:landman.larry@epa.gov&quot;&gt;Larry Landman&lt;/a&gt; (734-214-4427) at the &lt;a href=&quot;/air-pollution-transportation/forms/contact-us-about-air-pollution-transportation&quot;&gt;EPA&#039;s Office of Transportation and Air Quality (OTAQ)&lt;/a&gt; for the latest spillage value. &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 15:59:07 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159789 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Chapter 4: Evaporation Loss Sources  - Frequent Questions </title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-chapter-4-evaporation-loss-sources-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#pvc&quot;&gt;How do you estimate emissions from wire coating by PVC extrusion?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;pvc&quot; name=&quot;pvc&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you estimate emissions from wire coating by PVC extrusion? I understand that PVC resins used for pipe are likely to have fewer additives than PVC used for wire coating. However, the emissions from vinyl chloride and degradation products may be similar.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We don&#039;t believe the results of the pipe extrusion testing are applicable since the PVC resin used was not compounded. We know that resin additives will tend to be emitted during processing and could be the major component of emissions. We suggest that you run a thermo-gravimetric analysis (TGA) of the resin (as long as your Title V agency agrees with this approach). A TGA requires you to heat a sample of the resin and through weigh loss will give you an estimate of the VOC emissions. Another option is to conduct some testing on wire coating operations. Some resin manufactures have conducted testing of their resins and it may be possible to get some numbers from them. &lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 15:48:53 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159783 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AP-42 Frequent Questions</title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-frequent-questions</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#download&quot;&gt;Can I download AP-42 Sections From the Internet?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#mobile&quot;&gt;Can I download emissions factors for Mobile Sources from the Internet?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#methods&quot;&gt;Is there a way to get the test methodologies that were used to determine the emissions factors?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#ratings&quot;&gt;What do the emissions factors ratings mean?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#drafts&quot;&gt;Can I use draft sections of AP-42?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;&lt;a href=&quot;#placeholder&quot;&gt;There are many sections of AP-42 where description changed from &quot;WORK SUSPENDED&quot; or &quot;WORK IN PROGRESS,&quot; to &quot;THIS IS A PLACEHOLDER HEADING&quot;. Why was the description changed?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;label for=&quot;jump-link&quot;&gt;Select an FAQ by Chapter:&lt;/label&gt;
+
+	&lt;div&gt;After you select a link, press go to jump to that link.&lt;/div&gt;
+	&lt;select class=&quot;form-select&quot; id=&quot;jump-link&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;null&quot;&gt;----&lt;/option&gt;&lt;option value=&quot;/node/159771&quot;&gt;General AP 42 Questions&lt;/option&gt;&lt;option value=&quot;/node/159783&quot;&gt;4. Evaporation Loss Sources&lt;/option&gt;&lt;option value=&quot;/node/159789&quot;&gt;5. Petroleum Industry&lt;/option&gt;&lt;option value=&quot;/node/159791&quot;&gt;6. Organic Chemical Process Industry&lt;/option&gt;&lt;option value=&quot;/node/159793&quot;&gt;7. Organic Liquid Storage Tanks&lt;/option&gt;&lt;option value=&quot;/node/159797&quot;&gt;11. Mineral Products Industry&lt;/option&gt;&lt;option value=&quot;/node/159819&quot;&gt;12. Metallurgical Industry&lt;/option&gt;&lt;/select&gt;&lt;input class=&quot;form-submit&quot; id=&quot;open-link&quot; value=&quot;Go&quot; type=&quot;submit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Can&#039;t find your question here?   Contact the Info CHIEF Help Desk at &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;download&quot; name=&quot;download&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Can I Download AP-42 Sections From The Internet?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes! The &lt;i&gt;Compilation of Air Pollutant Emission Factors, Volume I: Stationary Point and Area Sources&lt;/i&gt; is available on the &lt;a href=&quot;/air-emissions-factors-and-quantification/ap-42-compilation-air-emission-factors&quot;&gt;AP-42: Compilation of Air Emission Factors&lt;/a&gt; webpage.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;mobile&quot; name=&quot;mobile&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Can I Download Emissions Factors For Mobile Sources From The Internet?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;AP-42 Volume II: Mobile Sources is no longer maintained. More current mobile source emissions factors are available using the Office of Transportation and Air Quality (OTAQ) &lt;a href=&quot;/moves&quot;&gt;mobile source models&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, for reference purposes, OTAQ continues to post parts of the most recent mobile sources &lt;a href=&quot;/air-pollution-transportation/forms/contact-us-about-air-pollution-transportation&quot;&gt;AP-42, Volume II&lt;/a&gt; on their web site. In particular, Appendix H is still useful in documenting the emissions factors produced by MOBILE5, and in some cases carried over into MOBILE6 without additional documentation.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;methods&quot; name=&quot;methods&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;I Have Been Using Sections Of AP-42 To Obtain Emissions Factors. However, I Have Questions About How These Emissions Factors Are Obtained. Is There a Way To Get The Test Methodologies That Were Used To Determine The Emissions Factors?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The AP-42 Background Documents provide background information on how the AP-42 emissions factors were obtained. These documents include a literature review, emissions factor methodologies and reference materials. Most background documents are available on this site under the corresponding &lt;a href=&quot;/air-emissions-factors-and-quantification/ap-42-compilation-air-emission-factors&quot;&gt;AP-42 chapter page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;ratings&quot; name=&quot;ratings&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;What Do The Emissions Factors Ratings Mean?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The following information is from the Introduction of the &lt;i&gt;Compilation of Air Pollutant Emission Factors, Volume I: Stationary Point and Area Sources&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;Emissions factor ratings are best characterized as follows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;A = Excellent. Emission factor is developed primarily from A and B rated source test data taken from many randomly chosen facilities in the industry population. The source category population is sufficiently specific to minimize variability.&lt;/li&gt;
+	&lt;li&gt;B = Above average. Emission factor is developed primarily from A or B rated test data from a moderate number of facilities. Although no specific bias is evident, is not clear if the facilities tested represent a random sample of the industry. As with the A rating, the source category population is sufficiently specific to minimize variability.&lt;/li&gt;
+	&lt;li&gt;C = Average. Emission factor is developed primarily from A, B, and C rated test data from a reasonable number of facilities. Although no specific bias is evident, it is not clear if the facilities tested represent a random sample of the industry. As with the A rating, the source category population is sufficiently specific to minimize variability.&lt;/li&gt;
+	&lt;li&gt;D = Below average. Emission factor is developed primarily from A, B and C rated test data from a small number of facilities, and there may be reason to suspect that these facilities do not represent a random sample of the industry. There also may be evidence of variability within the source population.&lt;/li&gt;
+	&lt;li&gt;E = Poor. Factor is developed from C and D rated test data from a very few number of facilities, and there may be reason to suspect that the facilities tested do not represent a random sample of the industry. There also may be evidence of variability within the source category population.&lt;/li&gt;
+	&lt;li&gt;U = Unrated (Only used in the L&amp;amp;E documents). Emission factor is developed from source tests which have not been thoroughly evaluated, research papers, modeling data, or other sources that may lack supporting documentation. The data are not necessarily &quot;poor,&quot; but there is not enough information to rate the factors according to the rating protocol. &quot;U&quot; ratings are commonly found in L&amp;amp;E documents and FIRE rather than in AP-42.&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;drafts&quot; name=&quot;drafts&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I Use Draft Sections Of AP-42?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AP-42 sections designated as &#039;final&#039; have completed the public comment process and all issues have been resolved. Sections designated as &#039;draft&#039; reflect the fact that the comment period on these sections has passed, but not all issues have been resolved. EPA might receive additional data or comments that would cause a re-evaluation of the available data and possibly open another comment period. Users are encouraged to use factors from finalized sections, if available, but may decide that the draft emissions factors provide better estimates after reviewing the supporting documentation.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;placeholder&quot; name=&quot;placeholder&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;There Are Many Sections Of AP-42 That Have Not Been Completed. The Description Of Their Status Was Recently Changed From &quot;WORK IN PROGRESS,&quot; or &quot;WORK SUSPENDED - AT THIS TIME, THERE ARE NO PLANS TO UPDATE THIS SECTION&quot; to &quot;THIS IS A PLACEHOLDER HEADING SHOULD EPA DETERMINE AT SOME FUTURE DATE THAT DEVELOPMENT OF A SECTION IS WARRANTED.&quot; Why Was The Description Changed?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The new wording is a better indication of the actual status of EPA&#039;s efforts in these areas. Years ago, work was initiated in these areas, however, in most cases, no emissions data were made available for review and the sections were not developed. EPA has no plans to develop new sections for the placeholder headings at this time.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 15:00:52 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159771 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Emissions Factors Archive Guidance and Resource Material</title>
+    <link>https://www.epa.gov/air-emissions-factors-and-quantification/epa-emissions-factors-archive-guidance-and-resource</link>
+    <description>&lt;p&gt;Each link below presents a list of current documents and other resource material on that subject. Distribution and price information is given for obtaining copies. Links are provided for documents which are available for free download from CHIEF and other EPA Web sites. For older materials, check the &lt;a href=&quot;/chief/chief-archive-search&quot;&gt;CHIEF Archive.&lt;/a&gt;  &lt;/p&gt;
+
+&lt;h2&gt;Emissions Factors Reports&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;EPA Number:&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;AP-42&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Publication Title:&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/air-emissions-factors-and-quantification/basic-information-air-emissions-factors-and-quantification&quot;&gt;&lt;b&gt;Compilation of Air Pollutant Emission Factors AP-42, Fifth Edition, Volume I: Stationary Point and Area Sources.&lt;/b&gt;&lt;/a&gt; U.S. Environmental Protection Agency, Research Triangle Park, NC, January 1995.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Hard Copies Available:&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;U.S. GPO (202) 512-1800 (stock no. 055-000-00500-1, $56) &lt;br /&gt;
+				Recent supplements in electronic format only.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;b&gt;EPA Number:&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;AP-42, Supplements A - F, Updates 2001-2006&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Publication Title:&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ap42/suppchg-updates.pdf&quot;&gt;&lt;b&gt;Supplements to the Compilation of Air Pollutant Emission Factors AP-42, Fifth Edition, Volume I: Stationary Point and Area Sources (PDF)&lt;/b&gt;&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 141 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;U.S. Environmental Protection Agency, Research Triangle Park, NC, January 1995 - December 2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Thu, 08 Sep 2016 19:41:26 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">159715 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:16:31, expires @ 2017-01-27 11:16:31, lifetime 1 day -->

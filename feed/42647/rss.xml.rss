@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/42647/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Acute Exposure Guideline Levels</title>
+    <link>https://www.epa.gov/feed/42647/rss.xml</link>
+    <description>Updated Acute Exposure Guideline Levels content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/42647/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Nitrogen Dioxide - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/nitrogen-dioxide-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;Nitrogen Dioxide     10102-44-0     (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm      &lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.50&lt;/td&gt;
+			&lt;td&gt;0.50&lt;/td&gt;
+			&lt;td&gt;0.50 &lt;/td&gt;
+			&lt;td&gt;0.50&lt;/td&gt;
+			&lt;td&gt;0.50 &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;20&lt;/td&gt;
+			&lt;td&gt;15&lt;/td&gt;
+			&lt;td&gt;12&lt;/td&gt;
+			&lt;td&gt;8.2&lt;/td&gt;
+			&lt;td&gt;6.7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;34&lt;/td&gt;
+			&lt;td&gt;25&lt;/td&gt;
+			&lt;td&gt;20&lt;/td&gt;
+			&lt;td&gt;14&lt;/td&gt;
+			&lt;td&gt;11&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-206341&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/nitrogen_oxides_volume_11_1.pdf&quot; type=&quot;application/pdf; length=805606&quot; class=&quot;file-link&quot;&gt;Nitrogen oxides AEGL Technical  Support Document (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(116 pp, 806 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 30 Sep 2015 15:34:00 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">118691 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Nitrogen Tetroxide - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/nitrogen-tetroxide-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;Nitrogen Tetroxide     10544-72-6     (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm      &lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.25 &lt;/td&gt;
+			&lt;td&gt;0.25 &lt;/td&gt;
+			&lt;td&gt;0.25 &lt;/td&gt;
+			&lt;td&gt;0.25 &lt;/td&gt;
+			&lt;td&gt;0.25 &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;10&lt;/td&gt;
+			&lt;td&gt;7.6&lt;/td&gt;
+			&lt;td&gt;6.2&lt;/td&gt;
+			&lt;td&gt;4.1&lt;/td&gt;
+			&lt;td&gt;3.5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;17&lt;/td&gt;
+			&lt;td&gt;13&lt;/td&gt;
+			&lt;td&gt;10&lt;/td&gt;
+			&lt;td&gt;7.0&lt;/td&gt;
+			&lt;td&gt;5.7&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-206301&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/nitrogen_oxides_volume_11_0.pdf&quot; type=&quot;application/pdf; length=805606&quot; class=&quot;file-link&quot;&gt;Nitrogen oxides AEGL Technical Support Document (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(116 pp, 806 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 30 Sep 2015 14:44:12 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">118679 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Isobutyl chloroformate Results - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/isobutyl-chloroformate-results-aegl-program-0</link>
+    <description>&lt;table&gt;&lt;caption&gt;Isobutyl chloroformate 543-27-1  (Interim)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm (05/16/08)&lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt; NR&lt;/td&gt;
+			&lt;td&gt; NR&lt;/td&gt;
+			&lt;td&gt; NR&lt;/td&gt;
+			&lt;td&gt; NR&lt;/td&gt;
+			&lt;td&gt; NR&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt; 4.0&lt;/td&gt;
+			&lt;td&gt; 2.8&lt;/td&gt;
+			&lt;td&gt; 2.2&lt;/td&gt;
+			&lt;td&gt; 0.57&lt;/td&gt;
+			&lt;td&gt; 0.28&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt; 12&lt;/td&gt;
+			&lt;td&gt; 8.4&lt;/td&gt;
+			&lt;td&gt; 6.7&lt;/td&gt;
+			&lt;td&gt; 17&lt;/td&gt;
+			&lt;td&gt; 0.83&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;NR = Not recommended due to insufficient data&lt;/p&gt;
+
+&lt;p&gt;IMPORTANT NOTE: Interim AEGLs are established following review and consideration by the National Advisory Committee for AEGLs (NAC/AEGL) of public comments on Proposed AEGLs. Interim AEGLs are available for use by organizations while awaiting NRC/NAS peer review and publication of Final AEGLs. &lt;b&gt;Changes to Interim values and Technical Support Documents may occur prior to publication of Final AEGL values&lt;/b&gt;. In some cases, revised Interim values may be posted on this Web site, but the revised Interim Technical Support Document for the chemical may be subject to change. (Further information is available through AEGL Process).&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-185819&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/nitrogen_oxides_volume-11_mar-2012.pdf&quot; type=&quot;application/pdf; length=799740&quot; class=&quot;file-link&quot;&gt;Nitrogen Oxides Technical Support Document.pdf (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 800 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 02 Sep 2015 10:58:37 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">110609 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Guidelines and Criteria for the Search Strategy, Evaluation, Selection, and Documentation of Key Data and Supporting Data Used for the Derivation of AEGL Values</title>
+    <link>https://www.epa.gov/aegl/guidelines-and-criteria-search-strategy-evaluation-selection-and-documentation-key-data-and</link>
+    <description>&lt;p&gt;In 2001, the National Academies published&lt;strong&gt; &lt;/strong&gt;procedural guidance or &quot;Standing Operating Procedures&quot; to make development of AEGLs systematic, consistent, documented and transparent to the public.  The guidance is in Section 2.3 of the Standing Operationg Procedures link below.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-181573&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/section_2_3_of_sop_0.pdf&quot; type=&quot;application/pdf; length=153664&quot; class=&quot;file-link&quot;&gt;Section 2.3 of Standing Operating Procedures (SOP) for Developing Acute Exposure Guidelines (AEGls) for Hazardous Chemicals (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 154 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 20 Aug 2015 14:08:34 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">107657 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Compiled Acute Exposure Guideline Values (AEGLs)</title>
+    <link>https://www.epa.gov/aegl/compiled-acute-exposure-guideline-values-aegls</link>
+    <description>&lt;p&gt;AEGL values for all chemicals have been compiled into a pdf file that is sorted by CAS number.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-265259&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/compiled_aegl_update_.pdf&quot; type=&quot;application/pdf; length=1555681&quot; class=&quot;file-link&quot;&gt;Compiled AEGL Update, March 10, 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(72 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 09 Jul 2015 12:03:29 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">96283 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Methyl nonafluorobutyl ether Results - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/methyl-nonafluorobutyl-ether-results-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;(HFE-7100) Methyl nonafluorobutyl ether (40%) 163702-07-6 and Methyl nonafluoroisobutyl ether (60%) 163702-08-7 (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm&lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;2,500&lt;/td&gt;
+			&lt;td&gt;2,500&lt;/td&gt;
+			&lt;td&gt;2,500&lt;/td&gt;
+			&lt;td&gt;2,500&lt;/td&gt;
+			&lt;td&gt;2,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;8,200&lt;/td&gt;
+			&lt;td&gt;8,200&lt;/td&gt;
+			&lt;td&gt;8,200&lt;/td&gt;
+			&lt;td&gt;8,200&lt;/td&gt;
+			&lt;td&gt;8,200&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;15,000&lt;/td&gt;
+			&lt;td&gt;15,000&lt;/td&gt;
+			&lt;td&gt;15,000&lt;/td&gt;
+			&lt;td&gt;15,000&lt;/td&gt;
+			&lt;td&gt;15,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;!-- End your content. Begin standard footer --&gt;&lt;!-- These are Optional Links for redirecting users back to Home Pages or other pages --&gt;&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-95103&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/hfe7100_final_volume5_2007.pdf&quot; type=&quot;application/pdf; length=4854276&quot; class=&quot;file-link&quot;&gt;Methyl nonafluorobutyl ether AEGL Technical Support Document (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(58 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 01 Dec 2014 13:23:59 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">68307 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Agent GB (Sarin) Results - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/agent-gb-sarin-results-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;Agent GB (Sarin)     107-44-8     (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm     [mg/m&lt;sup&gt;3&lt;/sup&gt;]&lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.0012 [0.0069]&lt;/td&gt;
+			&lt;td&gt;0.00068 [0.0040]&lt;/td&gt;
+			&lt;td&gt;0.00048 [0.0028]&lt;/td&gt;
+			&lt;td&gt;0.00024 [0.0014]&lt;/td&gt;
+			&lt;td&gt;0.00017 [0.0010]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.015 [0.087]&lt;/td&gt;
+			&lt;td&gt;0.0085 [0.050]&lt;/td&gt;
+			&lt;td&gt;0.0060 [0.035]&lt;/td&gt;
+			&lt;td&gt;0.0029 [0.017]&lt;/td&gt;
+			&lt;td&gt;0.0022 [0.013]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.064 [0.38]&lt;/td&gt;
+			&lt;td&gt;0.032 [0.19]&lt;/td&gt;
+			&lt;td&gt;0.022 [0.13]&lt;/td&gt;
+			&lt;td&gt;0.012 [0.070]&lt;/td&gt;
+			&lt;td&gt;0.0087 [0.051]&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-94599&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21_4.pdf&quot; type=&quot;application/pdf; length=862714&quot; class=&quot;file-link&quot;&gt;Agent GB (Sarin) AEGL Technical Support Document (Pages 1-88) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(88 pp, 863 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94601&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21a_5.pdf&quot; type=&quot;application/pdf; length=953100&quot; class=&quot;file-link&quot;&gt;Agent GB (Sarin) AEGL Technical Support Document (Pages 89-194 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 953 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94605&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21b_7.pdf&quot; type=&quot;application/pdf; length=12951351&quot; class=&quot;file-link&quot;&gt;Agent GB (Sarin) AEGL Technical Support Document (Pages 195-300) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(105 pp, 13 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 26 Nov 2014 04:32:32 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">68109 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Agent GD (Soman) Results - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/agent-gd-soman-results-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;Agent GD (Soman)     96-64-0     (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm     [mg/m&lt;sup&gt;3&lt;/sup&gt;]&lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.00046 [0.0035]&lt;/td&gt;
+			&lt;td&gt;0.00026 [0.0020]&lt;/td&gt;
+			&lt;td&gt;0.00018 [0.0014]&lt;/td&gt;
+			&lt;td&gt;0.000091 [0.00070]&lt;/td&gt;
+			&lt;td&gt;0.000065 [0.00050]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.0057 [0.044]&lt;/td&gt;
+			&lt;td&gt;0.0033 [0.025]&lt;/td&gt;
+			&lt;td&gt;0.0022 [0.018]&lt;/td&gt;
+			&lt;td&gt;0.0012 [0.0085]&lt;/td&gt;
+			&lt;td&gt;0.00085 [0.0065]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.049 [0.38]&lt;/td&gt;
+			&lt;td&gt;0.025 [0.19]&lt;/td&gt;
+			&lt;td&gt;0.017 [0.13]&lt;/td&gt;
+			&lt;td&gt;0.0091 [0.070]&lt;/td&gt;
+			&lt;td&gt;0.0066 [0.051]&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-94593&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21_3.pdf&quot; type=&quot;application/pdf; length=862714&quot; class=&quot;file-link&quot;&gt;Agent GD (Soman) AEGL Technical Suport Document (Pages 1-88) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(88 pp, 863 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94595&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21a_4.pdf&quot; type=&quot;application/pdf; length=953100&quot; class=&quot;file-link&quot;&gt;Agent GD (Soman) AEGL Technical Suport Document (Pages 89-194) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 953 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94597&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21b_5.pdf&quot; type=&quot;application/pdf; length=12951351&quot; class=&quot;file-link&quot;&gt;Agent GD (Soman) AEGL Technical Suport Document (Pages 195-300) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(105 pp, 13 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 26 Nov 2014 03:48:36 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">68107 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Nerve Agent GA (Tabun) Results - AEGL Program</title>
+    <link>https://www.epa.gov/aegl/nerve-agent-ga-tabun-results-aegl-program</link>
+    <description>&lt;table&gt;&lt;caption&gt;Nerve Agent GA (Tabun)     77-81-6     (Final)&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th id=&quot;ppm10min&quot;&gt;10 min&lt;/th&gt;
+			&lt;th id=&quot;ppm30min&quot;&gt;30 min&lt;/th&gt;
+			&lt;th id=&quot;ppm60min&quot;&gt;60 min&lt;/th&gt;
+			&lt;th id=&quot;ppm4hr&quot;&gt;4 hr&lt;/th&gt;
+			&lt;th id=&quot;ppm8hr&quot;&gt;8 hr&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;6&quot;&gt;
+				&lt;b&gt;ppm     [mg/m&lt;sup&gt;3&lt;/sup&gt;]&lt;/b&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 1&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.0010 [0.0069]&lt;/td&gt;
+			&lt;td&gt;0.00060 [0.0040]&lt;/td&gt;
+			&lt;td&gt;0.00042 [0.0028]&lt;/td&gt;
+			&lt;td&gt;0.00021 [0.0014]&lt;/td&gt;
+			&lt;td&gt;0.00015 [0.0010]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 2&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.013 [0.087]&lt;/td&gt;
+			&lt;td&gt;0.0075 [0.050]&lt;/td&gt;
+			&lt;td&gt;0.0053 [0.035]&lt;/td&gt;
+			&lt;td&gt;0.0026 [0.017]&lt;/td&gt;
+			&lt;td&gt;0.0020 [0.013]&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;AEGL 3&lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;0.11 [0.76]&lt;/td&gt;
+			&lt;td&gt;0.057 [0.38]&lt;/td&gt;
+			&lt;td&gt;0.039 [0.26]&lt;/td&gt;
+			&lt;td&gt;0.021 [0.14]&lt;/td&gt;
+			&lt;td&gt;0.015 [0.10]&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-94581&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21_2.pdf&quot; type=&quot;application/pdf; length=862714&quot; class=&quot;file-link&quot;&gt;Nerve Agent GA (Tabun) AEGL Technical Support Document (Pages 1-88) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(88 pp, 863 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94587&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21a_3.pdf&quot; type=&quot;application/pdf; length=953100&quot; class=&quot;file-link&quot;&gt;Nerve Agent GA (Tabun) AEGL Technical Support Document (Pages 89-194) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 953 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-94591&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-11/documents/tsd21b_4.pdf&quot; type=&quot;application/pdf; length=12951351&quot; class=&quot;file-link&quot;&gt;Nerve Agent GA (Tabun) AEGL Technical Support Document (Pages 195-300) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(105 pp, 13 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 26 Nov 2014 02:21:52 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">68105 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:10:04, expires @ 2017-01-27 11:10:04, lifetime 1 day -->

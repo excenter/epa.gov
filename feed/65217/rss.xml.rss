@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/65217/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Technical Resources for Fish and Shellfish Consumption</title>
+    <link>https://www.epa.gov/feed/65217/rss.xml</link>
+    <description>Updated Technical Resources for Fish and Shellfish Consumption content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/65217/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>2014 Draft Advice ‐ Fish: What Pregnant Women and Parents Should Know</title>
+    <link>https://www.epa.gov/fish-tech/2014-draft-advice-fish-what-pregnant-women-and-parents-should-know</link>
+    <description>&lt;p&gt;Information related to 2014 Draft Advice ‐ Fish: What Pregnant Women and Parents Should Know.  This has been superceded by the &lt;a href=&quot;/fish-tech/epa-fda-advice-about-eating-fish-and-shellfish&quot;&gt;final updated advice&lt;/a&gt; released in January 2017&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-344517&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/draft-fish-advice-june-2014.pdf&quot; type=&quot;application/pdf; length=280666&quot; class=&quot;file-link&quot;&gt;2014 Draft Advice ‐ Fish: What Pregnant Women and Parents Should Know (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 281 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 11 Jan 2017 12:34:37 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">168677 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA-FDA Fish Advice: Technical Information</title>
+    <link>https://www.epa.gov/fish-tech/epa-fda-fish-advice-technical-information</link>
+    <description>&lt;p&gt;This webpage contains detailed information on the underlying calculations for the fish advice for women of childbearing age (about 16-49 years old), pregnant and breastfeeding women, and parents and caregivers of young children.  It contains the following information:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;How the chart for FDA’s and EPA’s fish advice was derived.&lt;/li&gt;
+	&lt;li&gt;Sortable table of fish species that contains data used in separating the fish into categories, such as mercury concentrations and the number of weekly servings.&lt;/li&gt;
+	&lt;li&gt;Recommended portion sizes for children based on age.&lt;/li&gt;
+&lt;/ol&gt;&lt;h2&gt;How FDA and EPA derived the categories in the fish chart&lt;/h2&gt;
+
+&lt;p&gt;The agencies decided which category each fish belonged to by calculating the highest average amount of mercury that could be in a fish when eaten one, two, and three times a week without going over the maximum acceptable mercury intake amount for an average pregnant woman.  The agencies determined the maximum acceptable intake amount by comparing the reference dose (RfD) developed by EPA to the predicted exposure from the consumption of different fish species.  An RfD is determined to be a rate of exposure that a person can experience over a lifetime without appreciable risk of harm; however, the RfD for mercury is protective of neurodevelopmental effects from a critical window of development for a fetus during pregnancy.  The RfD includes a 10-fold uncertainty factor to allow for variability among individuals and groups, including individuals who are not pregnant.  By expressing the advice in terms of recommendations for weekly intake of fish based on the RfD, the agencies aim to help consumers reduce exposure to mercury, while also enabling them to achieve the health benefits from eating fish.  We describe the equations and results for determining which fish we placed in each category below.&lt;/p&gt;
+
+&lt;h2&gt;Equations for determining which category each fish went in&lt;/h2&gt;
+
+&lt;p&gt;The boundaries for each category (or screening values) were calculated using equation 5-4 from EPA’s &lt;a href=&quot;/quality/guidance-assessing-chemical-contaminant-data-use-fish-advisories-volume-1-fish-sampling-and&quot;&gt;&lt;em&gt;Guidance for Assessing Chemical Contaminant Data for Use in Fish Advisories, Volume 1: Fish Sampling and Analysis Third Edition&lt;/em&gt;&lt;/a&gt; (November 2000).&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:128px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;44&quot; width=&quot;128&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/determining-fish-category-equation.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;where&lt;/div&gt;
+
+&lt;div&gt;SV = screening value for a noncarcinogen (µg/g)&lt;/div&gt;
+
+&lt;div&gt;RfD = reference dose (µg mercury/kg-d)&lt;/div&gt;
+
+&lt;div&gt;BW = body weight (kg)&lt;/div&gt;
+
+&lt;div&gt;CR = mean daily consumption rate of the species of interest (g/d)&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;p&gt;For this fish advice, we used the screening value as the highest average amount of mercury in fish that would not exceed the reference dose at a given consumption rate.  The consumption rate (CR) was calculated using the following equation:&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:814px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;47&quot; width=&quot;814&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/daily-consumption-rate-equation.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;Factors used in the calculations&lt;/h2&gt;
+
+&lt;p&gt;Reference dose for chronic oral exposure to methylmercury = 0.1 µg mercury / kg body weight / day.  Taken from EPA&#039;s &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=73&quot;&gt;Integrated Risk Information System (IRIS)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Body weight = 75 kilograms (165 pounds) = average weight of a pregnant woman.  Taken from &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252&quot;&gt;Table 8-29 of EPA’s &lt;em&gt;Exposure Factors Handbook: 2011 Edition&lt;/em&gt;&lt;/a&gt;.   This weight is supported by 2003-2010 NHANES data (2-day dietary recall) for pregnant women of 78 kg and coincides with average female adult body weight of 166 pounds from CDC&#039;s &lt;a href=&quot;http://www.cdc.gov/nchs/data/series/sr_11/sr11_252.pdf&quot;&gt;&lt;em&gt;Anthropometric Reference Data for Children and Adults: United States, 2007–2010&lt;/em&gt; (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(48 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;(Oct 2012).&lt;/p&gt;
+
+&lt;p&gt;Serving size = 4 ounces (113 grams) before cooking based on the FDA reference amounts customarily consumed per eating occasion (RACC) for fish and shellfish without sauce in &lt;a href=&quot;http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=101.12&quot;&gt;21 CFR 101.12&lt;/a&gt;&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot; title=&quot;&quot; id=&quot;_ftnref1&quot;&gt;[1]&lt;/a&gt;.  The RACC for this category of food is 85 g for cooked fish and 110 g for raw fish. RACCs  are used as the basis for nutrient declarations on Nutrition Facts labels on food packages. &lt;/p&gt;
+
+&lt;p&gt;Serving size is also consistent with the recommendation of 8-12 ounces of a variety of seafood per week from choices lower in methyl mercury found in the &lt;a href=&quot;https://health.gov/dietaryguidelines&quot;&gt;&lt;em&gt;Dietary Guidelines for Americans 2015&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.choosemyplate.gov/ten-tips-eat-seafood&quot;&gt;USDA’s&lt;/a&gt;. This is equivalent to 2-3 four-ounce servings per week.&lt;/p&gt;
+
+&lt;p&gt;Weekly servings = 1, 2, or 3&lt;/p&gt;
+
+&lt;h2&gt;Screening Values for Fish Categories&lt;/h2&gt;
+
+&lt;table style=&quot;width:571px&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:169px&quot;&gt;&lt;strong&gt;Weekly fish servings&lt;/strong&gt;&lt;/th&gt;
+			&lt;th style=&quot;width:240px&quot;&gt;&lt;strong&gt;Screening value (µg/g)&lt;/strong&gt;&lt;/th&gt;
+			&lt;th style=&quot;width:162px&quot;&gt;&lt;strong&gt;Chart category&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:169px&quot;&gt;0&lt;/td&gt;
+			&lt;td style=&quot;width:240px&quot;&gt;&amp;gt; 0.46&lt;/td&gt;
+			&lt;td style=&quot;width:162px&quot;&gt;Choices to Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:169px&quot;&gt;1&lt;/td&gt;
+			&lt;td style=&quot;width:240px&quot;&gt;≤ 0.46&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot; style=&quot;width:162px&quot;&gt;Good Choices&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:169px&quot;&gt;2&lt;/td&gt;
+			&lt;td style=&quot;width:240px&quot;&gt;≤ 0.23&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:169px&quot;&gt;3&lt;/td&gt;
+			&lt;td style=&quot;width:240px&quot;&gt;≤ 0.15&lt;/td&gt;
+			&lt;td style=&quot;width:162px&quot;&gt;Best Choices&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The screening value is the highest allowable average amount of mercury in fish at a given consumption rate.  Therefore:&lt;/p&gt;
+
+&lt;p&gt;Highest allowable average mercury concentration in fish per serving when eating 3 servings per week = 0.15 µg/g.  Any fish with an average mercury concentration less than or equal to 0.15 µg/g was placed in the “best choices – eat 2-3 servings a week” category.&lt;/p&gt;
+
+&lt;p&gt;Highest allowable average mercury concentration in fish per serving when eating 2 servings per week = 0.23 µg/g.  In order to be protective, any fish with an average mercury concentration greater than 0.15 µg/g up to 0.23 µg/g was placed in the “good choices – eat 1 serving a week” category because it could not be eaten 3 times a week without exceeding the reference dose.&lt;/p&gt;
+
+&lt;p&gt;Highest allowable average mercury concentration in fish per serving when eating 1 serving per week = 0.46 µg/g.  Any fish with an average mercury concentration greater than 0.23 µg/g up to 0.46 µg/g was placed in the “good choices – eat 1 serving a week” category.  Any fish with an average mercury concentration greater than 0.46 µg/g was placed in the “choices to avoid” category.&lt;/p&gt;
+
+&lt;h2&gt;Sortable table of fish species, fish data, and weekly servings&lt;/h2&gt;
+
+&lt;p&gt;The table can be sorted by column.  We primarily used fish data from FDA’s monitoring database of mercury levels in commercial fish and shellfish (found at &lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm115644.htm&quot;&gt;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm115644.htm&lt;/a&gt; and &lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm191007.htm&quot;&gt;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm191007.htm&lt;/a&gt;) with support from other sources referenced below.  All values for mercury are for fish before cooking except for those cooked during processing (e.g., canned fish).  However, please remember that the fish advice recommends the consumption of only cooked fish for pregnant women; pregnant women should avoid eating raw fish.  For those who are interested, mercury concentrations for cooked fish can be roughly approximated using the following formula: (μg mercury/ g uncooked fish) × (1 g uncooked fish/ 0.75 g cooked fish) × (28.3 g/ 1 oz)&lt;/p&gt;
+
+&lt;p&gt;For any fish species that had fewer than 30 samples in FDA’s dataset, we examined the following datasets: &lt;a href=&quot;http://ehp.niehs.nih.gov/1205122/&quot;&gt;Karimi  et al. (2012)&lt;/a&gt;, EPA’s &lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=58213&quot;&gt;Mercury in Marine Life Database&lt;/a&gt;, EPA National Coastal Assessment (NCA): NCA/ National Coastal Condition Assessment (NCCA) data, Health Canada (2007), and a &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25198598&quot;&gt;USDA-funded study by Cladis &lt;em&gt;et al.&lt;/em&gt; 2014&lt;/a&gt;.  We calculated the 95&lt;sup&gt;th&lt;/sup&gt; percent confidence intervals on the mean for all fish species with available data based on a boot strap analysis using the statistical software ‘R’ (library boot).  We then considered whether the upper 95&lt;sup&gt;th&lt;/sup&gt; percent confidence interval exceeded the screening value for that category.  If the concentration for the 95&lt;sup&gt;th&lt;/sup&gt; percent upper confidence interval fell in a different category, we looked at the means and sample sizes for that fish in those other datasets.  If this supplemental data indicated a fish should change categories, then we moved it.  If the supplemental data indicated a fish should remain in its calculated category, then we did not move it.  If there were no supplemental data or if the sample sizes of that supplemental data were small, then we moved the fish based on the 95&lt;sup&gt;th&lt;/sup&gt; percent upper confidence interval concentration.  If the concentration for the 95&lt;sup&gt;th&lt;/sup&gt; percent upper confidence interval did not fall in a different category but the supplemental data indicated a fish should change categories, then we moved it.&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot; style=&quot;width:694px&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:271px&quot;&gt;
+				&lt;strong&gt;Fish species&lt;/strong&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:115px&quot;&gt;
+				&lt;strong&gt;Mercury concentration, average (µg/g or ppm)&lt;/strong&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:115px&quot;&gt;
+				&lt;strong&gt;Mercury concentration, 95% confidence interval (µg/g or ppm)&lt;/strong&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:96px&quot;&gt;
+				&lt;strong&gt;Number of samples&lt;/strong&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:96px&quot;&gt;&lt;strong&gt;Fish category&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Anchovy&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01, 0.02&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;15&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Atlantic croaker&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.07&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.08&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;90&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Atlantic mackerel&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;80&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Black sea bass&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.13&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.10, 0.16&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;29&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Bluefish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.37&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.33, 0.42&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;94&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Buffalofish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.14&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.10, 0.19&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;17&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Butterfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;89&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Carp&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.11&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.16&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;14&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Catfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01, 0.04&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;59&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Chilean sea bass/Patagonian toothfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.35&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.29, 0.43&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;74&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Clam&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.00, 0.01&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;15&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Cod&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.11&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.09, 0.14&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;115&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Crab&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05, 0.09&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;93&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Crawfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.03&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.03, 0.04&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;46&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Flatfish (flounder, plaice, sole)&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.04, 0.07&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;71&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Grouper&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.45&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.38, 0.52&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;53&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Haddock&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05, 0.06&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;50&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Hake&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.08&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.10&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;49&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Halibut&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.24&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.20, 0.29&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;101&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Herring&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.08&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.04, 0.13&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;27&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;King mackerel&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.73&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;213&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Lobster&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.10&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.14&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;22&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Mahi mahi / dolphinfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.18&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.14, 0.22&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;29&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Marlin&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.49&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.38, 0.60&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;16&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Monkfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.16&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.11, 0.21&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;11&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Mullet&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02, 0.09&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;20&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Orange roughy&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.57&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.53, 0.61&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;81&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Oyster&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.00, 0.02&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;61&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Pacific chub mackerel&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.09&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;30&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Perch, freshwater&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.15&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.10, 0.20&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;19&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Perch, ocean&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.12&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.08, 0.17&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;31&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Pickerel&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.09&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05, 0.14&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;16&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Pollock&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.03&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02, 0.05&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;95&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Rockfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.23&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.17, 0.30&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;19&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Sablefish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.36&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.28, 0.45&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;26&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Salmon, canned&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.005, 0.02&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;19&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Salmon, fresh/frozen&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02, 0.03&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;94&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Sardine&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01, 0.02&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;90&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Scallop&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;&amp;lt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.00, 0.01&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;39&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Shad&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.04&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02, 0.06&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;15&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Shark&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.98&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.91, 1.05&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;356&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Sheepshead&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.09&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.12&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;8&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Shrimp&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01, 0.01&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;40&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Skate&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.14&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;56&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Smelt&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.08&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05, 0.13&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;23&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Snapper&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.17&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.12, 0.23&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;67&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Spanish mackerel&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.35&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;109&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Squid&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.02, 0.03&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;36&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Striped bass (ocean)&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.07&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.04, 0.11&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;41&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Swordfish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;1.00&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.95, 1.04&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;636&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tilapia&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.01, 0.02&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;32&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tilefish (from Gulf of Mexico)&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;1.45&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;NC&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;60&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tilefish (from Atlantic Ocean)&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.14&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.11, 0.19&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;32&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Trout, freshwater&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.07&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.03, 0.12&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;35&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tuna, albacore / white tuna, canned&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.35&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.34, 0.36&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;451&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tuna, albacore / white tuna, fresh/frozen&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.36&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.32, 0.40&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;43&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tuna, bigeye&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.69&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.56, 0.84&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;21&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Avoid&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tuna, light, canned (includes skipjack)&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.13&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.12, 0.14&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt; 548&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Tuna, yellowfin&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.35&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.33, 0.39&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;231&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Weakfish/seatrout&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.23&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.18, 0.30&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;46&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;White croaker/Pacific croaker&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.29&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.25, 0.32&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;15&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Good choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Whitefish&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.09&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.06, 0.12&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;37&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:271px&quot;&gt;Whiting&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.05&lt;/td&gt;
+			&lt;td style=&quot;width:115px&quot;&gt;0.03, 0.07&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;13&lt;/td&gt;
+			&lt;td style=&quot;width:96px&quot;&gt;Best choice&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;NC = not calculated&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Recommended serving sizes for children based on age&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We recommend serving fish to children 1-2 times a week, but the serving sizes should be smaller than adult portions and right for your child’s age and physical activity level.  This chart shows the weekly amount of fish (in ounces per week) that children should eat based on either caloric need or to keep the fish consumption below the maximum acceptable mercury intake (RfD) based on fish in the “best choices” category.  The calorie need range is based on males and females combined, based on USDA-recommended consumption amounts and USDA-recommended calorie levels at different ages.&lt;a href=&quot;#_ftn2&quot; name=&quot;_ftnref2&quot; title=&quot;&quot; id=&quot;_ftnref2&quot;&gt;[2]&lt;/a&gt;  The mercury RfD range of intakes is based on the average body weight of females in each age range to be more protective because girls generally weigh less than boys.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:793px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;564&quot; width=&quot;793&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/weekly-fish-consumption-children-chart.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended weekly fish consumption based on caloric need varies depending on a child’s age and physical activity level.  Source: &lt;a href=&quot;https://health.gov/dietaryguidelines&quot;&gt;&lt;em&gt;2015 Dietary Guidelines&lt;/em&gt;&lt;/a&gt;.  See footnote 2 for more details. Recommended weekly fish consumption based on the mercury RfD varies depending on a child’s body weight, where female body weights were used to be more health protective.  For children less than two years of age, the &lt;a href=&quot;https://healthychildren.org/English/ages-stages/toddler/nutrition/Pages/default.aspx&quot;&gt;American Academy of Pediatrics&lt;/a&gt; includes fish in the list of protein foods that are appropriate for toddlers 1-3 years of age, and states that the average toddler eats two 1-ounce servings of protein foods per day. However, the American Academy of Pediatrics does not recommend a specific fish consumption amount for toddlers in this age range.&lt;/p&gt;
+
+&lt;h2&gt;Equations for determining children’s serving sizes based on the mercury reference dose&lt;/h2&gt;
+
+&lt;p&gt;The maximum allowable fish consumption rate was calculated using equation 3-3 from EPA’s &lt;a href=&quot;/sites/production/files/2015-06/documents/volume2.pdf&quot;&gt;&lt;em&gt;Guidance for Assessing Chemical Contaminant Data for Use in Fish Advisories, Volume 2: Risk Assessment and Fish Consumption Limits Third Edition &lt;/em&gt;(PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(383 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; (November 2000).&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:151px;&quot;&gt;&lt;img alt=&quot;determining children serving sizes equation&quot; height=&quot;47&quot; width=&quot;151&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/determining-children-serving-sizes-equation.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;where&lt;/div&gt;
+
+&lt;div&gt;CR&lt;sub&gt;lim&lt;/sub&gt; = maximum allowable fish consumption rate (g/d)&lt;/div&gt;
+
+&lt;div&gt;RfD = reference dose (µg mercury/kg-d)&lt;/div&gt;
+
+&lt;div&gt;BW = body weight (kg)&lt;/div&gt;
+
+&lt;div&gt;C&lt;sub&gt;m&lt;/sub&gt; = measured concentration of chemical contaminant m in a given species of fish (µg/g)&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;h2&gt;Factors used in the equations&lt;/h2&gt;
+
+&lt;p&gt;RfD = reference dose for chronic oral exposure to methylmercury = 0.1 µg mercury/kg body weight/day.  Taken from &lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=73&quot;&gt;EPA’s Integrated Risk Information System (IRIS)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;BW = average body weight for girls (kg) from CDC&#039;s &lt;a href=&quot;http://www.cdc.gov/nchs/data/series/sr_11/sr11_252.pdf&quot;&gt;&lt;em&gt;Anthropometric Reference Data for Children and Adults: United States, 2007–2010&lt;/em&gt; (Oct 2012) - Table 1 (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(48 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;, based on data from National Health and Nutrition Examination Surveys (NHANES)&lt;/p&gt;
+
+&lt;p&gt;C&lt;sub&gt;m&lt;/sub&gt; = highest average concentration of mercury in fish in “Best Choices” group = 0.15 µg/g&lt;/p&gt;
+
+&lt;p&gt;The results were converted from a daily fish consumption rate in grams per day to a serving size in ounces per serving using the following equation and a weekly serving rate of 2 servings per week:&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:456px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;76&quot; width=&quot;456&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/determining-children-serving-sizes2-equation.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Results - &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;Child’s serving size if eating 2 servings per week from “best choices,” when serving size is based on mercury intake&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table style=&quot;width:570px&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Age (years)&lt;/strong&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;strong&gt;Average female weight (kilograms)&lt;/strong&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;strong&gt;Serving size (ounces) for child &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;eating 2 servings with 0.15 µ&lt;/strong&gt;&lt;strong&gt;g/g of mercury&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;
+			&lt;td&gt;13.4&lt;/td&gt;
+			&lt;td&gt;1.1&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;
+			&lt;td&gt;15.7&lt;/td&gt;
+			&lt;td&gt;1.3&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;
+			&lt;td&gt;17.7&lt;/td&gt;
+			&lt;td&gt;1.5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;
+			&lt;td&gt;21.1&lt;/td&gt;
+			&lt;td&gt;1.7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;
+			&lt;td&gt;23.6&lt;/td&gt;
+			&lt;td&gt;1.9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;
+			&lt;td&gt;26.8&lt;/td&gt;
+			&lt;td&gt;2.2&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;
+			&lt;td&gt;31.9&lt;/td&gt;
+			&lt;td&gt;2.6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;
+			&lt;td&gt;35.5&lt;/td&gt;
+			&lt;td&gt;2.9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;
+			&lt;td&gt;41.1&lt;/td&gt;
+			&lt;td&gt;3.4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;11&lt;/td&gt;
+			&lt;td&gt;47.5&lt;/td&gt;
+			&lt;td&gt;3.9&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;To prevent children from exceeding the RfD for mercury, these are recommended serving sizes of fish for various age groups when eating fish 2 times a week from the “best choices” category:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Age 2: 1 ounce per serving&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Age 6: 2 ounces per serving&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Age 9: 3 ounces per serving&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Age 11 and up: 4 ounces per serving&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Cladis, D.P., Kleiner, A.C., and Santerre, C.R. (2014). &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25198598&quot;&gt;&lt;em&gt;Mercury content in commercially available finfish in the United States&lt;/em&gt;&lt;/a&gt;. J Food Prot 77, 1361-1366.  FDA/EPA obtained the raw data from the study authors for analysis. &lt;br /&gt;
+	Health Canada. (2007)  Human Health Risk Assessment of Mercury in Fish and Health Benefits of Fish Consumption, Bureau of Chemical Safety Food Directorate Health Products and Food Branch, Ottawa, Ontario, Canada&lt;br /&gt;
+	Karimi, R., Fitzgerald, T.P., and Fisher, N.S. (2012). &lt;a href=&quot;http://ehp.niehs.nih.gov/1205122/&quot;&gt;&lt;em&gt;A quantitative synthesis of mercury in commercial seafood and implications for exposure in the United States&lt;/em&gt;&lt;/a&gt;. Environ Health Perspect 120, 1512-1519. &lt;br /&gt;
+	U.S. Environmental Protection Agency (U.S. EPA). (2016),  National Coastal Condition Assessment (NCCA)  Office of Water &amp;amp; Office of Research and Development,  EPA 841-R-15-006, Washington, D.C. &lt;a href=&quot;/national-aquatic-resource-surveys/national-coastal-condition-assessment-2010-results&quot;&gt;2010 Results&lt;/a&gt;. &lt;br /&gt;
+	U.S. Environmental Protection Agency. (U.S.EPA) (2016). National Coastal Assessment (NCA): &lt;a href=&quot;https://archive.epa.gov/emap/archive-emap/web/html/index-124.html&quot;&gt;Northeast 2000-2006 Summary Data&lt;/a&gt;. &lt;br /&gt;
+	U.S. Environmental Protection Agency (U.S.EPA) 2003. &lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=58213&quot;&gt;Mercury in Marine Life Database&lt;/a&gt;. Office of Wetlands, Oceans and Watersheds. &lt;/p&gt;
+
+&lt;div&gt; 
+	&lt;hr /&gt;&lt;div id=&quot;ftn1&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;#_ftnref1&quot; name=&quot;_ftn1&quot; title=&quot;&quot; id=&quot;_ftn1&quot;&gt;[1]&lt;/a&gt; The RACC we used was for entrees without sauce, e.g., plain or fried fish and shellfish, fish and shellfish cake. &lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;ftn2&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;#_ftnref2&quot; name=&quot;_ftn2&quot; title=&quot;&quot; id=&quot;_ftn2&quot;&gt;[2]&lt;/a&gt; Dietary Guidelines estimate that calorie needs depend on children’s age, whether children are “sedentary,” “moderately active” or “active,” and whether they are male or female.  Dietary Guidelines also recommend children consume specified amounts of seafood per week (in ounces per week) based on their calorie needs.  In developing this chart, FDA and EPA considered the calorie need ranges that the Dietary Guidelines estimate for each age group and the amount of seafood consumption that the Dietary Guidelines recommend at different calorie levels.  For example, for children ages 4 to 8 years, the Dietary Guidelines estimate that to maintain calorie balance females need between 1200 and 1800 calories per day and males need between 1200 and 2000 calories per day, depending on whether they are sedentary or physically active.  For individuals with a calorie level of 1,200 per day, Dietary Guidelines recommend consumption of 4 ounces of seafood per week.  For individuals with a calorie level of 2,000 per day, Dietary Guidelines recommend 8 ounces of seafood consumption per week.  Therefore, the recommended fish consumption per week for the 4-8 year-old age group ranges from 4 oz per week (based on 1200 calories for sedentary females) to 8 oz per week (based on 2000 calories for active males).&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 22 Dec 2016 12:18:12 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">167709 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Fish and Shellfish Program Newsletter</title>
+    <link>https://www.epa.gov/fish-tech/fish-and-shellfish-program-newsletter</link>
+    <description>&lt;p&gt;The Fish and Shellfish Program Newsletter highlights current information about fish and shellfish.  Previous versions can be found under National Listing of Fish Advisories Newsletter in the archives. &lt;a class=&quot;epa-archive-link&quot; href=&quot;https://archive.epa.gov/&quot; title=&quot;EPA&#039;s Archive&quot;&gt;Search EPA Archive&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-344573&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/fish-news-dec2016-jan2017.pdf&quot; type=&quot;application/pdf; length=1133085&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - December 2016/January 2017 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-339355&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/fish-news-nov2016.pdf&quot; type=&quot;application/pdf; length=1058041&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - November 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-334983&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/fish-news-oct2016.pdf&quot; type=&quot;application/pdf; length=557434&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - October 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 557 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-326033&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/fish-news-sept2016.pdf&quot; type=&quot;application/pdf; length=934215&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - September 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 934 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-313955&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/fish-news-aug2016.pdf&quot; type=&quot;application/pdf; length=641497&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - August 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 641 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308395&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/fish-news-july2016.pdf&quot; type=&quot;application/pdf; length=850007&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - July 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 850 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301079&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/fish-news-jun2016.pdf&quot; type=&quot;application/pdf; length=566756&quot; class=&quot;file-link&quot;&gt;National Listing of Fish Advisories Newsletter - June 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 567 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 27 May 2016 18:09:51 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">150673 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Assessment of Mercury in Fish Tissue from Pacific Northwest Lakes</title>
+    <link>https://www.epa.gov/fish-tech/assessment-mercury-fish-tissue-pacific-northwest-lakes</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/fish-tech/reports-and-fact-sheets-about-fish-consumption-and-human-health&quot;&gt;Reports and Fact Sheets about Fish Consumption and Human Health&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This report provides the results of an assessment of fish tissue mercury concentrations for sportfish collected from 50 lakes in Idaho, Oregon and Washington.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-269279&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/assessment-mercury-fish-tissue-pnw-lakes-report.pdf&quot; type=&quot;application/pdf; length=729296&quot; class=&quot;file-link&quot;&gt;Assessment of Mercury in Fish Tissue from Pacific Northwest Lakes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 729 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 21 Mar 2016 18:05:44 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">140829 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pilot Study of Pharmaceuticals and Personal Care Products in Fish Tissue</title>
+    <link>https://www.epa.gov/fish-tech/pilot-study-pharmaceuticals-and-personal-care-products-fish-tissue</link>
+    <description>&lt;p&gt;&lt;small&gt;March 2009&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Obtaining environmental data on contaminants of emerging concern is a priority area of interest for EPA, particularly the group of chemicals that includes pharmaceuticals and personal care products (PPCPs). Pharmaceuticals are prescription and over-the-counter medications, whereas personal care products include other consumer chemicals that are non-medicinal, such as the fragrances (musks) in lotions and soaps. In 2006, EPA initiated a pilot study to investigate the occurrence of PPCP chemicals in fish tissue.&lt;/p&gt;
+
+&lt;div&gt;Conducting the study involved the following activities:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Sampling fish from five effluent-dominated streams in various parts of the country and one reference site away from human sources of pollution.&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Collecting 18-24 adult fish of the same species at each site near wastewater treatment plant discharges and forming six composite samples.&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Teaming with Baylor University to analyze fillet and liver tissue from each set of six fish composite samples for 24 pharmaceutical compounds and fillets only for 12 chemicals in personal care products (PCPs).&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Pharmaceutical Results&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;No target pharmaceutical compounds were detected in any of the composites collected at the reference site.&lt;/li&gt;
+	&lt;li&gt;Seventeen of the 24 pharmaceutical compounds were not detected in any of the fillet or liver samples from the five sites located on effluent-dominated streams.&lt;/li&gt;
+	&lt;li&gt;All seven pharmaceutical compounds detected in the tissue samples occurred in livers while only five were detected in fillets.&lt;/li&gt;
+	&lt;li&gt;The pharmaceuticals that occurred most frequently were diphenylhydramine, norfluoxetine, and sertraline.
+		&lt;ul&gt;&lt;li&gt;Norfluoxetine and sertraline (antidepressants) both occurred in livers at all five sites and in fillets at three and two sites, respectively.&lt;/li&gt;
+			&lt;li&gt;Diphenylhydramine (antihistamine) occurred in livers at four sites and in fillets at three sites.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Personal Care Product Results&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;No target personal care product chemicals were detected in any of the composite samples collected at the reference site.&lt;/li&gt;
+	&lt;li&gt;The PCP results are only for fish fillets. Current analytical techniques for PCPs are subject to interference from fat and other substances found in fish liver.&lt;/li&gt;
+	&lt;li&gt;Ten of the 12 personal care product chemicals were not detected in any of the fillet samples from the five sampling locations on effluent-dominated streams.&lt;/li&gt;
+	&lt;li&gt;Two personal care product chemicals occurred in fish fillets at all five sites: galaxolide and tonalide, which are both fragrances (musks).&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;Please contact: &lt;a href=&quot;mailto:stahl.leanne@epa.gov&quot;&gt;Leanne Stahl&lt;/a&gt; (stahl.leanne@epa.gov), Standards and Health Protection Division, at (202) 566-0404.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 21 Jan 2016 03:45:41 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">132513 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Joint Advisory Stakeholder Meetings</title>
+    <link>https://www.epa.gov/fish-tech/joint-advisory-stakeholder-meetings</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/fish-tech/national-listing-fish-advisories-general-fact-sheet-2011&quot;&gt;National Listing of Fish Advisories General Fact Sheet 2011&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Background on Joint Federal Advisory on Mercury in Fish&lt;/h2&gt;
+
+&lt;p&gt;Stakeholder meetings on FDA and EPA development of a joint advisory for methylmercury-containing fish consumption for women of childbearing age and children - July 29-31, 2003.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-175133&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/fda-epa-presentations-stakeholders-july-2003.pdf&quot; type=&quot;application/pdf; length=172985&quot; class=&quot;file-link&quot;&gt;FDA Slide Presentation at the Meeting (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 173 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-175143&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/fda-list-of-meeting-attendees.pdf&quot; type=&quot;application/pdf; length=108478&quot; class=&quot;file-link&quot;&gt;FDA List of Meeting Attendees (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 108 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-175145&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/fda-food-advisory-committee-presentationfda-food-advisory-committee-presentation.pdf&quot; type=&quot;application/pdf; length=602638&quot; class=&quot;file-link&quot;&gt;Food Advisory Committee Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 603 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-175151&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/fda-pre-release-meeting-stakeholders-attendees.pdf&quot; type=&quot;application/pdf; length=29039&quot; class=&quot;file-link&quot;&gt;Pre-release Meeting Stakeholder Attendees (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 29 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-175153&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/fda-press-release.pdf&quot; type=&quot;application/pdf; length=53782&quot; class=&quot;file-link&quot;&gt;Press Release (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 54 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 11 Aug 2015 14:04:06 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">105271 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>National Survey of Mercury Concentrations in Fish Database (1990-1995)</title>
+    <link>https://www.epa.gov/fish-tech/national-survey-mercury-concentrations-fish-database-1990-1995</link>
+    <description>&lt;p&gt;EPA began a cooperative effort in 1995 to assemble a nationwide data base on total mercury concentrations in fish tissue. The first objective of this project was to assemble and review data on the mercury contamination in fish tissue. This step included identifying appropriate state and federal agencies and other groups with relevant data on mercury concentrations in fish. The second step in this project involved the development of a fish tissue data base, organizing relevant data to be used for future analyses. EPA focused data compilation efforts on obtaining results of state monitoring efforts during 1990-1995. These data can be used to derive estimates of tissue concentrations, determine the number and frequency of samples taken and analyzed by state, and calculate descriptive statistics on mercury concentrations in fish tissue. The current data base will facilitate EPA’s ability to determine additional and future data needs. In the future, the data base may be used to identify and evaluate factors affecting mercury contamination in fish.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Download the summary report &lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/20003ZNB.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=1995%20Thru%201999&amp;amp;Docs=&amp;amp;Query=National%20Survey%20Mercury%20Concentrations%20Fish%20&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5CZYFILES%5CINDEX%20DATA%5C95THRU99%5CTXT%5C00000015%5C20003ZNB.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=-%7Ch&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;The National Survey of Mercury Concentrations in Fish Database Summary, 1990-1995&lt;/a&gt; that describes the data and includes the database field descriptors.&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-175043&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/mercury-database-dbase.zip&quot; type=&quot;application/zip; length=1693839&quot; class=&quot;file-link&quot;&gt;Download the mercury database in d-Base&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+ - This zipped file contains four files in d-Base format that should be extracted using WinZip or another compression software.  The unzipped files will require approximately 63.5M of hard disk space.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 11 Aug 2015 11:37:47 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">105209 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA-FDA Advice about Eating Fish and Shellfish</title>
+    <link>https://www.epa.gov/fish-tech/epa-fda-advice-about-eating-fish-and-shellfish</link>
+    <description>&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:220px;&quot;&gt;&lt;img alt=&quot;Photo of three women&amp;#039;s pregnant bellys&quot; title=&quot;Photo of three women&amp;#039;s pregnant bellys&quot; height=&quot;146&quot; width=&quot;220&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2014-10/pregnant-women.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA  and FDA provide advice on eating fish and shellfish. Fish and shellfish provide protein, are low in saturated fat, are rich in many micronutrients, and provide certain omega-3 fatty acids that the body can not make and are important for normal growth and development.  However, as a result of natural processes and human activity, fish also contain mercury in the form of methylmercury.  Methylmercury can negatively affect the central nervous system, particularly the developing brain of a fetus.&lt;/p&gt;
+
+&lt;div&gt;The agencies have concluded that the following people should eat more fish that is lower in mercury for important developmental and health benefits:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Women of childbearing age (about 16-49 years old)&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Pregnant and breastfeeding women&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Young children&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The advice recommends that  women and children eat two to three servings (8-12 ounces for adults and children over age 10, smaller amounts for younger children) of a variety of fish and shellfish each week. The advice includes a chart showing how often to eat more than 60 types of fish and shellfish and supplemental questions and answers. A &lt;a href=&quot;/fish-tech/epa-fda-fish-advice-technical-information&quot;&gt;technical page&lt;/a&gt; includes information  for those who want to understand the data and calculations that underlie the advice.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;ins data-date=&quot;2017,1,10&quot;&gt;Chart&lt;/ins&gt; (&lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm393070.htm&quot;&gt;English&lt;/a&gt; | &lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm536869.htm&quot;&gt;Español&lt;/a&gt;) (&lt;mark&gt;additional languages coming soon!!&lt;/mark&gt;)&lt;/li&gt;
+	&lt;li&gt;&lt;ins data-date=&quot;2017,1,10&quot;&gt;Questions and Answers&lt;/ins&gt; (&lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm534873.htm&quot;&gt;English&lt;/a&gt; | &lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm537141.htm&quot;&gt;Español&lt;/a&gt;) (&lt;mark&gt;additional languages coming soon!!&lt;/mark&gt;)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/newsreleases/epa-and-fda-issue-final-fish-consumption-advice-0&quot;&gt;Press Release&lt;/a&gt; (January 18, 2017)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2017/01/19/2017-01073/advice-about-eating-fish-from-the-environmental-protection-agency-and-food-and-drug-administration&quot;&gt;Federal Register Notice&lt;/a&gt; (January 19, 2017)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;The agencies accepted public comments on the draft version of this advice from June 2014 through March 2015, after which the advice was revised and sent through peer review.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;http://www.fda.gov/downloads/ScienceResearch/SpecialTopics/PeerReviewofScientificInformationandAssessments/UCM531130.pdf&quot;&gt;Summary of public comments and agency responses (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 116 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;http://www.fda.gov/downloads/ScienceResearch/SpecialTopics/PeerReviewofScientificInformationandAssessments/UCM531126.pdf&quot;&gt;Peer review report (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 507 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id=&quot;info&quot;&gt;Previous Versions&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fish-tech/2014-draft-advice-fish-what-pregnant-women-and-parents-should-know&quot;&gt;2014 Draft Advice ‐ &lt;em&gt;Fish: What Pregnant Women and Parents Should Know&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/choose-fish-and-shellfish-wisely/what-you-need-know-about-mercury-fish-and-shellfish&quot;&gt;2004 Advisory: Mercury in fish and shellfish and federal consumption advice&lt;/a&gt; (EPA/FDA)&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 30 Jul 2015 18:22:56 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">101597 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Fish Tissue Data Collected by EPA</title>
+    <link>https://www.epa.gov/fish-tech/fish-tissue-data-collected-epa</link>
+    <description>&lt;p&gt;EPA collects a variety of data to provide state, local, regional and tribal environmental health officials with relevant information to inform fish advisories and safe eating guidelines. For more information on specific data collected by EPA, see the tabs below.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;vertical tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;National Lake Fish Tissue Study&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;National Rivers and Streams Assessment Fish Tissue Study&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;National Coastal Condition Assessment/Great Lakes Human Health Fish Tissue Study&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-4&quot;&gt;Other EPA Studies&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;National Lake Fish Tissue Study&lt;/h2&gt;
+
+		&lt;p&gt;The National Lake Fish Tissue Study is the first national assessment of freshwater fish contamination in the United States for which sampling sites were selected according to a statistical (random) design. To interpret the results, it is essential to understand the following important points about this design:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;During the four-year sampling period, field teams collected 486 predator composites and 395 bottom-dweller composites from the 500 sampling locations. Predator and bottom-dweller species did not occur together at every sampling site; however, if either a predator or bottom-dweller species was present, the target lake was sampled.&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;The 486 predator composites and the 395 bottom-dweller composites collected during the study each comprise nationally-representative samples for the lower 48 states whose results can be extrapolated to an estimated 76,559 lakes for predators and an estimated 46,190 lakes for bottom-dwellers.&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;The unequal probability design makes it necessary to apply sample weights (derived from the various probabilities assigned to each of the lake size categories) to the fish tissue data to develop national estimates of fillet (predator) and whole-body (bottom-dweller) fish tissue concentrations for each of the 268 target chemicals.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Results from the National Lake Fish Tissue Study indicate that mercury, PCBs, and dioxins and furans are widely distributed in lakes and reservoirs in the lower 48 states. Mercury and PCBs were detected in all the fish samples collected from the 500 sampling sites. Dioxins and furans were detected in 81% of the predator samples (fillet composites) and 99% of the bottom-dweller samples (whole-fish composites).&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;
+				&lt;div&gt;&lt;a href=&quot;#data&quot;&gt;Data Analysis&lt;/a&gt;&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;&lt;a href=&quot;#results1&quot;&gt;Summary of Results&lt;/a&gt;&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;&lt;a href=&quot;#results2&quot;&gt;Availability of Results&lt;/a&gt;&lt;/div&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;h3 id=&quot;data&quot;&gt;Data Analysis&lt;/h3&gt;
+
+		&lt;p&gt;The data analyzed for the National Lake Fish Tissue Study include tissue concentrations for each target chemical (e.g., mercury) or chemical group (e.g., PCBs) and fish composite type (i.e. predator and bottom-dweller composites). Analysis of the fish tissue data involved application of R statistical software to incorporate elements of the unequal probability survey design, along with information from the field sampling operations and laboratory analyses. Statistical analysis of the study data included evaluating information to determine the status of each lake, adjusting the sample weights (an essential component of an unequal probability design) based on the lake status, estimating the number and proportion of lakes in the sampled population, and estimating the cumulative distribution and percentile (5th, 10th, 25th, 50th, 75th, 90th, and 95th) concentrations of the target chemicals in fillets for predators and whole bodies for bottom dwellers.&lt;/p&gt;
+
+		&lt;p&gt;The &lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Quality Assurance Project Plan for Data Analysis Activities for the National Study of Chemical Residues in Lake Fish Tissue&lt;/a&gt; provides detailed information about procedures applied for statistical analysis of the fish tissue concentration data and about the graphic displays for the statistical results (e.g., plots of the cumulative distribution functions or CDFs).&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;hr /&gt;&lt;h3 id=&quot;results1&quot;&gt;Summary of Results&lt;/h3&gt;
+
+		&lt;p&gt;EPA released a final report for the National Study of Chemical Residues in Lake Fish Tissue, a statistically-based national survey of contaminants in fish from lakes and reservoirs in the lower 48 states. For four years, EPA worked with 47 states, three tribes, and two other federal agencies to collect fish from &lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;500 lakes and reservoirs&lt;/a&gt; selected randomly from the estimated 147,000 target population of lakes and reservoirs in the 48 states. Teams of biologists used consistent methods nationwide to collect &lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;composite samples&lt;/a&gt; of a predator fish species (e.g., bass or trout) and a bottom-dwelling species (e.g., catfish or carp) from each lake or reservoir.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:650px;&quot;&gt;&lt;img alt=&quot;500 locations map&quot; height=&quot;425&quot; width=&quot;650&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/500locations-map.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p&gt;Analysis of fish samples included 268 persistent, bioaccumulative, and toxic (PBT) chemicals, most notably mercury, polychlorinated biphenyls (PCBs), and dioxins and furans. Results show that mercury and PCBs were detected in every fish sample from all 500 lakes and reservoirs. Mercury concentrations in fish fillet samples exceeded EPA’s recommended tissue-based water quality criterion of 0.3 ppm at 49% of the sampled population of 76,559 lakes. In contrast, there were a number of &lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;chemicals that were not detected&lt;/a&gt; in any of the fish samples collected during the study. Forty-three of the 268 target chemicals were not detected in any samples, including all nine organophosphate pesticides (e.g., chlorpyriphos and diazinon), one PCB congener (PCB-161), and 16 of the 17 polycyclic aromatic hydrocarbons (PAHs) analyzed as semivolatile organic chemicals. There were also seventeen other semivolatile organic chemicals that were not detected.&lt;/p&gt;
+
+		&lt;p&gt;According to EPA’s 2008 Biennial National Listing of Fish Advisories, mercury, PCBs, dioxins and furans, DDT, and chlordane accounted for 97% of the advisories in effect at the end of 2008. These five chemicals were also commonly detected in fish samples collected for the National Lake Fish Tissue Study. Since human health screening values (SVs) were readily available, they were applied to total concentrations of mercury, PCBs, dioxins and furans, DDT, and chlordane found in predator fillets.&lt;/p&gt;
+
+		&lt;p&gt;Predator results for the five commonly-detected chemicals indicate that:&lt;/p&gt;
+
+		&lt;div class=&quot;row cols-2&quot;&gt;
+			&lt;div class=&quot;col&quot; style=&quot;width:40%&quot;&gt;
+				&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:231px;&quot;&gt;&lt;img alt=&quot;screening value piechart&quot; height=&quot;656&quot; width=&quot;231&quot; class=&quot;left media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/screening-value-piechart.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col&quot; style=&quot;width:60%&quot;&gt;
+				&lt;ul&gt;&lt;br /&gt;&lt;li&gt;48.8% of the sampled population of lakes had mercury tissue concentrations that exceeded the 300 ppb (0.3 ppm) human health SV for mercury, which represents a total of 36,422 lakes.&lt;/li&gt;
+					&lt;li&gt;16.8% of the sampled population of lakes had total PCB tissue concentrations that exceeded the 12 ppb human health SV, representing a total of 12,886 lakes.&lt;/li&gt;
+					&lt;li&gt;7.6% of the sampled population of lakes had dioxin and furan tissue concentrations that exceeded the 0.15 ppt [toxic equivalency or TEQ] human health SV, which represents a total of 5,856 lakes.&lt;/li&gt;
+					&lt;li&gt;1.7% of the sampled population of lakes had DDT tissue concentrations that exceeded the 69 ppb human health SV, which represents a total of 1,329 lakes.&lt;/li&gt;
+					&lt;li&gt;0.3% of the sampled population of lakes had fish tissue concentrations that exceeded the 67 ppb human health SV for chlordane, which represents a total of 235 lakes.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;500 Sampling Locations&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Fish Composite Summary Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Chemicals Not Detected&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Commonly Detected Chemicals&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;hr /&gt;&lt;h3 id=&quot;results2&quot;&gt;Availability of Results&lt;/h3&gt;
+
+		&lt;p&gt;National Lake Fish Tissue Study results are summarized in a fact sheet, and are detailed in a final technical report and two journal articles (a study design article and a results article).&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/P1005P2X.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=2006%20Thru%202010&amp;amp;Docs=&amp;amp;Query=EPA%20Releases%20Report%20Fish%20&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5CZYFILES%5CINDEX%20DATA%5C06THRU10%5CTXT%5C00000012%5CP1005P2X.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=-%7Ch&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Final Report Executive Summary&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyNET.exe/P1005P2Z.txt?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=2006%20Thru%202010&amp;amp;Docs=&amp;amp;Query=National%20Study%20Chemical%20Residues%20&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=2&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;UseQField=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5CZYFILES%5CINDEX%20DATA%5C06THRU10%5CTXT%5C00000012%5CP1005P2Z.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=-%7Ch&amp;amp;MaximumDocuments=15&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r85g16/r85g16/x150y150g16/i500&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionE&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&quot;&gt;Final Report&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Journal Articles
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Survey design for lakes and reservoirs in the United States to assess contaminants in fish tissue&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/fish-tech/national-lake-fish-tissue-study-reports&quot;&gt;Contaminants in fish tissue from US lakes and reservoirs: a national probabilistic study&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Data files containing the analytical results are available upon request. EPA released data from the National Lake Fish Tissue Study on a set of CDs. These CDs contain quality-assured raw data for all four years of the study in Excel files, a data dictionary to aid in interpreting the data files, and the final analytical data quality assurance report. The data CDs are available at no charge. To order the CDs, contact &lt;a href=&quot;mailto:stahl.leanne@epa.gov&quot;&gt;Leanne Stahl&lt;/a&gt; online at stahl.leanne@epa.gov and provide your name, mailing address, and phone number.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;National Rivers and Streams Assessment Fish Tissue Study&lt;/h2&gt;
+
+		&lt;h3 id=&quot;tab2-riversresults&quot;&gt;Results and Data&lt;/h3&gt;
+
+		&lt;p&gt;All results for the fillet tissue concentrations are reported on a wet weight basis. Fish samples collected from the 542 river sites yielded 541 results for each of the metals analyses (i.e., mercury and selenium) and 540 results for PCBs, PBDEs, and pesticides. A total of 162 results for PFCs were measured in fish samples collected from urban river sites only. Data from the NRSA Fish Tissue Study for the chemical contaminants are provided below.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-mercury-data-9-30-14.xlsx&quot;&gt;Mercury Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 376 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-selenium-data-9-30-14.xlsx&quot;&gt;Selenium Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 380 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-pcb-data-9-30-14.xlsx&quot;&gt;PCB Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-pbde-data-9-30-14.xlsx&quot;&gt;PBDE Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 900 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-pesticide-data-9-30-14.xlsx&quot;&gt;Pesticide Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/nrsa-fish-tissue-study-pfc-data-9-30-14.xlsx&quot;&gt;PFC Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 312 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/2008-09-national-rivers-and-streams-assessment-fish-tissue-data-dictionary&quot;&gt;Data dictionary&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;h2&gt;National Coastal Condition Assessment/Great Lakes Human Health Fish Tissue Study&lt;/h2&gt;
+
+		&lt;h3&gt;Results&lt;/h3&gt;
+
+		&lt;p&gt;All results for the fillet tissue concentrations are reported on a wet weight basis. Data for the omega-3 fatty acids are still undergoing review and analysis, so the fatty acid results will be released when that process has been completed. Data from Great Lakes Human Health Fish Tissue Study for the chemical contaminants are provided below.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/glhhfts-mercury-fish-tissue-data-09-30-2014.xlsx&quot;&gt;Mercury Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 82 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/glhhfts-pbde-fish-tissue-data-09-30-2014.xlsx&quot;&gt;PBDE Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 937 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sites/production/files/2014-12/glhhfts-pfc-fish-tissue-data-09-30-2014.xlsx&quot;&gt;PFC Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 260 K)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-194155&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-09/pcb-fish-tissue-data.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=3282035&quot; class=&quot;file-link&quot;&gt;PCB Data (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fish-tech/2010-great-lakes-human-health-fish-tissue-study-fish-tissue-data-dictionary&quot;&gt;Data dictionary&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-4&quot;&gt;
+		&lt;h2&gt;Other EPA Studies&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#tab4-mercury&quot;&gt;Mercury and Selenium&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#tab4-greatlakes&quot;&gt;Great Lakes Environmental Database (GLENDA)&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;tab4-mercury&quot;&gt;Final Database Data - Mercury and Selenium Levels in Fish at Selected Mercury Advisory Sites (2007-2008)&lt;/h2&gt;
+
+		&lt;p&gt;EPA collected and analyzed fish during 2007-2008 to assess levels of mercury at 95 randomly selected mercury advisory sites within the continental United States using a statistically based, regionally stratified design, where sites represented all major regions of the country.&lt;/p&gt;
+
+		&lt;p&gt;Methods established in EPA’s Guidance for Assessing Chemical Contaminant Data for Use in Fish Advisories were used to collect and analyze fish fillet tissue for total mercury. Site samples are comprised of three composites of five fish per composite. Total selenium was also measured and is included in the dataset.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span id=&quot;file-167877&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-07/mercury-finaldata2012.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=61440&quot; class=&quot;file-link&quot;&gt;Final Database Data - Mercury and Selenium Levels in Fish at Selected Mercury Advisory Sites (2007-2008) (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 61 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+		&lt;hr /&gt;&lt;h2 id=&quot;tab4-greatlakes&quot;&gt;Great Lakes Environmental Database (GLENDA)&lt;/h2&gt;
+
+		&lt;div&gt;EPA’s Great Lakes National Program Office (GLNPO) collects environmental data on a wide variety of constituents in:&lt;/div&gt;
+
+		&lt;ul&gt;&lt;li&gt;
+				&lt;div&gt;Water&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Biota&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Sediment&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Air&lt;/div&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;&lt;div&gt;Long after the studies are completed, the data remain and must be managed. Central to the data management effort is a computerized relational database system to house Lake Michigan Mass Balance and other project results. GLENDA was developed to provide the following data capabilities to meet the needs of mass balance modelers and other potential users of Great Lakes data:&lt;/div&gt;
+
+		&lt;ul&gt;&lt;li&gt;
+				&lt;div&gt;Entry&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Storage&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Access&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;div&gt;Analysis&lt;/div&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/great-lakes-legacy-act/great-lakes-environmental-database-glenda&quot;&gt;Great Lakes Environmental Database&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 30 Jul 2015 10:33:09 +0000</pubDate>
+ <dc:creator>rkearney</dc:creator>
+ <guid isPermaLink="false">101431 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 12:11:20, expires @ 2017-01-27 12:11:20, lifetime 1 day -->

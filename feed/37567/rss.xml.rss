@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/37567/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air: Fate, Exposure, and Risk Analysis</title>
+    <link>https://www.epa.gov/feed/37567/rss.xml</link>
+    <description>Updated Air: Fate, Exposure, and Risk Analysis content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/37567/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>FERA - Guidance For Risk Characterization</title>
+    <link>https://www.epa.gov/fera/fera-guidance-risk-characterization</link>
+    <description>&lt;p&gt;This guidance contains principles for developing and describing EPA risk assessments, with a particular emphasis on risk characterization. The current document is an update of the guidance issued with the Agency&#039;s 1992 policy (Guidance on Risk Characterization for Risk Managers and Risk Assessors, February 26, 1992). The guidance has not been substantially revised, but includes some clarifications and changes to give more prominence to certain issues, such as the need to explain the use of default assumptions.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-227853&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/guidance-risk-characterization-feb1995.pdf&quot; type=&quot;application/pdf; length=65852&quot; class=&quot;file-link&quot;&gt;Guidance for Risk Characterization (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 66 K, 
+  February 1995)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 12 Nov 2015 20:57:24 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">125951 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dose Response Assessment Tables</title>
+    <link>https://www.epa.gov/fera/dose-response-assessment-tables</link>
+    <description>&lt;p&gt;The information below presents tabulated dose-response assessments that the Office of Air Quality Planning and Standards (OAQPS) uses for risk assessments of hazardous air pollutants. Two separate tables are provided. Table 1 presents values for long-term (chronic) inhalation and oral exposures; Table 2 presents values for short-term (acute) inhalation exposures. It is important to note that only for the purpose of these tables that the compound categories use the CAS number for the element. However, all compounds having that element in their chemical structure are included in the compound category.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-66253&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-05/table1.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=51274&quot; class=&quot;file-link&quot;&gt;Table 1 (chronic) (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(51 K, 
+  May 9, 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-66255&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-05/table2.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=63811&quot; class=&quot;file-link&quot;&gt;Table 2 (acute) (Excel)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(64 K, 
+  Sept 18, 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-66257&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-05/documents/table1.pdf&quot; type=&quot;application/pdf; length=41801&quot; class=&quot;file-link&quot;&gt;Table 1 (chronic) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 42 K, 
+  May 9, 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-66259&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-05/documents/table2.pdf&quot; type=&quot;application/pdf; length=236646&quot; class=&quot;file-link&quot;&gt;Table 2 (acute) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 237 K, 
+  Sept 18, 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 07 Oct 2014 13:54:59 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">64521 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Risk Assessment for Noncancer Effects</title>
+    <link>https://www.epa.gov/fera/risk-assessment-noncancer-effects</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Risk Assessment for Noncancer Effects&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hazard Identification for Noncancer Effects. Due to the wide variety of endpoints, hazard identification procedures for noncancer effects have not been described as completely in EPA guidance as procedures for the identification of carcinogens. However, EPA has published guidelines for assessing several specific types of chronic noncancer effects including mutagenicity [1], developmental toxicity [2], neurotoxicity [3], and reproductive toxicity [4], as well as a framework for using studies of these and other effects in inhalation risk assessment [5].&lt;/p&gt;
+
+&lt;p&gt;Under these guidelines for identification of chronic hazards other than cancer, scientists review the health effects literature and characterize its strengths and weaknesses, using a narrative approach rather than a formal classification scheme. Data on different endpoints are arrayed and discussed, and the effects (and their attendant dose/exposure levels) described. Particular attention is given to the critical effect (defined as the first adverse effect, or its known precursor, that occurs to the most sensitive species as the dose rate of an agent increases) in well-designed studies. Information is presented in a narrative description that discusses factors such as the methodological strengths and weaknesses of individual studies (as well as the overall database), the length of time over which the studies were conducted, routes of exposure, and possible biological modes of action. Assessors consider the severity of effects, which may range from severe frank effects that can cause incapacitation or death to subtle effects that may occur at the cellular level but are early indicators of toxicity. Not all effects observed in laboratory studies are judged to be adverse. The distinction between adverse and non-adverse effects is not always clear-cut, and professional judgment is applied to identify adverse effects. These observations are integrated into a presentation that gives a concise profile of the toxicological properties of the pollutant.&lt;/p&gt;
+
+&lt;p&gt;Dose-Response Assessment for Noncancer Effects. The reference concentration (RfC) for inhalation and the reference dose (RfD) for oral exposure are the primary Agency consensus quantitative toxicity metrics for use in noncancer risk assessments for chronic exposure. The RfC is an estimate (with uncertainty spanning perhaps an order of magnitude) of a continuous inhalation exposure to the human population (including sensitive subgroups) that is likely to be without an appreciable risk of deleterious effects during a lifetime. It can be derived from a NOAEL , LOAEL , or benchmark concentration , with uncertainty factors generally applied to reflect limitations of the data used. The RfD is an estimate (with uncertainty spanning perhaps an order of magnitude) of a daily oral exposure to the human population (including sensitive subgroups) that is likely to be without an appreciable risk of deleterious effects during a lifetime. It can be derived from a NOAEL, LOAEL, or benchmark dose, with uncertainty factors generally applied to reflect limitations of the data used. The RfC and RfD are derived after a thorough review of the health effects data base for an individual chemical, and identification of the most sensitive and relevant endpoint (the &quot;critical effect&quot;) and the principal study(ies) demonstrating that endpoint. Inhalation RfCs are derived according to the Agency&#039;s Methods for Derivation of Inhalation Reference Concentrations and Application of Inhalation Dosimetry [5].&lt;/p&gt;
+
+&lt;p&gt;Derivation of an RfC or RfD typically begins with identification of the critical effect from the available human and animal study data, followed by identification of a LOAEL or, preferably, a NOAEL. Some assessments fit a model to the dose-response relationship and interpolate a benchmark concentration (or the corresponding oral benchmark dose), usually the exposure at which 5-10 percent of the study population is predicted to respond. The 95% lower confidence limit on the benchmark concentration/dose (BMCL/DL) replaces the use of the NOAEL and better represents all of the data of the dose-response curve. For RfC development, inhalation LOAELs, NOAELs, or BMCLs are adjusted for continuous exposures, and data from animal studies are used to derive a human equivalent concentration (HEC) based on dosimetric adjustments [5]. (For RfD development, these conversions are usually not required.) The RfC or RfD are then derived by consistent application of uncertainty factors (UFs) to account for recognized uncertainties in the extrapolation from the experimental data and exposure conditions [5]. RfCs and RfDs (and similar dose-response assessment values) presented here were developed by EPA, the US Agency for Toxic Substances and Disease Registry, and the California EPA, and were selected for use by a &lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;priority system.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The process by which most acute inhalation dose-response assessment values are derived differs from the chronic RfC methodology in two important ways. First, &quot;acute&quot; may connote exposure times varying from a few minutes to two weeks. The time frame for the value is critical, because the safe dose (or the dose that produces some defined effect) may vary substantially with the length of exposure. Second, some acute dose-response assessments include more than one level of severity. A typical assessment may have values for level 1 (at which only mild, transient effects may occur), level 2 (above which irreversible or other serious effects may occur), and level 3 (above which life-threatening effects may occur). Therefore, many acute assessments present dose-response assessment values as a matrix, with one dimension being length of exposure and the other a severity-of-effect category. &lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants#tables&quot;&gt;Table 2&lt;/a&gt; presents acute values for all three severity levels where assessed, but where assessments include multiple durations or averaging times, only values for the 1-hour exposure time are presented. The only exceptions are ATSDR assessments, which have a 24-hour to 2-week time frame, and a few California EPA values that have time frames slightly different from 1 hour (e.g., 6 hours for benzene, 4 hours for arsenic, etc.).&lt;/p&gt;
+
+&lt;p&gt;Unlike linear dose-response assessments for cancer, noncancer risks generally are not expressed as a probability of an individual suffering an adverse effect. Instead, &quot;risk&quot; for noncancer effects typically is quantified by comparing the exposure to the reference level via a ratio known as the &quot;hazard quotient&quot; (HQ; i.e., the exposure divided by the appropriate chronic or acute value). For a given air toxic, exposures at or below the reference level (HQ=1) are not likely to be associated with adverse health effects. As exposures increase above the reference level (i.e., HQs increase above 1), the potential for adverse effects also increases. The HQ, however, should not be interpreted as a probability of adverse effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;U.S. EPA. 1986. Guidelines for Mutagenicity Risk Assessment. 51 FR 34006-34012. Available on-line at &lt;a href=&quot;/risk/guidelines-mutagenicity-risk-assessment&quot;&gt;http://www2.epa.gov/risk/guidelines-mutagenicity-risk-assessment.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;U.S. EPA. 1991. Guidelines for Developmental Toxicity Risk Assessment. 56 FR 63798-63826. Available on-line at &lt;a href=&quot;/risk/guidelines-developmental-toxicity-risk-assessment&quot;&gt;http://www2.epa.gov/risk/guidelines-developmental-toxicity-risk-assessment.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;U.S. EPA. 1998. Guidelines for Neurotoxicity Risk Assessment; Notice 60. 63 FR 26926-26954. Available on-line at &lt;a href=&quot;/risk/guidelines-neurotoxicity-risk-assessment&quot;&gt;http://www2.epa.gov/risk/guidelines-neurotoxicity-risk-assessment.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;U.S. EPA. 1996. Guidelines for Reproductive Toxicity Risk Assessment. National Center for Environmental Assessment. EPA/630/R-96/009. Available on-line at &lt;a href=&quot;/risk/guidelines-reproductive-toxicity-risk-assessment&quot;&gt;http://www2.epa.gov/risk/guidelines-reproductive-toxicity-risk-assessment.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;U.S. EPA. 1994. Methods for Derivation of Inhalation Reference Concentrations and Application of Inhalation Dosimetry. Office of Research and Development, Washington, DC. EPA/600/8-90/066F. Available on-line at &lt;a href=&quot;/risk/methods-derivation-inhalation-reference-concentrations-and-application-inhalation-dosimetry&quot;&gt;http://www2.epa.gov/risk/methods-derivation-inhalation-reference-concentrations-and-application-inhalation-dosimetry.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 23 May 2014 15:04:13 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52957 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Risk Assessment for Carcinogens </title>
+    <link>https://www.epa.gov/fera/risk-assessment-carcinogens</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Risk Assessment for Carcinogens&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;EPA&#039;s first carcinogen risk assessment guidelines [1], published in 1986, were the product of nearly two decades of experience and scientific consensus building. EPA has since gained considerable experience in applying cancer risk assessment approaches. Concurrently, the science of risk assessment and toxicological testing has continued to evolve, and EPA has had to address situations not explicitly discussed in the 1986 guidelines, e.g., children&#039;s risk assessment. The update of EPA&#039;s carcinogen risk assessment guidelines in 2005 consolidated the Agency&#039;s experience, providing more comprehensive and transparent guidance on topics not fully developed in the original guidelines, and providing flexibility to accommodate anticipated advances in the science.&lt;/p&gt;
+
+&lt;p&gt;During the time between 1996 and 2005, EPA applied the principles and procedures of the draft revised guidelines on a case-by-case basis for new hazard identifications and dose-response assessments using interim draft guidelines that represented the evolution of risk assessment methods rather than a dramatic shift in methodology. Since 2005, EPA has applied the new 2005 guidelines which reflect EPA&#039;s accumulated experience and advances in our knowledge on cancer assessment. On the other hand, assessments for many substances that were prepared under the 1986 guidelines continue to be valid. Therefore, the dose-response assessments of carcinogens reflect a mixture of the application of 1986 guidelines and the more recent guidelines.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hazard Identification for Carcinogens&lt;/strong&gt;. EPA&#039;s guidelines recognize three broad categories of data: (1) human data (primarily epidemiological); (2) results of long-term experimental animal bioassays; and (3) supporting data, including a variety of short-term tests for genotoxicity and other relevant properties, pharmacokinetic and metabolic studies, and structure-activity relationships. In hazard identification of carcinogens under the guidelines, human data, animal data, and supporting evidence are combined to characterize the weight-of-evidence (WOE) regarding the agent&#039;s potential as a human carcinogen. The &lt;a href=&quot;/risk/guidelines-carcinogen-risk-assessment&quot;&gt;current guidelines&lt;/a&gt;, finalized in 2005, recommend expressing WOE by narrative statements rather than only hierarchical categories, and expressing them separately for the oral and inhalation routes. The general categories recognized by the 2005 guidelines are [2]:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Carcinogenic to Humans&lt;/li&gt;
+	&lt;li&gt;Likely to be Carcinogenic to Humans&lt;/li&gt;
+	&lt;li&gt;Suggestive Evidence of Carcinogenic Potential&lt;/li&gt;
+	&lt;li&gt;Inadequate Information to Assess Carcinogenic Potential&lt;/li&gt;
+	&lt;li&gt;Not Likely to be Carcinogenic to Humans&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Under the 1986 guidelines, this WOE was summarized as fitting one of several hierarchic categories [1]:&lt;/p&gt;
+
+&lt;p&gt;Group A - Carcinogenic to Humans: Agents with adequate human data to demonstrate the causal association of the agent with human cancer (typically epidemiologic data).&lt;/p&gt;
+
+&lt;p&gt;Group B - Probably Carcinogenic to Humans: Agents with sufficient evidence (i.e., indicative of a causal relationship) from animal bioassay data, but either limited human evidence (i.e., indicative of a possible causal relationship, but not exclusive of alternative explanations; Group B1), or with little or no human data (Group B2).&lt;/p&gt;
+
+&lt;p&gt;Group C - Possibly Carcinogenic to Humans: Agents with limited animal evidence and little or no human data.&lt;/p&gt;
+
+&lt;p&gt;Group D - Not Classifiable as to Human Carcinogenicity: Agents without adequate data either to support or refute human carcinogenicity.&lt;/p&gt;
+
+&lt;p&gt;Group E - Evidence of Non-carcinogenicity for Humans: Agents that show no evidence for carcinogenicity in at least two adequate animal tests in different species or in both adequate epidemiologic and animal studies.&lt;/p&gt;
+
+&lt;p&gt;For each HAP that has been assessed for carcinogenicity under either set of guidelines, &lt;a href=&quot;/sites/production/files/2014-05/documents/table1.pdf&quot;&gt;Table 1 (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(8pp, 42k)&lt;/span&gt; presents the category label specified by the most recent assessment (which may be via the current or past guidelines). At some point in the future, the table may also include excerpts of narrative WOEs. These WOE categories express the relative level of certainty that these agents may cause cancer in humans. The categories specifically do not connote relative levels of hazard or degree of conservatism applied in developing a dose-response assessment. For example, a substance in group C (possible human carcinogen), under the 1986 guidelines, may impart a greater cancer risk to more people than another substance in group A (known human carcinogen), yet there is a greater certainty with regard to the risk associated with the latter. EPA&#039;s WOE classifications are focused on the amount and quality of evidence regarding whether or not a substance is carcinogenic to humans, not on the level of risk a substance might present. Dose-Response Assessment for Carcinogens. Since the publication of EPA&#039;s original cancer guidelines in 1986, considerable new knowledge has been developed regarding the processes of chemical carcinogenesis and the evaluation of human cancer risk. The 2005 guidelines [2] recognize both linear and nonlinear modes of action for carcinogens. When assessing the dose-response relationship under the guidelines, cancer data in the observable range are analyzed using a dose-response model similar to the models used for noncancer effects. The method of extrapolation to lower doses from the point of departure may vary depending on whether the available data indicate a linear or nonlinear mode of action.&lt;/p&gt;
+
+&lt;p&gt;Under the guidelines, linear extrapolation is appropriate when the evidence supports the mode of action of gene mutation due to direct DNA reactivity or another mode of action that is thought to be linear in the low dose region. A linear mode of action will also be the approach when available evidence is not sufficient to support a nonlinear extrapolation procedure, even in the absence of evidence of DNA reactivity. Nonlinear methods are to be used if there is sufficient evidence to support a nonlinear mode of action.&lt;/p&gt;
+
+&lt;p&gt;For linear carcinogens, EPA&#039;s current process of estimating cancer risk is based on the unit risk estimate (URE) for inhalation, and the carcinogenic potency slope (CPS) for ingestion. The URE represents the upper-bound excess lifetime cancer risk estimated to result from continuous exposure to an agent over a lifetime at a concentration of 1 µg/m&lt;sup&gt;3&lt;/sup&gt; in air. The interpretation of the URE would be as follows: if the URE = 1.5 x 10-6 µg/m&lt;sup&gt;3&lt;/sup&gt;, no more than 1.5 excess tumors are expected to develop per 1,000,000 people if exposed all day, every day for a lifetime to a concentration of 1 µg of the chemical per cubic meter of air. The CPS is an upper bound, usually approximating a 95% confidence limit, on the increased cancer risk from a lifetime oral exposure to an agent. This estimate, usually expressed in units of proportion (of a population) affected per mg/kg/day, is generally reserved for use in the low-dose region of the dose-response relationship, that is, for exposures corresponding to risks less than 1 in 100. The URE and CPS are plausible upper-bound estimates of the risk (i.e., the actual risk is likely to be lower, but may be greater). However, because the URE and CPS reflect unquantifiable assumptions about effects at low doses, their upper bounds are not true statistical confidence limits. The tabulated UREs and CPSs were developed by EPA and the California EPA, and were selected for use by a &lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;priority system&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;U.S. EPA. 1986. Guidelines for Carcinogen Risk Assessment. 51 FR 33992-34003.&lt;/li&gt;
+	&lt;li&gt;U.S. EPA. 2005. Guidelines for Carcinogen Risk Assessment. 70 FR 17765-17817&lt;/li&gt;
+&lt;/ol&gt;</description>
+     <pubDate>Fri, 23 May 2014 15:02:36 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52955 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>The NRC Risk Assessment Paradigm</title>
+    <link>https://www.epa.gov/fera/nrc-risk-assessment-paradigm</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;The NRC Risk Assessment Paradigm&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Because cancer and noncancer health impacts associated with environmental exposures generally cannot be directly isolated and measured, EPA scientists and others have spent more than two decades developing an extensive set of risk assessment methods, tools, and data to estimate environmental health risks. Although significant uncertainties remain, this risk assessment methodology has been extensively peer-reviewed, is widely used and understood by the scientific community, and continues to expand and evolve as scientific knowledge advances.&lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s framework for assessing and managing risks reflects the risk assessment and risk management paradigm set forth by the National Academy of Sciences (NRC) in 1983 [ , ], shown in Figure 1 below. The NRC concluded that risk assessment and risk management are &quot;two distinct elements&quot; between which agencies should maintain a clear conceptual distinction. The 1983 NRC report identified four steps integral to any risk assessment: 1) hazard identification, 2) dose-response assessment, 3) exposure assessment, and 4) risk characterization. The NRC paradigm for risk assessment serves as the basis for OAQPS risk assessments under the air toxics program.&lt;/p&gt;
+
+&lt;p&gt;Figure 1. Diagram of NRC risk assessment/risk management paradigm.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:570px&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-05/image002.jpg&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:570px;&quot;&gt;&lt;img alt=&quot;Figure 1. Diagram of NRC risk assessment/risk management paradigm&quot; height=&quot;301&quot; width=&quot;570&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-05/image002.jpg&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Within the NRC paradigm, the evaluation of toxicity in a risk assessment is based on two sequential analyses. The first is the hazard identification, which identifies contaminants that may pose health hazards at environmentally relevant concentrations, and qualitatively describes the effects that may occur in humans. The second analysis is the human health dose-response assessment, which characterizes the relationship between the exposure to a pollutant and the resultant health effects.&lt;/p&gt;
+
+&lt;p&gt;Hazard Identification. The types of effects relevant to each chemical (e.g., cancer, or effects other than cancer) are determined as part of the hazard identification. Factors such as the experimental route of exposure, the type and severity of the effects, the biological plausibility of findings, and the consistency of findings across studies all contribute to the hazard identification statement.&lt;/p&gt;
+
+&lt;p&gt;Dose-Response Assessment. Generally, the dose-response assessment consists of two parts: the evaluation of data in the observable range, and the extrapolation from the observable range to low doses/risks. Recent terminology refers to the result of analysis in the observable range as the &quot;point of departure&quot; from which extrapolation begins. The approaches used for evaluation in the observable range are similar for all types of effects, but EPA&#039;s current extrapolation methods differ considerably for cancer and noncancer effects. Further details of dose-response assessment are provided in the web pages on risk assessment for &lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;carcinogens&lt;/a&gt; and &lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;non-carcinogens&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The nature of the dose-response assessment typically varies among pollutants. Sufficient data may exist for some criteria air pollutants, such as ozone or carbon monoxide, so that relatively complete dose-response relationships can be characterized. In such cases, there is no need for extrapolation to lower doses because adequate human health effects data are available at environmentally relevant levels. However, this has not often been the case for air toxics. Epidemiologic and toxicologic data for air toxics have typically resulted from exposure levels that were high relative to environmental levels.&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;National Research Council. 1983. Risk assessment in the federal government. Managing the process. National Academy Press, Washington, DC.&lt;/li&gt;
+	&lt;li&gt;National Research Council. 1994. Science and Judgment in Risk Assessment. National Academy Press, Washington, DC.&quot;&lt;/li&gt;
+&lt;/ol&gt;</description>
+     <pubDate>Fri, 23 May 2014 14:59:55 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52953 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sources of Acute Dose-Response Information </title>
+    <link>https://www.epa.gov/fera/sources-acute-dose-response-information</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Sources of Acute Dose-Response Information&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hazard identification and dose-response assessment information for acute exposure was obtained from various sources, and is presented in &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 2&lt;/a&gt;. However, in contrast to the presentation of chronic information in &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt;, no prioritization scheme has been applied and no oral values have been included. That is, Table 2 presents acute inhalation values from multiple sources. We included multiple sources because the various assessments used methods that were different enough that, in our judgment, many are not directly comparable. Therefore, we judged that &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 2&lt;/a&gt; would better serve risk assessors by providing a range of values. The following sources were used:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;US Agency for Toxic Substances and Disease Registry (ATSDR)&lt;/strong&gt;. In addition to its chronic minimum risk levels (MRLs), ATSDR also develops MRLs for acute inhalation exposure, which ATSDR defines as 1-14 days. As with ATSDR&#039;s chronic MRLs, acute MRLs are estimates of human exposure to a substance that is likely to be without an appreciable risk of adverse effects (other than cancer). Acute inhalation MRLs are published as part of pollutant-specific toxicological profile documents, and also in a table of &quot;comparison values&quot; that ATSDR regularly updates and distributes (available on-line at &lt;a href=&quot;http://www.atsdr.cdc.gov/mrls/index.asp&quot;&gt;http://www.atsdr.cdc.gov/mrls/index.asp&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;California Environmental Protection Agency (CalEPA)&lt;/strong&gt;. CalEPA has developed acute dose-response assessments for many substances, expressing the results as acute inhalation reference exposure levels (RELs). As with its chronic RELs, CalEPA defines the acute REL as a concentration level at (or below) which no health effects are anticipated. CalEPA&#039;s acute RELs are available on-line at: &lt;a href=&quot;http://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary&quot;&gt;http://oehha.ca.gov/air/general-info/oehha-acute-8-hour-and-chronic-reference-exposure-level-rel-summary&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;National Advisory Committee for Acute Exposure Guideline Levels (NAC)&lt;/strong&gt;. EPA&#039;s Office of Prevention, Pesticides and Toxic Substances established the NAC in 1995 to develop Acute Exposure Guideline Levels (AEGLs) and supplementary information on hazardous substances for federal, state, and local agencies and organizations in the private sector concerned with emergency planning, prevention, and response. The NAC is a discretionary Federal advisory committee that combines the efforts of stakeholders from the public and private sectors to promote efficiency and utilize sound science.&lt;/p&gt;
+
+&lt;p&gt;Since it began AEGL development with an initial priority list of 85 chemicals in May 1997, the NAC has produced AEGLs for 146 substances (available on EPA&#039;s website at &lt;a href=&quot;/aegl/access-acute-exposure-guideline-levels-aegls-values&quot;&gt;https://www.epa.gov/aegl/access-acute-exposure-guideline-levels-aegls-values#chemicals&lt;/a&gt;). The AEGLs for a substance take the form of a matrix, with separate levels for mild (AEGL-1), moderate (AEGL-2), and severe (AEGL-3) effects. Each of the effect levels are provided for as many as five different exposure periods, typically 10 and 30 minutes and 1, 4, and 8 hours. Table 2 provides the 1-and 8-hour concentrations for the AEGL-1 and -2, with a superscript that identifies whether the value is final, interim, or proposed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;American Industrial Hygiene Association (AIHA).&lt;/strong&gt; AIHA has developed emergency response planning guidelines (ERPGs) for acute exposures at three different levels of severity. These guidelines (available on-line through the US Department of Energy at &lt;a href=&quot;https://www.aiha.org/get-involved/AIHAGuidelineFoundation/EmergencyResponsePlanningGuidelines/Pages/default.aspx&quot;&gt;https://www.aiha.org/get-involved/AIHAGuidelineFoundation/EmergencyResponsePlanningGuidelines/Pages/default.aspx &lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;) represent concentrations for exposure of the general population for up to 1 hour associated with effects expected to be mild or transient (ERPG-1), irreversible or serious (ERPG-2), and potentially life-threatening (ERPG-3). Table 2 provides the ERPG-1 and -2 values.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;National Institute for Occupational Safety and Health (NIOSH).&lt;/strong&gt; As part of its mission to study and protect worker health, NIOSH determines concentrations of substances that are immediately dangerous to life or health (IDLHs). IDLHs were originally determined for 387 substances in the mid-1970&#039;s as part of the Standards Completion Program (SCP), a joint project by NIOSH and the Occupational Safety and Health Administration (OSHA), for use in assigning respiratory protection equipment. NIOSH is currently evaluating the scientific adequacy of the criteria and procedures used during the SCP for establishing IDLHs. In the interim, the IDLHs have been reviewed and revised. NIOSH maintains an on-line database (&lt;a href=&quot;http://www.cdc.gov/niosh/idlh/idlh-1.html&quot;&gt;http://www.cdc.gov/niosh/idlh/idlh-1.html&lt;/a&gt;) of IDLHs, including the basis and references for both the current and original IDLH values (as paraphrased from the SCP draft technical standards). Table 2 provides IDLH values divided by 10 to more closely match the mild-effect levels developed by other sources, consistent with methodology used to develop levels of concern under Title III of the Superfund Amendments and Reauthorization Act, and their use in the accidental release prevention requirements under section 112(r) of the Clean Air Act.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;U.S. Department of Energy (DOE).&lt;/strong&gt; DOE has defined Temporary Emergency Exposure Limits (TEELs), which are temporary levels of concern (LOCs) derived according to a tiered, formula-like methodology (described at &lt;a href=&quot;http://orise.orau.gov/emi/scapa/files/doe-hdbk-1046-2008_ac.pdf&quot;&gt;http://orise.orau.gov/emi/scapa/files/doe-hdbk-1046-2008_ac.pdf&lt;/a&gt;) and available on-line at &lt;a href=&quot;https://sp.eota.energy.gov/pac/teel/teel_pdf.html&quot;&gt;https://sp.eota.energy.gov/pac/teel/teel_pdf.html&lt;/a&gt;. DOE has developed TEELs with the intention of providing a reference when no other LOC is available. DOE describes TEELs as &quot;approximations of potential values&quot; and &quot;subject to change.&quot; The EPA&#039;s emergency planning program (section 112(r)) does not generally rely on them, and they are provided in Table 2 purely to inform situations in which no other acute values are available. For example, a finding of an acute exposure near a TEEL may indicate the need for a more in-depth investigation into the health effects literature. TEELs are not recommended as the basis of regulatory decision-making. Like ERPGs, TEELs are multiple-tiered, representing concentrations associated with no effects (TEEL-0), mild, transient effects (TEEL-1), irreversible or serious effects (TEEL-2), and potentially life-threatening (TEEL-3). Consistent with DOE&#039;s intent, Table 2 provides the TEEL-0 and -1 concentrations for substances that lack acute values from other sources.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 May 2014 14:54:37 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52951 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2 </title>
+    <link>https://www.epa.gov/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2 &lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. All inhalation dose-response assessment numbers have been converted to EPA&#039;s standard units of mg/m&lt;sup&gt;3&lt;/sup&gt; for RfCs or similar values, and units of risk per ug/m&lt;sup&gt;3&lt;/sup&gt; for UREs. The URE for asbestos was not included in Table 1 because of its unique units, which cannot be directly converted to risk per ug/m&lt;sup&gt;3&lt;/sup&gt;. Asbestos is a group A (known human) carcinogen that causes lung cancer and mesothelioma, with a URE of 0.23 risk per fiber/ml (IRIS).&lt;/p&gt;
+
+&lt;p&gt;2. For carcinogenic HAPs for which EPA data on early life susceptibility are not available and which EPA has concluded are carcinogenic by a mutagenic mode of action, EPA recommends that cancer risk assessments including ages younger than 16 years employ age-specific default adjustment factors (ADAFs) with the slope factor provided in Table 1 and age-specific exposure estimates as described in EPA’s Supplemental Guidance for Assessing Susceptibility from Early-Life Exposure to Carcinogens.&lt;sup&gt;1&lt;/sup&gt; The ADAFs are 10 for exposures prior to 2 years of age (i.e., spanning 2-year interval from birth until second birthday), and 3 from ages 2 through 16 (i.e., spanning a 14-year interval from second until sixteenth birthday). These HAPS are marked in Table 1 by “M*“ in the column labeled “MOA”.&lt;/p&gt;
+
+&lt;p&gt;In the case of trichloroethylene (TCE), however, the ADAFs only apply to the portion of slope factor reflecting risk of kidney cancer. For full lifetime exposure to a constant level of TCE exposure, the ADAF-adjusted unit risk estimate for TCE is 4.8 × 10-6 per mg/m&lt;sup&gt;3&lt;/sup&gt;. For details on applying ADAFs in cases where exposure varies over the lifetime, see &lt;a href=&quot;/iris/supporting-documents-trichloroethylene&quot;&gt;Chapter 5: Dose-Response Assessment, Section 5.2.3.3.1 of the IRIS Toxicological Review for Trichloroethylene (and spreadsheet at the end of the section)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;3. Benzene. The IRIS assessment contains a range of UREs for inhalation and oral exposure. The values that bracket this range are based on different interpretations of the human exposure information. Table 1 includes only the upper end of the range. For more refined assessments it may be appropriate to develop a second risk estimate based on other UREs within this range.&lt;/p&gt;
+
+&lt;p&gt;4. Cadmium. Table 1 contains an RfD from IRIS that is intended for ingestion of drinking water. IRIS provides a different RfD (0.001 mg/kg/d) for food ingestion.&lt;/p&gt;
+
+&lt;p&gt;5. Chloroform. The narrative WOE in new IRIS assessment states that chloroform is likely to be carcinogenic by all routes of exposure under conditions that lead to cytotoxicity and regenerative hyperplasia in susceptible tissues, via a nonlinear mode of action. For this reason, the newly revised IRIS oral assessment lacks a carcinogenic potency slope because EPA has judged that the RfD should protect against cytotoxicity and therefore against cancer. EPA is currently developing an inhalation assessment, but the IRIS file still contains the old inhalation URE. However, we expect the next inhalation assessment to conform to a nonlinear mode-of-action, and we have accordingly removed the chloroform URE from Table 1.&lt;/p&gt;
+
+&lt;p&gt;6. Lead. For lead and compounds, Table 1 shows the level of the U.S. EPA national ambient air quality standard (NAAQS) in lieu of an RfC for non-cancer effects. The NAAQS is a not-to-be-exceeded 3-month average concentration of lead in total suspended particles (73 FR 66964). The CalEPA URE and CPS are not presented because the IRIS assessment for lead concludes that data are not sufficient to quantify cancer risks (due to uncertainties in the exposure estimate and insufficient knowledge of lead pharmacokinetics).&lt;/p&gt;
+
+&lt;p&gt;7. Manganese.  Table 1 presents an inhalation minimal risk level finalized by the Agency for Toxic Substances and Disease Registry in late 2012, providing the most recent peer-reviewed assessment based on the most recent data and analysis methods.&lt;/p&gt;
+
+&lt;p&gt;8. 2-Nitropropane. Table 1 presents an inhalation URE derived by the Health Council of the Netherlands in preference to the value in HEAST, which does not reflect the most recent studies and analysis methods.&lt;/p&gt;
+
+&lt;p&gt;9. Polychlorinated biphenyls. The IRIS assessment for PCBs includes several oral cancer slope factors. Table 1 presents the upper-bound slope factor recommended for food chain exposure to high-risk and persistent PCBs.&lt;/p&gt;
+
+&lt;p&gt;10. Polynuclear aromatic hydrocarbons:  anthracene, phenanthrene, and pyrene.  EPA concluded that these three PAHs are not carcinogenic in the draft document &lt;em&gt;Development of a Relative Potency Factor (RPF) Approach for Polycyclic Aromatic Hydrocarbon (PAH) Mixtures: In Support of Summary Information on the Integrated Risk Information System (IRIS) (&lt;/em&gt;2010), which was reviewed by an expert committee of the EPA’s Scientific Advisory Board in 2011.  The 2010 EPA document and SAB’s review are available at:  &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=194584&quot;&gt;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=194584&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;11. Vinyl chloride. The IRIS assessment contains separate UREs for exposure from birth and for continuous exposure during adulthood. Table 1 includes only the URE intended for continuous lifetime exposure from birth. For more refined assessments it may be appropriate to also use the IRIS value for adult exposure (4.4 x 10-6 risk per mg/m&lt;sup&gt;3&lt;/sup&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. Nickel compounds. The Cal EPA acute RELis not included in Table 2 based on an in-depth examination of the methodology employed and the full nickel health effects database, which includes the toxicological information on which the Cal EPA REL is based (79 FR 60237). &lt;/p&gt;
+
+&lt;p&gt;________________________________________&lt;/p&gt;
+
+&lt;p&gt;1. For HAPs that are carcinogenic by an undetermined mode of action, the linear low-dose extrapolation approach is used to derive slope factors. As stated in the Supplemental Guidance, it is the Agency’s long-standing science policy position that use of the linear low-dose extrapolation approach (without further adjustment) provides adequate public health conservatism in the absence of chemical-specific data indicating differential early-life susceptibility or when the mode of action is not mutagenicity.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 May 2014 14:52:24 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52949 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Prioritization of Data Sources for Chronic Exposure </title>
+    <link>https://www.epa.gov/fera/prioritization-data-sources-chronic-exposure</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;Sources of Chronic Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Prioritization of Data Sources for Chronic Exposure&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2 &lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; includes chronic dose-response values for all air toxics for which at least one of the &lt;a href=&quot;/fera/sources-chronic-dose-response-information&quot;&gt;assessment sources&lt;/a&gt; has developed a weight-of-evidence or dose-response assessment. However, many air toxics have chronic dose-response assessments developed by more than one of these agencies. Because different agencies developed these assessments at different times for purposes that were similar but not identical, it is inevitable that the results are not totally consistent. In some cases interagency differences are substantial, especially between assessments that were done many years apart. In lieu of chemical-specific decisions to resolve these discrepancies, EPA has applied a consistent priority scheme to the sources of chronic dose-response information described above.&lt;/p&gt;
+
+&lt;p&gt;Draft RfCs, RfDs, and UREs under development for the EPA IRIS process were given first priority on a case-by-case basis, where such assessments have already undergone external peer review and subsequent revision. Consistent with EPA&#039;s commitment to sound science, &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; does not include draft assessments that have not undergone peer review. This practice conforms to the 1996 changes to the IRIS review process requiring such external peer review.&lt;/p&gt;
+
+&lt;p&gt;Where externally peer reviewed IRIS draft assessments were not selected to supersede existing EPA IRIS values, &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; shows current IRIS information. For substances lacking current IRIS assessments, ATSDR chronic MRLs (available only for noncancer effects) received next preference, followed by CalEPA chronic RELs and UREs. Where ATSDR or CalEPA assessments did not exist, &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; shows HEAST assessments. &lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 May 2014 14:50:04 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">52947 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sources of Chronic Dose-Response Information</title>
+    <link>https://www.epa.gov/fera/sources-chronic-dose-response-information</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Dose-Response Assessment for Assessing Health Risks Associated With Exposure to Hazardous Air Pollutants&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/fera/dose-response-assessment-assessing-health-risks-associated-exposure-hazardous-air-pollutants&quot;&gt;Summary and Tables&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Sources of Chronic Dose-Response Information&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/prioritization-data-sources-chronic-exposure&quot;&gt;Prioritization of Data Sources for Chronic Exposure&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/additional-information-adjustments-and-special-cases-dose-response-values-tables-1-and-2&quot;&gt;Additional Information, Adjustments and Special Cases for Dose-Response Values in Tables 1 and 2 &lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/sources-acute-dose-response-information&quot;&gt;Sources of Acute Dose-Response Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/nrc-risk-assessment-paradigm&quot;&gt;The NRC Risk Assessment Paradigm&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;Risk Assessment for Carcinogens&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;Risk Assessment for Noncancer Effects&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hazard identification and dose-response assessment information for chronic exposure was obtained from various sources and prioritized according to (1) conceptual consistency with EPA risk assessment guidelines and (2) level of review received. EPA revises this information regularly to keep it as current as possible, but risk assessors are encouraged to consult the original sources to verify any values important to their assessments. The prioritization process was aimed at incorporating into our assessments the best available science with respect to dose-response information. The following sources were used:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;US Environmental Protection Agency (EPA)&lt;/strong&gt;. EPA has developed dose-response assessments for chronic exposure to many of the pollutants in this study. These assessments typically specify a &lt;a href=&quot;/national-air-toxics-assessment/nata-glossary-terms#rfc&quot;&gt;RfC&lt;/a&gt; (to protect against &lt;a href=&quot;/fera/risk-assessment-noncancer-effects&quot;&gt;effects other than cancer)&lt;/a&gt; and/or &lt;a href=&quot;/national-air-toxics-assessment/nata-glossary-terms#ure&quot;&gt;URE&lt;/a&gt; (to estimate the probability of contracting &lt;a href=&quot;/fera/risk-assessment-carcinogens&quot;&gt;cancer&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;EPA disseminates dose-response assessment information in several forms, based on the level of review. Dose-response assessments that have achieved full intra-agency consensus are incorporated in the Integrated Risk Information System (IRIS), which is regularly updated and &lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/atoz.cfm&quot;&gt;available on-line&lt;/a&gt;. All IRIS assessments since 1996 have also undergone independent external peer review. Dose-response assessments for some substances were prepared by the EPA Office of Research and Development, but never submitted for EPA consensus. EPA has assembled the results of many such assessments in the Health Effects Assessment Summary Tables (HEAST), which &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; uses as a source.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;US Agency for Toxic Substances and Disease Registry (ATSDR)&lt;/strong&gt;. ATSDR, which is part of the US Department of Health and Human Services, develops and publishes Minimum Risk Levels (MRLs) for many toxic substances. The MRL is defined as an estimate of daily human exposure to a substance that is likely to be without an appreciable risk of adverse effects (other than cancer) over a specified duration of exposure. MRLs can be derived for chronic exposures by the inhalation and oral routes. ATSDR describes MRLs as substance-specific estimates to be used by health assessors to select environmental contaminants for further evaluation. MRLs are considered to be levels below which contaminants are unlikely to pose a health threat. Exposures above an MRL do not necessarily represent a threat, and MRLs are therefore not intended for use as predictors of adverse health effects or for setting cleanup levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; shows the ATSDR chronic MRL where no IRIS RfC or RfD is available, because the MRL&#039;s concept, definition, and derivation are philosophically consistent (though not identical) with EPA&#039;s guidelines for assessing noncancer effects. ATSDR publishes MRLs as part of pollutant-specific toxicological profile documents, and also in a regularly-updated &lt;a href=&quot;http://www.atsdr.cdc.gov/mrls/index.html&quot;&gt;on-line&lt;/a&gt; table. Table 1 also includes ATSDR draft MRLs, labeled &quot;D-ATSDR.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;California Environmental Protection Agency (CalEPA)&lt;strong&gt;T&lt;/strong&gt;&lt;/strong&gt;he CalEPA Office of Environmental Health Hazard Assessment has developed dose-response assessments for many substances, based both on carcinogenicity and health effects other than cancer. The process for developing these assessments is similar to that used by EPA to develop IRIS values and incorporates significant external scientific peer review. The non-cancer information includes available inhalation health risk guidance values expressed as chronic inhalation and oral reference exposure levels (RELs). CalEPA defines the REL as a concentration level at (or below) which no health effects are anticipated, a concept that is substantially similar to EPA&#039;s non-cancer dose-response assessment perspective. &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; shows the chronic REL (including both final and proposed values) where no IRIS RfC/RfD or ATSDR MRL exists.&lt;/p&gt;
+
+&lt;p&gt;CalEPA&#039;s quantitative dose-response information on carcinogenicity by inhalation exposure is expressed in terms of the URE, defined similarly to EPA&#039;s URE. &lt;a href=&quot;/fera/dose-response-assessment-tables&quot;&gt;Table 1&lt;/a&gt; shows specific CalEPA UREs where no IRIS values exist. CalEPA&#039;s dose response assessments for carcinogens and noncarcinogens are &lt;a href=&quot;http://oehha.ca.gov/air/air-toxics-hot-spots&quot;&gt;available on-line&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;International Agency for Research on Cancer (IARC). &lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;The IARC, a branch of the World Health Organization, coordinates and conducts research on the causes of human cancer and develops scientific strategies for cancer control. The IARC sponsors both epidemiological and laboratory research, and disseminates scientific information through meetings, publications, courses and fellowships.&lt;/p&gt;
+
+&lt;p&gt;As part of its mission, the IARC assembles evidence that substances cause cancer in humans and issues judgments on the strength of evidence. IARC&#039;s &quot;degrees of evidence&quot; categories are Group 1 (carcinogenic in humans), Group 2A (probably carcinogenic), Group 2B (possibly carcinogenic), Group 3 (not classifiable), and Group 4 (probably not carcinogenic). The categorization scheme may be applied to either single chemicals or mixtures. The IARC does not develop quantitative dose-response metrics such as UREs, however.&lt;/p&gt;
+
+&lt;p&gt;IARC&#039;s WOE determinations for substances are included as supporting information for this assessment as a backup to EPA&#039;s WOE determinations, which do not cover all substances and in some cases may be out-of-date. The list of IARC evaluations to date is &lt;a href=&quot;http://monographs.iarc.fr/&quot;&gt;available on-line&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 May 2014 14:48:34 +0000</pubDate>
+ <dc:creator>dmurphy</dc:creator>
+ <guid isPermaLink="false">52945 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:29:38, expires @ 2017-01-26 04:29:38, lifetime 12 hours -->

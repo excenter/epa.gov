@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137043/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Economic and Cost Analysis for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/feed/137043/rss.xml</link>
+    <description>Updated Economic and Cost Analysis for Air Pollution Regulations content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137043/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Benefits Reports for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/benefits-reports-air-pollution-regulations</link>
+    <description>&lt;p&gt;EPA develops benefits analyses to quantify the value of improving human health and reducing environmental impacts of air pollution regulations. Benefits analyses include both quantitative and qualitative estimates of reducing exposure of humans and the environment to ambient concentrations of air pollution. This page contains links to information supporting benefits analyses prepared by EPA, arranged by topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;benefits reports&quot; id=&quot;benefits reports&quot;&gt;&lt;/a&gt;Benefits Reports&lt;/h2&gt;
+
+
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Expert Judgment / Expert Elicitation&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/small&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/thresholdstsd.pdf&quot;&gt;Summary of Expert Opinions on the Existence of a Threshold in the Concentration-Response Function for PM2.5-related Mortality&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(25 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Uncertainty/peer_review_summary_rti_29sept06.pdf&quot;&gt;Peer Review of Expert Elicitation&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 805 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_report.pdf&quot;&gt;Expanded Expert Judgment Assessment of the Concentration-Response Relationship Between PM2.5 Exposure and Mortality&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(109 pp, 1.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Uncertainty/pm_ee_appendices.pdf&quot;&gt;Expanded Expert Judgment Assessment of the Concentration-Response Relationship Between PM2.5 Exposure and Mortality Appendix A: Elicitation Protocol&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(113 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/PeerReviewResponseMemo.pdf&quot;&gt;Response to Peer Review of An Expert Judgment Assessment of the Concentration-Response Relationship between PM2.5 Exposure and Mortality&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 131 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/memo_7.30.04.pdf&quot;&gt;Peer Review of An Expert Judgment Assessment of the Concentration-Response Relationship between PM2.5 Exposure and Mortality&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 208 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/pmexpert.pdf&quot;&gt;An Expert Judgment Assessment of the Concentration-Response Relationship between PM2.5 Exposure and Mortality&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(94 pp, 901 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/pmexpert_appendix.pdf&quot;&gt;An Expert Judgment Assessment of the Concentration-Response Relationship between PM2.5 Exposure and Mortality - Apendix&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(101 pp, 363 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;The expert elicitation documents below were prepared in support of the characterization of uncertainty in EPA&#039;s benefits analyses associated with reductions in exposure to particulate matter pollution. As recommended by the National Academy of Sciences, EPA has used expert judgment as part of an effort to better describe the uncertanties inherent in any benefits analysis.&lt;/small&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Visiblity Reports Cited in Benefits Documents&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/chestnut1986.pdf&quot;&gt;Review of Establishing and Valuing the Effects of Improved Visibility in Eastern United States&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(96 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/chestnut1997.pdf&quot;&gt;Methodology for Estimating Values for Changes in Visibility at National Parks&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/leggettandneumann2004.pdf&quot;&gt;Responding to SAB Council Comments on the May 2003 Draft Analytical Plan for the Section 812 Second Prospective Analysis Visibility Benefits&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/neumannpaterson2009.pdf&quot;&gt;Alternative Approach to Estimating Monetized Benefits of Residential Visibility for the Section 812 Second Prospective Analysis&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(44 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/patersonneumanleggett2005.pdf&quot;&gt;Recommended Residential Visibility Values for the Section 812 Second Prospective Analysis&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 153 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Regulatory Background Documents&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/casprmats.pdf&quot;&gt;Combined National and State-level Health Benefits for the Cross-State Air Pollution Rule and Mercury and Air Toxics Standards&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 155 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/Final_Effectiveness.pdf&quot;&gt;Technical Support Document: Methodology Used to Generate Deposition, Fish Tissue Methylmercury Concentrations, and Exposure for Determining Effectiveness of Utility Emission Controls&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(69 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/MercuryExposurePeerReviewSummary.pdf&quot;&gt;Mercury Exposure Peer Review Summary&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(54 pp, 195 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/mercuryworkshop.pdf&quot;&gt;Mercury Neurotoxicity Workshop Notes (November 2002)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 101 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/tsdhddv8.pdf&quot;&gt;Technical Support Document for the Heavy Duty Engine/Diesel Fuel Rule&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(196 pp, 798 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/methodology_report_10-30-09.pdf&quot;&gt;Analysis of Ecosystem Benefits for Reductions of NOx and SOx Methodology Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(155 pp, 3.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Other Background Documents&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/Parametrizing_the_Integrated_Exposure_Response_Function.pdf&quot;&gt;Parametrizing the Integrated Exposure Response (IER) Function for Application in the Benefits Calculator&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(40 pp, 4.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/lmltsd.pdf&quot;&gt;Lowest Measured Level (LML) Assessment for Rules without Policy-specific Air Quality Data Available&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 69 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/influence_analysis_final_report_psg.pdf&quot;&gt;Influence Analysis in Support of Characterizing Uncertainty in Human Health Benefits Analysis&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(149 pp, 1.9 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Other Reports Cited in Benefits Documents&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/IncomeElasticityUpdate_Recommendationswithappendices.pdf&quot;&gt;Updating Income Elasticity Estimates in EPA BenMAP Air Pollution Benefits Estimation System&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(41 pp, 670 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/MortalityRateProjectionMethodology10-25-05.pdf&quot;&gt;Methodology for County-level Mortality Rate Projections&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 23 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/neumannn1994.pdf&quot;&gt;Linkage between Health Effects Estimation and Morbidity Valuation in the Section 812 Analysis - Draft Valuation Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 1.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/abt1995.pdf&quot;&gt;Urban Ornamental Plants: Sensitivity to Ozone and Potential Economic Losses&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(138 pp, 26.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/Benefits/background/klecknerandneumann1999.pdf&quot;&gt;Recommended Approach to Adjusting Willingness-to-Pay (WTP) Estimates to Reflect Changes in Real Income&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 68 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Southern Appalachian Mountains Initiative (SAMI)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttnecas1/regdata/Benefits/SAMI-IndepAnalysis-SummaryRpt.pdf&quot;&gt;Impacts of Southern Appalachian Mountains Initiative (SAMI): An Independent Analysis of Benefits and Economic Impacts, Summary&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 130 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttnecas1/regdata/Benefits/IndepAnaly-benefits(final).pdf&quot;&gt;Benefits Analysis of Alternative SAMI Strategies: Selected Health and Welfare Methods and Results&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(79 pp, 832 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Fri, 09 Sep 2016 19:10:14 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">159833 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Resources for Understanding and Preparing Economic Analyses to Address Air Quality Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/resources-understanding-and-preparing-economic</link>
+    <description>&lt;p&gt;The following links are useful for understanding and preparing economic analyses to address air quality regulations. Some of the links below relate to guidance or requirements for the analyses. Other links provide access to data needed for economic analyses.&lt;/p&gt;
+
+&lt;h2&gt;Government – U.S. EPA Links&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/environmental-economics&quot;&gt;Environmental Economics at EPA&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/atw&quot;&gt;Air Toxics Website&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/icr&quot;&gt;Information Collection Request Homepage&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/fedrgstr&quot;&gt;Federal Register Environmental Documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Government – non U.S. EPA Links&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.bea.gov/&quot;&gt;Bureau of Economic Analysis&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.bls.gov/&quot;&gt;Bureau of Labor Statistics&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.census.gov/&quot;&gt;U.S. Census Bureau&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.census.gov/epcd/www/naics.html&quot;&gt;U.S. Bureau North American Industrial Classification System (NAICS)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.whitehouse.gov/omb&quot;&gt;Office of Management and Budget&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Executive Orders and Statutes&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/laws-regulations/summary-executive-order-12866-regulatory-planning-and-review&quot;&gt;Executive Order 12866, Regulatory Planning and Review&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://govinfo.library.unt.edu/npr/library/direct/orders/257e.html&quot;&gt;Executive Order 12875, Enhancing the Intergovernmental Partnership&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/laws-regulations/summary-executive-order-12898-federal-actions-address-environmental-justice&quot;&gt;Executive Order 12898, Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/laws-regulations/summary-executive-order-13045-protection-children-environmental-health-risks-and&quot;&gt;Executive Order 13045, Protection of Children from Environmental Health Risks and Safety Risks&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/laws-regulations/summary-regulatory-flexibility-act-amended-small-business-regulatory-enforcement&quot;&gt;The Regulatory Flexibility Act (RFA) as amended by the Small Business Regulatory Enforcement Fairness Act (SBREFA)&lt;/a&gt;&lt;br /&gt;
+		[Note: The RFA and SBREFA impose both analytical and procedural requirements on EPA and on other federal agencies.]&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Emission Projection Tools and Data&lt;/h2&gt;
+
+&lt;p&gt;EPA has retired the Economic Growth Analysis System version 5.0 (EGAS 5.0) software tool as of July, 2013. EPA provides projected emissions data on the &lt;a href=&quot;/air-emissions-modeling&quot;&gt;Air Emissions Modeling website&lt;/a&gt;. As part of the Air Emissions Modeling Platforms, this site contains projected emissions data for select years modeled as part of EPA rules and Regulatory Impact Assessments (RIAs). These projected emissions data can provide a starting point for state air quality management agencies and other organizations to use for other purposes. Please refer to the &lt;a href=&quot;/air-emissions-modeling&quot;&gt;Air Emissions Modeling website&lt;/a&gt; for the latest information on emissions projections.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 07 Sep 2016 17:39:22 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">159499 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Economic Analysis Models/Tools for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/economic-analysis-modelstools-air-pollution</link>
+    <description>&lt;p&gt;EPA develops models and tools for estimating the costs and economic impacts of air pollution regulations. Information is provided below concerning the economic analysis models and tools maintained by EPA.&lt;/p&gt;
+
+&lt;h2&gt;EMPAX-CGE&lt;/h2&gt;
+
+&lt;p&gt;EMPAX-CGE is a regional computable general equilibrium (CGE) economic model designed to estimate regional macroeconomic impacts of environmental regulations on the U.S. economy. Many major regulations directly affect a large number of industries and/or substantially impact markets for key factors of production. In either case, there may be substantial indirect impacts resulting from changes in production, input use, income, and consumption patterns for directly affected markets. EMPAX-CGE offers the ability to trace economic impacts resulting from policies such as large-scale environmental regulations as the impacts are transmitted throughout the economy. This type of model provides critical insight to policymakers evaluating the magnitude and distribution of costs associated with environmental policies. Both static and dynamic versions of EMPAX-CGE have been developed for policy analysis.&lt;/p&gt;
+
+&lt;p&gt;Below are links to the source code for the model and a brief discussion of construction of EMPAX-CGE data files. EPA will not be able to provide any support for any use of the model.&lt;/p&gt;
+
+&lt;p&gt;You will need Adobe Reader to view some of the files on this page. &lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;EMPAX-CGE Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/EMPAX_812_Jan2013.zip&quot;&gt;EMPAX-CGE Source Code (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/EMPAX_data.pdf&quot;&gt;Construction of EMPAX-CGE Data Files&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 11 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/empax_model_documentation.pdf&quot;&gt;Documentation Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(112 pp, 690 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/empax_peer_review_comments_responses.pdf&quot;&gt;Response to Peer Review Comments&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 pp, 154 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Multimarket Model&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Multimarket Model Peer Review Comments&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/multimarketmodelpeerreview.pdf&quot;&gt;Peer Review of Multimarket Model&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(313 pp, 6.5 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 24 Aug 2016 20:23:47 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">158611 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Cost Analysis Models/Tools for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/cost-analysis-modelstools-air-pollution</link>
+    <description>&lt;p&gt;EPA develops and applies methodologies for estimating the costs of air pollution regulations. Products include cost methodology manuals, spreadsheets for estimating costs, control strategy software, databases of emission control measures, and other useful information related to air pollution control costs. Provided below are the cost-related models and tools maintained by EPA.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#cost manual&quot;&gt;EPA Air Pollution Control Cost Manual&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#control strategy tool&quot;&gt;Control Strategy Tool&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#related cost info&quot;&gt;Related Control Cost Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;cost manual&quot; id=&quot;cost manual&quot;&gt;&lt;/a&gt;EPA Air Pollution Control Cost Manual&lt;/h2&gt;
+
+&lt;p&gt;The EPA Air Pollution Control Cost Manual provides guidance for the development of accurate and consistent costs for air pollution control devices. The Control Cost Manual focuses on point source and stationary area source air pollution controls for volatile organic compounds (VOCs), particulate matter (PM), oxides of nitrogen (NOx), and some acid gases (primarily SO2 and HCl). More information on the Control Cost Manual is available at &lt;a href=&quot;/economic-and-cost-analysis-air-pollution-regulations/cost-reports-and-guidance-air-pollution&quot;&gt;Cost Reports and Guidance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;control strategy tool&quot; id=&quot;control strategy tool&quot;&gt;&lt;/a&gt;Control Strategy Tool&lt;/h2&gt;
+
+&lt;p&gt;The Control Strategy Tool (CoST) is a client-server system and is part of EPA&#039;s Emissions Modeling Framework (EMF). The purpose of CoST is to model the emission reductions and engineering costs associated with control strategies applied to point, area, and mobile sources of air pollutant emissions to support the analyses of air pollution policies and regulations. CoST accomplishes this by matching control measures to emission sources using algorithms such as &quot;maximum emissions reduction&quot; and &quot;least cost&quot;. Control strategy results can be exported to CSV files or viewed in a graphical table that supports sorting, filtering, and plotting. The results can also be merged with the original inventory to create controlled emissions inventories that can be exported to the emissions model SMOKE.&lt;/p&gt;
+
+&lt;p&gt;The Control Strategy Tool was developed as a replacement for the AirControlNET (ACN) software tool which is no longer supported by EPA. It was determined in 2006 that it was an appropriate time to replace the ACN software with newer software that could provide improved functionality and transparency to support current and upcoming needs. A prototype version of the Control Strategy Tool was developed in 2006 and a fully functional version was developed in 2008. The tool has the functionality of AirControlNET but with added capabilities, including:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;the ability to insert emissions inventories almost seamlessly from the Emissions Modeling Framework (EMF)&lt;/li&gt;
+	&lt;li&gt;the ability to insert new control measure data&lt;/li&gt;
+	&lt;li&gt;easier for users to track their analyses and create summary reports and output files&lt;/li&gt;
+	&lt;li&gt;quality assurance (QA) steps provided for identifying errors in emissions and control measure data&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Information on control efficiencies and costs is contained in the Control Measure Database (CMDB). This database currently focuses on criteria pollutants.&lt;/p&gt;
+
+&lt;p&gt;The CoST software (version 2.12) is available for download (see below). Note that because of resource limitations, EPA is not able to provide any support for the installation or operation of CoST outside of the Agency. Documentation for the tool is included on this web site (below). Contact David Misenheimer at &lt;a href=&quot;mailto:misenheimer.david@epa.gov&quot;&gt;misenheimer.david@epa.gov&lt;/a&gt; for general information about CoST.&lt;/p&gt;
+
+&lt;h3&gt;Access to the CoST Software and Training Manual/User&#039;s Guide&lt;/h3&gt;
+
+&lt;p&gt;EPA&#039;s Control Strategy Tool (CoST) version 2.12 is available on the Community Modeling and Analysis System (CMAS) website at the link below. From the CMAS website, you can access both the Java code that is used to build the server and client applications, and files with SQL statements to create and update the database tables and stored procedures. You can also access the CoST Training Manual and User&#039;s Guide which contains installation instructions and exercises for applying the tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;CoST Software and Training Manual/User&#039;s Guide on CMAS&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www.cmascenter.org/cost/&quot;&gt;CoST Version 2.12 Software&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;08-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www.cmascenter.org/cost/documentation/2.12/html/&quot;&gt;CoST Training Manual and User&#039;s Guide (HTML)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;06-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Additional CoST Documentation and Control Measure Data&lt;/h3&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;A link to additional CoST documentation is listed below. Also below is a link to the CoST Control Measure Database (CMDB) files. The files listed below are in PDF format unless noted otherwise and can be downloaded by clicking on the links.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;CoST Documentation and Data&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/CoST_CMDB_Document_2010-06-09.pdf&quot;&gt;CoST Control Measures Database Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 178 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/CoST_DevelopmentDoc_02-23-2016.pdf&quot;&gt;CoST Development Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(113 pp, 1.3 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/CoST_Equations_Document_2016_03_15.pdf&quot;&gt;CoST Cost Equations Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(183 pp, 2.2 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cost/CMDB_At_A_Glance_Report_2016-10-11.pdf&quot;&gt;CoST CMDB At A Glance Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2,193 pp, 6.5 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/CoST_Overview_2010-04-12.pdf&quot;&gt;CoST Overview - Text&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 16 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04-2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/Cost_Overview_2010-06-09.pdf&quot;&gt;CoST Overview - Slides&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 2.2 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/data/CoST_stationary_source_controls_2016-09-28.zip&quot;&gt;CMDB for Stationary Sources (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(217 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/data/CoST_nonroad_source_controls_2016-07-06.zip&quot;&gt;CMDB for Nonroad Sources (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4.7 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/models/CoST_Peer_Review_Response.pdf&quot;&gt;CoST Response to Peer Review Comments&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 388 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;related cost info&quot; id=&quot;related cost info&quot;&gt;&lt;/a&gt;Related Control Cost Information&lt;/h2&gt;
+
+&lt;p&gt;The Menu of Control Measures (MCM) provides state, local and tribal air agencies with the existing emission reduction measures as well as relevant information concerning the efficiency and cost effectiveness of the measures. State, local and tribal agencies will be able to use this information in developing emission reduction strategies, plans and programs to assure they attain and maintain the National Ambient Air Quality Standards (NAAQS).&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Menu of Control Measures&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/criteria-air-pollutants/menu-control-measures-naaqs-implementation&quot;&gt;Menu of Control Measures for NAAQS Implementation - PM &amp;amp; VOC&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Air Compliance Advisor&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Air Compliance Advisor is a PC-based program to supplement EPA’s Air Pollution Control Cost Manual; user inputs specific information about a pollution source to derive pre-control levels of pollution for VOCs, NOx, PM, and SO2 and can perform dynamic &quot;what-if&quot; analyses to rapidly develop creative strategies for pollution control. Note that EPA ceased updates to Air Compliance Advisor so the underlying information is no longer current. Contact Larry Sorrels at &lt;a href=&quot;mailto:sorrels.larry@epa.gov&quot;&gt;sorrels.larry@epa.gov&lt;/a&gt; for questions about the Air Compliance Advisor.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 12 Aug 2016 18:49:58 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">157437 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Cost Reports and Guidance for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/cost-reports-and-guidance-air-pollution</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#cost manual&quot;&gt;EPA Air Pollution Control Cost Manual&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#cost reports&quot;&gt;Cost Reports&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;cost manual&quot; id=&quot;cost manual&quot;&gt;&lt;/a&gt;EPA Air Pollution Control Cost Manual&lt;/h2&gt;
+
+&lt;p&gt;EPA&#039;s Control Cost Manual provides guidance for the development of accurate and consistent costs for air pollution control devices. The Control Cost Manual focuses on point source and stationary area source air pollution controls for volatile organic compounds (VOCs), particulate matter (PM), oxides of nitrogen (NOx), and some acid gases (primarily SO2 and HCl).&lt;/p&gt;
+
+&lt;p&gt;EPA is currently updating the Control Cost Manual. This update will be the Seventh Edition and is required under the authority of the 2014 Consolidated Appropriations Act. EPA expects to complete the Seventh Edition by April 2021. Below is a listing of EPA&#039;s Cost Manual chapters as well as other files related to the Cost Manual. The files are in PDF format unless noted otherwise and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Timeline for Updating Chapters&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cost_manual_timeline_2016-08-04.pdf&quot;&gt;Timeline for chapter revisions - updated as of August 2016&lt;/a&gt; (2 pp, 205 K)&lt;/p&gt;
+
+&lt;h3&gt;Updated Chapters and Related Documents&lt;/h3&gt;
+
+&lt;p&gt;The following chapters have been finalized as part of this update:&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 4 - NOx Controls&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/SNCRCostManualchapter7thEdition2016.pdf&quot;&gt;Chapter 1 - Selective Non-Catalytic Reduction&lt;/a&gt; (70 pp, 1.1 M)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/sncr_cost_manual_spreadsheet_2016_vf.xlsm&quot;&gt;SNCR Cost Calculation Spreadsheet (XLSM)&lt;/a&gt; (4 pp, 95 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/SNCR_CostManual_7thEd_RTC.pdf&quot;&gt;SNCR Response to Comments Document&lt;/a&gt; (60 pp, 849 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/SCRCostManualchapter7thEdition_2016.pdf&quot;&gt;Chapter 2 - Selective Catalytic Reduction&lt;/a&gt; (109 pp, 1.4 M)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/scr_cost_manual_spreadsheet_2016_vf.xlsm&quot;&gt;SCR Cost Calculation Spreadsheet (XLSM)&lt;/a&gt; (note: updated on 12/5/2016 to correct typos) (4 pp, 110 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/SCR_CostManual_7thEd_RTC.pdf&quot;&gt;SCR Response to Comments Document&lt;/a&gt; (109 pp, 1.5 M)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Previous Version of the Cost Manual&lt;/h3&gt;
+
+&lt;p&gt;The previous version of the Control Cost Manual is the Sixth Edition, January 2002:&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;EPA Air Pollution Control Cost Manual - Sixth Edition (EPA 452/B-02-001)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/c_readme.pdf&quot;&gt;Read Me File&lt;/a&gt; (4 pp, 16 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cost_toc.pdf&quot;&gt;Table of Contents&lt;/a&gt; (4 pp, 15 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/c_allchs.pdf&quot;&gt;Entire Document&lt;/a&gt; (752 pp, 3.5 M)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Individual chapters of the Control Cost Manual Sixth Edition are listed below:&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 1 - Introduction&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs1ch1.pdf&quot;&gt;Chapter 1 - Background&lt;/a&gt; (11 pp, 31 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs1ch2.pdf&quot;&gt;Chapter 2 - Cost Estimation: Concepts and Methodology&lt;/a&gt; (46 pp, 171 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 2 - Generic Equipment and Devices&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs2ch1.pdf&quot;&gt;Chapter 1 - Hoods, Ductwork, and Stacks&lt;/a&gt; (59 pp, 173 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs2ch3.pdf&quot;&gt;Chapter 3 - Permanent Total Enclosures (PTEs)&lt;/a&gt; (37 pp, 159 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs2ch4.pdf&quot;&gt;Chapter 4 - Monitors&lt;/a&gt; (41 pp, 126 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 3 - VOC Controls; Section 3.1 - VOC Recapture Controls&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs3-1ch1.pdf&quot;&gt;Chapter 1 - Carbon Absorbers&lt;/a&gt; (4 pp, 16 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs3-1ch2.pdf&quot;&gt;Chapter 2 - Refrigerated Condensers&lt;/a&gt; (4 pp, 15 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 3 - VOC Controls; Section 3.2 - VOC Destruction Controls&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs3-2ch1.pdf&quot;&gt;Chapter 1 - Flares&lt;/a&gt; (46 pp, 125 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs3-2ch2.pdf&quot;&gt;Chapter 2 - Incinerators&lt;/a&gt; (64 pp, 183 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 4 - NOx Controls; Section 4.2 - NOx Post-Control&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs4-2ch1.pdf&quot;&gt;Chapter 1 - Selective Non-Catalytic Reduction&lt;/a&gt; (51 pp, 176 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs4-2ch2.pdf&quot;&gt;Chapter 2 - Selective Catalytic Reduction&lt;/a&gt; (66 pp, 192 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Section 5 - SO2 and Acid Gas Controls; Section 5.2 - Post-Combustion Controls&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs5-2ch1.pdf&quot;&gt;Chapter 1 - Wet Scrubbers for Acid Gas&lt;/a&gt; (6 pp, 291 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;span&gt;Section 6 - Particulate Matter Controls&lt;/span&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs6ch1.pdf&quot;&gt;Chapter 1 - Baghouses and Filters&lt;/a&gt; (60 pp, 273 K)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs6ch2.pdf&quot;&gt;Chapter 2 - Wet Scrubbers for Particulate Matter&lt;/a&gt; (62 pp, 828 K)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/cs6ch3.pdf&quot;&gt;Chapter 3 - Electrostatic Precipitators&lt;/a&gt; (70 pp, 587 K)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;cost reports&quot; id=&quot;cost reports&quot;&gt;&lt;/a&gt;Cost Reports&lt;/h2&gt;
+
+&lt;p&gt;Cost reports provide details on the capital and annual costs of regulations that EPA prepares as well as the necessary information to determine how these costs are estimated. More information on how costs are estimated can be found by consulting the EPA Air Pollution Control Cost Manual (see above).&lt;/p&gt;
+
+&lt;p&gt;Below is a list of cost reports prepared by EPA. The cost reports are generally available in PDF format (unless otherwise noted) and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Cost Reports&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/assessment_of_non-egu_nox_emission_controls_and_appendices_a_b.pdf&quot;&gt;Non-EGU Emissions Reductions Cost and Potential&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(192 pp, 4.4 MB)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;11-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/regdata/cost/pechan8-11.pdf&quot;&gt;NOX Emissions Control Costs for Sationary Reciprocating Internal Combustion Engines in the NOX SIP Call States&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 pp, 85 K)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;04-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 11 Aug 2016 15:04:14 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">157255 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regulatory Impact Analyses for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/regulatory-impact-analyses-air-pollution</link>
+    <description>&lt;p&gt;As required under Executive Orders 12866 and 13563, EPA develops Regulatory Impact Analyses (RIAs) to support the development of national air pollution regulations. RIAs contain descriptions of the potential social benefits and social costs of a regulation, including those that cannot be quantified in monetary terms and a determination of the potential net benefits of the rule including an evaluation of the effects that are not monetarily quantified. Typically, an RIA is structured similarly to an EIA, except that a benefits analysis of the rule is included along with an estimation of the net benefits. RIA documents are listed below, organized by:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#sector rias&quot;&gt;Sector Regulations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#transport rias&quot;&gt;Air Pollution Transport Rules&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#permitting rias&quot;&gt;New Source Review (NSR) Permitting Actions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#visibility rias&quot;&gt;Visibility Rules&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#naaqs rias&quot;&gt;National Ambient Air Quality Standards&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ria guidance&quot;&gt;Guidance Relevant to Preparing RIAs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;sector rias&quot; id=&quot;sector rias&quot;&gt;&lt;/a&gt;RIAs for Sector Regulations&lt;/h2&gt;
+
+&lt;p&gt;Below is a list of RIAs organized by the industry sector or source category sector for which they were developed. The RIAs are available in PDF format and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Chemical Manufacturing&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/chemical-mfg_ria_proposed-neshap-chlor-alkali_2010-11.pdf&quot;&gt;Mercury Cell Chlor Alkali Plants NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(116 pp, 824 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/chemical-mfg_ria_final-neshap-socmi_1994-03.pdf&quot;&gt;Synthetic Organic Chemical Industry NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(169 pp, 7.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Coke Ovens&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/coke-ovens_ria_final-neshap-coke-ovens_1992-11.pdf&quot;&gt;Coke Ovens NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(167 pp, 8.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Industrial/Commercial/Institutional (ICI) Boilers&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ici-boilers_ria_reconsider-neshap_2012-12.pdf&quot;&gt;ICI Boilers and Process Heaters NESHAP, Reconsideration Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(262 pp, 4.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ici-boilers_ria_reconsider-proposal-neshap_2012-02.pdf&quot;&gt;ICI Boilers and Process Heaters NESHAP, Reconsideration Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(259 pp, 5.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ici-boilers_ria_final-neshap_2011-02.pdf&quot;&gt;ICI Boilers and Process Heaters NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(251 pp, 4.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ici-boilers_ria_proposal-neshap_2010-04.pdf&quot;&gt;ICI Boilers and Process Heaters NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(232 pp, 2.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ici-boilers_ria_final-neshap_2004-02.pdf&quot;&gt;Industrial Boilers and Process Heaters NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(282 pp, 37 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Nonmetallic Minerals&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/nonmetallic-mineral_ria_final-brick-neshap_2015-07.pdf&quot;&gt;Brick and Structural Clay Products NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(124 pp, 939 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/nonmetallic-mineral_ria_proposed-brick-neshap_2014-07.pdf&quot;&gt;Brick and Structural Clay Products NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(112 pp, 1.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/nonmetallic-minerals_ria_final-cement-neshap-nsps_2010-08.pdf&quot;&gt;Portland Cement Manufacturing NESHAP and NSPS, Final Amendments&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(174 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/nonmetallic-minerals_ria_proposal-cement-neshap_2009-04.pdf&quot;&gt;Portland Cement Manufacturing NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(115 pp, 1.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Nonroad Mobile&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/nonroad_ria_final-nonroad-diesel-engines_2004-05.pdf&quot;&gt;Nonroad Diesel Engines, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1,568 pp, 8.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Oil and Natural Gas Production&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/oilgas_ria_nsps_final_2016-05.pdf&quot;&gt;Oil and Natural Gas Industry NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(196 pp, 2.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05/2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/oilgas_ria_proposed-nsps_2015-08.pdf&quot;&gt;Oil and Natural Gas NSPS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(208 pp, 1.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/oilgas_ria_final-neshap-amendments_2012-04.pdf&quot;&gt;Oil and Natural Gas Industry NESHAP and NSPS, Final and Amendments&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(224 pp, 1.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/oilgas_ria_proposed-nsps-amendments-neshap_2011-07.pdf&quot;&gt;Oil and Natural Gas Industry NESHAP and NSPS, Proposal and Amendments&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(204 pp, 1.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Petroleum Refineries&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/refineries_ria_final-nsps_2012-06.pdf&quot;&gt;Petroleum Refineries NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(121 pp, 1.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/refineries_ria_final-nsps_2008-04.pdf&quot;&gt;Petroleum Refineries NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(144 pp, 778 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/refineries_ria_final-neshap_1995-08.pdf&quot;&gt;Petroleum Refineries NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(224 pp, 10 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Primary Metals&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/primary-metals_ria_proposed-rtr_2011-11.pdf&quot;&gt;Manganese Ferroalloys RTR, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(80 pp, 589 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Pulp and Paper&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/pulp-and-paper_ria_final-neshap_1997-10.pdf&quot;&gt;Pulp and Paper NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(499 pp, 1.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10/1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Reciprocating Internal Combustion Engines&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_reconsider-existing-si-engines_2013-01.pdf&quot;&gt;Existing Stationary Spark Ignition (SI) RICE NESHAP, Reconsideration&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(158 pp, 2.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01/2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_reconsider-existing-ci-engines_2013-01.pdf&quot;&gt;Existing Stationary Compression Ignition (CI) Engines NESHAP, Reconsideration&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(164 pp, 2.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01/2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_proposal-existing-ci-engines_2012-05.pdf&quot;&gt;Existing Stationary Compression Ignition (CI) Engines NESHAP, Proposed Reconsideration&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(167 pp, 2.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_proposal-existing-si-engines_2012-05.pdf&quot;&gt;Existing Stationary Spark Ignition RICE NESHAP, Proposed Reconsideration&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(159 pp, 2.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_final-neshap-si-engines_2010-08.pdf&quot;&gt;Existing Stationary Spark Ignition RICE NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(185 pp, 2.9 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_final-existing-ci-engines_2010-02.pdf&quot;&gt;Existing Stationary Compression Ignition RICE NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(147 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_proposal-existing-rice-engines_2009-02.pdf&quot;&gt;Existing Reciprocating Internal Combustion Engines NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(136 pp, 2.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_final-nsps-neshap-si-engines_2007-12.pdf&quot;&gt;Stationary Spark Ignition (SI) NSPS and NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(54 pp, 511 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/2007&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_final-nsps-ci-engines_2006-06.pdf&quot;&gt;Stationary Compression Ignition (CI) NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(69 pp, 2.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ic-engines_ria_final-rice-engines_2004-02.pdf&quot;&gt;Reciprocating Internal Combustion Engines NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(247 pp, 7.9 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Transportation Manufacturing&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport-mfg_ria_final-neshap_2004-02.pdf&quot;&gt;Auto Mfg NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(130 pp, 7.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Utilities&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_final-clean-power-plan-existing-units_2015-08.pdf&quot;&gt;Clean Power Plan Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(343 pp, 4.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-clean-power-plan-fed-plan_2015-08.pdf&quot;&gt;GHGs from Existing Electric Utility Generating Units, Federal Plan Requirements, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(85 pp, 954 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_final-nsps-egus_2015-08.pdf&quot;&gt;NSPS for GHGs from New Electric Utility Generating Units, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(164 pp, 2.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-carbon-poll-suppl_2014-10.pdf&quot;&gt;Carbon Pollution Emission Guidelines, Supplemental Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(51 pp, 591 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10/2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-carbon-poll-existing-egus_2014-06.pdf&quot;&gt;Carbon Pollution Guidelines for Existing Power Plants and Emission Standards for Modified and Reconstructed Power Plants, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(376 pp, 4.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-nsps-egus_2013-09.pdf&quot;&gt;NSPS for GHGs from New Electric Utility Generating Units, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(138 pp, 1.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-nsps-egus_2012-03.pdf&quot;&gt;NSPS for GHGs from New Electric Utility Generating Units, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(108 pp, 1.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_final-mats_2011-12.pdf&quot;&gt;Mercury and Air Toxics Standards, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(510 pp, 8.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_proposed-mact-nsps_2011-03.pdf&quot;&gt;Utility MACT and NSPS, Toxics Rule, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(469 pp, 15 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/utilities_ria_final-mercury-rule_2005-03.pdf&quot;&gt;Clean Air Mercury Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(570 pp, 13 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Waste Treatment and Disposal&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/landfills_ria_final-eg-nsps_2016-07.pdf&quot;&gt;Municipal Solid Waste Landfills NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(225 pp, 1.9 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/landfills_ria_proposed-nsps_2015-08.pdf&quot;&gt;Municipal Solid Waste Landfills NSPS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(180 pp, 1.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ciswi_ria_reconsider-neshap_2012-12.pdf&quot;&gt;Commercial and Industrial Solid Waste Incineration Units NSPS and Emissions Guideline, Reconsideration Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(151 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ciswi_ria_reconsider-proposal-new-existing_2012-03.pdf&quot;&gt;Commercial and Industrial Solid Waste Incineration Units NSPS and Emissions Guideline, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 258 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ciswi_ria_final-nsps-neshap_2011-02.pdf&quot;&gt;Commercial and Industrial Solid Waste Incineration Units NSPS and Emissions Guideline, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(143 pp, 1.9 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/sludge-incineration_ria_changes-since-proposal-nsps_2011-01.pdf&quot;&gt;Sewage Sludge Incineration Units, NSPS and Emissions Guideline, Cost and Benefit Changes Since Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(180 pp, 904 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/sludge-incineration_ria_proposal-nsps-eg_2010-09.pdf&quot;&gt;Sewage Sludge Incineration Units NSPS and Emissions Guideline, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(176 pp, 845 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/ciswi_ria_reconsider-proposal-new-existing_2010-04.pdf&quot;&gt;Commercial and Industrial Solid Waste Incineration Units NSPS and Emissions Guideline, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(155 pp, 1.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/solid-waste_ria_final_hospital-waste-incinerators_1997-07.pdf&quot;&gt;Hospital and Medical Waste Incinerators, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(78 pp, 3.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/waste_ria_revision-and-update_municipal-waste-combustors_1990-11.pdf&quot;&gt;Municipal Waste Combustors, Revision and Update&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(113 pp, 5.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/1990&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Wood Heaters&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/wood-heaters_ria_final-nsps-revision_2015-02.pdf&quot;&gt;Residential Wood Heaters NSPS Revision, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(203 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/wood-heaters_ria_proposed-nsps-revision_2014-01.pdf&quot;&gt;Residential Wood Heaters NSPS, Proposed Revision&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(219 pp, 2.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01/2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Wood Products Manufacturing&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/wood-mfg_ria_final-neshap_2004-02.pdf&quot;&gt;Plywood NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(179 pp, 11 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;transport rias&quot; id=&quot;transport rias&quot;&gt;&lt;/a&gt;RIAs for Air Pollution Transport Regulations&lt;/h2&gt;
+
+&lt;p&gt;Below is a list of RIAs for Air Pollution Transport regulations. The RIAs are available in PDF format and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Air Pollution Transport&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-csapr-update_2016-09.pdf&quot;&gt;Cross-State Air Pollution Rule (CSAPR) Update for the 2008 O3 NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(207 pp, 3.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_update-csapr_2015-11.pdf&quot;&gt;Cross-State Air Pollution Rule (CSAPR) Update, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(231 pp, 3.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-csapr_2011-06.pdf&quot;&gt;Cross-State Air Pollution Rule (CSAPR), Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(414 pp, 7.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_proposal_2010-06.pdf&quot;&gt;Federal Transport Rule, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(393 pp, 5.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-clean-air-interstate-rule_2005-03.pdf&quot;&gt;Clean Air Interstate Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(421 pp, 5.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-section-126-rule_1999-12.pdf&quot;&gt;Section 126 Petition Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(310 pp, 18 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-nox-sip-call-vol2_1998-12.pdf&quot;&gt;NOx SIP Call, FIP, and Section 126 Petitions, Vol2, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(186 pp, 4.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_final-nox-sip-call-vol1_1998-09.pdf&quot;&gt;NOx SIP Call, FIP, and Section 126 Petitions, Vol1, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(197 pp, 8.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/transport_ria_supplement_1998-04.pdf&quot;&gt;Ozone Transport Rule, Supplemental Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(82 pp, 590 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;permitting rias&quot; id=&quot;permitting rias&quot;&gt;&lt;/a&gt;RIAs for New Source Review (NSR) Permitting Actions&lt;/h2&gt;
+
+&lt;p&gt;Below is a list of RIAs for New Source Review (NSR) Permitting actions. The RIAs are available in PDF format and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NSR Permitting&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/permitting_ria_final-ghg-tailoring-rule_2010-05.pdf&quot;&gt;GHG Tailoring Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(230 pp, 867 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/permitting_ria_proposal-ghg-tailoring-rule_2009-09.pdf&quot;&gt;GHG Tailoring Rule, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(157 pp, 570 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/permitting_ria_final_operating-permits_1992-06.pdf&quot;&gt;Operating Permits Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(50 pp, 2.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;visibility rias&quot; id=&quot;visibility rias&quot;&gt;&lt;/a&gt;RIAs for Visibility Rules&lt;/h2&gt;
+
+&lt;p&gt;Below is a list of RIAs for Visibility regulations. The RIAs are available in PDF format and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Visibility Rules&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/visibility-rule_ria_final-visibility-rule_2005-06.pdf&quot;&gt;Visibility Rule and BART for Regional Haze, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(469 pp, 3.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/visibility-rule_ria_final-reg-haze-rule_1999-04.pdf&quot;&gt;Regional Haze Rule, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(269 pp, 901 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;04/1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;naaqs rias&quot; id=&quot;naaqs rias&quot;&gt;&lt;/a&gt;RIAs for National Ambient Air Quality Standard (NAAQS)&lt;/h2&gt;
+
+&lt;p&gt;Below is a list of RIAs for National Ambient Air Quality Standards (NAAQS). As it does with all major rules, EPA conducts benefits and costs analyses of each proposed or revised NAAQS. These regulatory impact analyses are designed to inform the public and state, local, and tribal governments about the potential costs and benefits of implementing these important air quality standards. NAAQS RIAs are not a part of the standard selection process. The NAAQS RIAs are available in PDF format and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NAAQS - Ozone (O3)&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_final_2015-09.pdf&quot;&gt;O3 NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(480 pp, 8.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09/2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_proposed_2014-11.pdf&quot;&gt;O3 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(575 pp, 12 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_proposal_2009-11.pdf&quot;&gt;O3 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(89 pp, 1.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_final_2008-03.pdf&quot;&gt;O3 NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(558 pp, 12 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_proposal_2007-07.pdf&quot;&gt;O3 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(364 pp, 4.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/2007&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3-pm_ria_proposal_1997-07.pdf&quot;&gt;O3 PM NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(741 pp, 4.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3_ria_proposal_1996-12.pdf&quot;&gt;O3 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(450 pp, 27 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NAAQS - Particulate Matter (PM)&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-pm_ria_final_2012-12.pdf&quot;&gt;PM NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(474 pp, 10 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-pm_ria_proposed_2012-06.pdf&quot;&gt;PM NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(522 pp, 4.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-pm_ria_final_2006-10.pdf&quot;&gt;PM NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(733 pp, 8.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10/2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-o3-pm_ria_proposal_1997-07.pdf&quot;&gt;O3 and PM NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(741 pp, 4.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-pm_ria_proposal_1996-12.pdf&quot;&gt;PM NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(366 pp, 15 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12/1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NAAQS - Nitrogen Dioxide (NO2)&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-no2_ria_final_2010-01.pdf&quot;&gt;NO2 NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(155 pp, 2.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-no2_ria_proposal_2009-07.pdf&quot;&gt;NO2 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(244 pp, 4.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NAAQS - Sulfur Dioxide (SO2)&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-so2_ria_final_2010-06.pdf&quot;&gt;SO2 NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(189 pp, 4.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-so2_ria_proposal_2009-11.pdf&quot;&gt;SO2 NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(168 pp, 3.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;NAAQS - Lead (Pb)&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-lead_ria_final_2008-10.pdf&quot;&gt;Lead NAAQS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(177 pp, 1.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/ria/naaqs-lead_ria_proposal_2008-06.pdf&quot;&gt;Lead NAAQS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(168 pp, 960 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;ria guidance&quot; id=&quot;ria guidance&quot;&gt;&lt;/a&gt;Guidance Relevant to Preparing RIAs&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Economic Guidance Used Throughout EPA&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/environmental-economics/guidelines-preparing-economic-analyses&quot;&gt;EPA Guidelines for Preparing Economic Analyses&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/reg-flex/learn-about-regulatory-flexibility-act&quot;&gt;Regulatory Flexibility Act/Small Business Regulatory Enforcement Act&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OAQPS Economic Analysis Resource Document&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Note that this document is dated and we are currently considering steps to bring it up to date. The purpose of this document is to serve as a resource for EPA staff and others for understanding and performing economic analyses. This document should not be interpreted as guidance that will be followed exactly by EPA in its analyses. Each analysis performed by EPA presents unique features and hence this guidance is only advisory in nature. To obtain a copy of the document, contact Darryl Weatherhead at: &lt;a href=&quot;mailto:weatherhead.darryl@epa.gov&quot;&gt;weatherhead.darryl@epa.gov&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 Jul 2016 19:15:23 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">154355 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Economic Impact Analyses for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/economic-impact-analyses-air-pollution</link>
+    <description>&lt;p&gt;EPA develops Economic Impact Analyses (EIAs) to support the development of national air pollution regulations. EIAs describe and quantify the reallocation of society&#039;s resources in response to a regulatory action. The most typical types of regulations for which EIAs are completed include industry or process-specific technology-based rules for one or more of the 189 designated criteria pollutants (particulate matter, ozone, nitrogen oxides, sulfur dioxide, carbon monoxide, and lead).&lt;/p&gt;
+
+&lt;p&gt;Industry profiles provide details on the relevant economic and financial characteristics and trends for the industry in question, as well as a compilation of the data necessary to define a baseline for an economic analysis and estimate required parameters for the economic model.&lt;/p&gt;
+
+&lt;p&gt;Below is a list of EIAs and industry profiles. The files are generally available in PDF format (unless otherwise noted) and can be downloaded by clicking on the links below.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#eias ips&quot;&gt;Economic Impact Analyses and Industry Profiles by Sector&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guidance&quot;&gt;Guidance Relevant to Preparing EIAs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;eias ips&quot; id=&quot;eias ips&quot;&gt;&lt;/a&gt;Economic Impact Analyses and Industry Profiles by Sector&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Solid Waste Landfill Industry&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/solid-waste_eia_nsps_proposal_07-2014.pdf&quot;&gt;EIA - Municipal Solid Waste Landfills, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(62 pp, 1.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Gasoline Distribution Industry&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/gasoline-distribution_eia_final_01-2008.pdf&quot;&gt;EIA - Gasoline Distribution Industry, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 168 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Dry Cleaning&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/halogenated-solvent_eia_neshap_final_05-2007.pdf&quot;&gt;EIA - Halogenated Solvent Cleaning Residual Risk Standard, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 246 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2007&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/perc_eia_neshap_final_09-2006.pdf&quot;&gt;EIA - Perchloroethylene Dry Cleaning&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 176 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/dry-cleaning_ip_10-1991.pdf&quot;&gt;Industry Profile - Dry Cleaning Industry&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(121 pp, 3.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10-1991&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Stationary Combustion Turbines&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/combustion-turbines_eia_nsps_final_08-2006.pdf&quot;&gt;EIA - Stationary Combustion Turbines NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 14.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/combustion-turbines_eia_neshap_final_08-2003.pdf&quot;&gt;EIA - Stationary Combustion Turbines NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(155 pp, 1.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Boat Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/boat_eia_neshap_final_06-2001.pdf&quot;&gt;EIA - Boat Manufacturing NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(79 pp, 733 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Chemical Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/nitric-acid_eia_nsps_final_11-2012.pdf&quot;&gt;EIA - Nitric Acid Manufacturing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(53 pp, 555 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/organic-liquid-dist_eia_neshap_final_10-2003.pdf&quot;&gt;EIA - Organic Liquid Distribution, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 460 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/hcl-acid_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Hydrochloric Acid Production, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 93 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/reinforced-plastics_eia_neshap_final_02-2002.pdf&quot;&gt;EIA - Reinforced Plastics, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(125 pp, 1.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/chlorine_eia_08-2000.pdf&quot;&gt;EIA - Chlorine&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(91 pp, 343 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/carbon-black_eia_neshap_proposal_05-2000.pdf&quot;&gt;EIA - Carbon Black, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 45 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/cellulose_eia_neshap_proposal_05-2000.pdf&quot;&gt;EIA - Cellulose, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(61 pp, 1.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/cyanide_eia_neshap_proposal_05-2000.pdf&quot;&gt;EIA - Cyanide, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 39 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/polymers-resins-4_eia_neshap_final_08-1998.pdf&quot;&gt;EIA - Polymers and Resins IV, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(143 pp, 634 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/architectural-coatings_eia_final_07-1998.pdf&quot;&gt;EIA - Architectural Coatings, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(224 pp, 1.5 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/polyether-polyols_eia_neshap_proposal_05-1997.pdf&quot;&gt;EIA - Polyether Polyols Production, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(60 pp, 128 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/flexible-polyurethane_eia_neshap_proposal_09-1996.pdf&quot;&gt;EIA - Flexible Polyurethane Foam, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(174 pp, 522 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/polymers-resins-1_neshap_final_01-1995.pdf&quot;&gt;EIA - Polymers and Resins I, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(133 pp, 562 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/boilers-process-heaters_ip_11-2002.pdf&quot;&gt;Industry Profile - Boilers and Process Heaters&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(66 pp, 334 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/plastic-parts_ip_09-2001.pdf&quot;&gt;Industry Profile - Surface Coating of Plastic Parts&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(60 pp, 1.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/hazardous-organic_ip_12-1993.pdf&quot;&gt;Industry Profile - Hazardous Organic&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(520 pp, 7.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/phosphoric-acid-phosphatic-fertilizers_ip_07-1993.pdf&quot;&gt;Industry Profile - Phosphoric Acid and Phosphatic Fertilizers&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 pp, 3.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Electrical and Electronic Equipment/Industrial Machinery&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/large-appliance_eia_neshap_09-2000.pdf&quot;&gt;EIA - Large Appliance Surface Coating&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 278 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Electrical Equipment, Appliance, and Component Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/misc-metal_eia_neshap_final_08-2003.pdf&quot;&gt;EIA - Miscellaneous Metal Parts and Products Surface Coating, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 174 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Fabricated Metal Product Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/metal-can_eia_neshap_proposal_07-2003.pdf&quot;&gt;EIA - Metal Can Surface Coating, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(84 pp, 729 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Food and Kindred Products&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/vegetable-oil_eia_neshap_final_01-2001.pdf&quot;&gt;EIA - Vegetable Oil Production, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(126 pp, 314 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/consumer-products_ip_08-1995.pdf&quot;&gt;Industry Profile - Consumer Products&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 608 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/starch-mfg_ip_03-1994.pdf&quot;&gt;Industry Profile - Starch Manufacturing&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(91 pp, 3.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Furniture and Related Product Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/metal-furniture_eia_neshap_proposal.pdf&quot;&gt;EIA - Metal Furniture Surface Coating, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 93 K)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Machinery Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/metal-coil_eia_neshap_proposal_10-1999.pdf&quot;&gt;EIA - Metal Coil Surface Coating, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 339 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;10-1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Mining&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/nonmetallic-mineral_eia_nsps_final_05-2009.pdf&quot;&gt;EIA - Revisions to the Nonmetallic Mineral Processing Plants (Subpart OOO) NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 107 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/taconite_eia_neshap_final_08-2003.pdf&quot;&gt;EIA - Taconite Iron Ore Processing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(94 pp, 871 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Nonmetallic Mineral Product Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/clay-ceramics_eia_neshap_final_09-2015.pdf&quot;&gt;EIA - Clay Ceramics Manufacturing NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(31 pp, 314 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/lime-mfg_eia_neshap_final_08-2003.pdf&quot;&gt;EIA - Lime Manufacturing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(123 pp, 5.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/brick-clay_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Brick and Structural Clay Tile Products Manufacturing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(93 pp, 480 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/clay-ceramics_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Clay Ceramics, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 226 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/refractories-mfg_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Refractories Manufacturing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(90 pp, 2.4 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/lightweight-aggregate_ip.wpd&quot;&gt;Industry Profile - Lightweight Aggregate (WordPerfect file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 64 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Oil and Gas Extraction; Petroleum and Coal Products; Electric, Gas and Sanitary Services&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/refineries_eia_neshap-nsps_final_09-2015.pdf&quot;&gt;EIA - Petroleum Refineries Final Amendments to the NESHAP and NSPS, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 1.2 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/refineries_eia_neshap-nsps_proposal_02-2014.pdf&quot;&gt;EIA - Petroleum Refineries Proposed Amendments to the NESHAP and NSPS, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 675 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/oilgas_eia_neshap_final_05-1999.pdf&quot;&gt;EIA - Oil and Natural Gas Production NESHAP and the Natural Gas Transmission and Storage NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(160 pp, 1.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;05-1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/oilgas_eia_neshap_final_appendix_05-1999.pdf&quot;&gt;EIA Appendix - Oil and Natural Gas Production NESHAP and the Natural Gas Transmission and Storage NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(0 pp, 2.8 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/oil-gas-production_ip_09-1996.pdf&quot;&gt;Industry Profile - Oil and Natural Gas Production&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 112 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Petroleum and Coal Products Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/refinery_eia_neshap_final_12-2009.pdf&quot;&gt;EIA - Petroleum Refinery NESHAP - Heat Exchange Systems, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(63 pp, 386 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/asphalt_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Asphalt Roofing and Processing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(95 pp, 405 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/refineries_eia_neshap_proposal_02-1997.pdf&quot;&gt;EIA - Petroleum Refineries, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(0 pp, 732 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Plastics and Rubber Products Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/plastic-parts_eia_neshap_proposal_08-2003.pdf&quot;&gt;EIA - Surface Coating of Plastic Parts and Products, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(84 pp, 1.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Primary Metal Industries&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/ferroalloys_eia_neshap_final_06-2015.pdf&quot;&gt;EIA - Manganese Ferroalloys RTR, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(73 pp, 1.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/ferroalloys_eia_neshap_proposal_09-2014.pdf&quot;&gt;EIA - Manganese Ferroalloys RTR Supplemental Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(64 pp, 824 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/iron-foundries_eia_neshap_final_08-2003.pdf&quot;&gt;EIA - Iron Foundries NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(140 pp, 1.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/iron-steel_eia_neshap_final_09-2002.pdf&quot;&gt;EIA - Integrated Iron and Steel Manufacturing, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(128 pp, 1.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/primary-copper_eia_neshap_final_08-2001.pdf&quot;&gt;EIA - Primary Copper Smelting NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 519 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/steel-pickling_ip_12-1993.pdf&quot;&gt;Industry Profile - Steel Pickling&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(134 pp, 381 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Primary Metal Products&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/coke-ovens_eia_neshap_final_08-2002.pdf&quot;&gt;EIA - Coke Ovens NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(139 pp, 1.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Pulp and Paper&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/pulp-paper_eia_neshap_final_12-2012.pdf&quot;&gt;EIA - Pulp and Paper Industry NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 1.1 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Stone, Clay, Glass and Concrete Products&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/portland-cement_eia_neshap_03-1999.pdf&quot;&gt;EIA - Portland Cement Manufacturing&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(41 pp, 1.3 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/asbestos_ip.pdf&quot;&gt;Industry Profile - Asbestos Processing&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(62 pp, 104 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Textile Mills&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/fabric_eia_neshap_final_02-2003.pdf&quot;&gt;EIA - Fabric and Textiles Printing, Coating, and Dyeing NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(81 pp, 984 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;02-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Wood Product Manufacturing&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/wood_eia_neshap_final_01-2003.pdf&quot;&gt;EIA - Wood Building Products NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 43 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;01-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/plywood_eia_neshap_proposal_11-2002.pdf&quot;&gt;EIA - Plywood and Composite Wood Products NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(174 pp, 2.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Waste Management and Remediation Services&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/site-remed_eia_neshap_proposal_08-2003.pdf&quot;&gt;EIA - Site Remediation NESHAP, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(37 pp, 160 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/supplemental-msw_eia_neshap_12-2002.pdf&quot;&gt;EIA - Supplemental to Municipal Solid Waste NESHAP&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 4.6 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;12-2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/off-site_eia_neshap_proposal_03-1996.pdf&quot;&gt;EIA - Off-Site Waste and Recovery Operations, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(393 pp, 2.0 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;03-1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/ciswi_eia_neshap_proposal_11-1999.wpd&quot;&gt;EIA - Commercial and Industrial Solid Waste Incineration NESHAP, Proposal (WordPerfect file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(0 pp, 376 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;11-1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Other EIAs&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/mwwf_eia_neshap_final_07-2015.pdf&quot;&gt;EIA - Mineral Wool and Wool Fiberglass RTRs and Wool Fiberglass Area Source NESHAP, Final&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 314 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/indian-country_eia_final_06-2013.pdf&quot;&gt;EIA - Revisions to the Economic Impacts and Burden Estimates for the Rule Titled: Review of New Sources and Modifications in Indian Country&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(68 pp, 270 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;06-2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/mon-coatings_eia_neshap_08-2003.pdf&quot;&gt;EIA - Miscellaneous Organic NESHAP for Coatings&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(74 pp, 259 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/portland-cement_eia_neshap_proposal_07-1996.pdf&quot;&gt;EIA - Portland Cement, Proposal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(210 pp, 6.7 MB)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;07-1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;Other Industry Profiles&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/rubber-tire-mfg_ip_08-2000.pdf&quot;&gt;Industry Profile - Rubber Tire Manufacturing&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(51 pp, 190 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;08-2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/other-solid-waste-incinerator_ip_09-1999.pdf&quot;&gt;Industry Profile - Other Solid Waste Incinerator&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 92 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;09-1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/ecas/docs/eia_ip/printing-publishing_ip.pdf&quot;&gt;Industry Profile - Printing and Publishing (Surface Coating)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(156 pp, 369 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;guidance&quot; name=&quot;guidance&quot;&gt;&lt;/a&gt;Guidance Relevant to Preparing EIAs&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Economic guidance used throughout EPA&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/environmental-economics/guidelines-preparing-economic-analyses&quot;&gt;EPA Guidelines for Preparing Economic Analyses&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/reg-flex/learn-about-regulatory-flexibility-act&quot;&gt;Regulatory Flexibility Act/Small Business Regulatory Enforcement Act&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OAQPS Economic Analysis Resource Document&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Note that this document is dated and we are currently considering steps to bring it up to date. The purpose of this document is to serve as a resource for EPA staff and others for understanding and performing economic analyses. This document should not be interpreted as guidance that will be followed exactly by &lt;span&gt;EPA&lt;/span&gt; in its analyses. Each analysis performed by &lt;span&gt;EPA&lt;/span&gt; presents unique features and hence this guidance is only advisory in nature. To obtain a copy of the document, contact Darryl Weatherhead at: &lt;a href=&quot;mailto:weatherhead.darryl@epa.gov&quot;&gt;weatherhead.darryl@epa.gov&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 03 Mar 2016 20:26:57 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">137513 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about the Economic and Cost Analysis for Air Pollution Regulations</title>
+    <link>https://www.epa.gov/economic-and-cost-analysis-air-pollution-regulations/forms/contact-us-about-economic-and-cost</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Brian Keaveny&lt;br /&gt;
+	Health and Environmental Impacts Division&lt;br /&gt;
+	Office of Air Quality Planning and Standards&lt;br /&gt;
+	U.S. Environmental Protection Agency&lt;br /&gt;
+	109 TW Alexander Drive (C439-02)&lt;br /&gt;
+	Research Triangle Park, NC 27711&lt;/p&gt;
+</description>
+     <pubDate>Mon, 29 Feb 2016 19:12:22 +0000</pubDate>
+ <dc:creator>dmisen</dc:creator>
+ <guid isPermaLink="false">137045 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:43:38, expires @ 2017-01-26 16:43:38, lifetime 12 hours -->

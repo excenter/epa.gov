@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/19847/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Lean</title>
+    <link>https://www.epa.gov/feed/19847/rss.xml</link>
+    <description>Updated Lean content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/19847/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Lean &amp; Energy Toolkit: Appendix C</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-appendix-c</link>
+    <description>&lt;h2&gt;Energy Conversion Resources and Rules of Thumb for Estimating Energy Cost Savings&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#energy&quot;&gt;Energy Metrics Conversion Table&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rules&quot;&gt;Rules Of Thumb for Estimating Energy Cost Savings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;energy&quot; name=&quot;energy&quot;&gt;&lt;/a&gt;Energy Metrics Conversion Table&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Energy Metrics Conversion Table&quot; title=&quot;Energy Metrics Conversion Table&quot; height=&quot;577&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/energy-conversion.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;rules&quot; name=&quot;rules&quot;&gt;&lt;/a&gt;Rules Of Thumb for Estimating Energy Cost Savings&lt;/h2&gt;
+
+&lt;p&gt;The following rules of thumb are a useful resource for understanding the potential cost savings of energy conservation and waste minimization efforts.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Cost Savings Are Based on the Following Assumptions&quot; title=&quot;Cost Savings Are Based on the Following Assumptions&quot; height=&quot;216&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/cost-savings.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;High pressure steam leaks (125 pounds per square inch gauge [psig]) = $150 to $500 per leak per shift per year.&lt;/li&gt;
+	&lt;li&gt;Low pressure steam leaks (15 psig) = $30 to $110 per leak per shift per year.&lt;/li&gt;
+	&lt;li&gt;Compressed air leaks (100 psig) = $30 to $90 per leak per shift per year.&lt;/li&gt;
+	&lt;li&gt;Submetering an evaporative cooling tower can result in sewage treatment savings (assume 1 percent water loss to evaporation), including:
+		&lt;ul&gt;&lt;li&gt;$9 per ton per shift per year based on size of tower in tons.&lt;/li&gt;
+			&lt;li&gt;$3 per gallons per minute (gpm) per shift per year based on gpm of water through tower.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Typical motor operating cost = $62 per horsepower (hp) per shift per year.&lt;/li&gt;
+	&lt;li&gt;High pressure compressed air system reduction (assume 100 psig system):
+		&lt;ul&gt;&lt;li&gt;10 pounds per square inch (psi) compressor discharge reduction = 5 percent reduction in energy consumption.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Cost of heat lost through hot, uninsulated pipes:
+		&lt;ul&gt;&lt;li&gt;25 psig steam: $375 per 100 feet per shift per year.&lt;/li&gt;
+			&lt;li&gt;50 psig steam: $430 per 100 feet per shift per year.&lt;/li&gt;
+			&lt;li&gt;75 psig steam: $480 per 100 feet per shift per year.&lt;/li&gt;
+			&lt;li&gt;100 psig steam: $515 per 100 feet per shift per year.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Installing insulation can reduce 90 percent heat loss on a hot, uninsulated surface.&lt;/li&gt;
+	&lt;li&gt;Average heating and cooling costs:&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Average heating and cooling costs&quot; title=&quot;Average heating and cooling costs&quot; height=&quot;171&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/state.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Combustion efficiency of a typical boiler or furnace is 80 percent.&lt;/li&gt;
+	&lt;li&gt;Upgrading to an energy-efficient motor can result in savings of about 5 percent over the op-erating costs of a standard motor. A typical standard motor has an efficiency of 90 percent.&lt;/li&gt;
+	&lt;li&gt;Benefit of fuel switching:
+		&lt;ul&gt;&lt;li&gt;Switching from electric heat to natural gas or #2 fuel oil can reduce heating costs by 78 percent.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Cost savings for demand reduction (or load shifting):
+		&lt;ul&gt;&lt;li&gt;Move operating shift to off-peak times: $75 per hp per year.&lt;/li&gt;
+			&lt;li&gt;Move “other electric equipment” to off-peak: $120 per kW per year.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-appendix-b&quot;&gt;Back to Appendix B&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-contents-acknowledgements&quot;&gt;Return to Contents&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+</description>
+     <pubDate>Thu, 29 Dec 2016 19:18:41 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167985 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Appendix B</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-appendix-b</link>
+    <description>&lt;h2&gt;&lt;strong&gt;Sector-Focused Energy Reduction and Greenhouse Gas Management Resources &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;This appendix describes energy conservation and efficiency resources that are tailored to particular industrial sectors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.energystar.gov/buildings/facility-owners-and-managers/industrial-plants&quot;&gt;&lt;strong&gt;ENERGY STAR Industries in Focus&lt;/strong&gt;&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Energy management is the first step to save money and improve sustainability. Hundreds of manufacturing companies routinely use EPA&#039;s ENERGY STAR to help them manage energy across their operations. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/arc-x&quot;&gt;EPA’s Adaptation Resource Center (ARC-X)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA’s Adaptation Resource Center (ARC-X) is an interactive resource to help local governments effectively deliver services to their communities even as the climate changes. Decision makers can create an integrated package of information tailored specifically to their needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://energy.gov/eere/amo/advanced-manufacturing-office&quot;&gt;U.S. Department of Energy, Advanced Manufacturing Office (AMO)&lt;/a&gt;&lt;/strong&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Advanced Manufacturing Office (AMO) partners with industry, small business, universities, and other stakeholders to identify and invest in emerging technologies with the potential to create high-quality domestic manufacturing jobs and enhance the global competitiveness of the United States.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-appendix&quot;&gt;Back to Appendix A&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-appendix-c&quot;&gt;Continue to Appendix C&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Dec 2016 18:32:30 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167981 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Self-Assessment Workbook for Small Manufacturers</title>
+    <link>https://www.epa.gov/lean/self-assessment-workbook-small-manufacturers</link>
+    <description>&lt;p&gt;The intention of this workbook is to provide the small manufacturer with a self-assessment method of improving operations and reducing costs. In addition to presenting a general procedure for performing assessments of manufacturing plants, the reader is supplied with the information necessary to implement several specific cost savings projects which are common to most operations. These specific projects were identified from those recommended frequently through the Industrial Assessment Center program. The specific measures are recommendations in energy conservation, waste minimization, and manufacturing productivity designed to reduce production costs for small and medium-sized businesses.&lt;/p&gt;
+
+&lt;p&gt;This document was published by the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-342113&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/selfassessment.pdf&quot; type=&quot;application/pdf; length=1703862&quot; class=&quot;file-link&quot;&gt;Self-Assessment Workbook For Small Manufacturers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(104 pp, 2 MB, 
+  October 2003)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    The intention of this workbook is to provide the small manufacturer with a self-assessment method of improving operations and reducing costs.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 29 Dec 2016 15:48:37 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167973 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Appendix A</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-appendix</link>
+    <description>&lt;h2&gt;Energy and Greenhouse Gas Management Service Providers, Resources, and Tools&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#energy&quot;&gt;Energy Assessment Resources and Tools&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#assessment&quot;&gt;Energy Assessment Service Providers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#greenhouse&quot;&gt;Greenhouse Gas Management Tools and Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This appendix describes resources for identifying public and private energy assessment service providers and provides information on several resources and tools for identifying energy savings opportunities at manufacturing facilities.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;energy&quot; name=&quot;energy&quot;&gt;&lt;/a&gt;Energy Assessment Resources and Tools&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/e3&quot;&gt;&lt;strong&gt;E3&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;E3 – Economy, Energy, and Environment – is a coordinated federal and local technical assistance initiative that is helping manufacturers across the nation adapt and thrive in a new business era focused on sustainability. In the process, E3 is boosting local economies and benefiting the commu­nities with creation of “green jobs” and reduced environmental impacts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/lean/energy-efficiency-toolkit-manufacturers-eight-proven-ways-reduce-your-costs&quot;&gt;&lt;strong&gt;Energy Efficiency Toolkit for Manufacturers: Eight Proven Ways to Reduce Your Costs&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The National Association of Manufacturers has developed this toolkit outlining energy conservation strategies, case studies, and resources for manufacturers seeking to reduce energy use and costs. The toolkit is based on the results of an energy-efficiency survey of over 400 manufacturing compa­nies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.energystar.gov/buildings/about-us/how-can-we-help-you/build-energy-program/guidelines&quot;&gt;ENERGY STAR Guidelines for Energy Management&lt;/a&gt; &lt;/strong&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The ENERGY STAR website describes a seven-step process for effective energy management. The guidelines are based on the successful practices of ENERGY STAR partners for improving the energy, financial, and environmental performance of businesses. In addition to practical guidelines, the ENERGY STAR website offers several energy assessment tools and resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://energy.gov/eere/amo/ta&quot;&gt;&lt;strong&gt;Department of Energy’s Advanced Manufacturing Office’s Technical Assistance Site&lt;/strong&gt;&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;AMO&#039;s Industrial Technical Assistance supports the deployment of manufacturing technologies and practices, including strategic energy management and combined heat and power, across American industry to increase productivity and reduce water and energy use.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.energy.wsu.edu/PublicationsandTools.aspx&quot;&gt;&lt;strong&gt;Resource Efficiency Management Resources from Washington State University&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Washington State University’s Resource Efficiency Management Program has developed several workbooks, checklists, and other guidance for conducting energy audits. Other resources available on the website include fact sheets describing energy-efficiency opportunities for commercial and industrial users. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/lean/self-assessment-workbook-small-manufacturers&quot;&gt;&lt;strong&gt;Self-Assessment Workbook for Small Manufacturers&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This workbook presents a step-by-step methodology for small manufacturers to identify opportuni­ties to reduce energy use, improve operations, and reduce costs at their facilities. The workbook includes practical tips, checklists, and examples of common energy cost savings opportunities.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;assessment&quot; name=&quot;assessment&quot;&gt;&lt;/a&gt;Energy Assessment Service Providers&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.energystar.gov/buildings/service-providers&quot;&gt;&lt;strong&gt;ENERGY STAR Directory of Energy Service and Product Providers&lt;/strong&gt;&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA’s ENERGY STAR Program offers a searchable on-line directory of private energy service and product providers. The directory includes energy management service companies, energy improve­ment contractors, and energy service companies, as well as other types of service providers and equipment manufacturers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://energy.gov/eere/amo/industrial-assessment-centers-iacs&quot;&gt;&lt;strong&gt;U.S. DOE Industrial Assessment Centers (IACs)&lt;/strong&gt;&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;IACs, which are located at 26 universities across the United States, provide no-cost energy and waste assessments to eligible small and medium-sized manufacturers. Teams of engineering faculty and students from IACs conduct energy audits or industrial assessments of manufacturing facilities and recommend actions to improve productivity, reduce waste, and save energy. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;greenhouse&quot; name=&quot;greenhouse&quot;&gt;&lt;/a&gt;Greenhouse Gas Management Tools and Resources&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/climatechange/reducing-greenhouse-gas-emissions&quot;&gt;&lt;strong&gt;EPA Resources for Greenhouse Gas Emissions&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This website provides a variety of resources and information related to greenhouse gas emissions and greenhouse gas inventories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/energy/greenhouse-gas-equivalencies-calculator&quot;&gt;&lt;strong&gt;EPA’s Greenhouse Gas Equivalencies Calculator&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This calculator may be useful in helping you communicate the results or targets of your greenhouse gas management strategy. It converts your emissions into carbon equivalents and then equates that to common terms (e.g. your emissions are equivalent to the electricity use of 3000 homes for one year).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pprc.org/index.php/energy-and-climate-change/&quot;&gt;&lt;strong&gt;PPRC‘s Climate Change Solutions&lt;/strong&gt;&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This website is part of the Pacific Northwest Pollution Prevention Resource Center’s topic hub for climate change. It provides access to a variety of tools, calculators, strategies and technologies that can help reduce your greenhouse gas emissions.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-6&quot;&gt;Back to Chapter 6&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-appendix-b&quot;&gt;Continue to Appendix B&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Dec 2016 15:41:43 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167971 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Energy Efficiency Toolkit For Manufacturers: Eight Proven Ways To Reduce Your Costs</title>
+    <link>https://www.epa.gov/lean/energy-efficiency-toolkit-manufacturers-eight-proven-ways-reduce-your-costs</link>
+    <description>&lt;p&gt;In spring 2000, The Manufacturing Institute conducted a survey of manufacturers to gain insight on their energy efficiency practices. Manufacturing accounts for more than 40 percent of all energy use in the United States.This report summarizes the findings of The Manufacturing Institute survey of more than 400 manufacturers.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-342111&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/energyguide.pdf&quot; type=&quot;application/pdf; length=1002777&quot; class=&quot;file-link&quot;&gt;Energy Efficiency Toolkit For Manufacturers: Eight Proven Ways To Reduce Your Costs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 1 MB, 
+  2000)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    A summary of energy reduction practices from 400 companies.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 29 Dec 2016 15:34:47 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167969 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Chapter 6</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-chapter-6</link>
+    <description>&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#going&quot;&gt;Going Further with Clean Energy&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#the&quot;&gt;The Lean and Energy Journey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;going&quot; name=&quot;going&quot;&gt;&lt;/a&gt;Going Further with Clean Energy&lt;/h2&gt;
+
+&lt;p&gt;Addressing the environmental impacts of energy use does not need to stop with Lean. Companies are increasingly taking additional steps to reduce and offset the environmental and climate impacts of their energy use. These steps can enhance employee and customer perceptions of a company’s environmental commitments and help reduce an organization’s greenhouse gas footprint. Here are a few ideas:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Green Power&lt;/strong&gt;: Many energy utilities provide the opportunity for customers to purchase a percentage of their electricity as “green power.” Utilities invest the proceeds from green power charges in the development of new renewable energy sources. See EPA’s &lt;a href=&quot;/greenpower&quot;&gt;Green Power Partnership&lt;/a&gt; website for more information on purchasing electricity from renewable energy sources.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Carbon Offsets&lt;/strong&gt;: Some organizations supplement their efforts to reduce energy use by offsetting some of their carbon emissions with the purchase of carbon offsets. While the development of markets for selling and verifying carbon offsets is in the early stages, a number of organizations have emerged to broker carbon-offset sales. Funds generated from the purchase of carbon offsets are invested in energy-efficiency projects, renewable-energy projects, or other efforts designed to reduce greenhouse gas emissions. Visit &lt;a href=&quot;https://carbonfund.org/&quot;&gt;Carbonfund.org&lt;/a&gt; to calculate your carbon footprint and purchase an offset to reduce your footprint.&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;To Consider&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+
+				&lt;ul&gt;&lt;li&gt;Can you think of creative ways that your organization can reduce energy use and greenhouse gas emissions?&lt;/li&gt;
+					&lt;li&gt;Do you have any major renovations, construction projects, or purchase decisions coming up in which energy savings opportunities could be considered?&lt;/li&gt;
+					&lt;li&gt;Are there efforts you could undertake to help your customers and/or suppliers reduce their energy use and greenhouse gas emissions?&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;the&quot; name=&quot;the&quot;&gt;&lt;/a&gt;The Lean and Energy Journey&lt;/h2&gt;
+
+&lt;p&gt;This toolkit represents the beginning of an exciting journey. As customer and societal expectations around energy efficiency, environmental performance, climate protection, and sustainability continue to increase, Lean initiatives offer compelling opportunities to improve both economic performance and energy efficiency. EPA hopes that this toolkit spurs creative thinking and innovation within your organization and encourages you to explore these opportunities.&lt;/p&gt;
+
+&lt;p&gt;EPA hopes to learn from your Lean and energy experiences and to refine the techniques presented here in future versions of this toolkit. EPA wishes you success on your Lean and energy efficiency journey.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Your Thoughts on the Lean &amp;amp; Energy Toolkit&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Now that you have finished this toolkit, reflect on what you read by answering these questions:&lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;What strategies and tools in the toolkit seemed particularly interesting and useful?&lt;/li&gt;
+					&lt;li&gt;What steps will you take next to improve Lean, energy, and greenhouse gas management integration in your organization?&lt;/li&gt;
+					&lt;li&gt;What Lean or other process improvement methods do you think might have good opportunities for improved Lean and energy performance?&lt;/li&gt;
+					&lt;li&gt;What other information and tools would assist your organization to improve its Lean, energy efficiency, and greenhouse gas management efforts?&lt;/li&gt;
+				&lt;/ul&gt;&lt;p&gt;Please contact EPA to share your experiences with Lean and energy improvements and/or to discuss partnership opportunities via the link at the bottom of the page or by emailing us at lean@epa.gov.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-5&quot;&gt;Back to Chapter 5&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-appendix&quot;&gt;Continue to Appendix A&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Wed, 28 Dec 2016 19:49:59 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167937 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Chapter 5</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-chapter-5</link>
+    <description>&lt;h2&gt;Energy and Greenhouse Gas Emission Reduction Tools and Strategies&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#conduct&quot;&gt;Conduct Energy Kaizen Events &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#use&quot;&gt;Use Total Productive Maintenance to Reduce Equipment Energy Waste&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#six&quot;&gt;Six Losses That Lower Equipment Efficiency&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#autonomous&quot;&gt;Autonomous Maintenance Improves Energy Efficiency&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#replace&quot;&gt;Replace Over-Sized and Inefficient Equipment with Right-Sized Equipment&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Plant Layout to Improve Flow and Reduce Energy Use&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#encourage&quot;&gt;Encourage Energy Efficiency with Standard Work, Visual Controls, and Mistake-Proofing&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#standard&quot;&gt;Standard Work and Energy Use&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#engaging&quot;&gt;Engaging Employees in Energy &amp;amp; Greenhouse Gas Management Efforts&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#competition&quot;&gt;Competition and Pledges&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#recognition&quot;&gt;Recognition &amp;amp; Rewards&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#mistake&quot;&gt;Mistake-Proofing&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reduce&quot;&gt;Reduce Greenhouse Gas Emissions through Transportation Efficiencies&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#finding&quot;&gt;Finding Efficiencies in Vehicle Fleet and Mobile Equipment&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;conduct&quot; name=&quot;conduct&quot;&gt;&lt;/a&gt;Conduct Energy Kaizen Events&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;After identifying the production areas that consume large amounts of energy or account for a large portion of your greenhouse gas emissions, your facility can further analyze and eliminate wasteful practices through &lt;em&gt;kaizen events&lt;/em&gt;, or rapid process improvement events. In kaizen events, which typically last 3-5 days, a cross-functional team of employees identifies and implements process changes to reduce wastes such as idle time, inventory, and defects.&lt;/p&gt;
+
+&lt;p&gt;Kaizen events create important windows of opportunity to consider ways to eliminate energy waste. Revisit the results of energy audits, assessments or your greenhouse gas inventory to familiarize your Lean team with information that can be used to identify energy wastes during a kaizen event. Asking key questions during a kaizen event, such as those in &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-4#box 7&quot;&gt;Box 7&lt;/a&gt;, can also help to ensure that energy and greenhouse gas reduction opportunities are identified as part of Lean implementation.&lt;/p&gt;
+
+&lt;p&gt;Consider conducting energy-focused kaizen events at your facility to:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Understand how energy is used in a particular process&lt;/li&gt;
+	&lt;li&gt;Brainstorm opportunities to reduce energy use in that process&lt;/li&gt;
+	&lt;li&gt;Implement those ideas in a short time frame&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a name=&quot;box 13&quot; id=&quot;box 13&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;What is an Energy Kaizen Event (Box 13)&quot; title=&quot;What is an Energy Kaizen Event (Box 13)&quot; height=&quot;317&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-13.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Energy kaizen events combine a detailed energy-use assessment with immediate implementation of energy-reduction opportunities.&lt;/em&gt; From 1999 to 2005, Eastman Kodak used energy kaizen events to generate a total of $14 million in annual energy savings. Since then, energy kaizen events, along with other improvement efforts, have enabled Eastman Kodak to shut down one of the company’s two powerhouses in Rochester, New York. This resulted in over $20 million in additional annual savings&lt;a id=&quot;b7&quot; name=&quot;b7&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f7&quot;&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt;. Table 3 shows examples of energy savings opportunities identified during a kaizen event.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;table 3&quot; id=&quot;table 3&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Table 3: Example Actions Identified at a Kaizen Event&quot; title=&quot;Table 3: Example Actions Identified at a Kaizen Event&quot; height=&quot;457&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/table-3_0.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;use&quot; name=&quot;use&quot;&gt;&lt;/a&gt;Use Total Productive Maintenance to Reduce Equipment Energy Waste&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Total productive maintenance (TPM)&lt;/em&gt; is a Lean method that focuses on optimizing the effectiveness of manufacturing equipment. TPM builds upon established equipment-management approaches and focuses on team-based maintenance that involves employees at every level and function.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 14&quot; id=&quot;box 14&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;What is TPM? (Box 14)&quot; title=&quot;What is TPM? (Box 14)&quot; height=&quot;401&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-14.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;six&quot; name=&quot;six&quot;&gt;&lt;/a&gt;Six Losses That Lower Equipment Efficiency&lt;/h3&gt;
+
+&lt;p&gt;Increased equipment operating efficiency reduces energy waste. When machines are optimally tuned to accomplish the desired work, energy inputs are most efficient. TPM’s emphasis on equipment efficiency can lead to reduced costs, increased productivity, and fewer defects. TPM focuses on the six big losses that lead to equipment inefficiency:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Breakdowns&lt;/li&gt;
+	&lt;li&gt;Setup and adjustment loss&lt;/li&gt;
+	&lt;li&gt;Idling and minor stoppages&lt;/li&gt;
+	&lt;li&gt;Reduced speed&lt;/li&gt;
+	&lt;li&gt;Defects and rework&lt;/li&gt;
+	&lt;li&gt;Start and yield loss&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Eradicating the six big losses maximizes the productivity of equipment throughout its lifetime. With proper equipment and systems maintenance, facilities can reduce manufacturing process defects and save in energy costs.&lt;/p&gt;
+
+&lt;p&gt;Consider using one or more of the strategies for integrating energy-reduction efforts into TPM (Box 15) to improve energy and equipment efficiency at your facility. This chapter focuses on describing energy savings opportunities associated with autonomous maintenance (strategy #1); previous chapters of this toolkit provided guidance on identifying energy wastes, conducting energy kaizen events, and developing energy management systems (strategies #2-4).&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Strategies for Integrating Energy Reduction Efforts Into TPM (Box 15)&quot; title=&quot;Strategies for Integrating Energy Reduction Efforts Into TPM (Box 15)&quot; height=&quot;360&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-15.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;autonomous&quot; name=&quot;autonomous&quot;&gt;&lt;/a&gt;Autonomous Maintenance Improves Energy Efficiency&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;One distinctive aspect of TPM is autonomous maintenance. &lt;em&gt;Autonomous maintenance&lt;/em&gt; refers to ongoing maintenance activities operators undertake on their own equipment. Typical activities include: (1) daily inspections, (2) lubrication, (3) parts replacement, (4) simple repairs, (5) abnormality detection, and (6) precision checks. Autonomous maintenance provides an opportunity to integrate process-level energy-reduction strategies into ongoing equipment maintenance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Many simple energy efficiency best practices can be implemented without extensive analysis or effort.&lt;/em&gt; Autonomous maintenance already captures a number of best practices, such as cleaning, proper lubrication, and standardized maintenance practices. Your facility can enhance TPM effectiveness by integrating energy-reduction best practices for specific types of processes into ongoing autonomous maintenance activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;Use checklists such as the &lt;em&gt;Energy Reduction Checklists for Combustion, Steam Generation, and Process Heating Systems (Box 16)&lt;/em&gt; to identify opportunities to decrease energy consumption while also increasing equipment efficiency. These checklists are based on best practices compiled by the U.S. DOE’s Energy Efficiency and Renewable Energy Department. DOE has a variety of software tools, fact sheets, and other publications that can be helpful in optimizing the efficiency of your equipment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 16&quot; id=&quot;box 16&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Energy Reduction Checklist for Combustion, Steam Generation and Process Heating Systems (Box 16)&quot; title=&quot;Energy Reduction Checklist for Combustion, Steam Generation and Process Heating Systems (Box 16)&quot; height=&quot;680&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-16.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;By training operators on energy-reduction best practices and checklists applicable to manufacturing processes and equipment at your facility, operators will be better able to save energy in their day-to-day operations and maintenance activities.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;replace&quot; name=&quot;replace&quot;&gt;&lt;/a&gt;Replace Over-Sized and Inefficient Equipment with Right-Sized Equipment&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Lean thinking often results in the use of right-sized equipment to meet production needs. &lt;em&gt;Right-sized equipment&lt;/em&gt; is designed to meet the specific needs of a manufacturing cell or an individual process step, rather than the processing needs for an entire facility. For example, rather than relying on one large paint booth or parts cleaning tank station to service all painting and degreasing needs for a facility, Lean principles typically lead organizations to shift to right-sized paint and degreasing stations that are embedded in manufacturing cells.&lt;/p&gt;
+
+&lt;p&gt;In conventional manufacturing, equipment is often over-sized to accommodate the maximum anticipated demand. Since purchasing a new large piece of equipment can be costly and time-consuming, engineers sometimes design with an additional “buffer capacity” to be sure that the equipment does not bottleneck production. Box 16 shows results from studies documenting equipment over-sizing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 17&quot; id=&quot;box 17&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Over-Sized Equipment (Box 17)&quot; title=&quot;Over-Sized Equipment (Box 17)&quot; height=&quot;232&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-17.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Since right-sized equipment is geared toward a specific end use and production capacity, it often is much more energy efficient than conventional, large equipment.&lt;/em&gt; Large, “monument” equipment often runs well below capacity, significantly reducing energy efficiency per unit of production. For example, the natural gas or electricity needed to fire a large dryer oven is typically the same whether the line is being run at capacity or if only a few parts are being processed. Another option is to use this opportunity to look for equipment that uses a cleaner burning fuel source. This could help reduce your greenhouse gas emissions.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Three Ways to Right-Size Your Fan System (Box 18)&quot; title=&quot;Three Ways to Right-Size Your Fan System (Box 18)&quot; height=&quot;419&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-18.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;design&quot; name=&quot;design&quot;&gt;&lt;/a&gt;Design Plant Layout to Improve Flow and Reduce Energy Use&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Lean thinking focuses on improving the flow of product through the production process. Facilities arrange equipment and workstations in a sequence that supports a smooth flow of materials and components through the process, with minimal transport or delay. The desired outcome is to have the product move through production in the smallest, quickest possible increment (one piece).&lt;em&gt; Improving the flow of product and process inputs can significantly reduce the amount of energy required to support a production process.&lt;/em&gt; Box 19 provides an example of the significance of plant layout and flow in reducing energy use.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Flow and Energy Use (Box 19)&quot; title=&quot;Flow and Energy Use (Box 19)&quot; height=&quot;391&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-19.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;encourage&quot; name=&quot;encourage&quot;&gt;&lt;/a&gt;Encourage Energy Efficiency with Standard Work, Visual Controls, Employee Engagement and Mistake-Proofing&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id=&quot;standard&quot; name=&quot;standard&quot;&gt;&lt;/a&gt;Standard Work and Energy Use&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Standard work&lt;/em&gt; is an agreed-upon set of work procedures that establish the best and most reliable method of performing a task or operation. The overall goals of standard work are to maximize performance while minimizing waste in each operation and workload. Standard work is the final stage of Lean implementation in that it helps sustain previous Lean improvements and serves as the foundation for future continuous improvement (kaizen) efforts.&lt;/p&gt;
+
+&lt;p&gt;Your facility can maximize Lean and energy gains by incorporating energy reduction best practices into standard work (e.g., consider drawing from the &lt;em&gt;Questions for Understanding Energy Use&lt;/em&gt; and the &lt;em&gt;Energy Reduction Checklist&lt;/em&gt; in &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-4#box 7&quot;&gt;Boxes 7&lt;/a&gt; and &lt;a href=&quot;#box 16&quot;&gt;16&lt;/a&gt; of this toolkit). Example uses of standard work include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Build energy-reduction best practices into training materials, in-house regulations, and standard work for equipment operation and maintenance&lt;/li&gt;
+	&lt;li&gt;Include energy-reduction tips in weekly team meetings and monthly facility newsletters&lt;/li&gt;
+	&lt;li&gt;Add energy-reduction best practices into “shine” checklists used when implementing 5S (or 5S+Safety)&lt;a id=&quot;b8&quot; name=&quot;b8&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f8&quot;&gt;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Pacific Northwest Pollution Prevention Resource Center (PPRC) prepared a Facility Checklist for Identifying Environmental Issues During Lean&lt;a id=&quot;b9&quot; name=&quot;b9&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f9&quot;&gt;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt;. This checklist is intended for use on the manufacturing floor to help companies identify additional environmental opportunities, including, but not limited to, energy efficiency and greenhouse gas emission reduction opportunities. Table 4, below, is an adaptation of the Energy Use portion of the checklist highlighting the things to look for and some of the questions you should ask when assessing your facility.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Table 4: Example Energy Use Checklist&quot; title=&quot;Table 4: Example Energy Use Checklist&quot; height=&quot;1206&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/table-4.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;visual&quot; name=&quot;visual&quot;&gt;&lt;/a&gt;Visual Controls&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Visual controls&lt;/em&gt; are used to reinforce standardized procedures and to display the status of an activity so every employee can see it and take appropriate action. Visual controls standardize best practices for energy and equipment use, and can be adopted facility-wide.&lt;/p&gt;
+
+&lt;p&gt;These easy-to-use cues can be as simple as the following techniques: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Color-code pipes and other facility conveyances to help operators quickly identify and report key information (e.g., leaks)&lt;/li&gt;
+	&lt;li&gt;Install a sign over on/off switches or power outlets to remind operators to turn off or unplug equipment that is not in use (for example, see Figure 5)&lt;/li&gt;
+	&lt;li&gt;Identify the annual energy cost, energy use, and/or carbon emissions of equipment if it is left on continuously and display it on the equipment to raise awareness and encourage conversation.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a name=&quot;figure 5&quot; id=&quot;figure 5&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Figure 5: Example Visual Control&quot; title=&quot;Figure 5: Example Visual Control&quot; height=&quot;448&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/figure-5.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 5: Example Visual Control&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;Visual controls also provide a powerful way to track actual results against targets and goals, and encourage additional improvement. Figure 6 shows a dashboard representation of how energy use and cost at a facility compares to annual goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;figure 6&quot; id=&quot;figure 6&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 6: Dashboard Visual Controls&quot; title=&quot;Figure 6: Dashboard Visual Controls&quot; height=&quot;368&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/figure-6r2.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 6: Dashboard Visual Controls&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;engaging&quot; name=&quot;engaging&quot;&gt;&lt;/a&gt;Engaging Employees in Energy &amp;amp; Greenhouse Gas Management Efforts&lt;/h3&gt;
+
+&lt;p&gt;Employees are one of your strongest assets when implementing your energy and greenhouse gas management programs. Getting them involved through competition, awards, and recognition is a great way to help employees feel like part of these efforts, and if they own the improvements it will be much easier to sustain any changes. There are several ways companies have engaged employees including:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Competition and Pledges &lt;/li&gt;
+	&lt;li&gt;Recognition and Rewards&lt;/li&gt;
+&lt;/ol&gt;&lt;h4&gt;&lt;a id=&quot;competition&quot; name=&quot;competition&quot;&gt;&lt;/a&gt;Competition and Pledges&lt;/h4&gt;
+
+&lt;p&gt;By fostering interest in energy reduction and encouraging employees to take the initiative to reduce their energy consumption, a company can save thousands of dollars each year. Cummins, Inc., an engine manufacturing company in Columbus, Indiana, created a program to encourage employees to keep energy use to a minimum over holiday shutdowns. The 2008 and 2009 “Unplugged Challenge” campaigns saved a combined 1,900 tons of greenhouse gas emissions and $1.2 million&lt;a id=&quot;b10&quot; name=&quot;b10&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f10&quot;&gt;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cummins has also piloted an “Energy Champion” program, an intensive weeklong program to empower employees and equip them with the knowledge to implement energy saving practices both at work and at home. Figure 7 shows examples of the materials Cummins developed for this campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;figure 7&quot; id=&quot;figure 7&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Figure 7: Materials Used by Cummins in Employee Engagement Energy-Reduction Efforts&quot; title=&quot;Figure 7: Materials Used by Cummins in Employee Engagement Energy-Reduction Efforts&quot; height=&quot;244&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/figure-7.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 7: Materials Used by Cummins in Employee Engagement Energy-Reduction Efforts&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a id=&quot;recognition&quot; name=&quot;recognition&quot;&gt;&lt;/a&gt;Recognition &amp;amp; Rewards&lt;/h4&gt;
+
+&lt;p&gt;Another way to engage employees is to create recognition programs or other incentives for improving energy use within the company. This is an area where you can get creative. Look at creating a program that recognizes the team or organizational unit who has reduced their energy use the most, or who has had the most inventive solution to an energy or greenhouse gas issue. Post this information in a break room or other prominent common space.&lt;/p&gt;
+
+&lt;p&gt;You may also want to consider a monetary award or paid time off to the employee who comes up with a great cost saving idea. Sharing the benefit of these improvements with the employees only makes them want to work harder to identify additional areas where energy and cost savings can be found.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;mistake&quot; name=&quot;mistake&quot;&gt;&lt;/a&gt;Mistake-Proofing&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Mistake-proofing&lt;/em&gt; (also known by the Japanese term poka-yoke) refers to technology and procedures designed to prevent defects and equipment malfunction during manufacturing processes. Mistakeproofing is used by manufacturers to prevent and easily identify operational errors; it offers an unobtrusive approach to standardizing equipment use.&lt;/p&gt;
+
+&lt;p&gt;One simple energy-efficient action is to automatically power down energy-consuming equipment when not in use. Process equipment and lighting do not always need to be on or energized. Mistake-proofing devices such as occupancy sensors and lock-out/tag-out de-energizing steps are a simple, low-cost means to power down equipment that is not in use. By mistake-proofing equipment, a facility can waste less energy, time, and resources, as well as prevent rework.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;reduce&quot; name=&quot;reduce&quot;&gt;&lt;/a&gt;Reduce Greenhouse Gas Emissions Through Transportation Efficiencies&lt;/h2&gt;
+
+&lt;p&gt;Transportation in the form of personnel travel, product shipment, and product movement between facilities is often a large contributor to a company’s greenhouse gas emissions. Companies can significantly reduce their greenhouse gas emissions using a variety of tools including employee commuting programs, looking into alternative fuels, and well-planned just-in-time deliveries.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;finding&quot; name=&quot;finding&quot;&gt;&lt;/a&gt;Finding Efficiencies in Vehicle Fleet and Mobile Equipment&lt;/h3&gt;
+
+&lt;p&gt;In America today, about 28% of the energy we use goes to transporting people and goods from one place to another&lt;a id=&quot;b11&quot; name=&quot;b11&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f11&quot;&gt;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt;. The majority of companies use vehicles and other mobile equipment as an integral part of their daily operations—from maintenance trucks used for parks and recreation to indoor and outdoor forklifts and other gas-powered equipment. These vehicles and equipment burn gasoline, diesel, and other fuels, which results in greenhouse gas emissions. In addition, vehicles with air conditioning or refrigeration equipment use refrigerants that can leak.&lt;/p&gt;
+
+&lt;p&gt;Emissions from vehicles and mobile equipment are a great place to look for savings. Several strategies for reducing emissions and maximizing efficiency include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Use alternative fuels (including corn or cellulosic ethanol, bio-diesel, natural gas and even diesel, and possibly in the future, hydrogen fuel cells)&lt;/li&gt;
+	&lt;li&gt;Use hybrid electric vehicles&lt;/li&gt;
+	&lt;li&gt;Reduce total vehicle miles traveled&lt;/li&gt;
+	&lt;li&gt;Reduce overall idling time for all vehicles&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a name=&quot;figure 8&quot; id=&quot;figure 8&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 8: Fuel Used for Transportation, 2007&quot; title=&quot;Figure 8: Fuel Used for Transportation, 2007&quot; height=&quot;603&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/figure-8.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 8: Fuel Used for&amp;nbsp;Transportation, 2007&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;The U.S. Department of Energy has developed a &lt;em&gt;tool to help determine where the most significant energy savings are in your vehicle fleet&lt;/em&gt;. Please visit their Energy Efficiency &amp;amp; Renewable Energy Alternative Fuels website at &lt;a href=&quot;https://www.afdc.energy.gov/prep/index.php&quot;&gt;https://www.afdc.energy.gov/prep/index.php&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;EPA also has a program that can help you reduce emissions from your vehicle fleet. SmartWay is an innovative brand that represents environmentally cleaner, more fuel-efficient transportation options. The SmartWay brand identifies a variety of different products and services related to transportation. Vehicles, fuel options, partnerships, and financing information are available on the website &lt;a href=&quot;/smartway/learn-about-smartway&quot;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These strategies do not just apply to transportation outside of you facility. Consider what changes can be made to the way you transport your materials around your facility. Forklifts can be a major emission source. Using Lean techniques you may be able to optimize the plant layout in such a way that you no longer need forklifts (see section on &lt;a href=&quot;#design&quot;&gt;Plant Layout&lt;/a&gt; above). If, however, you just cannot get away from using forklifts, consider purchasing electric models.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 20&quot; id=&quot;box 20&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;UPS: Fuel Efficiency Through Fleet Optimization (Box 20)&quot; title=&quot;UPS: Fuel Efficiency Through Fleet Optimization (Box 20)&quot; height=&quot;613&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-20.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Just-in-time delivery&lt;/em&gt; is another Lean principle which means you are only receiving supplies as they are needed. This methodology can also be applied to delivery schedules, maximizing delivery volume, while minimizing distance traveled with each drop. By optimizing your delivery schedule so that trucks are being loaded and deployed efficiently you should be able to limit the number of trips taken and therefore reduce your emissions. Box 20, shows how UPS optimized its fleet to reduce vehicle miles traveled and optimize delivery efficiencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 21&quot; id=&quot;box 21&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Ways to Reduce Your Employees’ Commutes (Box 21)&quot; title=&quot;Ways to Reduce Your Employees’ Commutes (Box 21)&quot; height=&quot;554&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-21.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;To Consider&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+
+				&lt;ul&gt;&lt;li&gt; Which of the Lean techniques mentioned in this chapter - TPM, rightsized equipment, standard work, visual controls, and/or mistake-proofing - does your organization use?&lt;/li&gt;
+					&lt;li&gt;What ideas do you have for using Lean techniques to integrate smart energy habits into your organization’s work? Into your workforce?&lt;/li&gt;
+					&lt;li&gt;In what ways could your company improve shipping practices or fleet management to reduce greenhouse gas emissions? &lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-4&quot;&gt;Back to Chapter 4&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-6&quot;&gt;Continue to Chapter 6&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;f7&quot; name=&quot;f7&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b7&quot;&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; Discussion with James Breeze, Energy Engineer/Project Leader, Worldwide Energy Office, Eastman Kodak Company, September 2007.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;f8&quot; name=&quot;f8&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b8&quot;&gt;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt; 5S is a Lean method involving five steps (Sort, Set in order, Shine, Standardize, and Sustain) to establish a clean, neat, and orderly workplace. Many companies add a sixth “S” for Safety.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;f9&quot; name=&quot;f9&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b9&quot;&gt;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt; Pacific Northwest Pollution Prevention Resource Center. Facility Checklist for Identifying Environmental Issues during Lean. March 2009. http://www.pprc.org/solutions/Lean_Green_facility_checklist_4_10.pdf. Accessed 06 July 2011.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;f10&quot; name=&quot;f10&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b10&quot;&gt;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt; Cummins, Inc. Sustainability Report 2009-2010. Accessed on-line http://cmipef.cummins.com/CMIPEFMIG/CumminsNA/SiteContent/&lt;br /&gt;
+	en/BinaryAsset/Attachments/Cummins/Cummins_2010_SustainabilityReport_FULL.pdf&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;f11&quot; name=&quot;f11&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b11&quot;&gt;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt;Source: U.S. Energy Information Administration, Annual Energy Review 2009. http://www.eia.gov/energyexplained/index.&lt;br /&gt;
+	cfm?page=us_energy_use, accessed 07 Jan. 2011&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 28 Dec 2016 15:20:03 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167877 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Chapter 4</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-chapter-4</link>
+    <description>&lt;h2&gt;Energy and Greenhouse Gas Assessment Strategies&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#observe&quot;&gt;Observe Energy Use on the Shop Floor&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#energy&quot;&gt;Energy Audits and Measuring Energy Use&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#audits&quot;&gt;Energy Audits&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#measuring&quot;&gt;Measuring Energy Use of Individual Processes&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#greenhouse&quot;&gt;Greenhouse Gas Inventories&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#examine&quot;&gt;Examine Energy Use with Value Stream Mapping&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#adding&quot;&gt;Adding Energy Analysis to Value Stream Mapping&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#identifying&quot;&gt;Identifying Opportunities &lt;/a&gt; &lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#use&quot;&gt;Use Six Sigma to Find and Eliminate Energy Waste and Variation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;observe&quot; name=&quot;observe&quot;&gt;&lt;/a&gt;Observe Energy Use on the Shop Floor&lt;/h2&gt;
+
+&lt;p&gt;Walking through and observing processes as they actually run at a facility can be a simple but effective way to identify waste and find improvement &lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;opportunities. During the walk through, look for signs of unnecessary or inefficient energy use. Ask questions, such as the &lt;em&gt;Questions for Understanding Energy Use&lt;/em&gt; below (Box 7), to learn more about potential opportunities to reduce energy use. These are just some of the potential energy opportunities; see Appendix A for additional assessment tools and resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 7&quot; id=&quot;box 7&quot;&gt;&lt;/a&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Questions for Understanding Energy Use (Box 7)&quot; title=&quot;Questions for Understanding Energy Use (Box 7)&quot; height=&quot;638&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-7_2.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Walk-throughs are a key step in value stream mapping and other Lean activities. Companies such as Toyota and GE frequently conduct “Energy Treasure Hunts” to find energy savings (see Box 8). An Energy Treasure Hunt is a three-day plant assessment event in which a cross-functional team of&lt;br /&gt;
+	employees identifies opportunities to reduce unnecessary energy use. Project teams then implement the ideas that are likely to yield the greatest benefits through kaizen events.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 8&quot; id=&quot;box 8&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Energy Treasure Hunts at General Electric (Box 8) &quot; title=&quot;Energy Treasure Hunts at General Electric (Box 8) &quot; height=&quot;377&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-8.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;energy&quot; name=&quot;energy&quot;&gt;&lt;/a&gt;Energy Audits and Measuring Energy Use&lt;/h2&gt;
+
+&lt;p&gt;While a walk-through is an excellent way to identify and fix energy wastes that are clearly visible, you may still want to examine energy use more closely. Two strategies for learning more include:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Conducting an energy audit to understand how energy is used—and possibly wasted—across your facility.&lt;/li&gt;
+	&lt;li&gt;Measuring the energy use of individual production and support processes.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;audits&quot; name=&quot;audits&quot;&gt;&lt;/a&gt;Energy Audits&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;An &lt;em&gt;energy audit&lt;/em&gt;, sometimes referred to as an energy assessment, is a study of the energy end uses and performance of a facility. Energy audits can range in complexity and level of detail, from a simple audit involving a facility walk-through and review of utility bills, to a comprehensive analysis of historical energy use and energy-efficiency investment options. Energy audits allow managers to compare a plant’s energy use to industry benchmarks and identify specific energy saving opportunities. Table 4 below provides examples of the top ten reduction recommendations based on data collected by the U.S. Department of Energy’s Industrial Technologies Program. &lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;table 2&quot; id=&quot;table 2&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Table 2: Top Ten Energy Reduction Recommendations&quot; title=&quot;Table 2: Top Ten Energy Reduction Recommendations&quot; height=&quot;660&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/table-2.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;In many locations, local utilities or non-profit manufacturing assistance organizations provide energy audit services for free or at reduced cost. There are also free tools available to help companies conduct energy audits. Appendix A describes service providers, resources, and tools for energy assessments. &lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 9&quot; id=&quot;box 9&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Energy Savings (Box 9) &quot; title=&quot;Energy Savings (Box 9) &quot; height=&quot;388&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-9.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;measuring&quot; name=&quot;measuring&quot;&gt;&lt;/a&gt;Measuring Energy Use of Individual Processes&lt;/h3&gt;
+
+&lt;p&gt;You may not really know which process or process step uses the most energy—and therefore where the greatest energy savings might be - until you actually measure the energy use. During the analysis of the “current state” of a value stream or an individual process, collect data on how much energy each operation uses. Typical energy metrics include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Kilowatt-hours (for electricity)&lt;/li&gt;
+	&lt;li&gt;Therms (for natural gas)&lt;/li&gt;
+	&lt;li&gt;British thermal units (Btu)&lt;/li&gt;
+	&lt;li&gt;Energy intensity (energy use per production unit)&lt;/li&gt;
+	&lt;li&gt;Energy costs (dollar amount spent on energy)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a name=&quot;box 10&quot; id=&quot;box 10&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Common Energy Units (Box 10) &quot; title=&quot;Common Energy Units (Box 10) &quot; height=&quot;228&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/box-10.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;There are several techniques for measuring or estimating the energy used by production processes:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Metering&lt;/strong&gt;: One technique is to install meters to track the energy use of a process. For example, install a flow meter to track natural gas inputs to ovens that provide process heat, or install electric meters in a particular process area to monitor electricity use. Metering enables a facility to track energy use over short and longer time periods.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Estimating&lt;/strong&gt;: Another technique is to estimate energy use based on information provided by equipment manufacturers. Calculate energy use for specific equipment or process activities using equipment energy specifications coupled with equipment operation data (e.g., number of hours the equipment is in different modes of operation). While such calculations are often not precise, they can indicate the order of magnitude of energy use. &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Energy Studies&lt;/strong&gt;: Energy specialists can also help conduct detailed analyses of energy use and costs at both the facility level and the process level. This type of analysis can look not only at where and how much energy is used, but also opportunities to reduce energy costs through load shifting (shifting electricity use to off-peak times), changing the mix of energy sources, and other strategies. &lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;To Consider&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+
+				&lt;ul&gt;&lt;li&gt;How much energy does your facility use?&lt;/li&gt;
+					&lt;li&gt;Which value streams and processes contribute the most to your facility’s total energy use?&lt;/li&gt;
+					&lt;li&gt;What are the costs associated with this energy use?&lt;/li&gt;
+					&lt;li&gt;Where are the best places to look for energy savings? &lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;greenhouse&quot; name=&quot;greenhouse&quot;&gt;&lt;/a&gt;Greenhouse Gas Inventories&lt;/h2&gt;
+
+&lt;p&gt;In addition to energy use, your organization may also want to look at your overall impact on global climate change. Corporate greenhouse gas inventories help your company identify where emission reduction opportunities exist. A greenhouse gas inventory is simply an accounting of the amount of greenhouse gas emissions emitted to or removed from the atmosphere over a given period of time. Corporate greenhouse gas inventories focus specifically on the emissions of a company. &lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;It is important to note that &lt;em&gt;depending on the quantity of your greenhouse gas emissions you may be required to report your emissions to EPA&lt;/em&gt;. In October of 2009, EPA passed a rule requiring the mandatory reporting of greenhouse gases from large emissions sources in the United States. In general, the reporting threshold is 25,000 metric tons or more of carbon dioxide equivalent per year. Most small business will fall below this threshold, and therefore not be required to report.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Greenhouse gases are released into the atmosphere and trap heat, slowly warming the earth. Carbon dioxide is the most talked about greenhouse gas, but it is not the only one. The principal greenhouse gases that enter the atmosphere because of human activities are: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Carbon Dioxide (CO&lt;sub&gt;2&lt;/sub&gt;)&lt;/strong&gt;: Carbon dioxide enters the atmosphere through the burning of fossil fuels (oil, natural gas, and coal), solid waste, trees and wood products, and also as a result of other chemical reactions (e.g., manufacture of cement). Carbon dioxide is also removed from the atmosphere (or “sequestered”) when it is absorbed by plants as part of the biological carbon cycle. &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Methane (CH&lt;sub&gt;4&lt;/sub&gt;)&lt;/strong&gt;: Methane is emitted during the production and transport of coal, natural gas, and oil. Methane emissions also result from livestock and other agricultural practices and by the decay of organic waste in municipal solid waste landfills.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Nitrous Oxide (N&lt;sub&gt;2&lt;/sub&gt;O)&lt;/strong&gt;: Nitrous oxide is emitted during agricultural and industrial activities, as well as during combustion of fossil fuels and solid waste.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Fluorinated Gases&lt;/strong&gt;: Hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride are synthetic, powerful greenhouse gases that are emitted from a variety of industrial processes. Fluorinated gases are sometimes used as substitutes for ozone-depleting substances (i.e., CFCs, HCFCs, and halons). These gases are typically emitted in smaller quantities, but because they are potent greenhouse gases, they are sometimes referred to as High Global Warming Potential gases (High GWP gases).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;Corporate greenhouse gas inventories&lt;/em&gt; help your company calculate the emissions your organization is responsible for and provide you an idea of potential areas for improvement.  &lt;/p&gt;
+
+&lt;p&gt;Typically, when you reduce your energy use, you are also reducing your greenhouse gas emissions, but there are additional improvements that can be made to further reduce your company’s global warming impact such as switching to fuel that emits fewer greenhouse gas emissions. Lean activities can be targeted at processes with high greenhouse gas emissions, or greenhouse gas emissions can simply be calculated in addition to energy efficiency reductions. This is just one more metric that could be calculated as part of a Lean and Energy event. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;examine&quot; name=&quot;examine&quot;&gt;&lt;/a&gt;Examine Energy Use with Value Stream Mapping &lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;One effective way to understand energy use at your facility is to integrate energy analysis into the Lean &lt;em&gt;value stream mapping&lt;/em&gt; process. Value stream mapping is a method of creating a visual representation of the information and material flows involved in creating a product or delivering a service to a customer. Lean practitioners use value stream maps to understand where the largest sources of waste are in the value stream and to prioritize future process-improvement efforts. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;adding&quot; name=&quot;adding&quot;&gt;&lt;/a&gt;Adding Energy Analysis to Value Stream Mapping&lt;/h3&gt;
+
+&lt;p&gt;Your value stream mapping team can examine the energy use of processes in a value stream at the same time your team examines other data about the “current state,” including Lean metrics such as cycle time (C/T), changeover time (C/O), and uptime. Use the techniques described previously for observing and measuring energy use to collect energy data for processes in the value stream, or consider asking internal or outside experts to assist with the energy analysis. This may involve collecting baseline data in advance of a value stream mapping event.&lt;/p&gt;
+
+&lt;p&gt;The key is to have both Lean and energy use data available when your value stream mapping team brainstorms and prioritizes improvement ideas for the “future state” of the value stream. This will leverage the whole systems thinking of Lean to maximize operational gains and energy savings. Figure 3: Example Value Stream Map shows a value stream map from a value and energy stream mapping project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 11&quot; id=&quot;box 11&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Example Results from Value and Energy Stream Mapping Projects (Box 11) &quot; title=&quot;Example Results from Value and Energy Stream Mapping Projects (Box 11) &quot; height=&quot;573&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-11.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;figure 3&quot; id=&quot;figure 3&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 3: Example Value Stream Map&quot; title=&quot;Figure 3: Example Value Stream Map&quot; height=&quot;517&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/figure-3.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 3: Example Value Stream Map&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;Another opportunity is to incorporate energy use data directly into current and future state value stream maps. Consider adding data on the average &lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;energy use or energy intensity of each process to the process data boxes in value stream maps, along with other regularly collected metrics. This will make it easier to spot key with energy savings opportunities in the context of other improvement opportunities. Figure 4 shows an &lt;em&gt;example process data box with energy use data&lt;/em&gt; (in kilowatt-hours per pound of output). &lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;figure 4&quot; id=&quot;figure 4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Figure 4: Example Process Data Box with Energy Use Data&quot; title=&quot;Figure 4: Example Process Data Box with Energy Use Data&quot; height=&quot;464&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/figure-4.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Combining energy use analysis and value stream mapping is a proven technique for cutting energy costs and improving productivity.&lt;/em&gt; For example, California Manufacturing Technology Consulting, a Manufacturing Extension Partnership center in California, partnered with a local utility and an energy efficiency firm, Alternative Energy Systems Consulting, Inc., to conduct “Value and Energy Stream Mapping” projects with facilities (see Box 11 for examples). &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;identifying&quot; name=&quot;identifying&quot;&gt;&lt;/a&gt;Identifying Opportunities &lt;/h3&gt;
+
+&lt;p&gt;Incorporating energy analysis into value stream mapping allows your team to consider energy reduction opportunities alongside other process improvement opportunities. You may find ways to reduce energy use that will also provide other production benefits, such as fewer defects from more reliable equipment. When you look at energy use in the context of the entire value stream, ask two fundamental questions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Is this energy end use needed?&lt;/strong&gt; Eliminating entire energy end uses can result in substantial cost savings, improve production flow, and simplify processes. For example, when planning for a Lean and environment kaizen event, a Lasco Bathware manufacturing plant found it could eliminate a shrink-wrap heating oven. This resulted in an annual savings of $99,290 and 12.6 million cubic feet of natural gas.1&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Is there a way to deliver this end use more efficiently in support processes?&lt;/strong&gt; Support processes may consume significant amounts of energy. &lt;em&gt;Even &lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;brief consideration of support processes in value stream mapping enables a Lean team to think more broadly when identifying wastes and improvement opportunities.&lt;/em&gt; For example, particular processes may produce air emissions that go to a pollution control device (e.g., a natural gas-fired thermal oxidizer) or effluent that is sent to a wastewater treatment plant. Other support processes include lighting, heating, and cooling. &lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;use&quot; name=&quot;use&quot;&gt;&lt;/a&gt;Use Six Sigma to Find and Eliminate Energy Waste and Variation&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Term&quot; title=&quot;Key Term&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-term.gif&quot; /&gt;&lt;/span&gt;Six Sigma&lt;/em&gt; refers to a collection of statistical analysis and process improvement tools designed to identify and eliminate variation (or defects) in a process. Although specific training is needed before using Six Sigma, many companies have added these methods to their continuous improvement toolbox, developing an improvement approach often known as Lean Six Sigma. Six Sigma analytical tools can be particularly useful for identifying energy waste in situations where there is substantial energy use and when process-level data are available. Statistical analysis and process control methods can help isolate the root causes of energy use fluctuations and identify factors that result in energy waste.&lt;/p&gt;
+
+&lt;p&gt;Lean Six Sigma helped the 3M Company reduced worldwide energy use by 46 percent (when indexed to net sales) from 2000 to 2010. 3M set a corporate goal for further energy use reductions of 25 percent for the period from 2005 to 2015, and the company views Lean Six Sigma as critical to realizing this performance goal&lt;a id=&quot;b6&quot; name=&quot;b6&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f6&quot;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 12&quot; id=&quot;box 12&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Six Sigma and Energy Savings at Baxter International (Box 12)&quot; title=&quot;Six Sigma and Energy Savings at Baxter International (Box 12)&quot; height=&quot;365&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-12.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;To Consider&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+
+				&lt;ul&gt;&lt;li&gt;Has your facility conducted an energy assessment (such as an energy treasure hunt, a facility walk-through to identify energy wastes, or a formal energy audit and utility bill analysis) recently? &lt;/li&gt;
+					&lt;li&gt;Do you know what processes and areas of your facilities have the most greenhouse gas emissions? What ideas do you have for reducing those emissions? &lt;/li&gt;
+					&lt;li&gt;Has your facility used value stream mapping, kaizen events, and/or Six Sigma to identify energy wastes and reduce energy use? &lt;/li&gt;
+					&lt;li&gt;Are there any energy-intensive processes that could be targeted in your organization using Lean Six Sigma methods? &lt;/li&gt;
+					&lt;li&gt;What practical steps will you take to identify and address energy waste during upcoming Lean events at your facility?&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-3&quot;&gt;Back to Chapter 3&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-5&quot;&gt;Continue to Chapter 5&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;f6&quot; name=&quot;f6&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b6&quot;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; 3M Corporation. Sustainability at 3M. Accessed at http://solutions.3m.com/wps/portal/3M/en_US/3M-Sustainability/Global/&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Mon, 19 Dec 2016 17:20:11 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167483 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lean &amp; Energy Toolkit: Chapter 3</title>
+    <link>https://www.epa.gov/lean/lean-energy-toolkit-chapter-3</link>
+    <description>&lt;h2&gt;Overview of Energy Use and Lean&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#sources&quot;&gt;Energy Sources and End Uses&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#understand&quot;&gt;Understand the Costs of Energy Use&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#efficiency&quot;&gt;Energy Efficiency Benefits of Lean&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#reductions&quot;&gt;Energy Use Reductions as an Indirect Result of Lean Activities&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;sources&quot; name=&quot;sources&quot;&gt;&lt;/a&gt;Energy Sources and End Uses&lt;/h2&gt;
+
+&lt;p&gt;In the manufacturing sector, the predominant energy sources are natural gas and electricity (a secondary source, typically generated off-site by a utility using one or more primary energy sources or fuels). Manufacturers also use other energy sources, such as fuel oil, for producing heat and power on-site. Some facilities have on-site co-generation, where they combust a fuel (e.g., natural gas or wood scraps) to produce heat and electricity. It is also important to note that different fuel sources can have dramatically different greenhouse gas emissions.&lt;/p&gt;
+
+&lt;p&gt;Figure 2&lt;sup&gt;&lt;a href=&quot;#f4&quot;&gt;4&lt;/a&gt;&lt;a id=&quot;b4&quot; name=&quot;b4&quot;&gt;&lt;/a&gt;&lt;/sup&gt; lists major energy sources used by the industry and manufacturing sectors in the U.S. economy.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;figure 2&quot; id=&quot;figure 2&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full caption&quot; style=&quot;width:924px;&quot;&gt;&lt;img alt=&quot;Sources of Energy Used for U.S. Industry and Manufacturing in 2005 (Figure 2)&quot; title=&quot;Sources of Energy Used for U.S. Industry and Manufacturing in 2005 (Figure 2)&quot; height=&quot;437&quot; width=&quot;924&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/sources-of-energy-used-for-u.s.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Sources of Energy Used for U.S. Industry and Manufacturing in 2005 (Figure 2)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;While identifying energy end uses is often straightforward, determining the amount of energy used by each process can be challenging—but &lt;em&gt;end use information is essential to targeting waste and improvement opportunities&lt;/em&gt;. In the context of Lean, it may even be useful to understand energy end use information at the process and equipment levels. Chapter 4 discusses some strategies and techniques for better understanding energy uses and costs at your facility.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;box 6&quot; id=&quot;box 6&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Energy End Uses: What Do We Use Energy To Do? (Box 6) &quot; title=&quot;Energy End Uses: What Do We Use Energy To Do? (Box 6) &quot; height=&quot;246&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/box-6.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;Looking at energy end uses across the manufacturing sector in the U.S. economy provides an indication of where efficiency improvement opportunities may exist. Tapping into sector-specific resources can help companies identify additional areas of efficiency opportunity within their sector (see Appendix B for information on sector-focused energy reduction resources).&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Process heating accounts for 53 percent of direct energy end use at manufacturing facilities, while machine drives and motors account for another 22.1 percent, according to a study by the National Association of Manufacturers&lt;a id=&quot;b5&quot; name=&quot;b5&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#f5&quot;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;. &lt;em&gt;Consider targeting your facility’s energy efficiency efforts on end uses that are likely to account for a significant portion of your facility’s energy use.&lt;/em&gt; Chapters 4- 5 describe specific strategies identifying and reducing the energy used by these and other types of processes.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;understand&quot; name=&quot;understand&quot;&gt;&lt;/a&gt;Understand The Cost of Energy Use&lt;/h2&gt;
+
+&lt;p&gt;Understanding the costs of energy use can raise awareness of the potential value of identifying and eliminating energy waste during a Lean event. &lt;em&gt;The costs of energy use are not always “visible” to production managers because they are rolled up into facility overhead costs, rather than assigned to production areas.&lt;/em&gt; Explicitly tracking costs associated with individual processes or equipment can encourage energy conservation.&lt;/p&gt;
+
+&lt;p&gt;One of the primary sources for energy cost data is your facility’s utility bill. Utility bills often include the following types of data:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Consumption Charges: Electricity is charged based, in part, on the amount of electricity used (in kilowatt-hours, kWh) in a billing period. The per kilowatt-hour rate for electricity may vary based on the time of year (e.g., winter or summer season) and/or the time of day (peak or offpeak hours).&lt;/li&gt;
+	&lt;li&gt;Demand Charges: For many electricity customers (all but small accounts), there will be a demand charge (per kilowatt) in the bill that is based on the peak electricity use each month averaged over a short time period (e.g., 15 minutes). Your facility may pay more for demand costs than consumption costs, although the two costs may be a single line item in the utility bill.&lt;/li&gt;
+	&lt;li&gt;Fuel Costs: For natural gas and other fuels, you may be charged for the amount of fuel you receive (for natural gas this is based on MMBtu, or, thousands of cubic feet- Mcf) and a delivery charge for the transportation and delivery of the fuel. Fuel charges may vary seasonally and based on the amount consumed.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;New Tool&quot; title=&quot;New Tool&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/small-icon-tool.gif&quot; /&gt;&lt;/span&gt;Because of variation in energy use and costs, it can be helpful to use spreadsheets or other systems to monitor your facility’s energy performance and costs over time. An example &lt;em&gt;Electrical Power Bill Analysis Worksheet&lt;/em&gt; is provided in Appendix C. ENERGY STAR also offers a free &lt;em&gt;Energy Tracking Tool&lt;/em&gt; that helps organizations track all fuels, track progress towards reduction goals and generate reports.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;efficiency&quot; name=&quot;efficiency&quot;&gt;&lt;/a&gt;Energy Efficiency Benefits of Lean Implementation&lt;/h2&gt;
+
+&lt;p&gt;Significant energy savings are typically related to a manufacturing company’s involvement in Lean activities—even without explicit consideration of energy use. The greatest benefits for lean implementation can be understood by thinking about energy in the context of Lean’s “deadly wastes:”&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Overproduction&lt;/li&gt;
+	&lt;li&gt;Inventory&lt;/li&gt;
+	&lt;li&gt;Transportation&lt;/li&gt;
+	&lt;li&gt;Motion&lt;/li&gt;
+	&lt;li&gt;Defects&lt;/li&gt;
+	&lt;li&gt;Over processing&lt;/li&gt;
+	&lt;li&gt;Waiting&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;reductions&quot; name=&quot;reductions&quot;&gt;&lt;/a&gt;Energy Use Reductions as an Indirect Result of Lean Activities&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Environmental and energy wastes are not explicitly included in the seven deadly wastes of the Toyota Production System.&lt;/em&gt; This does not mean that these wastes are unrelated to Lean. In fact, your company may have already seen large energy use reductions from implementing Lean, because energy and environmental wastes are embedded in, or related to, the seven deadly wastes. Table 1 lists energy impacts associated with wastes targeted by Lean methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;table 1&quot; id=&quot;table 1&quot;&gt;&lt;/a&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Table 1: Energy Use Hidden in Lean Wastes&quot; title=&quot;Table 1: Energy Use Hidden in Lean Wastes&quot; height=&quot;602&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-12/table-1.gif&quot; /&gt;&lt;/span&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:48px;&quot;&gt;&lt;img alt=&quot;Key Point&quot; title=&quot;Key Point&quot; height=&quot;48&quot; width=&quot;48&quot; class=&quot;left media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-11/icon-point_0.gif&quot; /&gt;&lt;/span&gt;Despite these relationships between Lean wastes and energy use, Lean efforts often overlook opportunities to save energy. &lt;em&gt;Your company can enhance its Lean performance by ensuring that energy efficiency opportunities are explicitly identified during Lean activities.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;&lt;a id=&quot;consider&quot; name=&quot;consider&quot;&gt;&lt;/a&gt;To Consider&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+
+				&lt;ul&gt;&lt;li&gt;What energy and fuel sources does your facility use?&lt;/li&gt;
+					&lt;li&gt;What are the energy end uses at your facility?&lt;/li&gt;
+					&lt;li&gt;How much money does your facility spend on energy use each month?&lt;/li&gt;
+					&lt;li&gt;What energy improvements has your facility realized from Lean efforts?&lt;/li&gt;
+					&lt;li&gt;What areas of your facility might be good targets for future energy efficiency improvement efforts?&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt; &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-2&quot;&gt;Back to Chapter 2&lt;/a&gt; | &lt;a href=&quot;/lean/lean-energy-toolkit-chapter-4&quot;&gt;Continue to Chapter 4&lt;/a&gt; &amp;gt;&amp;gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;sup&gt;&lt;a href=&quot;#b4&quot;&gt;4&lt;/a&gt;&lt;a id=&quot;f4&quot; name=&quot;f4&quot;&gt;&lt;/a&gt;&lt;/sup&gt; U.S. Energy Information Administration, Annual Energy Review 2005, Washington, DC, July 2006. www.eia.doe.gov.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;f5&quot; name=&quot;f5&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#b5&quot;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; National Association of Manufactures, Efficiency and Innovation in U.S. Manufacturing Energy Use, Washington DC. 2005.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 16 Dec 2016 19:50:23 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">167419 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 19:04:16, expires @ 2017-01-26 07:04:16, lifetime 12 hours -->

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137957/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Mobile Source Pollution</title>
+    <link>https://www.epa.gov/feed/137957/rss.xml</link>
+    <description>Updated Mobile Source Pollution content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137957/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Final Rule for Control of Hazardous Air Pollutants from Mobile Sources</title>
+    <link>https://www.epa.gov/mobile-source-pollution/final-rule-control-hazardous-air-pollutants-mobile-sources</link>
+    <description></description>
+     <pubDate>Wed, 29 Jun 2016 19:49:54 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">153729 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Modeling Resources for Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/modeling-resources-mobile-source-pollution</link>
+    <description>&lt;p&gt;Following are modeling resources and reports for mobile source pollution.&lt;/p&gt;
+
+&lt;div class=&quot;pane-content&quot;&gt;
+	&lt;div&gt;
+		&lt;div&gt;
+			&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;/air-emissions-modeling&quot;&gt;Air Emissions Modeling&lt;/a&gt;&lt;br /&gt;
+					This includes data files and documentation for inventories used in the air quality modeling platform.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/moves&quot;&gt;MOVES&lt;/a&gt;&lt;br /&gt;
+					MOVES is EPA’s model for estimating emissions from cars, trucks, and motorcycles. It includes all air toxics in the NEI that are emitted by mobile sources.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/software/speciate/index.html&quot;&gt;SPECIATE&lt;/a&gt;&lt;br /&gt;
+					SPECIATE is EPA’s repository of volatile organic gas and particulate matter (PM) speciation profiles of air pollution sources.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/scram/&quot;&gt;Support Center for Regulatory Atmospheric Modeling&lt;/a&gt;&lt;br /&gt;
+					EPA&#039;s source of information on air quality models for air toxics and criteria pollutants.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 16 Jun 2016 20:44:27 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">152319 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Voluntary Programs to Reduce Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/voluntary-programs-reduce-mobile-source-pollution</link>
+    <description>&lt;div class=&quot;pane-content&quot;&gt;
+	&lt;div&gt;
+		&lt;div&gt;
+			&lt;p&gt;Find voluntary programs and initiatives to reduce emissions from mobile sources:&lt;/p&gt;
+
+			&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;/cleandiesel&quot;&gt;Clean Diesel&lt;/a&gt;&lt;br /&gt;
+					This program offers funding for projects that protect human health and improve air quality by reducing harmful emissions from diesel engines.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/cleandiesel/clean-school-bus&quot;&gt;Clean School Bus USA&lt;/a&gt;&lt;br /&gt;
+					This national program is designed to help communities reduce emissions from older diesel school buses.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/schools/school-siting-guidelines&quot;&gt;EPA&#039;s School Siting Guidelines&lt;/a&gt;&lt;br /&gt;
+					These guidelines can help local school districts, local education agencies (LEAs), and community members evaluate environmental factors to make the best possible school siting decisions.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/ports-initiative&quot;&gt;Ports Initiative&lt;/a&gt;&lt;br /&gt;
+					The Ports Program is an EPA initiative with goals to reduce air pollution and greenhouse gases, to achieve environmental sustainability for ports, and improve air quality for near-port communities.&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/smartway&quot;&gt;SmartWay Program&lt;/a&gt;&lt;br /&gt;
+					This program helps businesses create more sustainable supply chains by moving freight in the cleanest most fuel-efficient ways possible.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 16 Jun 2016 20:25:46 +0000</pubDate>
+ <dc:creator>psuarez</dc:creator>
+ <guid isPermaLink="false">152317 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regulations to Reduce Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/regulations-reduce-mobile-source-pollution</link>
+    <description>&lt;p&gt;The following regulations provide requirements to reduce mobile source pollution.&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/tier3.htm&quot;&gt;Control of Air Pollution from Motor Vehicles: Tier 3 Motor Vehicle Emission and Fuel Standards&lt;/a&gt;&lt;br /&gt;
+		The Tier 3 standards are part of a comprehensive approach to reducing the impacts of motor vehicles on air quality and public health. The standards will reduce both tailpipe and evaporative emissions from all passenger vehicles and provide more stringent gasoline sulfur standards.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/tier2/&quot;&gt;Control  of  Air  Pollution  From  New  Motor Vehicles:  Tier  2  Motor  Vehicle  Emissions Standards  and  Gasoline Sulfur Control Requirements&lt;/a&gt;&lt;br /&gt;
+		The Tier 2 program is part of a comprehensive approach to reduce emissions by providing protective tailpipe emissions standards for all passenger vehicles and lowering standards for sulfur in gasoline.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/mobile-source-pollution/final-rule-control-hazardous-air-pollutants-mobile-sources&quot;&gt;Control of Hazardous Air Pollutants from Mobile Sources&lt;/a&gt;&lt;br /&gt;
+		In February 2007, EPA finalized this rule to reduce hazardous air pollutants from mobile sources. The rule limits the benzene content of gasoline and reduce toxic emissions from passenger vehicles and gas cans. EPA estimates that in 2030 this rule would reduce total emissions of mobile source air toxics by 330,000 tons and VOC emissions (precursors to ozone and PM2.5) by over 1 million tons.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/hd-hwy.htm&quot;&gt;Heavy-Duty Engine and Vehicle Standards and Highway Diesel Fuel Sulfur Control Requirements&lt;/a&gt;&lt;br /&gt;
+		This page presents emission-related information and regulations for heavy-duty highway engines, such as those used in trucks and buses.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/aviation.htm&quot;&gt;Regulations related to Emissions from Aviation&lt;/a&gt;&lt;br /&gt;
+		This page provides information about air pollutant emissions from aviation including aircraft emissions of lead, nitrogen oxides, and greenhouse gases. It includes regulations, guidance, and other information related to aircraft.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/state-and-local-transportation/vehicle-emissions-inspection-and-maintenance-im-regulations&quot;&gt;Regulations related to Inspections and Maintenance (I/M)&lt;/a&gt;&lt;br /&gt;
+		This page contains regulations that facilitate the implementation of the Clean Air Act mandate for vehicle I/M.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/nonroad-diesel.htm&quot;&gt;Regulations related to Nonroad Diesel Engines&lt;/a&gt;&lt;br /&gt;
+		Nonroad diesel engines are used in machines that perform a wide range of important jobs. These include excavators and other construction equipment, farm tractors and other agricultural equipment, heavy forklifts, airport ground service equipment, and utility equipment such as generators, pumps, and compressors.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/locomotives.htm&quot;&gt;Regulations related to Locomotives and Commercial Marine Vessels&lt;/a&gt;&lt;br /&gt;
+		This page provides general and technical information on the locomotive rulemakings that affect railroads, locomotive manufacturers, and remanufacturers. It also includes some regulations related to marine engines.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/otaq/marinesi.htm&quot;&gt;Regulations related to Small SI and Marine SI Engines&lt;/a&gt;&lt;br /&gt;
+		EPA standards for exhaust and evaporative emissions reduce the environmental impact from gasoline boats and personal watercraft.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 16 Jun 2016 16:38:54 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">152277 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Data Resources for Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/data-resources-mobile-source-pollution</link>
+    <description>&lt;p&gt;Following are data resources for mobile source pollution.&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;/air-emissions-inventories&quot;&gt;Air Emissions Inventories&lt;/a&gt;&lt;br /&gt;
+		Provides resources for emissions data, regulations, tools, and guidance.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/amtic/airtoxpg.html&quot;&gt;Air Toxics Monitoring Program&lt;/a&gt;&lt;br /&gt;
+		The goal of the air toxics monitoring program is to support reduction of public exposure to hazardous air pollutants (HAPs).&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/amtic/local.html&quot;&gt;Community Scale Air Toxics Ambient Monitoring (CSATAM) Projects&lt;/a&gt;&lt;br /&gt;
+		These projects are designed to assist state, local and tribal communities in identifying and profiling air toxics sources, characterizing the degree and extent of local air toxics problems, and tracking progress of air toxics reduction activities.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttnamti1/natts.html&quot;&gt;National Air Toxics Trends Stations (NATTS)&lt;/a&gt;&lt;br /&gt;
+		NATTS was developed to provide long-term monitoring data for HAPs with consistent quality.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 16 Jun 2016 15:50:13 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">152259 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Research on Health Effects, Exposure, &amp; Risk from Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/research-health-effects-exposure-risk-mobile-source-pollution</link>
+    <description>&lt;p&gt;Motor vehicle emissions contribute to ambient levels of air toxics known or suspected as human or animal carcinogens. Exposures to air toxics can also cause noncancerous health effects, such as neurological, cardiovascular, respiratory, reproductive and/or immune system damage.&lt;/p&gt;
+
+&lt;p&gt;Below are resources for health effects, exposure, and risk from mobile source pollution.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 09 Jun 2016 19:00:19 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">151745 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How Mobile Source Pollution Affects Your Health</title>
+    <link>https://www.epa.gov/mobile-source-pollution/how-mobile-source-pollution-affects-your-health</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#mobile sources&quot;&gt;Mobile sources of air pollution&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#smog&quot;&gt;Smog and your health&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#particle&quot;&gt;Particle pollution&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#near roadway&quot;&gt;Near roadway air pollution and health&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#air toxics&quot;&gt;Air toxics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;mobile sources&quot; id=&quot;mobile sources&quot;&gt;&lt;/a&gt;Mobile sources of air pollution&lt;/h2&gt;
+
+&lt;p&gt;Mobile sources of air pollution are divided into two categories:&lt;/p&gt;
+
+&lt;div&gt;On-road vehicles include:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Motorcycles;&lt;/li&gt;
+	&lt;li&gt;Passenger cars and trucks; and&lt;/li&gt;
+	&lt;li&gt;Commercial trucks and buses.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Nonroad vehicles and engines include: &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Aircraft;&lt;/li&gt;
+	&lt;li&gt;Heavy equipment;&lt;/li&gt;
+	&lt;li&gt;Locomotives;&lt;/li&gt;
+	&lt;li&gt;Marine vessels;&lt;/li&gt;
+	&lt;li&gt;Recreation vehicles (snowmobiles, all-terrain vehicles, etc.); and&lt;/li&gt;
+	&lt;li&gt;Small engines and tools (lawnmowers, etc.).&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Related documents:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004KHZ.PDF?Dockey=P1004KHZ.PDF&quot;&gt;Master List of Compounds Emitted by Mobile Sources (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(16 pp, EPA420-B-06-002, February 2006)&lt;/span&gt;&lt;br /&gt;&lt;small&gt;Provides a list of all compounds emitted by mobile sources in 2006.&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi/P1004LIZ.PDF?Dockey=P1004LIZ.PDF&quot;&gt;Expanding and Updating the Master List of Compounds Emitted by Mobile Sources - Phase III (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(58 pp, 717K, EPA420-R-06-005, February 2006)&lt;/span&gt;&lt;br /&gt;&lt;small&gt;In order to build a comprehensive database of the compounds emitted by mobile sources, EPA initiated a literature search for studies reporting detailed speciation of mobile source exhaust and evaporative emissions.&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Use the links below to visit EPA websites about mobile and stationary sources of air pollution, including factories, refineries, boilers, and power plants.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/stationary-sources-air-pollution&quot;&gt;Stationary sources of air pollution&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/urban-air-toxics&quot;&gt;Urban air toxics&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/amtic&quot;&gt;Technology Transfer Network (TTN) — Ambient monitory technology information center &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;smog&quot; name=&quot;smog&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Smog and Your Health&lt;/h2&gt;
+
+&lt;p&gt;Ground level or &quot;bad&quot; ozone is not emitted directly into the air, but is created by chemical reactions between oxides of nitrogen (NOx) and volatile organic compounds (VOC) in the presence of sunlight. Ozone at ground level is a harmful air pollutant, because of its effects on people and the environment, and it is the main ingredient in “smog.&quot; Breathing ozone can trigger a variety of health problems, particularly for children, the elderly, and people of all ages who have lung diseases such as asthma.&lt;/p&gt;
+
+&lt;div&gt;Breathing ozone can:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Make it more difficult to breathe deeply and vigorously;&lt;/li&gt;
+	&lt;li&gt;Cause shortness of breath, and pain when taking a deep breath;&lt;/li&gt;
+	&lt;li&gt;Cause coughing and sore or scratchy throat;&lt;/li&gt;
+	&lt;li&gt;Inflame and damage the airways;&lt;/li&gt;
+	&lt;li&gt;Aggravate lung diseases such as asthma, emphysema, and chronic bronchitis;&lt;/li&gt;
+	&lt;li&gt;Increase the frequency of asthma attacks;&lt;/li&gt;
+	&lt;li&gt;Make the lungs more susceptible to infection;&lt;/li&gt;
+	&lt;li&gt;Continue to damage the lungs even when the symptoms have disappeared; and&lt;/li&gt;
+	&lt;li&gt;Cause chronic obstructive pulmonary disease (COPD).&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Learn more:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ozone-pollution&quot;&gt;Ozone pollution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;particle&quot; name=&quot;particle&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Particle Pollution&lt;/h2&gt;
+
+&lt;p&gt;Particle pollution (also called particulate matter or PM) is the term for a mixture of solid particles and liquid droplets found in the air. Some particles, known as primary particles are emitted directly from a source, such as construction sites, unpaved roads, fields, smokestacks or fires. Others form in complicated reactions in the atmosphere of chemicals such as sulfur dioxides and nitrogen oxides that are emitted from power plants, industries and automobiles. These particles, known as secondary particles, make up most of the fine particle pollution in the country.&lt;/p&gt;
+
+&lt;div&gt;Particulate Matter is associated with:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Premature death in people with heart or lung disease,&lt;/li&gt;
+	&lt;li&gt;Nonfatal heart attacks,&lt;/li&gt;
+	&lt;li&gt;Irregular heartbeat,&lt;/li&gt;
+	&lt;li&gt;Aggravated asthma,&lt;/li&gt;
+	&lt;li&gt;Decreased lung function, and&lt;/li&gt;
+	&lt;li&gt;Increased respiratory symptoms, such as irritation of the airways, coughing or difficulty breathing;&lt;/li&gt;
+	&lt;li&gt;Reduced visibility (haze) in many parts of the U.S., including many of our national parks and wilderness areas; and&lt;/li&gt;
+	&lt;li&gt;Lake and stream acidification. &lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Learn more:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants&quot;&gt;Criteria air pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/pm/&quot;&gt;Particulate matter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a name=&quot;near roadway&quot; id=&quot;near roadway&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Near Roadway Air Pollution and Health &lt;/h2&gt;
+
+&lt;p&gt;People who live, work or attend school near major roads appear to have an increased incidence and severity of health problems associated with air pollution exposures related to roadway traffic. Children, older adults, people with preexisting cardiopulmonary disease, and people of low socioeconomic status are among those at higher risk for health impacts from air pollution near roadways.  &lt;/p&gt;
+
+&lt;div&gt;These risks include:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Higher rates of asthma onset and aggravation;  &lt;/li&gt;
+	&lt;li&gt;Cardiovascular disease;  &lt;/li&gt;
+	&lt;li&gt;Impaired lung development in children;  &lt;/li&gt;
+	&lt;li&gt;Pre-term and low-birthweight infants;  &lt;/li&gt;
+	&lt;li&gt;Childhood leukemia; and&lt;/li&gt;
+	&lt;li&gt;Premature death. &lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Learn more:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi/P100NFFD.PDF?Dockey=P100NFFD.PDF&quot;&gt;Near roadway air pollution and health: Frequently asked questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a name=&quot;air toxics&quot; id=&quot;air toxics&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Air Toxics&lt;/h2&gt;
+
+&lt;p&gt;Air toxics tend to pose greater risks in urban areas because these areas have large populations and a higher concentration of emission sources, including stationary sources like power plants. Low-income neighborhoods, tribal populations and communities of color that live in urban areas may be disproportionately exposed to air pollution, which is a barrier to economic opportunity and security. &lt;/p&gt;
+
+&lt;p&gt;People exposed to toxic air pollutants at sufficient concentrations and durations may have an increased chance of getting cancer or experiencing other serious health effects, including: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Damage to the immune system;   &lt;/li&gt;
+	&lt;li&gt;Neurological disorders;&lt;/li&gt;
+	&lt;li&gt;Reproductive disorders (e.g., reduced fertility);&lt;/li&gt;
+	&lt;li&gt;Developmental disorders; and&lt;/li&gt;
+	&lt;li&gt;Respiratory and other health problems.  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In addition to exposure from breathing air toxics, some toxic air pollutants such as mercury can deposit onto soils or surface waters, where they are taken up by plants and ingested by animals and are eventually magnified up through the food chain. Like humans, animals may experience health problems if exposed to sufficient quantities of air toxics over time. &lt;/p&gt;
+
+&lt;div&gt;Learn more:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/urban-air-toxics&quot;&gt;Urban air toxics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</description>
+     <pubDate>Wed, 08 Jun 2016 20:11:19 +0000</pubDate>
+ <dc:creator>sliao</dc:creator>
+ <guid isPermaLink="false">151627 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about Mobile Source Pollution</title>
+    <link>https://www.epa.gov/mobile-source-pollution/forms/contact-us-about-mobile-source-pollution</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/air-pollution-transportation/contact-information-epas-office-transportation-and-air-quality&quot;&gt;More Contact Information for EPA&#039;s Office of Transportation and Air Quality&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;box right clear-right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Mailing address&lt;/h2&gt;
+
+&lt;p&gt;U.S. Environmental Protection Agency&lt;br /&gt;
+	Public Information Services, Public Inquiry&lt;br /&gt;
+	2000 Traverwood Drive&lt;br /&gt;
+	Ann Arbor, MI 48105&lt;/p&gt;
+
+&lt;h2&gt;Technical troubleshooting for this site&lt;/h2&gt;
+
+&lt;p&gt;If you experience a technical error using this site or want to provide feedback on this site, please fill out the following form.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 09 Mar 2016 16:45:28 +0000</pubDate>
+ <dc:creator>sliao</dc:creator>
+ <guid isPermaLink="false">137959 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 18:28:30, expires @ 2017-01-26 06:28:30, lifetime 12 hours -->

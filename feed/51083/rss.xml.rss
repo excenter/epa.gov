@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/51083/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Predictive Models and Tools for Assessing Chemicals under the Toxic Substances Control Act (TSCA)</title>
+    <link>https://www.epa.gov/feed/51083/rss.xml</link>
+    <description>Updated Predictive Models and Tools for Assessing Chemicals under the Toxic Substances Control Act (TSCA) content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/51083/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>The Model Averaging for Dichotomous Response Benchmark Dose (MADr-BMD) Tool</title>
+    <link>https://www.epa.gov/tsca-screening-tools/model-averaging-dichotomous-response-benchmark-dose-madr-bmd-tool</link>
+    <description>&lt;p&gt;The Model Averaging for Dichotomous Response Benchmark Dose (MADr-BMD) tool is a downloadable program that implements model averaging based upon dichotomous dose-response data.&lt;/p&gt;
+
+&lt;p&gt; Key characteristics of the program include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Providing quantal response models, which are also used in the U.S. EPA benchmark dose software suite, and generates a model-averaged dose response model to generate benchmark dose and benchmark dose lower bound estimates.&lt;/li&gt;
+	&lt;li&gt;Developed by Matthew W. Wheeler (CDC/NIOSH) and A. John Bailer (Miami University and CDC/NIOSH) and is freely available. &lt;/li&gt;
+	&lt;li&gt;Descriptions of the statistical approach, use and set-up with examples are available in the manuscript by Wheeler and Bailer published in 2008 in the Journal of Statistical Software and available at &lt;a href=&quot;https://www.jstatsoft.org/article/view/v026i05&quot;&gt;https://www.jstatsoft.org/article/view/v026i05&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Source code and example input files are available online as a supplement to the journal article. This source code compiled as an executable software program is posted below for download. &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Download &lt;span id=&quot;file-277647&quot; class=&quot;file file-document file-application-x-msdos-program&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-04/madrbmd.exe&quot; type=&quot;application/x-msdos-program; length=2417607&quot; class=&quot;file-link&quot;&gt;Model Averaging for Dichotomous Response Benchmark Dose (MADr-BMD) (EXE)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;User Instructions for the Dichotomous Response Benchmark Dose (MADr-BMD)&lt;/h2&gt;
+
+&lt;p&gt;The MADr-BMD software is a stand-alone command line program that is executable under the Microsoft Windows operating system’s shell command prompt. Once madrbmd.exe is downloaded, move the file to a new directory where you have write permission. For example open C:\ and create a new folder by right-clicking, selecting New\Folder and typing the new name such as MA. Also add the input file to be used to this new directory. An example input file is included in the supplemental information to the Wheeler and Bailer 2008 manuscript in J. Stat. Soft. available online at &lt;a href=&quot;https://www.jstatsoft.org/article/view/v026i05&quot;&gt;https://www.jstatsoft.org/article/view/v026i05&lt;/a&gt;. Once the zip file is downloaded open the zip file (double click) and create a copy of (by dragging) the input.txt file in the directory with the madrbmd.exe file (for example C:\MA).&lt;/p&gt;
+
+&lt;p&gt;To run MADr-BMD open the windows start menu and in the entry line at the bottom, type cmd and press enter to open a command prompt window. Change directory (use the cd command) to the directory where you placed the madrbmd.exe file and the input file. For example type cd C:\MA. Use the dir command to confirm that the madrbmd.exe file and an input file (e.g. input.txt) are in the current working directory.The MADr-BMD program is invoked with the command madrbmd. Given no input arguments (i.e., typing madrbmd) the program assumes an input file named input.txt is located in the current working directory.&lt;/p&gt;
+
+&lt;p&gt;To provide a user specified file the input filename is added after madrbmd, for example typing madrbmd 1BPinput.txt would instruct the program to use 1BPinput.txt as the input file. The input file specifies convergence criteria, model selections, the random seed, averaging criterion, statistical parameters, and data specification. A full description of the input file is in Table 1 of Wheeler and Bailer 2008 and example input files are available in the supplemental information to the manuscript as described above.&lt;/p&gt;
+
+&lt;p&gt;MADr-BMD, by default, outputs all calculations to the command prompt; however, output can be saved to a file using redirection at the command prompt. For example madrbmd 1BPinput.txt &amp;gt; 1BPoutput.txt would take data from the file 1BPinput.txt and output the data to the file 1BPoutput.txt. The output can then be viewed using any text editor.&lt;/p&gt;
+
+&lt;h2&gt;EPA Technical Contact:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:brinkerhoff.chris@epa.gov&quot;&gt;Chris Brinkerhoff&lt;/a&gt;, U.S. EPA&lt;br /&gt;
+	Risk Assessment Division (7403M)&lt;br /&gt;
+	1200 Pennsylvania Ave., N.W.&lt;br /&gt;
+	Washington, DC 20460-0001&lt;br /&gt;
+	Phone: 202-564-2242&lt;br /&gt;
+	Fax: 202-564-9063&lt;br /&gt;
+	e-mail: brinkerhoff.chris@epa.gov&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 Apr 2016 19:01:15 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">142443 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Interim Guidance for Using Ready and Inherent Biodegradability Tests to Derive Input Data for Multimedia Models and Wastewater Treatment Plants (WWT) Models (9/1/2000) </title>
+    <link>https://www.epa.gov/tsca-screening-tools/interim-guidance-using-ready-and-inherent-biodegradability-tests-derive-input-0</link>
+    <description>&lt;p&gt;This document provides interim guidance for using ready and inherent biodegradability tests to derive input data for multimedia models and wastewater treatment plant models.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-197779&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/interim_guidance.pdf&quot; type=&quot;application/pdf; length=72905&quot; class=&quot;file-link&quot;&gt;Interim Guidance for Using Ready and Inherent Biodegradability Tests to Derive Input Data for Multimedia Models and Wastewater Treatment Plants (WWT) Models (9/1/2000)  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 73 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 21 Sep 2015 11:02:48 +0000</pubDate>
+ <dc:creator>rdelaney</dc:creator>
+ <guid isPermaLink="false">115455 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Chemical Assessment Clustering Engine (ChemACE) User Tutorial</title>
+    <link>https://www.epa.gov/tsca-screening-tools/chemical-assessment-clustering-engine-chemace-user-tutorial</link>
+    <description>&lt;p&gt;The document provides step by step instructions for completing a chemical profile using the clustering engine.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195227&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/chemace_user_manual.pdf&quot; type=&quot;application/pdf; length=724232&quot; class=&quot;file-link&quot;&gt;ChemACE User Tutorial (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(111 pp, 724 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 21:08:20 +0000</pubDate>
+ <dc:creator>tshorter</dc:creator>
+ <guid isPermaLink="false">114533 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™ Cancer Assessment Presentation for Sustainable Futures Program </title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-cancer-assessment-presentation-sustainable-futures-program</link>
+    <description>&lt;p&gt;This presentation is from the Sustainable Futures training workshops and provides background information on the development and use of the OncoLogic model.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195203&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/assessment_presentationv7_0.pdf&quot; type=&quot;application/pdf; length=339336&quot; class=&quot;file-link&quot;&gt;OncoLogic™ Cancer Assessment Presentation for SF Program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(51 pp, 339 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:42:44 +0000</pubDate>
+ <dc:creator>tshorter</dc:creator>
+ <guid isPermaLink="false">114529 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™: Interpreting results</title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-interpreting-results</link>
+    <description>&lt;p&gt;This document provides qualitative information on how to interpret results provided by the OncoLogic model.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195199&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/onco-igc1.pdf&quot; type=&quot;application/pdf; length=248035&quot; class=&quot;file-link&quot;&gt;OncoLogic™: Interpreting results (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 248 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:35:41 +0000</pubDate>
+ <dc:creator>Kmayo02</dc:creator>
+ <guid isPermaLink="false">114525 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™: Running the model</title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-running-model</link>
+    <description>&lt;p&gt;This document provides step by step instructures for running a chemical through OncoLogic.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195189&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/onco-p2-fr-man.pdf&quot; type=&quot;application/pdf; length=113507&quot; class=&quot;file-link&quot;&gt;OncoLogic™: Running the Model (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 114 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:31:05 +0000</pubDate>
+ <dc:creator>Kmayo02</dc:creator>
+ <guid isPermaLink="false">114517 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™ User Guide</title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-user-guide</link>
+    <description>&lt;p&gt;This manual provides operational instructions for use of the OncoLogic model.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195187&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/usermanual.pdf&quot; type=&quot;application/pdf; length=1428747&quot; class=&quot;file-link&quot;&gt;OncoLogic™ User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(144 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:28:07 +0000</pubDate>
+ <dc:creator>Kmayo02</dc:creator>
+ <guid isPermaLink="false">114511 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™: Frequently Asked Questions</title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-frequently-asked-questions</link>
+    <description>&lt;p&gt;This document provides responses to frequent question regarding the OncoLogic program and interpretation of the results&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195183&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/onco-faq.pdf&quot; type=&quot;application/pdf; length=266014&quot; class=&quot;file-link&quot;&gt;OncoLogic™: Frequently Asked Questions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 266 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:25:18 +0000</pubDate>
+ <dc:creator>Kmayo02</dc:creator>
+ <guid isPermaLink="false">114505 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OncoLogic™ Quick Start Tutorial</title>
+    <link>https://www.epa.gov/tsca-screening-tools/oncologictm-quick-start-tutorial</link>
+    <description>&lt;p&gt;This document demonstrates the operation of the OncoLogic model with step by step instructions for each page and module.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-195177&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/quickstarttutorial.pdf&quot; type=&quot;application/pdf; length=1209443&quot; class=&quot;file-link&quot;&gt;OncoLogic™ Quick Start Tutorial (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(50 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 16 Sep 2015 20:20:10 +0000</pubDate>
+ <dc:creator>Kmayo02</dc:creator>
+ <guid isPermaLink="false">114497 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:30:20, expires @ 2017-01-26 17:30:20, lifetime 12 hours -->

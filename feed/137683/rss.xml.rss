@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137683/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Carbon Monoxide (CO) Pollution in Outdoor Air</title>
+    <link>https://www.epa.gov/feed/137683/rss.xml</link>
+    <description>Updated Carbon Monoxide (CO) Pollution in Outdoor Air content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137683/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Technical Data and Reports on Carbon Monoxide Measurements and SIP Status</title>
+    <link>https://www.epa.gov/co-pollution/technical-data-and-reports-carbon-monoxide-measurements-and-sip-status</link>
+    <description>&lt;p&gt;EPA collects data from the states and regions on their air quality and state implementation plan (SIP) progress. This information is compiled in a database, and used to create reports, trend charts, and maps.&lt;/p&gt;
+
+&lt;h2&gt;SIP status reports&lt;/h2&gt;
+
+&lt;h3&gt;Reports for nonattainment area SIP requirements&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_s.html&quot;&gt;Status of SIP requirements, listed by state&lt;/a&gt;: select a state from the map to view its SIP requirements progress report.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/co__1971_en.html&quot;&gt;SIP status reports listed by CO requirement&lt;/a&gt;: each criteria pollutant includes a full list of the requirements for that pollutant&#039;s SIP. Each requirement then links to a report on that requirement&#039;s progress, by state.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Reports for infrastructure SIP requirements&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_i.html&quot;&gt;Infrastructure SIP status reports listed by state&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;SIPs approved by EPA&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/approved-sips/approved-sips-epa-region&quot;&gt;View approved SIPs by state&lt;/a&gt;, organized by states in each EPA region.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Air quality data&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://airnow.gov&quot;&gt;AirNow&lt;/a&gt;: see real-time air pollution data in the United States.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;/air-trends/carbon-monoxide-trends&quot;&gt;Air Quality Trends&lt;/a&gt;: View CO levels in ambient air; measured nationally, regionally, and locally; up to 2015.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-trends/air-quality-design-values&quot;&gt;Design Values&lt;/a&gt;: view statistics that describe the air quality status of a given area relative to the level of EPA&#039;s National Ambient Air Quality Standards. These Excel reports are listed by pollutant.&lt;/p&gt;
+
+&lt;h2&gt;Designations&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/greenbook/cindex.html&quot;&gt;Carbon Monoxide Area Information listed in the Green Book&lt;/a&gt;: listings of area designations for CO. It includes current designation and classification status, area maps, reports, and Federal Register notices.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 04 Aug 2016 20:51:33 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">156669 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Setting and Reviewing Standards to Control Carbon Monoxide (CO) Pollution in Outdoor Air</title>
+    <link>https://www.epa.gov/co-pollution/setting-and-reviewing-standards-control-carbon-monoxide-co-pollution-outdoor-air</link>
+    <description>&lt;div&gt;On This Page: &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#standards&quot;&gt;What are CO standards?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#review&quot;&gt;How are the standards developed and reviewed?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#technical&quot;&gt;What scientific and technical information supports reviews?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;standards&quot; id=&quot;standards&quot;&gt;&lt;/a&gt;What are CO standards?&lt;/h2&gt;
+
+&lt;div&gt;&lt;a href=&quot;/criteria-air-pollutants/naaqs-table&quot;&gt;National Ambient Air Quality Standards (NAAQS)&lt;/a&gt; for CO specify maximum amounts of carbon monoxide to be present in outdoor air. Limiting CO in the air protects human health and the environment.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;See &lt;a href=&quot;/co-pollution/national-ambient-air-quality-standards-naaqs-carbon-monoxide-co&quot;&gt;NAAQS for CO&lt;/a&gt; for an in-depth explanation of the current CO standards, including Federal Register citations and fact sheets.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;review&quot; id=&quot;review&quot;&gt;&lt;/a&gt;How are the standards developed and reviewed?&lt;/h2&gt;
+
+&lt;p&gt;The Clean Air Act requires EPA to set national ambient air quality standards for carbon monoxide as one of the six &lt;a href=&quot;/criteria-air-pollutants&quot;&gt;criteria pollutants&lt;/a&gt;. The law also requires EPA to periodically review the standards and revise them if appropriate to ensure that they provide the requisite amount of health and environmental protection and to update those standards as necessary.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants/process-reviewing-national-ambient-air-quality-standards&quot;&gt;Learn more about the standards review process&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/co-pollution/table-historical-carbon-monoxide-co-national-ambient-air-quality-standards-naaqs&quot;&gt;View a historical table of the CO NAAQS&lt;/a&gt; to get an overview of how the standards have changed over time&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;technical&quot; id=&quot;technical&quot;&gt;&lt;/a&gt;What scientific and technical information supports reviews?&lt;/h2&gt;
+
+&lt;p&gt;The various documents published during the review process include multiple drafts of plans and assessments, reports from the Clean Air Scientific Advisory Committee (CASAC), and Federal Register notices.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/naaqs/carbon-monoxide-co-air-quality-standards&quot;&gt;See scientific and technical documents from review of the CO NAAQS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 15 Jul 2016 15:38:22 +0000</pubDate>
+ <dc:creator>msouth</dc:creator>
+ <guid isPermaLink="false">155027 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Table of Historical Carbon Monoxide (CO) National Ambient Air Quality Standards (NAAQS)</title>
+    <link>https://www.epa.gov/co-pollution/table-historical-carbon-monoxide-co-national-ambient-air-quality-standards-naaqs</link>
+    <description>&lt;table summary=&quot;primary and secondary standards rulemaking history&quot;&gt;&lt;caption&gt;History of the National Ambient Air Quality Standards for CO&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Final Rule/Decision&lt;/th&gt;
+			&lt;th&gt;Primary/ Secondary&lt;/th&gt;
+			&lt;th&gt;Indicator &lt;a href=&quot;#footnote 1&quot;&gt;&lt;sup&gt;(1)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Averaging Time&lt;/th&gt;
+			&lt;th&gt;Level &lt;a href=&quot;#footnote 2&quot;&gt;&lt;sup&gt;(2)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Form&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;1971&lt;/p&gt;
+
+				&lt;p&gt;36 FR 8186&lt;br /&gt;
+					Apr 30, 1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot;&gt;Primary and Secondary&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot;&gt;CO&lt;/td&gt;
+			&lt;td&gt;1-Hour period&lt;/td&gt;
+			&lt;td&gt;35 ppm&lt;sup&gt;&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;Maximum, not to be exceeded more than once in a year &lt;sup&gt;&lt;a href=&quot;#footnote 3&quot;&gt;(3)&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8-hour period&lt;/td&gt;
+			&lt;td&gt;9 ppm&lt;/td&gt;
+			&lt;td&gt;Maximum, not to be exceeded more than once in a year&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1985&lt;/p&gt;
+
+				&lt;p&gt;50 FR 37484&lt;br /&gt;
+					Sept 13, 1985&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;5&quot; rowspan=&quot;1&quot;&gt;
+				
+
+				&lt;p&gt;Primary standards retained, without revision; secondary standards revoked.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1994&lt;/p&gt;
+
+				&lt;p&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-1994-08-01/html/94-18659.htm&quot;&gt;59 FR 38906&lt;br /&gt;
+					Aug 1, 1994&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;5&quot; rowspan=&quot;1&quot;&gt;
+				
+
+				&lt;p&gt;Primary standards retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;2011&lt;/p&gt;
+
+				&lt;p&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2011-08-31/pdf/2011-21359.pdf&quot;&gt;76 FR 54294&lt;br /&gt;
+					Aug 31, 2011&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;5&quot; rowspan=&quot;1&quot;&gt;
+				&lt;p&gt;Primary standards retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p id=&quot;1&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 1&quot; id=&quot;footnote 1&quot;&gt;&lt;/a&gt;(1)&lt;small&gt;  &lt;/small&gt;&lt;/sup&gt;&lt;small&gt;CO=Carbon Monoxide&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;2&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 2&quot; id=&quot;footnote 2&quot;&gt;&lt;/a&gt;(2)&lt;/sup&gt;&lt;small&gt; Units of measure are in parts per million (ppm).&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;3&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 3&quot; id=&quot;footnote 3&quot;&gt;&lt;/a&gt;(3)&lt;/sup&gt;&lt;small&gt; Second highest, non-overlapping 8-hour average concentration.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/co-pollution/setting-and-reviewing-standards-control-carbon-monoxide-co-pollution-outdoor-air&quot;&gt;Learn more about setting and reviewing standards to control CO pollution&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jul 2016 18:51:20 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">154879 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Fact Sheets and Additional Information Regarding the National Ambient Air Quality Standards (NAAQS) for Carbon Monoxide (CO)</title>
+    <link>https://www.epa.gov/co-pollution/fact-sheets-and-additional-information-regarding-national-ambient-air-quality-standards</link>
+    <description>&lt;p&gt;On August 31, 2011, after carefully reviewing the most recent available scientific evidence, consulting with the Agency&#039;s independent science advisors, and considering public comment, the Environmental Protection Agency (EPA) issued a decision to retain the NAAQS for CO.&lt;/p&gt;
+
+&lt;p&gt;This page contains a variety of fact sheets and other documents describing that action.&lt;/p&gt;
+
+&lt;p&gt;For more information, visit the &lt;a href=&quot;/co-pollution/national-ambient-air-quality-standards-naaqs-carbon-monoxide-co&quot;&gt;CO NAAQS&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-300513&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/cofactsheetaugust12v4.pdf&quot; type=&quot;application/pdf; length=35943&quot; class=&quot;file-link&quot;&gt;Fact Sheet: National Ambient Air Quality Standards for Carbon Monoxide – Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 36 K, 
+  August 12, 2011)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This fact sheet provides an overview of the 2011 decison to retain the CO NAAQS, as well as revisions to the monitoring requirements for CO.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-300517&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/2010_cbsa_population_1million.pdf&quot; type=&quot;application/pdf; length=92964&quot; class=&quot;file-link&quot;&gt;Carbon Monoxide Monitoring Requirement Would Place One CO Near-Road Monitor in Each of These Large Urban Areas (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 93 K, 
+  February 2011)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-300519&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/finalco_non_road_sites.pdf&quot; type=&quot;application/pdf; length=151242&quot; class=&quot;file-link&quot;&gt;Final Map of Carbon Monoxide Near-Road Monitors for Large Urban Areas (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 151 K, 
+  August 2011)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 14 Jul 2016 16:47:50 +0000</pubDate>
+ <dc:creator>dbhagat</dc:creator>
+ <guid isPermaLink="false">154833 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>National Ambient Air Quality Standards (NAAQS) for Carbon Monoxide (CO)</title>
+    <link>https://www.epa.gov/co-pollution/national-ambient-air-quality-standards-naaqs-carbon-monoxide-co</link>
+    <description></description>
+     <pubDate>Thu, 14 Jul 2016 15:38:52 +0000</pubDate>
+ <dc:creator>dbhagat</dc:creator>
+ <guid isPermaLink="false">154825 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Applying or Implementing the Outdoor Air Carbon Monoxide (CO) Standards</title>
+    <link>https://www.epa.gov/co-pollution/applying-or-implementing-outdoor-air-carbon-monoxide-co-standards</link>
+    <description>&lt;div&gt;On This Page: &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#designations&quot;&gt;Designations: how do we know if an area is not meeting CO standards?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#sip&quot;&gt;What are the state implementation plan (SIP) requirements?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#attain&quot;&gt;How do states develop SIPs and start attaining the standards?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;designations&quot; id=&quot;designations&quot;&gt;&lt;/a&gt;Designations: how do we know if an area is not meeting CO standards?&lt;/h2&gt;
+
+&lt;p&gt;Areas within each state are &quot;designated&quot; as either meeting (attaining) carbon monoxide (CO) standards or not meeting them. In some cases, an entire state may attain a standard. Those areas that exceed the standards are known as “nonattainment areas.”&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about the &lt;a href=&quot;/criteria-air-pollutants/naaqs-designations-process&quot;&gt;NAAQS designations process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;As of 2010, there are no nonattainment areas for CO. However, some areas are designated as &quot;maintenance&quot; areas. Maintenance plans are prepared in areas that were initially designated nonattainment, but then are able to demonstrate attainment. Maintenance plans are the mechanism for ensuring that once the areas meets the standards, it will continue to attain the standards for the next 20 years (in two 10-year intervals).&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/greenbook/cindex.html&quot;&gt;Green Book: Carbon Monoxide Area Information&lt;/a&gt;: the Green Book also contains nonattainment and maintenance area information for the other criteria pollutants&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;sip&quot; id=&quot;sip&quot;&gt;&lt;/a&gt;What are the state implementation plan (SIP) requirements?&lt;/h2&gt;
+
+&lt;p&gt;Air quality standards get applied, or implemented, through controlling air pollution from emission sources. Each state is required to develop a plan for how they will control air pollution within their jurisdiction. This plan is called a State Implementation Plan (SIP).&lt;/p&gt;
+
+&lt;p&gt;In general, the SIP consists of:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;air quality monitoring&lt;/li&gt;
+	&lt;li&gt;air quality modeling&lt;/li&gt;
+	&lt;li&gt;emission inventories&lt;/li&gt;
+	&lt;li&gt;emission control strategies;&lt;/li&gt;
+	&lt;li&gt;contingency measures; and&lt;/li&gt;
+	&lt;li&gt;documents (policies and rules) that the state uses to attain and maintain the NAAQS.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A state must engage the public, through notices and public hearings, before sending the SIP to EPA for approval. Tribes may develop plans if they choose to do so, otherwise EPA will develop an implementation plan for them.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ozone-pollution/basics-sip-requirements&quot;&gt;Basics of SIP Requirements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants/naaqs-implementation-process&quot;&gt;Learn more about the NAAQS implementation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;attain&quot; id=&quot;attain&quot;&gt;&lt;/a&gt;How do states develop SIPs and start (or continue) attaining the standards?&lt;/h2&gt;
+
+&lt;div&gt;
+	&lt;ul class=&quot;roomy&quot;&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;An infrastructure SIP, or i-SIP, is a requirement for all states, regardless of designation. Even areas in attainment must demonstrate what controls they will continue to use and regulate in order to remain in attainment.&lt;span&gt; &lt;/span&gt;
+
+			&lt;ul&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;a href=&quot;/ozone-pollution/infrastructure-state-implementation-plan-sip-requirements-and-guidance&quot;&gt;Infrastructure SIP&lt;/a&gt; includes requirements, assistance contacts, and guidance documents.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+		&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;a href=&quot;/ozone-pollution/redesignation-and-clean-data-policy-cdp&quot;&gt;&lt;span&gt;&lt;span&gt;Redesignations and Clean Data Policy (CDP)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;: States with a&lt;/span&gt;&lt;span&gt;&lt;span&gt;reas that are starting to monitor attainment can demonstrate attainment using air quality modeling and other analyses.&lt;/span&gt;&lt;/span&gt;
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ozone-pollution/procedures-processing-requests-redesignate-areas-attainment&quot;&gt;Procedures for Processing Requests to Redesignate Areas to Attainment&lt;/a&gt;: read about maintenance plans and maintenance demonstration, starting on page seven&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+		&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;span&gt;&lt;span&gt;EPA evaluates the submitted SIPs, then issues a notice, indicating that either the SIP has been approved or needs additional work. Once the SIP has been approved, the state implements its air pollution control strategies to gradually reduce CO pollution. &lt;/span&gt;&lt;/span&gt;
+			&lt;ul&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;span&gt;&lt;span&gt;​&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_s.html&quot;&gt;Get information about the SIP status for each state&lt;/a&gt;, &lt;/span&gt;&lt;/span&gt;including tribal implementation plans (TIPs)&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jul 2016 15:23:29 +0000</pubDate>
+ <dc:creator>msouth</dc:creator>
+ <guid isPermaLink="false">154819 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Basic Information about Carbon Monoxide (CO) Outdoor Air Pollution</title>
+    <link>https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#What is CO&quot;&gt;What is CO?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Effects&quot;&gt;What are the harmful effects of CO?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Reduce&quot;&gt;What is being done to reduce CO pollution?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;What is CO&quot; id=&quot;What is CO&quot;&gt;&lt;/a&gt;What is CO?&lt;/h2&gt;
+
+&lt;p&gt;CO is a colorless, odorless gas that can be harmful when inhaled in large amounts. CO is released when something is burned. The greatest sources of CO to outdoor air are cars, trucks and other vehicles or machinery that burn fossil fuels. A variety of items in your home such as unvented kerosene and gas space heaters, leaking chimneys and furnaces, and gas stoves also release CO and can affect air quality indoors.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/indoor-air-quality-iaq/carbon-monoxides-impact-indoor-air-quality&quot;&gt;CO&#039;s impact on indoor air quality&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Effects&quot; name=&quot;Effects&quot;&gt;&lt;/a&gt;What are the harmful effects of CO?&lt;/h2&gt;
+
+&lt;p&gt;Breathing air with a high concentration of CO reduces the amount of oxygen that can be transported in the blood stream to critical organs like the heart and brain.&lt;/p&gt;
+
+&lt;p&gt;At very high levels, which are  possible indoors or in other enclosed environments, CO can cause dizziness, confusion, unconsciousness and death.&lt;/p&gt;
+
+&lt;p&gt;Very high levels of CO are not likely to occur outdoors. However, when CO levels are elevated outdoors, they can be of particular concern for people with some types of heart disease. These people already have a reduced ability for getting oxygenated blood to their hearts in situations where the heart needs more oxygen than usual. They are especially vulnerable to the effects of CO when exercising or under increased stress. In these situations, short-term exposure to elevated CO may result in reduced oxygen to the heart accompanied by chest pain also known as angina.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Reduce&quot; name=&quot;Reduce&quot;&gt;&lt;/a&gt;What is being done about CO pollution?&lt;/h2&gt;
+
+&lt;div&gt;
+	&lt;div&gt;Under the Clean Air Act, EPA sets and reviews standards for CO in outdoor air.&lt;/div&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/co-pollution/setting-and-reviewing-standards-control-carbon-monoxide-co-pollution-outdoor-air&quot;&gt;Setting and Reviewing Standards to Control CO Pollution&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div&gt;EPA standards and data help state, tribal and local agencies to make sure that CO is kept at a safe level.&lt;/div&gt;
+
+	&lt;ul&gt;&lt;li&gt;Learn about &lt;a href=&quot;/co-pollution/applying-or-implementing-outdoor-air-carbon-monoxide-co-standards&quot;&gt;how air quality standards help reduce CO &lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div&gt; &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 13 Jul 2016 20:47:24 +0000</pubDate>
+ <dc:creator>jcortely</dc:creator>
+ <guid isPermaLink="false">154787 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about Carbon Monoxide (CO) Pollution</title>
+    <link>https://www.epa.gov/co-pollution/forms/contact-us-about-carbon-monoxide-co-pollution</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Environmental Protection Agency&lt;br /&gt;
+	Office of Air and Radiation (OAR) 6101A&lt;br /&gt;
+	1200 Pennsylvania Avenue, N.W.&lt;br /&gt;
+	Washington, DC 20460&lt;/p&gt;
+
+&lt;hr /&gt;</description>
+     <pubDate>Mon, 07 Mar 2016 18:14:43 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">137685 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:28:36, expires @ 2017-01-26 17:28:36, lifetime 12 hours -->

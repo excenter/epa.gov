@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/155907/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Clean Air Technology Center</title>
+    <link>https://www.epa.gov/feed/155907/rss.xml</link>
+    <description>Updated Clean Air Technology Center content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/155907/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Clean Air Technology Center Products</title>
+    <link>https://www.epa.gov/catc/clean-air-technology-center-products</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/rblc/htm/rblcprod_eg.html&quot;&gt;RBLC Products&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#factsheets&quot;&gt;CATC Air Pollution Technology Fact Sheets and Technical Bulletins&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reports&quot;&gt;Air Pollution Technical Reports&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#cost&quot;&gt;EPA Air Pollution Control Cost Manual Information&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#software&quot;&gt;Software and Manuals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#CICA&quot;&gt;CICA (US-Mexico Border Information Center on Air Pollution) Technical Resources&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#news&quot;&gt;CATC/CTC Information Bulletins and Newsletters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;factsheets&quot; name=&quot;factsheets&quot;&gt;&lt;/a&gt;CATC Air Pollution Technology Fact Sheets (FS) and Technical Bulletins (TB)&lt;/h2&gt;
+
+&lt;p&gt;The Air Pollution Control Technology Fact Sheets are short descriptions of different types of control technologies, including emission limits and reductions, application, cost, and characteristics. The Technical Bulletins are longer documents with more detailed information about specific control technologies.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view the files in this table. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Fact Sheets (FS) and Technical Bulletins (TB)&lt;/th&gt;
+			&lt;th&gt;Date Published&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ff-cartr.pdf&quot;&gt;FS: Cartridge Collector with Pulse-Jet Cleaning (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 34 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div&gt;(Also referred to as Extended Media)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fcyclon.pdf&quot;&gt;FS: Cyclone (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 30 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/felutri.pdf&quot;&gt;FS: Elutriators (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 34 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fmechan.pdf&quot;&gt;FS: Mechanically-Aided Separators (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 20 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fmoment.pdf&quot;&gt;FS: Momentum Separators (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 23 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fsetling.pdf&quot;&gt;FS: Settling Chambers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 28 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fcondnse.pdf&quot;&gt;FS: Condensation Scrubber (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 21 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fiberbed.pdf&quot;&gt;FS: Fiber-Bed Scrubber (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 20 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fimpinge.pdf&quot;&gt;FS: Impingement-Plate/ Tray-Tower Scrubber (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 29 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fmechcal.pdf&quot;&gt;FS: Mechanically-Aided Scrubber (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 21 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/forifice.pdf&quot;&gt;FS: Orifice Scrubber (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 23 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fpack.pdf&quot;&gt;FS: Packed-Bed/ Packed-Tower Wet Scrubber (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 31 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fsprytwr.pdf&quot;&gt;FS: Spray-Chamber/ Spray-Tower Wet Scrubber (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 28 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fventuri.pdf&quot;&gt;FS: Venturi Scrubber (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 24 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fcataly.pdf&quot;&gt;FS: Catalytic Incinerator (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 31 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fflare.pdf&quot;&gt;FS: Flare (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 29 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/frecup.pdf&quot;&gt;FS: Incinerator - Recuperative Type (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 30 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fregen.pdf&quot;&gt;FS: Incinerator - Regenerative Type (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 29 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fthermal.pdf&quot;&gt;FS: Thermal Incinerator (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 30 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ff-hepa.pdf&quot;&gt;FS: High Efficiency Particle Air (HEPA) Filter and Ultra Low Penetration Air (ULPA) Filter (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 36 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div&gt;(Also referred to as Extended Media)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ff-shaker.pdf&quot;&gt;FS: Fabric Filter - Mechanical Shaker-Cleaned Type with and without Sonic Horn Enhancement (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 32 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div&gt;(Also referred to as Baghouses)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ff-pulse.pdf&quot;&gt;FS: Fabric Filter - Pulse-Jet Cleaned Type (Also referred to as Baghouses) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 32 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ff-revar.pdf&quot;&gt;FS: Fabric Filter - Reverse-Air/Reverse-Jet Cleaned Type with and without Sonic Horn enhancement (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 36 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div&gt;(Also referred to as Baghouses)&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fdespwpi.pdf&quot;&gt;FS: Dry Electrostatic Precipitator (ESP) - Wire-Pipe Type (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 29 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fdespwpl.pdf&quot;&gt;FS: Dry Electrostatic Precipitator (ESP) - Wire-Plate Type (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 33 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fwespwpi.pdf&quot;&gt;FS: Wet Electrostatic Precipitator (ESP) - Wire-Pipe Type (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 27 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fwespwpl.pdf&quot;&gt;FS: Wet Electrostatic Precipitator (ESP) - Wire-Plate (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 31 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fsncr.pdf&quot;&gt;FS: Selective Non-Catalytic Reduction (SNCR) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 24 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fscr.pdf&quot;&gt;FS: Selective Catalytic Reduction (SCR) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 27 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fpte.pdf&quot;&gt;FS: Permanent Total Enclosures (PTE) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 21 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ffdg.pdf&quot;&gt;FS: Flue Gas Desulfurization (FGD) - Wet, Spray Dry, and Dry Scrubbers (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 34 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fnonthrm.pdf&quot;&gt;TB: Using Non-Thermal Plasma to Control Air Pollutants (EPA 456/R-05-001) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 80 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fbiorect.pdf&quot;&gt;TB: Using Bioreactors to Control Air Pollution (EPA 456/R-03-003) (PDF&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(39 pp, 324 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/refrigeratedcondensers.pdf&quot;&gt;TB: Refrigerated Condensers for Control of Organic Air Emissions (EPA 456/R-01-004) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 245 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fuv-eb.pdf&quot;&gt;TB: Ultraviolet and Electron Beam (UV/EB) Cured Coatings, Inks and Adhesives (EPA 456/K-01-001) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(99 pp, 702 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fnoxdoc.pdf&quot;&gt;TB: Nitrogen Oxides (NO&lt;sub&gt;x&lt;/sub&gt;), Why and How They are Controlled (EPA 456/F-99-006R) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(57 pp, 299 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fadsorb.pdf&quot;&gt;TB: Choosing an Adsorption System for VOC: Carbon, Zeolite, or Polymers? (EPA 456/F-99-004) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 263 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/fzeolite.pdf&quot;&gt;TB: Zeolite: A Versatile Air Pollutant Adsorber (EPA 456/F-98-004) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 157 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;reports&quot; name=&quot;reports&quot;&gt;&lt;/a&gt;Air Pollution Technical Reports&lt;/h2&gt;
+
+&lt;p&gt;Emission control technology reports for a variety of sources and pollutants.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view the files in this table. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Technical Reports&lt;/th&gt;
+			&lt;th&gt;Date Published&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/adsil_report.pdf&quot;&gt;Evaluation of Savings from the Application of Adsil in the NC/SC Charlotte Area (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(314 pp, 1.5 M)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/adsil_readme.txt&quot;&gt;Adsil READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 p, 6 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/degradation_tool.xls&quot;&gt;Degradation prediction tool (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/savings_tool.xls&quot;&gt;Energy savings projection tool (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(45 K)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=2000NT9X.PDF&quot;&gt;Spray Booth Cleaning Emission Reduction Technology Review-Automobile Assembly Plants, EPA-453/R-94-029 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(214 pp, 8 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/etech_pd.pdf&quot;&gt;Emerging Technologies for the Management and Utilization of Landfill Gas, EPA-600/R-98-021 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(67 pp, 3 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100KG5V.PDF&quot;&gt;Emissions from Outdoor Wood-Burning Residential Hot Water Furnaces, EPA-600/R-98-017 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(220 pp, 5 M)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/hwatrpdf.zip&quot;&gt;Spreadsheets and figures in PDF (ZIP)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(234 K)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;1998&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/finepmtech.pdf&quot;&gt;Stationary Source Control Techniques Document for Fine Particulate Matter, EPA-452/R-97-001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(286 pp, 982 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=00001WZ8.PDF&quot;&gt;Technical Information Document for Residential Wood Combustion Best Available Control Measures, EPA-450/2-92-002 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(100 pp, 3.3 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=2000JCJE.PDF&quot;&gt;Fugitive Dust Background Document and Technical Information Document for Best Available Control Measures, EPA-450/2-92-004 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(194 pp,  6.4 m)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=00001X20.PDF&quot;&gt;Prescribed Burning Background Document and Technical Information Document for Best Available Control Measures, EPA-450/2-92-003 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(346 pp, 15 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;Air Emissions from the Treatment of Soils Contaminated with Petroleum Fuels and Other Substances EPA-600/R-97-116&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/soilread.txt&quot;&gt;Report READ ME (TXT)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 p, 4 K)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/soil_pdf.zip&quot;&gt;Report sections in PDF (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(545 K)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/tire_eng.pdf&quot;&gt;Air Emissions from Scrap Tire Combustions, EPA-600/R-97-115 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(117 pp, 650 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/barlbrn1.pdf&quot;&gt;Evaluation of Emissions from the Open Burning of Household Waste in Barrels - Volume I. Technical Report, EPA-600/R-97-134a (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(79 pp, 278 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/barlbrn2.pdf&quot;&gt;Evaluation of Emissions from the Open Burning of Household Waste in Barrels - Volume 2. Appendices A-G, EPA-600/R-97-134b (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(136 pp, 2 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=2000IMXS.PDF&quot;&gt;Evaluation of Mercury Emissions from Fluorescent Lamp Crushing, EPA-453/R-94-018 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 1.19 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=91009258.PDF&quot;&gt;Oil Suppression of Particulate Matter at Grain Elevators, EPA-453/R-94-049 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(57 pp, 3 M)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/byndract.pdf&quot;&gt;Beyond VOC RACT CTG Requirements, EPA-453/R-95-010 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(451 pp, 711 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ammonia.pdf&quot;&gt;Control and Pollution Prevention Options for Ammonia Emissions, EPA-456/R-95-002 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(69 pp, 197 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/nitric.pdf&quot;&gt;Alternative Control Technique (ACT) Document-NO&lt;sub&gt;x&lt;/sub&gt; Nitric and Adipic Acid Plants, EPA-450/3-91-026 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(147 pp, 408 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1991&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/cement.pdf&quot;&gt;Alternative Control Technique (ACT) Document-NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Cement Manufacturing, EPA453/R-94-004 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(198 pp, 609 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/cement_updt_1107.pdf&quot;&gt;Alternative Control Technique (ACT) Document-NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Cement Manufacturing Update, EPA453/R-07-006 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(129 pp, 1.7 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;2007&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/low_vo.pdf&quot;&gt;Survey of Control Techniques for Low Concentration Organic Vapor Gas Streams, EPA-456/R-95-003 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(123 pp, 655 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1995&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/procheat.pdf&quot;&gt;Alternative Control Technique (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Process Heater, Revised, EPA-453/R-93-034 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(316 pp, 1 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/glassact.pdf&quot;&gt;Alternative Control Techniques (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Glass Manufacturing, EPA-453/R-94-037 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(272 pp, 850 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/iron_act.pdf&quot;&gt;Alternative Control Techniques (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Iron and Steel Mills, EPA-453/R-94-065 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(159 pp, 581 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/gasturb.pdf&quot;&gt;Alternative Control Techniques (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Stationary Gas Turbines EPA-453/R-93-007 (PDF)&lt;span class=&quot;fileinfo&quot;&gt;(399 pp, 1.7 M)&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/w_oilacr.pdf&quot;&gt;Vermont Used Oil Analysis and Waste Oil Furnace Emissions Study, EPA-456/R-96-001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(75 pp, 191 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=9100CEM0.PDF&quot;&gt;Fractional Penetration of Paint Overspray Arrestors (Paint Spray Booth filters), EPA-600/R-97-011 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(108 pp, 6 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1997&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=9100CEGP.PDF&quot;&gt;Assessment of Styrene Emission Controls for FRP/C and Boat Building Industries EPA-600/R-96-109 (PDF) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(132 pp, 6 M)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;div&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=9100CEKD.PDF&quot;&gt;Addendum to Assessment of Styrene Emission Controls for FRP/C and Boat Building Industries, EPA-600/R-96-136 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 pp, 3 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;indented&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/sty-sprd.zip&quot;&gt;Assessment of Styrene Emission Controls for FRP/C and Boat Building Industries XLS spreadsheets (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 K)&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/icboiler.pdf&quot;&gt;Alternative Control Techniques (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Industrial/Commercial/Institutional (ICI) Boilers, EPA-453/R-94-022 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(589 pp, 1 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/utboiler.pdf&quot;&gt;Alternative Control Techniques (ACT) Document - NO&lt;sub&gt;x&lt;/sub&gt; Emissions from Utility Boiler, EPA-453/R-94-023 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(933 pp, 1.5 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=2000IJLJ.PDF&quot;&gt;Alternative Control Techniques (ACT) Document - Internal Combustion NO&lt;sub&gt;x&lt;/sub&gt; Parts 1 and 2, EPA-453/R-93-032 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(317 pp, 12 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1993&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/debris.pdf&quot;&gt;Evaluation of Emissions from the Open Burning of Land-Clearing Debris, EPA-600/R-96-128 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(115 pp, 620 K)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101K60X.txt&quot;&gt;The Measurement Solution - Using a Temporary Total Enclosure for Capture Efficiency Testing, EPA-450/4-91-020a (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(147 pp, 5 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1991&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/asphlt_roof.pdf&quot;&gt;Evaluation of VOC Emissions from Heated Roofing Asphalt, EPA-600/2-91-061 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(62 pp, 1.2 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1991&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/ink_paint.pdf&quot;&gt;Control of VOC Emissions from Ink and Paint Manufacturing Processes, EPA-450/3-92-013 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(198 pp, 7.4 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1992&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/wood_waste.pdf&quot;&gt;Wood Products in the Waste Stream - Characterization and Combustion Emissions, EPA-600/R-96-119a (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(310 pp, 17.4 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1996&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/traffic_mark.pdf&quot;&gt;Reduction of Volatile Organic Compound Emissions from the Application of Traffic Markings, EPA-450/3-88-007 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 1.5 M)&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;1988&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;cost&quot; name=&quot;cost&quot;&gt;&lt;/a&gt;EPA Air Pollution Control Cost Manual Information&lt;/h2&gt;
+
+&lt;p&gt;The EPA Air Pollution Control Cost Manual has been relocated to the &lt;a href=&quot;/economic-and-cost-analysis-air-pollution-regulations/cost-reports-and-guidance-air-pollution&quot;&gt;Economic and Cost Analysis for Air Pollution Regulations website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;software&quot; name=&quot;software&quot;&gt;&lt;/a&gt;EPA Software and Manuals&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Coal Utility Environmental Cost (CUECost) Model Version 1.0, 2000&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/cuecost.txt&quot;&gt;READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 p, 4 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/cuecostw.zip&quot;&gt;MS Excel Model with documentation in WORD (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 M)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/cuecostp.zip&quot;&gt;MS Excel Model with documentation in Acrobat (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 M)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/landgem-v302.xls&quot;&gt;Landfill Gas Emissions Model (LandGEM), Version 3.02, 2005 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2.6 M)&lt;/span&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/landgem-v302.txt&quot;&gt;READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 p, 4 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/landgem-v302-guide.pdf&quot;&gt;Landfill Gas Emissions Model (LandGEM) Version 3.02 User’s Guide, EPA-600/R-05/047 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 1.3 M, May 2005, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;NOTE - The problem that was discovered in version 3.01 of the LandGEM Model has been corrected.&lt;/small&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/aca.exe&quot;&gt;Air Compliance Advisor (ACA) Air Pollution Control Technology Evaluation Model Version 7.5, 2003 (EXE)&lt;/a&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/acaread.txt&quot;&gt;READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 p, 4 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/acaguide.pdf&quot;&gt;Air Compliance Advisor User Guide - Version 7.5 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(175 pp, 9.7 M, 2003, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;http://infohouse.p2ric.org/ref/19/18161/index.cfm.htm&quot;&gt;Solvent Alternatives Guide (SAGE), 2001&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/espmodel.zip&quot;&gt;Electrostatic Precipitator (ESP) Model, Version 4.0A, 1996 (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(600 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/espmodel.txt&quot;&gt;READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/espmanul.zip&quot;&gt;User’s Manual in WordPerfect (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(111 K)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/iapcs_5a.zip&quot;&gt;Integrated Air Pollution Control System Program (IAPCS) Model, Version 5a, 1997 (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(347 K)&lt;/span&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/iapcs_5a.txt&quot;&gt;READ ME (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/iapcswp5.zip&quot;&gt;User’s Manual in WordPerfect (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(165 K)&lt;/span&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;CICA&quot; name=&quot;CICA&quot;&gt;&lt;/a&gt;Centro de Información sobre Contaminación de Aire (&lt;/strong&gt;CICA) Products&lt;/h2&gt;
+
+&lt;p&gt;The resources either provide information on air quality, or are tools to assess air quality along the U.S.-Mexico border and other areas, especially Spanish speaking countries. This information is available on the &lt;a href=&quot;https://www3.epa.gov/ttn/catc/cica/atech_e.html&quot;&gt;CICA Technical Resources webpage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;news&quot; name=&quot;news&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;CATC/CTC Information Bulletins and Newsletters&lt;/h2&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/necatcb1.pdf&quot;&gt;CATC Information Bulletin (#1), Winter 1998&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 27 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/necatcb2.pdf&quot;&gt;CATC Information Bulletin (#2), Fall 1998&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 92 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/necatc3.pdf&quot;&gt;CATC Information Bulletin (#3), Summer 1999&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 55 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news_v4.zip&quot;&gt;CTC News, all 1992 editions in ASCII text (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt; (44 K)&lt;/span&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news_v5.zip&quot;&gt;CTC News, all 1993 editions in ASCII text (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 K)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news_v6.zip&quot;&gt;CTC News, all 1994 editions in ASCII text (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(60 K)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news1094.pdf&quot;&gt;CTC News, October 1994 edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 175 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0195.pdf&quot;&gt;CTC News, January 1995 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 183 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0195.pdf&quot;&gt;CTC News, April 1995 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 250 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0795.pdf&quot;&gt;CTC News, July 1995 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 103 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news1095.pdf&quot;&gt;CTC News, October 1995 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 156 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0496.pdf&quot;&gt;CTC News, April 1996 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 253 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0796.pdf&quot;&gt;CTC News, July 1996 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 102 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0996.pdf&quot;&gt;CTC News, September 1996 Special Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 242 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0996.pdf&quot;&gt;CTC News, January 1997 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 148 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/catc/dir1/news0797.pdf&quot;&gt;CTC News, July 1997 Edition (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 279 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 15:58:08 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">157093 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>About the Clean Air Technology Center</title>
+    <link>https://www.epa.gov/catc/about-clean-air-technology-center</link>
+    <description>&lt;p&gt;The Clean Air Technology Center (CATC) serves as a resource on all areas of emerging and existing air pollution prevention and control technologies, and provides public access to data and information on their use, effectiveness and cost. In addition, the CATC will provide technical support, including access to EPA&#039;s knowledge base, to government agencies and others, as resources allow, related to the technical and economic feasibility, operation and maintenance of these technologies.&lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Data&quot;&gt;Overview of Data Resources&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#public&quot;&gt;Public Access and Information Transfer&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#communications&quot;&gt;Comunications&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#RBLC&quot;&gt;RACT/BACT/LAER Clearinghouse&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Related&quot;&gt;Related Programs and Centers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;Data&quot; name=&quot;Data&quot;&gt;&lt;/a&gt;Data Resources&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/RBLC/index.cfm?action=Home.Home&amp;amp;lang=en&quot;&gt;&lt;strong&gt;RACT/BACT/LAER Clearinghouse (RBLC) &lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+		Query, view and download data you select on
+		&lt;ul&gt;&lt;li&gt;Source Specific Technology Applications&lt;/li&gt;
+			&lt;li&gt;Air Pollution Regulatory Requirements&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/catc/clean-air-technology-center-products&quot;&gt;&lt;strong&gt;CATC PRODUCTS &lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+		Download technical reports, cost information and software.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;public&quot; name=&quot;public&quot;&gt;&lt;/a&gt;Public Access and Information Transfer&lt;/h2&gt;
+
+&lt;p&gt;The CATC&#039;s homepage provides full access to most CATC products and services and links to related programs and web sites. Download CATC and RBLC products, access CICA services and products through the link to this special site, search technology and regulation data and generate your own report, check air quality along the U.S.-Mexico border or send us an E-Mail with your question or comments. Just open our web site and check it out. Remember to add a bookmark in your web browser because you will want to come back!&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;communications&quot; name=&quot;communications&quot;&gt;&lt;/a&gt;Communications&lt;/h2&gt;
+
+&lt;p&gt;If you want to do things the old fashioned way and talk to a real live person, give us a call on the CATC Info-Line. CICA, the CATCs technical support program for the U.S.-Mexico border, also provides a Spanish language Info-Line and toll-free service from Mexico. You can call the CATC on any of these numbers. We will be happy to answer your questions or direct you to an EPA staff expert on the subject or an appropriate EPA information source or service. If you do happen to get our voice mail we will usually get back to you the same day. Our normal business hours are 8:00 a.m. to 4:30 p.m. eastern time Monday through Friday. Voicemail is available during non-business hours and we will return your call the next business day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contact Information&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CATC Info-Line: (919) 541-0800 (English)&lt;br /&gt;
+	CATC/CICA Info-Line:(919) 541-1800 (Spanish)&lt;br /&gt;
+	Toll-Free from Mexico (800) 304-1115 (Spanish)&lt;br /&gt;
+	FAX: (919) 541-0242&lt;br /&gt;
+	E-Mail: &lt;a href=&quot;mailto:catcmail@epamail.epa.gov&quot;&gt;catcmail@epamail.epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;RBLC&quot; name=&quot;RBLC&quot;&gt;&lt;/a&gt;RACT/BACT/LAER Clearinghouse&lt;/h2&gt;
+
+&lt;p&gt;CATC maintains a technology data base called the &lt;a href=&quot;https://cfpub.epa.gov/RBLC/index.cfm?action=Home.Home&amp;amp;lang=en&quot;&gt;RACT/BACT/LAER Clearinghouse&lt;/a&gt;, or RBLC. The RBLC provides data on prevention and control technology determinations made primarily by state and local permitting agencies. The Clearinghouse contains over 3,500 determinations that can help you identify appropriate technologies to mitigate or treat most air pollutant emission streams. The RBLC was designed to help permit applicants and reviewers make pollution prevention and control technology decisions for stationary air pollution sources and includes data submitted by 50 states and territories in the U.S. on over 200 different air pollutants and 1,000 industrial processes.&lt;/p&gt;
+
+&lt;p&gt;Query the RBLC data on-line and choose what you want to see by making selections in a user-friendly query routine or selecting search criteria. The result is a data set that you have created that can either be viewed, printed or downloaded to your PC. You are in control!&lt;/p&gt;
+
+&lt;p&gt;* NOTE: Are you wondering what “RACT, BACT and LAER” stand for and why these acronyms are part of the Clearinghouse name? They are acronyms for different program requirements required under the Clean Air Act which also gave us the name “RACT/BACT/ LAER Clearinghouse.” RACT, or Reasonably Available Control Technology, is required on existing sources in areas that are not meeting national ambient air quality standards (i.e.,non-attainment areas). BACT, or Best Available Control Technology is required on major new or modified sources in clean areas (i.e., attainment areas). LAER, or Lowest Achievable Emission Rate, is required on major new or modified sources in nonattainment areas. However, data in the Clearinghouse is not limited just to sources subject to these requirements. Noteworthy prevention and control technology decisions are included in the RBLC even if they are not related to RACT, BACT, or LAER decisions.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;related&quot; name=&quot;related&quot;&gt;&lt;/a&gt;Related Programs and Centers&lt;/h2&gt;
+
+&lt;h3&gt;CICA - U.S.-Mexico Border Information Center on Air Pollution / &lt;em&gt;Centro de Información sobre Contaminación de Aire&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;CICA provides technical support and assistance in evaluating air pollution problems along the U.S. -Mexico border. It provides a bilingual (Spanish/English) information line and website. The website includes air quality data for the border, information on border air quality programs and CICA projects, downloadable products generated by CICA and others on border air pollution problems and solutions, and links to other related websites. Access CICA through the CATC website, or &lt;a href=&quot;https://www3.epa.gov/ttn/catc/cica/index.html&quot;&gt;access CICA directly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;International Technology Transfer Center for Global Greenhouse Gases&lt;/h3&gt;
+
+&lt;p&gt;The International Technology Transfer Center for Global Greenhouse Gases provides technology transfer regarding greenhouse gas emissions. This assistance includes characterizations of global emissions from anthropogenic sources, and available prevention, mitigation, and control technologies/ strategies for major sources of greenhouse gases. Information is available for methane emissions from landfills and other waste management facilities, the natural gas industry, and coal mining. In addition, information is available on biomass utilization for energy generation and production of liquid fuel, and for pollution prevention technologies.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 13:34:24 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">157047 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about the Clean Air Technology Center</title>
+    <link>https://www.epa.gov/clean-air-technology-center/forms/contact-us-about-clean-air-technology-center</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;strong&gt;Report a Violation&lt;/strong&gt;&lt;/a&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;strong&gt;Contact Information:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;div&gt;CATC Info-Line: (919) 541-0800 (English)&lt;br /&gt;
+	CATC/CICA Info-Line:(919) 541-1800 (Spanish)&lt;br /&gt;
+	Toll-Free from Mexico (800) 304-1115 (Spanish)&lt;br /&gt;
+	FAX: (919) 541-0242&lt;br /&gt;
+	E-Mail: &lt;a href=&quot;mailto:catcmail@epamail.epa.gov&quot;&gt;catcmail@epamail.epa.gov&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;div&gt;Clean Air Technology Center/RBLC (MD-D243-01)&lt;br /&gt;
+	U.S. Environmental Protection Agency&lt;br /&gt;
+	Research Triangle Park, NC 27711&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;You can also use the form below to send us a question or comment. Be sure to include your e-mail address if you would like a response.&lt;/div&gt;
+</description>
+     <pubDate>Wed, 27 Jul 2016 19:28:40 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">155909 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:56:09, expires @ 2017-01-26 15:56:09, lifetime 12 hours -->

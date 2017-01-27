@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/52029/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Geospatial Resources at EPA</title>
+    <link>https://www.epa.gov/feed/52029/rss.xml</link>
+    <description>Updated Geospatial Resources at EPA content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/52029/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EPA Metadata Technical Specification Changelog</title>
+    <link>https://www.epa.gov/geospatial/epa-metadata-technical-specification-changelog</link>
+    <description>&lt;h2&gt;&lt;strong&gt;Introduction: &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;This document reflects the updates made to the &lt;a href=&quot;/geospatial/epa-geospatial-metadata-technical-specification&quot;&gt;2007 EPA Geospatial Metadata Technical Specification v1.0&lt;/a&gt; in the &lt;a href=&quot;/geospatial/epa-metadata-technical-specification&quot;&gt;2016 EPA Metadata Technical Specification v2.0&lt;/a&gt;. The majority of these changes are in response to the White House’s Open Data Initiative &lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/&quot;&gt;Project Open Data Schema&lt;/a&gt; as well as to the &lt;a href=&quot;http://webstore.ansi.org/RecordDetail.aspx?sku=ISO+19115-1%3a2014&quot;&gt;ISO 19115 Metadata Standards&lt;/a&gt;. EPA will soon release a new version of the EPA Metadata Editor that assists with transforming metadata records from &lt;a href=&quot;https://www.fgdc.gov/metadata/csdgm-standard&quot;&gt;FGDC CSDGM&lt;/a&gt; to ISO 19115 in ArcCatalog.&lt;/p&gt;
+
+&lt;h2&gt;Changelog:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mappings to other Formats - &lt;/strong&gt;All guidance has been updated to reflect &lt;a href=&quot;https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings&quot;&gt;official FGDC mappings between ISO and POD&lt;/a&gt; – this does differ in some respects from our EME 3.2.1 and EME 4.0 guidance, but the impact to users should be negligible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Purpose &lt;/strong&gt;– This element was previously mandatory and is now optional. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords/Tags&lt;/strong&gt; – One ISO keyword was previously mandatory, and an &quot;EPA Keyword&quot; was optional. This is still the case, though the choices for each have been expanded. Three additional mandatory keywords have been added – one &quot;place&quot; keyword representing one or more geographic feature names describing the range of spatial applicability of the dataset, one &quot;EPA Organization&quot; keyword identifying the organization within the EPA responsible for the stewardship of this dataset, and one &quot;Federal Program Code&quot; keyword as mandated by the federal Office of Management and Budget. The first two new requirements are based on guidance that has been present in the EPA Generic Metadata Styleguide for several years, while the third is part of Project Open Data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Currency, Progress of Data&lt;/strong&gt; – These elements were previously mandatory and are now optional. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Constraints &lt;/strong&gt;– These elements have been reorganized and simplified with no material changes from the guidance issued in EME 3.2.1 or EME 4.0.  Access Level and Rights are new, mandatory fields introduced since the original 2007 Metadata Technical Specification for Project Open Data compliance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data License&lt;/strong&gt; – This element was previously optional and is now mandatory but will be the same for almost all EPA records.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contacts &lt;/strong&gt;– Guidance has been significantly simplified. Only two contacts are mandatory – a Publisher and a Metadata Responsible Party. Many other contacts may be provided, but these are the only mandatory elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FileIdentifier &lt;/strong&gt;– This element was previously optional and is now mandatory. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Language and Country Code&lt;/strong&gt; – These are new mandatory elements but will be the same for almost all EPA records. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Temporal Extent &lt;/strong&gt;– This element was previously optional and remains optional, but a TimeInstant is no longer an acceptable value. Instead a time interval with a beginning and end time is expected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Quality&lt;/strong&gt; – The previously mandatory elements were Logical Integrity, Completeness, and Horizontal Positional Accuracy. The new specification requires only a single mandatory &quot;Scope&quot; code (usually dataset) and a single free text &quot;Lineage&quot; description, however, rigorous and thorough data quality metadata are still highly recommended and may be mandatory per the &lt;a href=&quot;/quality&quot;&gt;quality guidelines specific to each EPA organization&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Entity/Attribute information &lt;/strong&gt;– This entire section has always been optional and remains optional, though highly recommended. If the section is included, certain elements are required for every attribute in order for the whole section to be considered valid. These elements include Label, Definition, Definition Source, Type, and Width. Type and width are new requirements but can be derived from the data.  Attribute Domain is no longer mandatory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Metadata Timestamp&lt;/strong&gt; – This element has always been mandatory and remains mandatory. &lt;/p&gt;
+</description>
+     <pubDate>Tue, 06 Dec 2016 00:40:36 +0000</pubDate>
+ <dc:creator>thultgre</dc:creator>
+ <guid isPermaLink="false">166443 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Metadata Technical Specification</title>
+    <link>https://www.epa.gov/geospatial/epa-metadata-technical-specification</link>
+    <description>&lt;h3&gt;Introduction:&lt;/h3&gt;
+
+&lt;p&gt;The primary purpose of this document is to establish guidelines for publishing metadata for data sets developed by the Environmental Protection Agency (EPA).  This document is an update to the &lt;a href=&quot;/sites/production/files/2014-08/documents/epa_geospatial_metadata_technical_specification_v1_11_2_2007.pdf&quot;&gt;2007 Geospatial Metadata Technical Specification&lt;/a&gt; and reflects requirements from &lt;a href=&quot;https://project-open-data.cio.gov/&quot;&gt;Project Open Data&lt;/a&gt; and &lt;a href=&quot;http://webstore.ansi.org/RecordDetail.aspx?sku=ISO+19115-1%3a2014&quot; target=&quot;_blank&quot;&gt;ISO 19115&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;. The primary differences between the ISO 19115 standard and EPA’s implementation are that the fields required for Project Open Data have been made mandatory and follow the requirements laid out in the &lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/&quot;&gt;Project Open Data Schema 1.1&lt;/a&gt;. Please see the &lt;a href=&quot;/geospatial/epa-metadata-technical-specification-changelog&quot;&gt;changelog&lt;/a&gt; for a complete list of updates.&lt;/p&gt;
+
+&lt;p&gt;This document is not intended as a complete explanation of the implementation of either the Project Open Data or ISO 19115 standards. Rather, it is intended as a reference for guidance only on those elements that are considered important or mandatory for the EPA implementation.This implementation does not create new elements; rather it provides standard interpretation guidelines for existing elements. Mappings are provided between Project Open Data Schema, ISO 19115, FGDC CSDGM, and ArcGIS metadata. Full guidance on best practices, examples and implementation of the metadata technical specification can be found in the &lt;a href=&quot;https://edg.epa.gov/metadata/webhelp/en/gptlv10/inno/GenericMetadataGuide.pdf&quot;&gt;EPA Metadata Style Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Metadata that is compliant with this technical specification will also be compliant with minimum Project Open Data and ISO 19115 standards and thus may be shared with &lt;a href=&quot;https://www.data.gov/&quot;&gt;Data.gov&lt;/a&gt; and the &lt;a href=&quot;https://www.geoplatform.gov/&quot;&gt;National Geospatial Platform&lt;/a&gt;, as well as with EPA’s central geospatial metadata catalog, the &lt;a href=&quot;https://edg.epa.gov/metadata/catalog/main/home.page&quot;&gt;Environmental Dataset Gateway (EDG)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The EPA Metadata Technical Specification is a specification under the &lt;a href=&quot;/open/enterprise-information-management-policy-eimp-cataloging-information-procedure&quot;&gt;Enterprise Information Management Policy’s Cataloguing Procedure&lt;/a&gt;. The purpose of this procedure is to advance discovery, access and sharing of information produced by EPA by requiring that it be catalogued in an Agency information management system.&lt;/p&gt;
+
+&lt;p&gt;(Contact: Ana Greene; &lt;a href=&quot;mailto:Greene.Ana@epa.gov&quot;&gt;Greene.Ana@epa.gov&lt;/a&gt;).&lt;/p&gt;
+
+&lt;table summary=&quot;Summary table of EPA Metadata Technical Specification&quot;&gt;&lt;caption&gt;Core EPA Metadata Fields&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field Name&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Required?&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Geospatial Only?&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#title&quot;&gt;Title&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#description&quot;&gt;Description&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-general&quot;&gt;Tags (General)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Tags (or keywords) help users discover your dataset; EPA requires the use of keywords from several different standard thesauruses; please also include terms that would be used by technical and non-technical users.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-iso&quot;&gt;Tags (ISO)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The ISO 19115 Topic Category is a general categorization of data resources that is intended to provide data classification consistency across agencies.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-place&quot;&gt;Tags (Place)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;One or more geographic feature names describing the range of spatial applicability of the dataset.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-epa-org&quot;&gt;Tags (EPA Org)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The organization within the EPA responsible for the stewardship of this dataset. If this dataset is produced and maintained by an external agency, this field should be set to non-EPA.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-epa-theme&quot;&gt;Tags (EPA Theme)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Thematic keywords commonly used to describe EPA datasets, recommended to promote consistency across the agency.&lt;/td&gt;
+			&lt;td&gt;Optional&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#tags-federal-program-code&quot;&gt;Tags (Federal Program Code)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Federal program inventory code corresponding to the program responsible for the production and maintenance of this dataset.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#last-update&quot;&gt;Last Update&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Most recent date on which the dataset was changed, updated or modified, or for continually updated data, the frequency with which the data are updated.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#publishing-organization&quot;&gt;Publishing Organization&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The title of the organization responsible for publishing the dataset&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#publisher&quot;&gt;Publisher&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The name of a contact responsible for the dataset&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#publisher-email&quot;&gt;Publisher Email&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The email address where questions about this dataset should be sent.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#identifier&quot;&gt;Identifier&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;This element is a unique identifier for the metadata record. It may be a &lt;a href=&quot;https://en.wikipedia.org/wiki/Universally_unique_identifier&quot; target=&quot;_blank&quot;&gt;UUID&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_object_identifier&quot; target=&quot;_blank&quot;&gt;DOI&lt;/a&gt;.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#access-level&quot;&gt;Access Level&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The degree to which this dataset could be made publicly-available, regardless of whether it has been made available. Choices: public (Data asset is or could be made publicly available to all without restrictions), restricted public (Data asset is available under certain use restrictions), or non-public (Data asset is not available to members of the public).&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#rights&quot;&gt;Rights&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;An explanation for the selected “accessLevel” including instructions for how to access a restricted file, if applicable, or explanation for why a “non-public” or “restricted public” data asset is not “public,” if applicable. Text, 255 characters.&lt;/td&gt;
+			&lt;td&gt;Required if Access Level is not public&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#data-license&quot;&gt;Data License&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The URL to a web page describing the data license governing the use of this dataset.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#system-of-records&quot;&gt;System of Records&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;If the system is designated as a system of records under the Privacy Act of 1974, provide the URL to the System of Records Notice related to this dataset.&lt;/td&gt;
+			&lt;td&gt;Required if metadata represents a system of record&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#general-use-limitation&quot;&gt;General Use Limitation&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;This optional field allows any general use limitations to be included.&lt;/td&gt;
+			&lt;td&gt;Optional&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#spatial-extent&quot;&gt;Spatial Extent&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The range of spatial applicability of a dataset. Should include a spatial region like a bounding box but may also be a named place.&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#temporal-extent&quot;&gt;Temporal Extent&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#distribution-url&quot;&gt;Distribution URL&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;One or more URLs providing access to the dataset&lt;/td&gt;
+			&lt;td&gt;Mandatory if Applicable&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#metadata-date-stamp&quot;&gt;Metadata Date Stamp&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The date when the metadata was created or last updated&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#update-frequency&quot;&gt;Update Frequency&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The frequency with which dataset is published or updated.&lt;/td&gt;
+			&lt;td&gt;Mandatory for Geo&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#metadata-responsible-party&quot;&gt;Metadata Responsible Party&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Contact information for the party responsible for creating and maintaining the metadata.&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#language&quot;&gt;Language&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The language of the metadata document&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+			&lt;td&gt;All&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#country&quot;&gt;Country&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The country in which the metadata document was produced.&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#spatial-reference&quot;&gt;Spatial Reference&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Identification of the horizontal projections, vertical datums and temporal reference systems used.&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;#spatial-data-representation&quot;&gt;Spatial Data Representation&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Digital representation of spatial information in the dataset. (Vector/Grid, Point/Line/Polygon etc.)&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+			&lt;td&gt;Geo Only&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The tables below include additional guidance for each element, including valid value domains, examples and crosswalks to XPaths for ArcGIS Metadata, ISO 19115, the Federal Geographic Data Committee&#039;s (FGDC) Content Standard for Digital Geospatial Metadata (CSDGM). Full guidance on best practices, examples and implementation of the metadata technical specification can be found in the &lt;a href=&quot;https://edg.epa.gov/metadata/webhelp/en/gptlv10/inno/GenericMetadataGuide.pdf&quot;&gt;EPA Metadata Style Guide&lt;/a&gt;.  &lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;title&quot; name=&quot;title&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Title&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Titles should be succinct yet descriptive including the topic, and where relevant, temporal info, geography and related programs in a way that distinguishes it from other, similar resources. To this end, EPA recommends the following template:&lt;/p&gt;
+
+				&lt;pre&gt;{Subject, Geographic Extent, Relevant Time Period, Data Owner/Provider, Office/Region/Research Lab of Data Owner}&lt;/pre&gt;
+
+				&lt;p&gt;Any individual component of this title template may be omitted if not applicable. For example, there is no need to include a date if data are frequently or continuously updated. Similarly, if the geographic extent is implicit in the subject, i.e. National Hydrography Dataset, it may be omitted provided that the actual extent of the data matches the extent implied in the title (an example of a dataset whose actual extent does not match the implicitly titled extent would be National Hydrography Dataset clipped to a given state). Geographic Extent should always refer to a place name, not a bounding box or coordinates. Spell out any acronyms.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Plain Text&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;Toxics Release Inventory (TRI) Locations, Oklahoma, 2012, EPA OIAA, EPA REG 66 WQPD&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Item Description &amp;gt; Title and Overview &amp;gt; Citation &amp;gt; Titles &amp;gt; Title&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idCitation/resTitle&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#title&quot; target=&quot;_blank&quot;&gt;title&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=CI_Citation&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:title/gco:CharacterString&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/citat/citinfo/title.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/citation/citeinfo/title&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;description&quot; name=&quot;description&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Typically, this element should be used to provide a brief summary of the resource. Some of the recommended items that should be included in this field are: - general content and features - dataset form (GIS, CAD, image, Dbase, etc.) - geographic coverage (county/city name) - time period of content (begin and end date or single date) - special data characteristics or limitations&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Plain Text&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;A total of 54 GPS points were collected around the Willamette Valley, Oregon, in the fall of 1997 and spring of 1998. Locations were selected at road crossings over streams and along the Mainstem Willamette. Attention was paid to achieving relatively even spacing around the basin, including farthest extents, and along the Mainstem. Points were differentially corrected and imported into a file geodatabase, attributed to indicate location, road, stream, and notes.&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;all items except tools: Overview &amp;gt; Item Description &amp;gt; Description/Abstract tools: Overview &amp;gt; Item Description &amp;gt; Summary&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idAbs&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#description&quot; target=&quot;_blank&quot;&gt;description&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_DataIdentification&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:abstract/gco:CharacterString&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/descr/abstract.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/descript/abstract&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-general&quot; name=&quot;tags-general&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (General)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;A minimum of three keywords is required. Any helpful and descriptive keywords may be chosen, but they should enhance the additional keywords listed below.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Comma-separated values&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;vegetables, veggies, greens, leafy, spinach, kale, nutrition&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Item Description &amp;gt; Tags&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/searchKeys/keyword&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;No translation&amp;lt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-iso&quot; name=&quot;tags-iso&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (ISO)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Inclusion of one or more ISO keywords is required for minimum EPA compliancy which supports inter-Agency sharing initiatives. The ISO 19115 Topic Category is a general categorization of data resources that is intended to provide data classification consistency across agencies. Select one or more of the basic ISO keywords for a general classification of your data or application.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=ISO_Topic_Categories&quot; target=&quot;_blank&quot;&gt;https://geo-ide.noaa.gov/wiki/index.php?title=ISO_Topic_Categories&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;environment&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Topics &amp;amp; Keywords &amp;gt; Theme Keywords &amp;gt; {Keywords subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/themeKeys/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#theme&quot; target=&quot;_blank&quot;&gt;theme&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/keyword.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/keywords/theme/themekey&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-place&quot; name=&quot;tags-place&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (Place)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Inclusion of one or more place names is required for minimum EPA compliancy which supports discovery of assets by location.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Data.gov links to &lt;a href=&quot;http://www.geonames.org&quot;&gt;http://www.geonames.org/&lt;/a&gt; for official placenames. The &lt;a href=&quot;https://ofmpub.epa.gov/sor_internet/registry/termreg/searchandretrieve/taxonomies/search.do?search=&amp;amp;searchString=&amp;amp;taxonomyName=WBT%20-%20Geographic%20Locations&quot; target=&quot;_blank&quot;&gt;EPA taxonomies registry&lt;/a&gt; also includes a shorter list.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;United States&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Topics &amp;amp; Keywords &amp;gt; Place Keywords &amp;gt; {Keywords subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/placeKeys/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#spatial&quot; target=&quot;_blank&quot;&gt;spatial (for non-geo)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/keyword.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/keywords/place/placekey&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-epa-org&quot; name=&quot;tags-epa-org&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (EPA Org)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;The organization within the EPA responsible for the stewardship of this dataset, at the most specific level possible from the available choices. If this dataset is produced and maintained by an external agency, this field should be set to non-EPA.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;See the &lt;a href=&quot;https://edg.epa.gov/metadata/webhelp/en/gptlv10/inno/GenericMetadataGuide.pdf&quot;&gt;EPA Metadata Styleguide, Appendix 2&lt;/a&gt;. Work is in progress to include the organizational list in EPA&#039;s system of registries.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;OEI,OIC,IESD&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Topics &amp;amp; Keywords &amp;gt; Subtopic Keywords &amp;gt; {Keywords subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/subTopicCatKeys/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;No equivalent&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/keyword.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/keywords/theme/themekey&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-epa-theme&quot; name=&quot;tags-epa-theme&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (EPA Theme)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Optional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This field is not required for minimum EPA compliancy, but is recommended for EPA personnel and contractors in order to promote metadata consistency across the Agency. Select one or more EPA keywords (listed below) to describe your data resource where applicable. EPA Keywords should be used to describe EPA-produced assets. The provided list of keywords represents a snapshot of EPA’s Web Taxonomy from some years ago. Efforts are underway to provide guidance and tools that allow EPA metadata stewards to take advantage of the full complement of EPA’s Terminology Services, Taxonomies and Controlled Vocabularies. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;
+				&lt;table style=&quot;width:567px&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:169px&quot;&gt;Agriculture&lt;br /&gt;
+								Air&lt;br /&gt;
+								Biology&lt;br /&gt;
+								Boundaries and Base Data&lt;br /&gt;
+								Chemicals&lt;br /&gt;
+								Cleanup&lt;br /&gt;
+								Climate&lt;br /&gt;
+								Climate Change&lt;br /&gt;
+								Compliance&lt;br /&gt;
+								Conservation&lt;br /&gt;
+								Contaminant&lt;br /&gt;
+								Disaster&lt;br /&gt;
+								Drinking Water&lt;br /&gt;
+								Ecological&lt;br /&gt;
+								Ecology&lt;/td&gt;
+							&lt;td style=&quot;width:145px&quot;&gt;Ecosystem&lt;br /&gt;
+								Emergency&lt;br /&gt;
+								Emergency Response&lt;br /&gt;
+								Energy&lt;br /&gt;
+								Enforcement&lt;br /&gt;
+								Environment&lt;br /&gt;
+								Environmental Justice&lt;br /&gt;
+								Estuary&lt;br /&gt;
+								Exposure&lt;br /&gt;
+								Facilities&lt;br /&gt;
+								Grants&lt;br /&gt;
+								Ground Water&lt;br /&gt;
+								Hazards&lt;br /&gt;
+								Health&lt;br /&gt;
+								Human&lt;/td&gt;
+							&lt;td style=&quot;width:121px&quot;&gt;Impact&lt;br /&gt;
+								Indicator&lt;br /&gt;
+								Indoor Air&lt;br /&gt;
+								Inspections&lt;br /&gt;
+								Land&lt;br /&gt;
+								Management&lt;br /&gt;
+								Marine&lt;br /&gt;
+								Modeling&lt;br /&gt;
+								Monitoring&lt;br /&gt;
+								Natural Resources&lt;br /&gt;
+								Permits&lt;br /&gt;
+								Pesticides&lt;br /&gt;
+								Quality&lt;br /&gt;
+								Radiation&lt;br /&gt;
+								Recreation&lt;/td&gt;
+							&lt;td style=&quot;width:131px; vertical-align:top&quot;&gt;Regulated Facilities&lt;br /&gt;
+								Regulatory&lt;br /&gt;
+								Remediation&lt;br /&gt;
+								Response&lt;br /&gt;
+								Risk&lt;br /&gt;
+								Sites&lt;br /&gt;
+								Spills&lt;br /&gt;
+								Surface Water&lt;br /&gt;
+								Sustainability&lt;br /&gt;
+								Toxics&lt;br /&gt;
+								Transportation&lt;br /&gt;
+								Waste&lt;br /&gt;
+								Water&lt;/td&gt;
+						&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Topics &amp;amp; Keywords &amp;gt; Subtopic Keywords &amp;gt; {Keywords subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/subTopicCatKeys/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/keyword.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/keywords/theme/themekey&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;tags-federal-program-code&quot; name=&quot;tags-federal-program-code&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Tags (Federal Program Code)&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;A program code is mandatory for all federal agencies. More information about the Federal Program Inventory is available in a &lt;a href=&quot;https://www.performance.gov/sites/default/files/files/Federal_Program_Inventory_Fact_Sheet_.pdf&quot; target=&quot;_blank&quot;&gt;Fact Sheet&lt;/a&gt; and a &lt;a href=&quot;http://www.gao.gov/products/GAO-15-83&quot; target=&quot;_blank&quot;&gt;Report&lt;/a&gt;. Program codes should be entered as a separate keyword section, with the keyword thesaurus set to &quot;Federal Program Inventory&quot;.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Select from the &lt;a href=&quot;https://www.performance.gov/sites/default/files/files/FederalProgramInventory_FY13_MachineReadable_091613.xls&quot; target=&quot;_blank&quot;&gt;Federal Program Inventory&lt;/a&gt;.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;015:001&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Topics &amp;amp; Keywords &amp;gt; Subtopic Keywords &amp;gt; {Keywords subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/subTopicCatKeys/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#programCode&quot; target=&quot;_blank&quot;&gt;programCode&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:type/gmd:MD_KeywordTypeCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/keyword.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/keywords/theme/themekey&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;last-update&quot; name=&quot;last-update&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Last Update&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;This element is the date when the data resource was published or otherwise made available for release. Dates should be ISO 8601 of highest resolution. In other words, as much of YYYY-MM-DDThh:mm:ss.sTZD as is relevant to this dataset. If there is a need to reflect that the dataset is continually updated, non geospatial records can use &lt;a href=&quot;http://en.wikipedia.org/wiki/ISO_8601#Time_intervals&quot; target=&quot;_blank&quot;&gt;ISO 8601 repeating intervals&lt;/a&gt; in this field. For instance, R/P1D for daily, R/P2W for every two weeks, and R/PT5M for every five minutes. Geospatial records should use&lt;br /&gt;
+					//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceMaintenance/&lt;br /&gt;
+					gmd:MD_MaintenanceInformation/gmd:maintenanceAndUpdateFrequency/&lt;br /&gt;
+					gmd:userDefinedMaintenanceFrequency/gts:TM_PeriodDuration&lt;br /&gt;
+					to document frequent maintenance intervals per &lt;a href=&quot;https://project-open-data.cio.gov/v1.1/metadata-resources/#field-mappings&quot; target=&quot;_blank&quot;&gt;the official guidance&lt;/a&gt;. &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/ISO_8601&quot; target=&quot;_blank&quot;&gt;http://en.wikipedia.org/wiki/ISO_8601&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;2012-01-15&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Citation &amp;gt; Dates &amp;gt; Revised&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idCitation/date/reviseDate&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#modified&quot; target=&quot;_blank&quot;&gt;modified&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=CI_Citation&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:date/gmd:CI_Date/gco:Date&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/dataq/lineage/sinfo/scitat/citatn/pubdate.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/status/update&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;publishing-organization&quot; name=&quot;publishing-organization&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Publishing Organization&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element should contain the full standardized name of the EPA organization responsible for publishing the dataset. If EPA is not the publishing entity, this element may be free text, but should still contain the name of the publishing entity (the metadata record will not be contributed to data.gov as an EPA record).&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;All EPA Organizations should begin U.S. EPA or U.S. Environmental Protection Agency.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;U.S. EPA Office Of Environmental Information (OEI) - Office Of Information Collection (OIC)&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Points of Contact &amp;gt; Contact &amp;gt; Organization (Role = Publisher)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idPoC/rpOrgName&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#publisher&quot; target=&quot;_blank&quot;&gt;publisher&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=CI_ResponsibleParty&quot; target=&quot;_blank&quot;&gt;//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:organisationName/gmd:organisationName[../../gmd:role/gmd:CI_RoleCode/@codeListValue=’publisher’]&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/dataq/lineage/sinfo/scitat/citatn/publish.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/citation/citeinfo/pubinfo/publish&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;publisher&quot; name=&quot;publisher&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Publisher&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element should contain the full name of a person responsible for the publication of a dataset. An actual human being is preferred, but if a helpdesk is responsible for providing support to dataset users, the name of the helpdesk team is acceptable. The &lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=ISO_19115_and_19115-2_CodeList_Dictionaries#CI_RoleCode&quot; target=&quot;_blank&quot;&gt;ISO Role code&lt;/a&gt; must be set to &quot;publisher&quot; for this contact.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Plain Text&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;Jane Doe&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Points of Contact &amp;gt; Contact &amp;gt; Name (Role = Publisher)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idPoC/rpIndName&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#contactPoint&quot; target=&quot;_blank&quot;&gt;contactPoint/fn&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=CI_ResponsibleParty&quot; target=&quot;_blank&quot;&gt;//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:pointOfContact/gmd:CI_ResponsibleParty/gmd:individualName&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/ptof/cntact/cpersp/cpersn.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/ptcontac/cntinfo/cntorgp/cntper&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;publisher-email&quot; name=&quot;publisher-email&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Publisher Email&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element should contain the email address of a person responsible for the publication of a dataset. An actual human being is preferred, but if a helpdesk is responsible for providing support to dataset users, the email address of the helpdesk team is acceptable.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Email address&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;doe.jane@agency.gov&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Points of Contact &amp;gt; Contact &amp;gt; Contact Information &amp;gt; Email&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/idPoC/rpCntInfo/cntAddress/eMailAdd&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#contactPoint&quot; target=&quot;_blank&quot;&gt;contactPoint/hasEmail&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=CI_Address&quot; target=&quot;_blank&quot;&gt;//gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:electronicMailAddress/gco:CharacterString for individual listed above&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/ptof/cntact/cemail.htm&quot; target=&quot;_blank&quot;&gt;/metadata/metainfo/metc/cntinfo/cntemail&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;identifier&quot; name=&quot;identifier&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Identifier&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element must contain a unique identifier for the metadata record. This identifier may be a &lt;a href=&quot;https://en.wikipedia.org/wiki/Universally_unique_identifier&quot; target=&quot;_blank&quot;&gt;UUID&lt;/a&gt;&lt;span&gt; string or a &lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_object_identifier&quot; target=&quot;_blank&quot;&gt;DOI&lt;/a&gt; URL. The unique identifier provides the link between the metadata associated with a resource (e.g., feature class) in your local system to the metadata uploaded and published with the EDG. If a computer (or person) knows the &lt;span&gt;unique identifier&lt;/span&gt;of a metadata record published with the EDG, then a generic URL + unique identifier can be used to view that record (i.e., https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={0CA7A9AE-68DB-4F92-8566-2003C8BF41AB}). Many applications leverage generic URL + &lt;span&gt;unique identifier&lt;/span&gt;. For example, when services are published, users will place the EDG &lt;span&gt;unique identifier &lt;/span&gt;URL inside the MXD for each data layer. This way you can get access to the metadata via a REST endpoint (or web application) for a given data resource.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Universally_unique_identifier&quot; target=&quot;_blank&quot;&gt;UUID&lt;/a&gt;&lt;span&gt; or &lt;/span&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_object_identifier&quot; target=&quot;_blank&quot;&gt;DOI&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;8B7D82BE-B130-44B8-99FB-192973508BE8&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Details &amp;gt; File Identifier&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/mdFileID&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#identifier&quot; target=&quot;_blank&quot;&gt;identifier&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MI_Metadata&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:fileIdentifier/gco:CharacterString&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/citat/citinfo/othcit.htm&quot; target=&quot;_blank&quot;&gt;/metadata/Esri/PublishedDocID and /metadata/idinfo/citation/citeinfo/othcit&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;access-level&quot; name=&quot;access-level&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Access Level&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element is mandatory per Project Open Data requirements, and guidelines for non-geospatial records follow the POD specification. Since geospatial metadata standards do not have the same three-choice domain as the POD specification, geospatial records are assumed to be public if they they contain no legal, security, or general constraints, and are considered restricted public or non-public if they do have security constraints listed: “non-public” when &lt;span&gt;security &lt;/span&gt;constraints code is sensitive, confidential, secret, or topSecret, “restricted public” when &lt;span&gt;security &lt;/span&gt;constraints code is restricted or official use only, and &quot;public&quot; when the security constraint code is unclassified.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;&quot;public&quot;, &quot;restricted public&quot;, &quot;non-public&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;public&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Constraints &amp;gt; Security Constraints &amp;gt; Classification (note: do not confuse this with Metadata &amp;gt; Constraints &amp;gt; Security Constraints, which refers to restrictions on the metadata document itself, rather than the data)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resConst/SecConsts/class/ClasscationCd/@value&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#accessLevel&quot; target=&quot;_blank&quot;&gt;accessLevel&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_SecurityConstraints&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_SecurityConstraints/gmd:classification&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/secrty/sclas.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/secinfo/secclass&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;rights&quot; name=&quot;rights&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Rights&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required if Access Level is not public&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;If a dataset has an access level of public, this field can be populated with general informational free text about accessing the dataset (note that the limit is 255 characters - EPA&#039;s legacy disclaimer is longer than this and may cause the record to be rejected from data.gov). Please include disclaimers in the &quot;General Use Limitations&quot; field or at URLs. If the dataset is not public, the value must be chosen from an approved list of Controlled Unclassified Information (CUI) categories describing why the dataset may not be made public. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;EPA Category: Mission Sensitive, NARA Category: Critical Infrastructure&lt;/li&gt;
+					&lt;li&gt;EPA Category: Drinking Water Vulnerability Assessments, NARA Category: Critical Infrastructure-Water Assessments&lt;/li&gt;
+					&lt;li&gt;EPA Category: Sensitive Drinking Water Related, NARA Category: Critical Infrastructure-Water Assessments&lt;/li&gt;
+					&lt;li&gt;EPA Category: IT Security, NARA Category: Information Systems Vulnerability Information&lt;/li&gt;
+					&lt;li&gt;EPA Category: Law Enforcement Sensitive, NARA Category: Law Enforcement&lt;/li&gt;
+					&lt;li&gt;EPA Category: Attorney Client Privilege, NARA Category: Legal-Privilege&lt;/li&gt;
+					&lt;li&gt;EPA Category: Attorney Work Product, NARA Category: Legal-Privilege&lt;/li&gt;
+					&lt;li&gt;EPA Category: Deliberative Process Privilege, NARA Category: Legal-Privilege&lt;/li&gt;
+					&lt;li&gt;EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy&lt;/li&gt;
+					&lt;li&gt;EPA Category: Proprietary, NARA Category: Proprietary&lt;/li&gt;
+					&lt;li&gt;EPA Category: Confidential Business Information, NARA Category: Proprietary-Manufacturer&lt;/li&gt;
+					&lt;li&gt;EPA Category: Source Selection Information, NARA Category: Proprietary-Source Selection&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;EPA Category: Mission Sensitive, NARA Category: Critical Infrastructure&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Constraints &amp;gt; Security Constraints &amp;gt; User Note  &lt;span&gt;(note: do not confuse this with Metadata &amp;gt; Constraints &amp;gt; Security Constraints, which refers to restrictions on the metadata document itself, rather than the data)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resConst/SecConsts/userNote&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#rights&quot; target=&quot;_blank&quot;&gt;rights&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_SecurityConstraints&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_SecurityConstraints/gmd:userNote/gco:CharacterString&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/access.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/accconst&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;data-license&quot; name=&quot;data-license&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Data License&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;The license or non-license (i.e. Public Domain) status with which the dataset or API has been published. EPA provides a &lt;a href=&quot;https://edg.epa.gov/EPA_Data_License.html&quot; target=&quot;_blank&quot;&gt;standard open data license page&lt;/a&gt; that is preferred for use when no other restrictions are in place on the data. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;URL&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;ArcGIS Metadata XML:&lt;/p&gt;
+
+				&lt;p&gt;&lt;small&gt;&lt;code&gt;&amp;lt;resConst&amp;gt;&lt;br /&gt;
+					    &amp;lt;LegConsts&amp;gt;&lt;br /&gt;
+					        &amp;lt;useLimit&amp;gt;EPA Public Domain License&amp;lt;/useLimit&amp;gt;&lt;br /&gt;
+					        &amp;lt;accessConsts&amp;gt;&lt;br /&gt;
+					            &amp;lt;RestrictCd value=&quot;009&quot;&amp;gt;licenceUnrestricted&amp;lt;/RestrictCd&amp;gt;&lt;br /&gt;
+					        &amp;lt;/accessConsts&amp;gt;&lt;br /&gt;
+					        &amp;lt;othConsts&amp;gt;https://edg.epa.gov/EPA_Data_License.html&amp;lt;/othConsts&amp;gt;&lt;br /&gt;
+					    &amp;lt;/LegConsts&amp;gt;&lt;br /&gt;
+					&amp;lt;/resConst&amp;gt;&lt;/code&gt;&lt;/small&gt;&lt;/p&gt;
+
+				&lt;p&gt;ISO XML:&lt;/p&gt;
+
+				&lt;p&gt;&lt;small&gt;&lt;code&gt;  &amp;lt;resourceConstraints&amp;gt;&lt;br /&gt;
+					    &amp;lt;MD_LegalConstraints&amp;gt;&lt;br /&gt;
+					      &amp;lt;useLimitation&amp;gt;&lt;br /&gt;
+					        &amp;lt;gco:CharacterString&amp;gt;EPA Public Domain License&amp;lt;/gco:CharacterString&amp;gt;&lt;br /&gt;
+					      &amp;lt;/useLimitation&amp;gt;&lt;br /&gt;
+					      &amp;lt;accessConstraints&amp;gt;&lt;br /&gt;
+					        &amp;lt;MD_RestrictionCode codeList=&quot;http://www.fgdc.gov/nap/metadata/register/codelists.html#napMD_RestrictionCode&quot; codeListValue=&quot;licenseUnrestricted&quot; codeSpace=&quot;ISOTC211/19139/NAP&quot;&amp;gt;licenseUnrestricted&amp;lt;/MD_RestrictionCode&amp;gt;&lt;br /&gt;
+					      &amp;lt;/accessConstraints&amp;gt;&lt;br /&gt;
+					      &amp;lt;otherConstraints&amp;gt;&lt;br /&gt;
+					        &amp;lt;gco:CharacterString&amp;gt;https://edg.epa.gov/EPA_Data_License.html&amp;lt;/gco:CharacterString&amp;gt;&lt;br /&gt;
+					      &amp;lt;/otherConstraints&amp;gt;&lt;br /&gt;
+					    &amp;lt;/MD_LegalConstraints&amp;gt;&lt;br /&gt;
+					  &amp;lt;/resourceConstraints&amp;gt;&lt;/code&gt;&lt;/small&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Constraints &amp;gt; Legal Constraints &amp;gt; Use Limitation (Access Constraint = License)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resConst/LegConsts/useLimit&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#license&quot; target=&quot;_blank&quot;&gt;license&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_LegalConstraints&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_LegalConstraints/gmd:useLimitation&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/distr/distlia.htm&quot; target=&quot;_blank&quot;&gt;/metadata/distinfo/distliab&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;system-of-records&quot; name=&quot;system-of-records&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;System of Records&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required if metadata represents a system of record&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element should contain a URL pointing to the &lt;a href=&quot;/privacy/epa-federal-information-systems&quot;&gt;EPA System of Records Notice (SORN)&lt;/a&gt; that relates to the dataset, specifically from FederalRegister.gov. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;URL&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;https://www.federalregister.gov/articles/2015/08/28/2015-21384/creation-of-a-new-system-of-records-notice-eventbrite&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Constraints &amp;gt; Legal Constraints &amp;gt; Use Limitation (Access Constraint = Privacy)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resConst/LegConsts/useLimit&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#systemOfRecords&quot; target=&quot;_blank&quot;&gt;systemOfRecords&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_LegalConstraints&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_LegalConstraints/gmd:useLimitation&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;general-use-limitation&quot; name=&quot;general-use-limitation&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;General Use Limitation&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Optional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;For data developed in-house, determine scale, accuracy, and other limitations related to using the data. This Use Limitation will also be shown on the basic Item Description summary across the EPA GeoPlatform. If there are no known use constraints for the data set, use the term &#039;None&#039; and provide the EPA General Use Constraints Statement shown in the &quot;Example&quot; below.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Plain Text&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Constraints &amp;gt; General Constraints &amp;gt; Use Limitation and Overview &amp;gt; Item Description &amp;gt; Use Limitation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resConst/Consts/useLimit&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Constraints&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_Constraints/gmd:useLimitation/gco:CharacterString&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/useconst&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;spatial-extent&quot; name=&quot;spatial-extent&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Spatial Extent&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This field should contain a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees referenced to WGS84 and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude. Please follow &lt;a href=&quot;https://en.wikipedia.org/wiki/ISO_6709&quot;&gt;ISO 6709&lt;/a&gt; guidance on point locations.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Latitude/Longitude pairs&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;-88,46,-87,47&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Overview &amp;gt; Item Description &amp;gt; Bounding Box or Resource &amp;gt; Extents &amp;gt; Extent &amp;gt; Bounding Box&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/dataExt/geoEle/GeoBndBox&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#spatial&quot; target=&quot;_blank&quot;&gt;spatial&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=EX_GeographicBoundingBox&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:geographicElement/gmd:EX_GeographicBoundingBox/&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/sptldo.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/spdom/bounding/westbc&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;temporal-extent&quot; name=&quot;temporal-extent&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Temporal Extent&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This field should contain an interval of time defined by start and end dates. Dates should be formatted as pairs of {start datetime/end datetime} in the &lt;a href=&quot;https://en.wikipedia.org/wiki/ISO_8601&quot; target=&quot;_blank&quot;&gt;ISO 8601 format&lt;/a&gt;. ISO 8601 specifies that datetimes can be formatted in a number of ways, including a simple four-digit year (eg. 2013) to a much more specific YYYY-MM-DDTHH:MM:SSZ, where the T specifies a seperator between the date and time and time is expressed in 24 hour notation in the UTC (Zulu) time zone. (e.g., 2011-02-14T12:00:00Z/2013-07-04T19:34:00Z). Use a solidus (“/”) to separate start and end times.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/ISO_8601&quot; target=&quot;_blank&quot;&gt;ISO 8601 Date&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;2000-01-15/2010-01-15&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Extents &amp;gt; Extent &amp;gt; Temporal Period Extent&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/dataExt/tempEle/TempExtent/exTemp/TM_Period/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#temporal&quot; target=&quot;_blank&quot;&gt;temporal&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=EX_Extent&quot; target=&quot;_blank&quot;&gt;//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/timepd/timeinfo.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/timeperd/timeinfo/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;distribution-url&quot; name=&quot;distribution-url&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Distribution URL&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Mandatory if Applicable&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;At least one online linkage should be provided for all datasets - if no linkage of any kind is provided, EDG staff may ask for a justification. Every URL must contain an associated function code. Other associated elements such as Title and Description are optional but recommended. Data publishers are encouraged to publish datasets as both downloads and web services. Below is some additional guidance for specific online linkages:&lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;Download URL - Function Code: Download. URL providing direct access to the downloadable distribution of a dataset.&lt;/li&gt;
+					&lt;li&gt;Web Service - Function Code: webService. Endpoint of web service to access dataset. This is typically the REST endpoint for an ArcGIS Server service, but it may also be a WMS GetCapabilities URL or a SOAP WSDL endpoint.&lt;/li&gt;
+					&lt;li&gt;Data Dictionary - Function Code: information. URL for accessing related documents such as technical information about a dataset, developer documentation, etc.&lt;/li&gt;
+					&lt;li&gt;Homepage URL - Function Code: search. Alternative landing page used to redirect user to a contextual, Agency-hosted “homepage” for the Dataset or API when selecting this resource from a metadata catalog. This field is not intended for an agency’s homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset. This allows agencies to better specify what a visitor receives after selecting one of the agency’s datasets on Data.gov or in third-party mashups.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;URL&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Online Resource 1 Linkage Download URL: &quot;&lt;code&gt;https://edg.epa.gov/data/Public/OEI/EPA_Facilities/EPA_Locations.zip&lt;/code&gt;&quot; &lt;/p&gt;
+
+				&lt;p&gt;Online Resource 2 Linkage Map Service: &quot;&lt;code&gt;http://geodata.epa.gov/arcgis/rest/services/OEI/EPA_Locations/MapServer&lt;/code&gt;&quot;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Distribution &amp;gt; Digital Transfer Options &amp;gt; Online Resource &amp;gt; Linkage&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/distInfo/distTranOps/onLineSrc/linkage&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_Distribution&quot; target=&quot;_blank&quot;&gt;/gmd:MD_Metadata/gmd:distributionInfo/gmd:MD_Distribution/gmd:transferOptions/gmd:MD_DigitalTransferOptions/gmd:onLine/gmd:CI_OnlineResource/linkage/URL &lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.fgdc.gov/csdgmgraphical/distr/storder/digform.htm&quot; target=&quot;_blank&quot;&gt;/metadata/distInfo/distributor/distorTran/onLineSrc/linkage&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;metadata-date-stamp&quot; name=&quot;metadata-date-stamp&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Metadata Date Stamp&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;The metadata datestamp is mandatory per the ISO 19115 specification. The EPA Metadata Editor should automatically populate/update this field when any edit is made.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;ISO 8601 Date&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&quot;&lt;code&gt;2013-02-21&lt;/code&gt;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Details &amp;gt; Date Stamp&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/mdDateSt&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MI_Metadata&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:dateStamp/gco:Date&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/metaref/date.htm&quot; target=&quot;_blank&quot;&gt;/metadata/metainfo/metd&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;update-frequency&quot; name=&quot;update-frequency&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Update Frequency&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Mandatory for Geo&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;This element is the frequency with which changes and additions are made to the data resource after the initial data resource is completed. Non-geo records should use ISO-8601 codes for specifying intervals: &quot;&quot;Must be an ISO 8601 repeating duration unless this is not possible because the accrual periodicity is completely irregular, in which case the value should simply be irregular. The value should not include a start or end date but rather simply express the duration of time between data publishing. For example, a dataset which is published on an annual basis would be R/P1Y; every three months would be R/P3M; weekly would be R/P1W; and daily would be R/P1D. Further examples and documenation can be found here.&quot;&quot; Geospatial records should choose from a standard list: &quot;&quot;continual, daily, weekly, fortnightly, monthly, quarterly, biannually, annually, as needed, irregular, not planned, unknown&quot;&quot;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;ISO 8601 Interval or ISO Code&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;weekly&lt;/code&gt; or &lt;code&gt;R/P1W&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Maintenance &amp;gt; Update Frequency&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/resMaint/maintFreq/MaintFreqCd/@value&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#accrualPeriodicity&quot; target=&quot;_blank&quot;&gt;accrualPeriodicity&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_MaintenanceInformation&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceMaintenance/gmd:MD_MaintenanceInformation/gmd:maintenanceAndUpdateFrequency/gmd:MD_MaintenanceFrequencyCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/ideninfo/status/mntfreq.htm&quot; target=&quot;_blank&quot;&gt;/metadata/idinfo/status/update&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;metadata-responsible-party&quot; name=&quot;metadata-responsible-party&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Metadata Responsible Party&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Always&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Provide detailed information regarding who should be contacted regarding the metadata specifically. The contact person should be an individual who is knowledgable about the metadata, and may be able to answer questions about the metadata record, as opposed to the data specifically (this may also be the same person as the data set publisher). This element is mandatory per the ISO 19115 specification, and per NOAA guidance, the role code for this contact should be set to &quot;pointOfContact&quot;.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Responsible Party&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;Jane Doe&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Contacts &amp;gt; Contact &amp;gt; {Contact subpage}&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/mdContact/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MI_Metadata&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:contact&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/metaref/mcntact.htm&quot; target=&quot;_blank&quot;&gt;/metadata/metainfo/metc&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;language&quot; name=&quot;language&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Language&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Select the language from the dropdown&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Language Code&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;English&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Resource &amp;gt; Details &amp;gt; Languages &amp;gt; Language&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/dataIdInfo/dataLang/languageCode/@value&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://project-open-data.cio.gov/v1.1/schema/#language&quot; target=&quot;_blank&quot;&gt;language&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:language/gmd:LanguageCode&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;No translation&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;country&quot; name=&quot;country&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Country&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Select the country from the dropdown&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Country Code&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;UNITED STATES&lt;/code&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Details &amp;gt; Country&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/mdLang/countryCode/@value&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;spatial-reference&quot; name=&quot;spatial-reference&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Spatial Reference&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Identification of the horizontal projections, vertical datums and temporal reference systems used. Mandatory per ISO-19115 if spatialRepresentationType in dataIdentification is vector, grid, or tin. This information should be automatically derived from the data, and under most circumstances should not require any user editing. The EPA implementation leaves the specification for all of these elements to ISO.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Reference system identifier&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt;&lt;code&gt;EPSG:4326&lt;/code&gt; (Preferred) or &lt;code&gt;4326&lt;/code&gt; (acceptable with separate codespace value)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Resource &amp;gt; Spatial Reference&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/refSysInfo/RefSystem/&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=MD_ReferenceSystem&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:referenceSystemInfo/gmd:MD_ReferenceSystem&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/spref.htm&quot; target=&quot;_blank&quot;&gt;/metadata/spref&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Field &lt;a id=&quot;spatial-data-representation&quot; name=&quot;spatial-data-representation&quot;&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Spatial Data Representation&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Required?&lt;/td&gt;
+			&lt;td&gt;Required for geospatial data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guidance&lt;/td&gt;
+			&lt;td&gt;Digital representation of spatial information in the dataset. (Vector/Grid, Point/Line/Polygon etc.) Mandatory per ISO-19115 if spatialRepresentationType in dataIdentification is vector, grid, or tin. This information should be automatically derived from the data, and under most circumstances should not require any user editing. The EPA implementation leaves the specification for all of these elements to ISO.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Accepted Values&lt;/td&gt;
+			&lt;td&gt;Spatial Representation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Example&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcCatalog Editor Location&lt;/td&gt;
+			&lt;td&gt;Metadata &amp;gt; Resource &amp;gt; Spatial Data Representation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ArcGIS Metadata XPath&lt;/td&gt;
+			&lt;td&gt;/metadata/spatRepInfo&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Project Open Data Element&lt;/td&gt;
+			&lt;td&gt;&lt;span&gt;No equivalent&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ISO 19115&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div style=&quot;width:628px&quot;&gt;&lt;a href=&quot;https://geo-ide.noaa.gov/wiki/index.php?title=ISO_Spatial_Representation&quot; target=&quot;_blank&quot;&gt;//gmd:MD_Metadata/gmd:spatialRepresentationInfo/gmd:MD_SpatialRepresentation&lt;/a&gt;&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FGDC CSDGM Element&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fgdc.gov/csdgmgraphical/sdorg.htm&quot; target=&quot;_blank&quot;&gt;/metadata/spdoinfo&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Jun 2016 21:55:34 +0000</pubDate>
+ <dc:creator>thultgre</dc:creator>
+ <guid isPermaLink="false">153167 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Region 2 GIS Deliverables Guidance</title>
+    <link>https://www.epa.gov/geospatial/epa-region-2-gis-deliverables-guidance</link>
+    <description>&lt;br /&gt;&lt;!-- #EndEditable --&gt;&lt;!-- END PAGE NAME --&gt;&lt;!-- BEGIN CONTENT AREA --&gt;&lt;!-- #BeginEditable &quot;content&quot; --&gt;&lt;h2&gt;Introduction and Scope&lt;/h2&gt;
+
+&lt;p&gt;This document is intended to provide specific requirements and file delivery formats for all GIS materials developed in support of EPA Region 2 projects. These work products include GIS and imagery files that are created for EPA, including but not limited to products created under grants, interagency agreements and contracts.&lt;/p&gt;
+
+&lt;h3&gt;GIS Data Files&lt;/h3&gt;
+
+&lt;p&gt;All final version spatially enabled files acquired or developed to support mapping and/or spatial analysis through an EPA funded project are considered property of the EPA and are required to be submitted to EPA. This includes but is not limited to all GIS, CAD, and image formatted data. Only final versions of each layer are required for delivery to EPA, and must be in an approved format as specified in this document. In addition, all electronic geospatial data, whether vector or raster, must have spatial reference information and be projection defined (have its coordinate system identified and embedded in or associated with the data file), and in the case of CAD data must NOT be in page space or a custom site-specific projection. All CAD data should be in known real world coordinate space, ideally in geographic/decimal degrees/NAD83. Should tabular data be appropriate to connect location information with attribute information, then documentation specifying the primary and foreign keys is required. Should coordinate information be provided in tabular format it should contain at minimum the following fields:&lt;/p&gt;
+
+&lt;p&gt;ID - a unique identifier given to each feature&lt;br /&gt;
+	Latitude - the Y coordinate in decimal degrees&lt;br /&gt;
+	Longitude - the X coordinate in decimal degrees&lt;br /&gt;
+	Horizontal Datum - the datum of the coordinates.&lt;/p&gt;
+
+&lt;p&gt;Additionally all static maps should be in an electronic Adobe PDF format with fonts embedded and at a resolution of 300 dots per inch (dpi) or greater. Finally, all ArcMap documents (.mxd) or equivalent map document formats used in final map production are also required for delivery to EPA with accompanying data in a stand-alone directory structure. Map document formats also need to be configured to use relative paths and not be set to use a printer-specific paper setting.&lt;/p&gt;
+
+&lt;h3&gt;Metadata and Projection Requirements&lt;/h3&gt;
+
+&lt;p&gt;All GIS files developed for EPA are required by Executive Order 12906 to have associated metadata. EPA requires FGDC compliant metadata on all GIS files developed for deliverables. It is important to understand that deliverables are not considered complete without metadata. Region 2 also requires that all dynamic maps (ArcMap documents) have metadata completed. The Content Standard for Digital Geospatial Metadata can be found at &lt;a href=&quot;http://www.fgdc.gov&quot;&gt;http://www.fgdc.gov&lt;/a&gt;. Metadata, including information about the data&#039;s projection, can be developed using one of several built-in or add on tools within a GIS, and typically is associated with the geometry file as an XML file. EPA has created the EPA Metadata Editor (EME) which is available for free download &lt;a href=&quot;https://edg.epa.gov/EME/&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; and this tool can be used to help create FGDC compliant metadata. EPA Region 2 GIS staff are available to consult and advise on development of required metadata.&lt;/p&gt;
+
+&lt;p&gt;All GIS files submitted to EPA must have spatial reference information that describes the projection, datum, and where applicable the collection methods. The EPA prefers to have vector data be submitted in geographic coordinate system, decimal degree units, and either NAD83 or WGS84 datum.  Raster data, such as aerial photographs may be submitted in their native projection, and maps should be in the appropriate projection/coordinate system for the area depicted.&lt;/p&gt;
+
+
+
+&lt;h3&gt;Delivery Requirements and Standard Organizational Structures&lt;/h3&gt;
+
+&lt;p&gt;EPA will accept data delivered on CD-ROM, DVD, or external hard drive, as well as direct electronic submission via email or FTP site. Other delivery methods may be allowed if those requirements present a significant burden or as technology changes.&lt;/p&gt;
+
+&lt;p&gt;If the project is complex, a directory structure and readme text file in the upper level directory that describes the structure are required. A recommended directory structure is as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;lt;Project_Name&amp;gt;&lt;/strong&gt;&lt;b&gt; &lt;/b&gt;&lt;br /&gt;&lt;b&gt;Docs &lt;/b&gt;(reports, SOPs, correspondence, and other such documents)&lt;br /&gt;
+	|_ &lt;b&gt;Images &lt;/b&gt;(aerial photos, satellite imagery, logos, DEMs, and other raster type data)&lt;br /&gt;
+	|_ &lt;b&gt;Maps &lt;/b&gt;(MXDs and PDFs. Map names should use the project name as a prefix)&lt;br /&gt;
+	|_ &lt;b&gt;Shapes &lt;/b&gt;(geodatabases, shape files, and other approved vector data formats)&lt;br /&gt;
+	|_ &lt;b&gt;Source &lt;/b&gt;(original unmodified data that may have been acquired from external/internal sources)&lt;br /&gt;
+	|_ &lt;b&gt;Tables &lt;/b&gt;(MS-Access databases, spreadsheets, delimited text files, or other such tabular data not stored in a geodatabase)&lt;/p&gt;
+
+&lt;p&gt;File naming conventions should be logical, consistent, and contain no spaces or special characters. An underscore may be used in lieu of a space.&lt;/p&gt;
+
+&lt;h3&gt;EPA Acceptable Data Formats&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	The following file formats are considered acceptable and all maps and data must include an associated metadata document:&lt;/p&gt;
+
+&lt;table summary=&quot;Table of Acceptable Data &quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;DATA&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Vector - prefer projected to geographic, decimal degrees, NAD83 &lt;/b&gt;&lt;span&gt;- other defined projections allowed&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Shape File (.shp, .shx, .dbf, .prj, .sbx, .sbn)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;File Geodatabase (.gdb)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Personal Geodatabase (.mdb)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Oracle Dump (.dmp)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;XML Workspace Document with dependencies clearly documented (.xml)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Raster &lt;/b&gt;&lt;span&gt;- &lt;/span&gt;&lt;b&gt;native projection acceptable&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;TIFF image with world reference file or as a GeoTIFF (.tif, .tfw)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;JPEG image with world reference file (.jpg, .jpw)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;ERDAS Imagine image with pyramid file (.img, .rrd)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;MrSid image (.sid)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;ESRI Grid&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;DEM&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;TINs &lt;/b&gt;&lt;span&gt;- &lt;b&gt;appropriate projection/coordinate system for the area depicted&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;ESRI TIN&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;CAD &lt;/b&gt;&lt;span&gt;- &lt;b&gt;projected to geographic, decimal degrees, NAD83&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;DXF layer separates (.dxf)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Tabular &lt;/b&gt;&lt;span&gt;- &lt;b&gt;primary keys should be clearly identified/documented&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;MS-Access database (.mdb)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;MS-Excel spreadsheet (.xls)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;span&gt;Delimited text file (.txt, .csv)&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table summary=&quot;Table of EPA Acceptable Data Format  Maps &amp;amp; Metadata formats&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;&lt;b&gt;MAPS&lt;/b&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Static&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Adobe PDF at 300 dpi or better with embedded fonts (.pdf)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Dynamic&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;ArcMap document with associated data files in a stand-alone directory structure using relative paths (.mxd)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;FGDC Compliant METADATA&lt;/b&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;XML (.xml)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;FGDC CSDGM XML (.xml)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;FGDC CSDGM SGML (.sgml)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;FGDC CSDGM TXT (.txt)&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;b&gt;CHECKLIST&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;The following checklist may be used to assist in complying with these standards:&lt;/span&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;Table of  checklist of EPA Acceptable Data Format Standards for Data&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;&lt;b&gt;&lt;span&gt;DATA&lt;/span&gt;&lt;/b&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Is each vector file, CAD included, in geographic, decimal degrees, NAD83?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Is each raster file in its native projection?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Is each data file one of the EPA acceptable formats?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Does each data file have FGDC compliant metadata in an associated file?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Are the primary and foreign keys documented for tabular data?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Is a README text file included with a directory structure explaining how the structure is organized?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table summary=&quot;Table of  checklist of EPA Acceptable Data Format Standards for Maps&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;&lt;b&gt;&lt;span&gt;MAPS&lt;/span&gt;&lt;/b&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Is each static map provided in an electronic format at a resolution of 300 dpi or higher?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Does each static map have fonts embedded?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Has the page and print setup for map documents been configured to NOT use printer-specific paper settings?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Are map documents set to use relative paths?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Are map names prefixed with the project name?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Are map documents accompanied with their relevant data in a stand-alone directory structure?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Does each map have FGDC compliant metadata in an associated file?&lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;span&gt;For any additional information about EPA Region 2 GIS technical guidance, please email &lt;a href=&quot;mailto:r2gisdata@epa.gov&quot;&gt;r2gisdata@epa.gov&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 10 Apr 2015 12:10:42 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">80071 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Coordinating Geographic Data Acquisition and Access: The National Spatial Data Infrastructure, Executive Order 12906</title>
+    <link>https://www.epa.gov/geospatial/coordinating-geographic-data-acquisition-and-access-national-spatial-data-infrastructure</link>
+    <description>&lt;div&gt;‘‘National Spatial Data Infrastructure’’ (‘‘NSDI’’) &lt;span&gt;means the technology, policies, standards, and human resources necessary &lt;/span&gt;&lt;span&gt;to acquire, process, store, distribute, and improve utilization of geospatial &lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;data. &lt;/div&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82087&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/nationalspatialdatainfrastructure_executiveorder_12906_2.pdf&quot; type=&quot;application/pdf; length=556174&quot; class=&quot;file-link&quot;&gt;Coordinating Geographic Data Acquisition and Access National Spatial Data Infrastructure Executive Order 12906 (April 11, 1994 ) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 556 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 15:30:04 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">61575 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>National Geospatial Data Policy Procedure for Geospatial Metadata Management  </title>
+    <link>https://www.epa.gov/geospatial/national-geospatial-data-policy-procedure-geospatial-metadata-management</link>
+    <description>&lt;p&gt;&lt;span&gt;The purpose of this document is to establish procedures, requirements and responsibilities for maintaining geospatial metadata used by EPA programs. (Contact: &lt;/span&gt;&lt;a href=&quot;mailto: greene.ana@epa.gov&quot;&gt;Ana Greene&lt;/a&gt;&lt;span&gt;, greene.ana@epa.gov)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82057&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/national_geospatial_data_policy_procedure_cio2131-p-01-0_0.pdf&quot; type=&quot;application/pdf; length=86825&quot; class=&quot;file-link&quot;&gt;National Geospatial Data Policy Procedure (10/25/07) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 87 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 02:49:53 +0000</pubDate>
+ <dc:creator>thultgre</dc:creator>
+ <guid isPermaLink="false">61547 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Latitude/Longitude Data Standard </title>
+    <link>https://www.epa.gov/geospatial/latitudelongitude-data-standard</link>
+    <description>&lt;p&gt;&lt;span&gt;This data standard establishes the requirements for documenting latitude and longitude coordinates and related method, accuracy, and description data for places of interest to the EPA. (Contact: &lt;/span&gt;&lt;a href=&quot;mailto:Kirby.Kevin@epa.gov&quot;&gt;Kevin Kirby&lt;/a&gt;&lt;span&gt;, Kirby.Kevin@epa.gov)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82053&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/latitude_longitude_standard_08_11_2006_final_0.pdf&quot; type=&quot;application/pdf; length=96434&quot; class=&quot;file-link&quot;&gt;Latitude/Longitude Data Standard (January 6, 2006) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 96 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 02:24:11 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">61545 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Institutional Control Vector Profile Technical Specification</title>
+    <link>https://www.epa.gov/geospatial/institutional-control-vector-profile-technical-specification</link>
+    <description>&lt;p&gt;&lt;span&gt;This specification establishes the requirements for documenting geographic lines and boundary coordinates and related method, accuracy, and description data for places of interest to the EPA. (Contact: &lt;/span&gt;&lt;a href=&quot;mailto:zargoza.larry@epa.gov&quot;&gt;Larry Zaragoza&lt;/a&gt;&lt;span&gt;, Zargoza.Larry@epa.gov)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82051&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/institutional_control_vector_data_standard_01_06_2006_final_0.pdf&quot; type=&quot;application/pdf; length=150701&quot; class=&quot;file-link&quot;&gt;Institutional Control Vector Data Standard (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 151 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 02:09:46 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">61543 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA National Geospatial Data Policy </title>
+    <link>https://www.epa.gov/geospatial/epa-national-geospatial-data-policy</link>
+    <description>&lt;p&gt;&lt;span&gt;The National Geospatial Data Policy (NGDP) establishes principles, responsibilities, and requirements for collecting and managing geospatial data used by Federal environmental programs and projects within the jurisdiction of the U.S. Environmental Protection Agency (EPA). (Contact: &lt;/span&gt;&lt;a href=&quot;mailto: Simon.Harvey@epa.gov&quot;&gt;Harvey Simon&lt;/a&gt;&lt;span&gt;, Simon.Harvey@epa.gov)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82049&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/national_geospatial_data_policy_0.pdf&quot; type=&quot;application/pdf; length=244758&quot; class=&quot;file-link&quot;&gt;National Geospatial Data Policy (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 245 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 01:23:14 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">61541 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Guidance for Geospatially Related Quality Assurance Project Plans</title>
+    <link>https://www.epa.gov/geospatial/epa-guidance-geospatially-related-quality-assurance-project-plans</link>
+    <description>&lt;p&gt;&lt;span&gt;This document contains advice and recommendations for developing a QA Project Plan for projects involving geospatial data, including both newly collected data and data acquired from other sources. (Contact: &lt;/span&gt;&lt;a href=&quot;mailto: Cheatham.Reggie@epa.gov&quot;&gt;Reggie Cheatham&lt;/a&gt;&lt;span&gt;, Cheatham.Reggie@epa.gov).&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-82047&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-08/documents/epa_geospatialdataqualityassuranceprojectplansqa_g-5g_0.pdf&quot; type=&quot;application/pdf; length=1490009&quot; class=&quot;file-link&quot;&gt;EPA&amp;#039;s Geospatial Data Quality Assurance Project Planning Guidance  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 28 Aug 2014 00:59:32 +0000</pubDate>
+ <dc:creator>cbenesch</dc:creator>
+ <guid isPermaLink="false">61539 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:38:53, expires @ 2017-01-26 16:38:53, lifetime 12 hours -->

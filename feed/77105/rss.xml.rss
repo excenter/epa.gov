@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/77105/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Emissions Modeling</title>
+    <link>https://www.epa.gov/feed/77105/rss.xml</link>
+    <description>Updated Air Emissions Modeling content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/77105/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>2011v6.3, Technical Support Document (TSD) Update for 2023</title>
+    <link>https://www.epa.gov/air-emissions-modeling/2011v63-technical-support-document-tsd-update-2023</link>
+    <description>&lt;p&gt;This TSD describes how the emission inventories were prepared for air quality modeling for the years 2011 and 2023 using an updated version of the 2011, version 6.3 emissions modeling platform. This platform is based on the 2011 National Emissions Inventory, Version 2 and was used for a preliminary analysis of transport with respect to the 2015 Ozone National Ambient Air Quality Standard.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-342873&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/2011v6.3_2023_update_emismod_tsd_dec2016_002.pdf&quot; type=&quot;application/pdf; length=2053440&quot; class=&quot;file-link&quot;&gt;Updates to Emissions Inventories for the Version 6.3, 2011 Emissions Modeling Platform for the Year 2023 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(115 pp, 2 MB, 
+  December 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Jan 2017 16:39:08 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">168179 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2011 Version 6.3 Technical Support Document</title>
+    <link>https://www.epa.gov/air-emissions-modeling/2011-version-63-technical-support-document</link>
+    <description>&lt;p&gt;This TSD describes how the emission inventories were prepared for air quality modeling for the years 2011 and 2017 using the 2011, version 6.3 emissions modeling platform. This platform is based on the 2011 National Emissions Inventory, Version 2 and incorporates comments received on the 2011 and 2017 emissions modeling input data as part of the development of the final Cross-State Air Pollution Update Rule.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-313901&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/2011v6_3_2017_emismod_tsd_aug2016_final.pdf&quot; type=&quot;application/pdf; length=5852609&quot; class=&quot;file-link&quot;&gt;Preparation of Emissions Inventories for the Version 6.3, 2011 Emissions Modeling Platform (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(210 pp, 6 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 08 Sep 2016 16:11:48 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">159665 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2011 Version 6.3 Platform</title>
+    <link>https://www.epa.gov/air-emissions-modeling/2011-version-63-platform</link>
+    <description>&lt;p&gt;The 2011v6.3 platform is based on the 2011NEI version 2 and includes a projected future year of 2017. The platform supported the Final Cross-State Air Pollution Rule (CSAPR) Update, a rule related to interstate transport for the 2008 Ozone National Ambient Air Quality Standards (NAAQS). An update to the platform was developed for a preliminary analysis of the transport of ozone with respect to the 2015 Ozone NAAQS. This update includes minor updates to 2011 emissions along with emissions for the year 2023.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/node/%20168179&quot;&gt;2011v6.3 Update for 2023 &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://ftp.epa.gov/EmisInventory/2011v6/v3platform/&quot;&gt;2011v6.3 Data Files and Summaries&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-modeling/2011-version-63-technical-support-document&quot;&gt;2011v6.3 Technical Support Document&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 08 Sep 2016 16:00:46 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">159657 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Fact Sheet for EPA-Provided, State-Level Hourly Sulfur Dioxide (SO2) Data</title>
+    <link>https://www.epa.gov/air-emissions-modeling/fact-sheet-epa-provided-state-level-hourly-sulfur-dioxide-so2-data</link>
+    <description>&lt;p&gt;This fact sheet describes the data fields provided in support of EPA’s final 1-hour SO2 National Ambient Air Quality Standard (NAAQS) and answers frequently asked questions about those data  It provides the opportunity for States to demonstrate attainment through ambient air quality monitoring and/or emissions dispersion modeling. To assist states that choose to use emissions dispersion modelling, EPA is providing emissions data that is collected under the Part 75 continuous emission monitoring regulation. These data include stack characteristics and hourly emissions data provided by coal-fired sources that participate in the Acid Rain Program, Cross-State Air Pollution Rule, or former NOX Budget Trading Program. The data are primarily from electric generating units (EGUs) with some industrial boilers included. All of the sources collect emissions data using continuous emission monitoring systems (CEMS) and electronically report this information to the EPA on a quarterly basis. These data cover calendar years 2012 through 2014.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-227095&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/fact_sheet_state_level_hourly_so2_data_3.pdf&quot; type=&quot;application/pdf; length=171517&quot; class=&quot;file-link&quot;&gt;Fact Sheet for EPA-Provided, State-Level Hourly Sulfur Dioxide (SO2) Data (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 172 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 10 Nov 2015 20:21:22 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">125651 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>State-Level Hourly Sulfur Dioxide (SO2) Data</title>
+    <link>https://www.epa.gov/air-emissions-modeling/state-level-hourly-sulfur-dioxide-so2-data</link>
+    <description>&lt;p&gt;EPA’s final 1-hour SO&lt;sub&gt;2&lt;/sub&gt; National Ambient Air Quality Standard (NAAQS) provides the opportunity for States to use ambient air quality monitoring and/or emissions dispersion modeling to satisfy the requirements of the Data Requirements Rule. To assist states that choose to use emissions dispersion modelling, EPA is providing emissions data that is collected under the Part 75 continuous emission monitoring regulation. These data include stack characteristics and hourly emissions data provided by coal-fired sources that participate in the Acid Rain Program, Cross-State Air Pollution Rule, or former NOX Budget Trading Program. The data are primarily from electric generating units (EGUs) with some industrial boilers included. All of the sources collect emissions data using continuous emission monitoring systems (CEMS) and electronically report this information to the EPA on a quarterly basis. The data being provided cover calendar years 2012 through 2014.&lt;/p&gt;
+
+&lt;p&gt;A ZIP file for each State is provided below. Each ZIP file contains two Comma Separated Value (CSV) files. “Location Information” contains the characteristics of the facility (including the facility name, location, SO&lt;sub&gt;2&lt;/sub&gt; emission controls (if any), and characteristics of the stack (shape, height, construction, etc.). “Emissions Information” contains the hourly emissions data for each location described in the Location Information dataset. A data dictionary for these two files is in the fact sheet below.&lt;/p&gt;
+
+&lt;p&gt;Part 75 requires that facilities report emissions and operations data for every hour that an affected unit is operating (i.e., combusting fuel). If for some reason (e.g. CEMS malfunction) quality-assured data are not available for a particular operating hour, the Part 75 missing data routines must be used to provide substitute data for that hour. The longer the period of missing quality-assured data or the more frequently quality-assured data are not available, as measured by a CEMS’ percent monitor availability (PMA), the more conservative (i.e., higher) the substitute data. Substitute data in the dataset can be identified by the method of determination code (MODC). Substitute data will be “flagged” with a MODC of 06, 07, 08, 09, 10, 11, 12, 13, 15, 21, 23, or 55. &lt;strong&gt;Prior to modeling, States should determine which (if any) of the substituted data is appropriate to include in their dispersion modeling.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sources that report under Part 75 are required to periodically perform RATAs to test their CEMS against a reference method. If the CEMS readings are found to be statistically biased low compared to the reference method, a bias adjustment factor (BAF) is calculated and applied to any subsequent hourly emissions data. BAFs are used for SO&lt;sub&gt;2&lt;/sub&gt; concentration and stack gas flow rate. The EPA-Provided data includes both the unadjusted, quality assured SO&lt;sub&gt;2&lt;/sub&gt; concentration for the hour, as measured by the SO&lt;sub&gt;2&lt;/sub&gt; monitor and the bias-adjusted SO2 concentration calculated by multiplying the SO&lt;sub&gt;2&lt;/sub&gt; unadjusted value by the bias adjustment factor (BAF) determined during the relative accuracy test audit (RATA). &lt;strong&gt;Prior to modeling, States should determine whether it is appropriate to use the unadjusted SO&lt;sub&gt;2&lt;/sub&gt; concentration or the bias adjusted SO&lt;sub&gt;2&lt;/sub&gt; concentration.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/air-emissions-modeling/fact-sheet-epa-provided-state-level-hourly-sulfur-dioxide-so2-data&quot;&gt;Fact Sheet for EPA-Provided, State-Level Hourly Sulfur Dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) Data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://ftp.epa.gov/EmisInventory/so2naaqs/2012_2014_emis&quot;&gt;State-Level Hourly Sulfur Dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 10 Nov 2015 20:13:47 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">125649 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Mercury and Air Toxic Standards (MATS) Supporting Documents</title>
+    <link>https://www.epa.gov/air-emissions-modeling/mercury-and-air-toxic-standards-mats-supporting-documents</link>
+    <description>&lt;p&gt;These documents were developed in support of the Mercury and Air Toxics Standards (MATS).  They include the Technical Support Document for the Proposed Toxics Rule and its Appendices, a memorandum on Electric Generating Utility Mercury Speciation Profiles for the Clean Air Mercury Rule&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-225265&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/proposed_toxics_rule_main.pdf&quot; type=&quot;application/pdf; length=1826737&quot; class=&quot;file-link&quot;&gt;Proposed Toxic Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(61 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-225267&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/proposed_toxics_rule_appendices.pdf&quot; type=&quot;application/pdf; length=1015469&quot; class=&quot;file-link&quot;&gt;Appendices for the TSD for the Proposed Toxics Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(42 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-225275&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/egu_hg_speciation_summary_camr.pdf&quot; type=&quot;application/pdf; length=297567&quot; class=&quot;file-link&quot;&gt;Electric Generating Utility Mercury Speciation Profiles for the Clean Air Mercury Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(61 pp, 298 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-225285&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/emissionsoverviewmemo.pdf&quot; type=&quot;application/pdf; length=322896&quot; class=&quot;file-link&quot;&gt;Hazardous Air Pollutants in Support of the Final Mercury and Air Toxics Standard (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 323 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Nov 2015 20:11:01 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">124843 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2005 v4.1 Technical Support Document</title>
+    <link>https://www.epa.gov/air-emissions-modeling/2005-v41-technical-support-document</link>
+    <description>&lt;p&gt;This TSD describes how emissions representing year 2005 were prepared for air quality modeling in support the Regulatory Impact Assessment for National Emission Standards for Hazardous Air Pollutants (NESHAP) for Industrial, Commercial, and Institutional Boilers and Process Heaters (a.k.a. ― the Boiler MACT) and the proposed Mercury and Air Toxics Standards (MATS). The emissions were based on the 2005 National Emissions Inventory, Version 2.  Development of the modeling case abbreviated 2005cr is discussed.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-224601&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/2005v4.1_main.pdf&quot; type=&quot;application/pdf; length=1551858&quot; class=&quot;file-link&quot;&gt;Preparation of Emissions Inventories for the Version 4.1, 2005-based Platform (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(82 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-224609&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/2005v4.1_appendices.pdf&quot; type=&quot;application/pdf; length=570396&quot; class=&quot;file-link&quot;&gt;Appendices (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 570 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 03 Nov 2015 21:27:02 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">124603 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2005 Version 4.1 Platform</title>
+    <link>https://www.epa.gov/air-emissions-modeling/2005-version-41-platform</link>
+    <description>&lt;p&gt;The 2005 v4.1 platform is based on the 2005 NEI version 2, includes the projected future years of 2016 and supported the Regulatory Impact Assessment for the proposed Mercury and Air toxics Standards and the Appropriate and Necessary Finding.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;ftp://ftp.epa.gov/EmisInventory/2005v4.1&quot;&gt;2005 v4.1 Data files&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-modeling/2005-v41-technical-support-document&quot;&gt;Technical Support Document&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-modeling/mercury-and-air-toxic-standards-mats-supporting-documents&quot;&gt;Mercury and Air Toxic Standards (MATS) Supporting Documents&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-225259&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-11/hg_speciation_data_camr_1.xls&quot; type=&quot;application/vnd.ms-excel; length=231424&quot; class=&quot;file-link&quot;&gt;Clean Air Mercury Rule Hg Speciation Factors&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 231 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 03 Nov 2015 20:51:03 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">124591 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2005 v4.2 Technical Support Document </title>
+    <link>https://www.epa.gov/air-emissions-modeling/2005-v42-technical-support-document</link>
+    <description>&lt;p&gt;The Technical Support Document for the Final Transport Rule describes how emissions were processed for air quality modeling in support of the final Cross-state Air Pollution Rule (CSAPR). The emissions were based on updates to the emissions in the 2005 National Emissions Inventory, Version 2. The abbreviations for the modeling cases discussed are 2005cs, 2005as, 2012cs, 2014cs, and 2014cs_tr1remedy.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218663&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/transportrulefinal_eitsd_28jun2011.pdf&quot; type=&quot;application/pdf; length=2456753&quot; class=&quot;file-link&quot;&gt;Technical Support Document for the Final Transport Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(120 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-218673&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/transportrulefinal_eitsd_appendices_28jun2011.pdf&quot; type=&quot;application/pdf; length=924258&quot; class=&quot;file-link&quot;&gt;Transport Rule Final - Appendices (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(46 pp, 924 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 18:21:25 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">122573 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:42:31, expires @ 2017-01-26 16:42:31, lifetime 12 hours -->

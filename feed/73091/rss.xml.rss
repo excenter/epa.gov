@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/73091/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Integrated Science Assessments</title>
+    <link>https://www.epa.gov/feed/73091/rss.xml</link>
+    <description>Updated Integrated Science Assessments content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/73091/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Resources Supporting ISA Development</title>
+    <link>https://www.epa.gov/isa/resources-supporting-isa-development</link>
+    <description>&lt;p&gt;Below is a list of commonly used resources that support the development of the integrated Science Assessments. They are:&lt;/p&gt;
+
+&lt;h2&gt;HERO Database&lt;/h2&gt;
+
+&lt;p id=&quot;HERO&quot;&gt;The Health Environmental Research Online (HERO) is a database of scientific studies and other references used to develop EPA&#039;s risk assessments, in this case the ISAs, aimed at understanding the health and environmental effects of pollutants and chemicals. HERO contains over 600 million citations from the most recently released ISA assessments including Lead, Ozone, and the Carbon Monoxide Assessment.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://hero.epa.gov/hero/index.cfm&quot;&gt;Health Environmental Research Online (HERO) Database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;NAAQS Standards&lt;/h2&gt;
+
+&lt;p&gt;The &lt;span&gt;EPA maintains the National Ambient Air Quality Standards for pollutants considered harmful to public health and the environment. &lt;/span&gt;The Clean Air Act identifies two types of national ambient air quality standards. Primary standards provide public health protection, including protecting the health of &quot;sensitive&quot; populations such as asthmatics, children, and the elderly. Secondary standards provide public welfare protection, including protection against decreased visibility and damage to animals, crops, vegetation, and buildings. EPA has set National Ambient Air Quality Standards for six principal pollutants, which are called &quot;criteria&quot; pollutants. The NAAQS Standards therefore rely on the ISAs to get the best science for supporting the standards.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li id=&quot;NAAQS&quot;&gt;​​&lt;a href=&quot;/naaqs&quot;&gt;National Ambient Air Quality Standards (NAAQS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Report on the Environment&lt;/h2&gt;
+
+&lt;p&gt;EPA&#039;s Report on the Environment (ROE) presents the best available indicators of national trends in the environment and human health. EPA selected these indicators to address 24 questions that are critical to EPA&#039;s mission of protecting the environment and human health. The trend data on the air questions that deal with air criteria pollutants show the questions EPA want to address.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/roe/chapter/air/index.cfm&quot;&gt;Report on the Environment: Air Chapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 28 May 2015 14:43:42 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">85707 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Final Integrated Science Assessment Reports</title>
+    <link>https://www.epa.gov/isa/list-final-integrated-science-assessment-reports</link>
+    <description>&lt;div id=&quot;innerContent&quot;&gt;
+	&lt;p&gt;Here is the complete list of the most current final Integrated Science Assessments, please see the individual criteria pages for the latest updates and developments that are happening.&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=218686&quot;&gt;Integrated Science Assessment (ISA) for Carbon Monoxide &lt;/a&gt;. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-09/019F, 2010.&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=255721&quot;&gt;Integrated Science Assessment (ISA) for Lead (Final Report)&lt;/a&gt;. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-10/075F, 2013.&lt;/li&gt;
+		&lt;li&gt;&lt;ins data-date=&quot;2016,1,27&quot;&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=310879&quot;&gt;Integrated Science Assessment (ISA) for Oxides of Nitrogen – Health Criteria (Final Report).&lt;/a&gt; &lt;span&gt;U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-15/068, 2016.&lt;/span&gt;&lt;/ins&gt;&lt;!-- END CONTENT AREA --&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=201485&quot;&gt;Integrated Science Assessment (ISA) for Oxides of Nitrogen and Sulfur Ecological Criteria (Final Report).&lt;/a&gt; U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-08/082F, 2008.&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=247492&quot;&gt;Integrated Science Assessment (ISA) for Ozone and Related Photochemical Oxidants (Final Report)&lt;/a&gt;. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-10/076F, 2013.&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=216546&quot;&gt;Integrated Science Assessment (ISA) for Particulate Matter (Final Report).&lt;/a&gt; U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-08/139F, 2009.&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=198843&quot;&gt;Integrated Science Assessment (ISA) for Sulfur Oxides – Health Criteria (Final Report).&lt;/a&gt; U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-08/047F, 2008.&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Companion Document: &lt;a href=&quot;http://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=310244&quot;&gt;Preamble to the Integrated Science Assessments (2015 Final Report)&lt;/a&gt;, &lt;span&gt;U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-15/067, 2015.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 18:14:44 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74947 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Particulate Matter</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-particulate-matter</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Reviewed Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;&lt;strong&gt;The Issue&lt;/strong&gt;&lt;/h2&gt;
+
+		&lt;p&gt;Particulate matter (PM) is a complex mixture of extremely small particles and liquid droplets in the air. Particulate matter causes concern because it is associated with serious health effects such as aggravated asthma, difficulty breathing, chronic bronchitis, decreased lung function, and premature death. PM contributes to haze and can harm the environment by changing the natural nutrient and chemical balance of the soil.&lt;/p&gt;
+
+		&lt;h2&gt;&lt;strong&gt;EPA Action&lt;/strong&gt;&lt;/h2&gt;
+
+		&lt;p&gt;EPA scientists are conducting research to better understand which attributes of particulate matter cause ill health effects, who may be most susceptible to these effects, how particles form in the atmosphere, and what the contributions are from various sources in different regions of the country.&lt;/p&gt;
+
+		&lt;p&gt;The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including PM. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. ISAs provide a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review and are a critical part of the scientific basis for establishing the NAAQS. EPA released the latest &lt;em&gt;Integrated Science Assessment for Particulate Matter Final Report&lt;/em&gt; in Dec 2009.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=216546&quot;&gt;2009 Final Report: Integrated Science Assessment for Particulate Matter&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/particulate-matter-pm-air-quality-standards&quot;&gt;Particulate Matter Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the Particulate Matter Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the PM assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Jun 2016&lt;/td&gt;
+					&lt;td&gt;EPA held a series of webinar workshops to evaluate initial draft materials for the Particulate Matter Integrated Science Assessment (ISA) for health and welfare effects on June 9, 13, 20, and 22, 2016. [&lt;a href=&quot;https://www.federalregister.gov/articles/2016/05/11/2016-11122/webinar-workshop-to-review-initial-draft-materials-for-the-particulate-matter-pm-integrated-science&quot;&gt;May 11, 2016 Federal Register Notice&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 2012&lt;/td&gt;
+					&lt;td&gt;EPA released a &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=247132&quot;&gt;provisional assessment of recent studies on particulate matter&lt;/a&gt; collected since the release of the 2009 Particulate Matter Integrated Science Assessment.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 2009&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=216546&quot;&gt;Final Report of the Integrated Science Assessment for Particulate Matter (EPA/600/AR-08/139F)&lt;/a&gt;. [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2009-12-15/html/E9-29591.htm&quot;&gt;Federal Register Dec 15, 2009&lt;/a&gt;] &lt;strong&gt;This is the latest final version&lt;/strong&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oct 2004&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=87903&quot;&gt;Air Quality Criteria Document for Particulate Matter (Final, 2004) (EPA 600/P-99/002)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apr 1996&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=2832&quot;&gt;Air Quality Criteria Document for Particulate Matter (Final, 1996) (EPA 600/P-95/001)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aug 1994&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=96580&quot;&gt;supplement to the Second Addendum (1986) to Air Quality Criteria for Particulate Matter and Sulfur Oxides (1982): Assessment of New Findings on Sulfur Dioxide and Acute Exposure Health Effects in Asthmatic Individuals&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 1986&lt;/td&gt;
+					&lt;td&gt;EPA published the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=39469&quot;&gt;second addendum to Air Quality Criteria for Particulate Matter and Sulfur Oxides (1982): Assessment of New Findings on Sulfur Dioxide and Acute Exposure Health Effects in Asthmatic Individuals&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 1982&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=46205&quot;&gt;Air Quality Criteria for Particulate Matter and Sulfur Oxides (Final, 1982) (EPA/600/8-82/029)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1977&lt;/td&gt;
+					&lt;td&gt;EPA released an update to Air Quality Criteria Document in response to specific requirements of Section 108 of the Clean Air Act, as amended in 1977.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1969&lt;/td&gt;
+					&lt;td&gt;EPA published the first Air Quality Criteria for Particulate Matter and Air Quality Criteria for Sulfur Oxides.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Reviewed Literature&lt;/h2&gt;
+
+		&lt;p&gt;While working on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=210586&quot;&gt;assessment of particulate matter (2009)&lt;/a&gt;, EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature that supported the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/15&quot;&gt;ISA-Particulate Matter (2009) HERO Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;Update in 2012: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1890&quot;&gt;PM Provisional Assessment&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 18:10:45 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74943 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Oxides of Nitrogen and Sulfur (Ecological)</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-oxides-nitrogen-and-sulfur-ecological</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;The Issue&lt;/h2&gt;
+
+		&lt;p&gt;Nitrogen dioxide (NO2) is one of a group of highly reactive gases known as &quot;oxides of nitrogen,&quot; or &quot;nitrogen oxides (NOx).&quot; Other nitrogen oxides include nitrous acid and nitric acid. EPA’s National Ambient Air Quality Standard uses NO2 as the indicator for the larger group of nitrogen oxides.&lt;/p&gt;
+
+		&lt;p&gt;Sulfur dioxide (SO2) is one of a group of highly reactive gases known as “oxides of sulfur.” When deposited, NOX and SOX can cause terrestrial and aquatic ecosystems to become acidified; this can lead to changes in diversity or loss of fish or plant populations. Nitrogen deposition can as also cause algal blooms or changes in ecosystem biodiversity. Airborne NOx and SOx can also injure leaves and plants.&lt;/p&gt;
+
+		&lt;h2&gt;EPA Action&lt;/h2&gt;
+
+		&lt;p&gt;EPA&#039;s NOx and SOx research efforts are focused on improving emissions estimates, determining health and ecological effects, and improving modeling capabilities. The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including NOx and SOx. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. ISAs provide a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review and are a critical part of the scientific basis for establishing the NAAQS.&lt;/p&gt;
+
+		&lt;p&gt;EPA first set standards for NO2 in 1971, setting both a primary standard (to protect health) and a secondary standard (to protect the public welfare) at 0.053 parts per million (53 ppb), averaged annually. EPA first set standards for SO2 in 1971, setting a 3-hour average secondary standard at 500 ppb to protect the public welfare. In 2012, EPA jointly reviewed the secondary NAAQS for oxides of nitrogen and sulfur because oxides of nitrogen and sulfur in the ambient air, and their associated transformation products, such as deposited nitrogen and sulfur, are linked from an atmospheric chemistry perspective and can jointly contribute to ecological effects. In that review, EPA decided to retain the secondary NAAQS for NO2 and SO2.&lt;/p&gt;
+
+		&lt;p&gt;In 2008, EPA released the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen- Health Criteria (Final Report)&lt;/em&gt; and the &lt;em&gt;Integrated Science Assessment for Sulfur - Health Criteria (Final Report)&lt;/em&gt;. But because of the overlap of these 2 air pollutants in the environment, the reports were combined into a single ecological criteria report, called the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen and Sulfur - Ecological Criteria (Final Report)&lt;/em&gt;.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn more about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=201485&quot;&gt;2008 Final Report: Integrated Science Assessment for Oxides of Nitrogen and Sulfur (Ecological Criteria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=198843&quot;&gt;2008 Final Report: Integrated Science Assessment for Sulfur (Health Criteria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=194645&quot;&gt;2008 Final Report: Integrated Science Assessment for Oxides of Nitrogen (Health Criteria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-and-sulfur-dioxide-so2-secondary-air-quality-standards&quot;&gt;Nitrogen Dioxide Secondary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-and-sulfur-dioxide-so2-secondary-air-quality-standards&quot;&gt;Sulfur Dioxide Secondary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the Oxides of Nitrogen &amp;amp; Sulfur Ecological Criteria Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of NOx/SOx Ecological Assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Date&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Milestone&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Aug 2015&lt;/td&gt;
+					&lt;td&gt;EPA released &lt;a href=&quot;https://www.federalregister.gov/documents/2015/08/12/2015-19842/workshop-to-review-initial-draft-materials-for-the-nitrogen-oxides-nox&quot;&gt;preliminary draft materials&lt;/a&gt; that were discussed in a teleconference workshop to help inform the development of the draft assessment.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 2008&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=201485&quot;&gt;Integrated Science Assessment for Oxides of Nitrogen and Sulfur – Ecological Criteria (Final, 2008) (EPA/600/R-08/082F)&lt;/a&gt;. &lt;strong&gt;This is the latest version.&lt;/strong&gt;[&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2008-12-12/html/E8-29347.htm&quot;&gt;Federal Register Dec 12, 2008&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aug 1993&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=40179&quot;&gt;Air Quality Criteria for Oxides of Nitrogen (Final, 1993) (EPA/600/8-91/049)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1982&lt;/td&gt;
+					&lt;td&gt;EPA released the documents &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=44436&quot;&gt;Air Quality Criteria for Oxides of Nitrogen (Final, 1982) (EPA/600/8-82/026)&lt;/a&gt; and &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=46205&quot;&gt;Air Quality Criteria for Particulate Matter and Sulfur Oxides (Final, 1982) (EPA/600/8-82/029)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 18:08:46 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74941 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Sulfur Dioxide (Health Criteria)</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-sulfur-dioxide-health-criteria</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Review Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;The Issue&lt;/h2&gt;
+
+		&lt;p&gt;Sulfur dioxide (SO2) is one of a group of highly reactive gases known as &quot;sulfur oxides.&quot; Emissions of SO2 have declined by approximately 70% for all major sources since 1990 as a consequence of several U.S. air quality regulatory programs. Coal fired power plants remain the dominant sources by nearly an order of magnitude above the next highest source (coal-fired boilers), emitting 4,500,000 tons of SO2 annually. Smaller sources of nationwide SO2 emissions include industrial processes such as extracting metal from ore, petroleum refining, and chemical processing.&lt;/p&gt;
+
+		&lt;p&gt;SO2 is linked with a number of adverse effects on the respiratory system, particularly for exercising asthmatics. In 2010, EPA revised the primary (health-based) standard by establishing a one-hour standard at a level of 75 parts per billion (ppb).&lt;/p&gt;
+
+		&lt;h2&gt;EPA Action&lt;/h2&gt;
+
+		&lt;p&gt;EPA&#039;s NOx and SOx research efforts are focused on improving emissions estimates, determining health and ecological effects, and improving modeling capabilities. The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including NOx and SOx. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. ISAs provide a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review and are a critical part of the scientific basis for establishing the NAAQS.&lt;/p&gt;
+
+		&lt;p&gt;In 2008, EPA released the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen - Health Criteria (Final) and the Integrated Science Assessment for Sulfur - Health Criteria (Final)&lt;/em&gt;. But because of the overlap of these two air pollutants in the environment, the ecological assessments were combined into a single criteria report, called the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen and Sulfur - Ecological Criteria (Final).&lt;/em&gt;&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=198843&quot;&gt;2008 Final Report: Integrated Science Assessment for Sulfur (Health Criteria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/isa/integrated-science-assessment-isa-oxides-nitrogen-and-sulfur-ecological&quot;&gt;Integrated Science Assessment for Oxides of Nitrogen and Sulfur (Ecological Criteria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/sulfur-dioxide-so2-primary-air-quality-standards&quot;&gt;Sulfur Dioxide Primary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-and-sulfur-dioxide-so2-secondary-air-quality-standards&quot;&gt;Sulfur Dioxide Secondary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the Sulfur Dioxide Health Criteria Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the SOx health assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Date&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Milestone&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Dec 2016&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=326450&quot;&gt;Second External Review Draft of the Integrated Science Assessment for Sulfur Oxides - Health Criteria&lt;/a&gt; for public review and comment and an independent peer review. [&lt;a href=&quot;https://www.federalregister.gov/documents/2016/12/09/2016-29438/second-external-review-draft-integrated-science-assessment-for-sulfur-oxides-health-criteria&quot;&gt;Federal Register Notice: Dec 9, 2016&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nov 2015&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=310044&quot;&gt;First External Review Draft of the Integrated Science Assessment for Sulfur Oxides - Health Criteria&lt;/a&gt; for public review and comment and an independent peer review. [&lt;a href=&quot;https://www.federalregister.gov/articles/2015/11/24/2015-29800/draft-integrated-science-assessment-for-sulfur-oxides-health-criteria&quot;&gt;Federal Register Notice: Nov 24, 2015&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sep 2008&lt;/td&gt;
+					&lt;td&gt;EPA released the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=198843&quot;&gt;Final Report of the Integrated Science Assessment for SOx - Health Criteria (EPA/600/R-08/047F)&lt;/a&gt;. [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2008-09-12/html/E8-21317.htm&quot;&gt;Federal Register Sep 12, 2008&lt;/a&gt;] &lt;strong&gt;This is the latest version&lt;/strong&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1982&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=46205&quot;&gt;Air Quality Criteria for Particulate Matter and Sulfur Oxides (Final, 1982) (EPA/600/8-82/029)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Review Literature&lt;/h2&gt;
+
+		&lt;p&gt;For the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=326450&quot;&gt;draft assessment of sulfur oxide - health criteria (2016)&lt;/a&gt;, EPA is using the Health and Environmental Research Online (HERO) database to augment the underlining literature that will support the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/16&quot;&gt;ISA-SOx -Primary Health (2015) Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 17:56:48 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74939 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Nitrogen Dioxide (Health Criteria)</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-nitrogen-dioxide-health-criteria</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Review Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;The Issue&lt;/h2&gt;
+
+		&lt;p&gt;Nitrogen dioxide (NO2) is one of a group of highly reactive gases known as &quot;oxides of nitrogen,&quot; or &quot;nitrogen oxides (NOx).&quot; Other nitrogen oxides include nitrous acid and nitric acid. EPA’s National Ambient Air Quality Standard uses NO2 as the indicator for the larger group of nitrogen oxides. NO2 forms quickly from emissions from cars, trucks and buses, power plants, and off-road equipment. In addition to contributing to the formation of ground-level ozone, and fine particle pollution, NO2 is linked with a number of adverse effects on the respiratory system.&lt;/p&gt;
+
+		&lt;h2&gt;EPA Action&lt;/h2&gt;
+
+		&lt;p&gt;EPA&#039;s NOx research efforts are focused on improving emissions estimates, determining health and ecological effects, and improving modeling capabilities. The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including NOx. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. ISAs provide a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review and are a critical part of the scientific basis for establishing the NAAQS.&lt;/p&gt;
+
+		&lt;p&gt;In 2016, EPA released an update to the 2008 version of the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen- Health Criteria (Final). &lt;/em&gt;In 2008, the &lt;em&gt;Integrated Science Assessment for Sulfur - Health Criteria (Final)&lt;/em&gt; was also released. Because of the overlap of these two air pollutants in the environment, the reports were combined into a single ecological criteria report, called the &lt;em&gt;Integrated Science Assessment for Oxides of Nitrogen and Sulfur - Ecological Criteria (Final)&lt;/em&gt;.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=310879&quot;&gt;2016 Final Report: Integrated Science Assessment for Oxides of Nitrogen- Health Criteria&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/isa/integrated-science-assessment-isa-oxides-nitrogen-and-sulfur-ecological&quot;&gt;ISA for the Air Criteria Pollutant: Oxides of Nitrogen and Sulfur- Ecological Criteria&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-primary-air-quality-standards&quot;&gt;Nitrogen Dioxide Primary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-and-sulfur-dioxide-so2-secondary-air-quality-standards&quot;&gt;Nitrogen Dioxide and Sulfur Dioxide Secondary Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the NOx Health Criteria Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the NOx health criteria assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Date&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Milestone&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Jan 2016&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=310879&quot;&gt;Integrated Science Assessment for Oxides of Nitrogen - Health Criteria (Final, 2016) (EPA/600/R-15/068)&lt;/a&gt;. &lt;strong&gt;This is the latest version&lt;/strong&gt;. [&lt;a href=&quot;https://www.federalregister.gov/articles/2016/01/28/2016-01548/integrated-science-assessment-for-oxides-of-nitrogen-health-criteria&quot;&gt;Federal Register Notice: Jan 28, 2016&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jul 2008&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=194645&quot;&gt;Integrated Science Assessment for Oxides of Nitrogen - Health Criteria (Final, 2008) (EPA/600/R-08/071)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aug 1993&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=40179&quot;&gt;Air Quality Criteria for Oxides of Nitrogen (Final, 1993) (EPA/600/8-91/049)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1982&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=44436&quot;&gt;Air Quality Criteria for Oxides of Nitrogen (Final, 1982) (EPA/600/8-82/026)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Review Literature&lt;/h2&gt;
+
+		&lt;p&gt;While working on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=288043&quot;&gt;draft assessment of nitrogen oxide - health criteria (2015)&lt;/a&gt;, EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature to support the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1853&quot;&gt;ISA-NOx -Primary Health (2015) Project Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 17:51:55 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74935 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Lead</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-lead</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Review Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;The Issue&lt;/h2&gt;
+
+		&lt;p&gt;Lead (Pb) is a highly toxic metal that is known to be harmful to human health. The scientific evidence shows that lead exposure can cause cognitive function decrements in children (as measured by reduced IQ, decreased academic performance and poorer performance on tests of executive function). There is no evidence of a threshold for cognitive effects in children, which means there does not appear to be a level of exposure below which this health effect is not observed. In addition, lead exposure can cause decreased attention, increased impulsivity and hyperactivity and may also lead to conduct disorders in children and young adults. Other health effects of lead exposure include hypertension, harmful effects on sperm, the blood and blood forming organs, and the immune system.&lt;/p&gt;
+
+		&lt;h2&gt;EPA Action&lt;/h2&gt;
+
+		&lt;p&gt;Since the 1980&#039;s, EPA and its federal partners have phased out lead in gasoline, reduced lead in drinking water and industrial air pollution, and banned or limited lead used in consumer products such as residential paint. As a result of these regulatory efforts, levels of lead in the air have decreased by 97% between 1980 and 2010. Blood Pb levels have also decreased dramatically among U.S. children and adults over the past thirty-five years; based on the 2009-2010 National Health and Nutrition Examination Survey, the median blood lead level for the U.S. population is 1.1 micrograms per deciliter (µg/dL).&lt;/p&gt;
+
+		&lt;p&gt;The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including lead. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. ISAs provide a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review and are a critical part of the scientific basis for establishing the NAAQS. EPA released the &lt;em&gt;Integrated Science Assessment for Lead Final Report&lt;/em&gt; in June 2013.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=255721&quot;&gt;2013 Final Report: Integrated Science Assessments for Lead&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/lead-pb-air-quality-standards&quot;&gt;Lead Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the Lead assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Date&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Milestone&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Jun 2013&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=255721&quot;&gt;Integrated Science Assessment for Lead (Final, 2013) (EPA/600/R-10/075F)&lt;/a&gt;. &lt;strong&gt;This is the latest version.&lt;/strong&gt; [&lt;a href=&quot;https://www.federalregister.gov/articles/2013/06/26/2013-15144/integrated-science-assessment-for-lead&quot;&gt;Federal Register June 26, 2013&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oct 2006&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=158823&quot;&gt;Air Quality Criteria for Lead (Final, 2006) (EPA/600/R-05/144)&lt;/a&gt;. [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2006-09-29/html/E6-16060.htm&quot;&gt;Federal Register Sep 29, 2006&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aug 1990&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=45189&quot;&gt;Air Quality Criteria for Lead: Supplement to the 1986 Addendum (EPA/600/8-89/049F)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jun 1986&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=32647&quot;&gt;Air Quality Criteria for Lead (Final, 1986) (EPA/600/8-83/028A-F)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 1977&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20013GWR.txt&quot;&gt;Air Quality Criteria for Lead (Final, 1977) (EPA-600/8-77/017)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Review Literature&lt;/h2&gt;
+
+		&lt;p&gt;While working on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=242655&quot;&gt;assessment of lead (2013)&lt;/a&gt;, EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature that support the ISAs assessments.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1678&quot;&gt;ISA-Lead (2013) HERO Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 17:49:02 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74933 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Carbon Monoxide</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-carbon-monoxide</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Reviewed Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;The Issue&lt;/h2&gt;
+
+		&lt;p&gt;Carbon monoxide (CO) is a colorless, odorless gas emitted from combustion processes. Nationally, particularly in urban areas, the majority of CO emissions to ambient air come from mobile sources. CO can cause harmful health effects by reducing oxygen delivery to the body&#039;s organs (like the heart and brain) and tissues. At extremely high levels, CO can cause death.&lt;/p&gt;
+
+		&lt;h2&gt;EPA Action&lt;/h2&gt;
+
+		&lt;p&gt;EPA&#039;s CO research efforts are focused on improving emissions estimates, determining health and ecological effects, and improving modeling capabilities. The Clean Air Act requires EPA to periodically review the science for six major air pollutants, including CO. EPA&#039;s National Center for Environmental Assessment develops Integrated Science Assessments (ISAs) that summarize the science related to the health and ecological effects caused by these pollutants. The ISA for CO is a comprehensive review of the policy-relevant scientific literature published since the last National Ambient Air Quality (NAAQS) review. ISAs provide a critical part of the scientific basis for establishing the NAAQS. The last review of the CO NAAQS was completed in 2011, but the Agency chose not to revise the standards at that time.&lt;/p&gt;
+
+		&lt;p&gt;EPA first set air quality standards for CO in 1971. For protection of both public health and welfare, EPA set an 8-hour primary standard at 9 parts per million (ppm) and a 1-hour primary standard at 35 ppm. In a review of the standards completed in 1985, EPA revoked the secondary standards (for public welfare) due to a lack of evidence of adverse effects on public welfare at or near ambient concentrations. EPA released the &lt;em&gt;Integrated Science Assessment for Carbon Monoxide Final Report&lt;/em&gt; in January 2010.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=218686&quot;&gt;2010 Final Report: Integrated Science Assessment for Carbon Monoxide&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/carbon-monoxide-co-air-quality-standards&quot;&gt;Carbon Monoxide Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the Carbon Monoxide Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the CO health criteria assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Date&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Milestone&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Jan 2010&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=218686&quot;&gt;Integrated Science Assessment for Carbon Monoxide (Final, 2010) (EPA/600/R-09/019F)&lt;/a&gt;. &lt;strong&gt;This is the latest version.&lt;/strong&gt; [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2010-01-29/html/2010-1359.htm&quot;&gt;Federal Register Jan 29, 2010&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jun 2000&lt;/td&gt;
+					&lt;td&gt;EPA release the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=18163&quot;&gt;Air Quality Criteria Document for Carbon Monoxide (Final, 2000) (EPA/600/P-99/001F)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dec 1991&lt;/td&gt;
+					&lt;td&gt;EPA release the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=12481&quot;&gt;Air Quality Criteria Document for Carbon Monoxide (Final, 1991) (EPA/600/8-90/045F)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aug 1984&lt;/td&gt;
+					&lt;td&gt;EPA release the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=38202&quot;&gt;Revised Evaluation of Health Effects Associated with Carbon Monoxide Exposure: An Addendum to the 1979 EPA Air Quality Criteria Document for Carbon Monoxide (EPA-600/8-83-033F)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oct 1979&lt;/td&gt;
+					&lt;td&gt;EPA release the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=2765&quot;&gt;Air Quality Criteria Document for Carbon Monoxide (Final, 1979) (EPA-600/8-79-022)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mar 1970&lt;/td&gt;
+					&lt;td&gt;The National Air Pollution Control Administration published the first Air Quality Criteria for Carbon Monoxide.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Reviewed Literature&lt;/h2&gt;
+
+		&lt;p&gt;While working on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=213229&quot;&gt;assessment of carbon monoxide (2009)&lt;/a&gt;, EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature that supported the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/11&quot;&gt;ISA-Carbon Monoxide (2010) HERO Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 17:17:03 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74929 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Integrated Science Assessment (ISA) for Ozone</title>
+    <link>https://www.epa.gov/isa/integrated-science-assessment-isa-ozone</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Pollutant Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Reviewed Literature&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;&lt;strong&gt;The Issue&lt;/strong&gt;&lt;/h2&gt;
+
+		&lt;p&gt;Ozone is a gas that occurs both in the Earth&#039;s upper atmosphere and at ground level where it is a key component of urban smog. Ground-level ozone causes a variety of effects on human health, vegetation, and ecosystems and it affects climate. Human exposure to ozone is associated with respiratory and cardiovascular effects as well as premature death. Ozone exposure causes visible foliar injury, decreases plant growth and affects ecosystem community composition.&lt;/p&gt;
+
+		&lt;p&gt;Peak ozone levels typically occur during hot, dry, stagnant summertime conditions. Millions of Americans live in areas where ozone levels exceed EPA&#039;s health-based air quality standards, primarily in parts of the Northeast, the Lake Michigan area, parts of the Southeast, southeastern Texas, and parts of California.&lt;/p&gt;
+
+		&lt;h2&gt;&lt;strong&gt;EPA Action&lt;/strong&gt;&lt;/h2&gt;
+
+		&lt;p&gt;EPA&#039;s ozone research efforts are focused on improving emissions estimates, determining health and ecological effects, and improving modeling capabilities. EPA&#039;s National Center for Environmental Assessment periodically evaluates the latest research concerning the public health and welfare effects of ozone and publishes the most up-to-date findings in an assessment called an Integrated Science Assessment. This document provides the scientific basis for the establishment of the most current national air quality standards for ozone. EPA released the &lt;em&gt;Integrated Science Assessment for Ozone and Related Photochemical Oxidants Final Report&lt;/em&gt; in February 2013.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=247492&quot;&gt;2013 Final Report: Integrated Science Assessment for Ozone and Related Photochemical Oxidants&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Learn about the &lt;a href=&quot;/naaqs/ozone-o3-air-quality-standards&quot;&gt;Ozone Air Quality Standards&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History of the Ozone Assessments&lt;/h2&gt;
+
+		&lt;table summary=&quot;This table contains the history of the Ozone assessments.&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Feb 2013&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=247492&quot;&gt;Integrated Science Assessment for Ozone (Final, 2013) (EPA/600/R-10/076F)&lt;/a&gt;. &lt;strong&gt;This is the latest version.&lt;/strong&gt; [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2013-02-15/html/2013-03471.htm&quot;&gt;Federal Register Feb 15, 2013&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Feb 2006&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=149923&quot;&gt;Air Quality Criteria Document for Ozone (Final, 2006) (EPA/600/R-05/004)&lt;/a&gt;. [&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2006-02-28/html/E6-2799.htm&quot;&gt;Federal Register Feb 28, 2006&lt;/a&gt;]&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1996&lt;/td&gt;
+					&lt;td&gt;EPA released the document &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=44375&quot;&gt;Air Quality Criteria for Ozone and Related Photochemical Oxidants (Final, 1996) (EPA/600/P-93/004)&lt;/a&gt;.&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Reviewed Literature&lt;/h2&gt;
+
+		&lt;p&gt;While working on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/isa/recordisplay.cfm?deid=242490&quot;&gt;assessment of ozone (2012)&lt;/a&gt;, EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature that supported the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1628&quot;&gt;ISA-Ozone (2012) HERO Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;https://hero.epa.gov/hero/&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 19 Feb 2015 15:44:09 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">74913 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:32:54, expires @ 2017-01-26 04:32:54, lifetime 12 hours -->

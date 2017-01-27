@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/155161/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Ambient Monitoring Technology Information Center (AMTIC)</title>
+    <link>https://www.epa.gov/feed/155161/rss.xml</link>
+    <description>Updated Ambient Monitoring Technology Information Center (AMTIC) content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/155161/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Quality Assurance (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/quality-assurance-2016-naamc</link>
+    <description>&lt;p&gt;This session provided presentations related to improving data quality for criteria pollutants; managing quality systems and lessons learnd from the technical audits systems.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-322169&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/verifying_zero_sources.pdf&quot; type=&quot;application/pdf; length=689518&quot; class=&quot;file-link&quot;&gt;Verifying Zero Air Sources in an Ambient Air Gaseous Monitoring Network (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 690 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322171&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/trace_levels.pdf&quot; type=&quot;application/pdf; length=3474512&quot; class=&quot;file-link&quot;&gt;Trace Level Monitoring Guidance on Maintaining Consistent Performance at Low Levels of O3, NOx, SO2 and CO (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322175&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/achieving_qc_levels_0.pdf&quot; type=&quot;application/pdf; length=162326&quot; class=&quot;file-link&quot;&gt;Achieving New QC Levels (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 162 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322177&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/using_analyzer.pdf&quot; type=&quot;application/pdf; length=436323&quot; class=&quot;file-link&quot;&gt;Using Analyzer Meta-Data for Automated Troubleshooting (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 436 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322203&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/five_year_assessment.pdf&quot; type=&quot;application/pdf; length=1822485&quot; class=&quot;file-link&quot;&gt;Revitalized Five-Year Regional Network Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322205&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/cautionary_example.pdf&quot; type=&quot;application/pdf; length=407830&quot; class=&quot;file-link&quot;&gt;A Cautionary Example - Demonstrating the Importance of Quality Systems in NAAQS Decision Making (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 408 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322207&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/filter_media.pdf&quot; type=&quot;application/pdf; length=1538597&quot; class=&quot;file-link&quot;&gt;EPA&amp;#039;S Filter Media Procurement &amp;amp; Acceptance Testing Program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322209&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/approach_to_data.pdf&quot; type=&quot;application/pdf; length=652064&quot; class=&quot;file-link&quot;&gt;A Systematic Approach to Data Verification &amp;amp; Validation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 652 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 07 Oct 2016 12:35:00 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162253 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Toxics Community Studies  (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/air-toxics-community-studies-2016-naamc</link>
+    <description>&lt;p&gt;This session provided presentations on air toxics community studies.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321799&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/reducing_exposure_to_airborne.pdf&quot; type=&quot;application/pdf; length=4836505&quot; class=&quot;file-link&quot;&gt;Reducing Exposure to Airborne Chemical Toxics (REACT): Community-Scale Air Monitoring in Memphis (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321801&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/adapting_sampling.pdf&quot; type=&quot;application/pdf; length=632237&quot; class=&quot;file-link&quot;&gt;Adapting Sampling, Cleaning, and Analytical Methods for Low-Level Detection of Volatile Organic Compounds at the Waste Isolation Pilot Plant (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 632 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321807&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/performance_of_laboratories.pdf&quot; type=&quot;application/pdf; length=381471&quot; class=&quot;file-link&quot;&gt;Performance of Laboratories Understanding VOC in Air Analysis using Thermal Desorption (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 381 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321809&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/upper_green_river_basin.pdf&quot; type=&quot;application/pdf; length=3051520&quot; class=&quot;file-link&quot;&gt;Upper Green River Basin Air Emissions Study (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 18:36:53 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162151 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Photochemical Assessment Monitoring Station (PAMS) / Meteorology (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/photochemical-assessment-monitoring-station-pams-meteorology-2016-naamc</link>
+    <description>&lt;p&gt;This session included presentations on the PAMS program, including recent regulatory changes and implementation challenges.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321717&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/overview_of_pams.pdf&quot; type=&quot;application/pdf; length=612885&quot; class=&quot;file-link&quot;&gt;Overview of New PAMS Requirements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 613 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321727&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/enhancecd_monitoring.pdf&quot; type=&quot;application/pdf; length=6027255&quot; class=&quot;file-link&quot;&gt;Enhanced Monitoring Plans - A Maryland Perspective (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 6 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321733&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pams_qa_plan.pdf&quot; type=&quot;application/pdf; length=614470&quot; class=&quot;file-link&quot;&gt;PAMS Quality Assurance Implementation Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 614 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321767&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/reviewing_the_benefits.pdf&quot; type=&quot;application/pdf; length=1284719&quot; class=&quot;file-link&quot;&gt;Reviewing the Benefits of PAMS Measurements in the South Central US (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321769&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pams_auto_gc.pdf&quot; type=&quot;application/pdf; length=985682&quot; class=&quot;file-link&quot;&gt;Monitoring Network Performance for NMHCs Across 35 Monitors in Texas (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 986 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321775&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/assessment_of_noy.pdf&quot; type=&quot;application/pdf; length=1729519&quot; class=&quot;file-link&quot;&gt;Assessment of NOy and True NO2 Measurements Denver CO, San Jose CA &amp;amp; RTP NC (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 16:50:58 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162113 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Quality System (AQS) (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/air-quality-system-aqs-2016-naamc</link>
+    <description>&lt;p&gt;This session covered how to use AQS for Data Entry, QA Data, Exceptional Events, Metadata and Raw Data.  &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321595&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/access_control.pdf&quot; type=&quot;application/pdf; length=211112&quot; class=&quot;file-link&quot;&gt;Access Control and User Authentication (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 211 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321609&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/exceptional_events.pdf&quot; type=&quot;application/pdf; length=194272&quot; class=&quot;file-link&quot;&gt;Exceptional Events in AQS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 194 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321613&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/annual_data.pdf&quot; type=&quot;application/pdf; length=765006&quot; class=&quot;file-link&quot;&gt;Annual Air Monitoring Data Certification (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 765 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321615&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/working_with_qa.pdf&quot; type=&quot;application/pdf; length=794900&quot; class=&quot;file-link&quot;&gt;Working with QA Data (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(44 pp, 795 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321617&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/accessing_aqs_data.pdf&quot; type=&quot;application/pdf; length=678366&quot; class=&quot;file-link&quot;&gt;Accessing AQS Data (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 678 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321621&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/data_and_metadata.pdf&quot; type=&quot;application/pdf; length=528222&quot; class=&quot;file-link&quot;&gt;Data and Metadata - Monitoring Regulations to National Databases (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 528 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321625&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/aqs_support.pdf&quot; type=&quot;application/pdf; length=233231&quot; class=&quot;file-link&quot;&gt;AQS Support and Help (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 233 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 14:44:37 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162075 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>State/Local Challenges (Tips and Tricks) (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/statelocal-challenges-tips-and-tricks-2016-naamc</link>
+    <description>&lt;p&gt;This session was a discussion of air monitoring tips and tricks used by air monitoring staff at their monitoring sites.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321585&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/variability_in_bam1020.pdf&quot; type=&quot;application/pdf; length=1363691&quot; class=&quot;file-link&quot;&gt;Variability in BAM1020 Zero Background Tests (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 13:26:44 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162067 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sensors and Other Emerging Technologies (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/sensors-and-other-emerging-technologies-2016-naamc</link>
+    <description>&lt;p&gt;Presentations on sensors and other next generation air monitoring covered in this session&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321405&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/lesson_learned.pdf&quot; type=&quot;application/pdf; length=1589036&quot; class=&quot;file-link&quot;&gt;Results and Lessons Learned from Using Low-Cost PM Sensors to Detect Ambient PM2.5 and PM10 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321413&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/solar_power_and_ambient.pdf&quot; type=&quot;application/pdf; length=1986188&quot; class=&quot;file-link&quot;&gt;Solar Power &amp;amp; Ambient Monitoring (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321415&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/considerations_for_citizen.pdf&quot; type=&quot;application/pdf; length=40161701&quot; class=&quot;file-link&quot;&gt;Practical Considerations for Citizen Science Studies in the Field (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(50 pp, 40 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321417&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/real_world_evaluation.pdf&quot; type=&quot;application/pdf; length=5450826&quot; class=&quot;file-link&quot;&gt;CAIRSENSE Study: Real-world Evaluation of low Cost Sensors in Denver, Colorado (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321419&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/piloting_short_term.pdf&quot; type=&quot;application/pdf; length=1988093&quot; class=&quot;file-link&quot;&gt;Piloting Short-Term Messaging and Results of a PM2.5 Sensor Study (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 05 Oct 2016 15:41:48 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162019 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Toxics  (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/air-toxics-2016-naamc</link>
+    <description>&lt;p&gt;This session covered updates on the NATTS network and air toxics methods.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321359&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/natts_assessment.pdf&quot; type=&quot;application/pdf; length=389283&quot; class=&quot;file-link&quot;&gt;NATTS Network Assessment, Part 2 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 389 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321363&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/air_toxics_data_analysis.pdf&quot; type=&quot;application/pdf; length=1114505&quot; class=&quot;file-link&quot;&gt;Air Toxics Data Analysis (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321365&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/work_to_optimize.pdf&quot; type=&quot;application/pdf; length=984610&quot; class=&quot;file-link&quot;&gt;Update on Work to Optimize US EPA Method TO-11A for Carbonyls (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 985 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321369&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/sensitivity_enhancement.pdf&quot; type=&quot;application/pdf; length=2058277&quot; class=&quot;file-link&quot;&gt;Sensitivity Enhancement for trace Detection of Carbonyls by Submillimeter Wave Spectroscopy (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321371&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/canisters_to_meet_natts.pdf&quot; type=&quot;application/pdf; length=594486&quot; class=&quot;file-link&quot;&gt;Determining MDLs for VOCs in Canisters to Meet NATTS Requirements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 594 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 05 Oct 2016 13:37:32 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">162001 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Chemical Speciation  (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/chemical-speciation-2016-naamc</link>
+    <description>&lt;p&gt;This session covered a variety of topics pertaining to the chemical speciation network.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321077&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/speciation_network_update.pdf&quot; type=&quot;application/pdf; length=330601&quot; class=&quot;file-link&quot;&gt;Speciation Network Update and Overview (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 331 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321079&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/csn_uncertatinty.pdf&quot; type=&quot;application/pdf; length=1291273&quot; class=&quot;file-link&quot;&gt;Changes in CSN Uncertainty Calculations and Impacts on Reporting (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321083&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/recent_changes_to_the_improve.pdf&quot; type=&quot;application/pdf; length=7077908&quot; class=&quot;file-link&quot;&gt;Recent Changes to the IMPROVE and CSN Organic Carbon Artifact Adjustment Method (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 7 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321187&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/filter_transmitance.pdf&quot; type=&quot;application/pdf; length=1798814&quot; class=&quot;file-link&quot;&gt;Filter Transmittance Measurements: Experience with IMPROVE and Plans for CSN (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321189&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/validation_of_csn_data.pdf&quot; type=&quot;application/pdf; length=1271100&quot; class=&quot;file-link&quot;&gt;Validation of CSN Data (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(38 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321191&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/dart_for_csn.pdf&quot; type=&quot;application/pdf; length=2102824&quot; class=&quot;file-link&quot;&gt;DART for CSN (Data Analysis and Reporting Tool for Chemical Speciation Network Data) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321195&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/improve_mega_pe_program.pdf&quot; type=&quot;application/pdf; length=1303522&quot; class=&quot;file-link&quot;&gt;CSN &amp;amp; IMPROVE Mega PE Program Overview &amp;amp; Update (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321197&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/statistical_relationship.pdf&quot; type=&quot;application/pdf; length=2133450&quot; class=&quot;file-link&quot;&gt;Assessing the Statistical Relationship in Carbon Measurements Between Old and New Sampling and Analysis Protocols in the Chemical Speciation Network (CSN) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321207&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/nondestructive_method.pdf&quot; type=&quot;application/pdf; length=3370585&quot; class=&quot;file-link&quot;&gt;Using a Non-destructive, Inexpensive Method to Measure Carbonaceous Particulate Matter in CSN and IMPROVE (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(52 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321209&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/aerosol_measurements.pdf&quot; type=&quot;application/pdf; length=5190365&quot; class=&quot;file-link&quot;&gt;IMPROVE Aerosol Measurements:  Overview and Updates (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(37 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321211&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ambient_fine_pm_carbon.pdf&quot; type=&quot;application/pdf; length=870093&quot; class=&quot;file-link&quot;&gt;Impact of Ambient Fine Particulate Matter Carbon Measurement Methods on Observed Associations with Acute Cardiorespiratory Morbidity (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 870 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321213&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/mass_reconstruction.pdf&quot; type=&quot;application/pdf; length=3242248&quot; class=&quot;file-link&quot;&gt;Testing Assumptions of Mass Reconstruction Methods to Evaluate and Interpret PM Chemical Speciation Measurements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(45 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321215&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/source_apportionment.pdf&quot; type=&quot;application/pdf; length=1371818&quot; class=&quot;file-link&quot;&gt;Background PM2.5 Source Apportionment at Cheeka Peak Atmospheric Observatory (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321219&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/climatology_of_pm10.pdf&quot; type=&quot;application/pdf; length=2011767&quot; class=&quot;file-link&quot;&gt;Climatology of PM10 Metals in St louis from Hourly Data (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 04 Oct 2016 18:14:14 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">161947 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Quality Assurance Training  (2016 NAAMC)</title>
+    <link>https://www.epa.gov/amtic/quality-assurance-training-2016-naamc</link>
+    <description>&lt;p&gt;This training covered ambient air monitoring quality assurance requirements in 40 CFR Part 58 Appendix A for monitoring related to the NAAQS including a summary of 2016 regulatory changes. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-320693&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ambient_air_protocol_gas_verification_program.pdf&quot; type=&quot;application/pdf; length=377886&quot; class=&quot;file-link&quot;&gt;Ambient Air Protocol  Gas Verification Program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 378 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320701&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/annual_air_monitoring_data_certification.pdf&quot; type=&quot;application/pdf; length=590281&quot; class=&quot;file-link&quot;&gt;Annual Air Monitoring Data Certification and Concurrence Process (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 590 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320711&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/calculations_for_data_qa.pdf&quot; type=&quot;application/pdf; length=2017075&quot; class=&quot;file-link&quot;&gt;Appendix A: Calculations for Data Quality Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320713&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/gaseous_pollutants.pdf&quot; type=&quot;application/pdf; length=2297221&quot; class=&quot;file-link&quot;&gt;Gaseous Pollutants  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320715&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pb_quality_assurance.pdf&quot; type=&quot;application/pdf; length=1076938&quot; class=&quot;file-link&quot;&gt;Pb Quality Assurance Routine Monitoring and Pb-PEP (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320719&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pm_qa_requirements.pdf&quot; type=&quot;application/pdf; length=5173528&quot; class=&quot;file-link&quot;&gt;PM QA Requirements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(71 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320733&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/qa_system_for_the_ambient_air_monitoring_program.pdf&quot; type=&quot;application/pdf; length=1177268&quot; class=&quot;file-link&quot;&gt;QA System for the Ambient Air Monitoring Program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320741&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/quarterly_aqs_data_review.pdf&quot; type=&quot;application/pdf; length=294768&quot; class=&quot;file-link&quot;&gt;Air Monitoring Organization Quarterly AQS Data Review by an EPA Regional Office (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 295 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320743&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/aqs_504_report.pdf&quot; type=&quot;application/pdf; length=1298605&quot; class=&quot;file-link&quot;&gt;AQS 504 Report - Automated Data Review Tool (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320745&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/automating_qa_assessments.pdf&quot; type=&quot;application/pdf; length=2504113&quot; class=&quot;file-link&quot;&gt;Automating Quality Assurance Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-320747&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/technical_systems_audits.pdf&quot; type=&quot;application/pdf; length=5034676&quot; class=&quot;file-link&quot;&gt;Technical Systems Audits - QA 101 Session (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-321073&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pm2.5_continuous_monitoring.pdf&quot; type=&quot;application/pdf; length=1073815&quot; class=&quot;file-link&quot;&gt;PM2.5 Continuous Monitoring Network and Method update with focus on data quality (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 03 Oct 2016 18:40:39 +0000</pubDate>
+ <dc:creator>Kpaylor</dc:creator>
+ <guid isPermaLink="false">161863 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:23:33, expires @ 2017-01-26 17:23:33, lifetime 12 hours -->

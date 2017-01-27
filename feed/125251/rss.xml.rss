@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/125251/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Climate Change Indicators</title>
+    <link>https://www.epa.gov/feed/125251/rss.xml</link>
+    <description>Updated Climate Change Indicators content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/125251/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Collecting Snow and Ice Data</title>
+    <link>https://www.epa.gov/climate-indicators/collecting-snow-and-ice-data</link>
+    <description>&lt;p&gt;From “low-tech” backyard observations made by citizens in their own neighborhood to “high-tech” global satellite images of some of the most remote places in the world, scientists use a variety of techniques to track climate change. Below are some examples of the data collection methods used to create the indicators in this chapter.&lt;/p&gt;
+
+&lt;h2&gt;Satellites&lt;/h2&gt;
+
+&lt;p&gt;Satellites provide an efficient way to collect the kind of data that would be difficult to measure in person, such as measurements that need to be made at regular intervals over large areas or in remote locations. For example, the &lt;a href=&quot;/climate-indicators/climate-change-indicators-arctic-sea-ice&quot;&gt;Arctic Sea Ice&lt;/a&gt; indicator is derived from data-rich images taken by satellites that orbit the Earth every day, using instruments that can tell the difference between sea ice and open water.&lt;/p&gt;
+
+&lt;h2&gt;Field Measurements&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Photograph of scientists making measurements in the snow.&quot; height=&quot;299&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-07/methods-field-measurements.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Sometimes going out in the field and measuring by hand is the best way to collect precise information and maintain a long-running dataset. For the &lt;a href=&quot;/climate-indicators/climate-change-indicators-glaciers&quot;&gt;Glaciers&lt;/a&gt; indicator, scientists visit the same glaciers twice a year at locations marked with a network of stakes, where they measure snow depth and density.&lt;/p&gt;
+
+&lt;h2&gt;Citizen Science&lt;/h2&gt;
+
+&lt;p&gt;You don’t need a Ph.D. to be a scientist. Many citizen scientists have helped to create high-quality datasets of climate indicators that date back further than some modern climate monitoring programs. The &lt;a href=&quot;/climate-indicators/climate-change-indicators-lake-ice&quot;&gt;Lake Ice&lt;/a&gt; indicator includes local observations made from the same vantage point throughout the year. Some lakes have multiple observers, such as residents on both sides of a lake who can compare notes.&lt;/p&gt;
+
+&lt;h2&gt;Observation Stations&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Photograph of a scientists checking an observation station, surrounded by snowy mountains.&quot; height=&quot;270&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-07/methods-observation-station.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Automated observation stations make it possible to collect data continuously from places that may be difficult or expensive to reach. For example, scientists once had to travel to remote snowpack measurement sites by ski, snowshoe, snowmobile, or helicopter. Now, the &lt;a href=&quot;/climate-indicators/climate-change-indicators-snowpack&quot;&gt;Snowpack&lt;/a&gt; indicator uses hundreds of snow telemetry stations that automatically record and relay data back to a central computer every 15 minutes.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 29 Jul 2016 20:04:18 +0000</pubDate>
+ <dc:creator>xachirli</dc:creator>
+ <guid isPermaLink="false">156199 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Change Indicators Subscription Form</title>
+    <link>https://www.epa.gov/climate-indicators/forms/climate-change-indicators-subscription-form</link>
+    <description>&lt;h2&gt;Subscribe to our mailing list&lt;/h2&gt;
+
+&lt;p&gt;Occasionally, EPA sends out emails about new features, Web enhancements, and other updates. If you are interested in receiving these notifications, please enter your information in the form provided below. EPA does not share your contact information and you can unsubscribe at any time.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 29 Jul 2016 19:38:16 +0000</pubDate>
+ <dc:creator>kurt_cabral</dc:creator>
+ <guid isPermaLink="false">156197 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Understanding the Connections Between Climate Change and Human Health</title>
+    <link>https://www.epa.gov/climate-indicators/understanding-connections-between-climate-change-and-human-health</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Access USGCRP&#039;s Climate and Health Assessment Online&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;The Impacts of Climate Change on Human Health report cover&quot; height=&quot;580&quot; width=&quot;448&quot; class=&quot;left media-element file-medium left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-07/human_heatlh.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;The U.S. Global Change Research Program (USGCRP) report, &lt;em&gt;The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment&lt;/em&gt;, was published in April 2016.&lt;/p&gt;
+
+		&lt;p&gt;This comprehensive report captures the state of scientific knowledge about observed and projected impacts of climate change on human health in the United States.&lt;/p&gt;
+
+		&lt;p&gt;The report is available&lt;br /&gt;
+			online at: &lt;a href=&quot;https://health2016.globalchange.gov/&quot;&gt;https://health2016.globalchange.gov&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Climate change poses many threats to the health and well-being of Americans, from increasing the risk of extreme heat events and heavy storms to increasing the risk of asthma attacks and changing the spread of certain diseases carried by ticks and mosquitoes. Some of these health impacts are already happening in the United States.&lt;/p&gt;
+
+&lt;p&gt;Scientists&#039; understanding of the multiple ways that climate change increases risks to human health has advanced significantly in recent years. This section highlights key concepts from one of the latest climate and health assessments (see the box) to help illustrate how climate change can affect human health in the United States. In addition, this section demonstrates how EPA’s climate change indicators advance the dialogue in connecting climate change and human health.&lt;/p&gt;
+
+&lt;h2&gt;How Does Climate Change Affect Human Health?&lt;/h2&gt;
+
+&lt;p&gt;Climate change can exacerbate existing health threats or create new public health challenges through a variety of pathways. Figure 1 summarizes these connections by linking climate impacts to changes in exposure, which can then lead to negative effects on health (health outcomes). This figure also shows how other factors—such as where people live and their age, health, income, or ability to access health care resources—can positively or negatively influence people’s vulnerability to human health effects. For example, a family’s income, the quality of their housing, or their community’s emergency management plan can all affect that family’s exposure to extreme heat, the degree to which their health is affected by this threat, and their ability to adapt to impacts of extreme heat (for more examples, see Figure 4).&lt;/p&gt;
+
+&lt;h3&gt;Figure 1. Climate Change and Health Pathway&lt;/h3&gt;
+
+&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 1. Climate Change and Health Pathways Web&quot; title=&quot;Figure 1. Climate Change and Health Pathways Web&quot; height=&quot;577&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-07/8129_intr_pathwaysweb.png&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Figure 1 shows how climate change can affect people by changing their exposure to health threats (moving from top to bottom) and by influencing the environmental, institutional, social, and behavioral factors that affect a person’s or community’s health (moving through the boxes on the sides).&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2&gt;What can Indicators Tell Us About Climate Change and Human Health?&lt;/h2&gt;
+
+&lt;p&gt;As shown in Figure 1, the impacts of climate change on health are complex, often indirect, and dependent on multiple societal and environmental factors. Tracking changes in climate impacts and exposures improves understanding of changes in health risk, however, even if the actual health outcome is difficult to quantify. For example, the flooding pathway in Figure 2 shows how indicators of certain climate impacts like &lt;a href=&quot;/climate-indicators/climate-change-indicators-sea-level&quot;&gt;Sea Level&lt;/a&gt;, &lt;a href=&quot;/climate-indicators/climate-change-indicators-heavy-precipitation&quot;&gt;Heavy Precipitation&lt;/a&gt;, and &lt;a href=&quot;/climate-indicators/climate-change-indicators-coastal-flooding&quot;&gt;Coastal Flooding&lt;/a&gt; could be used by state and local health officials to better understand changes in human exposure to contaminated waters (a health risk). By recognizing changing risks, these officials can better understand how climate change affects the number of people who get sick with gastrointestinal illnesses (a health outcome). Thus, even where health data or long-term records are unavailable or where the links between climate and health outcomes are complex, indicators play an important role in understanding climate-related health impacts.&lt;/p&gt;
+
+&lt;h3&gt;Figure 2. Connecting Climate Change Indicators to Health Pathways&lt;/h3&gt;
+
+&lt;div id=&quot;figure-two-container&quot;&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;The three examples above show how climate impacts can affect health. The numbered circles identify where climate change indicators provide key information on changes occurring at different points along the pathways. Other factors can play a role in determining a person’s vulnerability to climate-related health outcomes; see Figure 1 and Figure 4.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2&gt;Who’s at Risk?&lt;/h2&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;div&gt;The effects of climate change also affect people’s mental health. In particular, climate- or weather-related disasters can increase the risk of adverse mental health consequences, especially if they result in damage to homes and livelihoods or loss of loved ones. The mental health impacts of these events can range from minimal stress and distress symptoms to clinical disorders, such as anxiety, depression, and post-traumatic stress.&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Every American faces a risk of health impacts associated with climate change. Some people, however, face higher risks than others because of differences in the hazards to which they are exposed, their sensitivity to these hazards, and their ability to adapt (see Figure 3). Thus, it is important to be able to identify “populations of concern,” which include groups representing people of all ages, living in different places, who interact with their environment in different ways. Figure 4 shows some examples of how certain populations are more vulnerable to health impacts because of differences in their exposure, sensitivity, or ability to adapt to climate-related stresses.&lt;/p&gt;
+
+&lt;p&gt;It is important to remember that the different health impacts identified here do not occur in isolation; people can face multiple threats at the same time, at different stages in their lives, or accumulating over the course of their lives. Risks may increase as people are exposed to multiple health threats. For example, extremely hot days can lead to heat-related illness as well as poor air quality, by increasing the chemical reactions that produce smog. In addition, many of the factors that influence whether a person is exposed to health threats or whether they become ill, such as an individual’s personal habits, living conditions, and access to medical care (see Figure 1), can also change over time.&lt;/p&gt;
+
+&lt;h3&gt;Figure 3. Determinants of Vulnerability&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 3. Climate Health Determinants of Vulnerability&quot; title=&quot;Figure 3. Climate Health Determinants of Vulnerability&quot; height=&quot;586&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-07/8129_climatehealth_determinants.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Figure 4. Examples of Climate Change Vulnerability&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Figure 4. Examples of Climate Change Vulnerability&quot; title=&quot;Figure 4. Examples of Climate Change Vulnerability&quot; height=&quot;1073&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-07/8129_climatehealth_vulnerability.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;h2&gt;Additional Resources&lt;/h2&gt;
+
+&lt;p&gt;Understanding the threats that climate change poses to human health can help people and communities work together to lower risks and be prepared. Climate change threatens human health, including mental health, as well as access to clean air, safe drinking water, nutritious food, and shelter.&lt;/p&gt;
+
+&lt;p&gt;The following EPA resources on how climate change affects your health can be found on the &lt;a href=&quot;https://www3.epa.gov/climatechange/impacts/&quot;&gt;Climate Change Impacts&lt;/a&gt; site:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/climatechange/impacts/health/factsheets/&quot;&gt;Eight fact sheets on populations&lt;/a&gt; shown in Figure 4 that are particularly vulnerable to the health impacts of climate change.&lt;/li&gt;
+	&lt;li&gt;A &lt;a href=&quot;https://www3.epa.gov/climatechange/impacts/health-assessment.html&quot;&gt;clickable map with examples of state impacts and resources&lt;/a&gt; to help individuals and communities prepare and respond to climate threats.&lt;/li&gt;
+	&lt;li&gt;An online &lt;a href=&quot;https://www3.epa.gov/climatechange/impacts/health-assessment-quiz.html&quot;&gt;10-question quiz&lt;/a&gt; to challenge you and your friends on climate and health knowledge.&lt;/li&gt;
+	&lt;li&gt;A &lt;a href=&quot;https://www3.epa.gov/climatechange/impacts/health/factsheets/climate-health-life-stages.pdf&quot;&gt;fact sheet highlighting health impacts of climate change at different stages of life&lt;/a&gt; &lt;small&gt;(PDF, 1 pp, 1 MB)&lt;/small&gt;, from infancy through adolescence to adulthood.&lt;/li&gt;
+&lt;/ol&gt;</description>
+     <pubDate>Wed, 27 Jul 2016 20:21:47 +0000</pubDate>
+ <dc:creator>xsdejesu</dc:creator>
+ <guid isPermaLink="false">155937 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Downloads for Previous Editions of the Indicators Report</title>
+    <link>https://www.epa.gov/climate-indicators/downloads-previous-editions-indicators-report</link>
+    <description>&lt;p&gt;EPA has published a new printed edition of &lt;em&gt;Climate Change Indicators in the United States&lt;/em&gt; every two years, starting in 2010. This page provides access to previous editions, along with related fact sheets and brochures featuring content from the report. All of these publications are available below as downloadable PDF files.&lt;/p&gt;
+
+&lt;h3&gt;Additional files you can download from other pages:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-report&quot;&gt;PDF versions of EPA&#039;s 2016 report and supporting elements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/printer-friendly-pdf-downloads-indicator-text-and-figures&quot;&gt;Printer-friendly PDF versions of each indicator (containing all text and figures)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-technical-documentation&quot;&gt;Detailed technical documentation for EPA&#039;s indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;High-resolution figures and the numerical data underlying the figures (on each indicator page)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-303687&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/climateindicators-full-2014.pdf&quot; type=&quot;application/pdf; length=25311139&quot; class=&quot;file-link&quot;&gt;2014 full report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(112 pp, 25 MB, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306015&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-technical-documentation-2014.pdf&quot; type=&quot;application/pdf; length=3020904&quot; class=&quot;file-link&quot;&gt;2014 technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(279 pp, 3 MB, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306017&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-brochure-2014.pdf&quot; type=&quot;application/pdf; length=1929969&quot; class=&quot;file-link&quot;&gt;2014 summary brochure (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306019&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-factsheet-2014.pdf&quot; type=&quot;application/pdf; length=467265&quot; class=&quot;file-link&quot;&gt;2014 fact sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 467 K, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306023&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/climateindicators-full-2012.pdf&quot; type=&quot;application/pdf; length=19056694&quot; class=&quot;file-link&quot;&gt;2012 full report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(84 pp, 19 MB, 
+  December 2012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306021&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-technical-documentation-2012.pdf&quot; type=&quot;application/pdf; length=2644809&quot; class=&quot;file-link&quot;&gt;2012 technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(180 pp, 3 MB, 
+  December 2012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306073&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/2011-workshop-report.pdf&quot; type=&quot;application/pdf; length=240539&quot; class=&quot;file-link&quot;&gt;Summary report from March 2011 workshop (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 241 K, 
+  June 2011)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306025&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-full-2010.pdf&quot; type=&quot;application/pdf; length=15036668&quot; class=&quot;file-link&quot;&gt;2010 full report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(80 pp, 15 MB, 
+  April 2010)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306027&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ci-technical-documentation-2010.pdf&quot; type=&quot;application/pdf; length=717438&quot; class=&quot;file-link&quot;&gt;2010 technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(150 pp, 717 K, 
+  April 2010)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 19:32:22 +0000</pubDate>
+ <dc:creator>xrbongio</dc:creator>
+ <guid isPermaLink="false">155771 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Printer-Friendly PDF Downloads of Indicator Text and Figures</title>
+    <link>https://www.epa.gov/climate-indicators/printer-friendly-pdf-downloads-indicator-text-and-figures</link>
+    <description>&lt;p&gt;From this page, you can download and view a printer-friendly PDF version of each indicator presented on this website. Each PDF contains all the figures and text associated with a given indicator.&lt;/p&gt;
+
+&lt;h3&gt;Additional files you can download from other pages:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-report&quot;&gt;PDF versions of EPA&#039;s 2016 report and supporting elements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-previous-editions-indicators-report&quot;&gt;PDF versions of previous editions of this report&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-technical-documentation&quot;&gt;Detailed technical documentation for EPA&#039;s indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;High-resolution figures and the numerical data underlying the figures (on each indicator page)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-306167&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_antarctic-sea-ice-2016_0.pdf&quot; type=&quot;application/pdf; length=470747&quot; class=&quot;file-link&quot;&gt;Antarctic Sea Ice (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 471 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-333643&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/print_arctic-sea-ice-2016.pdf&quot; type=&quot;application/pdf; length=765767&quot; class=&quot;file-link&quot;&gt;Arctic Sea Ice (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 766 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305701&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_ghg-concentrations-2016.pdf&quot; type=&quot;application/pdf; length=820011&quot; class=&quot;file-link&quot;&gt;Atmospheric Concentrations of Greenhouse Gases (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 820 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306091&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_bird-ranges-2016.pdf&quot; type=&quot;application/pdf; length=431015&quot; class=&quot;file-link&quot;&gt;Bird Wintering Ranges (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 431 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305699&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_climate-forcing-2016.pdf&quot; type=&quot;application/pdf; length=283031&quot; class=&quot;file-link&quot;&gt;Climate Forcing (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 283 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306097&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_cherry-blossoms-2016.pdf&quot; type=&quot;application/pdf; length=302154&quot; class=&quot;file-link&quot;&gt;Cherry Blossom Bloom Dates in Washington, D.C. (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 302 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308657&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_coastal-flooding-2016_0.pdf&quot; type=&quot;application/pdf; length=400248&quot; class=&quot;file-link&quot;&gt;Coastal Flooding (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 400 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306143&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_drought-2016.pdf&quot; type=&quot;application/pdf; length=493840&quot; class=&quot;file-link&quot;&gt;Drought (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 494 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306125&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_glaciers-2016.pdf&quot; type=&quot;application/pdf; length=789997&quot; class=&quot;file-link&quot;&gt;Glaciers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 790 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306273&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_global-ghg-emissions-2016.pdf&quot; type=&quot;application/pdf; length=386902&quot; class=&quot;file-link&quot;&gt;Global Greenhouse Gas Emissions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 387 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306095&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_great-lakes-2016.pdf&quot; type=&quot;application/pdf; length=864579&quot; class=&quot;file-link&quot;&gt;Great Lakes Water Levels and Temperatures (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 865 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306151&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_heating-cooling-2016.pdf&quot; type=&quot;application/pdf; length=476068&quot; class=&quot;file-link&quot;&gt;Heating and Cooling Degree Days (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 476 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306107&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_heat-deaths-2016.pdf&quot; type=&quot;application/pdf; length=570087&quot; class=&quot;file-link&quot;&gt;Heat-Related Deaths (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 570 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306109&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_heat-illness-2016.pdf&quot; type=&quot;application/pdf; length=444615&quot; class=&quot;file-link&quot;&gt;Heat-Related Illnesses (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 445 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306131&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_heavy-precip-2016.pdf&quot; type=&quot;application/pdf; length=429457&quot; class=&quot;file-link&quot;&gt;Heavy Precipitation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 429 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306133&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_high-low-temps-2016.pdf&quot; type=&quot;application/pdf; length=1074790&quot; class=&quot;file-link&quot;&gt;High and Low Temperatures (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 1 MB, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306117&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_river-ice-2016.pdf&quot; type=&quot;application/pdf; length=353474&quot; class=&quot;file-link&quot;&gt;Ice Breakup in Two Alaskan Rivers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 353 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306115&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_lake-ice-2016.pdf&quot; type=&quot;application/pdf; length=722717&quot; class=&quot;file-link&quot;&gt;Lake Ice (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 723 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306083&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_land-loss-2016.pdf&quot; type=&quot;application/pdf; length=255191&quot; class=&quot;file-link&quot;&gt;Land Loss Along the Atlantic Coast (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 255 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306093&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_leaf-bloom-dates-2016.pdf&quot; type=&quot;application/pdf; length=994964&quot; class=&quot;file-link&quot;&gt;Leaf and Bloom Dates (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 995 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306105&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_growing-season-2016.pdf&quot; type=&quot;application/pdf; length=906753&quot; class=&quot;file-link&quot;&gt;Length of Growing Season (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 907 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306111&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_lyme_2016.pdf&quot; type=&quot;application/pdf; length=666439&quot; class=&quot;file-link&quot;&gt;Lyme Disease (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 666 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306147&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_marine-species-2016.pdf&quot; type=&quot;application/pdf; length=582412&quot; class=&quot;file-link&quot;&gt;Marine Species Distribution (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 582 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306087&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_acidity-2016.pdf&quot; type=&quot;application/pdf; length=691722&quot; class=&quot;file-link&quot;&gt;Ocean Acidity (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 692 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306081&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_ocean-heat-2016.pdf&quot; type=&quot;application/pdf; length=322887&quot; class=&quot;file-link&quot;&gt;Ocean Heat (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 323 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306113&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_ragweed-2016.pdf&quot; type=&quot;application/pdf; length=337800&quot; class=&quot;file-link&quot;&gt;Ragweed Pollen Season (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 338 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306155&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_river-flooding-2016.pdf&quot; type=&quot;application/pdf; length=520690&quot; class=&quot;file-link&quot;&gt;River Flooding (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 521 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306089&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_sea-level-2016.pdf&quot; type=&quot;application/pdf; length=431947&quot; class=&quot;file-link&quot;&gt;Sea Level (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 432 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306077&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_sea-surface-temp-2016.pdf&quot; type=&quot;application/pdf; length=458924&quot; class=&quot;file-link&quot;&gt;Sea Surface Temperature (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 459 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306119&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_snow-cover-2016.pdf&quot; type=&quot;application/pdf; length=479022&quot; class=&quot;file-link&quot;&gt;Snow Cover (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 479 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306121&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_snowfall-2016.pdf&quot; type=&quot;application/pdf; length=602643&quot; class=&quot;file-link&quot;&gt;Snowfall (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 603 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306123&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_snowpack-2016.pdf&quot; type=&quot;application/pdf; length=481793&quot; class=&quot;file-link&quot;&gt;Snowpack (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 482 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306099&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_stream-temperature-2016.pdf&quot; type=&quot;application/pdf; length=368527&quot; class=&quot;file-link&quot;&gt;Stream Temperature (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 369 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306101&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_streamflow-2016.pdf&quot; type=&quot;application/pdf; length=754472&quot; class=&quot;file-link&quot;&gt;Streamflow (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 754 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306137&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_southwest-2016.pdf&quot; type=&quot;application/pdf; length=627050&quot; class=&quot;file-link&quot;&gt;Temperature and Drought in the Southwest (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 627 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306145&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_snake-river-2016.pdf&quot; type=&quot;application/pdf; length=252405&quot; class=&quot;file-link&quot;&gt;Trends in Stream Temperature in the Snake River (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 252 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306129&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_cyclones-2016.pdf&quot; type=&quot;application/pdf; length=527677&quot; class=&quot;file-link&quot;&gt;Tropical Cyclone Activity (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 528 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306349&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_precipitation-2016.pdf&quot; type=&quot;application/pdf; length=546654&quot; class=&quot;file-link&quot;&gt;U.S. and Global Precipitation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 547 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306139&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_temperature-2016.pdf&quot; type=&quot;application/pdf; length=517439&quot; class=&quot;file-link&quot;&gt;U.S. and Global Temperature (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 517 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306275&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_us-ghg-emissions-2016.pdf&quot; type=&quot;application/pdf; length=468797&quot; class=&quot;file-link&quot;&gt;U.S. Greenhouse Gas Emissions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 469 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306153&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_west-nile_2016.pdf&quot; type=&quot;application/pdf; length=392643&quot; class=&quot;file-link&quot;&gt;West Nile Virus (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 393 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306149&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/print_wildfires-2016.pdf&quot; type=&quot;application/pdf; length=618134&quot; class=&quot;file-link&quot;&gt;Wildfires (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 618 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 19:28:13 +0000</pubDate>
+ <dc:creator>xcehlenf</dc:creator>
+ <guid isPermaLink="false">155763 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Downloads for Indicators Technical Documentation</title>
+    <link>https://www.epa.gov/climate-indicators/downloads-indicators-technical-documentation</link>
+    <description>&lt;p&gt;EPA has developed comprehensive technical documentation that describes the data sources and analytical methods for every indicator presented in the &lt;em&gt;Climate Change Indicators in the United States &lt;/em&gt;report. A PDF version of the technical documentation is provided below for each indicator, along with an overview that describes EPA&#039;s process for selecting and evaluating indicators.&lt;/p&gt;
+
+&lt;h3&gt;Additional files you can download from other pages:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-report&quot;&gt;PDF versions of EPA&#039;s 2016 report and supporting elements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/printer-friendly-pdf-downloads-indicator-text-and-figures&quot;&gt;Printer-friendly PDF versions of each indicator (containing all text and figures)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-previous-editions-indicators-report&quot;&gt;PDF versions of previous editions of this report&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;High-resolution figures and the numerical data underlying the figures (on each indicator page)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-306245&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/technical-documentation-overview-2016.pdf&quot; type=&quot;application/pdf; length=339483&quot; class=&quot;file-link&quot;&gt;Technical documentation overview (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 339 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305997&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/antarctic-sea-ice_documentation.pdf&quot; type=&quot;application/pdf; length=302042&quot; class=&quot;file-link&quot;&gt;Antarctic Sea Ice technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 302 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-333649&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/arctic-sea-ice-documentation.pdf&quot; type=&quot;application/pdf; length=381784&quot; class=&quot;file-link&quot;&gt;Arctic Sea Ice technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 382 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309173&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ghg-concentrations_documentation.pdf&quot; type=&quot;application/pdf; length=431133&quot; class=&quot;file-link&quot;&gt;Atmospheric Concentrations of Greenhouse Gases technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 431 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305725&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/bird-ranges_documentation.pdf&quot; type=&quot;application/pdf; length=222799&quot; class=&quot;file-link&quot;&gt;Bird Wintering Ranges technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 223 K, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305615&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/climate-forcing_documentation.pdf&quot; type=&quot;application/pdf; length=247779&quot; class=&quot;file-link&quot;&gt;Climate Forcing technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 248 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305731&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/cherry-blossoms_documentation.pdf&quot; type=&quot;application/pdf; length=173106&quot; class=&quot;file-link&quot;&gt;Cherry Blossom Bloom Dates in Washington, D.C. technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 173 K, 
+  April 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308655&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/coastal-flooding_documentation_0.pdf&quot; type=&quot;application/pdf; length=202486&quot; class=&quot;file-link&quot;&gt;Coastal Flooding Documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 202 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305631&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/drought_documentation.pdf&quot; type=&quot;application/pdf; length=272822&quot; class=&quot;file-link&quot;&gt;Drought technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 273 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306001&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/glaciers_documentation.pdf&quot; type=&quot;application/pdf; length=259771&quot; class=&quot;file-link&quot;&gt;Glaciers technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 260 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305645&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/global-ghg-emissions_documentation.pdf&quot; type=&quot;application/pdf; length=225946&quot; class=&quot;file-link&quot;&gt;Global Greenhouse Gas Emissions technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 226 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305735&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/great-lakes_documentation.pdf&quot; type=&quot;application/pdf; length=267934&quot; class=&quot;file-link&quot;&gt;Great Lakes Water Levels and Temperatures technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 268 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305879&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/heating-cooling_documentation.pdf&quot; type=&quot;application/pdf; length=222070&quot; class=&quot;file-link&quot;&gt;Heating and Cooling Degree Days technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 222 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-348099&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/heat-deaths_documentation.pdf&quot; type=&quot;application/pdf; length=399133&quot; class=&quot;file-link&quot;&gt;Heat-Related Deaths technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 399 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305877&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/heat-illness_documentation.pdf&quot; type=&quot;application/pdf; length=208725&quot; class=&quot;file-link&quot;&gt;Heat-Related Illnesses technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 209 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305647&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/heavy-precip_documentation.pdf&quot; type=&quot;application/pdf; length=194689&quot; class=&quot;file-link&quot;&gt;Heavy Precipitation technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 195 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305653&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/high-low-temps_documentation.pdf&quot; type=&quot;application/pdf; length=244431&quot; class=&quot;file-link&quot;&gt;High and Low Temperatures technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 244 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305995&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/river-ice_documentation.pdf&quot; type=&quot;application/pdf; length=177658&quot; class=&quot;file-link&quot;&gt;Ice Breakup in Two Alaskan Rivers technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 178 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306005&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/lake-ice_documentation.pdf&quot; type=&quot;application/pdf; length=269599&quot; class=&quot;file-link&quot;&gt;Lake Ice technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 270 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305881&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/land-loss_documentation.pdf&quot; type=&quot;application/pdf; length=1035182&quot; class=&quot;file-link&quot;&gt;Land Loss Along the Atlantic Coast technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 1 MB, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305739&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/leaf-bloom-dates_documentation.pdf&quot; type=&quot;application/pdf; length=216246&quot; class=&quot;file-link&quot;&gt;Leaf and Bloom Dates technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 216 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305871&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/growing-season_documentation.pdf&quot; type=&quot;application/pdf; length=233402&quot; class=&quot;file-link&quot;&gt;Length of Growing Season technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 233 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305885&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/lyme_documentation.pdf&quot; type=&quot;application/pdf; length=309186&quot; class=&quot;file-link&quot;&gt;Lyme Disease technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 309 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305741&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/marine-species_documentation.pdf&quot; type=&quot;application/pdf; length=255223&quot; class=&quot;file-link&quot;&gt;Marine Species Distribution technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 255 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305867&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/acidity_documentation.pdf&quot; type=&quot;application/pdf; length=294748&quot; class=&quot;file-link&quot;&gt;Ocean Acidity technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 295 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305887&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ocean-heat_documentation.pdf&quot; type=&quot;application/pdf; length=194512&quot; class=&quot;file-link&quot;&gt;Ocean Heat technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 195 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305889&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/ragweed_documentation.pdf&quot; type=&quot;application/pdf; length=207600&quot; class=&quot;file-link&quot;&gt;Ragweed Pollen Season technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 208 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305663&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/river-flooding_documentation.pdf&quot; type=&quot;application/pdf; length=184083&quot; class=&quot;file-link&quot;&gt;River Flooding technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 184 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305891&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/sea-level_documentation.pdf&quot; type=&quot;application/pdf; length=301401&quot; class=&quot;file-link&quot;&gt;Sea Level technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 301 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305895&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/sea-surface-temp_documentation.pdf&quot; type=&quot;application/pdf; length=184437&quot; class=&quot;file-link&quot;&gt;Sea Surface Temperature technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 184 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305989&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/snow-cover_documentation.pdf&quot; type=&quot;application/pdf; length=210392&quot; class=&quot;file-link&quot;&gt;Snow Cover technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 210 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306029&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/snowfall_documentation.pdf&quot; type=&quot;application/pdf; length=212190&quot; class=&quot;file-link&quot;&gt;Snowfall technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 212 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305987&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/snowpack_documentation.pdf&quot; type=&quot;application/pdf; length=222935&quot; class=&quot;file-link&quot;&gt;Snowpack technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 223 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305755&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/stream-temperature_documentation.pdf&quot; type=&quot;application/pdf; length=197115&quot; class=&quot;file-link&quot;&gt;Stream Temperature technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 197 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305749&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/streamflow_documentation.pdf&quot; type=&quot;application/pdf; length=214779&quot; class=&quot;file-link&quot;&gt;Streamflow technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 215 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305677&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/southwest_documentation.pdf&quot; type=&quot;application/pdf; length=248388&quot; class=&quot;file-link&quot;&gt;Temperature and Drought in the Southwest technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 248 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305745&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/snake-river_documentation.pdf&quot; type=&quot;application/pdf; length=170544&quot; class=&quot;file-link&quot;&gt;Trends in Stream Temperature in the Snake River technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 171 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305625&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/cyclones_documentation.pdf&quot; type=&quot;application/pdf; length=223210&quot; class=&quot;file-link&quot;&gt;Tropical Cyclone Activity technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 223 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-306347&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/precipitation_documentation.pdf&quot; type=&quot;application/pdf; length=183265&quot; class=&quot;file-link&quot;&gt;U.S. and Global Precipitation technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 183 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305683&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/temperature_documentation.pdf&quot; type=&quot;application/pdf; length=242015&quot; class=&quot;file-link&quot;&gt;U.S. and Global Temperature technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 242 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305687&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/us-ghg-emissions_documentation.pdf&quot; type=&quot;application/pdf; length=206597&quot; class=&quot;file-link&quot;&gt;U.S. Greenhouse Gas Emissions technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 207 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305897&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/west-nile_documentation.pdf&quot; type=&quot;application/pdf; length=206463&quot; class=&quot;file-link&quot;&gt;West Nile Virus technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 206 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-305759&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/wildfires_documentation.pdf&quot; type=&quot;application/pdf; length=548213&quot; class=&quot;file-link&quot;&gt;Wildfires technical documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 548 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 19:20:35 +0000</pubDate>
+ <dc:creator>xclamie</dc:creator>
+ <guid isPermaLink="false">155761 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Downloads for the Indicators Report</title>
+    <link>https://www.epa.gov/climate-indicators/downloads-indicators-report</link>
+    <description>&lt;p&gt;The information on this website is drawn from the fourth edition of EPA&#039;s &lt;em&gt;Climate Change Indicators in the United States&lt;/em&gt;, published in 2016. This report presents 37 indicators, each describing trends related to the causes and effects of climate change. It focuses primarily on the United States, but in some cases global trends are presented to provide context or a basis for comparison. The online version is updated periodically as new data become available, and thus may differ from the printed version available below. &lt;/p&gt;
+
+&lt;p&gt;Order print copies or send inquiries by emailing: &lt;a href=&quot;mailto:climateindicators@epa.gov&quot;&gt;climateindicators@epa.gov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Additional files you can download from other pages:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/climate-indicators/printer-friendly-pdf-downloads-indicator-text-and-figures&quot;&gt;Printer-friendly PDF versions of each indicator (containing all text and figures)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-previous-editions-indicators-report&quot;&gt;PDF versions of previous editions of this report&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/climate-indicators/downloads-indicators-technical-documentation&quot;&gt;Detailed technical documentation for EPA&#039;s indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;High-resolution figures and the numerical data underlying the figures (on each indicator page)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-306441&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/climate_indicators_2016.pdf&quot; type=&quot;application/pdf; length=19625812&quot; class=&quot;file-link&quot;&gt;2016 full report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(96 pp, 20 MB, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-328737&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/climate-indicators-2016-fact-sheet.pdf&quot; type=&quot;application/pdf; length=2255451&quot; class=&quot;file-link&quot;&gt;2016 fact sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  October 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 19:19:51 +0000</pubDate>
+ <dc:creator>xclamie</dc:creator>
+ <guid isPermaLink="false">155759 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Change Indicators References</title>
+    <link>https://www.epa.gov/climate-indicators/climate-change-indicators-references</link>
+    <description>&lt;ol&gt;&lt;li&gt;IPCC (Intergovernmental Panel on Climate Change). 2013. Climate change 2013: The physical science basis. Working Group I contribution to the IPCC Fifth Assessment Report. Cambridge, United Kingdom: Cambridge University Press. &lt;a href=&quot;http://www.ipcc.ch/report/ar5/wg1/&quot;&gt;www.ipcc.ch/report/ar5/wg1&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</description>
+     <pubDate>Thu, 07 Jul 2016 13:49:37 +0000</pubDate>
+ <dc:creator>xachirli</dc:creator>
+ <guid isPermaLink="false">154299 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Change Indicators: West Nile Virus</title>
+    <link>https://www.epa.gov/climate-indicators/climate-change-indicators-west-nile-virus</link>
+    <description>&lt;div id=&quot;social-icons&quot;&gt;
+	&lt;div&gt;&lt;span class=&quot;twitter&quot;&gt;&lt;a href=&quot;http://twitter.com/home?status=Climate%20Change%20Indicators:%20West%20Nile%20Virus:%20https://www.epa.gov/climate-indicators/west-nile-virus&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-thumbnail&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Share Icon&quot; title=&quot;Twitter&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-thumbnail inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-01/twitter31.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div&gt;&lt;span&gt;&lt;a href=&quot;http://www.facebook.com/sharer.php?u=https://www.epa.gov/climate-indicators/west-nile-virus&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-thumbnail&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Share Icon&quot; title=&quot;Facebook&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-thumbnail inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-01/facebook6.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div&gt;&lt;span&gt;&lt;a href=&quot;http://reddit.com/submit?url=https://www.epa.gov/climate-indicators/west-nile-virus&amp;amp;title=Climate%20Change%20Indicators:West%20Nile%20Virus&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-full&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Reddit Share Icon&quot; title=&quot;Reddit Share Icon&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-03/reddit-new.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This indicator tracks the rate of reported West Nile virus disease cases across the United States.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; id=&quot;indicator-container&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul id=&quot;slideshow&quot;&gt;&lt;li&gt;&lt;label for=&quot;img1&quot;&gt;&lt;strong&gt;Figure 1.&lt;/strong&gt; Reported Neuroinvasive Cases of West Nile Virus Disease in the United States, 2002-2014&lt;/label&gt; &lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:100%px;&quot;&gt;&lt;img alt=&quot;Stacked area graph showing the annual incidence of neuroinvasive West Nile virus disease, which is calculated as the number of new reported cases in the United States per 100,000 people, from 2002 to 2014.&quot; title=&quot;Reported Neuroinvasive Cases of West Nile Virus Disease in the United States, 2002–2014&quot; height=&quot;580&quot; width=&quot;100%&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-07/west-nile-figure1-2016.png&quot; /&gt;&lt;/span&gt;
+				&lt;div class=&quot;row cols-3&quot;&gt;
+					&lt;div class=&quot;col&quot;&gt;&lt;span&gt;&lt;a href=&quot;/sites/production/files/2016-08/west-nile_fig-1.csv&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-teaser&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Download Data&quot; title=&quot;Download Data&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-teaser inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-12/spreadsheet4.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;  &lt;span&gt;&lt;a href=&quot;/sites/production/files/styles/large/public/2016-07/west-nile-download1-2016.png&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-teaser&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Download Image&quot; title=&quot;Download Image&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-teaser inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-12/images11.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt; &lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt; &lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div id=&quot;caption1&quot;&gt;
+					&lt;p&gt;This figure shows the annual incidence of West Nile virus neuroinvasive disease, which is calculated as the number of new cases per 100,000 people. The graph is based on cases that local and state health departments report to CDC’s national disease tracking system. Neuroinvasive cases, which occur for less than 1 percent of people infected with West Nile virus, are those that affect the brain or cause neurologic dysfunction.&lt;/p&gt;
+
+					&lt;p&gt;Data source: CDC, 2016&lt;a href=&quot;#ref8&quot;&gt;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt;&lt;br /&gt;&lt;em&gt;Web update: &lt;/em&gt;&lt;em&gt;August &lt;/em&gt;&lt;em&gt;2016&lt;/em&gt;&lt;/p&gt;
+
+					
+				&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li&gt;&lt;label for=&quot;img2&quot;&gt;&lt;strong&gt;Figure 2.&lt;/strong&gt; Reported Neuroinvasive Cases of West Nile Virus Disease by State, 2002-2014&lt;/label&gt; &lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:100%px;&quot;&gt;&lt;img alt=&quot;Color-coded map showing the average number of annual cases of neuroinvasive West Nile virus disease by state from 2002 to 2014.&quot; title=&quot;Reported Neuroinvasive Cases of West Nile Virus Disease by State, 2002–2014&quot; height=&quot;798&quot; width=&quot;100%&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-07/west-nile-figure2-2016.png&quot; /&gt;&lt;/span&gt;
+				&lt;div class=&quot;row cols-3&quot;&gt;
+					&lt;div class=&quot;col&quot;&gt;&lt;span&gt;&lt;a href=&quot;/sites/production/files/2016-08/west-nile_fig-2.csv&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-teaser&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Download Data&quot; title=&quot;Download Data&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-teaser inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-12/spreadsheet4.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;  &lt;span&gt;&lt;a href=&quot;/sites/production/files/styles/large/public/2016-07/west-nile-download2-2016.png&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-teaser&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;Download Image&quot; title=&quot;Download Image&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-teaser inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-12/images11.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;  &lt;span&gt;&lt;a href=&quot;http://arcg.is/2epA5B8 &quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-thumbnail&quot; style=&quot;width:32px;&quot;&gt;&lt;img alt=&quot;KMZ Icon&quot; title=&quot;View Interactive Map&quot; height=&quot;32&quot; width=&quot;32&quot; class=&quot;inline media-element file-thumbnail inline&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-01/location73.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt; &lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt; &lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div id=&quot;caption2&quot;&gt;
+					&lt;p&gt;This map shows the average annual incidence of West Nile virus neuroinvasive disease in each state, which is calculated as the average number of new cases per 100,000 people per year from 2002 to 2014. The map is based on cases that local and state health departments report to CDC’s national disease tracking system. Neuroinvasive cases, which occur for less than 1 percent of people infected with West Nile virus, are those that affect the brain or cause neurologic dysfunction.&lt;/p&gt;
+
+					&lt;p&gt;Data source: CDC, 2016&lt;a href=&quot;#ref9&quot;&gt;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt;&lt;br /&gt;&lt;em&gt;Web update: &lt;/em&gt;&lt;em&gt;August &lt;/em&gt;&lt;em&gt;2016&lt;/em&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-2&quot; id=&quot;navigation&quot;&gt;
+	&lt;div class=&quot;col&quot;&gt;
+		&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;# &quot; id=&quot;nav1-tmb&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Stacked area graph showing the annual incidence of neuroinvasive West Nile virus disease, which is calculated as the number of new reported cases in the United States per 100,000 people, from 2002 to 2014.&quot; title=&quot;Reported Neuroinvasive Cases of West Nile Virus Disease in the United States, 2002–2014&quot; height=&quot;112&quot; width=&quot;160&quot; class=&quot;center media-element file-teaser center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2016-07/west-nile-thumb1-2016.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;# &quot; id=&quot;nav1&quot;&gt;&lt;small&gt;&lt;b&gt;Figure 1.&lt;/b&gt; Reported Neuroinvasive Cases of West Nile Virus Disease in the United States, 2002-2014&lt;/small&gt;&lt;/a&gt; &lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col&quot;&gt;
+		&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;# &quot; id=&quot;nav2-tmb&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Color-coded map showing the average number of annual cases of neuroinvasive West Nile virus disease by state from 2002 to 2014.&quot; title=&quot;Reported Neuroinvasive Cases of West Nile Virus Disease by State, 2002–2014&quot; height=&quot;112&quot; width=&quot;160&quot; class=&quot;center media-element file-teaser center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2016-07/west-nile-thumb2-2016.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;# &quot; id=&quot;nav2&quot;&gt;&lt;small&gt;&lt;b&gt;Figure 2.&lt;/b&gt; Reported Neuroinvasive Cases of West Nile Virus Disease by State, 2002–2014&lt;/small&gt;&lt;/a&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 01 Jul 2016 22:02:05 +0000</pubDate>
+ <dc:creator>xachirli</dc:creator>
+ <guid isPermaLink="false">154099 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:37:03, expires @ 2017-01-26 17:37:03, lifetime 12 hours -->

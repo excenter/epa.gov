@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/66135/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Analytical Methods</title>
+    <link>https://www.epa.gov/feed/66135/rss.xml</link>
+    <description>Updated Pesticide Analytical Methods content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/66135/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>ECM for Acifluorfen in Water - MRID 49085303</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-acifluorfen-water-mrid-49085303</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49085303&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2/26/13&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Water&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; United Phosphorus, Inc.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; GC/ECD&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt; 0.1 µg/L&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347525&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49085303-acifluorfen-ecm-water.pdf&quot; type=&quot;application/pdf; length=275098&quot; class=&quot;file-link&quot;&gt;ECM - Acifluorfen in Water - MRID 49085303 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 275 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347527&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49085302-acifluorfen-ilv-water.pdf&quot; type=&quot;application/pdf; length=166352&quot; class=&quot;file-link&quot;&gt;ILV - Acifluorfen in Water - MRID 49085302 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 166 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347529&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/114402_49085302_der-fate_850.6100_06-17-15.pdf&quot; type=&quot;application/pdf; length=329136&quot; class=&quot;file-link&quot;&gt;DER - Acifluorfen in Water - MRID 49085303 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 329 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 Jan 2017 18:03:09 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169565 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Acifluorfen in Soil - MRID 49085304</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-acifluorfen-soil-mrid-49085304</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49085304&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2/26/13&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Soil&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; United Phosphorus, Inc.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis: &lt;/strong&gt;LC/MS/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt; 5 µg/kg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347505&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49085304-acifluorfen-ecm-soil.pdf&quot; type=&quot;application/pdf; length=289226&quot; class=&quot;file-link&quot;&gt;ECM - Acifluorfen in Soil - MRID 49085304 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 289 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347509&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49085301-acifluorfen-ilv-soil.pdf&quot; type=&quot;application/pdf; length=124621&quot; class=&quot;file-link&quot;&gt;ILV - Acifluorfen in Soil - MRID 49085301 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 125 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347513&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/114402_49085301_der-fate_850.6100_06-17-15.pdf&quot; type=&quot;application/pdf; length=304241&quot; class=&quot;file-link&quot;&gt;DER - Acifluorfen in Soil - MRID 49085304 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 304 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 Jan 2017 17:28:10 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169561 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Lambda-cyhalothrin in Water - MRID 49721702</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-lambda-cyhalothrin-water-mrid-49721702</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49721702&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 7/1/15&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Water&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; Syngenta Crop Protection, LLC&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; GC/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt;  10 ng/L&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347473&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49721702-lambda-cyhalothrin-ecm-water.pdf&quot; type=&quot;application/pdf; length=2565459&quot; class=&quot;file-link&quot;&gt;ECM - Lambda-cyhalothrin in Water - MRID 49721702 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347477&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49721702-lambda-cyhalothrin-ilv-water.pdf&quot; type=&quot;application/pdf; length=688575&quot; class=&quot;file-link&quot;&gt;ILV - Lambda-cyhalothrin in Water - MRID 49721702 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 689 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347481&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/128897_49721702_der-fate_850.6100_3-3-16.pdf&quot; type=&quot;application/pdf; length=242375&quot; class=&quot;file-link&quot;&gt;DER - Lambda-cyhalothrin in Water - MRID 49721702 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 242 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 Jan 2017 16:36:59 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169547 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Lambda-cyhalothrin in Soil - MRID 49520001</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-lambda-cyhalothrin-soil-mrid-49520001</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49520001&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 9/12/14&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Soil&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; Syngenta Crop Protection, LLC&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; GC/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt;  1.0 µg/kg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347455&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49520001-lambda-cyhalothrin-ecm-soil.pdf&quot; type=&quot;application/pdf; length=209220&quot; class=&quot;file-link&quot;&gt;ECM - Lambda-cyhalothrin in Soil - MRID 49520001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 209 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347459&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49721701-lambda-cyhalothrin-ilv-soil.pdf&quot; type=&quot;application/pdf; length=1258604&quot; class=&quot;file-link&quot;&gt;ILV - Lambda-cyhalothrin in Soil - MRID 49721701 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347463&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/128897_49520001_der-fate_850.6100_3-2-16.pdf&quot; type=&quot;application/pdf; length=249218&quot; class=&quot;file-link&quot;&gt;DER - Lambda-cyhalothrin in Soil - MRID 49520001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 249 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 Jan 2017 16:22:05 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169541 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Captan in Water - MRID 49687805</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-captan-water-mrid-49687805</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49687805&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 6/9/15&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Water&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; Makhteshim-Agan of North America, Inc.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; GC/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ): &lt;/strong&gt;100 µg/L&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347401&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49687805-captan-ecm-water.pdf&quot; type=&quot;application/pdf; length=2348736&quot; class=&quot;file-link&quot;&gt;ECM - Captan in Water - MRID 49687805 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347405&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49687804-captan-ilv-water.pdf&quot; type=&quot;application/pdf; length=4171932&quot; class=&quot;file-link&quot;&gt;ILV - Captan in Water - MRID 49687804 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347409&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/081301_49687804_der-fate_850.6100_12-18-15.pdf&quot; type=&quot;application/pdf; length=416529&quot; class=&quot;file-link&quot;&gt;DER - Captan in Water - MRID 49687805, 49687804 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 417 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 Jan 2017 13:44:20 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">169503 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Primisulfuron-methyl &amp; Degradates in Water- MRID 49447004</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-primisulfuron-methyl-degradates-water-mrid-49447004</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49447004&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date: &lt;/strong&gt;07/11/14&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Water&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant: &lt;/strong&gt;Syngenta Crop Protection, LLC&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; LC/MS/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt; 50 ng/L&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347065&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447004-primisulfuron-methyl-ecm-water.pdf&quot; type=&quot;application/pdf; length=1069126&quot; class=&quot;file-link&quot;&gt;ECM -Primisulfuron-methyl &amp;amp; Degradates in Water - MRID 49447004 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347075&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447003-primisulfuron-methyl-ilv-water.pdf&quot; type=&quot;application/pdf; length=2430720&quot; class=&quot;file-link&quot;&gt;ILV - Primisulfuron-methyl &amp;amp; Degradates in Water - MRID 49447003 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(38 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347077&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447004-primisulfuron-methyl-der-water.pdf&quot; type=&quot;application/pdf; length=445657&quot; class=&quot;file-link&quot;&gt;DER - Primisulfuron-methyl &amp;amp; Degradates in Water - MRID 49447004 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 446 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 18 Jan 2017 18:09:19 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">169409 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Primisulfuron-methyl in Soil - MRID 49447001</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-primisulfuron-methyl-soil-mrid-49447001</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID&lt;/strong&gt;: 49447001&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 07/11/14&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Soil&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant&lt;/strong&gt;: Syngenta Crop Protection, LLC&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis&lt;/strong&gt;: LC/MS/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt; 10 µg/kg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-347045&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447001-primisulfuron-methyl-ecm-soil.pdf&quot; type=&quot;application/pdf; length=873360&quot; class=&quot;file-link&quot;&gt;ECM - Primisulfuron-methyl in Soil - MRID 49447001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 873 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347055&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447002-primisulfuron-methyl-ilv-soil.pdf&quot; type=&quot;application/pdf; length=1179205&quot; class=&quot;file-link&quot;&gt;ILV - Primisulfuron-methyl in Soil - MRID 49447002 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-347061&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49447001-primisulfuron-methyl-der-soil.pdf&quot; type=&quot;application/pdf; length=277103&quot; class=&quot;file-link&quot;&gt;DER - Primisulfuron-methyl in Soil - MRID 49447001 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 277 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 18 Jan 2017 17:55:01 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">169401 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Ethephon in Water - MRID 49305604</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-ethephon-water-mrid-49305604</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49305604&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 1/23/14&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Water&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; Bayer CropScience&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; LC/MS/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt; 0.5 µg/L&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346919&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49305604-ethephon-ecm-water.pdf&quot; type=&quot;application/pdf; length=269590&quot; class=&quot;file-link&quot;&gt;ECM - Ethephon in Water - MRID 49305604 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 270 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-346927&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49305603-ethephon-ilv-water.pdf&quot; type=&quot;application/pdf; length=430219&quot; class=&quot;file-link&quot;&gt;ILV - Ethephon in Water - MRID 49305603 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 430 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-346931&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/099801_49305604_der-fate_850.6100_9-10-15.pdf&quot; type=&quot;application/pdf; length=137689&quot; class=&quot;file-link&quot;&gt;DER - Ethephon in Water - MRID 49305604 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 138 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 18 Jan 2017 14:56:18 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169375 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ECM for Ethephon in Soil - MRID 49305602</title>
+    <link>https://www.epa.gov/pesticide-analytical-methods/ecm-ethephon-soil-mrid-49305602</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;strong&gt;MRID:&lt;/strong&gt; 49305602&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 1/16/14&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Matrix:&lt;/strong&gt; Soil&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Registrant:&lt;/strong&gt; Bayer CropScience&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Analysis:&lt;/strong&gt; LC/MS/MS&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Limit of Quantitation (LOQ):&lt;/strong&gt;  5.0 µg/kg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346875&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49305602-ethephon-ecm-soil.pdf&quot; type=&quot;application/pdf; length=247444&quot; class=&quot;file-link&quot;&gt;ECM - Ethephon in Soil - MRID 49305602 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 247 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-346883&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/49305601-ethephon-ilv-soil.pdf&quot; type=&quot;application/pdf; length=710604&quot; class=&quot;file-link&quot;&gt;ILV - Ethephon in Soil - MRID 49305601 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 711 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-346905&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/099801_49305602_der-fate_850.6100_9-8-15.pdf&quot; type=&quot;application/pdf; length=149372&quot; class=&quot;file-link&quot;&gt;DER - Ethephon in Soil - MRID 49305602 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 149 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 18 Jan 2017 14:25:08 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">169369 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:16:23, expires @ 2017-01-26 16:16:23, lifetime 12 hours -->

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/73265/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Integrated Climate and Land-Use Scenarios </title>
+    <link>https://www.epa.gov/feed/73265/rss.xml</link>
+    <description>Updated Integrated Climate and Land-Use Scenarios  content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/73265/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>ICLUS Data for the Northwest Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-northwest-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Northwest Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing the Northwest Region of the United States&quot; title=&quot;Map showing the Northwest Region of the United States&quot; height=&quot;406&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/northwest_0.jpg&quot; /&gt;&lt;/span&gt;The Northwest region includes ID, OR, and WA.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Northwest region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/northwest.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;964Kb, Shapefile format&lt;/td&gt;
+				&lt;td&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Northwest region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the growth of the northwest population.&quot; height=&quot;287&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/northwest_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt; Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Northwest Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/northwest_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 15:41:49 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161565 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Southwest Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-southwest-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Southwest Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing just the Southwest Region of the United States&quot; title=&quot;Map showing just the Southwest Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/southwest_0.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+			The Southwest region includes AZ, CA, CO, NM, NV, and UT.&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Southwest region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/southwest.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;1.5Mb, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Southwest region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trend in the Southeast population growth&quot; height=&quot;284&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/southwest_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Southwest Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/southwest_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 15:40:44 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161563 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Northeast Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-northeast-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Northeast Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing just the Northeast Region of the United States&quot; title=&quot;Map showing just the Northeast Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/northeast_0.jpg&quot; /&gt;&lt;/span&gt;The Northeast region includes CT, DE, MA, MD, ME, NH, NJ, NY, PA, RI, VT, and WV.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Northeast region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/northeast.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;1.3Mb, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Northeast region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trend in the Northeast population growth.&quot; title=&quot;Chart showing the increase trend in the Northeast population growth&quot; height=&quot;303&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/northeast_population.png&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Northeast Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/northeast_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 15:39:39 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161561 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Southeast Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-southeast-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Southeast Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing just the Southeast Region of the United States&quot; title=&quot;Map showing just the Southeast Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/southeast_0.jpg&quot; /&gt;&lt;/span&gt;The Southeast region includes AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, and VA.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Southeast region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/southeast.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;3.8Mb, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Southeast region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trend in the Southeast population growth.&quot; height=&quot;288&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/southeast_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Southeast Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/southeast_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt; Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 15:38:39 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161559 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Midwest Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-midwest-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Midwest Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing just the Midwest Region of the United States&quot; title=&quot;Map showing just the Midwest Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/midwest_0.jpg&quot; /&gt;&lt;/span&gt;The Midwest region includes IA, IL, IN, MI, MN, MO, OH, and WI.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Midwest region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/midwest.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;1.2Mb, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Midwest region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trend in the Midwest population growth.&quot; height=&quot;306&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/midwest_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Midwest Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/midwest_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 15:37:34 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161557 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Southern Plains Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-southern-plains-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Southern Plains Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing just the Southern Plains Region of the United States&quot; title=&quot;Map showing just the Southern Plains Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/southern_plains_0.jpg&quot; /&gt;&lt;/span&gt;The Southern Plains region includes KS, OK, and TX.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Southern Plains region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/southern_plains.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;1.3Mb, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Southern Plains region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trends of population in the Southern Plains region.&quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/southern_plains_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Southern Plains Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/southern_plains_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 29 Sep 2016 15:35:33 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161555 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Northern Plains Region</title>
+    <link>https://www.epa.gov/iclus/iclus-data-northern-plains-region</link>
+    <description>&lt;!--Begin Tabs--&gt;
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northern-plains-region&quot;&gt;Northern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southern-plains-region&quot;&gt;Southern Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-midwest-region&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-northeast-region&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Northern Plains Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Map showing the Northern Plains Region of the United States&quot; title=&quot;Map showing the Northern Plains Region of the United States&quot; height=&quot;405&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-11/northern_plains_0.jpg&quot; /&gt;&lt;/span&gt;The Northern Plains region includes MT, ND, NE, SD, and WY.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data (version 2) outputs made available to the regional groups of the National Climate Assessment consist of populations. The projections are based on the 2010 U.S. Census and use fertility, mortality and immigration rates from the &lt;a href=&quot;http://witt.null2.net/shiny/wic/&quot;&gt;Wittgenstein Centre&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to project decadal population to 2100. These projections are therefore consistent with the demographic assumptions of the SSP2 and SSP5 socioeconomic scenarios. ICLUS population projections are used as inputs to a land use model, which spatially allocates five residential land uses (exurban-low, exurban-high, suburban, urban-low, urban-high) as well as commercial and industrial.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available below cover the Northern Plains region. All datasets are compatible with standard geographic information systems.&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/northern_plains.zip&quot;&gt;Population Data (SSP2 &amp;amp; SSP5)&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;841Kb, Shapefile format&lt;/td&gt;
+				&lt;td&gt;Population Projections&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;The graphs below provide an overview of population and developed land area trends across the two scenarios, SSP2 and SSP5, over time for the Northern Plains region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the increase trends of population in the Northern Plains region.&quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/northern_plains_population.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt; Download &lt;span id=&quot;file-319567&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/popbyregion_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=42434&quot; class=&quot;file-link&quot;&gt;Population Trend Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Land Use Chart of the Northern Plains Region &quot; height=&quot;305&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-12/northern_plains_developed_land.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;span id=&quot;file-338619&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/devel_landuse_by_region_nocc.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=52147&quot; class=&quot;file-link&quot;&gt;Developed Landuse Data using ICLUS Version 2 Datasets&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 13:42:51 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">161519 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Podcast Transcript</title>
+    <link>https://www.epa.gov/iclus/iclus-podcast-transcript</link>
+    <description>&lt;p&gt;This is the transcipt of the 3:51 minute podcast about an overview of the Integrated Climate and Land-Use Scenarios Project.&lt;/p&gt;
+
+&lt;p&gt;Speaker is Philip Morefield of the Global Climate Research Program in the National Center for Environmental Assessment (NCEA).&lt;br /&gt;
+	NCEA is a national center in the Office of Research and Development (ORD).&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-190479&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/epa_iclus_podcast_phil_july_script.pdf&quot; type=&quot;application/pdf; length=71569&quot; class=&quot;file-link&quot;&gt;EPA ICLUS Podcast Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 72 K, 
+  08-13-2012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 10 Sep 2015 17:14:00 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">112365 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICLUS Data for the Midwest Region (V.1)</title>
+    <link>https://www.epa.gov/iclus/iclus-data-midwest-region-v1</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;&lt;!--Begin Tabs--&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northwest-region-v1&quot;&gt;Northwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southwest-region-v1&quot;&gt;Southwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-great-plains-region-v1&quot;&gt;Great Plains&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;/iclus/iclus-data-midwest-region-v1&quot;&gt;Midwest&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-northeast-region-v1&quot;&gt;Northeast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;/iclus/iclus-data-southeast-region-v1&quot;&gt;Southeast&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Midwest Region&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Map showing just the Midwest Region of the United States&quot; height=&quot;213&quot; width=&quot;200&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-05/nca-midwest.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;The Midwest region includes IA, IL, IN, MI, MN, MO, OH, and WI.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;ICLUS data made available to the Regional groups of the National Climate Assessment consists of population and housing density. Population data are based on the 2000 U.S. Census and use fertility rates from the Census Bureau to project population to 2100 in 5-year time steps for each county in the conterminous United States. By using high and low fertility rates, scenarios are consistent with A2 and B1 scenarios, respectively. The population data are used as inputs to a spatial allocation model, which produces maps of housing density. These data are classified into four categories of urban, suburban, exurban, and rural. The resolution of these data is 1 hectare.&lt;/p&gt;
+
+	&lt;p&gt;Datasets available here cover the Midwest region. All data are compatible with standard Geographic Information Systems (GIS).&lt;/p&gt;
+
+	&lt;table summary=&quot;ICLUS Datasets&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Dataset to download&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Description&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;vertical-align:top&quot;&gt;Metadata&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/data/Public/ORD/NCEA/Midwest.zip&quot;&gt;Population Data (A2 &amp;amp; B1 files)&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;393 K, Shapefile format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id={1BB3ECBD-3EEB-43F3-AF78-B1196ACCC732}&amp;amp;xsl=metadata_to_html_full&quot;&gt;County Population Projections&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/data/Public/ORD/NCEA/MidwestA2.zip&quot;&gt;A2 Housing Density Data&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;92.1 MB, GRID format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id={2E953B8B-08A1-42FB-BAAB-1D5C246BC7D0}&amp;amp;xsl=metadata_to_html_full&quot;&gt;Housing Density Projections (Classified)&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr style=&quot;vertical-align:top&quot;&gt;&lt;td scope=&quot;row&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/data/Public/ORD/NCEA/MidwestB1.zip&quot;&gt;B1 Housing Density Data&lt;/a&gt;&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;93.1 MB, GRID format&lt;/td&gt;
+				&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id={2E953B8B-08A1-42FB-BAAB-1D5C246BC7D0}&amp;amp;xsl=metadata_to_html_full&quot;&gt;Housing Density Projections (Classified)&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;p&gt;The graphs below provide an overview of population and housing density trends across the two scenarios, A2 and B1, over time for the Midwest region.&lt;/p&gt;
+
+	&lt;div class=&quot;row cols-2&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the population trends of the midwest region.&quot; height=&quot;314&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/pop-midwest.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;a href=&quot;/sites/production/files/2015-05/popbyregion.xls&quot;&gt;Population Trends By Region Spreadsheet (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(85K)&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Chart showing the housing density trends of the midwest region.&quot; height=&quot;347&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/hd-midwest.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;Download &lt;a href=&quot;/sites/production/files/2015-05/hdbyregion.xls&quot;&gt;Housing Density Trends By Region Spreadsheet (XLS)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(141K)&lt;/span&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	
+&lt;/div&gt;
+</description>
+     <pubDate>Tue, 19 May 2015 20:22:42 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">84845 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>

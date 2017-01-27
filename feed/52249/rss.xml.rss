@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/52249/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>E-Enterprise for the Environment</title>
+    <link>https://www.epa.gov/feed/52249/rss.xml</link>
+    <description>Updated E-Enterprise for the Environment content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/52249/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>E-Enterprise Projects</title>
+    <link>https://www.epa.gov/e-enterprise/e-enterprise-projects</link>
+    <description>&lt;p dir=&quot;LTR&quot;&gt;The following are additional E-Enterprise projects:　&lt;/p&gt;
+
+&lt;p dir=&quot;LTR&quot;&gt;E-Enterprise projects related to Advanced Monitoring:　&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/advanced-monitoring-projects/advanced-monitoring/&quot;&gt;Advanced Monitoring Strategy and Implementation&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/sites/production/files/2016-01/documents/village-green-project-fact-sheet.pdf&quot;&gt;Village Green Air Monitoring Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir=&quot;LTR&quot;&gt;E-Enterprise projects related to Air:　&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/air-quality-projects/ldar/&quot;&gt;Leak Detection and Repair (LDAR)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/air-quality-projects/specs-for-sips/&quot;&gt;SPeCS for SIPs (State Plan Electronic Collection System for State Implementation Plans)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir=&quot;LTR&quot;&gt;E-Enterprise projects related to Land:　&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/land-projects/waste-gen/&quot;&gt;Decision Support Tools for RCRA Waste Generators&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/land-projects/emanifest/&quot;&gt;e-Manifest for Hazardous Waste&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/program-modernization-projects/pesticides-data-accessibility-and-label-matching/&quot;&gt;Pesticides Data Accessibility Label Matching&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/shared-services-projects/smart-mobile-tools-for-field-inspectors/&quot;&gt;Smart Mobile Tools for Field Inspectors Project Management Team (PMT)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/land-projects/waste-import-export/&quot;&gt;Hazardous Waste Export-Import Tracking System (WEITS)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir=&quot;LTR&quot;&gt;E-Enterprise projects related to Shared Services:　&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/program-modernization-projects/ee-facility-team/&quot;&gt;E-Enterprise Facility Team&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/shared-services-projects/isol/&quot;&gt;E-Enterprise Integrated Identity Solution (ISOL) Project&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.exchangenetwork.net/shared-cromerr-services-ipt/&quot;&gt;Reusable Electronic Signature Services to Streamline CROMERR Compliance&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/shared-services-projects/shared-svcs-ipt/&quot;&gt;Shared Services IPT (Phase 1)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/shared-services-projects/smart-mobile-tools-for-field-inspectors/&quot;&gt;Smart Mobile Tools for Field Inspectors Project Management Team (PMT)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.exchangenetwork.net/virtual-exchange-service/&quot;&gt;Virtual Exchange Services&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir=&quot;LTR&quot;&gt;E-Enterprise projects related to Water:　&lt;/p&gt;
+
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;&lt;a href=&quot;http://www.exchangenetwork.net/npdes-e-reporting-ipt/&quot;&gt;National Pollutant Discharge Elimination System (NPDES) E-Reporting Rule Implementation Integrated Project Team (IPT)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://e-enterprisefortheenvironment.net/our-projects/water-quality-projects/sdwis-prime/&quot;&gt;Safe Drinking Water Information System (SDWIS)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 14 Dec 2016 21:24:00 +0000</pubDate>
+ <dc:creator>ACox02</dc:creator>
+ <guid isPermaLink="false">167181 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>October 2016 Combined Air Emissions Reporting Webinar</title>
+    <link>https://www.epa.gov/e-enterprise/october-2016-combined-air-emissions-reporting-webinar</link>
+    <description>&lt;p&gt;CAER webinar presentation slides.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-331419&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/caer-webinar-10-2016.pdf&quot; type=&quot;application/pdf; length=836288&quot; class=&quot;file-link&quot;&gt;October 2016 CAER Webinar (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 836 K, 
+  October 5, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 14 Nov 2016 20:12:12 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">165083 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequently Asked Questions: The Common Emissions Form</title>
+    <link>https://www.epa.gov/e-enterprise/frequently-asked-questions-common-emissions-form</link>
+    <description>&lt;p&gt;FAQ on the CAER Common Emissions Form (CEF).&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-331417&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/cef-faq.pdf&quot; type=&quot;application/pdf; length=337107&quot; class=&quot;file-link&quot;&gt;Frequently Asked Questions: The Common Emissions Form (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 337 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 14 Nov 2016 20:07:35 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">165079 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Combined Air Emissions Reporting Project Description</title>
+    <link>https://www.epa.gov/e-enterprise/combined-air-emissions-reporting-project-description</link>
+    <description>&lt;p&gt;Description of CAER&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-322119&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-project-description.pdf&quot; type=&quot;application/pdf; length=177421&quot; class=&quot;file-link&quot;&gt;Combined Air Emissions Reporting Project Description (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 177 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 07 Oct 2016 02:06:50 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162249 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAER Improvements to WebFIRE Final Project Presentation</title>
+    <link>https://www.epa.gov/e-enterprise/caer-improvements-webfire-final-project-presentation</link>
+    <description>&lt;p&gt;Final Project Presentation for the Improvements to WebFIRE project for Combined Air Emissions Reporting&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321993&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-webfire-project-presentation.pdf&quot; type=&quot;application/pdf; length=1161774&quot; class=&quot;file-link&quot;&gt;CAER Improvements to WebFIRE Final Project Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 21:22:50 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162215 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAER Improvements to WebFIRE Project Description</title>
+    <link>https://www.epa.gov/e-enterprise/caer-improvements-webfire-project-description</link>
+    <description>&lt;p&gt;Description of the Improvements to WebFIRE project for Combined Air Emissions Reporting&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321987&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-webfire-project-description.pdf&quot; type=&quot;application/pdf; length=60779&quot; class=&quot;file-link&quot;&gt;CAER Improvements to WebFIRE Project Description (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 61 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 21:20:51 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162213 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAER Source Classification Code Web Access Final Project Presentation</title>
+    <link>https://www.epa.gov/e-enterprise/caer-source-classification-code-web-access-final-project-presentation</link>
+    <description>&lt;p&gt;Final Project Presentation for the Source Classification Code (SCC) Web Access project for Combined Air Emissions Reporting&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321979&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-scc-project-presentation.pdf&quot; type=&quot;application/pdf; length=134634&quot; class=&quot;file-link&quot;&gt;CAER Source Classification Code Web Access Final Project Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 135 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 21:18:14 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162209 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAER Source Classification Code Web Access Project Description</title>
+    <link>https://www.epa.gov/e-enterprise/caer-source-classification-code-web-access-project-description</link>
+    <description>&lt;p&gt;Description of the Source Classification Code (SCC) Web Access project for Combined Air Emissions Reporting&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321977&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-scc-project-description.pdf&quot; type=&quot;application/pdf; length=353593&quot; class=&quot;file-link&quot;&gt;CAER Source Classification Code Web Access Project Description (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 354 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 21:15:38 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162207 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAER National Emission Inventory Data Augmentation Reduction Final Project Presentation</title>
+    <link>https://www.epa.gov/e-enterprise/caer-national-emission-inventory-data-augmentation-reduction-final-project-presentation</link>
+    <description>&lt;p&gt;Final Project Presentation of the National Emission Inventory Data Augmentation Reduction project for Combined Air Emissions Reporting&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-321973&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/caer-nei-data-project-presentation.pdf&quot; type=&quot;application/pdf; length=898050&quot; class=&quot;file-link&quot;&gt;CAER National Emission Inventory Data Augmentation Reduction Final Project Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 898 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 06 Oct 2016 21:12:42 +0000</pubDate>
+ <dc:creator>bhefele</dc:creator>
+ <guid isPermaLink="false">162203 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:45:40, expires @ 2017-01-26 16:45:40, lifetime 12 hours -->

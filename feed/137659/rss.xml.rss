@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137659/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Nitrogen Dioxide (NO2) Pollution</title>
+    <link>https://www.epa.gov/feed/137659/rss.xml</link>
+    <description>Updated Nitrogen Dioxide (NO2) Pollution content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137659/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Fact Sheets:  Ambient Nitrogen Dioxide Monitoring Requirements</title>
+    <link>https://www.epa.gov/no2-pollution/fact-sheets-ambient-nitrogen-dioxide-monitoring-requirements</link>
+    <description>&lt;p&gt;EPA removed the requirement to install near-road nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) monitoring stations in Core Based Statistical Areas (CBSAs) having populations between 500,000 and 1 million.  Under the original monitoring requirements, these monitors were due to be installed and operational by January 1, 2017. &lt;/p&gt;
+
+&lt;p&gt;This page includes fact sheets related to the proposed and final action.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-339813&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/fact_sheet_-_nr_no2.pdf&quot; type=&quot;application/pdf; length=51455&quot; class=&quot;file-link&quot;&gt;Proposed NO2 Monitoring Revisions Fact Sheet  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 51 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-341619&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/fact_sheet_-_nr_no2_final_rule_12-23-16_final.pdf&quot; type=&quot;application/pdf; length=42159&quot; class=&quot;file-link&quot;&gt;Final NO2 Monitoring Revisions Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 42 K, 
+  12/22/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 19 Dec 2016 21:27:54 +0000</pubDate>
+ <dc:creator>jashley</dc:creator>
+ <guid isPermaLink="false">167523 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ambient Nitrogen Dioxide Monitoring Requirements</title>
+    <link>https://www.epa.gov/no2-pollution/ambient-nitrogen-dioxide-monitoring-requirements</link>
+    <description></description>
+     <pubDate>Mon, 19 Dec 2016 21:15:48 +0000</pubDate>
+ <dc:creator>jashley</dc:creator>
+ <guid isPermaLink="false">167519 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Technical Data and Reports on Nitrogen Dioxide Measurements and SIP Status</title>
+    <link>https://www.epa.gov/no2-pollution/technical-data-and-reports-nitrogen-dioxide-measurements-and-sip-status</link>
+    <description>&lt;p&gt;EPA collects data from the states and regions on their air quality and state implementation plan (SIP) progress. This information is compiled in a database, and used to create reports, trend charts, and maps.&lt;/p&gt;
+
+&lt;h2&gt;SIP status reports&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Note: since there are currently no nonattainment areas for NO&lt;sub&gt;2&lt;/sub&gt;, reports are only available on infrastructure SIPs for this pollutant.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Reports for infrastructure SIP requirements&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/x110_a__2__no2__2010_in.html&quot;&gt;Infrastructure SIP status reports listed by requirement&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_i.html&quot;&gt;Infrastructure SIP status reports listed by state&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;SIPs approved by EPA&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/approved-sips/approved-sips-epa-region&quot;&gt;View approved SIPs by state&lt;/a&gt;, organized by states in each EPA region.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Air quality data&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://airnow.gov&quot;&gt;AirNow&lt;/a&gt;: see real-time air pollution data in the United States.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;/air-trends/nitrogen-dioxide-trends&quot;&gt;Air Quality Trends&lt;/a&gt;: View trends for nitrogen dioxide levels in ambient air; measured nationally, regionally, and locally; up to 2015.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-trends/air-quality-design-values&quot;&gt;Design Values&lt;/a&gt;: view statistics that describe the air quality status of a given area relative to the level of EPA&#039;s National Ambient Air Quality Standards. These Excel reports are listed by pollutant.&lt;/p&gt;
+
+&lt;h2&gt;Designations&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/nitrogen-dioxide-designations&quot;&gt;NO&lt;sub&gt;2&lt;/sub&gt; Designations&lt;/a&gt;: This web site provides information on the process EPA, the states, and the tribes follow to designate areas as &quot;attainment&quot; (meeting) or &quot;nonattainment&quot; (not meeting) the nitrogen dioxide standards.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/greenbook/nindex.html&quot;&gt;Green Book&lt;/a&gt;: listings of areas designated nonattainment for each NAAQS pollutant. It includes current designation and classification status, area maps, reports, and Federal Register notices.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 04 Aug 2016 20:37:08 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">156665 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Applying or Implementing Nitrogen Dioxide Standards</title>
+    <link>https://www.epa.gov/no2-pollution/applying-or-implementing-nitrogen-dioxide-standards</link>
+    <description>&lt;div&gt;On This Page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#designations&quot;&gt;Designations: how do we know if an area is not meeting NO&lt;sub&gt;2&lt;/sub&gt; standards?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#sip&quot;&gt;What are the state implementation plan (SIP) requirements?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#attain&quot;&gt;How do states develop SIPs and start attaining the standards?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;designations&quot; id=&quot;designations&quot;&gt;&lt;/a&gt;Designations: how do we know if an area is not meeting NO&lt;span style=&quot;vertical-align:baseline&quot;&gt;2&lt;/span&gt; standards?&lt;/h2&gt;
+
+&lt;p&gt;Areas within each state are &quot;designated&quot; as either meeting (attaining) nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) standards or not meeting them. In some cases, an entire state may attain a standard. Those areas that exceed the standards are known as “nonattainment areas.”&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about the &lt;a href=&quot;/criteria-air-pollutants/naaqs-designations-process&quot;&gt;NAAQS designations process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;As of 1998, there are no nonattainment areas for NO&lt;sub&gt;2&lt;/sub&gt;. However, some areas are designated as &quot;maintenance&quot; areas. Maintenance plans are prepared in areas that were initially designated nonattainment, but then are able to demonstrate attainment. Maintenance plans are the mechanism for ensuring that once the areas meets the standards, it will continue to attain the standards for the next 20 years (in two 10-year intervals).&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/greenbook/nindex.html&quot;&gt;Green Book: Nitrogen Dioxide (1971 Standard) Area Information&lt;/a&gt;: the Green Book lists nonattainment and maintenance areas for NO&lt;span style=&quot;vertical-align:baseline&quot;&gt;2&lt;/span&gt; as well as the other criteria air pollutants&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/nitrogen-dioxide-designations&quot;&gt;Air Quality Designations for NO&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;: information on the process EPA, the states, and the tribes follow to determine whether or not an area is meeting the NO&lt;sub&gt;2&lt;/sub&gt; NAAQS&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;sip&quot; id=&quot;sip&quot;&gt;&lt;/a&gt;What are the state implementation plan (SIP) requirements?&lt;/h2&gt;
+
+&lt;p&gt;Air quality standards get applied, or implemented, through controlling air pollution from emission sources. Each state is required to develop a plan for how they will control air pollution within their jurisdiction. This plan is called a State Implementation Plan (SIP).&lt;/p&gt;
+
+&lt;p&gt;In general, the SIP consists of:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;air quality monitoring&lt;/li&gt;
+	&lt;li&gt;air quality modeling&lt;/li&gt;
+	&lt;li&gt;emission inventories&lt;/li&gt;
+	&lt;li&gt;emission control strategies;&lt;/li&gt;
+	&lt;li&gt;contingency measures; and&lt;/li&gt;
+	&lt;li&gt;documents (policies and rules) that the state uses to attain and maintain the NAAQS.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A state must engage the public, through notices and public hearings, before sending the SIP to EPA for approval. Tribes may develop plans if they choose to do so, otherwise EPA will develop an implementation plan for them.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ozone-pollution/basics-sip-requirements&quot;&gt;Basics of SIP Requirements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants/naaqs-implementation-process&quot;&gt;Learn more about the NAAQS implementation process&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;attain&quot; id=&quot;attain&quot;&gt;&lt;/a&gt;How do states develop SIPs and start (or continue) attaining the standards?&lt;mark&gt;&lt;span&gt; &lt;/span&gt;&lt;/mark&gt;&lt;/h2&gt;
+
+&lt;div&gt;
+	&lt;ul class=&quot;roomy&quot;&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;An infrastructure SIP, or i-SIP, is a requirement for all states, regardless of designation. Even areas in attainment must demonstrate what controls they will continue to use and regulate in order to remain in attainment.
+			&lt;ul&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;a href=&quot;/ozone-pollution/infrastructure-state-implementation-plan-sip-requirements-and-guidance&quot;&gt;Infrastructure SIP&lt;/a&gt; includes requirements, assistance contacts, and guidance documents.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+		&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;a href=&quot;/ozone-pollution/redesignation-and-clean-data-policy-cdp&quot;&gt;&lt;span&gt;&lt;span&gt;Redesignations and Clean Data Policy (CDP)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;: States with a&lt;span&gt;reas that are starting to monitor attainment can demonstrate attainment using air quality modeling and other analyses.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+			&lt;ul&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;a href=&quot;/ozone-pollution/procedures-processing-requests-redesignate-areas-attainment&quot;&gt;Procedures for Processing Requests to Redesignate Areas to Attainment&lt;/a&gt;: read about maintenance plans and maintenance demonstration, starting on page seven&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+		&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;span&gt;&lt;span&gt;EPA evaluates the submitted SIPs, then issues a notice, indicating that either the SIP has been approved or needs additional work. Once the SIP has been approved, the state implements its air pollution control strategies to gradually reduce NO&lt;sub&gt;2&lt;/sub&gt; pollution. &lt;/span&gt;&lt;/span&gt;
+			&lt;ul&gt;&lt;li style=&quot;vertical-align:baseline&quot;&gt;&lt;span&gt;&lt;span&gt;​&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_s.html&quot;&gt;Get information about the SIP status for each state&lt;/a&gt;, &lt;/span&gt;&lt;/span&gt;including tribal implementation plans (TIPs)&lt;/li&gt;
+			&lt;/ul&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 Jul 2016 12:45:16 +0000</pubDate>
+ <dc:creator>msouth</dc:creator>
+ <guid isPermaLink="false">154269 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Setting and Reviewing Standards to Control NO2 Pollution</title>
+    <link>https://www.epa.gov/no2-pollution/setting-and-reviewing-standards-control-no2-pollution</link>
+    <description>&lt;div&gt;On This Page: &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#standards&quot;&gt;What are NO&lt;sub&gt;2&lt;/sub&gt; standards?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#review&quot;&gt;How are the standards developed and reviewed?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#technical&quot;&gt;What scientific and technical information supports reviews?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;standards&quot; id=&quot;standards&quot;&gt;&lt;/a&gt;What are NO&lt;sub&gt;2&lt;/sub&gt; standards?&lt;/h2&gt;
+
+&lt;div&gt;&lt;a href=&quot;/criteria-air-pollutants/naaqs-table&quot;&gt;National Ambient Air Quality Standards (NAAQS)&lt;/a&gt; for NO&lt;sub&gt;2&lt;/sub&gt; specify maximum amounts of NO&lt;sub&gt;2&lt;/sub&gt; to be present in outdoor air. Limiting NO&lt;sub&gt;2&lt;/sub&gt; in the air protects human health and the environment.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;See &lt;a href=&quot;/no2-pollution/2010-primary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide&quot;&gt;primary NAAQS for NO&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt; for an in-depth explanation of the current NO&lt;sub&gt;2&lt;/sub&gt; primary (health-based) standards, including Federal Register citations and fact sheets.&lt;/li&gt;
+	&lt;li&gt;See &lt;a href=&quot;/so2-pollution/secondary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide-no2-and-sulfur&quot;&gt;secondary NAAQS for NO&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt; for an in-depth explanation of the current NO&lt;sub&gt;2&lt;/sub&gt; secondary (welfare-based) standard and EPA’s most recent joint review of the secondary standards for NO&lt;sub&gt;2&lt;/sub&gt; and sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;).&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;review&quot; id=&quot;review&quot;&gt;&lt;/a&gt;How are the standards developed and reviewed?&lt;/h2&gt;
+
+&lt;p&gt;The Clean Air Act requires EPA to set national ambient air quality standards for nitrogen oxides as one of the six &lt;a href=&quot;/criteria-air-pollutants&quot;&gt;criteria pollutants&lt;/a&gt;.  The NAAQS for nitrogen oxides are currently set using NO&lt;sub&gt;2&lt;/sub&gt; as the indicator of the larger group of nitrogen oxides. The law also requires EPA to periodically review the standards and revise them if appropriate to ensure that they provide the requisite amount of health and environmental protection and to update those standards as necessary.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants/process-reviewing-national-ambient-air-quality-standards&quot;&gt;Learn more about the standards review process&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/no2-pollution/table-historical-nitrogen-dioxide-national-ambient-air-quality-standards-naaqs&quot;&gt;View a historical table of the NO&lt;sub&gt;2&lt;/sub&gt; NAAQS&lt;/a&gt; to get an overview of how the standards have changed over time&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;technical&quot; id=&quot;technical&quot;&gt;&lt;/a&gt;What scientific and technical information supports reviews?&lt;/h2&gt;
+
+&lt;p&gt;The various documents published during the review process include multiple drafts of plans and assessments, reports from the Clean Air Scientific Advisory Committee (CASAC), and Federal Register notices.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-primary-air-quality-standards&quot;&gt;See scientific and technical documents from review of the primary NO&lt;sub&gt;2&lt;/sub&gt; NAAQS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/naaqs/nitrogen-dioxide-no2-and-sulfur-dioxide-so2-secondary-air-quality-standards&quot;&gt;See scientific and technical documents from review of the secondary NO&lt;sub&gt;2&lt;/sub&gt; NAAQS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 Jul 2016 12:33:58 +0000</pubDate>
+ <dc:creator>msouth</dc:creator>
+ <guid isPermaLink="false">154265 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Basic Information about NO2</title>
+    <link>https://www.epa.gov/no2-pollution/basic-information-about-no2</link>
+    <description>&lt;div&gt;On This Page: &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#What is NO2&quot;&gt;What is NO&lt;sub&gt;2&lt;/sub&gt; and how does it get in the air?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Effects&quot;&gt;What are the harmful effects of NO&lt;sub&gt;2&lt;/sub&gt;?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Reduce&quot;&gt;What is being done to reduce NO&lt;sub&gt;2&lt;/sub&gt; pollution?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;What is NO2&quot; id=&quot;What is NO2&quot;&gt;&lt;/a&gt;What is NO&lt;sub&gt;2&lt;/sub&gt; and how does it get in the air?&lt;/h2&gt;
+
+&lt;p&gt;Nitrogen Dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) is one of a group of highly reactive gases known as oxides of nitrogen or nitrogen oxides (NO&lt;sub&gt;x&lt;/sub&gt;). Other nitrogen oxides include nitrous acid and nitric acid. NO&lt;sub&gt;2&lt;/sub&gt; is used as the indicator for the larger group of nitrogen oxides.&lt;/p&gt;
+
+&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt; primarily gets in the air from the burning of fuel. NO&lt;sub&gt;2&lt;/sub&gt; forms from emissions from cars, trucks and buses, power plants, and off-road equipment.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Effects&quot; name=&quot;Effects&quot;&gt;&lt;/a&gt;Effects of NO&lt;sub&gt;2&lt;/sub&gt;&lt;/h2&gt;
+
+&lt;h3&gt;Health effects&lt;/h3&gt;
+
+&lt;p&gt;Breathing air with a high concentration of NO&lt;sub&gt;2&lt;/sub&gt; can irritate airways in the human respiratory system. Such exposures over short periods can aggravate respiratory diseases, particularly asthma, leading to respiratory symptoms (such as coughing, wheezing or difficulty breathing), hospital admissions and visits to emergency rooms. Longer exposures to elevated concentrations of NO&lt;sub&gt;2&lt;/sub&gt; may contribute to the development of asthma and potentially increase susceptibility to respiratory infections. People with asthma, as well as children and the elderly are generally at greater risk for  the health effects of NO&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+
+&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt; along with other NO&lt;sub&gt;x&lt;/sub&gt;  reacts with other chemicals in the air to form both particulate matter and ozone. Both of these are also harmful when inhaled due to effects on the respiratory system.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/pm-pollution&quot;&gt;Particulate Matter&lt;/a&gt; and &lt;a href=&quot;/ozone-pollution&quot;&gt;Ozone&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Environmental effects&lt;/h3&gt;
+
+&lt;div&gt;NO&lt;sub&gt;2&lt;/sub&gt; and other NO&lt;sub&gt;x&lt;/sub&gt; interact with water, oxygen and other chemicals in the atmosphere to form acid rain. Acid rain harms sensitive ecosystems such as lakes and forests.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/acidrain&quot;&gt;Acid Rain&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;The nitrate particles that result from NO&lt;sub&gt;x&lt;/sub&gt; make the air hazy and difficult to see though. This affects the many national parks that we visit for the view.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/visibility&quot;&gt;Visibility and Haze&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;NO&lt;sub&gt;x&lt;/sub&gt; in the atmosphere contributes to nutrient pollution in coastal waters.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/nutrientpollution&quot;&gt;Nutrient Pollution&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Reduce&quot; name=&quot;Reduce&quot;&gt;&lt;/a&gt;What is being done to reduce NO&lt;sub&gt;2&lt;/sub&gt; pollution?&lt;/h2&gt;
+
+&lt;div&gt;EPA’s national and regional rules to reduce emissions of NO&lt;sub&gt;2&lt;/sub&gt; and NO&lt;sub&gt;x&lt;/sub&gt; will help state and local governments meet the National Ambient Air Quality Standard (NAAQS).&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn about &lt;a href=&quot;/no2-pollution/setting-and-reviewing-standards-control-no2-pollution&quot;&gt;how air quality standards help reduce NO&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;EPA identifies areas where the air quality does not meet the national NO&lt;sub&gt;2&lt;/sub&gt; standards. For these areas, state, local, and tribal governments develop plans to reduce the amount of NO&lt;sub&gt;2&lt;/sub&gt; in the air.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Learn more about &lt;a href=&quot;/no2-pollution/applying-or-implementing-nitrogen-dioxide-standards&quot;&gt;NO&lt;sub&gt;2&lt;/sub&gt; air quality designations and state implementation plans (SIPs)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 06 Jul 2016 18:19:54 +0000</pubDate>
+ <dc:creator>mbanta</dc:creator>
+ <guid isPermaLink="false">154227 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Findings of Failure to Submit a Complete State Implementation Plan (SIP) for Section 110(a) Pertaining to the 2010 Nitrogen Dioxide National Ambient Air Quality Standards (NAAQS) Fact Sheet</title>
+    <link>https://www.epa.gov/no2-pollution/findings-failure-submit-complete-state-implementation-plan-sip-section-110a-pertaining</link>
+    <description>&lt;p&gt;This page contains the 2011 fact sheet for the Findings of Failure to Submit a Complete State Implementation Plan (SIP) for the 2010 NO&lt;sub&gt;2 &lt;/sub&gt;Standard for seven states and the District of Columbia.&lt;/p&gt;
+
+&lt;p&gt;For more information on the rule please go to &lt;a href=&quot;/no2-pollution/2010-nitrogen-dioxide-no2-national-ambient-air-quality-standards-naaqs-implementation&quot;&gt;2010 Nitrogen Dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) National Ambient Air Quality Standards (NAAQS) Implementation Actions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-299161&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/no2isip_ffs_fs_111414.pdf&quot; type=&quot;application/pdf; length=33307&quot; class=&quot;file-link&quot;&gt;Final Notice: Findings of Failure to Submit a Complete State Implementation Plan (SIP) for Section 110(a) Pertaining to the 2010 Nitrogen Dioxide National Ambient Air Quality Standards (NAAQS) Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 33 K, 
+  November 14, 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 06 Jul 2016 16:22:50 +0000</pubDate>
+ <dc:creator>dbhagat</dc:creator>
+ <guid isPermaLink="false">154201 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>2010 Nitrogen Dioxide (NO2) National Ambient Air Quality Standards (NAAQS) Implementation Actions</title>
+    <link>https://www.epa.gov/no2-pollution/2010-nitrogen-dioxide-no2-national-ambient-air-quality-standards-naaqs-implementation</link>
+    <description>&lt;h2&gt;Regulatory Implementation Information&lt;/h2&gt;
+
+&lt;p&gt;To learn more about the standards, visit the page for the &lt;a href=&quot;/no2-pollution/2010-primary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide&quot;&gt;2010 Primary National Ambient Air Quality Standards (NAAQS) for Nitrogen Dioxide (NO&lt;sub&gt;2&lt;/sub&gt;)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Implementation Actions&lt;/h2&gt;
+
+&lt;h3&gt;EPA Makes Findings of Failure to Submit a Complete State Implementation Plan (SIP) for Section 110(a) Pertaining to 2010 Nitrogen Dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) National Ambient Air Quality Standards (NAAQS)&lt;/h3&gt;
+
+&lt;p&gt;November 24, 2014 - EPA found that seven states, (Alaska, Arkansas, Hawaii, Minnesota, New Jersey, Vermont and Washington) and the District of Columbia have not submitted complete State Implementation Plans (SIPs) that include the infrastructure elements necessary to ensure implementation of the 2010 Nitrogen Dioxide (NO2) National Ambient Air Quality Standard (NAAQS).&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2014-11-24/pdf/2014-27679.pdf&quot;&gt;Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt; (14pp, 133k)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/no2-pollution/findings-failure-submit-complete-state-implementation-plan-sip-section-110a-pertaining&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Docket No. &lt;a href=&quot;https://www.regulations.gov/docket?D=EPA-HQ-OAR-2014-0337&quot;&gt;EPA-HQ-OAR-2014-0337&lt;/a&gt; contains the notices, public comments, and supporting documents for this action.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 06 Jul 2016 16:00:58 +0000</pubDate>
+ <dc:creator>dbhagat</dc:creator>
+ <guid isPermaLink="false">154199 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Table of Historical Nitrogen Dioxide National Ambient Air Quality Standards (NAAQS)</title>
+    <link>https://www.epa.gov/no2-pollution/table-historical-nitrogen-dioxide-national-ambient-air-quality-standards-naaqs</link>
+    <description>&lt;table summary=&quot;primary and secondary standards rulemaking history&quot;&gt;&lt;caption&gt;History of the National Ambient Air Quality Standards for NO&lt;sub&gt;2&lt;/sub&gt;&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Final Rule/Decision&lt;/th&gt;
+			&lt;th&gt;Primary/ Secondary&lt;/th&gt;
+			&lt;th&gt;Indicator &lt;a href=&quot;#footnote 1&quot;&gt;&lt;sup&gt;(1)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Averaging Time&lt;/th&gt;
+			&lt;th&gt;Level &lt;a href=&quot;#footnote 2&quot;&gt;&lt;sup&gt;(2)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Form&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1971&lt;/p&gt;
+
+				&lt;p&gt;36 FR 8186&lt;br /&gt;
+					Apr 30, 1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;Primary and Secondary&lt;/td&gt;
+			&lt;td&gt;NO&lt;sub&gt;2 &lt;/sub&gt;&lt;/td&gt;
+			&lt;td&gt;Annual&lt;/td&gt;
+			&lt;td&gt;53 ppb&lt;sup&gt;&lt;a href=&quot;#footnote 3&quot;&gt;(3)&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;Annual arithmetic average&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1985&lt;/p&gt;
+
+				&lt;p&gt;50 FR 25532&lt;br /&gt;
+					Jun 19, 1985&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;5&quot; rowspan=&quot;1&quot;&gt;
+				
+
+				&lt;p&gt;Primary and secondary NO&lt;sub&gt;2&lt;/sub&gt; standards retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1996&lt;/p&gt;
+
+				&lt;p&gt;61 FR 52852&lt;br /&gt;
+					Oct 8, 1996&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;5&quot; rowspan=&quot;1&quot;&gt;
+				
+
+				&lt;p&gt;Primary and secondary NO&lt;sub&gt;2&lt;/sub&gt; standards retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;2010&lt;/p&gt;
+
+				&lt;p&gt;75 FR 6474&lt;br /&gt;
+					Feb 9, 2010&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;Primary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 hour&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;100 ppb&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;98th percentile, 1-hour daily maximum, averaged over 3 years &lt;a href=&quot;#footnote 5&quot;&gt;&lt;sup&gt;(4)&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Primary annual NO&lt;sub&gt;2&lt;/sub&gt; standard retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;2012&lt;/p&gt;
+
+				&lt;p&gt;&lt;a href=&quot;http://www.gpo.gov/fdsys/pkg/FR-2012-04-03/pdf/2012-7679.pdf&quot;&gt;77 FR 20218&lt;br /&gt;
+					April 3, 2012&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Secondary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Existing secondary NO&lt;sub&gt;2&lt;/sub&gt; standard (annual) retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p id=&quot;1&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 1&quot; id=&quot;footnote 1&quot;&gt;&lt;/a&gt;(1)&lt;/sup&gt;&lt;small&gt;NO&lt;sub&gt;2&lt;/sub&gt; = nitrogen dioxide&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;2&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 2&quot; id=&quot;footnote 2&quot;&gt;&lt;/a&gt;(2)&lt;/sup&gt;&lt;small&gt; Units of measure are in parts per million (ppm) and parts per billion (ppb).&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;3&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 3&quot; id=&quot;footnote 3&quot;&gt;&lt;/a&gt;(3)&lt;/sup&gt;&lt;small&gt;The official level of the annual NO&lt;sub&gt;2&lt;/sub&gt; standard is 0.053 ppm, equal to 53 ppb, which is shown here for the purpose of clearer comparison to the 1-hour standard. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;5&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 5&quot; id=&quot;footnote 5&quot;&gt;&lt;/a&gt;(4)&lt;/sup&gt;&lt;small&gt;The form of the 1-hour standard is the 3-year average of the 98th percentile of the yearly distribution of 1-hour daily maximum NO&lt;sub&gt;2&lt;/sub&gt; concentrations.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/no2-pollution/setting-and-reviewing-standards-control-no2-pollution&quot;&gt;Learn more about setting and reviewing standards to control NO&lt;sub&gt;2&lt;/sub&gt; pollution&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 05 Jul 2016 18:32:03 +0000</pubDate>
+ <dc:creator>dbhagat</dc:creator>
+ <guid isPermaLink="false">154147 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 19:05:33, expires @ 2017-01-26 07:05:33, lifetime 12 hours -->

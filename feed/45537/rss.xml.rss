@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/45537/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Energy and the Environment</title>
+    <link>https://www.epa.gov/feed/45537/rss.xml</link>
+    <description>Updated Energy and the Environment content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/45537/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Frequent Questions: EPA’s Greenhouse Gas Equivalencies Calculator </title>
+    <link>https://www.epa.gov/energy/frequent-questions-epas-greenhouse-gas-equivalencies-calculator</link>
+    <description>&lt;p&gt;This page answers some of the most commonly asked questions about the Greenhouse Gas Equivalencies Calculator. Click on the questions below to view the answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Assumptions and Sources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;Q: What conversion factors are used to generate the calculator’s outputs?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;A: All of the calculations, data sources, and assumptions for EPA’s Greenhouse Gas Equivalencies Calculator are provided on the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;Calculations and References page.&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;Q: To what timeframes do the equivalencies refer? For example, does the the “miles driven by an average passenger vehicle” refer to miles driven over one year?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;
+			&lt;p&gt;A: Most of the equivalencies refer only to quantities, rather than quantities over a period of time. The exceptions are easy to identify, since they all include a time frame: for example, “passenger vehicles driven for one year,” “homes’ energy use for one year,” or “coal-fired power plants in one year.”&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-3&quot; title=&quot;Click to expand description&quot;&gt;Q: Which Global Warming Potentials (GWPs) are you using for greenhouse gases in the calculator?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-3&quot;&gt;
+			&lt;p&gt;A: The calculator uses GWPs from the Intergovernmental Panel on Climate Change’s Fourth Assessment Report (2007). A list of the GWP values is available on the calculator’s &lt;a href=&quot;/energy/greenhouse-gas-equivalencies-calculator-revision-history&quot;&gt;Revision History page&lt;/a&gt;.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-4&quot; title=&quot;Click to expand description&quot;&gt;Q: How can burning 2,000 pounds of coal yield more than 4,000 pounds of carbon dioxide?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-4&quot;&gt;
+			&lt;p&gt;A: When coal is burned, the carbon in the coal combines with oxygen to form carbon dioxide. One molecule of carbon dioxide is 3.67 times heavier than a molecule of carbon, due to the additional weight of the two oxygen atoms. Coal is not 100 percent carbon: burning a pound of coal emits 2.07 pounds of CO2. The calculations and sources for this information can be found on the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;Equivalencies Calculator’s Calculations and References page&lt;/a&gt;.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-5&quot; title=&quot;Click to expand description&quot;&gt;Q: How can it be that the equivalent number of “homes’ energy use for one year” is lower than the equivalent number of “homes’ electricity use for one year?” Home energy use includes electricity, natural gas, LPG, and fuel oil, so shouldn’t the number of homes be higher?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-5&quot;&gt;
+			&lt;p&gt;A: According to the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;Calculations and References page&lt;/a&gt;, each home emits 10.97 metric tons of CO2 per year from all energy use combined, versus 7.27 metric tons of CO2 per year from electricity alone. When an emissions value is entered into the calculator, it calculates the number of households it would take to emit the same amount of CO2 through their overall energy use per year, as well as the number of households it would take to emit the same amount if we consider their electricity use alone. Because the emissions per home are higher when we consider total energy use, it would take fewer homes to emit a given number of metric tons through their total energy use than through their electricity use alone. That’s why the equivalency for the number of homes is smaller for total energy use than for electricity use.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-6&quot; title=&quot;Click to expand description&quot;&gt;Q: Why don’t you provide equivalencies in metric units as well as pounds, gallons, miles, etc.?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-6&quot;&gt;
+			&lt;p&gt;A: The calculator is designed for use in the United States, and metric units may mislead users into thinking that the equivalencies provided by the calculator are relevant to other countries. As indicated in the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;Calculations and References page&lt;/a&gt;, which presents all the sources, assumptions, and calculations used in the calculator, half of the equivalencies in the calculator are based on US-specific data and would not be accurate outside of the United States.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Extending the Calculator&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-7&quot; title=&quot;Click to expand description&quot;&gt;Q: How do I calculate the carbon footprint of different food types?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-7&quot;&gt;
+			&lt;p&gt;A: EPA has not developed a methodology for estimating the life-cycle carbon footprints of food types. The EPA Waste Reduction Model (WARM) includes estimates for emissions associated with food waste, but not for food production and distribution. &lt;a href=&quot;/sites/production/files/2016-03/documents/warm_v14_organic_materials.pdf&quot;&gt;Documentation for Greenhouse Gas Emission and Energy Factors Used in the Waste Reduction Model (WARM)&lt;/a&gt; provides links to studies on life-cycle emissions from a variety of food sources.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-8&quot; title=&quot;Click to expand description&quot;&gt;Q: How do I calculate an ecological footprint?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-8&quot;&gt;
+			&lt;p&gt;A: Ecological footprints typically include a carbon footprint that represents the area of forest land that would be required to sequester CO2 emissions from human activities. According to the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;Calculations and References page&lt;/a&gt; of EPA&#039;s Greenhouse Gas Equivalencies Calculator, one acre of average U.S. forest sequesters 1.06 metric tons of CO2 annually. Using that figure and assuming you have calculated your CO2 emissions, you can estimate the number of acres of forest that would be required to sequester those emissions.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-9&quot; title=&quot;Click to expand description&quot;&gt;Q: How do I calculate average household emissions?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-9&quot;&gt;
+			&lt;p&gt;A: EPA does not provide an official estimate for average household emissions, but there are two ways you could derive this information from EPA sources:&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2016-Chapter-2-Trends.pdf&quot;&gt;Table 2-12&lt;/a&gt; of EPA’s Inventory of Greenhouse Gas Emissions and Sinks provides a breakdown of emissions by sector, including details for the residential sector. If you divide the total by the number of households in the United States, you will obtain an estimate of residential emissions per household. Note, however, that this does not include transportation. Transportation-related emissions are in Table 2-13. U.S. households own an &lt;a href=&quot;http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/highlights_of_the_2001_national_household_travel_survey/html/section_01.html&quot;&gt;average of 1.9 vehicles&lt;/a&gt; per household.&lt;/li&gt;
+				&lt;li&gt;EPA’s &lt;a href=&quot;https://www3.epa.gov/carbon-footprint-calculator/&quot;&gt;Household Carbon Footprint Calculator&lt;/a&gt; provides values for average emissions from households for specific areas such as vehicles and specific fuels. These values could be built up into an estimate, although note that this does not include sources such as air travel or food. The Household Calculator was designed primarily as an educational tool and does not produce precise estimates.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-10&quot; title=&quot;Click to expand description&quot;&gt;Q: Can I build my own version of the calculator and post it on my organization’s website?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-10&quot;&gt;
+			&lt;p&gt;A: You may use the &lt;a href=&quot;/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references&quot;&gt;calculations&lt;/a&gt; to build your own calculator, but please note that EPA updates the calculator periodically (typically annually), so you would need to check back for updates to the conversion factors. The &lt;a href=&quot;/energy/greenhouse-gas-equivalencies-calculator-revision-history&quot;&gt;Revision History page&lt;/a&gt; documents the changes made in each update.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Mon, 12 Dec 2016 20:30:02 +0000</pubDate>
+ <dc:creator>xrrandha</dc:creator>
+ <guid isPermaLink="false">166957 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Download the eGRID2014 Shapefiles</title>
+    <link>https://www.epa.gov/energy/download-egrid2014-shapefiles</link>
+    <description>&lt;p&gt;See below for the Shapefiles used in creating the eGRID tool: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-346957&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/egrid_subregions.zip&quot; type=&quot;application/zip; length=64915867&quot; class=&quot;file-link&quot;&gt;eGRID2014 Subregions (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 65 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-346959&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/egrid_subregions_kml.zip&quot; type=&quot;application/zip; length=56513299&quot; class=&quot;file-link&quot;&gt;eGRID2014 Subregions KML (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 57 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-346961&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/egrid_multiple_subregions.zip&quot; type=&quot;application/zip; length=69958050&quot; class=&quot;file-link&quot;&gt;eGRID2014 Multiple Subregions (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 70 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-346965&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/egrid_multiple_subregions_kml.zip&quot; type=&quot;application/zip; length=60776626&quot; class=&quot;file-link&quot;&gt;eGRID2014 Multiple Subregions KML (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 61 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Mon, 26 Oct 2015 19:12:45 +0000</pubDate>
+ <dc:creator>patrick_tisdel</dc:creator>
+ <guid isPermaLink="false">122879 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>eGRID Notification</title>
+    <link>https://www.epa.gov/energy/forms/egrid-notification</link>
+    <description>&lt;p&gt;EPA can keep you up-to-date with eGRID related news and let you know when new versions are released. Please enter your contact information below to receive emails.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 26 Oct 2015 17:09:49 +0000</pubDate>
+ <dc:creator>patrick_tisdel</dc:creator>
+ <guid isPermaLink="false">122835 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>eGRID 2014 subregion GHG output emission rates</title>
+    <link>https://www.epa.gov/energy/egrid-2014-subregion-ghg-output-emission-rates</link>
+    <description>&lt;p&gt;Please see below for the eGRID 2014 subregion GHG output emission rates:&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346925&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/egrid_ghgoutputrates.pdf&quot; type=&quot;application/pdf; length=241003&quot; class=&quot;file-link&quot;&gt;eGRID 2014 subregion GHG output emission rates (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 241 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 08 Oct 2015 16:03:53 +0000</pubDate>
+ <dc:creator>patrick_tisdel</dc:creator>
+ <guid isPermaLink="false">120327 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>eGRID 2014 Summary Tables</title>
+    <link>https://www.epa.gov/energy/egrid-2014-summary-tables</link>
+    <description>&lt;p&gt;Please see below for the eGRID 2014 Summary Tables.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346933&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/egrid_summarytables.pdf&quot; type=&quot;application/pdf; length=963180&quot; class=&quot;file-link&quot;&gt;eGRID 2014 Summary Tables (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 963 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 08 Oct 2015 16:03:02 +0000</pubDate>
+ <dc:creator>patrick_tisdel</dc:creator>
+ <guid isPermaLink="false">120323 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>eGRID2014 Technical Support Document</title>
+    <link>https://www.epa.gov/energy/egrid2014-technical-support-document</link>
+    <description>&lt;p&gt;Please see below for the eGRID2014 Technical Support Document:&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346937&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/egrid_technicalsupportdocument_0.pdf&quot; type=&quot;application/pdf; length=1820629&quot; class=&quot;file-link&quot;&gt;Technical Support Document (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(109 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 08 Oct 2015 14:33:06 +0000</pubDate>
+ <dc:creator>patrick_tisdel</dc:creator>
+ <guid isPermaLink="false">120277 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Clean Energy Programs</title>
+    <link>https://www.epa.gov/energy/clean-energy-programs</link>
+    <description>&lt;p&gt;EPA’s renewable energy and energy efficiency programs are designed to help energy consumers in all sectors, state policy makers, and energy providers by providing objective information, creating networks between the public and private sector and providing technical assistance. EPA also offers recognition to leading organizations that adopt energy efficiency and renewable energy policies and practices.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#renewable&quot;&gt;Renewable energy programs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#efficiency&quot;&gt;Energy efficiency programs &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#SLB&quot;&gt;State, local and tribal climate and energy programs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#corporate&quot;&gt;Corporate recognition programs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Waste&quot;&gt;Waste programs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#transportation&quot;&gt;Transportation programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id=&quot;renewable&quot;&gt;Renewable energy programs&lt;/h2&gt;
+
+&lt;p&gt;Work with industry and other key groups to encourage efficient, clean technologies such as combined heat and power and green power from renewable resources.&lt;/p&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-full&quot; style=&quot;width:100px;&quot;&gt;&lt;img alt=&quot;AgSTAR logo&quot; height=&quot;105&quot; width=&quot;100&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/agstar.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/agstar&quot;&gt;AgStar&lt;/a&gt; promotes the use of biogas recovery systems to reduce methane emissions from livestock waste. In addition to producing biogas, anaerobic digestion systems can also help achieve other social, environmental, agricultural and economic benefits.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-full&quot; style=&quot;width:135px;&quot;&gt;&lt;img alt=&quot;Combined Heat and Power Partnership logo&quot; height=&quot;57&quot; width=&quot;135&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/chp.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/chp&quot;&gt;Combined Heat and Power Partnership&lt;/a&gt; is a voluntary program seeking to reduce the environmental impact of power generation by promoting the use of CHP. The Partnership works closely with energy users, the CHP industry, state and local governments, and other clean energy stakeholders to facilitate the development of new projects and to promote their environmental and economic benefits.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-full&quot; style=&quot;width:162px;&quot;&gt;&lt;img alt=&quot;Green Power Partnership logo&quot; height=&quot;79&quot; width=&quot;162&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/greenpower.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/greenpower&quot;&gt;Green Power Partnership&lt;/a&gt; is a voluntary program that encourages organizations to buy green power as a way to reduce the environmental impacts associated with purchased electricity use. The Partnership currently has hundreds of Partner organizations voluntarily purchasing billions of kilowatt-hours of green power annually.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:128px;&quot;&gt;&lt;img alt=&quot;Landfill Methane Outreach Program logo&quot; height=&quot;128&quot; width=&quot;128&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/landfill.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/lmop&quot;&gt;Landfill Methane Outreach Program&lt;/a&gt; is a voluntary assistance program that helps to reduce methane emissions from landfills by encouraging the recovery and beneficial use of landfill gas as a renewable energy resource.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt; &lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/re-powering&quot;&gt;RE-Powering America’s Land Initiative&lt;/a&gt; encourages renewable energy development on current and formerly contaminated lands, landfills, and mine sites when it is aligned with the community’s vision for the site. This initiative identifies the renewable energy potential of these sites and provides resources for communities, developers, industry, state and local governments or anyone interested in reusing these sites for renewable energy development.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;efficiency&quot;&gt;Energy efficiency programs&lt;/h2&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-full&quot; style=&quot;width:116px;&quot;&gt;&lt;img alt=&quot;ENERGY STAR logo&quot; height=&quot;119&quot; width=&quot;116&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/energystar.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;http://www.energystar.gov/&quot;&gt;ENERGY STAR&lt;/a&gt; is a joint program of the EPA and the DOE. Energy efficient choices can save families about a third on their energy bill with similar savings of greenhouse gas emissions, without sacrificing features, style or comfort. ENERGY STAR helps you make the energy efficient choice. EPA’s ENERGY STAR partnership offers a proven energy management strategy that helps in measuring current energy performance, setting goals, tracking savings, and rewarding improvements.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.energystar.gov/products?s=mega&quot;&gt;Energy efficient products&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.energystar.gov/campaign/home?s=mega&quot;&gt;Energy savings at home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.energystar.gov/index.cfm?c=new_homes.hm_index&amp;amp;s=mega&quot;&gt;Energy efficient new homes&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.energystar.gov/buildings?s=mega&quot;&gt;Energy strategies for buildings &amp;amp; plants&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Learn more about &lt;a href=&quot;http://water.epa.gov/infrastructure/sustain/energyefficiency.cfm&quot;&gt;energy efficiency for water and wastewater utilities&lt;/a&gt; as well as renewable energy options for water and wastewater facilities.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-full&quot; style=&quot;width:94px;&quot;&gt;&lt;img alt=&quot;WaterSense logo&quot; height=&quot;93&quot; width=&quot;94&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/watersense.png&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;http://www3.epa.gov/watersense/&quot;&gt;WaterSense&lt;/a&gt; is an EPA partnership program that is working to protect the nation’s water supply by offering people simple ways to use less water with water-efficient products, new homes, and services.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;SLB&quot;&gt;State, local and tribal climate and energy programs&lt;/h2&gt;
+
+&lt;p&gt;Work with state, local and tribal governments to identify and implement cost-effective programs that reduce greenhouse gas emissions, save energy, and improve air quality.&lt;/p&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-full&quot; style=&quot;width:172px;&quot;&gt;&lt;img alt=&quot;State and Local Climate and Energy Program&quot; height=&quot;92&quot; width=&quot;172&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/state_and_local.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;Many &lt;a href=&quot;http://epa.gov/statelocalclimate/&quot;&gt;state, local and tribal governments&lt;/a&gt; are using clean energy policies to reduce energy consumption and greenhouse gases, improve air quality and public health, and achieve economic development goals. EPA’s State and Local Climate and Energy Program supports these climate change and clean energy efforts by providing technical assistance, analytical tools, and outreach support.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-teaser&quot; style=&quot;width:121px;&quot;&gt;&lt;img alt=&quot;Heat Island Reduction Program logo&quot; height=&quot;145&quot; width=&quot;121&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/heatisland.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/heat-islands&quot;&gt;Heat Island Reduction Program&lt;/a&gt; helps create cooler communities and reduce the heat island effect by sharing information about heat island impacts, mitigation benefits, and policy advancements with state and local decision-makers and program implementers, the research community, industry, and the general public.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;State and Local Energy Efficiency Action Network logo&quot; height=&quot;83&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/state_and_local_energy.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;https://www4.eere.energy.gov/seeaction/&quot;&gt;State and Local Energy Efficiency Action Network&lt;/a&gt; strives to help the nation achieve all cost-effective energy efficiency by 2020 by focusing on the assistance that states and local governments need to perform their critical role in advancing policies and practices that bring energy efficiency to scale.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-teaser&quot; style=&quot;width:188px;&quot;&gt;&lt;img alt=&quot;Smart Growth logo&quot; height=&quot;99&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/smartgrowth.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;EPA’s &lt;a href=&quot;/smartgrowth&quot;&gt;Smart Growth Program&lt;/a&gt; helps communities improve their development practices and get the type of development they want. The program works with local, state, and national experts to discover and encourage development strategies that protect human health and the environment, create economic opportunities, and provide attractive and affordable neighborhoods for people of all income levels.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;corporate&quot;&gt;Corporate recognition programs&lt;/h2&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Center for Corporate Climate Leadership logo&quot; height=&quot;77&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/climateleadership.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/climateleadership&quot;&gt;Center for Corporate Climate Leadership&lt;/a&gt; is a resource center for all organizations looking to expand their work in the area of greenhouse gas (GHG) measurement and management. The Center encourages organizations with emerging climate objectives to identify and achieve cost-effective GHG emission reductions, while helping more advanced organizations drive innovations in reducing their greenhouse gas impacts in their supply chains and beyond. The Center also recognizes exemplary corporate, organizational, and individual leadership in addressing climate change.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;Waste&quot;&gt;Waste programs&lt;/h2&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif left view-mode-thumbnail&quot; style=&quot;width:120px;&quot;&gt;&lt;img alt=&quot;WasteWise logo&quot; height=&quot;107&quot; width=&quot;96&quot; class=&quot;media-element file-thumbnail left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2015-09/waste.gif&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/smm/wastewise&quot;&gt;WasteWise&lt;/a&gt; helps organizations and businesses apply sustainable materials management practices to reduce municipal and select industrial wastes.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Responsible Appliance Disposal logo&quot; height=&quot;67&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/rad.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;/rad&quot;&gt;Responsible Appliance Disposal (RAD) Program&lt;/a&gt; is a voluntary partnership program that helps protect the ozone layer and reduce emissions of greenhouse gases. RAD program partners recover ozone-depleting chemicals from old refrigerators, freezers, window air conditioners, and dehumidifiers.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;transportation&quot;&gt;Transportation programs&lt;/h2&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;SmartWay logo&quot; height=&quot;45&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/smartway.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;The &lt;a href=&quot;http://www3.epa.gov/smartway/about/index.htm&quot;&gt;SmartWay Transport Partnership&lt;/a&gt; is a public-private collaboration between EPA and the freight transportation industry that helps freight shippers, carriers, and logistics companies improve fuel-efficiency and save money.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-4&quot;&gt;
+	&lt;div class=&quot;col size-1of4&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Green Vehicle Guide logo&quot; height=&quot;71&quot; width=&quot;160&quot; class=&quot;media-element file-teaser left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-09/greenvehicle.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of4&quot;&gt;
+		&lt;p&gt;Use EPA’s &lt;a href=&quot;http://www3.epa.gov/otaq/greenvehicles/index.htm&quot;&gt;Green Vehicle Guide&lt;/a&gt; to find information on vehicles that are more efficient and less polluting. Reducing vehicle emissions and increasing your fuel economy helps the environment and your wallet.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 23 Sep 2015 14:09:10 +0000</pubDate>
+ <dc:creator>ebolleru</dc:creator>
+ <guid isPermaLink="false">116145 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Measure the Impact of Your Energy Use on the Environment</title>
+    <link>https://www.epa.gov/energy/measure-impact-your-energy-use-environment</link>
+    <description>&lt;p&gt;Use the tools and data below to measure the environmental impact of the energy you use.&lt;/p&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col size-1of2&quot;&gt;
+		&lt;h2&gt;Greenhouse Gas Equivalencies Calculator&lt;/h2&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:235px;&quot;&gt;&lt;img alt=&quot;GHG Calculator Logo&quot; height=&quot;78&quot; width=&quot;235&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-12/logo.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p&gt;This &lt;a href=&quot;/energy/greenhouse-gas-equivalencies-calculator&quot;&gt;simple online calculator&lt;/a&gt; translates abstract energy and emissions numbers into concrete terms you can understand.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col size-1of2&quot;&gt;
+		&lt;h2&gt;Power Profiler&lt;br /&gt;
+			 &lt;/h2&gt;
+
+		&lt;p&gt;&lt;a href=&quot;/energy/power-profiler&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:296px;&quot;&gt;&lt;img alt=&quot;Power Profiler&quot; height=&quot;296&quot; width=&quot;296&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/tall.gif&quot; /&gt;&lt;/span&gt;&lt;/a&gt;Using your zip code, the &lt;a href=&quot;/energy/power-profiler&quot;&gt;EPA Power Profiler tool&lt;/a&gt; lets you compare the fuel mix and air emissions rates of the electricity in your region to the national average and determine the air emissions impacts of your electricity use.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col size-1of2&quot;&gt;
+		&lt;h2&gt;Carbon Footprint Calculator&lt;/h2&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://www3.epa.gov/carbon-footprint-calculator/&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:249px;&quot;&gt;&lt;img alt=&quot;Carbon Footprint Calculator&quot; height=&quot;83&quot; width=&quot;249&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-09/calculator.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;Use &lt;a href=&quot;http://www3.epa.gov/carbon-footprint-calculator/&quot;&gt;EPA’s Household Carbon Footprint Calculator&lt;/a&gt; to find out your own carbon footprint.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col size-1of2&quot;&gt;
+		&lt;h2&gt;eGRID&lt;/h2&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;eGRID Banner&quot; height=&quot;139&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-07/epa-banner-images/banner-egrid.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;The &lt;a href=&quot;/energy/emissions-generation-resource-integrated-database-egrid&quot;&gt;Emissions &amp;amp; Generation Resource Integrated Database&lt;/a&gt; is a comprehensive source of data on the environmental characteristics of almost all electric power generated in the United States.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 14 Sep 2015 23:01:17 +0000</pubDate>
+ <dc:creator>ebolleru</dc:creator>
+ <guid isPermaLink="false">113545 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Greenhouse Gas Equivalencies Calculator</title>
+    <link>https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator</link>
+    <description>&lt;p&gt;&lt;iframe id=&quot;printf&quot; name=&quot;printf&quot; scrolling=&quot;yes&quot; src=&quot;/sites/production/files/widgets/ghg_calc/calculator.html&quot; width=&quot;1200&quot; height=&quot;2300&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/energy&quot;&gt;Back to the Energy and the Environment home page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 28 Aug 2015 14:43:23 +0000</pubDate>
+ <dc:creator>ebolleru</dc:creator>
+ <guid isPermaLink="false">109409 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:45:19, expires @ 2017-01-26 04:45:19, lifetime 12 hours -->

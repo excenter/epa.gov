@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/1347/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Cleanups</title>
+    <link>https://www.epa.gov/feed/1347/rss.xml</link>
+    <description>Updated Cleanups content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/1347/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Cleaning Up in New England</title>
+    <link>https://www.epa.gov/cleanups/cleaning-new-england</link>
+    <description>&lt;p&gt;EPA New England&#039;s Office of Site Remediation and Restoration (OSRR) administers the region&#039;s waste site cleanup and reuse programs.&lt;/p&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Regional Search&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		
+
+		&lt;form id=&quot;sfSearch&quot; name=&quot;sfSearch&quot; target=&quot;_blank&quot;&gt;&lt;label for=&quot;searchText&quot;&gt;Search by name, street, or town.&lt;/label&gt;&lt;input id=&quot;sfSearchQuery&quot; name=&quot;Query&quot; size=&quot;9&quot; title=&quot;For best results, search with only one criteria. For example, &#039;Ashland&#039; not &#039;Ashland, MA&#039;. (Results open in new window/tab)&quot; type=&quot;text&quot; /&gt; &lt;button id=&quot;submitBtn&quot;&gt;GO&lt;/button&gt;
+
+			&lt;p&gt;&lt;strong&gt;List Cleanup sites by State:&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Connecticut&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;CT&lt;/a&gt; | &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Maine&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;ME&lt;/a&gt; | &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Massachusetts&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;MA&lt;/a&gt; | &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20New%20Hampshire&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;NH&lt;/a&gt; | &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Rhode%20Island&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;RI&lt;/a&gt; | &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_State%20CONTAINS%20Vermont&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=4&amp;amp;target=_top&quot;&gt;VT&lt;/a&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/AdvancedSearch?openForm&quot;&gt;Advanced Search&lt;/a&gt;&lt;/p&gt;
+		&lt;/form&gt;
+
+		
+
+		&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;National Search&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cleanups/cleanups-my-community&quot;&gt;Cleanups in My Community&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Find environmental info by zip code
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/&quot;&gt;ECHO&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/enviro/&quot;&gt;Envirofacts&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/emefdata/em4ef.home&quot;&gt;EnviroMapper&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/enviro/myenviro/&quot;&gt;MyEnvironment&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/toxics-release-inventory-tri-program&quot;&gt;Toxics Release Inventory&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;!--googleoff: all--&gt;&lt;!--googleon: all--&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this area of the Web site to locate a hazardous waste site in the New England region. Choose from one of the following search options:&lt;/p&gt;
+
+&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Search through Fact Sheets for EPA New England Sites&lt;/strong&gt;&lt;br /&gt;
+		Enter any text string in the &quot;Find a Cleanup Site&quot; search box, or use the &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/AdvancedSearch?OpenForm&quot;&gt;Advanced Search&lt;/a&gt; to find a site by name, location, or type. Site Fact Sheets are included for: Information is also available for ongoing or recently completed &lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SHORTSitesByEmergency?OpenForm&quot;&gt;emergency response actions.&lt;/a&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_SiteType_Disp%20CONTAINS%20%22Long%20Term/National%20Priorities%20List%20(NPL%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=1&amp;amp;target=_top&quot;&gt;Long-Term Cleanup (NPL)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region1/removal-sites/&quot;&gt;Short-Term Cleanup&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/srchrslt.cfm?start=1&amp;amp;CFID=15780522&amp;amp;CFTOKEN=16717946&amp;amp;jsessionid=e0304cb3b6be71234268d4467585b251c313&quot;&gt;Sites Awaiting NPL Decision (SAND)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_SiteTypeTmp%20CONTAINS%20%22RCRA%20Corrective%20Action%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=1&amp;amp;target=_top&quot;&gt;RCRA Corrective Action (RCRA)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SearchAllSitesByName?SearchView&amp;amp;Query=%20FIELD%20FS_SiteTypeTmp%20CONTAINS%20%22Brownfields%20(BF%22&amp;amp;SearchMax=1000&amp;amp;SearchWv=0&amp;amp;SearchFuzzy=0&amp;amp;count=30&amp;amp;start=1&amp;amp;SearchOrder=1&amp;amp;target=_top&quot;&gt;Brownfields (BF)&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Find Hazardous Waste Sites by State&lt;/strong&gt;&lt;br /&gt;
+		Choose a state below to list all Superfund sites within a state, or use the &lt;a href=&quot;http://yosemite.epa.gov/r1/npl_pad.nsf/AdvancedSearch?OpenForm&quot;&gt;Advanced Search&lt;/a&gt; to specify additional search criteria.
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=Connecticut&quot;&gt;Connecticut&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=Maine&quot;&gt;Maine&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=Massachusetts&quot;&gt;Massachusetts&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=New%20Hampshire&quot;&gt;New Hampshire&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=Rhode%20Island&quot;&gt;Rhode Island&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://yosemite.epa.gov/r1/npl_pad.nsf/SelectedByState?OpenForm&amp;amp;View=Vermont&quot;&gt;Vermont&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Find Hazardous Waste Sites Around the Nation.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;​&lt;/strong&gt;While Superfund is in transition to a new system, there are several places to find Superfund sites nationally: &lt;a href=&quot;/enviro/cerclis-search&quot;&gt;CERCLIS Search&lt;/a&gt; or &lt;a href=&quot;/superfund/search-superfund-sites-where-you-live&quot;&gt;Superfund NPL Search&lt;/a&gt; or &lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/srchsites.cfm&quot;&gt;All Superfund (including archived sites)&lt;/a&gt; maintained by EPA Headquarters to locate information about Superfund sites for any state in the nation.&lt;/li&gt;
+	&lt;li&gt;Go to &lt;a href=&quot;https://www3.epa.gov/enviro/facts/rcrainfo/search.html&quot;&gt;RCRAInfo Search&lt;/a&gt; maintained by EPA Headquarters to locate hazardous waste sites for any state in the nation.&lt;/li&gt;
+&lt;/ul&gt;&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;New England States Maintain Their Own Databases of Potentially Contaminated Sites.&lt;/strong&gt;&lt;br /&gt;
+		Links to information available in your state.
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.maine.gov/dep/spills/index.html&quot;&gt;Maine&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://public.dep.state.ma.us/SearchableSites2/Search.aspx&quot;&gt;Massachusetts&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://des.nh.gov/organization/divisions/waste/hwrb/fss/superfund/index.htm&quot;&gt;New Hampshire&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.dem.ri.gov/&quot;&gt;Rhode Island&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.anr.state.vt.us/dec/wastediv/index.htm&quot;&gt;Vermont&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+     <pubDate>Tue, 24 Nov 2015 17:38:26 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">127223 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Measuring Progress in EPA’S Land Cleanup Programs</title>
+    <link>https://www.epa.gov/cleanups/measuring-progress-epas-land-cleanup-programs</link>
+    <description>&lt;p&gt;Summary information about EPA&#039;s cleanup programs and program progress measures. (For the most recent annual report and slide show on EPA&#039;s Cleanup Programs and Program Progress Measures, see the Highlights on: &quot;&lt;a href=&quot;/aboutepa/about-office-land-and-emergency-management&quot;&gt;About the Office of Land and Emergency Management&lt;/a&gt;&quot;.)&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-85331&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-09/documents/measuring-impact-of-progress-092314.pdf&quot; type=&quot;application/pdf; length=415689&quot; class=&quot;file-link&quot;&gt;Measuring Progress in EPAs Land Cleanup Programs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 416 K, 
+  9/23/2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 29 Sep 2014 20:38:08 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">63949 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC-related Widgets</title>
+    <link>https://www.epa.gov/cleanups/cimc-related-widgets</link>
+    <description>&lt;p&gt;You can add any of the following widgets to your own web pages.  Just click on a link for the code you&#039;ll need to add to your page.&lt;/p&gt;
+
+&lt;h3&gt;CIMC Widgets:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enviro/widgets#land&quot;&gt;Cleanups&lt;/a&gt; - maps or lists cleanups based on ZIP Codes or city, state (scroll down once on the linked page)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/widgets#land&quot;&gt;Brownfields&lt;/a&gt; - maps or lists Brownfield properties based on ZIP Codes or city, state&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/widgets#waste&quot;&gt;RCRA&lt;/a&gt; - provides an EPA Envirofacts/Enviromapper interface to the RCRA facilities based on any geography specified (scroll down once on the linked page)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Envirofacts/Enviromapper Widgets:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enviro/widgets#waste&quot;&gt;Biennial Reporting System&lt;/a&gt;&lt;span&gt; - provides an EPA Envirofacts/Enviromapper interface to the RCRA Large Quanitity Generators (LQGs) that report detailed waste information every other year, based on any geography specified&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/widgets#land&quot;&gt;Superfund&lt;/a&gt; - provides an EPA Envirofacts/Enviromapper interface to the Superfund sites based on any geography specified (scroll down once on the linked page)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/widgets#other&quot;&gt;EPA Environmental Data&lt;/a&gt; - provides information on all public data reported to EPA that is in Envirofacts (including Superfund, RCRA and Brownfields) for any geography specified (scroll down once on the linked page)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/widgets#facility&quot;&gt;EPA&#039;s Facility Registry System&lt;/a&gt; - lists all facilities that report to more than one EPA program, as stored in FRS&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 09 Apr 2014 19:16:42 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">50615 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC Web Map Service</title>
+    <link>https://www.epa.gov/cleanups/cimc-web-map-service</link>
+    <description>&lt;p&gt;CIMC provides a &quot;&lt;a href=&quot;https://en.wikipedia.org/wiki/Web_Map_Service&quot;&gt;web map service&lt;/a&gt;&quot;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt; that web map developers can use to create and integrate with their own maps. The &lt;/span&gt;&lt;a href=&quot;https://map22.epa.gov/arcgis/rest/services/cimc/Cleanups_geoplatform/MapServer&quot;&gt;CIMC web service&lt;/a&gt;&lt;span&gt; provides access to the mapping component of the &lt;/span&gt;&lt;a href=&quot;/cleanups/cleanups-my-community&quot;&gt;CIMC web application&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some examples of what others have done with the CIMC web map service:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.risch.senate.gov/public/index.cfm/idaho-map-gallery&quot;&gt;http://www.risch.senate.gov/public/index.cfm/idaho-map-gallery&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;(one of the maps shows EPA Cleanup sites in Idaho)&lt;/li&gt;
+	&lt;li&gt;Johns Hopkins Maryland Food System Map (&lt;a href=&quot;http://mdfoodsystemmap.org/map/&quot;&gt;http://mdfoodsystemmap.org/map/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;), where cleanup sites are one of the environmental data categories.  (Note: They also used the &lt;a href=&quot;/sites/production/files/2014-04/cimc_sites_shp.zip&quot;&gt;zipped CIMC shapefiles&lt;/a&gt; .)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you have additional examples using the CIMC web map service, please contact us to let us know. &lt;/p&gt;
+
+&lt;p&gt;Related EPA web map services can be found at:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enviro/web-services&quot;&gt;Envirofacts web services&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/geospatial-data-download-service&quot;&gt;Geospatial download service for Envirofacts&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enviro/frs-data-resources&quot;&gt;FRS data resources and services&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://developer.epa.gov/&quot;&gt;EPA&#039;s Developer Central&lt;/a&gt; where you can search for APIs and web services&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 02 Jan 2014 21:15:39 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">44139 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC - Contact Us</title>
+    <link>https://www.epa.gov/cleanups/forms/cimc-contact-us</link>
+    <description>
+
+&lt;p&gt;&lt;!--googleoff: all--&gt;&lt;!--googleon: all--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Questions, Corrections and Suggestions&lt;/strong&gt; - EPA welcomes your input, especially suggestions on how we can improve our web site, correct data errors, etc.  Please use the form below to provide us with your feedback.  Questions, suggestions, etc. on specific Cleanup programs will be forwarded to the responsible program office.  We strive to respond with an answer or an appropriate referral as quickly as possible - generally within 10 business days.  If your browser doesn&#039;t support forms, you can e-mail your comment to us at &lt;strong&gt;&lt;a href=&quot;mailto:oswer.cleanup@epa.gov&quot;&gt;oswer.cleanup@epa.gov&lt;/a&gt; &lt;/strong&gt;.&lt;/p&gt;
+
+	&lt;p&gt;&lt;strong&gt;Please help us to answer your request by including a correct e-mail address.&lt;/strong&gt; We have answered thousands of requests, but we receive many messages that we can’t respond to because of incorrect email addresses.&lt;/p&gt;
+
+	&lt;p&gt;If you are unable to use e-mail or the form below, you can send comments and questions by regular mail to:&lt;/p&gt;
+
+	&lt;p&gt;U.S. Environmental Protection Agency&lt;br /&gt;
+		Office of Solid Waste and Emergency Response (5103-T)&lt;br /&gt;
+		1200 Pennsylvania Avenue, N.W.&lt;br /&gt;
+		Washington, D.C. 20460&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;label for=&quot;edit-submitted-name&quot;&gt;Name &lt;/label&gt;&lt;input name=&quot;submitted[name]&quot; class=&quot;form-text&quot; id=&quot;edit-submitted-name&quot; type=&quot;text&quot; size=&quot;60&quot; /&gt;  Please enter a name by which to address you.&lt;/p&gt;
+
+&lt;div class=&quot;form-item&quot;&gt; &lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-organization&quot;&gt;&lt;label for=&quot;edit-submitted-organization&quot;&gt;Organization &lt;/label&gt;&lt;input name=&quot;submitted[organization]&quot; class=&quot;form-text&quot; id=&quot;edit-submitted-organization&quot; type=&quot;text&quot; size=&quot;60&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot;&gt; &lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-phone-number&quot;&gt;&lt;label for=&quot;edit-submitted-phone-number&quot;&gt;Phone Number &lt;/label&gt;&lt;input name=&quot;submitted[phone_number]&quot; class=&quot;form-text form-number&quot; id=&quot;edit-submitted-phone-number&quot; type=&quot;number&quot; step=&quot;0&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-email&quot;&gt;
+	&lt;p&gt;&lt;label for=&quot;edit-submitted-email&quot;&gt;Email &lt;/label&gt;&lt;input name=&quot;submitted[email]&quot; class=&quot;form-text form-email&quot; id=&quot;edit-submitted-email&quot; type=&quot;email&quot; size=&quot;60&quot; /&gt; Please enter a valid email address.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-comments&quot;&gt;
+	
+
+	&lt;p&gt;&lt;label for=&quot;edit-submitted-comments&quot;&gt;Comments &lt;span title=&quot;This field is required.&quot; class=&quot;form-required&quot;&gt;*&lt;/span&gt;&lt;/label&gt;&lt;/p&gt;
+
+	&lt;div class=&quot;form-textarea-wrapper&quot;&gt;&lt;textarea name=&quot;submitted[comments]&quot; class=&quot;form-textarea&quot; id=&quot;edit-submitted-comments&quot; rows=&quot;5&quot; cols=&quot;60&quot;&gt;&lt;/textarea&gt;&lt;div&gt; &lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-type-of-organization&quot;&gt;&lt;label for=&quot;edit-submitted-type-of-organization&quot;&gt;Type of Organization &lt;/label&gt;
+
+	&lt;div class=&quot;form-radios&quot; id=&quot;edit-submitted-type-of-organization&quot;&gt;
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-1&quot; type=&quot;radio&quot; value=&quot;Industry&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-1&quot;&gt;Industry &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-2&quot; type=&quot;radio&quot; value=&quot;Small_Business&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-2&quot;&gt;Small Business &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-3&quot; type=&quot;radio&quot; value=&quot;Consultant_Contractor_Vendor_to_Industry&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-3&quot;&gt;Consultant/Contractor/Vendor to Industry &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-4&quot; type=&quot;radio&quot; value=&quot;Realtor_Banker_Insurer&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-4&quot;&gt;Realtor/Banker/Insurer &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-5&quot; type=&quot;radio&quot; value=&quot;Educational_or_Research_Organization&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-5&quot;&gt;Educational or Research Organization &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-6&quot; type=&quot;radio&quot; value=&quot;Environmental_Organization&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-6&quot;&gt;Environmental Organization &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-7&quot; type=&quot;radio&quot; value=&quot;General_Public&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-7&quot;&gt;General Public &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-8&quot; type=&quot;radio&quot; value=&quot;Local_Government&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-8&quot;&gt;Local Government &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-9&quot; type=&quot;radio&quot; value=&quot;State_Government&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-9&quot;&gt;State Government &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-10&quot; type=&quot;radio&quot; value=&quot;Federal_Government_except_US_EPA&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-10&quot;&gt;Federal Government (except U.S. EPA) &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-11&quot; type=&quot;radio&quot; value=&quot;US_EPA&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-11&quot;&gt;U.S. EPA &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;form-item form-type-radio form-item-submitted-type-of-organization&quot;&gt;&lt;input name=&quot;submitted[type_of_organization]&quot; class=&quot;form-radio&quot; id=&quot;edit-submitted-type-of-organization-12&quot; type=&quot;radio&quot; value=&quot;Other&quot; /&gt;&lt;label class=&quot;option&quot; for=&quot;edit-submitted-type-of-organization-12&quot;&gt;Other &lt;/label&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-questions&quot;&gt;
+	
+
+	&lt;p&gt;&lt;label for=&quot;edit-submitted-questions&quot;&gt;Suggestions/Corrections/Questions:&lt;/label&gt;&lt;/p&gt;
+
+	&lt;div class=&quot;form-textarea-wrapper&quot;&gt;&lt;textarea name=&quot;submitted[questions]&quot; class=&quot;form-textarea&quot; id=&quot;edit-submitted-questions&quot; rows=&quot;5&quot; cols=&quot;60&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot;&gt; &lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot; id=&quot;webform-component-web-page-url&quot;&gt;&lt;label for=&quot;edit-submitted-web-page-url&quot;&gt;Web Page/URL &lt;/label&gt;&lt;input name=&quot;submitted[web_page_url]&quot; class=&quot;form-text&quot; id=&quot;edit-submitted-web-page-url&quot; type=&quot;text&quot; size=&quot;60&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;form-item&quot;&gt; &lt;/div&gt;
+</description>
+     <pubDate>Tue, 02 Jul 2013 21:58:08 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">36317 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC - Legal Notices</title>
+    <link>https://www.epa.gov/cleanups/cimc-legal-notices</link>
+    <description>&lt;h4&gt;The following are Legal Notices and Disclaimers related to the data in Cleanups in My Community&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Cleanup Universe&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently, we can only show sites, facilities and properties for which EPA collects information by law, or voluntarily via grants. At present, this does not include state or locally funded cleanups. We would like to work with our state and local partners to expand the scope of cleanups to be accessed through Cleanups in My Community in the future. We are also interested in expanding our program coverage of cleanups and related content, like other RCRA sites. You can find links to additional spills, releases, and facilities at the bottom of the home page. We welcome your ideas on what would be helpful to see in CIMC. In addition, data in this system is updated according to the &lt;a href=&quot;https://ofmpub.epa.gov/enviro/data_update_v2&quot;&gt;data update schedule&lt;/a&gt; and may not yet reflect real changes at the locations covered here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appropriate Use of Data in CIMC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The information compiled on the website &quot;Cleanups in My Community&quot; (CIMC) is comprised of both EPA-produced and EPA-collected data (e.g., data entered by Brownfields grant recipients or states). The Agency is providing this information as a public service. EPA cannot and does not vouch for the accuracy, completeness, or currency of data supplied on the CIMC website. EPA does not independently verify data entered on CIMC, and such data is made available to the public strictly for informational purposes. Data available through CIMC does not represent EPA&#039;s official position, viewpoint, or opinion, express or implied. This information cannot be relied upon to create any rights, substantive or procedural, enforceable by any party in litigation with the United States or third parties. EPA reserves the right to change information in CIMC at any time without public notice. We will strive to correct any errors brought to our attention, as appropriate. If you believe EPA is in possession of additional records that may be subject to the Freedom of Information Act, please visit &lt;a href=&quot;/foia&quot; target=&quot;_blank&quot;&gt;EPA&#039;s FOIA Web page&lt;/a&gt; for information on how to file a request.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cleanup Sites Data (including geographic boundaries)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The United States Environmental Protection Agency (EPA) is providing this geospatial information as a public service and this service is continually changing and under development.  The intent of this service is to provide the public with a general understanding of the boundaries at cleanup sites.  The user should contact the responsible authority at the particular site to discuss issues pertaining to the boundaries.  The authority to contact may be &lt;a href=&quot;/hwgenerators/links-hazardous-waste-programs-and-us-state-environmental-agencies&quot;&gt;state&lt;/a&gt; personnel (for most RCRA CA sites), grantees (for most Brownfields sites), EPA personnel (for all types of sites), or a responsible party performing the work (for most Superfund sites). Generally, the mapping tool links to a site profile page for each site which provides the personnel name(s) and contact information for that site.&lt;/p&gt;
+
+&lt;p&gt;Boundaries are developed in a number of ways with data from a variety of sources: the states, the EPA, and/or from the responsible parties performing the work.  Much of this information has been converted from older data systems, and this historical data is not always accurate. Site boundaries are subject to change, and early in the cleanup process, that change can be quite significant as the nature and extent of contamination at a site is determined. Boundaries are developed with as much precision as is possible, they then may be re-evaluated and updated as needed throughout the life of the site.  EPA will make every effort to keep this site updated with current information and correct errors brought to its attention.&lt;/p&gt;
+
+&lt;p&gt;This data does not represent EPA&#039;s official position, viewpoint, or opinion, express or implied nor does EPA assume any legal liability or responsibility regarding the accuracy, completeness, or currency of the data. Data provided by external parties is not independently verified by EPA. This data is made available to the public strictly for informational purposes. This information is not intended for use in establishing liability or calculating &lt;a href=&quot;/enforcement/superfund-cost-recovery&quot;&gt;Cost Recovery&lt;/a&gt; Statutes of Limitations and cannot be relied upon to create any rights, substantive or procedural, enforceable by any party in litigation with the United States or third parties.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Any unauthorized release of a hazardous substance could subject you to liability under CERCLA (Superfund) or RCRA.&lt;/li&gt;
+	&lt;li&gt;Use of this mapping tool and/or a call to the EPA does not substitute for the required call to your state’s one call system (e.g., Dig Safe, Call Before You Dig, 811).&lt;/li&gt;
+	&lt;li&gt;The Institutional Control, Acceptable Use Limitations (IC/AUL) boundaries reflect only institutional controls and activity and use limitations necessary as a result of the EPA/federal Superfund and RCRA cleanup activities. Other federal, state, and local controls may be in place.&lt;/li&gt;
+	&lt;li&gt;EPA’s response shall reflect only the status of IC/AULs necessary as result of cleanup activities and is not a grant of access and shall not imply that any property owner(s) has granted permission for you to access or work on their property.&lt;/li&gt;
+	&lt;li&gt;These boundary maps are subject to change. EPA reserves the right to change these data at any time without public notice.&lt;/li&gt;
+	&lt;li&gt;Not all cleanup sites have been mapped. Please contact the site or facility manager with any questions.&lt;/li&gt;
+	&lt;li&gt;The information contained here is made available to the public by the EPA for information purposes only. While EPA together with state environmental agencies engaged in extensive efforts to assure the accuracy of this information, no warranty, express or implied, is made by EPA or any other agency of the U.S. Government regarding the accuracy or completeness of this information.&lt;/li&gt;
+	&lt;li&gt;This information cannot be relied upon to create any rights, substantive or procedural, enforceable by any party in litigation with the United States or third parties. EPA reserves the right to change information in this tool at any time without public notice. We will strive to correct any errors brought to our attention, as appropriate.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Location of ARRA locations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The placement of award locations on this map was from EPA&#039;s FRS Geospatial program and represented EPA&#039;s best estimation of recovery work locations at the time. State-wide awards were placed at the location of the state capital. County-wide and city-wide awards were placed at the center of the county or city. For site-specific awards, a representative point within the site boundary was used. All other data came from award-recipient-reported data as required by Section 1512 of the ARRA. This information cannot be relied upon to create any rights, substantive or procedural, enforceable by any party in litigation with the United States or third parties. EPA reserves the right to change information on CIMC at any time without public notice. We will strive to correct any errors brought to our attention, as appropriate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tribal Lands&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA makes no claims regarding the accuracy or precision of data concerning Indian country locations or boundaries on the EnviroFacts website. EPA has simply attempted to collect certain readily available information relating to Indian country locations. Questions concerning data should be referred to the originating program or Agency which can be identified in the Envirofacts tribal query metadata files &lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id=%7b8077CD55-74FB-4107-8047-3DEC0D55966A%7d&amp;amp;xsl=metadata_to_html_full&quot;&gt;Lower48 Tribal Areas&lt;/a&gt;, &lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id=%7bE37B0B2C-EB0B-436C-B993-C18D8895E522%7d&amp;amp;xsl=metadata_to_html_full&quot;&gt;Alaska Reservation&lt;/a&gt;, &lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id=%7bE4341D1B-656F-4E76-86DB-9216E8A968EA%7d&amp;amp;xsl=metadata_to_html_full&quot;&gt;Alaska Native Villages&lt;/a&gt;, or &lt;a href=&quot;https://edg.epa.gov/metadata/rest/document?id=%7b15FEB09B-752E-4B48-B01B-D9F2D360623A%7d&amp;amp;xsl=metadata_to_html_full&quot;&gt;Alaska Native Allotments&lt;/a&gt; . The Indian country locations shown here are suitable only for general spatial reference and do not necessarily reflect EPA&#039;s position on any Indian country locations or boundaries or the land status of any specific location. The inclusion of Indian country information on the EnviroFacts website does not represent any final EPA action addressing Indian country locations or boundaries. This information cannot be relied upon to create any rights, substantive or procedural, enforceable by any party in litigation with the United States or third parties. EPA reserves the right to change information on EnviroFacts at any time without public notice.&lt;/p&gt;
+
+&lt;p&gt;EPA uses the US Census Bureau 2010 tribal boundary layer data when developing environmental data query responses for tribes in the lower 48 United States and Bureau of Land Management Alaska State Office when developing environmental data query responses for tribes in Alaska. The tribal boundary locations identified are suitable only for general spatial reference and do not necessarily reflect EPA&#039;s position on any Indian country locations or boundaries, or the land status of any specific location. EPA seeks to use the best available national federal data and may refine the tribal boundary layer in the future as more accurate national federal data becomes available.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 02 Jul 2013 21:52:43 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">36315 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC - How to Link to the Map</title>
+    <link>https://www.epa.gov/cleanups/cimc-how-link-map</link>
+    <description>&lt;p&gt;&lt;strong&gt;This page explains how to link to a specific view of the &lt;a href=&quot;/cleanups/cleanups-my-community&quot;&gt;Cleanups in My Community&lt;/a&gt; map from your web page.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Simply insert the appropriate code below, per the instructions, into your web page(s).&lt;/p&gt;
+
+&lt;h2&gt;National Maps by Program&lt;/h2&gt;
+
+&lt;p&gt;To bring up the CIMC Map, focused on a particular cleanup program, use the following URLs:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;for Brownfields: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||true|false|false|false|false|false|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||true|false|false|false|false|false|||sites|Y&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;for RCRA Corrective Action: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|true|false|false|false|false|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|true|false|false|false|false|||sites|Y&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;for Superfund: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|true|false|false|false|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|true|false|false|false|||sites|Y&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;for Recovery Act: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|true|false|false|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|true|false|false|||sites|Y&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;for Federal Facilities: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|true|false|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|true|false|||sites|Y&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;For Federal Facility Docket Facilities: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|false|false|||sites|Y|true&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|false|false|||sites|Y|true&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;for Removals: &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|false|true|||sites|Y&quot;&gt;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:NULL|Cleanup||||false|false|false|false|false|true|||sites|Y&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Site Maps Using Latitude and Longitude&lt;/h2&gt;
+
+&lt;p&gt;To bring up the CIMC Map, focused on a particular latitude and longitude, use the following format for your URL:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:map:::::P71_GEOSEARCH:AA.AAAAA%20-LLL.LLLLLL&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;where AA.AAAAA is the Latitude and -LLL.LLLLLL is the Longitude, in decimal degrees, of the center point you want to use.  Be sure to use the the minus (-) sign as necessary to indicate southern or western hemisphere.  The number of decimal degrees is adjustable based on whatever accuracy you have available.&lt;/p&gt;
+
+&lt;h2&gt;Site Maps Using Site Name&lt;/h2&gt;
+
+&lt;p&gt;To bring up the CIMC Map, focused on a particular cleanup location, using the site name, use the following format for your URL:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;for Brownfields: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||true|false|false|false|false|false|||sites|Y&lt;/li&gt;
+	&lt;li&gt;for RCRA Corrective Action: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||false|true|false|false|false|false|||sites|Y&lt;/li&gt;
+	&lt;li&gt;for Superfund: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||false|false|true|false|false|false|||sites|Y&lt;/li&gt;
+	&lt;li&gt;for Recovery Act: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||false|false|false|true|false|false|||sites|Y&lt;/li&gt;
+	&lt;li&gt;for Federal Facilities: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||false|false|false|false|true|false|||sites|Y&lt;/li&gt;
+	&lt;li&gt;for Federal Facility Docket Facilities: https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map::::71:P71_WELSEARCH:SITE_NAME|Cleanup||||false|false|true|false|false|false|||sites|Y|true&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;where &quot;SITE_NAME&quot; is at least part of the name of the property, site, or facility in CIMC that you want to show on the CIMC map.&lt;/p&gt;
+
+&lt;h2&gt;Site Maps Using Site Identification Number&lt;/h2&gt;
+
+&lt;p&gt;To bring up the CIMC Map, focused on a particular cleanup location, using the program ID, use the following format for your URL:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;for Brownfields (BF_PROPERTY_ID): https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:map:::NO::P71_IDSEARCH:BF_PROPERTY_ID|SITE_ID&lt;/li&gt;
+	&lt;li&gt;for RCRA Corrective Action (RCRA_HANDLER_ID): https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:map:::NO::P71_IDSEARCH:RCRA_HANDLER_ID|SITE_ID&lt;/li&gt;
+	&lt;li&gt;for Superfund (SF_SITE_ID): https://ofmpub.epa.gov/apex/cimc/f?p=CIMC:map:::NO::P71_IDSEARCH:SF_SITE_ID|SITE_ID&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;where &quot;SITE_ID&quot; is the Brownfields Property ID, RCRA Handler ID or Superfund Site ID for the site you want to show on the CIMC map. (If you do not already know the ID for your site of interest, you can use CIMC to locate it and then drill down to the RCRA or Superfund profile where the ID is displayed.)&lt;/p&gt;
+
+&lt;h2&gt;Site Profiles Using Site Identification Numbers&lt;/h2&gt;
+
+&lt;div&gt;
+	&lt;p&gt;To bring up the cleanup progress profile for a particular cleanup location, using the program ID, use the following format for your URL:&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;for Brownfields (BF_PROPERTY_ID): https://obipublic11.epa.gov/analytics/saw.dll?PortalPages&amp;amp;Action=Navigate&amp;amp;PortalPath=/shared/CIMC/_portal/CIMC&amp;amp;Page=Profile+Page&amp;amp;col1=ACRES_GRANT_EXPORT.PROPERTY_ID&amp;amp;val1=%22SITE_ID%22&lt;/li&gt;
+		&lt;li&gt;for RCRA Corrective Action (RCRA_HANDLER_ID): https://obipublic11.epa.gov/analytics/saw.dll?PortalPages&amp;amp;Action=Navigate&amp;amp;PortalPath=/shared/CIMC/_portal/CIMC&amp;amp;Page=RCRA+Profile+Page&amp;amp;col1=RCRA_PROFILE_FINAL.HANDLER_ID&amp;amp;val1=%22SITE_ID%22&lt;/li&gt;
+		&lt;li&gt;for Superfund (SF_SITE_ID): https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=SITE_ID&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;where &quot;SITE_ID&quot; is the Brownfields Property ID, RCRA Handler ID or Superfund Site ID for the site you want. (If you do not already know the ID for your site of interest, you can use CIMC to locate it and then drill down to the RCRA or Superfund profile where the ID is displayed.)&lt;/p&gt;
+
+	
+
+	&lt;p&gt;(Coming soon: Map focused on a specific site, based on an EPA_ID, and map of a specific Brownfields Grant Jurisdiction based on a JURISDICTION_ID or name.)&lt;/p&gt;
+&lt;/div&gt;
+
+
+</description>
+     <pubDate>Tue, 02 Jul 2013 21:46:45 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">36313 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC - How to Download Data</title>
+    <link>https://www.epa.gov/cleanups/cimc-how-download-data</link>
+    <description>&lt;p&gt;&lt;strong&gt;This page explains how to download data from Cleanups in My Community (CIMC)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Starting from the &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:map&quot;&gt;CIMC Map View&lt;/a&gt; or the &lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=cimc:createtable&quot;&gt;Create a Table page&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Select your geography (see &quot;&lt;a href=&quot;/cleanups/cimc-about-data&quot;&gt;About the Data&lt;/a&gt;&quot; page for more details on how to select geography in CIMC).&lt;/li&gt;
+	&lt;li&gt;Make sure you have chosen what you want to include in your download (&quot;cleanup types&quot; or &quot;Brownfield grant jurisdictions&quot;). You may also use the &quot;filter cleanup type&quot; or &quot;grant filters&quot; drop down menus to further refine the data you want to download.&lt;/li&gt;
+	&lt;li&gt;When you have made your data and geographic selections, choose &quot;list it&quot;, next to the geography you chose.&lt;/li&gt;
+	&lt;li&gt;You can choose to open or save the resulting list of cleanups on the &quot;Cleanups in My Community List Results&quot; page to a CSV file format that can be opened in table format in commonly used software. Go to the bottom left corner of the page and click on &quot;Export to CSV&quot;. Your computer interface will walk you through the process of opening the file or saving the file to your computer. The download will include all the results records, even if they do not all appear on the results page. You may view the additional pages by clicking &quot;Next&quot; in the lower right corner of the page.&lt;/li&gt;
+&lt;/ol&gt;&lt;div&gt;
+	&lt;p&gt;&lt;strong&gt;Additional Data may be Downloaded for Brownfields Properties:&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;ol start=&quot;5&quot;&gt;&lt;li&gt;After following the previous steps for Downloading Data from CIMC, go to the bottom of the CIMC List Results page, and click on the button on the right called &quot;Click for More Brownfields Info&quot;.&lt;/li&gt;
+	&lt;li&gt;On the &quot;Advanced Brownfields Property Search&quot; page, choose the additional categories of data you want, and then click on Submit. The results will display on the &quot;Advanced Brownfields Property List Results&quot; page. Only Brownfields properties will be shown in this view and will be available for download with these additional fields. Only the first 15 records will be shown initially. You may view the additional pages by clicking &quot;Next&quot; in the lower right corner of the page.&lt;/li&gt;
+	&lt;li&gt;On the &quot;Advanced Brownfields Property List Results&quot; page, go to the bottom left corner of the page and click on &quot;Export to CSV&quot;. Your computer interface will walk you through the process of opening the file or saving the file to your computer. All the list results will be downloaded, for all the columns, whether they appear on the first page of list results or not.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Note: Multiple lines for a property may appear if a property received multiple funding sources from EPA and/or reported multiple accomplishments at a particular property.&lt;/p&gt;
+
+
+</description>
+     <pubDate>Tue, 02 Jul 2013 21:36:53 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">36311 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CIMC - About the Data</title>
+    <link>https://www.epa.gov/cleanups/cimc-about-data</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#programs&quot;&gt;Current Scope of Sites Included in Cleanups In My Community (CIMC)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#other&quot;&gt;Other Data provided in CIMC&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ssbocs&quot;&gt;Cleanup Program or Status&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#brownfields&quot;&gt;Brownfields&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#rcra&quot;&gt;RCRA Corrective Action&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#superfund&quot;&gt;Superfund&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#ff&quot;&gt;Federal Facilities&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#removals&quot;&gt;Removals/Responses&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#recovery&quot;&gt;Recovery Act locations for Superfund and Brownfields&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ssbog&quot;&gt;Geography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;background&quot; id=&quot;background&quot;&gt;&lt;/a&gt;Background&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accidents, spills, leaks, and past improper disposal and handling of hazardous materials and wastes have resulted in tens of thousands of sites across our country that have contaminated our land, water (groundwater and surface water), and air (indoor and outdoor). EPA and its state, territory and tribal partners have developed a variety of cleanup programs to assess and, where necessary, clean up these contaminated sites.&lt;/p&gt;
+
+&lt;p&gt;Cleanups in My Community is intended to provide information about sites that might need to be cleaned up, are being cleaned up, or have been cleaned up, in your community or anywhere in the United States. The information can help people understand what is happening in their community, what has happened, and, with the contextual information provided, what could happen if certain events take place.  We provide what data are available, and those data are limited by what we can legally generate and collect. See &lt;a href=&quot;/cleanups/cimc-legal-notices&quot;&gt;legal notices page&lt;/a&gt; for more information on data limitations.&lt;/p&gt;
+
+&lt;p&gt;CIMC is an ever-green application – always improving. We are open to new ideas on how CIMC can be improved, please &lt;a href=&quot;/cleanups/forms/contact-us&quot;&gt;contact us&lt;/a&gt; with your ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;programs&quot; id=&quot;programs&quot;&gt;&lt;/a&gt;Current Scope of Sites Included in Cleanups in My Community&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently, CIMC only shows sites, facilities and properties for which EPA collects information by law, or voluntarily via grants. At present, this does not include state or locally funded cleanups. In addition, data in this system is updated according to the &lt;a href=&quot;https://iaspub.epa.gov/enviro/data_update_v2&quot;&gt;data update schedule&lt;/a&gt; and may not yet reflect real changes at the locations covered here.&lt;/p&gt;
+
+&lt;p&gt;Currently, CIMC only includes data for the following EPA cleanup programs:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#brownfieldsp&quot;&gt;Brownfields Properties&lt;/a&gt;: Grantees may report information on Brownfield properties recieving federal grants. Data are collected from grantees via ACRES and transferred to Envirofacts for access by the public.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#brownfieldj&quot;&gt;Brownfields Grants Jurisdictions&lt;/a&gt;: Geographic areas covered by specific Brownfields grants. These data are collected through ACRES and transferred to Envirofacts for access by the public.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rcra&quot;&gt;RCRA Corrective Action&lt;/a&gt;: Facilities cleaned up under the corrective action program of the Resource Conservation and Recovery Act (RCRA). These are data collected from the states using RCRAInfo and transferred to Envirofacts for access by the public. Only facilities data which states designate as being on the 2020 Baseline for Corrective Action and for public access are included in CIMC.&lt;/li&gt;
+	&lt;li&gt;Superfund and RCRA Corrective Action Boundaries: We are working with EPA regions to provide Superfund site boundaries, RCRA Corrective Action boundaries and control area boundaries (operable units, institutional control areas, LUCs, AULs, etc.) through CIMC.  These are not official boundaries and have no legal standing, but are provided as a public serevice.  For more information, please see our &lt;a href=&quot;/cleanups/cimc-legal-notices&quot;&gt;Legal Notices&lt;/a&gt;.  These will be added as they become available to the CIMC team.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#superfund&quot;&gt;Superfund&lt;/a&gt;: Superfund sites that are on the National Priority List (NPL), are proposed for the NPL and have been deleted from the NPL. Data are collected from EPA Regions via the Superfund Enterprise Management System and transferred to Envirofacts for access by the public.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ff&quot;&gt;Federal Facilities&lt;/a&gt;: Sites that are Superfund and/or RCRA Corrective Action sites. Data are collected using the Superfund Enterprise Management System and RCRAInfo and transferred to Envirofacts for access by the public.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#removals&quot;&gt;Removals/Responses&lt;/a&gt;: Generally more urgent cleanups. Data are provided by On Scene Coordinators (OSCs) through epaosc.org and transferred to CIMC for additional access to the public.  However, data about Incidents of National Significance are located on their own EPA web pages, and CIMC links to those pages.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#recovery&quot;&gt;Recovery Act Funded Cleanups&lt;/a&gt;: CIMC provides information on Superfund and Brownfields site cleanups that received ARRA Recovery Act funding, but not on the Leaking Underground Storage Tanks sites. For information on all EPA Recovery Act funded work, please see: &lt;a href=&quot;https://epamap17.epa.gov/arra/&quot;&gt;EPA’s Recovery Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a name=&quot;other&quot; id=&quot;other&quot;&gt;&lt;strong&gt;Other (non-cleanup) data mappable in CIMC:&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The following data are provided in the CIMC mapping interface in order to provide context for additional analyses:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Water Monitoring from EPA’s STORET system &lt;a href=&quot;http://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/STORET_NP21/MapServer/&quot; target=&quot;_blank&quot;&gt;(Storage and Retrieval for Water Quality Data Map Service)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Toxic Release Inventory (TRI) sites &lt;a href=&quot;https://geodata.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/26&quot; target=&quot;_blank&quot;&gt;(Toxic Release Inventory Map Service)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;American Indian/Alaska Native/Native Hawaiian (AIANNH) Areas &lt;a href=&quot;https://catalog.data.gov/dataset/current-american-indian-alaska-native-native-hawaiian-areas-national-aiannh&quot; target=&quot;_blank&quot;&gt;(US Census Geographic Census Shapefile Concepts Overview)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Congressional Districts &lt;a href=&quot;https://geodata.epa.gov/arcgis/rest/services/OEI/CongressionalDistricts/MapServer&quot; target=&quot;_blank&quot;&gt;(114th Congressional District TIGER/Line Shapefiles 2010 - Map Service)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;NPDES Permitted Facilities (&lt;a href=&quot;https://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/NPDES_NP21/MapServer/&quot;&gt;More Information About the NPDES Permitted Facilities Map Service&lt;/a&gt;)   &lt;/li&gt;
+	&lt;li&gt;Air Monitoring Data (&lt;a href=&quot;https://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS&quot;&gt;US EPA Nonattainment Areas for Ozone, Lead, SO&lt;sub&gt;2&lt;/sub&gt;, PM2.5, and PM10 Web Service&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;Impaired Waters (&lt;a href=&quot;https://watersgeo.epa.gov/arcgis/rest/services/OWRAD_NP21/303D_NP21/MapServer&quot;&gt;303d Listed Impaired Waters Data Map Service&lt;/a&gt;) &lt;/li&gt;
+	&lt;li&gt;NOAA Sea Level Rise (&lt;a href=&quot;https://maps2.coast.noaa.gov/arcgis/rest/services/dc_slr&quot;&gt;Information on Web Services for Sea Level Rise&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;FEMA Flood Hazard Layers &lt;a href=&quot;https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/0&quot;&gt;(National Flood Hazard Data Availability)&lt;/a&gt; &lt;a href=&quot;https://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/28&quot;&gt;(Flood Hazard Zones)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Links to Additional Cleanup Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Links are provided to some additional resources to help you access local, state and federal information about cleanup sites that are not reported back to EPA and/or are not in Cleanups in My Community. These links are available at the bottom of the &lt;a href=&quot;/cleanups/cleanups-my-community&quot;&gt;Cleanups in My Community&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;ssbocs&quot; id=&quot;ssbocs&quot;&gt;&lt;/a&gt;Cleanup Program and Status&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each cleanup program is founded on different legislation with different reporting and tracking requirements. Consequently, the categories used, and the information available for each program is  different.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;brownfields&quot; id=&quot;brownfields&quot;&gt;&lt;/a&gt;&lt;strong&gt;Brownfields&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Brownfields data in CIMC includes both properties and grants jurisdictions:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;a name=&quot;brownfieldsp&quot; id=&quot;brownfieldsp&quot;&gt;&lt;/a&gt;&lt;b&gt;Brownfields Properties&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+	Brownfields are real properties, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant. Cleaning up and reinvesting in these properties takes development pressures off of undeveloped, open land, and both improves and protects the environment. CIMC provides information on Brownfields properties for which information is reported back to EPA, as well as areas served by Brownfields grants programs. Brownfields properties may be mapped or listed, and property profiles can be accessed from either maps or lists. There are many properties that meet the definition of a brownfield but are not funded by our program.&lt;br /&gt;&lt;br /&gt;&lt;a name=&quot;brownfieldj&quot; id=&quot;brownfieldj&quot;&gt;&lt;/a&gt;&lt;b&gt;Brownfields Grants Jurisdictions&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;!--Brownfields cleanups are largely funded through grants.--&gt;Only properties benefitting from EPA Brownfields grant funding and technical assistance appear in Cleanups in My Community. There are different types of grants and each grant covers a specific area of geography. Grant areas can overlap, and often do. You can map and list Brownfields grant areas. Simply choose Brownfields Grants Jurisdictions as your program filter and map or list them for the geography you choose. On the map, Brownfields jurisdictions will be shown as colored boundaries. Grant Jurisdictions have their own reports and fact sheet. You can get to the reports by choosing to map the grant areas and then clicking on the areas on the map, or by clicking on a report in the grant listing. For more information on Brownfields grants, see &lt;a href=&quot;/brownfields/types-brownfields-grant-funding&quot;&gt;Brownfields Grants and Funding&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Data&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+	The Brownfields data are reported by grant recipients via the &lt;a href=&quot;/brownfields/brownfields-grantee-reporting-assessment-cleanup-and-redevelopment-exchange-system-acres&quot;&gt;ACRES&lt;/a&gt; database and updated and stored in Envirofacts monthly. Brownfields property information is obtained via the &quot;Property Profile&quot;.  Please see &quot;&lt;a href=&quot;/brownfields/instructions-completing-brownfields-property-profile-form-general-instructions&quot;&gt;Instructions for Completing Brownfields Property Profile Form&lt;/a&gt;&quot; for more detailed information about each field.  For more information on the data updates to Envirofacts, please visit the &lt;a href=&quot;https://ofmpub.epa.gov/enviro/data_update_v2&quot;&gt;Envirofacts Data Update page&lt;/a&gt;. Data in CIMC are updated on the 18th of each month and reflect data considered by ACRES to be “final” versus “draft” data that might still be pending approval.&lt;/blockquote&gt;
+
+&lt;blockquote&gt; &lt;/blockquote&gt;
+
+&lt;blockquote&gt;The Brownfields grant jurisdictions are developed by EPA based on the grant title.  Generally, these grant jurisdictions are standard geographic political areas such as states, counties, and the Census equivalents of cities, towns, etc.  When the grant geography is non-standard, we work with the grant project officers at EPA to correctly draw the grant jurisdication areas.&lt;/blockquote&gt;
+
+&lt;blockquote&gt; &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;rcra&quot; id=&quot;rcra&quot;&gt;&lt;/a&gt;RCRA Corrective Action&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/laws-regulations/summary-resource-conservation-and-recovery-act&quot;&gt;Resource Conservation and Recovery Act&lt;/a&gt;, among other things, helps ensure that wastes are managed in an environmentally sound manner so as to protect human health and the environment from the potential hazards of waste disposal.&lt;/p&gt;
+
+&lt;p&gt;In particular, (RCRA) tightly regulates all &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;hazardous waste&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; /&gt;&lt;em&gt;hazardous waste&lt;/em&gt;By-products of society that can pose a substantial or potential hazard to human health or the environment when improperly managed. Possesses at least one of four characteristics (ignitability, corrosivity, reactivity, or toxicity), or appears on special EPA lists.&lt;/span&gt;&lt;/a&gt; from &quot;cradle to grave.&quot; In general, all generators, transporters, treaters, storers, and disposers of hazardous waste are required to provide information about their activities to state environmental agencies. These agencies, in turn pass on the information to regional and national EPA offices. Accidents or other activities at facilities that treat, store or dispose of hazardous wastes have sometimes led to the release of hazardous waste or hazardous constituents into soil, ground water, surface water, or air. When that happens, the RCRA Corrective Action program is one program that may be used to accomplish the necessary cleanup.&lt;/p&gt;
+
+&lt;p&gt;In Cleanups in My Community, you can map or list RCRA Corrective Action sites that are currently undergoing corrective action, sites for which a remedy has been selected, sites for which construction has been completed, and sites where the corrective action cleanup is complete (&lt;a href=&quot;/hwcorrectiveactionsites&quot;&gt;More on RCRA Corrective Action&lt;/a&gt;) .&lt;/p&gt;
+
+&lt;p&gt;Note: RCRA facilities which are not undergoing corrective action are not considered “Cleanups” in Cleanups in My Community. The complete set of RCRA facilities can be accessed via the &lt;a href=&quot;https://www3.epa.gov/enviro/facts/rcrainfo/search.html&quot;&gt;RCRA database&lt;/a&gt; in Envirofacts.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;b&gt;Data&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+	The RCRA data in CIMC comes from the RCRAInfo data stored in Envirofacts that have been flagged by states as both open to public access and on the Corrective Action 2020 Baseline. If the state has not flagged the data as both open to public access and on the Corrective Action 2020 Baseline, it will not appear in CIMC.  Data are updated monthly from RCRAInfo to Envirofacts, and then, on the 18th of each month, transferred to CIMC.  For more information, please see: &lt;br /&gt;
+	 
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enviro/rcrainfo-overview&quot;&gt;Envirofacts RCRAInfo web page&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://rcrainfo.epa.gov/rcrainfoweb/action/main-menu/view&quot;&gt;RCRAInfo web page&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://iaspub.epa.gov/enviro/data_update_v2&quot;&gt;Envirofacts Data Update page&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;ftp://ftp.epa.gov/rcrainfodata/&quot;&gt;Raw RCRAInfo Data&lt;/a&gt; and &lt;a href=&quot;ftp://ftp.epa.gov/rcrainfodata/rcra_flatfiles/&quot;&gt;flat files&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/blockquote&gt;
+
+&lt;p id=&quot;superfund&quot;&gt;&lt;strong&gt;&lt;a name=&quot;superfund&quot; id=&quot;superfund&quot;&gt;&lt;/a&gt;Superfund&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Superfund is a program administered by the EPA to locate, investigate, and clean up worst hazardous waste sites throughout the United States. EPA administers the Superfund program in cooperation with individual states and tribal governments. These sites include abandoned warehouses, manufacturing facilities, processing plants, and landfills - the key word here being abandoned.&lt;/p&gt;
+
+&lt;p&gt;Only those currently on the National Priority List (NPL) have been included in Cleanups in My Community thus far. In Cleanups in My Community we have used the term NPList because not everyone knows what NPL means and National Priority List is too long a title for the list in the list box. &lt;a href=&quot;/superfund&quot;&gt;(More on Superfund)&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;b&gt;NPList&lt;/b&gt;&lt;/p&gt;
+
+	&lt;p&gt;EPA maintains a National Priority List (NPL), which identifies for the States and the public those sites or other releases that appear to warrant remedial (long term) actions. These NPL sites fall into the following categories:&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;b&gt;Proposed:&lt;/b&gt; Through the &lt;a href=&quot;/superfund/about-superfund-cleanup-process&quot;&gt;Superfund NPL Site Listing Process&lt;/a&gt;, sites may be proposed for the NPL. &lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;Final:&lt;/b&gt; Those sites placed on the NPL are called &quot;final,&quot; and for these sites, a cleanup remedy is selected and implemented. However, it may be several years after construction of the remedy is completed before the hazardous substances are completely cleaned up or controlled in place.&lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;Deleted:&lt;/b&gt; After the cleanup process is complete, and appropriate reviews confirm the area is cleaned up or the hazards are controlled, sites can be deleted from the NPL.&lt;/li&gt;
+	&lt;/ul&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/p&gt;
+
+	&lt;p&gt;Superfund NPL data come to CIMC through two mechanisms.&lt;/p&gt;
+
+	&lt;ol&gt;&lt;li&gt;Information shown on the CIMC maps (including the latitudes and longitudes) and listed in the lists of sites, originates with the Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS) data in the Superfund Enterprise Management System*, but goes through additional Quality Control in EPA&#039;s &lt;a href=&quot;/enviro/facility-registry-service-frs&quot;&gt;Facility Registry System&lt;/a&gt; to:
+
+			&lt;blockquote&gt;
+				&lt;ol style=&quot;list-style-type:lower-alpha&quot;&gt;&lt;li&gt;Ensure the latitudes and longitudes are within the proper ranges based on the county, state and other geographic identifiers provided for the site, and that the coordinates we use are supported by the best metadata we have available, and&lt;/li&gt;
+					&lt;li&gt;Integrate the data from CERCLIS with data about the same sites from other EPA programs. We are continually in the process of improving this information, such as latitude and longitude information, which may not have method, accuracy and description information.&lt;/li&gt;
+				&lt;/ol&gt;&lt;/blockquote&gt;
+			For more information on the CERCLIS data in FRS and Envirofacts, please see the &lt;a href=&quot;/enviro/sems-overview&quot;&gt;Envirofacts CERCLIS overview page&lt;/a&gt;. For more information about the quality of the data in FRS, see the &lt;a href=&quot;/enviro/facility-registry-service-frs&quot;&gt;FRS home page&lt;/a&gt;, the &lt;a href=&quot;/enviro/frs-documentation&quot;&gt;FRS documentation&lt;/a&gt; and &lt;a href=&quot;/enviro/frs-program-crosswalks&quot;&gt;Programs Crosswalk&lt;/a&gt;.&lt;/li&gt;
+		&lt;br /&gt;&lt;li&gt;CIMC then links to the Site Progress Profiles created by combining data from CERCLIS with site-specific data from the regions. These data describe what has happened at Superfund sites as well as what is planned. For more information about the quality of the data in the Superfund Enterprise Management System, see &lt;a href=&quot;/superfund/superfund-data-and-reports&quot;&gt;Superfund Data and Reports&lt;/a&gt;.  For additional site-specific Superfund searching, please see &lt;a href=&quot;/superfund/search-superfund-documents&quot;&gt;Search Superfund Documents&lt;/a&gt;.&lt;/li&gt;
+	&lt;/ol&gt;&lt;br /&gt;
+	*Data in CIMC are updated on the 18th of each month.  &lt;/blockquote&gt;
+
+&lt;blockquote&gt; &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a name=&quot;ff&quot; id=&quot;ff&quot;&gt;&lt;/a&gt;&lt;strong&gt;Federal Facilities&lt;/strong&gt;&lt;br /&gt;
+	Federal facilities are properties owned by the federal government. Federal facility sites can be either Superfund sites or RCRA Corrective Action sites, or they may have moved from one program to the other and back. In Cleanups in My Community, you can map or list any of these Federal Facility sites. Base Realignment and Closure (BRAC) sites are also included in CIMC. &lt;a href=&quot;/fedfac&quot;&gt;(More on Federal Facilities)&lt;/a&gt;  The &lt;a href=&quot;/fedfac/federal-agency-hazardous-waste-compliance-docket-0&quot;&gt;Federal Facilities Docket&lt;/a&gt; is a subset of the Federal Facilities in CIMC.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;removals&quot; id=&quot;removals&quot;&gt;&lt;/a&gt;&lt;strong&gt;Removals/Responses&lt;/strong&gt;&lt;br /&gt;
+	Removals are hazardous substance releases that require immediate or short-term response actions. These are generally addressed under the &lt;a href=&quot;/emergency-response&quot;&gt;Emergency Response program&lt;/a&gt; and are tracked centrally by the federal government&#039;s &lt;a href=&quot;http://nrc.uscg.mil/&quot;&gt;National Reporting Center&lt;/a&gt;. Cleanups in My Community maps and lists removals that are included in &lt;a href=&quot;https://www.epaosc.org/site/region_list.aspx?region=0&quot;&gt;EPA’s epaosc.net site&lt;/a&gt;, and provides direct links to information on these sites. CIMC obtains updated removal data through a web service from epaosc.org around the 18th of each month.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;recovery&quot; id=&quot;recovery&quot;&gt;&lt;/a&gt;&lt;strong&gt;Recovery Act Funded Cleanups&lt;/strong&gt;&lt;br /&gt;
+	The American Recovery and Reinvestment Act was signed into law by President Obama on February 17th, 2009. Out of the five EPA programs that distributed recovery act funding, three of them were cleanup programs: Brownfields, Superfund and Leaking Underground Storage Tanks. CIMC provides information on Superfund and Brownfields site cleanups that received ARRA Recovery Act funding, but not on the Leaking Underground Storage Tanks sites that received ARRA Recovery Act funding. Data for Brownfields comes from the ACRES database. Data for Superfund comes from the CERCLIS database within SEMS. Recovery Act data are no longer updated since the program ended. For information on all EPA Recovery Act funded work, please see: &lt;a href=&quot;https://archive.epa.gov/recovery/web/html/&quot;&gt;https://www.epa.gov/recovery/index.html&lt;/a&gt; and &lt;a href=&quot;https://archive.epa.gov/recovery/web/html/map.html&quot;&gt;https://archive.epa.gov/recovery/web/html/map.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;ssbog&quot; id=&quot;ssbog&quot;&gt;&lt;/a&gt;Geography&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can search for sites in Cleanups in My Community based on the following types of geography:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Street Address – You can put in the street address, city, state, ZIP code (e.g. 123 Main Street, Arlington, VA) for any address in the US, and request a certain radius around it to define your geography of interest. Addresses are “geocoded” on the fly to find the best possible latitude and longitude on the map. CIMC uses geocoding services available through its Facility Registry System to locate the latitude and longitude of that address and then maps the area with the sites, or lists the sites in that area.&lt;/li&gt;
+	&lt;li&gt;County, City or ZIP – Choose what type of geography you want to use, and then enter the name of the county or city or the ZIP code of interest. Be sure to specify the state in which the county, City or ZIP exists.&lt;/li&gt;
+	&lt;li&gt;National – You can retrieve the whole country (including Alaska and Hawaii, etc.) or just the 48 contiguous states. Mapping or getting a listing for the whole country can be slow, so you may want to limit the types of sites in your search based on the categories above. If the site locations do not appear after the rest of the map has appeared, try refreshing the page.&lt;/li&gt;
+	&lt;li&gt;Cleanup Name – You can enter the name of a specific cleanup (e.g., Port Washington) and the CIMC map will zoom in as much as possible to that location. In fact, to see the surrounding area of the cleanup, you will need to zoom out several levels. If you see a large section of the US when using the Cleanup Name option, it may be that there is more than one cleanup with that name. The Cleanup Name function will show the chosen cleanup(s) with a different site icon, so that it is distinguishable from the others.&lt;/li&gt;
+	&lt;li&gt;FRS Registry ID – You will probably only use this if you are familiar with EPA’s Facility Registry System (FRS), but you can obtain the FRS &quot;Registry ID&quot; by finding the cleanup using the &lt;a href=&quot;/enviro/frs-ez-query&quot;&gt;FRS search&lt;/a&gt;. Please see Cleanup Name above for information about zooming.&lt;/li&gt;
+	&lt;li&gt;State or Territory – Choose a state or territory from the list of states and territories.&lt;/li&gt;
+	&lt;li&gt;EPA Region – Select one of EPA’s 10 regions. For information on the geography covered by each region, as well as to access regional cleanup web pages, see the &lt;a href=&quot;/cleanups/cleanups-where-you-live&quot;&gt;Cleanups Where You Live page&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Watershed – You can select the hydrological unit code, catalog unit name or sub-region name. Catalog units are also called watersheds. An explanation of these terms is provided on the &lt;a href=&quot;http://water.usgs.gov/GIS/huc.html&quot;&gt;USGS HUC page&lt;/a&gt;. Listings of these geographic areas are also available at the &lt;a href=&quot;http://water.usgs.gov/GIS/huc_name.txt&quot;&gt;USGS website&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Tribal areas – We use the Tribal Boundaries from the EPA Map service (&lt;a href=&quot;https://map11.epa.gov/arcgis/rest/services/EMEF/tribal/MapServer&quot;&gt;https://map11.epa.gov/arcgis/rest/services/EMEF/tribal/MapServer&lt;/a&gt;) which &quot;is built by combining boundaries from the 2010 Census American Indian/Alaska Native/Native Hawaiian Areas (AIANNH) data (visit http://www.census.gov/geo/www/tiger for details) with Federally recognized Tribal Entity Names as provided by EPA&#039;s Tribal Identification web service (found at http://www.exchangenetwork.net/data-exchange/epa-tribal-identification-tribes/ )&quot;.  To view the tribal areas disclaimer, please see our &lt;a href=&quot;/cleanups/cimc-legal-notices&quot;&gt;Legal Notices&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;Latitude/Longitude – When you specify a specific point, and a radius around that point, the map will show that area and all the cleanups that appear on the map. The listing will include only those cleanups within the specified radius of that point. Site Names correspond to the names of cleanups in CIMC. Latitude and longitude need to be specified in decimal degrees.&lt;br /&gt;&lt;br /&gt;
+		Please note that when you map cleanups, the map view will show all cleanups, including those outside the specified geography. When you list the cleanups, only those cleanups in the specified geography will be included. This is why a comparison of the cleanups mapped and those listed for the same geography will not be exactly the same.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 02 Jul 2013 21:29:17 +0000</pubDate>
+ <dc:creator>ljenki04</dc:creator>
+ <guid isPermaLink="false">36309 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 12:08:41, expires @ 2017-01-27 12:08:41, lifetime 1 day -->

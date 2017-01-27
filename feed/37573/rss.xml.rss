@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/37573/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>CAMEO</title>
+    <link>https://www.epa.gov/feed/37573/rss.xml</link>
+    <description>Updated CAMEO content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/37573/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Geospatial Data Sources for MARPLOT</title>
+    <link>https://www.epa.gov/cameo/geospatial-data-sources-marplot</link>
+    <description>&lt;p&gt;There are many sources of geospatial data available online, and many sites provide the data to users for free. The &lt;a href=&quot;/cameo/marplot-software&quot;&gt;MARPLOT 5 series&lt;/a&gt; has been enhanced to allow users to more easily add data from other sources into the program in the form of object-based layers, online Web Mapping Service (WMS) layers, and raster images that can serve as basemaps or large background images.&lt;/p&gt;
+
+&lt;p&gt;Below is a list of some potential resources for obtaining free, national (U.S.) data to use in the MARPLOT 5 series. The MARPLOT developers are not endorsing these sites, nor are we guaranteeing the quality of the data provided.&lt;/p&gt;
+
+&lt;h2&gt;Object-Based Layer Providers&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enviro/geospatial-data-download-service&quot; target=&quot;_self&quot;&gt;EPA Sites Geospatial Download&lt;/a&gt;. To improve public health and the environment, the U.S. Environmental Protection Agency collects information about facilities or sites subject to environmental regulation. You can download files with geospatial information for all of the publically available facilities in the &lt;a href=&quot;/enviro/facility-registry-service-frs&quot; target=&quot;_self&quot;&gt;EPA&#039;s Facility Registry Service (FRS)&lt;/a&gt; that have latitude and longitude data. Choose any of the KML or KMZ format files.  You can download the entire National dataset of major facilities, or individual state files.  The national file contains over 129,000 facilities. So, when using this layer in MARPLOT, we recommend waiting to show the layer until you are zoomed in to a specific area. Additionally, if you are not interested in the full national dataset, you can run a search in MARPLOT for objects in your area of interest and then export just those objects. Then you can re-import those objects into MARPLOT on a new layer, and then delete the national dataset layer. Provided by the U.S. Environmental Protection Agency.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.census.gov/geo/maps-data/data/tiger-line.html&quot; target=&quot;_self&quot;&gt;TIGER Shapefile Downloads&lt;/a&gt;. The TIGER (Topologically Integrated Geographic Encoding and Referencing) products include about 30 shapefile sets, such as congressional districts, landmarks, roads, railroads, rivers, and school districts. (The four U.S. Boundaries layers included in MARPLOT are provided from this source.) Some sets are available for the entire United States, while others are available by state/territory. The datasets are provided in a zipped format with a .zip extension, and you can import the file in the MARPLOT 5 series without unzipping it first.  Provided by the U.S. Census Bureau.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://nationalmap.gov/small_scale/atlasftp.html&quot; target=&quot;_self&quot;&gt;National Map Small-Scale Data Downloads&lt;/a&gt;. A collection of nearly 200 small-scale datasets for the United States that were originally developed for the National Atlas project, 1997-2014. (The National Atlas was retired in 2014, and it has been replaced by the National Map project.) This collection includes datasets divided into categories: Land Cover, Governmental Units/Boundaries, Elevation, Geographic Names/Map Reference, Transportation, and Water. Within each category, the datasets marked as shapefiles can be downloaded for use in the MARPLOT 5 series. The datasets are provided in a zipped format with a tar.gz extension. To import those files into MARPLOT, you will need to unzip the files first, so that you can access the .shp, .shx, and .dbf files inside. Provided by the U.S. Geological Survey.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Web Mapping Service (WMS) Providers&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://viewer.nationalmap.gov/services/&quot; target=&quot;_self&quot;&gt;National Map WMSs&lt;/a&gt;. A list of  web services that are part of the National Map Viewer provided by the U.S. Geological Survey. Click on a heading to expand that particular collection of services. If the service is available as a WMS, there will be a WMS link that you can click on to see an .xml file with information about the WMS. Use the URL from the Online Resource line in the .xml file when you&#039;re adding the WMS in the MARPLOT 5 series. Note that the list of services also includes links to legends for each WMS.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Raster Map File Providers&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://gdg.sc.egov.usda.gov/&quot; target=&quot;_self&quot;&gt;Geospatial Data Gateway&lt;/a&gt;. To obtain raster map files, click on the &quot;Order by County/Counties&quot; link on the right side of the home page. Then choose your state and counties of interest. Next, choose the raster map file that you want to download, such as the files in the Ortho Imagery category. Click on the info icon to see if the file is provided in a file type that the MARPLOT 5 series allows. Finally, choose FTP as the delivery option in order to download the files at no cost. You will need to fill out a form with contact information in order to proceed with the download. Provided by the U.S. Department of Agriculture.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://nationalmap.gov/small_scale/atlasftp.html&quot; target=&quot;_self&quot;&gt;National Map Small-Scale Data Downloads&lt;/a&gt;. This collection of nearly 200 small-scale datasets developed for the National Atlas project (1997-2014), also includes files in the GeoTiff format that can be added as raster maps in the MARPLOT 5 series. The GeoTiff files are provided in a zipped format with a tar.gz extension. You will need to download and then unzip the files, before you can add them as raster maps in MARPLOT. Provided by U.S. Geological Survey.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 04 Mar 2015 11:50:33 +0000</pubDate>
+ <dc:creator>ebosecke</dc:creator>
+ <guid isPermaLink="false">76113 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Upgrading to MARPLOT 5.x</title>
+    <link>https://www.epa.gov/cameo/upgrading-marplot-5x</link>
+    <description>&lt;p&gt;MARPLOT 5.x versions include significant changes from both the previous 4.x versions and the 3.x versions.  To ensure that your data is successfully transferred from your old MARPLOT, follow these instructions carefully.&lt;/p&gt;
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-108435&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-02/documents/marplot4to5update.pdf&quot; type=&quot;application/pdf; length=209560&quot; class=&quot;file-link&quot;&gt;Updating to MARPLOT 5.x from MARPLOT 4.x (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 210 K, 
+  2/4/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-108437&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-02/documents/marplot3to5update_mac.pdf&quot; type=&quot;application/pdf; length=209721&quot; class=&quot;file-link&quot;&gt;Updating to MARPLOT 5.x from MARPLOT 3.x on a Mac (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 210 K, 
+  2/4/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Feb 2015 13:41:05 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">73639 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAMEO Companion</title>
+    <link>https://www.epa.gov/cameo/cameo-companion</link>
+    <description>&lt;p&gt;Learn more about working with the CAMEO suite products with this tutorial, developed by the Arizona Emergency Response Commission. An older, Spanish version of the CAMEO Companion is also available. (The latest CAMEO companion is only available in English.)&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-47687&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-12/documents/cameo_companion_sept_2009.pdf&quot; type=&quot;application/pdf; length=13275669&quot; class=&quot;file-link&quot;&gt;CAMEO Companion (English, 2009) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(282 pp, 13 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-47689&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-12/documents/cameo_companion_grupos_respuesta_esp.pdf&quot; type=&quot;application/pdf; length=3482992&quot; class=&quot;file-link&quot;&gt;CAMEO Companion (Spanish, 2004) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(115 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 12 Sep 2013 18:19:45 +0000</pubDate>
+ <dc:creator>emayer</dc:creator>
+ <guid isPermaLink="false">40269 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about CAMEO</title>
+    <link>https://www.epa.gov/cameo/forms/contact-us-about-cameo</link>
+    <description>&lt;p&gt;For answers to functional software questions or solutions to installation problems, contact the &lt;a href=&quot;mailto:RMPRC@epacdx.net&quot;&gt;RMP Reporting Center&lt;/a&gt; (RMPRC@epacdx.net) or call (703) 227-7650.  The RMP Reporting Center is staffed on weekdays from 8 AM to 4:30 PM, Eastern Time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;box right&quot;&gt;&lt;a class=&quot;box left&quot; href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Office of Emergency Management&lt;br /&gt;
+	USEPA Headquarters&lt;br /&gt;
+	William Jefferson Clinton Federal Building&lt;br /&gt;
+	1200 Pennsylvania Avenue, N. W.&lt;br /&gt;&lt;strong&gt;&lt;em&gt;Mail Code: &lt;/em&gt;&lt;/strong&gt;5104A&lt;br /&gt;
+	Washington, DC 20460&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 01 Aug 2013 15:23:15 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">37575 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>MARPLOT 4.x Technical Documentation</title>
+    <link>https://www.epa.gov/cameo/marplot-4x-technical-documentation</link>
+    <description>&lt;p&gt;This MARPLOT documentation is for overlay objects and inter-application communication.&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-25867&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/documents/techdoc_marplot40.pdf&quot; type=&quot;application/pdf; length=262682&quot; class=&quot;file-link&quot;&gt;MARPLOT® 4.0 Technical Documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 263 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 22 Apr 2013 16:04:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">28873 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How to Transfer CAMEO Data from Earlier Versions</title>
+    <link>https://www.epa.gov/cameo/how-transfer-cameo-data-earlier-versions</link>
+    <description>&lt;p&gt;Installing a new version of CAMEO will overwrite your data. To ensure that your data is successfully transferred to the new version, follow these instructions carefully.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-339951&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/transferring_cameo_data_002.pdf&quot; type=&quot;application/pdf; length=150226&quot; class=&quot;file-link&quot;&gt;Transfering CAMEO data from version 2.1 or later.pdf (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 150 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 22 Mar 2013 19:04:06 +0000</pubDate>
+ <dc:creator>ebosecke</dc:creator>
+ <guid isPermaLink="false">19805 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAMEO Certified Instructors</title>
+    <link>https://www.epa.gov/cameo/cameo-certified-instructors</link>
+    <description>&lt;p&gt;The following is a list of trainers certified to teach those that wish to become CAMEO instructors. Not all states have certified trainers.&lt;/p&gt;
+
+&lt;p&gt;The trainer certification exams are administered by &lt;a href=&quot;mailto:tom.bergman@sbcglobal.net&quot;&gt;Tom Bergman&lt;/a&gt; (tom.bergman@sbcglobal.net) of the Oklahoma Department of Environmental Quality.  Please refer to the CAMEO Training website (developed by certified CAMEO Instructors) for &lt;a href=&quot;http://cameotraining.org/?page_id=109&quot; target=&quot;_self&quot;&gt;more details about the certification exam&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table style=&quot;width:80%&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Alabama&quot;&gt;Alabama&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#CA&quot;&gt;California&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#Conn&quot;&gt;Connecticut&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#FL&quot;&gt;Florida&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#GA&quot;&gt;Georgia&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#IL&quot;&gt;Illinois&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#IN&quot;&gt;Indiana&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#LA&quot;&gt;Louisiana&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#ME&quot;&gt;Maine&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Mass&quot;&gt;Massachusetts&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#MI&quot;&gt;Michigan&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#NJ&quot;&gt;New Jersey&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#NY&quot;&gt;New York&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#NC&quot;&gt;North Carolina&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#OH&quot;&gt;Ohio&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#OK&quot;&gt;Oklahoma&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#PA&quot;&gt;Pennsylvania&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#RI&quot;&gt;Rhode Island&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#TX&quot;&gt;Texas&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#VA&quot;&gt;Virginia&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;p&gt;International&lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Greece&quot;&gt;Greece&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;&lt;a name=&quot;Alabama&quot; id=&quot;Alabama&quot;&gt;&lt;/a&gt;Alabama&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:firetlk@aol.com&quot;&gt;Dwight Graves&lt;/a&gt;&lt;br /&gt;
+	firetlk@aol.com&lt;br /&gt;
+	6601 Limbaugh Loop&lt;br /&gt;
+	Trussville, AL 35173&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:hazmed@cableone.net&quot;&gt;Robert Heintzelman&lt;/a&gt;&lt;br /&gt;
+	hazmed@cableone.net&lt;br /&gt;
+	100 Tallassee Trail&lt;br /&gt;
+	Jacksonville, AL  36265&lt;br /&gt;
+	Phone: 256-365-1138&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:scottkarr@bellsouth.net&quot;&gt;Scott Karr&lt;/a&gt;&lt;br /&gt;
+	scottkarr@bellsouth.net&lt;br /&gt;
+	1183 Golf Course Road&lt;br /&gt;
+	Jasper, AL  35504&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:fireeval1222@cs.com&quot;&gt;Joseph Lynch&lt;/a&gt;&lt;br /&gt;
+	fireeval1222@cs.com&lt;br /&gt;
+	P.O. Box 1682&lt;br /&gt;
+	Pinson, AL  35126&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;CA&quot; id=&quot;CA&quot;&gt;&lt;/a&gt;California&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:mbalagopalan@aqmd.gov&quot;&gt;Mohan Balagopalan &lt;/a&gt;&lt;br /&gt;
+	mbalagopalan@aqmd.gov&lt;br /&gt;
+	South Coast Air Quality Management District&lt;br /&gt;
+	21865 Copley Drive&lt;br /&gt;
+	Diamond Bar, CA 91765&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:plancmil@aol.com&quot;&gt;Kevin M. Smith&lt;/a&gt;&lt;br /&gt;
+	plancmil@aol.com&lt;br /&gt;
+	California Hazard Environmental Services (CHES)&lt;br /&gt;
+	2701 Hartman St.&lt;br /&gt;
+	Orange, CA 92865&lt;br /&gt;
+	Ph. (714) 856-3479&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:witul.janice@epa.gov&quot;&gt;Ms. Janice Witul&lt;/a&gt;&lt;br /&gt;
+	witul.janice@epa.gov&lt;br /&gt;
+	Cameo Technical Support&lt;br /&gt;
+	US EPA Region 9&lt;br /&gt;
+	75 Hawthorne St. // ENF-3-2&lt;br /&gt;
+	San Francisco, CA 94105&lt;br /&gt;
+	(415)972-3089&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;Conn&quot; id=&quot;Conn&quot;&gt;&lt;/a&gt;Connecticut&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:rJBMFD@aol.com&quot;&gt;Robert Bradley&lt;/a&gt;&lt;br /&gt;
+	rJBMFD@aol.com&lt;br /&gt;
+	86 Willowbrook Rd., &lt;br /&gt;
+	Cromwell CT 06416&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;mailto:avalerioti@lsu.edu&quot;&gt;Albert M. Valerioti&lt;/a&gt;&lt;br /&gt;
+	avalerioti@lsu.edu&lt;br /&gt;
+	186 Bouley Avenue&lt;br /&gt;
+	Waterbury, CT 06705&lt;br /&gt;
+	Cell: 203-232-4940&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:vnzrescue@aol.com &quot;&gt;Steven Veneziano&lt;/a&gt;&lt;br /&gt;
+	vnzrescue@aol.com &lt;br /&gt;
+	CT Fire Academy &lt;br /&gt;
+	93 Mount Fair Drive &lt;br /&gt;
+	Watertown, CT 06795&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;FL&quot; id=&quot;FL&quot;&gt;&lt;/a&gt;Florida&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:SafetyGator61@gmail.com&quot;&gt;William Scott Holowasko&lt;/a&gt;&lt;br /&gt;
+	SafetyGator61@gmail.com&lt;br /&gt;
+	5114 NW 33rd Terrace&lt;br /&gt;
+	Gainesville, FL 32605-1004&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:mundy@ncfrpc.org&quot;&gt;Dwayne Mundy&lt;/a&gt;&lt;br /&gt;
+	mundy@ncfrpc.org&lt;br /&gt;
+	Public Safety and Regulatory Compliance Program Director&lt;br /&gt;
+	North Central Florida Regional Planning Council&lt;br /&gt;
+	2009 NW 67th Place&lt;br /&gt;
+	Gainesville, FL 32653-1603&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:jwscott34@comcast.net&quot;&gt;John W. Scott III&lt;/a&gt;&lt;br /&gt;
+	jwscott34@comcast.net&lt;br /&gt;
+	City Of Jacksonville Fire &amp;amp; Rescue Department&lt;br /&gt;
+	515 Julia Street North&lt;br /&gt;
+	Jacksonville, FL 32202&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;GA&quot; id=&quot;GA&quot;&gt;&lt;/a&gt;Georgia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:nattis.randy@epa.gov&quot;&gt;Randy B. Nattis&lt;/a&gt;&lt;br /&gt;
+	nattis.randy@epa.gov&lt;br /&gt;
+	U.S. EPA&lt;br /&gt;
+	Atlanta, GA 30303&lt;br /&gt;
+	404-562-8757&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:elisa.roper@fema.dhs.gov&quot;&gt;&lt;span&gt;Elisa Roper&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+	elisa.roper@fema.dhs.gov&lt;br /&gt;&lt;span&gt;DHS/FEMA Region 4&lt;/span&gt;&lt;br /&gt;
+	Phone: 770-220-5217&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;IL&quot; id=&quot;IL&quot;&gt;&lt;/a&gt;Illinois&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:hdamron@willcountyillinois.com&quot;&gt;Harold Damron&lt;/a&gt;&lt;br /&gt;
+	hdamron@willcountyillinois.com&lt;br /&gt;
+	Will County E.M.A.&lt;br /&gt;
+	302 North Chicago Street&lt;br /&gt;
+	Joliet, IL  60432&lt;br /&gt;
+	(815) 740-8352&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;IN&quot; id=&quot;IN&quot;&gt;&lt;/a&gt;Indiana&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:iewusi@dhs.in.gov&quot;&gt;Ian Ewusi&lt;/a&gt;&lt;br /&gt;
+	iewusi@dhs.in.gov&lt;br /&gt;
+	Indiana Department of Homeland Security&lt;br /&gt;
+	302 West Washington Street, Room E-241&lt;br /&gt;
+	Indianapolis, IN 46204&lt;br /&gt;
+	Mobile: (317) 695-2119&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:kurt.whited@ci.ft-wayne.in.us&quot;&gt;Kurt Whited&lt;/a&gt;&lt;br /&gt;
+	kurt.whited@ci.ft-wayne.in.us&lt;br /&gt;
+	GIS Systems Development&lt;br /&gt;
+	1 E. Main St.&lt;br /&gt;
+	City County Bldg., Room 610&lt;br /&gt;
+	Fort Wayne, IN  46802&lt;br /&gt;
+	(260)449-4290&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;LA&quot; id=&quot;LA&quot;&gt;&lt;/a&gt;Louisiana&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:chiefstfd4@aol.com&quot;&gt;Earl B. Gorrondona&lt;/a&gt;&lt;br /&gt;
+	chiefstfd4@aol.com&lt;br /&gt;
+	645 Coffee Street&lt;br /&gt;
+	Mandeville, LA  70448&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:karen.price2@la.gov&quot;&gt;Karen Price&lt;/a&gt;&lt;br /&gt;
+	karen.price2@la.gov&lt;br /&gt;
+	Louisiana Department of Environmental Quality (LDEQ)&lt;br /&gt;
+	Inspection Division&lt;br /&gt;
+	Phone: 225-219-3612&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:ttroxler@lsu.edu&quot;&gt;Tab Troxler&lt;/a&gt;&lt;br /&gt;
+	ttroxler@lsu.edu&lt;br /&gt;
+	116 Cottage Dr.&lt;br /&gt;
+	Luling, LA 70070&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;ME&quot; id=&quot;ME&quot;&gt;&lt;/a&gt;Maine&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:tbubier@androscoggincountymaine.gov&quot;&gt;Timothy L. Bubier&lt;/a&gt;&lt;br /&gt;
+	tbubier@androscoggincountymaine.gov&lt;br /&gt;
+	Androscoggin Unified Emergency Management Agency&lt;br /&gt;
+	2 College St.&lt;br /&gt;
+	Lewiston, ME  04240&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:Robert.S.Gardner@maine.gov&quot;&gt;Robert S. Gardner&lt;/a&gt;, SERC Coordinator&lt;br /&gt;
+	Robert.S.Gardner@maine.gov&lt;br /&gt;
+	Technological Hazards Unit Program Manager&lt;br /&gt;
+	Maine Emergency Management Agency&lt;br /&gt;
+	72 SHS&lt;br /&gt;
+	Augusta, ME 04333-0072&lt;br /&gt;
+	Phone: 207-624-4400&lt;br /&gt;
+	1-800-452-8735 (in-state only)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:oxctyema@megalink.net&quot;&gt;Teresa Inman&lt;/a&gt;&lt;br /&gt;
+	oxctyema@megalink.net&lt;br /&gt;
+	Oxford County Emergency Management Agency&lt;br /&gt;
+	 26 Western Ave., PO Box 179&lt;br /&gt;
+	 South Paris, ME  04281&lt;br /&gt;
+	(207)743-6336&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:faith.e.mayer@maine.gov&quot;&gt;Faith Mayer&lt;/a&gt;&lt;br /&gt;
+	faith.e.mayer@maine.gov&lt;br /&gt;
+	Technological Hazards Specialist&lt;br /&gt;
+	Maine Emergency Management Agency&lt;br /&gt;
+	72 State House Station&lt;br /&gt;
+	Augusta, ME  04333&lt;br /&gt;
+	(207)624-4441&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:Chris@portlandfirefighters.com&quot;&gt;Chris Thomson&lt;/a&gt;&lt;br /&gt;
+	Chris@portlandfirefighters.com&lt;br /&gt;
+	Portland Fire Department&lt;br /&gt;
+	Portland, ME&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;Mass&quot; id=&quot;Mass&quot;&gt;&lt;/a&gt;Massachusetts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:massam@aol.com&quot;&gt;Miguel S. Massa III&lt;/a&gt;&lt;br /&gt;
+	massam@aol.com&lt;br /&gt;
+	110 Oak Ln.&lt;br /&gt;
+	Somerset, MA  02726&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:wallace.len@epa.gov&quot;&gt;Len Wallace&lt;/a&gt;&lt;br /&gt;
+	wallace.len@epa.gov&lt;br /&gt;
+	USEPA REGION 1 &lt;br /&gt;
+	1 Congress Street &lt;br /&gt;
+	Suite 1100&lt;br /&gt;
+	Boston, MA 02114-2023&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;MI&quot; id=&quot;MI&quot;&gt;&lt;/a&gt;Michigan&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:garciat@michigan.gov&quot;&gt;Tony Garcia&lt;/a&gt;&lt;br /&gt;
+	garciat@michigan.gov&lt;br /&gt;
+	BAS&lt;br /&gt;
+	Programs Coordinator&lt;br /&gt;
+	Michigan State Police&lt;br /&gt;
+	Emergency Management and Homeland Security Training Center&lt;br /&gt;
+	7426 Osborn&lt;br /&gt;
+	Lansing, MI 48913&lt;br /&gt;
+	517-322-1853 (o)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;NJ&quot; id=&quot;NJ&quot;&gt;&lt;/a&gt;New Jersey&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:tim.benton@westonsolutions.com&quot;&gt;Timothy Benton&lt;/a&gt;&lt;br /&gt;
+	tim.benton@westonsolutions.com&lt;br /&gt;
+	1090 King George Post Road&lt;br /&gt;
+	Edison, NJ 08837&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;NY&quot; id=&quot;NY&quot;&gt;&lt;/a&gt;New York&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:twixom@rochester.rr.com&quot;&gt;Timothy C. Wixom&lt;/a&gt;&lt;br /&gt;
+	twixom@rochester.rr.com&lt;br /&gt;
+	Technical Training Manager&lt;br /&gt;
+	Pictometry International Corp&lt;br /&gt;
+	25 Methodist Hill Drive&lt;br /&gt;
+	Rochester, NY 14623&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;NC&quot; id=&quot;NC&quot;&gt;&lt;/a&gt;North Carolina&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:reginald.jordan@ncmail.net&quot;&gt;Reginald C. Jordan&lt;/a&gt;&lt;br /&gt;
+	reginald.jordan@ncmail.net&lt;br /&gt;
+	1641 Mail Service Center&lt;br /&gt;
+	Raleigh, NC 27699-1641&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;OH&quot; id=&quot;OH&quot;&gt;&lt;/a&gt;Ohio&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:rbreznak@neo.rr.com&quot;&gt;Ron Breznak &lt;/a&gt; &lt;br /&gt;
+	rbreznak@neo.rr.com&lt;br /&gt;
+	146 South High Street&lt;br /&gt;
+	Floor 10 - Suite 1001&lt;br /&gt;
+	Akron, OH 44308&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:alan.finkelstein@strongsville.org&quot;&gt;Alan Finkelstein &lt;/a&gt;&lt;br /&gt;
+	alan.finkelstein@strongsville.org&lt;br /&gt;
+	Ass&#039;t Fire Marshal&lt;br /&gt;
+	Strongsville Fire Department&lt;br /&gt;
+	17000 Prospect Road&lt;br /&gt;
+	Strongsville, OH 44149&lt;br /&gt;
+	Phone numbers:&lt;br /&gt;
+	440-580-3226&lt;br /&gt;
+	440-343-5503 (cell)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:kmundy@icwuc.org&quot;&gt;Keith Mundy&lt;/a&gt;&lt;br /&gt;
+	kmundy@icwuc.org&lt;br /&gt;
+	CET, Instructor&lt;br /&gt;
+	International Chemical Workers Union Council&lt;br /&gt;
+	Center for Worker Health &amp;amp; Safety Education&lt;br /&gt;
+	329 Race Street&lt;br /&gt;
+	Cincinnati, OH   45202&lt;br /&gt;
+	Phone: (513)621-8882&lt;br /&gt;
+	Fax:      (513)621-8247&lt;br /&gt;
+	Cell:      (859)391-6758&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:todd@beaglebytes.net&quot;&gt;Todd Stanley&lt;/a&gt;&lt;br /&gt;
+	todd@beaglebytes.net&lt;br /&gt;
+	151 W. 8th Street&lt;br /&gt;
+	Dover, OH 44622&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:ctucker@ci.akron.oh.us&quot;&gt;Clarence Tucker&lt;/a&gt;&lt;br /&gt;
+	ctucker@ci.akron.oh.us&lt;br /&gt;
+	25 E. Thornton Street&lt;br /&gt;
+	Akron, OH 44320&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;OK&quot; id=&quot;OK&quot;&gt;&lt;/a&gt;Oklahoma&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:tom.bergman@deq.ok.gov&quot;&gt;Tom Bergman &lt;/a&gt;&lt;br /&gt;
+	tom.bergman@deq.ok.gov&lt;br /&gt;
+	443 N. W. 46th Terrace&lt;br /&gt;
+	Oklahoma City, OK, 73118&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:steven.hutson@hazmatoklahoma.com&quot;&gt;Steven Hutson&lt;/a&gt;&lt;br /&gt;
+	steven.hutson@hazmatoklahoma.com&lt;br /&gt;
+	4618 E 57th Pl.&lt;br /&gt;
+	Tulsa, OK 74135&lt;br /&gt;
+	Phone: 918-810-1055&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:trottierh7977@sbcglobal.net&quot;&gt;Harry Trottier&lt;/a&gt;&lt;br /&gt;
+	trottierh7977@sbcglobal.net&lt;br /&gt;
+	Rt. 4, Box 1900&lt;br /&gt;
+	Eufaula, OK 74432&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;PA&quot; id=&quot;PA&quot;&gt;&lt;/a&gt;Pennsylvania&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:mueller@calu.edu&quot;&gt;Thomas R. Mueller&lt;/a&gt;&lt;br /&gt;
+	mueller@calu.edu&lt;br /&gt;
+	Professor&lt;br /&gt;
+	California University of Pennsylvania&lt;br /&gt;
+	250 University Ave.&lt;br /&gt;
+	California, PA  15419&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;RI&quot; id=&quot;RI&quot;&gt;&lt;/a&gt;Rhode Island&lt;span id=&quot;cke_bm_119E&quot;&gt; &lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:thomas.campbell@dem.ri.gov&quot;&gt;Thomas Campbell&lt;/a&gt;&lt;br /&gt;
+	thomas.campbell@dem.ri.gov&lt;br /&gt;
+	State of Rhode Island&lt;br /&gt;
+	Dept. of Environmental Management&lt;br /&gt;
+	235 Promenade Street, Suite 220&lt;br /&gt;
+	Providence, RI 02908&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:ricameo@aol.com&quot;&gt;E. Stefan Coutoulakis&lt;/a&gt;&lt;br /&gt;
+	ricameo@aol.com&lt;br /&gt;
+	55 Ridgefield Dr&lt;br /&gt;
+	E Greenwich, RI 02818&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;TX&quot; id=&quot;TX&quot;&gt;&lt;/a&gt;Texas&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:Hilary.Gafford@WestonSolutions.com&quot;&gt;Hilary J. Gafford-Beavis&lt;/a&gt;&lt;br /&gt;
+	Hilary.Gafford@WestonSolutions.com&lt;br /&gt;
+	Senior Project Scientist, Emergency Preparedness and Response, Weston Solutions, Inc.&lt;br /&gt;
+	3900 Dallas Parkway, STE. 175&lt;br /&gt;
+	Plano, TX 75093&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;VA&quot; id=&quot;VA&quot;&gt;&lt;/a&gt;Virginia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:cameo@cameosupport.com&quot;&gt;Gary Hilbert&lt;/a&gt;&lt;br /&gt;
+	cameo@cameosupport.com&lt;br /&gt;
+	3433 Charleson Street&lt;br /&gt;
+	Annandale, VA 22003-1609&lt;br /&gt;
+	Phone: 800-992-2636&lt;br /&gt;
+	Web site: http://www.cameosupport.com&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;Greece&quot; id=&quot;Greece&quot;&gt;&lt;/a&gt;Greece&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:gmkaragiannis@gmail.com&quot;&gt;Georgios-Marios Karagiannis&lt;/a&gt;&lt;br /&gt;
+	gmkaragiannis@gmail.com&lt;br /&gt;
+	Senior Research Associate&lt;br /&gt;
+	Technical University of Crete, School of Environmental Engineering&lt;br /&gt;
+	Saint Mark str., Polytechneio Kritis&lt;br /&gt;
+	73132 Chania Greece&lt;br /&gt;&lt;span&gt;+306937670488 (Greek mobile phone)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 19 Mar 2013 20:14:42 +0000</pubDate>
+ <dc:creator>ebosecke</dc:creator>
+ <guid isPermaLink="false">19331 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Online Resources for CAMEO Users</title>
+    <link>https://www.epa.gov/cameo/online-resources-cameo-users</link>
+    <description>&lt;h3&gt;CAMEO Suite Resources&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/cameosuite&quot; target=&quot;_self&quot;&gt;NOAA&#039;s CAMEO Suite Pages&lt;/a&gt; Find additional helpful resources for CAMEO&lt;em&gt;fm&lt;/em&gt;, CAMEO Chemicals, ALOHA, and MARPLOT. (NOAA and EPA jointly develop the CAMEO software suite.)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cameo/cameo-companion&quot;&gt;CAMEO Companion&lt;/a&gt; Learn more about working with the CAMEO suite of products in this tutorial developed by the Arizona Emergency Response Commission. The latest version is available in English, and there is an older 2004 version available in Spanish.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/aloha&quot; target=&quot;_self&quot;&gt;NOAA&#039;s ALOHA Pages&lt;/a&gt; Get additional information about ALOHA, including tools to help you use the program.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/ADA/overview&quot; target=&quot;_self&quot;&gt;Ask Dr. ALOHA&lt;/a&gt; Read informational articles on the NOAA site designed to help you understand ALOHA better, including guidance on what tools in the CAMEO suite can be used for Risk Management Plan (RMP) consequence analyses.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/aloha_arcmap&quot; target=&quot;_self&quot;&gt;ALOHA ArcMap Import Tool&lt;/a&gt; Use this tool (available from the NOAA site) to display ALOHA threat zones in Esri&#039;s ArcMap product.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/locs&quot; target=&quot;_self&quot;&gt;ALOHA LOC Pages&lt;/a&gt; Learn more (on the NOAA site) about how to choose and use Levels of Concern (LOCs) in ALOHA.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/oil-and-chemical-spills/chemical-spills/response-tools/aloha-faqs.html&quot; target=&quot;_self&quot;&gt;ALOHA FAQs&lt;/a&gt; Read Frequently Asked Questions (FAQs) about ALOHA on the NOAA site.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/sites/default/files/ALOHA_Tech_Doc.pdf&quot;&gt;ALOHA Technical Documentation (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(96 pp, 1.3 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;  provides a description of the models and equations used by the ALOHA program to make its estimates for source strength, gas dispersion (neutrally buoyant and heavy gas), and fires and explosions scenarios.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cameo/marplot-4x-technical-documentation&quot;&gt;MARPLOT 4.x Technical Documentation&lt;/a&gt; provides technical details about MARPLOT 4.x, primarily how the import and export works.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cameo/forms/contact-us-about-cameo&quot;&gt;Help Desk&lt;/a&gt; Contact us via phone or email to get assistance or report a bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;CAMEO-Related Sites&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/aboutepa/about-office-land-and-emergency-management#oem&quot;&gt;EPA&#039;s Office of Emergency Management&lt;/a&gt; (OEM) works with other federal agencies, state and local agencies, and industry to prevent accidents, as well as to maintain superior response capabilities. OEM provides national leadership for managing environmental emergencies.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://response.restoration.noaa.gov/&quot; target=&quot;_self&quot;&gt;NOAA&#039;s Office of Response and Restoration&lt;/a&gt; Go to the home page of NOAA&#039;s Office of Response and Restoration (OR&amp;amp;R), one of the CAMEO suite developers. The OR&amp;amp;R site provides tools and information for emergency responders and planners working to understand and mitigate the effects of oil and hazardous materials spills in coastal waters.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.deq.state.ok.us/LPDnew/saratitleiii/cameo.htm&quot; target=&quot;_self&quot;&gt;Oklahoma CAMEO Page&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Find CAMEO suite exercises, tips, and other resources on this page provided by the Oklahoma Department of Environmental Quality.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.govtech.com/magazines/gt/Hazmat-High.html&quot; target=&quot;_self&quot;&gt;Hazmat High&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;span&gt;Read a Government Technology article describing how high school students used the CAMEO software suite to help out with hazardous chemical &lt;span&gt;emergency planning.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Other Chemical Response and Planning Resources&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/sor_internet/registry/substreg/searchandretrieve/substancesearch/search.do&quot; target=&quot;_self&quot;&gt;EPA&#039;s Substance Registry Services&lt;/a&gt; The Substance Registry Services (SRS) is the EPA&#039;s central system for information about substances that are tracked or regulated by EPA or other sources. It is the authoritative resource for basic information about chemicals, biological organisms, and other substances of interest to EPA and its state and tribal partners.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/toxics-release-inventory-tri-program&quot; target=&quot;_self&quot;&gt;Toxics Release Inventory (TRI) System&lt;/a&gt; Information from the EPA about the transfer and release of toxic chemicals into the environment.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.inchem.org/pages/icsc.html&quot; target=&quot;_self&quot;&gt;International Chemical Safety Cards (ICSCs)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Information about hazards and recommendations for transport, storage, disposal, and response for hazardous materials. Chemical-specific links to the ICSCs are included on some chemical datasheets in &lt;a href=&quot;http://response.restoration.noaa.gov/cameochemicals&quot;&gt;CAMEO Chemicals&lt;/a&gt;; those links go to an external website with ICSCs developed by the International Programme on Chemical Safety (IPCS) and the European Commission. Different versions of the ICSCs are also provided by other organizations. For instance, there is a &lt;a href=&quot;https://www.cdc.gov/niosh/ipcs/&quot;&gt;NIOSH ICSCs version&lt;/a&gt;, which has been modified to include additional Levels of Concern (such as PELs, RELs, and IDLH values). The NIOSH ICSCs home page also includes links to organizations that provide ICSCs in many different languages.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.atsdr.cdc.gov/toxfaqs/index.asp&quot; target=&quot;_self&quot;&gt;Toxicological Profiles (ToxFAQs)&lt;/a&gt; Information about contaminants found at hazardous waste sites. These factsheets highlight toxicity and exposure information. Provided by Agency for Toxic Substances &amp;amp; Disease Registry (ATSDR).&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://webwiser.nlm.nih.gov/getHomeData.do&quot; target=&quot;_self&quot;&gt;WebWISER&lt;/a&gt; Hazards information and response recommendations for about 500 hazardous substances, including common biological and radiological agents. Includes tool for identifying a chemical using physical clues and human health symptoms. Provided by National Library of Medicine.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.phmsa.dot.gov/hazmat/outreach-training/erg&quot; target=&quot;_self&quot;&gt;Emergency Response Guidebook (ERG)&lt;/a&gt; Although &lt;a href=&quot;http://response.restoration.noaa.gov/cameochemicals&quot; target=&quot;_self&quot;&gt;CAMEO Chemicals&lt;/a&gt; includes several key pieces of the ERG, you may also want to obtain a copy of the ERG itself. This page allows you to (a) download PDF versions of the ERG in English or Spanish, (b) locate your State Coordinator to request a print copy of the ERG, or (c) access other ERG-related resources. Provided by the U.S. Department of Transportation Pipeline and Hazardous Materials Safety Administration (PHMSA).&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.cdc.gov/niosh/npg/&quot; target=&quot;_self&quot;&gt;NIOSH Pocket Guide to Chemical Hazards&lt;/a&gt; Online, general reference guide for over 600 industrial chemicals with information on chemical and physical properties, health hazards, Levels of Concern (RELs, PELs, and IDLH values), and respirator recommendations. (Chemical-specific links to the NIOSH Pocket Guide are included on some chemical datasheets in &lt;a href=&quot;http://response.restoration.noaa.gov/cameochemicals&quot; target=&quot;_self&quot;&gt;CAMEO Chemicals&lt;/a&gt;.) The NIOSH Pocket Guide is also available in other formats (such as a mobile website, PDF, and a printed book). Provided by National Institute for Occupational Safety and Health (NIOSH).&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://web.doh.state.nj.us/rtkhsfs/factsheets.aspx?lan=english&quot; target=&quot;_self&quot;&gt;Hazardous Chemical Factsheets&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt; Briefing papers (in PDF format) about common hazardous chemicals, including health hazards, identification, workplace exposure limits, medical tests, workplace controls and practices, personal protective equipment, handling and storage, definitions, and emergency response information for fires, spills and first aid. Many of the PDFs are available in Spanish. Provided by the New Jersey Department of Health and Senior Services.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://extoxnet.orst.edu/&quot; target=&quot;_self&quot;&gt;EXtension TOXicology NETwork (EXTOXNET)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Toxicity information on a variety of chemicals. For instance, they have Pesticide Information Profiles (PIPs) that include toxicity information, physical properties, and environmental fate and effects for pesticides. Provided by Oregon State University, although the content is &lt;span&gt;a cooperative effort of several universities.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;a href=&quot;https://chem.sis.nlm.nih.gov/chemidplus/&quot; target=&quot;_self&quot;&gt;ChemIDplus Advanced&lt;/a&gt;&lt;/span&gt; &lt;span&gt;Searchable library of chemical information from the National Library of Medicine.&lt;/span&gt;
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 19 Mar 2013 18:02:33 +0000</pubDate>
+ <dc:creator>ebosecke</dc:creator>
+ <guid isPermaLink="false">19261 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CAMEO Training and Events</title>
+    <link>https://www.epa.gov/cameo/cameo-training-and-events</link>
+    <description>&lt;h2&gt;Current Training Sessions&lt;/h2&gt;
+
+&lt;p&gt;No current training sessions at this time. Check back soon!&lt;/p&gt;
+
+&lt;h2&gt;Ongoing Training&lt;/h2&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Have CAMEO-related training or events to share?&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;E-mail &lt;a href=&quot;mailto:bosecker.elizabeth@epa.gov&quot;&gt;Elizabeth Bosecker&lt;/a&gt; at bosecker.elizabeth@epa.gov and &lt;span class=&quot;author&quot;&gt;please include date, location, description, fee (if any), target audience, and contact information.&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Louisiana State University, National Center for Biomedical Research (NCBRT)&lt;/strong&gt; &lt;span&gt;offers Department of Homeland Security (DHS) certified courses covered under the NCBRT’s Homeland Security National Training Program Cooperative Agreement. CAMEO introductory and advanced courses are included in this program. As a DHS primary training provider, the NCBRT can offer this vital training at no direct cost to your agency. Please contact the NCBRT at info@ncbrt.lsu.edu or &lt;span&gt;1-877-829-8550&lt;/span&gt; to schedule a course through your state administrative agency, or &lt;/span&gt;visit &lt;a href=&quot;https://www.ncbrt.lsu.edu&quot; target=&quot;_self&quot;&gt;NCBRT&#039;s site&lt;/a&gt;&lt;span&gt; &lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;to learn more about their training opportunities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University of California at Los Angeles (UCLA)&lt;/strong&gt; &lt;span&gt;offers two online CAMEO courses (described below). The cost for each course is $350. For more information or to register for these courses, contact &lt;a href=&quot;mailto:kmurray@irle.ucla.edu&quot;&gt;Karen Murray&lt;/a&gt; at UCLA-LOSH &lt;/span&gt;at &lt;span&gt;(310) 794-5989&lt;/span&gt; or e-mail her at kmurray@irle.ucla.edu.&lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;span&gt;&lt;strong&gt;CAMEO 1&lt;/strong&gt; - &lt;/span&gt;This course covers the CAMEO Chemicals and the ALOHA software programs.&lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;strong&gt;CAMEO 2&lt;/strong&gt; - Completing the CAMEO 1 course, or previous experience with the CAMEO Chemicals and ALOHA software, is a prerequisite for this course. The CAMEO 2 course covers the MARPLOT mapping program and the CAMEO&lt;em&gt;fm&lt;/em&gt; Data Templates, and culminates in a simulation of a massive earthquake releasing many chemicals at once, that your emergency response agency must handle. In that final exercise, you must use all of the software programs in the CAMEO Suite -- CAMEO Chemicals, ALOHA, MARPLOT, and CAMEO&lt;em&gt;fm&lt;/em&gt;.  &lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;strong&gt;About the Instructor&lt;/strong&gt; - Kevin Smith is a federally certified CAMEO Instructor and a retired Deputy Fire Marshal, who has responded to over 1,000 hazardous materials incidents over the course of his career. A CAMEO user since 1987, Kevin has taught the CAMEO courses offered at &lt;em&gt;The Continuing Challenge &lt;/em&gt;Hazardous Materials Workshop in Sacramento every year since 1992. He has also taught CAMEO online through the University of California for over a decade. You can reach &lt;a href=&quot;mailto:plancmil@aol.com&quot;&gt;Kevin Smith&lt;/a&gt; at plancmil@aol.com or at &lt;span&gt;(714) 856-3479&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h2&gt;User Groups&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;New England CAMEO User Group&lt;/strong&gt;&lt;br /&gt;
+	For information, email: &lt;a href=&quot;mailto:campbell@dem.state.ri.us&quot;&gt;Tom Campbell&lt;/a&gt; (campbell@dem.state.ri.us) or call him at &lt;span&gt;(401) 222-1360,&lt;/span&gt; extension 7128.&lt;/p&gt;
+
+&lt;h2&gt;CAMEO News Service&lt;/h2&gt;
+
+&lt;p&gt;The CAMEO News Service is a one-way listserv which serves as a communication tool for CAMEO managers and developers to communicate important information to the CAMEO community. The service provides users with an up-to-date status on various aspects of the CAMEOfm/CAMEO Chemicals/MARPLOT/ALOHA software. To subscribe to the CAMEO News Service, send an empty email to &lt;a href=&quot;mailto:subscribe-cameo@lists.epa.gov&quot;&gt;subscribe-cameo@lists.epa.gov&lt;/a&gt;.&lt;br /&gt;
+	 &lt;/p&gt;
+</description>
+     <pubDate>Tue, 19 Mar 2013 17:27:59 +0000</pubDate>
+ <dc:creator>ebosecke</dc:creator>
+ <guid isPermaLink="false">19253 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:31:29, expires @ 2017-01-26 04:31:29, lifetime 12 hours -->

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/74259/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EnviroAtlas</title>
+    <link>https://www.epa.gov/feed/74259/rss.xml</link>
+    <description>Updated EnviroAtlas content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/74259/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Report EnviroAtlas Map Issues </title>
+    <link>https://www.epa.gov/enviroatlas/forms/report-enviroatlas-map-issues</link>
+    <description>&lt;p&gt;Please report any issues you are having with the EnviroAtlas mapping application. We will only use the collected information to document, fix, and troubleshoot issues. &lt;/p&gt;
+
+&lt;p&gt;We appreciate you taking the time to fill out this form. If you would like for us to contact you back about your reported issue, please check the associated bubble and provide your email address.&lt;/p&gt;
+
+
+</description>
+     <pubDate>Mon, 24 Oct 2016 14:13:38 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">163281 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EnviroAtlas Data Archive </title>
+    <link>https://www.epa.gov/enviroatlas/enviroatlas-data-archive</link>
+    <description>&lt;p&gt;These are archived EnviroAtlas data sets that we are continuing to provide. &lt;a href=&quot;/enviroatlas/enviroatlas-data-download-step-2&quot;&gt;Newer versions of these datasets&lt;/a&gt; are available. &lt;/p&gt;
+
+&lt;h2&gt;National Data&lt;/h2&gt;
+
+&lt;p&gt;These metric tables include all of the national-scale data layers found under the Ecosystem Services and Biodiversity tab in the Interactive Map. &lt;small&gt;&lt;em&gt;Note: Some data have additional variables not found in the Interactive Map.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/ARCHIVE/National_metrics_July2015_FGDB.zip&quot;&gt;National metric tables in Esri FileGeodatabase format (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(72 MB)&lt;/span&gt;&lt;span class=&quot;fileinfo&quot;&gt;​&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/ARCHIVE/National_metrics_July2015_CSV.zip&quot;&gt;National metric tables in CSV format (ZIP)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(46 MB)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/ARCHIVE/National_metrics_July2015_METADATA.zip&quot;&gt;Metadata for National metric tables (FGDC XML)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WBD_HUC12alb_22MAR2011.gdb.zip&quot;&gt;Watershed Boundary Dataset for 12-digit HUCs (ZIP)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(679 MB)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 20 Jul 2016 20:52:33 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">155413 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ecosystem Markets in EnviroAtlas</title>
+    <link>https://www.epa.gov/enviroatlas/ecosystem-markets-enviroatlas</link>
+    <description>&lt;p&gt;One approach to safeguarding ecosystem services is through incentive mechanisms for conservation, including markets. With ecosystem services markets, companies, communities, and other beneficiaries pay landowners and managers to protect, restore, or mitigate for impacts to ecosystems.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.usda.gov/oce/environmental_markets/index.htm&quot; target=&quot;_blank&quot;&gt;USDA Office of Environmental Markets&lt;/a&gt;, EPA, and &lt;a href=&quot;http://www.ecosystemmarketplace.com/&quot; target=&quot;_blank&quot;&gt;Forest Trends’ Ecosystem Marketplace&lt;/a&gt; have partnered to incorporate environmental markets data into EnviroAtlas. The environmental markets data layers show where markets for wetlands and streams, watersheds, forest carbon, and imperiled species/habitats have been implemented by various organizations.  The data layers also provide information about the markets and the policies or conditions that have enabled them. &lt;/p&gt;
+
+&lt;p&gt;By integrating these data layers with other EnviroAtlas data, the market data can be viewed in the context of ecosystem services. The integration allows users to understand trends, gaps, and opportunities, as well as make inferences about demand and enabling or limiting conditions for environmental markets. &lt;a href=&quot;/enviroatlas/enviroatlas-data-organization&quot;&gt;Learn more about where to find these data in EnviroAtlas. &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Ecosystem Markets Data Available in EnviroAtlas &lt;/h2&gt;
+
+&lt;p&gt;Ecosystem Markets data layers are available for the nation, showing point and polygon data for ecosystem market initiatives and enabling conditions operating at a variety of scales, from national to local. These data are organized according to the targeted asset – wetlands and streams, watersheds, forest carbon, imperiled species/habitats — or enabling conditions.  &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Data are available for markets (i.e., entire region that shares market infrastructure and rules, or a larger program encompassing many smaller projects) and projects (i.e. land areas comprising project sites) addressing ecosystem services protection in the United States.&lt;/li&gt;
+	&lt;li&gt;Data are also available for enabling conditions, including enabling policy, regulatory drivers, and guidance.&lt;/li&gt;
+	&lt;li&gt;The data were collected via surveys and desk research conducted by Forest Trends’ Ecosystem Marketplace from 2008 to 2016.&lt;/li&gt;
+	&lt;li&gt;Additional wetland/stream and imperiled species/habitats data were obtained from the U.S. Army Corps of Engineers Regulatory In-lieu Fee and Bank Information Tracking System (RIBITS) database in 2015.&lt;/li&gt;
+	&lt;li&gt;The data were produced by Forest Trends’ Ecosystem Marketplace for EnviroAtlas in order to support public access to and use of information related to environmental markets.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;About Ecosystem Markets Asset Types&lt;/h2&gt;
+
+&lt;h3&gt;Watersheds&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Globally, investments in watershed health and services compose the largest category of payments for ecosystem services in terms of annual transaction values&lt;strong&gt;.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;Watershed markets and payments invest in naturally water-rich ecosystems, such as wetlands, forests, and healthy river systems.&lt;/li&gt;
+	&lt;li&gt;Mechanisms for watershed markets range from simple contracts between a buyer and seller to deliver cleaner or more reliable water, to sophisticated markets for trading water quality credits or water rights to restore instream water levels.&lt;/li&gt;
+	&lt;li&gt;Buyers in these markets are willing to pay to restore or protect healthy landscapes in exchange for benefits like clean water, aquifer recharge, and reduced flooding risk.&lt;/li&gt;
+	&lt;li&gt;All investment mechanisms originate with a utility, government, business, or other party that assigns value to a watershed service or set of services and agrees to pay providers of that service accordingly.&lt;/li&gt;
+	&lt;li&gt;For example, a beverage company might be willing to pay local farmers $100,000 per year to reduce pesticide use, when treating polluted water would otherwise cost $150,000 per year. In this scenario, an individual farmer might be willing to limit their pesticide use for $3,000 per year, if this amount covered their costs to switch to other methods or compensated them for foregone income.&lt;/li&gt;
+	&lt;li&gt;Watershed markets and payments are sometimes used to comply with regulations, such as elements of the Clean Water Act. In other cases, investing in “green infrastructure” may be a voluntary strategy to save money, reward good stewardship, or demonstrate good corporate citizenship.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Forest Carbon&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Forest carbon offset transactions may be either voluntary or compliance-driven. A voluntary carbon marketplace refers to carbon offsets&lt;strong&gt; &lt;/strong&gt;sales that are purchased with the intent to re-sell or retire offsets to meet “carbon neutral” or other environmental goals, rather than for compliance purposes under a regulated carbon market.&lt;/li&gt;
+	&lt;li&gt;Voluntary demand for carbon offsets is driven by companies and individuals that take responsibility for offsetting their own Greenhouse Gas emissions, as well as entities that purchase pre-compliance offsets before emissions reductions are required by regulation.&lt;/li&gt;
+	&lt;li&gt;Purely voluntary buyers may consider corporate social responsibility, ethics, and reputational or supply chain risk when purchasing offsets.&lt;/li&gt;
+	&lt;li&gt;Voluntary carbon markets co-exist with compliance offset markets, which operate at a significantly larger scale and are driven by mandated caps on GHGs. Compliance carbon markets are marketplaces through which regulated entities obtain and surrender emissions permits (allowances) or offsets to meet predetermined regulatory targets. In the case of cap-and-trade programs, participants – often including both emitters and financial intermediaries – are allowed to trade allowances to make a profit from unused allowances or to meet regulatory requirements.&lt;/li&gt;
+	&lt;li&gt;Voluntary carbon markets are often smaller than compliance offset markets and more flexible – spinning off innovations in project finance, monitoring, and methodologies that also influence regulatory market mechanisms.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Imperiled Species and Habitats&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Imperiled species and habitats markets are designed to reduce negative impacts on biodiversity.  These avoidance and compensation mechanisms finance conservation and restoration projects that deliver environmental benefits comparable to or “above and beyond” any negative impacts being offset. Typically, this mitigation is driven by a policy goal of “no net loss” of species, habitat, and/or cultural and human use values.&lt;/li&gt;
+	&lt;li&gt;In the United States, the need to be compliant with an existing or anticipated future regulation drives many imperiled species and habitats markets. &lt;/li&gt;
+	&lt;li&gt;These markets are typically structured around the ‘mitigation hierarchy,’ which establishes that market-based tools should be used only after efforts have been made to (first) avoid damage, (second) minimize impact, and (third) mitigate negative impacts to species and/or habitats.&lt;/li&gt;
+	&lt;li&gt;The government can set a regulatory limit on allowable negative impacts to a species or habitat and then allow the market to resolve the cost of offsetting impacts above that limit or ‘cap.’&lt;/li&gt;
+	&lt;li&gt;Biodiversity compensation can also be voluntary rather than regulation-driven. Companies may be motivated to voluntarily mitigate their impact of biodiversity because of corporate social responsibility policies, profit motivations, consumer demand, or in advance of anticipated new regulation (known as “pre-compliance”). &lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Wetlands and Streams&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Wetland and stream markets are designed to reduce negative impacts on aquatic resources.&lt;/li&gt;
+	&lt;li&gt;These compensation mechanisms finance conservation and restoration projects that deliver environmental benefits comparable to or ‘above and beyond’ the mitigated adverse impact. In the United States, the need to be compliant with a regulation drives most wetland and stream markets. &lt;/li&gt;
+	&lt;li&gt;The largest market for wetland conservation in the United States is a national wetland and stream offsets program (called “compensatory mitigation”) driven by the Clean Water Act (§404) and the principle of “no net loss” of wetlands.&lt;/li&gt;
+	&lt;li&gt;Markets are typically structured around the ‘mitigation hierarchy,’ which establishes that market-based tools should be used only after efforts have been made to (first) avoid damage, (second) minimize impact, and (third) mitigate negative impacts to natural resources. &lt;/li&gt;
+	&lt;li&gt;Compensatory mitigation ranges from rigorous and measurable offsets to less direct efforts to compensate for impacts through financial donations and land protection&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;Ecosystem Markets Enabling Conditions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Enabling policies, regulation, and guidance facilitate the development and operation of ecosystem markets by creating the drivers, legal frameworks, or direct funding sources for ecosystem services conservation. Enabling conditions are found at multiple scales, ranging from the watershed scale to state- and national-scale policies. &lt;/p&gt;
+
+&lt;h3&gt;Learn More about Environmental Markets:&lt;/h3&gt;
+
+&lt;ol&gt;&lt;li&gt;Forest Trends Association. 2016. &lt;a href=&quot;http://bbop.forest-trends.org/pages/mitigation_hierarchy&quot; target=&quot;_blank&quot;&gt;Mitigation hierarchy&lt;/a&gt;. Business and biodiversity offsets program. Accessed March 2016.&lt;/li&gt;
+	&lt;li&gt;Forest Trends’ Ecosystem Marketplace. 2015. &lt;a href=&quot;http://www.ecosystemmarketplace.com/wp-content/uploads/2016/01/Ecosystem-Marketplace-Market-Primer-2015-Final.pdf&quot; target=&quot;_blank&quot;&gt;Ecosystem markets and finance: A global primer&lt;/a&gt;. Accessed March 2016.&lt;/li&gt;
+	&lt;li&gt;Salzman, J. 2005. &lt;a href=&quot;http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2024&amp;amp;context=faculty_scholarship&amp;amp;sei-redir=1&amp;amp;referer=http%3A%2F%2Fscholar.google.com%2Fscholar%3Fhl%3Den%26q%3Dmarkets%2Bfor%2Bwatershed%2Becosystem%2Bservices%26btnG%3D%26as_sdt%3D1%252C38%26as_sdtp%3D#search=%22markets%20watershed%20ecosystem%20services%22&quot; target=&quot;_blank&quot;&gt;Creating markets for ecosystem services: Notes from the field&lt;/a&gt;. New York University Law Review 80(6): 101–184. &lt;/li&gt;
+	&lt;li&gt;Forest Trends’ Ecosystem Marketplace. 2014. &lt;a href=&quot;http://www.forest-trends.org/dir/sowi_2014/&quot; target=&quot;_blank&quot;&gt;Gaining depth: State of watershed investment 2014&lt;/a&gt;. Forest Trends, Washington, D.C.&lt;/li&gt;
+	&lt;li&gt;Goulder, L.H., and A. Schein. 2013. &lt;a href=&quot;https://www.researchgate.net/publication/263975647_Carbon_taxes_versus_cap_and_trade_a_critical_review&quot; target=&quot;_blank&quot;&gt;Carbon taxes vs. cap and trade: A critical review&lt;/a&gt;. Working Paper 19338, National Bureau of Economic Research, Cambridge, Massachusetts. 38 p.&lt;/li&gt;
+	&lt;li&gt;New Forests. 2014. &lt;a href=&quot;https://www.newforests.com.au/wp-content/uploads/2014/01/Conservation%20Assets%20for%20web.pdf&quot; target=&quot;_blank&quot;&gt;Conservation assets: Forest carbon and mitigation banking&lt;/a&gt;. New Forests Sector Overview. Accessed March 2016.&lt;/li&gt;
+	&lt;li&gt;USDA Office of the Chief Economist, &lt;a href=&quot;http://www.usda.gov/oce/environmental_markets/index.htm&quot; target=&quot;_blank&quot;&gt;Office of Environmental Markets,&lt;/a&gt; Accessed October 2016. &lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 27 May 2016 14:09:07 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">150629 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EnviroAtlas Poster Presentations</title>
+    <link>https://www.epa.gov/enviroatlas/enviroatlas-poster-presentations</link>
+    <description>&lt;p&gt;The EnviroAtlas team documents methods and presents research at relevant conferences. This page is a living reference to past poster presentations.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-232947&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/kbush_esri_health_120313.pdf&quot; type=&quot;application/pdf; length=562804&quot; class=&quot;file-link&quot;&gt;Applying EnviroAtlas to Public Health: Investigating the association between green space and birth outcomes in Durham-Chapel Hill, NC (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 563 K, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Evidence suggests that residential green space and tree cover may improve birth outcomes. In particular, tree cover along major roads may act as a buffer against near-road air pollution.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232943&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/jahre_esri_general_120313.pdf&quot; type=&quot;application/pdf; length=1917212&quot; class=&quot;file-link&quot;&gt;EnviroAtlas: Connecting Ecosystems, People, and Well-being (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EnviroAtlas is a collection of tools and resources that promotes understanding of the relationships between ecosystems, the benefits they provide, and the well-being of the people that depend on them.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232847&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/baynes_esri_landcover_120313.pdf&quot; type=&quot;application/pdf; length=2886957&quot; class=&quot;file-link&quot;&gt;Hierarchical, Machine Learning Approach to Meter-scale Urban Land Cover Mapping (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    High-resolution urban land cover maps were created to serve as input for many of the EnviroAtlas community data layers.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-243351&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/aces_hia_poster.pdf&quot; type=&quot;application/pdf; length=818831&quot; class=&quot;file-link&quot;&gt;Integrating Ecosystem Services into Health Impact Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 819 K, 
+  December 2014)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    A guide for using EnviroAtlas to integrate ecosystem services into Health Impact Assessment (HIA) was developed to highlight EnviroAtlas as a resource that can be used by planners, researchers, public health professionals and engaged citizens to gain a greater understanding of linkages between ecosystems, ecosystem services, and health.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-243353&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/bf_hia_poster.pdf&quot; type=&quot;application/pdf; length=3301638&quot; class=&quot;file-link&quot;&gt;Integrating Local &amp;quot;Green&amp;quot; Assets into Brownfields Redevelopment: Tools and Examples (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB, 
+  September 2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EnviroAtlas can be used by HIA practitioners, planners, researchers, public health professionals, and engaged citizens to gain a greater understanding of the linkages between a community’s “green” assets and their benefits including promoting physical activity, cognitive function, children’s health, and environmental justice.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232953&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/sears_esri_near_road_120313.pdf&quot; type=&quot;application/pdf; length=2345420&quot; class=&quot;file-link&quot;&gt;Near Road Tree Cover in Portland, ME EnviroAtlas Community Area (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Near road tree cover data can be used to assess the extent of buffered roadways across a community, and disparities in benefits between neighborhoods.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-243355&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/esri_posterfinal.pdf&quot; type=&quot;application/pdf; length=4820121&quot; class=&quot;file-link&quot;&gt;Neighborhood Indicators of Walkability using Fine-Scale Land Cover (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB, 
+  September 2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Downtown Milwaukee has a high intersection density, indicating pedestrian connectivity to destinations. However, street trees are not evenly distributed across this area.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232935&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/horvath_esri_uc_wetlands_120313.pdf&quot; type=&quot;application/pdf; length=1738260&quot; class=&quot;file-link&quot;&gt;Potentially Restorable Wetlands in the Contiguous U.S. (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Recognizing the benefits provided by wetlands, we developed a method to identify areas of the country where the restoration of wetlands could potentially result in the return of ecosystems services.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232955&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/sears_esri_parks_120313.pdf&quot; type=&quot;application/pdf; length=3243817&quot; class=&quot;file-link&quot;&gt;Proximity to Parks in the Durham, NC EnviroAtlas Community Area (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EnviroAtlas data layers can be used to identify neighborhoods that have ready access to parks and those that are underserved and may benefit from additional parks or increased access by new entrances.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-245483&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-01/documents/setac_bioeconomy_poster.pdf&quot; type=&quot;application/pdf; length=710268&quot; class=&quot;file-link&quot;&gt;Sustainability Assessment of a National Bioeconomy: Approaches and Tools to Evaluate Emergent Properties (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 710 K, 
+  November 2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    As potential for a bioeconomy grows, tools are needed to assess whether specific pathways (i.e., feedstock, production, and product use) will mitigate or exacerbate public health challenges and demand on already taxed ecosystem services. Regional sustainability assessments of proposed pathways can guide sustainable development of an emerging bioeconomy.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-325349&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/yngve_isee_poster.pdf&quot; type=&quot;application/pdf; length=1132124&quot; class=&quot;file-link&quot;&gt;Street Scale Green Infrastructure and Physical Activity (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  Sep 2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Urban roadside nature provides an important opportunity for individuals to experience the natural world while going about their everyday lives. Urban trees and green space have been shown to improve mental health, facilitate social interaction, and encourage physical activity; however, their distribution may vary across a city. This study assessed the association between neighborhood street green infrastructure and both recreational exercise and active transportation.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-232903&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/horvath_esri_uc_water_final_120313.pdf&quot; type=&quot;application/pdf; length=881857&quot; class=&quot;file-link&quot;&gt;Water Supply and Demand by Watershed for the Contiguous U.S. (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 882 K, 
+  June, 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Providing a detailed spatial evaluation of water supply and demand can help determine potential imbalances today and into the future.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 24 Nov 2015 17:16:56 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">127217 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Cite EnviroAtlas </title>
+    <link>https://www.epa.gov/enviroatlas/cite-enviroatlas</link>
+    <description>&lt;p&gt;We are glad that you have found EnviroAtlas useful and are interested in referencing our data or resources in your own publication. Based on your situation, please use the appropriate convention below: &lt;/p&gt;
+
+
+
+&lt;h2&gt;Referencing a Specific Data Layer&lt;/h2&gt;
+
+&lt;p&gt;&lt;cite&gt;United States Environmental Protection Agency. EnviroAtlas. &lt;/cite&gt;Enter Data Layer Name from Metadata&lt;cite&gt;. Retrieved:&lt;/cite&gt; Enter Month, Day, Year,&lt;cite&gt; &lt;/cite&gt;&lt;em&gt;from enviroatlas.epa.gov/enviroatlas &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/enviroatlas/frequently-asked-questions-enviroatlas#metadata&quot;&gt;How to access EnviroAtlas metadata&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Referencing an EnviroAtlas Webpage &lt;/h2&gt;
+
+&lt;p&gt;&lt;cite&gt;United States Environmental Protection Agency. EnviroAtlas. &lt;/cite&gt;Enter Web Page Title.&lt;cite&gt; Retrieved: &lt;/cite&gt;Enter Month, Day, Year, &lt;cite&gt;from &lt;/cite&gt;Enter Exact URL Accessed or &lt;em&gt;www&lt;/em&gt;&lt;cite&gt;&lt;em&gt;.epa.gov/en&lt;/em&gt;viroatlas &lt;/cite&gt;for a general citation. &lt;/p&gt;
+
+&lt;h2&gt;Citing EnviroAtlas Project and Research&lt;/h2&gt;
+
+&lt;p&gt;If you are mentioning EnviroAtlas overall, and not a specific dataset or web page, please cite this EnviroAtlas publication:&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;Pickard, B. R., Daniel, J., Mehaffey, M., Jackson, L. E., &amp;amp; Neale, A. 2015. EnviroAtlas: A new geospatial tool to foster ecosystem services science and resource management. &lt;em&gt;Ecosystem Services&lt;/em&gt;, &lt;em&gt;14&lt;/em&gt;, 45-55.&lt;/cite&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Mon, 23 Nov 2015 15:24:00 +0000</pubDate>
+ <dc:creator>spardo</dc:creator>
+ <guid isPermaLink="false">126969 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Municipalities within EnviroAtlas Boundaries</title>
+    <link>https://www.epa.gov/enviroatlas/municipalities-within-enviroatlas-boundaries</link>
+    <description>&lt;p&gt;EnviroAtlas boundaries are based on Census Urbanized Areas rather than municipal boundaries so they often contain many municipalities near the target city. This document provides a listing of all municipalities that fall within EnviroAtlas Community Boundaries.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-300807&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/cominbnd_2016_may.pdf&quot; type=&quot;application/pdf; length=284785&quot; class=&quot;file-link&quot;&gt;Municipalities within EnviroAtlas Boundaries (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 285 K, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 14 Oct 2015 22:12:24 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">121161 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EnviroAtlas Data Download: Step 2</title>
+    <link>https://www.epa.gov/enviroatlas/enviroatlas-data-download-step-2</link>
+    <description>&lt;p&gt;The below datasets are the most recent downloadable EnviroAtlas data. For any data not listed below, please &lt;a href=&quot;/enviroatlas/forms/contact-enviroatlas&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;National Data&lt;/h2&gt;
+
+&lt;p&gt;These metric tables include all of the national-scale data layers found under the Ecosystem Services and Biodiversity tab in the Interactive Map. &lt;small&gt;&lt;em&gt;Note: Some data have additional variables not found in the Interactive Map.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/National_metrics_Nov2016_FGDB.zip&quot;&gt;National metric tables in Esri FileGeodatabase format (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(104 MB)&lt;/span&gt;&lt;span class=&quot;fileinfo&quot;&gt;​&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/National_metrics_Nov2016_CSV.zip&quot;&gt;National metric tables in CSV format (ZIP)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(64 MB)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/NATIONAL/National_metrics_Nov2016_METADATA.zip&quot;&gt;Metadata for National metric tables (FGDC XML)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;These national metric tables will join to the Watershed Boundary Dataset for 12-digit HUCs: &lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS.gdb.zip&quot;&gt;NHD Plus V2 Watershed Boundary Dataset (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(602 MB). ​&lt;/span&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;span class=&quot;fileinfo&quot;&gt;&lt;mark&gt;Note:&lt;/mark&gt; Updated in EnviroAtlas Interactive Map as of Dec 9, 2016.&lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Ecosystem Markets Data &lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/OTHER/Ecosystem_Marketplace_FGDB_November2016.zip&quot;&gt;Ecosystem Markets Data in ESRI FileGeodatabase format (ZIP)&lt;/a&gt; &lt;small&gt;&lt;span&gt;(29 MB)&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/OTHER/Ecosystem_Marketplace_Shapefiles_November2016.zip&quot;&gt;Ecosystem Markets Data Shapefiles (ZIP)&lt;/a&gt;  &lt;small&gt;&lt;span&gt;(54 MB)&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/OTHER/Ecosystem_Marketplace_Metadata_November2016.zip&quot;&gt;Metadata for Ecosystem Markets (FGDC XML)&lt;/a&gt;  &lt;small&gt;&lt;span&gt;(37 KB)&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Additional National Datasets &lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PRWAg.zip&quot;&gt;Potentially Restorable Wetlands on Agricultural lands, raster (ZIP)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(312 MB)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PWA.zip&quot;&gt;Potential Wetland Areas, raster (ZIP)&lt;/a&gt; &lt;small&gt;&lt;span&gt;(590 MB)&lt;/span&gt;&lt;/small&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/Rare_Ecosystems.zip&quot;&gt;Rare Ecosystems, raster (ZIP)&lt;/a&gt;  &lt;small&gt;&lt;span&gt;(1.3 GB)&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/dasymetric_us_20160208.zip&quot;&gt;Dasymetric Allocation of Population, raster (ZIP)&lt;/a&gt; &lt;small&gt;&lt;span&gt;(2.3 GB)&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;Some of the data layers from our People and Built Spaces - National category were derived from data in the Smart Location Database and are &lt;a href=&quot;https://edg.epa.gov/data/Public/OP/SLD&quot; target=&quot;_blank&quot;&gt;available for download via the Environmental Dataset Gateway (EDG)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Data Archive&lt;/h3&gt;
+
+&lt;p&gt;Some older versions of national datasets are available in the &lt;a href=&quot;/enviroatlas/enviroatlas-data-archive&quot; target=&quot;_blank&quot;&gt;EnviroAtlas Data Archive&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2&gt;Community Data&lt;/h2&gt;
+
+&lt;p&gt;Use the links in the table below to download EnviroAtlas community data. The following files are available: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Metadata: A folder of XML documents describing the data and how they were produced&lt;/li&gt;
+	&lt;li&gt;Esri FileGDB: An Esri File Geodatabase containing block groups, data tables, and spatially explicit feature classes for all non-raster data for the selected community &lt;/li&gt;
+	&lt;li&gt;CSV: A folder containing multiple CSV data tables with associated block group shapefiles as well as other indicator shapefiles for all non-raster data for the selected community &lt;/li&gt;
+	&lt;li&gt;Landcover: A GeoTIFF of 1-meter resolution community landcover &lt;/li&gt;
+	&lt;li&gt;Connectivity: A GeoTIFF of 1-meter resolution tree cover configuration and connectivity (GUIDOS)&lt;/li&gt;
+	&lt;li&gt;Intersection Density (Int Dens): A GeoTIFF of 10-meter resolution kernel density of walkable roads&lt;/li&gt;
+	&lt;li&gt;Percent Green Space along Walkable Roads (PctStGS): A GeoTIFF of 10-meter resolution representing the percent green space for each city block&lt;/li&gt;
+	&lt;li&gt;Percent Tree Cover along Walkable Roads (PctStTC): A GeoTIFF of 10-meter resolution representing the percent tree cover for each city block&lt;/li&gt;
+&lt;/ul&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;span&gt;Community&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;Metadata&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;Esri FileGDB&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;CSV (with SHP)&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;Landcover&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;Connectivity&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;Int Dens&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;PctStGS&lt;/span&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;span&gt;PctStTC&lt;/span&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Austin, TX&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/AUSTINTX/ATX_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/AUSTINTX/ATX_metrics_Nov2016_FGDB.zip&quot;&gt;[47 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[481 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_Landcover_tif.zip&quot;&gt;[275 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_Conn_tif.zip&quot;&gt;[155 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_IntDen_tif.zip&quot;&gt;[95 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_PctStGS_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/ATX_PctStTC_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Des Moines, IA&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/DESMOINESIA/DMIA_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/DESMOINESIA/DMIA_metrics_Nov2016_FGDB.zip&quot;&gt;[23 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[125 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_LandCover_tif.zip&quot;&gt;[100 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_Conn_tif.zip&quot;&gt;[44 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_IntDen_tif.zip&quot;&gt;[39 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_PctStGS_tif.zip&quot;&gt;[2 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DMIA_PctStTC_tif.zip&quot;&gt;[2 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Durham, NC&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/DURHAMNC/DNC_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/DURHAMNC/DNC_metrics_Nov2016_FGDB.zip&quot;&gt;[20 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[91 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_Landcover_tif.zip&quot;&gt;[90 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_Conn_tif.zip&quot;&gt;[20 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_IntDen_tif.zip&quot;&gt;[28 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_PctStGS_tif.zip&quot;&gt;[1.4 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/DNC_PctStTC_tif.zip&quot;&gt;[1.4 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Fresno, CA&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/FRESNOCA/FCA_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/FRESNOCA/FCA_metrics_Nov2016_FGDB.zip&quot;&gt;[10 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[81 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_Landcover_tif.zip&quot;&gt;[90 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_Conn_tif.zip&quot;&gt;[24 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_IntDen_tif.zip&amp;quot;&quot;&gt;[29 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_PctStGS_tif.zip&quot;&gt;[2 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/FCA_PctStTC_tif.zip&quot;&gt;[2 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Green Bay, WI&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/GREENBAYWI/GBWI_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/GREENBAYWI/GBWI_metrics_Nov2016_FGDB.zip&quot;&gt;[11 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[61 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_Landcover_tif.zip&quot;&gt;[90 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_Conn_tif.zip&quot;&gt;[20 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_IntDen_tif.zip&quot;&gt;[31 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_PctStGS_tif.zip&quot;&gt;[1.2 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/GBWI_PctStTC_tif.zip&quot;&gt;[1.2 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Memphis, TN&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/MEMPHISTN/MTN_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/MEMPHISTN/MTN_metrics_Nov2016_FGDB.zip&quot;&gt;[67 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[324 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_LandCover_tif.zip&quot;&gt;[192 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_Conn_tif.zip&quot;&gt;[131 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_IntDen_tif.zip&quot;&gt;[97 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_PctStGS_tif.zip&quot;&gt;[4 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MTN_PctStTC_tif.zip&quot;&gt;[4 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Milwaukee, WI&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/MILWAUKEEWI/MWI_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/MILWAUKEEWI/MWI_metrics_Nov2016_FGDB.zip&quot;&gt;[36 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[224 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_Landcover_tif.zip&quot;&gt;[329 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_Conn_tif.zip&quot;&gt;[125 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_IntDen_tif.zip&quot;&gt;[89 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_PctStGS_tif.zip&quot;&gt;[4.5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/MWI_PctStTC_tif.zip&quot;&gt;[4.4 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;New Bedford, MA&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/NEWBEDFORDMA/NBMA_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/NEWBEDFORDMA/NBMA_metrics_Nov2016_FGDB.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[28 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_Landcover_tif.zip&quot;&gt;[44 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_Conn_tif.zip&quot;&gt;[15 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_IntDen_tif.zip&quot;&gt;[12 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_PctStGS_tif.zip&quot;&gt;[610 kB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NBMA_PctStTC_tif.zip&quot;&gt;[610 kB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;New York, NY&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/NEWYORKNY/NYNY_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/NEWYORKNY/NYNY_metrics_Nov2016_FGDB.zip&quot;&gt;[24 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[131 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_LandCover_tif.zip&quot;&gt;[83 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_Conn_tif.zip&quot;&gt;[55 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_IntDen_tif.zip&quot;&gt;[41 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_PctStGS_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/NYNY_PctStTC_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Paterson, NJ&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PATERSONNJ/PNJ_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PATERSONNJ/PNJ_metrics_Nov2016_FGDB.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[4 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_Landcover_tif.zip&quot;&gt;[7 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_Conn_tif.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_IntDen_tif.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_PctStGS_tif.zip&quot;&gt;[152 kB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PNJ_PctStTC_tif.zip&quot;&gt;[142 kB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Phoenix, AZ&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PHOENIXAZ/PAZ_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PHOENIXAZ/PAZ_metrics_Nov2016_FGDB.zip&quot;&gt;[83 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[490 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_Landcover_tif.zip&quot;&gt;[1102 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_Conn_tif.zip&quot;&gt;[193 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_IntDen_tif.zip&quot;&gt;[191 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_PctStGS_tif.zip&quot;&gt;[12 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PAZ_PctStTC_tif.zip&quot;&gt;[12 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Pittsburgh, PA&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PITTSBURGHPA/PitPA_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PITTSBURGHPA/PitPA_metrics_Nov2016_FGDB.zip&quot;&gt;[34 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[183 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_Landcover_tif.zip&quot;&gt;[192 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_Conn_tif.zip&quot;&gt;[123 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_IntDen_tif.zip&quot;&gt;[86 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_PctStGS_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PitPA_PctStTC_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Portland, ME&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PORTLANDME/PME_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PORTLANDME/PME_metrics_Nov2016_FGDB.zip&quot;&gt;[13 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[61 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_Landcover_tif.zip&quot;&gt;[76 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_Conn_tif.zip&quot;&gt;[34 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_IntDen_tif.zip&quot;&gt;[24 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_PctStGS_tif.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/PME_PctStTC_tif.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Portland, OR&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PORTLANDOR/POR_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/PORTLANDOR/POR_metrics_Nov2016_FGDB.zip&quot;&gt;[50 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[273 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_Landcover_tif.zip&quot;&gt;[197 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_Conn_tif.zip&quot;&gt;[120 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_IntDen_tif.zip&amp;quot;&quot;&gt;[83 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_PctStGS_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/POR_PctStTC_tif.zip&quot;&gt;[5 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Tampa, FL&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/TAMPAFL/TFL_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/TAMPAFL/TFL_metrics_Nov2016_FGDB.zip&quot;&gt;[66 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[526 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_Landcover_tif.zip&quot;&gt;[537 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_Conn_tif.zip&quot;&gt;[293 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_IntDen_tif.zip&quot;&gt;[165 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_PctStGS_tif.zip&quot;&gt;[9 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/TFL_PctStTC_tif.zip&quot;&gt;[9 MB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Woodbine, IA&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/WOODBINEIA/WIA_metrics_Nov2016_METADATA.zip&quot;&gt;XML&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/COMMUNITIES/WOODBINEIA/WIA_metrics_Nov2016_FGDB.zip&quot;&gt;[1 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_metrics_Nov2016_CSV_Shapes.zip&quot;&gt;[2 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_Landcover_tif.zip&quot;&gt;[7 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_Conn_tif.zip&quot;&gt;[0.7 MB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_IntDen_tif.zip&quot;&gt;[710 kB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_PctStGS_tif.zip&quot;&gt;[30 kB]&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;ftp://newftp.epa.gov/epadatacommons/ORD/EnviroAtlas/WIA_PctStTC_tif.zip&quot;&gt;[30 kB]&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;Note: Some data have additional variables not found in the Interactive Map.&lt;/em&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 30 Sep 2015 20:34:26 +0000</pubDate>
+ <dc:creator>spardo</dc:creator>
+ <guid isPermaLink="false">118895 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EnviroAtlas Data Download</title>
+    <link>https://www.epa.gov/enviroatlas/forms/enviroatlas-data-download</link>
+    <description>&lt;p&gt;EnviroAtlas data are made freely available for download. In order to help us provide a better experience overall, please let us know how you intend to use the downloaded data. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After submitting the form you will be redirected to the download page. &lt;/strong&gt;You can &lt;strong&gt;opt-out&lt;/strong&gt; of the survey by submitting a blank form.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your interest in our data and willingness to help enhance the user experience!&lt;/p&gt;
+</description>
+     <pubDate>Wed, 30 Sep 2015 18:03:52 +0000</pubDate>
+ <dc:creator>jdaniel</dc:creator>
+ <guid isPermaLink="false">118765 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EnviroAtlas Disclaimer</title>
+    <link>https://www.epa.gov/enviroatlas/enviroatlas-disclaimer</link>
+    <description>&lt;p&gt;EnviroAtlas is an interactive web-based decision support tool designed to provide information about ecosystems and the benefits people receive from those ecosystems. This application represents the first peer-reviewed public release. EnviroAtlas will continue to evolve over the coming years with periodic public releases. We welcome and request your &lt;a href=&quot;/enviroatlas/forms/contact-enviroatlas&quot;&gt;feedback&lt;/a&gt; on all aspects of the website and tools.&lt;/p&gt;
+
+&lt;p&gt;EnviroAtlas is designed for use by government, professional, academic, and community users, as well as members of the public. EnviroAtlas does not require special software, technical expertise, or a scientific background. However, it is the responsibility of the user to read and evaluate dataset limitations, restrictions, and intended use. To the best of our knowledge, the data and information on this website are accurate, but no warranty expressed or implied is made regarding the accuracy or utility of the data for general or scientific purposes, nor shall the act of distribution constitute any such warranty. All modeled geographic data are, by their nature, imperfect and the data provided in this Atlas should not be taken as absolute truth but as the best approximation of that truth based on best available data. For site-specific data, EnviroAtlas data will not replace &quot;boots-on-the-ground measurements&quot; or local knowledge. Neither EPA, EPA contractors, nor any other organizations cooperating with EPA assume any responsibility for damages or other liabilities related to the accuracy, availability, use, or misuse of the information provided on this website. EPA reserves the right to change information at any time without public notice. Any errors or omissions should be reported to the EnviroAtlas Team.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 28 Sep 2015 21:32:27 +0000</pubDate>
+ <dc:creator>spardo</dc:creator>
+ <guid isPermaLink="false">118149 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:18:17, expires @ 2017-01-26 16:18:17, lifetime 12 hours -->

@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/142525/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Sensor Toolbox</title>
+    <link>https://www.epa.gov/feed/142525/rss.xml</link>
+    <description>Updated Air Sensor Toolbox content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/142525/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Evaluation of Emerging Air Pollution Sensor Performance  </title>
+    <link>https://www.epa.gov/air-sensor-toolbox/evaluation-emerging-air-pollution-sensor-performance</link>
+    <description>&lt;p&gt;&lt;b&gt;On this page:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#meaning_of_sensor_terms&quot;&gt;What do the sensor terms used in these tables mean?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#info_on_air_pollutants&quot;&gt;Where can I get information about the air pollutants measured by these sensors?&lt;/a&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#pm_sensors&quot;&gt;Particulate matter (PM) sensors&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#gp_sensors&quot;&gt;Gas Phase sensors&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#related_links&quot;&gt;Related links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Emerging air quality sensors – with general traits of being more compact, directly reading pollutants, and lower in cost than traditional methods - have a wide appeal to professional researchers, community groups, students, and citizen scientists alike. Since this technology is still under development, little information exists on the quality of data that these sensors produce.&lt;/p&gt;
+
+&lt;p&gt;To help those interested in using sensors as part of air monitoring projects, EPA researchers evaluate sensors for how well they measure air pollutants and how easy they are to use. Placing the sensors near a regulation grade monitor, researchers collect data on air quality with both technologies. By assessing these data collected under the same air quality and weather conditions, researchers can compare how accurate and reliable low-cost technologies are to traditional methods.&lt;/p&gt;
+
+&lt;p&gt;The following air sensors have been evaluated in laboratory or field studies by EPA researchers. To assist the user, Sensor Evaluation Tables have been created that provide selected sensor performance results from reports, which can be found on the Air Sensor Toolbox.  Note that the results provided in these tables are a subset of all of the sensors and tests conducted, some results are not shown in these summary tables for sensors that had inconclusive results due to either data logging failure, reference monitor failure, or other limiting factors.  The full information on all test results are available in the full-length reports.  EPA researchers continue to test sensors in various field or laboratory studies, and emerging results will be added to these tables over time. &lt;/p&gt;
+
+&lt;p&gt;Any mention of trade names or commercial products does not constitute endorsement.  Note that cost information is not reported here, as the market prices of sensors are at the purview of the manufacturer or distributors, and may change with time or purchasing volume. &lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;meaning_of_sensor_terms&quot; name=&quot;meaning_of_sensor_terms&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;What do the sensor terms used in these tables mean?&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Detection approach&lt;/strong&gt; – Explains how the sensor measures a particular pollutant.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Operating details&lt;/strong&gt; – Additional information on the general design of the device, data output rate, and data units&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Test results&lt;/strong&gt;
+		&lt;ul style=&quot;list-style-type:circle&quot;&gt;&lt;li&gt;&lt;strong&gt;Testing Environment&lt;/strong&gt; – Explains how the test was conducted.  Field test environments include information on the pollution levels experienced during the test.  Laboratory test environments provide the concentration ranges tested.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Reference monitor used &lt;/strong&gt;– Information on the federal reference or equivalent method used as a comparison point against the sensor.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Averaging (Avg) time; testing period&lt;/strong&gt; – Information on how the sensor and reference monitor data were averaged and how long the test was conducted.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt; – R&lt;sup&gt;2&lt;/sup&gt; is a statistical term. For these studies, it represents how well a sensor performs in comparison to the reference monitoring technologies. A value of R&lt;sup&gt;2&lt;/sup&gt;=1 would mean the sensor has perfect correlation to the reference monitor, and R&lt;sup&gt;2&lt;/sup&gt;=0 would mean no correlation to a reference monitor.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;info_on_air_pollutants&quot; name=&quot;info_on_air_pollutants&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Where can I get information about the air pollutants measured by these sensors?&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://airnow.gov/index.cfm?action=airnow.main&quot;&gt;Main AirNow page&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://airnow.gov/index.cfm?action=particle_health.index&quot;&gt;AirNow – Particle Pollution (PM) and Your Health&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://airnow.gov/index.cfm?action=ozone_health.index&quot;&gt;AirNow – Ozone and Your Health&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/criteria-air-pollutants&quot;&gt;Main Criteria Air Pollutants page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;pm_sensors&quot; name=&quot;pm_sensors&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Particulate matter (PM) sensors&lt;/h2&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th rowspan=&quot;2&quot; style=&quot;width:90px&quot;&gt;
+				&lt;p&gt;Sensor model&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th rowspan=&quot;2&quot; style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Detection approach&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th rowspan=&quot;2&quot; style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Operating details&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th colspan=&quot;5&quot; style=&quot;width:463px&quot;&gt;
+				&lt;p&gt;Test Results...&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th style=&quot;width:125px&quot;&gt;
+				&lt;p&gt;Test Environment &lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:90px&quot;&gt;
+				&lt;p&gt;Reference monitor used&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;Avg time; testing period&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:45px&quot;&gt;
+				&lt;p&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:92px&quot;&gt;
+				&lt;p&gt;Citation&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Shinyei&lt;/td&gt;
+			&lt;td&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle mass concentration.&lt;/td&gt;
+			&lt;td&gt;Designed as a stationary miniaturized monitor; can record data as fast as 1 second; data units in µg/m3.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;MetOne BAM 1020 FEM PM2.5 Monitor&lt;/td&gt;
+			&lt;td&gt;12 h averaging period; minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.45 to 0.60&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dylos&lt;/td&gt;
+			&lt;td&gt;Optical particle counter – particles entering sensor are individually sized and counted based on how they scatter light.  The sensor outputs particle counts in two size ranges (&amp;gt;0.5 µm; &amp;gt;2.5 µm).&lt;/td&gt;
+			&lt;td&gt;Designed for indoor use; can record data as fast as 1 minute; data output units in particle counts.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;MetOne BAM 1020 FEM PM2.5 Monitor&lt;/td&gt;
+			&lt;td&gt;12 h averaging period; minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.63 to 0.67 (pro); 0.58 (DC1100)&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Airbeam&lt;/td&gt;
+			&lt;td&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle mass concentration.&lt;/td&gt;
+			&lt;td&gt;Designed as a highly portable handheld monitor; data are reported in units of µg/m3.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;MetOne BAM 1020 FEM PM2.5 Monitor&lt;/td&gt;
+			&lt;td&gt;12 h averaging period; minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.65 to 0.66&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;MetOne&lt;/td&gt;
+			&lt;td&gt;Optical particle counter – particles entering sensor are individually sized and counted based on how they scatter light.  The sensor outputs estimated mass concentrations in four size fractions (PM1, PM2.5, PM4, and PM10).&lt;/td&gt;
+			&lt;td&gt;Designed as a handheld monitor; can record data as fast as 1 minute; data output units in micrograms per cubic meter (µg/m3).&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;MetOne BAM 1020 FEM PM2.5 Monitor&lt;/td&gt;
+			&lt;td&gt;12 h averaging period; minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.32 to 0.41&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Air Quality Egg&lt;/td&gt;
+			&lt;td&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle mass concentration.&lt;/td&gt;
+			&lt;td&gt;Designed for indoor use or outdoor use with proper weather shielding. Data are reported in units of µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;MetOne BAM 1020 FEM PM2.5 Monitor&lt;/td&gt;
+			&lt;td&gt;12 h averaging period; minimum 30 days&lt;/td&gt;
+			&lt;td&gt;-0.06 to 0.40&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;CairPol CairClip PM - prototype&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Volume scattering – particles (possibly including particles larger than 2.5 microns (µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle count concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Lightweight and miniature; can record data as fast as 1 minute; data output in µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Wintertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-45 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;5 min; ~1.5 months&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.06&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=297517&amp;amp;simpleSearch=1&amp;amp;searchAll=EPA%2F600%2FR-14%2F464&quot;&gt;Evaluation of Field-deployed Low Cost PM Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Airviz Speck v2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle count concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Designed for indoor use; can record data as fast as 5 seconds; data output in particle counts.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Wintertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-23 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;5 min; ~1.5 months&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.01&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=310285&quot;&gt;Evaluation of Elm and Speck Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Dylos DC1100&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Optical particle counter – particles entering sensor are individually sized and counted based on how they scatter light.  The sensor outputs particle counts in two size ranges (&amp;gt;0.5 µm; &amp;gt;2.5 µm).&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Designed for indoor use; can record data as fast as 1 minute; data output units in particle counts.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Wintertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-45 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;5 min; ~1.5 months&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.55a&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=297517&amp;amp;simpleSearch=1&amp;amp;searchAll=EPA%2F600%2FR-14%2F464&quot;&gt;Evaluation of Field-deployed Low Cost PM Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Met One Model 831&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Optical particle counter – particles entering sensor are individually sized and counted based on how they scatter light.  The sensor outputs estimated mass concentrations in four size fractions (PM1, PM&lt;sub&gt;2.5&lt;/sub&gt;, PM4, and PM10).&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Designed as a handheld monitor; can record data as fast as 1 minute; data output units in micrograms per cubic meter ( µg/m&lt;sup&gt;3&lt;/sup&gt;).&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Wintertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-45 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;5 min; ~1.5 months&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.77b&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=297517&amp;amp;simpleSearch=1&amp;amp;searchAll=EPA%2F600%2FR-14%2F464&quot;&gt;Evaluation of Field-deployed Low Cost PM Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;RTI MicroPEM&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;
+				&lt;p&gt;Particles enter through size-selective inlet that removes particles &amp;gt;2.5 µm, then the remaining particles scatter light from a light source.  An integrated filter collects all the particles, which can be optionally weighed in a laboratory after a period of use. &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:113px&quot;&gt;
+				&lt;p&gt;Designed as a wearable monitor for indoor or outdoor environments; can record data as fast as 10 seconds; data units in µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Summertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~4-33 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:112px&quot;&gt;
+				&lt;p&gt;5 min; ~1 month&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.72&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=297517&amp;amp;simpleSearch=1&amp;amp;searchAll=EPA%2F600%2FR-14%2F464&quot;&gt;Evaluation of Field-deployed Low Cost PM Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Shinyei PMS-SYS-1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle count concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Designed as a stationary miniaturized monitor; can record data as fast as 1 second; data units in µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Fall outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-26 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;5 min; ~1 month&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.15&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=297517&amp;amp;simpleSearch=1&amp;amp;searchAll=EPA%2F600%2FR-14%2F464&quot;&gt;Evaluation of Field-deployed Low Cost PM Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Perkin-Elmer Elm&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Volume scattering – particles (possibly including particles larger than 2.5 µm) entering the sensor scatter light from an internal light source.  The scattered light signal is converted to an estimated particle mass concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Designed as a stationary outdoor monitor; can record data as fast as 1 minute; data units in µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Wintertime outdoors in Durham, North Carolina; Reference monitor PM&lt;sub&gt;2.5&lt;/sub&gt; ranged ~2-23 µg/m&lt;sup&gt;3&lt;/sup&gt;.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Grimm Model EDM180 PM&lt;sub&gt;2.5&lt;/sub&gt; monitor&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;5 min; ~1.5 months&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=310285&quot;&gt;Evaluation of Elm and Speck Sensors&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;sup&gt;a&lt;/sup&gt; Comparison results are for the small channel (&amp;gt;0.5 um).&lt;br /&gt;&lt;sup&gt;b&lt;/sup&gt; Comparison results shown are for the PM&lt;sub&gt;1&lt;/sub&gt; channel, which had the highest correlation with the reference monitor.  The PM&lt;sub&gt;2.5&lt;/sub&gt; channel had significant outliers that were unexplained.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;gp_sensors&quot; name=&quot;gp_sensors&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt; Gas Phase Sensors&lt;/h2&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th rowspan=&quot;2&quot; style=&quot;width:90px&quot;&gt;
+				&lt;p&gt;Sensor model (pollutant types)&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th rowspan=&quot;2&quot; style=&quot;width:192px&quot;&gt;
+				&lt;p&gt;Detection approach&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th rowspan=&quot;2&quot; style=&quot;width:119px&quot;&gt;
+				&lt;p&gt;Operating details&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th colspan=&quot;5&quot; style=&quot;width:463px&quot;&gt;
+				&lt;p&gt;Test Results&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th style=&quot;width:125px&quot;&gt;
+				&lt;p&gt;Test Environment&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:104px&quot;&gt;
+				&lt;p&gt;Reference monitor used&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:97px&quot;&gt;
+				&lt;p&gt;Avg time; testing period&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:45px&quot;&gt;
+				&lt;p&gt;R&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th style=&quot;width:92px&quot;&gt;
+				&lt;p&gt;Citation&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AQMesh (ozone)&lt;/td&gt;
+			&lt;td&gt;All gases are detected by air passing over electrochemical cells.&lt;/td&gt;
+			&lt;td&gt;Measures NO, NO2, CO, CO2, SO2, O3 (all in ppb).&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td style=&quot;width:219pt&quot;&gt;Thermo Fisher Scientific FEM 49I ozone monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.39 to 0.45&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CairClip (ozone)&lt;/td&gt;
+			&lt;td&gt;The sensor pulls in a controlled air flow, which passes over a single electrochemical cell that responds to both nitrogen dioxide (NO2) and O3.  To isolate one pollutant or the other, a separate measurement is needed in field tests.  In laboratory tests, one gas type is introduced to test the sensor response.&lt;/td&gt;
+			&lt;td&gt;The sensor device is miniature and designed for either portable use or stationary use with purchase of accessory peripherals; can record data as fast as 1 second; data units in ppb.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;Thermo Fisher Scientific FEM 49I ozone monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.82 to 0.94&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Aeroqual SM50 (ozone)&lt;/td&gt;
+			&lt;td&gt;Gas-sensitive semiconductor (GSS).&lt;/td&gt;
+			&lt;td&gt;Measures O3 in ppm.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;Thermo Fisher Scientific FEM 49I ozone monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.91 to 0.97&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CairClip (nitrogen dioxide)&lt;/td&gt;
+			&lt;td&gt;The sensor pulls in a controlled air flow, which passes over a single electrochemical cell that responds to both nitrogen dioxide (NO2) and O3.  To isolate one pollutant or the other, a separate measurement is needed in field tests.  In laboratory tests, one gas type is introduced to test the sensor response.&lt;/td&gt;
+			&lt;td&gt;The sensor device is miniature and designed for either portable use or stationary use with purchase of accessory peripherals; can record data as fast as 1 second; data units in ppb.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;Thermo Fisher Scientific FEM 42C nitrogen dioxide monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.42 to 0.76&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AQMesh (nitrogen dioxide)&lt;/td&gt;
+			&lt;td&gt;All gases are detected by air passing over electrochemical cells.&lt;/td&gt;
+			&lt;td&gt;Measures NO, NO2, CO, CO2, SO2, O3 (all in ppb).&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;Thermo Fisher Scientific FEM 42C nitrogen dioxide monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;0.14 to 0.32&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Air Quality Egg (nitrogen dioxide)&lt;/td&gt;
+			&lt;td&gt;The sensor device passes air over an internal metal oxide sensor, which provides a resistance change that is converted to an estimated NO2 concentration.&lt;/td&gt;
+			&lt;td&gt;Designed for indoor use or outdoor use with proper weather shielding. Data are reported in units of ppb.&lt;/td&gt;
+			&lt;td&gt;Minimum 30 day testing period of duplicate or triplicate monitors at a state regulatory monitoring site in hot and humid conditions in Decatur, GA.&lt;/td&gt;
+			&lt;td&gt;Thermo Fisher Scientific FEM 42C nitrogen dioxide monitor&lt;/td&gt;
+			&lt;td&gt;hourly comparisons, minimum 30 days&lt;/td&gt;
+			&lt;td&gt;-0.25 to -0.22&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/&quot;&gt;Community Air Sensor Network (CAIRSENSE) project&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;WT-SU1 Dynamo&lt;/p&gt;
+
+				&lt;p&gt;(ozone)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Ozone (O&lt;sub&gt;3&lt;/sub&gt;) is detected via a metal oxide semiconductor.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Sensor is incorporated into a weather station; data are output in units of parts per billion (ppb).&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor O&lt;sub&gt;3&lt;/sub&gt; ranged 0-400 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;2B Model 205 O&lt;sub&gt;3&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 min; several hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;O&lt;sub&gt;3&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;0.95&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Cairclip NO&lt;sub&gt;2&lt;/sub&gt;/O&lt;sub&gt;3&lt;/sub&gt;, USB version (ozone)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The sensor pulls in a controlled air flow, which passes over a single electrochemical cell that responds to both nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) and O&lt;sub&gt;3&lt;/sub&gt;.  To isolate one pollutant or the other, a separate measurement is needed in field tests.  In laboratory tests, one gas type is introduced to test the sensor response.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The sensor device is miniature and designed for either portable use or stationary use with purchase of accessory peripherals; can record data as fast as 1 second; data units in ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor O&lt;sub&gt;3&lt;/sub&gt; ranged 0-400 ppb; NO&lt;sub&gt;2&lt;/sub&gt; ranged 0-200 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;2B Model 205 O&lt;sub&gt;3&lt;/sub&gt; Analyzer; Thermo Model 42C NO/NO&lt;sub&gt;2&lt;/sub&gt;/NO&lt;sub&gt;x&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 min; several hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;O&lt;sub&gt;3&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;1.0&lt;/p&gt;
+
+				
+
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;1.0&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;AirCasting (nitrogen dioxide)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The sensor device passes air over an internal metal oxide (MiCS-271) sensor, which provides a resistance change that is converted to an estimated NO&lt;sub&gt;2&lt;/sub&gt; concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The sensor device is miniature and designed for portable use, integrated with a smartphone app; can record data as fast as 1 minute; data units in ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor NO&lt;sub&gt;2&lt;/sub&gt; ranged 0-200 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Thermo Model 42C NO/NO&lt;sub&gt;2&lt;/sub&gt;/NO&lt;sub&gt;x&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 min; several hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;0.98&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Platypus (nitrogen dioxide)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Nitrogen dioxide is detected using a thin film liquid crystal mounted to a metal strip.  Each measurement of NO&lt;sub&gt;2&lt;/sub&gt; requires a new material strip to be entered into the device.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Designed as a handheld monitor; each data point requires a manual filter change, which can be conducted at variable time intervals; sensor output is in units of ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor NO&lt;sub&gt;2&lt;/sub&gt; ranged 0-200 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Thermo Model 42C NO/NO&lt;sub&gt;2&lt;/sub&gt;/NO&lt;sub&gt;x&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Several minutes of sample time per test interval (5 concentrations tested)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;0.80&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;CitiSense (nitrogen dioxidea)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;All gases are detected by air passing over electrochemical cells (O&lt;sub&gt;3&lt;/sub&gt;: O&lt;sub&gt;3&lt;/sub&gt;-3E-1 from CityTechnology; CO: NO&lt;sub&gt;2&lt;/sub&gt;: NO&lt;sub&gt;2&lt;/sub&gt;-AQ from Alphasense), which provides a resistance change that is converted to an estimated concentration.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Sensor device is designed for portable use; integrated with a smartphone app; can record data as fast as 6 seconds; data units in ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor O&lt;sub&gt;3&lt;/sub&gt; ranged 0-400 ppb; NO&lt;sub&gt;2&lt;/sub&gt; ranged 0-200 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Thermo Model 42C NO/NO&lt;sub&gt;2&lt;/sub&gt;/NO&lt;sub&gt;x&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 min; several hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;0.98&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;U-Pod (nitrogen dixode, ozoneb)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The U-Pod, at the time of testing, detects NO&lt;sub&gt;2&lt;/sub&gt; and O&lt;sub&gt;3&lt;/sub&gt; via a metal oxide sensors (NO&lt;sub&gt;2&lt;/sub&gt;: MiCS-2710, O&lt;sub&gt;3&lt;/sub&gt;: MiCS-2611 from SGX SensorTech), which provides a voltage output that is converted to concentration units.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Sensor device is designed for stationary use; can record data as fast as 5 seconds; data units in ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a glass exposure chamber with a gas standard introduced at controlled concentrations; Reference monitor O&lt;sub&gt;3&lt;/sub&gt; ranged 0-400 ppb; NO&lt;sub&gt;2&lt;/sub&gt; ranged 0-200 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;2B Model 205 O&lt;sub&gt;3&lt;/sub&gt; Analyzer; Thermo Model 42C NO/NO&lt;sub&gt;2&lt;/sub&gt;/NO&lt;sub&gt;x&lt;/sub&gt; Analyzer&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1 min; several hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;O&lt;sub&gt;3&lt;/sub&gt;: 0.88&lt;/p&gt;
+
+				
+
+				&lt;p&gt;NO&lt;sub&gt;2&lt;/sub&gt;:&lt;/p&gt;
+
+				&lt;p&gt;n/a&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=277270&amp;amp;simpleSearch=1&amp;amp;searchAll=sensor+evaluation+report&quot;&gt;Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Unitec SENS-IT (benzene)&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The SENS-IT passes air flow over a thick film metal oxide semiconductor, which generates a signal that is converted to a specific gas concentration. &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Sensor is miniature, designed for incorporation into stationary or mobile monitoring applications; data at the time of testing were output in voltage units.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Laboratory test in a stainless steel test chamber with specific gases (benzene, 1,3 butadiene, tetrachloroethylene) introduced individually or in mixtures; concentration ranged 0-25 ppb.&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Gas chromatography&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;~3 hours; 18 hours&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Benzene-only: 0.90&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=308114&amp;amp;simpleSearch=1&amp;amp;searchAll=Next+generation+air+monitoring&quot;&gt;Next Generation Air Monitoring (NGAM) VOC Sensor Evaluation Report&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;highlighted&quot;&gt;&lt;sup&gt;a&lt;/sup&gt; The CitiSense monitor also includes sensors for carbon monoxide and ozone, which were not evaluated in the laboratory test.&lt;br /&gt;&lt;sup&gt;b&lt;/sup&gt; The U-Pod also includes sensors for nitric oxide, carbon monoxide, volatile organic compounds, carbon dioxide, and sulfur dioxide, which were not evaluated in this laboratory test.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a id=&quot;related_links&quot; name=&quot;related_links&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;h2&gt;Related links:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/air-sensor-toolbox/air-sensor-toolbox-resources-and-funding&quot;&gt;Resources and Funding&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-sensor-toolbox/what-do-my-sensor-readings-mean-sensor-scale-pilot-project&quot;&gt;What Do My Readings Mean?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 11 Aug 2016 15:07:58 +0000</pubDate>
+ <dc:creator>Mburns02</dc:creator>
+ <guid isPermaLink="false">157257 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Sensor Toolbox: Announcements  </title>
+    <link>https://www.epa.gov/air-sensor-toolbox/air-sensor-toolbox-announcements</link>
+    <description>&lt;p&gt;&lt;strong&gt;December 16, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slideshow Highlights Air Sensor Science and Education at EPA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s scientists and engineers are pushing the scientific frontiers in low-cost and portable air sensor monitoring that is engaging communities to learn about their air quality. At the same time, they are inspiring young people to learn what science can do to protect the air we breathe. A slideshow highlights accomplishments from 2012-2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe scrolling=&quot;no&quot; src=&quot;https://www.slideshare.net/slideshow/embed_code/key/wvFCqz2RyMjc5&quot; width=&quot;595&quot; height=&quot;485&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.slideshare.net/secret/wvFCqz2RyMjc5&quot; target=&quot;_blank&quot; title=&quot;Air Sensor Science and Education&quot;&gt;Air Sensor Science and Education&lt;/a&gt;&lt;/strong&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;December 15, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA Announces Smart City Air Challenge Awardees&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA has selected the City of Baltimore and the Lafayette, Louisiana, Consolidated Government as awardees of the Smart City Air Challenge. The challenge encourages communities to install hundreds of air quality sensors and share the data with the public. The awards will enable the communities to deploy hundreds of air quality sensors and make the data public. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.epa.gov/blog/2016/12/smart-city-air-challenge-awardees-announced/&quot;&gt;Read the blog&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;December 13, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NACEPT 2016 Report: Environmental Protection Belongs to the Public, A Vision for Citizen Science at EPA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The National Advisory Council for Environmental Policy and Technology (NACEPT) formally transmitted its report to the EPA on citizen science. In this report, NACEPT developed thirteen robust recommendations regarding actions that EPA should take in response to technological and sociological developments in the area of citizen science. The report urges EPA to embrace citizen science and capacity building initiatives that further advance the agency&#039;s mission of protecting the environment and human health.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/faca/nacept-2016-report-environmental-protection-belongs-public-vision-citizen-science-epa&quot;&gt;Read the Report&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;November 17, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Results available for commercial air sensor evaluations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A study that evaluated the performance of 11 commercial air sensors has been published in the journal &lt;em&gt;Atmospheric Measurement Techniques&lt;/em&gt;. Researchers compared the commercial devices with high-quality stationary EPA monitors to evaluate their ability to provide comparable data. They also evaluated the feasibility of deploying a local wireless sensor network. The sensors tested are listed in &lt;a href=&quot;/air-sensor-toolbox/evaluation-emerging-air-pollution-sensor-performance&quot;&gt;performance evaluation tables&lt;/a&gt; on the Air Sensor Toolbox web page.   &lt;/p&gt;
+
+&lt;p&gt;The paper is &lt;a href=&quot;http://www.atmos-meas-tech-discuss.net/amt-2016-131/amt-2016-131.pdf&quot;&gt;Community Air Sensor Network (CAIRSENSE) project: Evaluation of low-cost sensor performance in a suburban environment in the southeastern United States.  &lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;November 4, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA Installing Air Monitoring Stations at Memphis Area Transit Facilities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA announces a collaborative project with the Shelby County Health Department (SCHD) and the Memphis Area Transit Authority (MATA) that is field testing newly installed, lower-cost air pollution sensor pods in the Memphis, Tennessee area.  Air sensor pods have been installed at sixteen locations including seven SCHD locations and three MATA transit facilities. &lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s CitySpace research project is field testing these air sensor monitors to understand how this emerging technology can add valuable information on air pollution patterns in neighborhoods. The sensors are being installed and data will be captured over a six month period concluding in February 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/newsreleases/epa-installing-air-monitoring-stations-memphis-area-transit-facilities&quot;&gt;Read the news release&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;August 30, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA offers up to $80,000 to communities to develop air sensor data best practices&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA is challenging communities across the country to collect data using hundreds of air quality sensors as part of the Smart City Air Challenge. The agency is offering up to $40,000 apiece to two communities to help them develop and implement plans for collecting and sharing data from air quality sensors. &lt;span&gt;Application Deadline: October 28, 2016. &lt;/span&gt;&lt;span&gt;Announcement of Winners: Around December 1, 2016&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.epa.gov/blog/2016/08/smart-cities-air-challenge/&quot;&gt;Read a blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To learn more, visit the &lt;a href=&quot;http://www.challenge.gov/challenge/smart-city-air-challenge/&quot;&gt;Smart City Air Challenge&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;August 9, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Research projects to study how communities use air sensor technology &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Six research organizations have received funding from EPA’s Science to Achieve Results (STAR) program to develop and use low-cost air pollution sensor technology, while engaging communities to learn about their local air quality. &lt;/p&gt;
+
+&lt;p&gt;The research teams will work with other organizations and community groups to explore how scientific data can be effectively gathered and used by communities to learn about local air quality and evaluate the accuracy of data produced by sensors and sensor networks. For example, one project will compare the sensors with high-quality data from existing monitoring technology that are used to support air quality regulations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-research/air-pollution-monitoring-communities-grants&quot;&gt;Air Pollution Monitoring for Communities Grants&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/newsreleases/epa-awards-45-million-advance-air-monitoring-technology&quot;&gt;News Release &lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://blog.epa.gov/blog/2016/08/collaborating-with-local-communities-to-measure-air-pollution/&quot;&gt;Blog&lt;/a&gt; &lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;RETIGO Training on Aug. 31, 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A live training seminar will be held Aug 31, 2016 at 1 p.m. (EDT) that provides an introduction to the Real-Time Geospatial Data Viewer.  This is an interactive web platform where you can upload field data that you have collected and explore it on multiple graph interfaces. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/retigo-training-tickets-25165811620?aff=erelexpmlt&quot;&gt;Free Registration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hesc/real-time-geospatial-data-viewer-retigo&quot;&gt;More information on RETIGO&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;b&gt;Spring 2016&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Air Sensor Evaluation Study Under Way&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA is conducting laboratory and field-based evaluations of air sensors to encourage the development of accurate and reliable monitoring devices in the marketplace for the public. A new round of testing began in spring 2016 at EPA’s main research campus in Research Triangle Park, NC.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-research/air-sensor-evaluations-are-advancing-availability-accurate-and-reliable-monitors-public&quot;&gt;Read more about the study&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 15:27:08 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">155685 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Funding and Support for Citizen Science Projects Using Air Sensor Monitoring Technology</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/funding-and-support-citizen-science-projects-using-air-sensor-monitoring</link>
+    <description>&lt;p&gt;Getting access to air sensor monitors, equipment, and technical support is an important first step to conducting a citizen science project to measure air quality. One way to get this needed support is by partnering with local universities, air pollution control agencies and others already researching air quality.&lt;/p&gt;
+
+&lt;p&gt;This page provides guidance for those interested in finding funding and support for their citizen science projects.&lt;/p&gt;
+
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;How to Identify and Develop Partnerships&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;&lt;strong&gt;Universities and other academic institutions &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;Researchers at a local university or college may be conducting studies to evaluate air quality by using low-cost, portable air sensor monitoring equipment. By connecting with these researchers, citizen scientists may be able to collaborate on these ongoing projects. Researchers may be able to share knowledge about technology and its application that are specific to the local environment. In some cases, citizen groups may be able to gain access to air measurement equipment, software, or computer resources by initiating contact with researchers.&lt;/p&gt;
+
+			&lt;p&gt;Looking for funding to support a research project? Some research grants may require citizen scientists to partner with university researchers when applying. Other grants may not require a formal partnership, but identifying this source of collaboration or technical support in grant applications could help an application stand out.&lt;/p&gt;
+
+			&lt;p&gt;These experts are often housed in environmental science, engineering, or public health departments. Contact the information desks of these departments to find experts who are conducting air quality studies with air sensor monitors.&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Local air quality management agencies&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p&gt;States and many cities have environmental agencies that measure and help control environmental pollution. Reaching out to these agencies before starting a project can help citizen scientists define their projects and goals. In some cases, these agencies may be able to recommend contacts at local universities who do work on air pollution measurements.&lt;/p&gt;
+
+			&lt;p&gt;To help prepare for these initial conversations with potential partners, define your goals and objectives, and develop a plan to carry out the research project. A list of questions excerpted from the Air Sensor Guidebook (Appendix A) is listed below that can help when seeking support or funding for a citizen science project.&lt;/p&gt;
+
+			&lt;p&gt;State and local contacts at air management agencies can be found through National Association for Clean Air Agencies’ website.&lt;/p&gt;
+
+			&lt;p&gt;Be prepared to answer questions about a proposed project:&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;What do you want to find out or show with your measurements?&lt;/li&gt;
+				&lt;li&gt;What pollutants do you want to measure?&lt;/li&gt;
+				&lt;li&gt;Do you consider this a nuisance or a health hazard? Is this a recurring problem?&lt;/li&gt;
+				&lt;li&gt;Do you know the levels for the pollutant or pollutants that you want to measure and how they compare to the National Ambient Air Quality Standards?&lt;/li&gt;
+				&lt;li&gt;Do you have Standard Operating Procedures (SOPs) (detailed written instructions so that measurements are taken in a consistent way) for the device you plan to use?&lt;/li&gt;
+				&lt;li&gt;Did you receive adequate training in how to operate the device and maintain it?&lt;/li&gt;
+				&lt;li&gt;Did you have any interaction with anyone responsible for the emissions? Have you in the past?&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;Related Resources:&lt;/p&gt;
+
+			&lt;p&gt;&lt;a href=&quot;http://www.4cleanair.org/agencies&quot;&gt;National Association for Clean Air Agencies&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=277996&quot;&gt;Air Sensor Guidebook&lt;/a&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;a href=&quot;/environmentaljustice/environmental-justice-grants-funding-and-technical-assistance#tab-3&quot;&gt;EPA Technical Assistance Resources&lt;/a&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;Where Can You Apply for Funding?&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;
+			&lt;p&gt;EPA, other federal organizations, and non-profit foundations provide grants and other funding  to support citizen science projects. The following list provides the names of organizations and programs that may provide funding. &lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;EPA Grant Resources&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/grants/epa-grants-101-tutorial&quot;&gt;Grants 101 Tutorial&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/education/environmental-education-ee-grant-solicitation-notice&quot;&gt;Environmental Education Local Grants Program&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/grants/air-grants-and-funding&quot;&gt;Air Grants and Funding&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/environmentaljustice/environmental-justice-grants-funding-and-technical-assistance#tab-1&quot;&gt;Environmental Justice Grants and Funding&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/p2/grant-programs-pollution-prevention&quot;&gt;Grant Programs for Pollution Prevention and Source Reduction Assistance&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=d4d8fb28b93e9c16de67af68a827a2bf&quot;&gt;Air Pollution Control Program Support&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=a81d864d25dd3a9dd956b9d0837af2ff&quot;&gt;Surveys, Studies, Research, Investigations, Demonstrations, and Special Purpose Activities Relating to the Clean Air Act&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=2fe03bacb37942144d9416bc77391353&quot;&gt;Surveys, Studies, Investigations, Training and Special Purpose Activities Relating to Environmental Justice&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/grants/open-announcements-competitive-grant-opportunities&quot;&gt;Other Open Announcements for Competitive Grant Opportunities&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region02/citizenscience/grants.html&quot;&gt;EPA Region 2 Citizen Science Grants page&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=d0b3922aaafe7e4eda45f33de2d5bfd8&quot;&gt;Internships, Training and Workshops for the Office of Air and Radiation&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Tribal Grants&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=21c78a488744e8425cb6573cd3db1700&quot;&gt;Indian Environmental General Assistance Program (GAP)&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.cfda.gov/index?s=program&amp;amp;mode=form&amp;amp;tab=step1&amp;amp;id=99415ce5403346a76e3bc4345015904f&quot;&gt;Training, Investigations, and Special Purpose Activities of Federally-Recognized Indian Tribes Consistent With the Clean Air Act (CAA), Tribal Sovereignty and the Protection and Management of Air Quality&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/cleandiesel/clean-diesel-tribal-grants&quot;&gt;Clean Diesel Tribal Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;EPA Listservs&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://lists.epa.gov/read/all_forums/subscribe?name=epa-ej&quot;&gt;EPA Environmental Justice listserv&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/research-grants/research-grants-fellowship-and-sbir-listserv&quot;&gt;Research Grants Listserv&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Other Federal Grant Resources &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.grants.gov&quot;&gt;Grants.gov&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.sbir.gov/Sensor-technology-for-the-21st-century&quot;&gt;US Small Business Administration Sensor Technology for the 21st Century&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/sbir/sbir-funding-opportunities&quot;&gt;Small Business Innovation Research (SBIR) Phase I Solicitation - Sensor Technology for the 21&lt;sup&gt;st&lt;/sup&gt; Century&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://grants.nih.gov/grants/guide/pa-files/PA-16-083.html&quot;&gt;Research to Action: Assessing and Addressing Community Exposures to Environmental Contaminants&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5483&quot;&gt;Tribal Colleges and Universities Program&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501029&quot;&gt;Environmental Engineering Grant&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503584&quot;&gt;Research in Engineering Education (REE)&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Region or State Specific Grant Resources &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.calepa.ca.gov/EnvJustice/Funding/&quot;&gt;California Environmental Justice Small Grants&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;https://www.rit.edu/affiliate/nysp2i/community-grants-program&quot;&gt;New York State Pollution Prevention Program – Community Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Foundations and Non-profit Grant Resources &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.sloan.org/about-the-foundation/&quot;&gt;The Alfred P. Sloan Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.heinz.org/Interior.aspx?id=350&quot;&gt;The Heinz Endowments&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://kresge.org/&quot;&gt;The Kresge Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.knightfoundation.org/what-we-fund/engaging-communities&quot;&gt;Knight Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.knightfoundation.org/what-we-fund/engaging-communities&quot;&gt;David and Lucile Packard Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://normanfdn.org/index.php?&quot;&gt;The Norman Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.surdna.org/grants/grants-overview.html&quot;&gt;Surdna Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.noyes.org/&quot;&gt;Jessie Smith Noyes Foundation&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.bushfoundation.org/grants/community-innovation-grants&quot;&gt;Bush Foundation Community Innovation Grants&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Other Citizen Science Funding Sources &lt;/strong&gt;&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.citizensciencecenter.com/citizen-science-funding/&quot;&gt;Citizen Science Funding - Potential Funding Sources from Citizen Science Center&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.countyhealthrankings.org/roadmaps/funding-guide/identifying-and-accessing&quot;&gt;Community Health Rankings Guide to Identifying and Accessing Funding Opportunities&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;http://www.saferoutesinfo.org/program-tools/funding&quot;&gt;Safe Routes: National Center for Safe Routes to School&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 26 Jul 2016 15:12:57 +0000</pubDate>
+ <dc:creator>abrown08</dc:creator>
+ <guid isPermaLink="false">155673 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 10</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-10</link>
+    <description>&lt;p&gt;Community air monitoring projects that use air sensor technology to monitor air quality in EPA’s Region 10 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EPA’s Region 10 serves Alaska, Idaho, Oregon, Washington, and 271 tribal nations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA is providing low-cost sensors capable of providing environmental awareness information associated with fine particulate matter (PM2.5), environmental conditions, and location (GPS) measurements to develop an enhanced understanding of PM2.5 air quality variability in or near school locations.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:53:55 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149897 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 9</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-9</link>
+    <description>&lt;p&gt;Community air monitoring projects that use air sensor technology to monitor air quality in EPA’s Region 9 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EPA’s Region 9 serves Arizona, California, Hawaii, Nevada, the Pacific Islands and 148 Tribal Nations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Air Monitoring Project in Los Angeles metropolitan area&lt;/h2&gt;
+
+&lt;p&gt;EPA is partnering with the South Coast Air Quality Management District in Diamond Bar, CA, which is responsible for air quality monitoring for the Los Angeles metropolitan area, to promote informed selection and use of emerging air sensor monitoring technologies. The goals are to increase community awareness of the availability of air quality sensors and their performance, and to provide information on potential applications for monitoring fine particle (PM2.5) and ozone pollution.   &lt;/p&gt;
+
+&lt;h3&gt;What is being done?&lt;/h3&gt;
+
+&lt;p&gt;Researchers at EPA are providing technical expertise and guidance on a range of project components including project design, deployment of air sensors, data collection, quality assurance, data interpretation, data visualization, and public engagement. Unique low-cost sensors are being developed by researchers and will be compared to regulatory grade sensors. The sensors will then be evaluated for performance characteristics by a recognized sensor evaluation laboratory and then deployed to select areas designated by EPA for measuring PM2.5 and ozone. The project is expected to be conducted between summer 2016 and the fall of 2017.&lt;/p&gt;
+
+&lt;h3&gt;What are the benefits?&lt;/h3&gt;
+
+&lt;p&gt;The project will provide critical information regarding sensor performance, sensor data quality, and promote successful development, deployment and accessible use of the technologies for ambient air quality monitoring, especially in vulnerable communities that are often disproportionally impacted by harmful air quality impacts. The resulting tools and guidelines, which have been requested by local and state air monitoring agencies and community groups, will be applicable to other communities and others interested in air sensor monitoring.&lt;/p&gt;
+
+&lt;h3&gt;Related Resources:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.aqmd.gov/&quot;&gt;South Coast Air Quality Management District&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:53:45 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149895 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 8</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-8</link>
+    <description>&lt;p&gt;Community air monitoring projects that are using air sensor technology to monitor air quality in states in EPA’s Region 8 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EPA’s Region 8 serves Colorado, Montana, North Dakota, South Dakota, Utah, Wyoming, and 27 Tribal Nations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Community Air Sensor Network (CAIRSENSE) Project in Denver, Colorado&lt;/h2&gt;
+
+&lt;p&gt;In 2015-2016, EPA collaborated with the state of Colorado on the CAIRSENSE Project to conduct testing of low-cost sensors at a regulatory air quality monitoring site in Denver. Operating the sensors in close proximity to regulatory monitors has enabled researchers to examine the performance characteristics of sensors that citizen scientists and other interested stakeholders might wish to use in their own studies. &lt;/p&gt;
+
+&lt;h3&gt;What is being done?&lt;/h3&gt;
+
+&lt;p&gt;The CAIRSENSE project testing has been completed and the data is being analyzed. EPA tested commercially available air pollutant sensors that measure carbon monoxide, oxides of nitrogen, sulfur dioxide, ozone and particulate matter. The project is designed to improve understanding of long-term use and performance of these sensors. EPA plans to provide summary information on the findings by the end of 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are the benefits? &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Denver site provided a chance to test the sensors in a different environment compared to other places sensors have been tested around the country. This helped to understand how robust the sensors are and their reliability.  Sensors at the site had to perform in higher altitude, winter weather conditions and large temperature fluctuations.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:52:38 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149893 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 7</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-7</link>
+    <description>&lt;p&gt;Community air monitoring projects that use air sensor technology to monitor air quality in EPA’s Region 7 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EPA’s Region 7 serves Iowa, Kansas, Missouri, Nebraska and 9 Tribal Nations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Village Green Project in Kansas City, Kansas&lt;/h2&gt;
+
+&lt;p&gt;Kansas Department of Health and Environment and EPA are collaborating to operate a Village Green air monitoring station developed by EPA researcher for use by the public to learn about local air quality.&lt;/p&gt;
+
+&lt;p&gt;The station is located outside the new Kansas City South Branch Library where it can be used by library visitors and others interested in learning about local air quality. This project stems from a growing interest in using new sensor technologies to learn more about air quality conditions and trends near schools, playgrounds, parks and neighborhoods.&lt;/p&gt;
+
+&lt;p&gt;Community-based monitoring technology such as the Village Green station provides new ways for Americans to participate in science and learn about local air quality. The real-time data measured by the stations can be used in projects by citizen scientists, students, community organizations and researchers to understand air quality and how events such as weather changes or nearby sources of air pollution can change local conditions.&lt;/p&gt;
+
+&lt;h3&gt;Related Resources&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-research/village-green-project&quot;&gt;Village Green Project&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:52:21 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149891 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 6</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-6</link>
+    <description>&lt;p&gt;Community air monitoring projects that use air sensor technology to monitor air quality in EPA’s Region 6 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;EPA&#039;s Region 6 serves&lt;/cite&gt; &lt;em&gt;Arkansas, Louisiana, New Mexico, Oklahoma, Texas and 66 Tribes&lt;/em&gt;&lt;em&gt;. &lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Village Green Project in Oklahoma City, Oklahoma&lt;/h2&gt;
+
+&lt;p&gt;Oklahoma Department of Environmental Quality and EPA are collaborating to operate a Village Green air monitoring station developed by EPA researchers for use by the public to learn about local air quality. EPA has installed the station at the Children’s Garden of Myriad Botanical Gardens in downtown Oklahoma City.&lt;/p&gt;
+
+&lt;p&gt;The station is collecting minute-to-minute air quality data on ozone and fine particle pollution and weather conditions and providing a live stream of the measurements to the Village Green web page for public access.&lt;/p&gt;
+
+&lt;p&gt;Community-based monitoring technology such as the Village Green station provides new ways for the public to participate in science and learn about local air quality. The real-time data measured by the stations can be used in projects by citizen scientists, students, community organizations and researchers to understand air quality and how events such as weather changes or nearby sources of air pollution can change local conditions. &lt;/p&gt;
+
+&lt;h3&gt;Related Resources&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-research/village-green-project&quot;&gt;Village Green Project&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:50:10 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149889 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Community Air Monitoring Where You Live in EPA Region 5</title>
+    <link>https://www.epa.gov/air-sensor-toolbox/community-air-monitoring-where-you-live-epa-region-5</link>
+    <description>&lt;p&gt;Community air monitoring projects that are using air sensor technology to monitor air quality in states in EPA’s Region 5 are providing the public with more information on the quality of the air they breathe.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;EPA&#039;s Region 5 serves Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin and 35 Tribes. (IL, IN, MI, MN, OH, WI)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Village Green Project in Chicago, Illinois&lt;/h2&gt;
+
+&lt;p&gt;EPA is collaborating with the Jane Addams Elementary School in Chicago, located in an environmental justice community where local sources of air pollution are a concern, to operate a Village Green air monitoring station developed by EPA researchers. The project is enabling EPA to test new air pollution monitoring technologies and help the public learn about local air quality.&lt;/p&gt;
+
+&lt;p&gt;Educational materials on air quality developed by EPA are being tested in the classrooms by teachers and the school is assisting with testing a portable air sensor called AirMapper being developed by EPA for use by citizen scientists and researchers.&lt;/p&gt;
+
+&lt;p&gt;The station is collecting minute-to-minute air quality data on ozone and fine particle pollution and weather conditions and providing a live stream of the measurements to the Village Green web page for public access. Data that is collected will be analyzed and shared with residents and the public.  &lt;/p&gt;
+
+&lt;p&gt;The Village Green station in Chicago allows for testing of the equipment under colder and more varied weather and temperature conditions in Chicago and the pilot test of the AirMapper is enabling researchers to further develop this portable sensor.&lt;/p&gt;
+
+&lt;h3&gt;Related Resources&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/air-research/village-green-project&quot;&gt;Village Green Project&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 16:49:59 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">149887 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:47:31, expires @ 2017-01-26 16:47:31, lifetime 12 hours -->

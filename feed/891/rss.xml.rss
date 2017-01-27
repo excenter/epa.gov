@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/891/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Information Collection Request (ICR) Center</title>
+    <link>https://www.epa.gov/feed/891/rss.xml</link>
+    <description>Updated Information Collection Request (ICR) Center content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/891/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Find An ICR</title>
+    <link>https://www.epa.gov/icr/find-icr</link>
+    <description>&lt;div&gt;
+	&lt;div class=&quot;figure image mode-medium right&quot; style=&quot;width:448px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:298px;&quot;&gt;&lt;img alt=&quot;Open mic at a public meeting&quot; title=&quot;Open mic at a public meeting&quot; height=&quot;204&quot; width=&quot;298&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2014-06/185657722.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;At &lt;a href=&quot;http://www.regulations.gov&quot;&gt;Regulations.gov&lt;/a&gt; you can:&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Search for an ICR&lt;/li&gt;
+	&lt;li&gt;Submit or view public comments&lt;/li&gt;
+	&lt;li&gt;Access the contents of the docket for a particular ICR&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;At &lt;a href=&quot;http://www.reginfo.gov/public/&quot;&gt;Reginfo.gov&lt;/a&gt; you can:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Track an ICR&lt;/li&gt;
+	&lt;li&gt;View an ICR&#039;s package contents &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.reginfo.gov/public/do/PRAMain&quot;&gt;View the current inventory&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;View burden estimates&lt;/li&gt;
+	&lt;li&gt;View historical packages&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 05 Jun 2014 22:10:20 +0000</pubDate>
+ <dc:creator>jsuzuki</dc:creator>
+ <guid isPermaLink="false">54079 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>ICR Basics</title>
+    <link>https://www.epa.gov/icr/icr-basics</link>
+    <description>&lt;h2&gt;What is an ICR?&lt;/h2&gt;
+
+&lt;p&gt;An Information Collection Request (ICR) is a set of documents that describes reporting, record keeping, survey, or other information collection requirements imposed on the public by a federal agency. &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm&quot;&gt;Paperwork Reduction Act&lt;/a&gt; stipulates that every federal agency must obtain approval from the Office of Management and Budget (OMB) before collecting the same or similar information from 10 or more members of the public.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;What is covered in an ICR?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;A description of the information to be collected &lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;The reason the information is needed &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;An estimate of the time and cost for the public to answer the request. &lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Surveys &lt;/li&gt;
+	&lt;li&gt;Permit Applications &lt;/li&gt;
+	&lt;li&gt;Questionnaires &lt;/li&gt;
+	&lt;li&gt;Standardized Data Collection &lt;/li&gt;
+	&lt;li&gt;Reports &lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;What is my role in the ICR process?&lt;/h2&gt;
+
+&lt;p&gt;If EPA decides to gather such information, the appropriate program office must prepare an Information Collection Request (ICR) and submit it to the appropriate Office of Information Collection (OIC) &lt;a href=&quot;/icr/forms/contact-us-information-collection-request-center&quot;&gt;Desk Officer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The ICR provides an overview of the collection, and estimates the cost and time for the public to respond. The public may &lt;a href=&quot;http://www.regulations.gov&quot;&gt;view an ICR and submit comments any time on Regulations.gov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/icr/find-icr&quot;&gt;Use Reginfo.gov or Regulations.gov to find and comment on ICRs&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 16 Apr 2014 15:22:44 +0000</pubDate>
+ <dc:creator>jsuzuki</dc:creator>
+ <guid isPermaLink="false">50973 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us at the Information Collection Request Center</title>
+    <link>https://www.epa.gov/icr/forms/contact-us-information-collection-request-center</link>
+    <description>&lt;p&gt;&lt;em&gt;Please use the &lt;a href=&quot;#Name&quot;&gt;form below&lt;/a&gt; to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Regulatory Support Division in EPA&#039;s &lt;a href=&quot;/aboutepa/about-office-environmental-information-oei&quot;&gt;Office of Environmental Information:&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Provides policy direction and oversight of implementation of the Paperwork Reduction Act (PRA) and processing of the Information Collection Requests (ICRs);&lt;/li&gt;
+	&lt;li&gt;Manages the Agency&#039;s administration of the burden reduction provisions of the PRA; and&lt;/li&gt;
+	&lt;li&gt;Promotes innovative alternatives to standard, paper-based recordkeeping and reporting by the public.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you want to submit comments about a specific ICR, please send your comments to:&lt;/p&gt;
+
+&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span lang=&quot;EN&quot; xml:lang=&quot;EN&quot;&gt;Regulatory Support Division Director&lt;br /&gt;
+	Office of Enterprise Information Programs&lt;br /&gt;
+	Office of Environmental Information&lt;br /&gt;
+	U.S. Environmental Protection Agency&lt;br /&gt;
+	Mail Code 2822T&lt;br /&gt;
+	1200 Pennsylvania Avenue, N.W.&lt;br /&gt;
+	Washington, D.C. 20460-0001&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;h3&gt;ICR Desk Officers&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	Courtney Kerwin&lt;br /&gt;
+	(202) 566-1669&lt;br /&gt;
+	Office of Air&lt;/p&gt;
+
+&lt;p&gt;Spencer Clark&lt;br /&gt;
+	(202) 566-0729&lt;br /&gt;
+	Office of Water, Office of Chemical Safety and Pollution Prevention&lt;/p&gt;
+
+&lt;p&gt;Judy Suzuki&lt;br /&gt;
+	(202) 566-0783&lt;br /&gt;
+	Office of Land and Emergency Management, Office of Administrator, Office of Environmental Information, Regions&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Name&quot; name=&quot;Name&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 18 Jan 2013 20:48:14 +0000</pubDate>
+ <dc:creator>jsuzuki</dc:creator>
+ <guid isPermaLink="false">893 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 19:03:24, expires @ 2017-01-26 07:03:24, lifetime 12 hours -->

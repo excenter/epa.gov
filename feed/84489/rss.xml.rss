@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/84489/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Polychlorinated Biphenyls (PCBs)</title>
+    <link>https://www.epa.gov/feed/84489/rss.xml</link>
+    <description>Updated Polychlorinated Biphenyls (PCBs) content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/84489/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>NRECA New Member Draft Approval for Public Comment</title>
+    <link>https://www.epa.gov/pcbs/nreca-new-member-draft-approval-public-comment</link>
+    <description>&lt;p&gt;This page contains NRECA New Member Draft Approval for Public Comment.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-329409&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/nreca_new_member_draft_approval_for_public_comment.pdf&quot; type=&quot;application/pdf; length=638949&quot; class=&quot;file-link&quot;&gt;NRECA New Member Draft Approval for Public Comment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 639 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 04 Nov 2016 12:04:28 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">164561 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Polychlorinated Biphenyl (PCB) Disposal Facilities and Approvals by Technology Type and EPA Region</title>
+    <link>https://www.epa.gov/pcbs/list-polychlorinated-biphenyl-pcb-disposal-facilities-and-approvals-technology-type-and-epa</link>
+    <description>&lt;p&gt;The following table shows disposal approvals issued under the Toxic Substances Control Act (TSCA) to accept and/or dispose of PCB waste. These facilities are either permitted by EPA to dispose of PCB waste or may handle or dispose of certain types of PCB waste outside of a permit in accordance with the regulations outlined in Title 40 of the Code of Federal Regulations in part 761. The table can be searched by key word or sorted by column heading. For approvals that are multi regional, you can access a copy of the disposal approval in PDF format by clicking the name of the facility. You can also view a &lt;a href=&quot;/pcbs/list-approved-polychlorinated-biphenyl-pcb-commercial-storage-facilities-epa-region&quot;&gt;List of PCB Commercial Storage Facilities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table id=&quot;datatable&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Company&lt;/th&gt;
+			&lt;th&gt;Address&lt;/th&gt;
+			&lt;th&gt;City&lt;/th&gt;
+			&lt;th&gt;State&lt;/th&gt;
+			&lt;th&gt;Zip Code&lt;/th&gt;
+			&lt;th&gt;Phone Number&lt;/th&gt;
+			&lt;th&gt;Technology Type&lt;/th&gt;
+			&lt;th&gt;Region&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/nationwide-risk-based-polychlorinated-biphenyls-pcbs-remediation-waste-disposal-approvals-under#nreca&quot;&gt;National Rural Electric Cooperative (NRECA)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;4301 Wilson Blvd.&lt;/td&gt;
+			&lt;td&gt;Arlington&lt;/td&gt;
+			&lt;td&gt;VA&lt;/td&gt;
+			&lt;td&gt;22203&lt;/td&gt;
+			&lt;td&gt;(703) 907-5746&lt;/td&gt;
+			&lt;td&gt;Alternate disposal&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/nationwide-risk-based-polychlorinated-biphenyls-pcbs-remediation-waste-disposal-approvals-under#uswag&quot;&gt;Utility Solid Waste Activities Group (USWAG)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;701 Pennsylvania Ave NW&lt;/td&gt;
+			&lt;td&gt;Washington&lt;/td&gt;
+			&lt;td&gt;DC&lt;/td&gt;
+			&lt;td&gt;20004&lt;/td&gt;
+			&lt;td&gt;(202) 508-5645&lt;/td&gt;
+			&lt;td&gt;Alternate disposal&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Maxymillian Technologies, Inc.&lt;/td&gt;
+			&lt;td&gt;1801 East St.&lt;/td&gt;
+			&lt;td&gt;Pittsfield&lt;/td&gt;
+			&lt;td&gt;MA&lt;/td&gt;
+			&lt;td&gt;01201&lt;/td&gt;
+			&lt;td&gt;(413) 499-3050&lt;/td&gt;
+			&lt;td&gt;Alternate technology&lt;/td&gt;
+			&lt;td&gt; 1&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diversified Scientific Services, Inc.&lt;/td&gt;
+			&lt;td&gt;657 Gallaher Road&lt;/td&gt;
+			&lt;td&gt;Kingston&lt;/td&gt;
+			&lt;td&gt;TN&lt;/td&gt;
+			&lt;td&gt;37763&lt;/td&gt;
+			&lt;td&gt;(865) 376-0084&lt;/td&gt;
+			&lt;td&gt;Alternate technology&lt;/td&gt;
+			&lt;td&gt;4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Hydrodec North America, LLC&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;2021 Steinway Blvd. SE&lt;/td&gt;
+			&lt;td&gt;Canton&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;44707&lt;/td&gt;
+			&lt;td&gt;(330) 454-8202&lt;/td&gt;
+			&lt;td&gt;Alternate technology&lt;/td&gt;
+			&lt;td&gt; multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TD*X&lt;/td&gt;
+			&lt;td&gt;423 West 300 South, Suite 200&lt;/td&gt;
+			&lt;td&gt;Salt Lake City&lt;/td&gt;
+			&lt;td&gt;UT&lt;/td&gt;
+			&lt;td&gt;84101&lt;/td&gt;
+			&lt;td&gt;(801) 649-2000&lt;/td&gt;
+			&lt;td&gt;Alternate technology&lt;/td&gt;
+			&lt;td&gt; 8&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PermaFix&lt;/td&gt;
+			&lt;td&gt;2025 Battelle Blvd., PO Box 969&lt;/td&gt;
+			&lt;td&gt;Richland&lt;/td&gt;
+			&lt;td&gt;WA&lt;/td&gt;
+			&lt;td&gt;99352&lt;/td&gt;
+			&lt;td&gt;(509) 375-7022&lt;/td&gt;
+			&lt;td&gt;Alternate technology&lt;/td&gt;
+			&lt;td&gt;10&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Environmental Protection Services, Inc.&lt;/td&gt;
+			&lt;td&gt;4 Industrial Park Drive, PO Box 710&lt;/td&gt;
+			&lt;td&gt;Wheeling&lt;/td&gt;
+			&lt;td&gt;WV&lt;/td&gt;
+			&lt;td&gt;26003-0091&lt;/td&gt;
+			&lt;td&gt;(304) 223-1590&lt;/td&gt;
+			&lt;td&gt;Chemical dechlorination&lt;/td&gt;
+			&lt;td&gt; 3&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors PPM, LLC&lt;/td&gt;
+			&lt;td&gt;1875 Forge St.&lt;/td&gt;
+			&lt;td&gt;Tucker&lt;/td&gt;
+			&lt;td&gt;GA&lt;/td&gt;
+			&lt;td&gt;30084&lt;/td&gt;
+			&lt;td&gt;(770) 934-0902&lt;/td&gt;
+			&lt;td&gt;Chemical dechlorination&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Safety Kleen Oil Recovery Co.&lt;/td&gt;
+			&lt;td&gt;601 Riley Road East&lt;/td&gt;
+			&lt;td&gt;Chicago&lt;/td&gt;
+			&lt;td&gt;IN&lt;/td&gt;
+			&lt;td&gt;46312&lt;/td&gt;
+			&lt;td&gt;(219) 397-1131&lt;/td&gt;
+			&lt;td&gt;Catalytic hydrogenation&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transformer Disposal Specialist Inc.&lt;/td&gt;
+			&lt;td&gt;1500 North Main, PO Box 428&lt;/td&gt;
+			&lt;td&gt;Tonkawa&lt;/td&gt;
+			&lt;td&gt;OK&lt;/td&gt;
+			&lt;td&gt;74653&lt;/td&gt;
+			&lt;td&gt;(800) 874-7067&lt;/td&gt;
+			&lt;td&gt;Chemical dechlorination&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC&lt;/td&gt;
+			&lt;td&gt;Rt 3 Box 65, Hwy 169&lt;/td&gt;
+			&lt;td&gt;North Coffeville&lt;/td&gt;
+			&lt;td&gt;KS&lt;/td&gt;
+			&lt;td&gt;67377&lt;/td&gt;
+			&lt;td&gt;(913) 491-4051&lt;/td&gt;
+			&lt;td&gt;Chemical dechlorination&lt;/td&gt;
+			&lt;td&gt; 7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chemical Waste Management Chemical Services&lt;/td&gt;
+			&lt;td&gt;1550 Balmer Road&lt;/td&gt;
+			&lt;td&gt;Model City&lt;/td&gt;
+			&lt;td&gt;NY&lt;/td&gt;
+			&lt;td&gt;14107&lt;/td&gt;
+			&lt;td&gt;(716) 754-8231&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 2&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Waste Management Inc.&lt;/td&gt;
+			&lt;td&gt;Alabama Inc. Box 55&lt;/td&gt;
+			&lt;td&gt;Emelle&lt;/td&gt;
+			&lt;td&gt;AL&lt;/td&gt;
+			&lt;td&gt;35459&lt;/td&gt;
+			&lt;td&gt;(205) 652-9721&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wayne Disposal Inc.&lt;/td&gt;
+			&lt;td&gt;49350 North I-94 Service Drive&lt;/td&gt;
+			&lt;td&gt;Belleville&lt;/td&gt;
+			&lt;td&gt;MI&lt;/td&gt;
+			&lt;td&gt;48111&lt;/td&gt;
+			&lt;td&gt;(313) 480-8085&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Republic Waste Services of Texas Limited (a.k.a. Republic CSC Landfill)&lt;/td&gt;
+			&lt;td&gt;101 Republic Way, PO Box 236&lt;/td&gt;
+			&lt;td&gt;Avalon&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;76623&lt;/td&gt;
+			&lt;td&gt;(800) 256-9278&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Waste Control Specialists, LLC&lt;/td&gt;
+			&lt;td&gt;9998 West Hwy 176, PO Box 1129&lt;/td&gt;
+			&lt;td&gt;Andrews&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;79714&lt;/td&gt;
+			&lt;td&gt;(888) 789-2783&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors Grassy Mountains, LLC&lt;/td&gt;
+			&lt;td&gt;PO Box 22750&lt;/td&gt;
+			&lt;td&gt;Salt Lake City&lt;/td&gt;
+			&lt;td&gt;UT&lt;/td&gt;
+			&lt;td&gt;84122&lt;/td&gt;
+			&lt;td&gt;(435) 884-8900&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 8&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chemical Waste Management&lt;/td&gt;
+			&lt;td&gt;35251 Old Skyline Road&lt;/td&gt;
+			&lt;td&gt;Kettleman City&lt;/td&gt;
+			&lt;td&gt;CA&lt;/td&gt;
+			&lt;td&gt;93239&lt;/td&gt;
+			&lt;td&gt;(559) 386-9711&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;U.S. Ecology, Inc.&lt;/td&gt;
+			&lt;td&gt;PO Box 578&lt;/td&gt;
+			&lt;td&gt;Beatty&lt;/td&gt;
+			&lt;td&gt;NV&lt;/td&gt;
+			&lt;td&gt;89003&lt;/td&gt;
+			&lt;td&gt;(800) 239-3943&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt; 9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chemical Waste Management of the Northwest&lt;/td&gt;
+			&lt;td&gt;17639 Cedar Spring Land Box 9&lt;/td&gt;
+			&lt;td&gt;Arlington&lt;/td&gt;
+			&lt;td&gt;OR&lt;/td&gt;
+			&lt;td&gt;97812&lt;/td&gt;
+			&lt;td&gt;(503) 454-2643&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt;10&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;U.S. Ecology Idaho&lt;/td&gt;
+			&lt;td&gt;PO Box 400, 20400 Lemley Road&lt;/td&gt;
+			&lt;td&gt;Grand View&lt;/td&gt;
+			&lt;td&gt;ID&lt;/td&gt;
+			&lt;td&gt;83624&lt;/td&gt;
+			&lt;td&gt;(208) 834-2275&lt;/td&gt;
+			&lt;td&gt;Chemical waste landfills&lt;/td&gt;
+			&lt;td&gt;10&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Veolia ES Technical Solutions, LLC&lt;/td&gt;
+			&lt;td&gt;230 Canton St.&lt;/td&gt;
+			&lt;td&gt;Stoughton&lt;/td&gt;
+			&lt;td&gt;MA&lt;/td&gt;
+			&lt;td&gt;02072&lt;/td&gt;
+			&lt;td&gt;(262) 243-8908&lt;/td&gt;
+			&lt;td&gt;Fluorescent lighting ballast recycling&lt;/td&gt;
+			&lt;td&gt; 1&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trans-Cycle Industries&lt;/td&gt;
+			&lt;td&gt;101 Parkway East Cogswell Industrial Park, PO Box 765&lt;/td&gt;
+			&lt;td&gt;Pell City&lt;/td&gt;
+			&lt;td&gt;AL&lt;/td&gt;
+			&lt;td&gt;35125&lt;/td&gt;
+			&lt;td&gt;(205) 338-9997&lt;/td&gt;
+			&lt;td&gt;Fluorescent lighting ballast recycling&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC.&lt;/td&gt;
+			&lt;td&gt;1672 E. Highland Road&lt;/td&gt;
+			&lt;td&gt;Twinsburg&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;44087&lt;/td&gt;
+			&lt;td&gt;(330) 425-3825&lt;/td&gt;
+			&lt;td&gt;Fluorescent lighting ballast recycling&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Copper Man Recycling LLC&lt;/td&gt;
+			&lt;td&gt;3818 W Mitchell St.&lt;/td&gt;
+			&lt;td&gt;Milwaukee&lt;/td&gt;
+			&lt;td&gt;WI&lt;/td&gt;
+			&lt;td&gt;53215&lt;/td&gt;
+			&lt;td&gt;(414) 645-0207&lt;/td&gt;
+			&lt;td&gt;Fluorescent lighting ballast recycling&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Superior Special Services&lt;/td&gt;
+			&lt;td&gt;5736 West Jefferson&lt;/td&gt;
+			&lt;td&gt;Phoenix&lt;/td&gt;
+			&lt;td&gt;AZ&lt;/td&gt;
+			&lt;td&gt;85043&lt;/td&gt;
+			&lt;td&gt;(800) 368-9095&lt;/td&gt;
+			&lt;td&gt;Fluorescent lighting ballast recycling&lt;/td&gt;
+			&lt;td&gt; 9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PPG Industries&lt;/td&gt;
+			&lt;td&gt;1300 PPG Drive&lt;/td&gt;
+			&lt;td&gt;Lake Charles&lt;/td&gt;
+			&lt;td&gt;LA&lt;/td&gt;
+			&lt;td&gt;70602&lt;/td&gt;
+			&lt;td&gt;(337) 708-4776&lt;/td&gt;
+			&lt;td&gt;Incineration&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;The DOW Chemical Company&lt;/td&gt;
+			&lt;td&gt;2310 N. Brazosport Blvd., B-819&lt;/td&gt;
+			&lt;td&gt;Freeport&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;77541&lt;/td&gt;
+			&lt;td&gt;(979) 238-2011&lt;/td&gt;
+			&lt;td&gt;Incineration&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Vulcan Chemicals&lt;/td&gt;
+			&lt;td&gt;PO Box 227&lt;/td&gt;
+			&lt;td&gt;Geismar&lt;/td&gt;
+			&lt;td&gt;LA&lt;/td&gt;
+			&lt;td&gt;70734&lt;/td&gt;
+			&lt;td&gt;(225) 473-5000&lt;/td&gt;
+			&lt;td&gt;Incineration&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors Environmental Services, Inc. (a.k.a. Clean Harbors Deer Park, LP)&lt;/td&gt;
+			&lt;td&gt;2027 Independence Parkway South&lt;/td&gt;
+			&lt;td&gt;LaPorte&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;77571&lt;/td&gt;
+			&lt;td&gt;(800) 282-0058&lt;/td&gt;
+			&lt;td&gt;Incinerators&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transformer Disposal Specialist Inc.&lt;/td&gt;
+			&lt;td&gt;1500 North Main, PO Box 428&lt;/td&gt;
+			&lt;td&gt;Tonkawa&lt;/td&gt;
+			&lt;td&gt;OK&lt;/td&gt;
+			&lt;td&gt;74653&lt;/td&gt;
+			&lt;td&gt;(800) 874-7067&lt;/td&gt;
+			&lt;td&gt;Incinerators&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Veolia Environmental Services (a.k.a.Veolia ES Technical Solutions, LLC)&lt;/td&gt;
+			&lt;td&gt;7665 Highway 73, PO Box 2563&lt;/td&gt;
+			&lt;td&gt;Port Arthur&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;77643&lt;/td&gt;
+			&lt;td&gt;(800) 306-2876&lt;/td&gt;
+			&lt;td&gt;Incinerators&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors Aragonite, LLC&lt;/td&gt;
+			&lt;td&gt;11600 N. Aptus Road&lt;/td&gt;
+			&lt;td&gt;Grantsville&lt;/td&gt;
+			&lt;td&gt;UT&lt;/td&gt;
+			&lt;td&gt;84029&lt;/td&gt;
+			&lt;td&gt;(435) 884-8100&lt;/td&gt;
+			&lt;td&gt;Incinerators&lt;/td&gt;
+			&lt;td&gt; 8&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TW Services, Inc.&lt;/td&gt;
+			&lt;td&gt;1606 North East 3rd St.Industrial Park&lt;/td&gt;
+			&lt;td&gt;Madison&lt;/td&gt;
+			&lt;td&gt;SD&lt;/td&gt;
+			&lt;td&gt;57042&lt;/td&gt;
+			&lt;td&gt;(605) 256-2600&lt;/td&gt;
+			&lt;td&gt;PCB electrical cable processing for metal recovery&lt;/td&gt;
+			&lt;td&gt; 8&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trans-Cycle Industries&lt;/td&gt;
+			&lt;td&gt;101 Parkway East Cogswell Industrial Park, PO Box 765&lt;/td&gt;
+			&lt;td&gt;Pell City&lt;/td&gt;
+			&lt;td&gt;AL&lt;/td&gt;
+			&lt;td&gt;35125&lt;/td&gt;
+			&lt;td&gt;(205) 338-9997&lt;/td&gt;
+			&lt;td&gt;PCB transformer decomissioning&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC.&lt;/td&gt;
+			&lt;td&gt;1302 West 38th St.&lt;/td&gt;
+			&lt;td&gt;Ashtabula&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;44004&lt;/td&gt;
+			&lt;td&gt;(440) 992-8665&lt;/td&gt;
+			&lt;td&gt;PCB transformer decomissioning&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC.&lt;/td&gt;
+			&lt;td&gt;1672 E. Highland Road&lt;/td&gt;
+			&lt;td&gt;Twinsburg&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;44087&lt;/td&gt;
+			&lt;td&gt;(330) 425-3825&lt;/td&gt;
+			&lt;td&gt;PCB transformer decomissioning&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transformer Disposal Specialist Inc.&lt;/td&gt;
+			&lt;td&gt;1500 North Main, PO Box 428&lt;/td&gt;
+			&lt;td&gt;Tonkawa&lt;/td&gt;
+			&lt;td&gt;OK&lt;/td&gt;
+			&lt;td&gt;74653&lt;/td&gt;
+			&lt;td&gt;(800) 874-7067&lt;/td&gt;
+			&lt;td&gt;PCB transformer decomissioning&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC&lt;/td&gt;
+			&lt;td&gt;Rt 3 Box 65, Hwy 169&lt;/td&gt;
+			&lt;td&gt;North Coffeville&lt;/td&gt;
+			&lt;td&gt;KS&lt;/td&gt;
+			&lt;td&gt;67377&lt;/td&gt;
+			&lt;td&gt;(913) 491-4051&lt;/td&gt;
+			&lt;td&gt;PCB transformer decomissioning&lt;/td&gt;
+			&lt;td&gt; 7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trans-Cycle Industries&lt;/td&gt;
+			&lt;td&gt;101 Parkway East Cogswell Industrial Park, PO Box 765&lt;/td&gt;
+			&lt;td&gt;Pell City&lt;/td&gt;
+			&lt;td&gt;AL&lt;/td&gt;
+			&lt;td&gt;35125&lt;/td&gt;
+			&lt;td&gt;(205) 338-9997&lt;/td&gt;
+			&lt;td&gt;Pipeline &amp;amp; compressor systems decontamination&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;South West Pipe Services&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;1700 Newman Road&lt;/td&gt;
+			&lt;td&gt;Alvin&lt;/td&gt;
+			&lt;td&gt;TX&lt;/td&gt;
+			&lt;td&gt;77512-2187&lt;/td&gt;
+			&lt;td&gt;(281) 824-0055&lt;/td&gt;
+			&lt;td&gt;Pipeline &amp;amp; compressor systems decontamination&lt;/td&gt;
+			&lt;td&gt; multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;California Pipe Recycling (CPR)&lt;/td&gt;
+			&lt;td&gt;5303 Rosedale Hwy&lt;/td&gt;
+			&lt;td&gt;Bakersfield&lt;/td&gt;
+			&lt;td&gt;CA&lt;/td&gt;
+			&lt;td&gt;93308&lt;/td&gt;
+			&lt;td&gt;(714) 349-7473&lt;/td&gt;
+			&lt;td&gt;Pipeline &amp;amp; compressor systems decontamination&lt;/td&gt;
+			&lt;td&gt; 9&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Florida Transformer, Inc.&lt;/td&gt;
+			&lt;td&gt;4509 State Hwy 83 North&lt;/td&gt;
+			&lt;td&gt;DeFuniak Springs&lt;/td&gt;
+			&lt;td&gt;FL&lt;/td&gt;
+			&lt;td&gt;32433&lt;/td&gt;
+			&lt;td&gt;(800) 726-5460&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery oven&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Florida Transformer, Inc.&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;4509 State Hwy 83 North&lt;/td&gt;
+			&lt;td&gt;DeFuniak Springs&lt;/td&gt;
+			&lt;td&gt;FL&lt;/td&gt;
+			&lt;td&gt;32433&lt;/td&gt;
+			&lt;td&gt;(800) 726-5460&lt;/td&gt;
+			&lt;td&gt;Chemical dechlorination&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G &amp;amp; S Technologies&lt;/td&gt;
+			&lt;td&gt;1800 Harrison Avenue&lt;/td&gt;
+			&lt;td&gt;Kearny&lt;/td&gt;
+			&lt;td&gt;NJ&lt;/td&gt;
+			&lt;td&gt;07032 &lt;/td&gt;
+			&lt;td&gt;(201) 998-9244&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 2&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Environmental Protection Services, Inc.&lt;/td&gt;
+			&lt;td&gt;4 Industrial Park Drive, PO Box 710&lt;/td&gt;
+			&lt;td&gt;Wheeling&lt;/td&gt;
+			&lt;td&gt;WV&lt;/td&gt;
+			&lt;td&gt;26003-0091&lt;/td&gt;
+			&lt;td&gt;(304) 223-1590&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 3&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transformer Salvage, Inc&lt;/td&gt;
+			&lt;td&gt;PO Box 888&lt;/td&gt;
+			&lt;td&gt;Dudley&lt;/td&gt;
+			&lt;td&gt;NC&lt;/td&gt;
+			&lt;td&gt;28333&lt;/td&gt;
+			&lt;td&gt;(919) 731-7732&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 4&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clean Harbors (PPM), LLC.&lt;/td&gt;
+			&lt;td&gt;1672 E. Highland Road&lt;/td&gt;
+			&lt;td&gt;Twinsburg&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;44087&lt;/td&gt;
+			&lt;td&gt;(330) 425-3825&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 5&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transformer Disposal Specialists, Inc.&lt;/td&gt;
+			&lt;td&gt;1500 North Main, PO Box 428&lt;/td&gt;
+			&lt;td&gt;Tonkawa&lt;/td&gt;
+			&lt;td&gt;OK&lt;/td&gt;
+			&lt;td&gt;74653&lt;/td&gt;
+			&lt;td&gt;(580) 628-5371&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Solomon Corporation&lt;/td&gt;
+			&lt;td&gt;103 W. Main St.&lt;/td&gt;
+			&lt;td&gt;Solomon&lt;/td&gt;
+			&lt;td&gt;KS  &lt;/td&gt;
+			&lt;td&gt;67480 &lt;/td&gt;
+			&lt;td&gt;(785) 655-2191&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;T &amp;amp; R Service Company&lt;/td&gt;
+			&lt;td&gt;PO Box 197, 310 West Hwy 34&lt;/td&gt;
+			&lt;td&gt;Colman&lt;/td&gt;
+			&lt;td&gt;SD&lt;/td&gt;
+			&lt;td&gt;57017&lt;/td&gt;
+			&lt;td&gt;(800) 843-7995&lt;/td&gt;
+			&lt;td&gt;Scrap metal recovery ovens&lt;/td&gt;
+			&lt;td&gt; 8&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Natural Fuel Gas Distribution Corporation  61(c)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PO Box 2081&lt;/td&gt;
+			&lt;td&gt;Erie&lt;/td&gt;
+			&lt;td&gt;PA&lt;/td&gt;
+			&lt;td&gt;16512&lt;/td&gt;
+			&lt;td&gt;(814) 871-8200&lt;/td&gt;
+			&lt;td&gt;Pipeline and Compressor Systems Decontamination&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Natural Fuel Gas Distribution Corporation 79(h)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PO Box 2081&lt;/td&gt;
+			&lt;td&gt;Erie&lt;/td&gt;
+			&lt;td&gt;PA&lt;/td&gt;
+			&lt;td&gt;16512&lt;/td&gt;
+			&lt;td&gt;(814) 871-8200&lt;/td&gt;
+			&lt;td&gt;Pipeline and Compressor Systems Decontamination&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Natural Fuel Gas Supply Corporation 61(c)  &lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PO Box 2081&lt;/td&gt;
+			&lt;td&gt;Erie&lt;/td&gt;
+			&lt;td&gt;PA&lt;/td&gt;
+			&lt;td&gt;16512&lt;/td&gt;
+			&lt;td&gt;(814) 871-8200&lt;/td&gt;
+			&lt;td&gt;Pipeline and Compressor Systems Decontamination&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/pcbs/multi-regional-polychlorinated-biphenyls-pcbs-disposal-approvals-under-title-40-code-federal&quot;&gt;Natural Fuel Gas Supply Corporation 79(h) &lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PO Box 2081&lt;/td&gt;
+			&lt;td&gt;Erie&lt;/td&gt;
+			&lt;td&gt;PA&lt;/td&gt;
+			&lt;td&gt;16512&lt;/td&gt;
+			&lt;td&gt;(814) 871-8200&lt;/td&gt;
+			&lt;td&gt;Pipeline and Compressor Systems Decontamination&lt;/td&gt;
+			&lt;td&gt;multi regional&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Fri, 19 Aug 2016 20:25:08 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">158095 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon Receiving Bay Water Removal Procedures</title>
+    <link>https://www.epa.gov/pcbs/solomon-receiving-bay-water-removal-procedures</link>
+    <description>&lt;p&gt;This procedure will be followed strictly as written to ensure compliance with TSCA and City of Prairie du Chien regulations. The purpose of this procedure is to ensure water removed from the receiving bay in Prairie du Chien is free from untested oil and other contaminates prior to being released to the storm water removal system.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-307971&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_sop-receivng_bay_water_management.pdf&quot; type=&quot;application/pdf; length=36699&quot; class=&quot;file-link&quot;&gt;Solomon Receiving Bay Water Removal Procedures (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 37 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 15:04:07 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157083 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon Operational Plan</title>
+    <link>https://www.epa.gov/pcbs/solomon-operational-plan</link>
+    <description>&lt;p&gt;This procedure defines the process for material handling of electrical equipment coming into or routed through the Prairie du Chien Facility. This material is defined by equipment type, PCB classification and intent of use (i.e. repair, recondition, recycle or disposal).&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-309493&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_operational_plan-070716.pdf-8-16-2016.pdf&quot; type=&quot;application/pdf; length=51078&quot; class=&quot;file-link&quot;&gt;Solomon Operational Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 51 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:59:58 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157081 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon Untested and Quality Control Procedure</title>
+    <link>https://www.epa.gov/pcbs/solomon-untested-and-quality-control-procedure</link>
+    <description>&lt;p&gt;Solomon Corporation has several quality control procedures in place to ensure compliance above and beyond what is required from TSCA regulations. This document will define the difference between untested and quality control units, and define how to handle each type of sample.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-307965&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_sop-untested_and_qc.pdf&quot; type=&quot;application/pdf; length=45408&quot; class=&quot;file-link&quot;&gt;Solomon Untested and Quality Control Procedure (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 45 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:55:23 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157079 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon Corporation Safety Manual</title>
+    <link>https://www.epa.gov/pcbs/solomon-corporation-safety-manual</link>
+    <description>&lt;p&gt;The Solomon Corporation Safety Manual outlines the responsibility and accountability for the administration of the HSE Program.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-307961&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_corporation_safety_manual.pdf&quot; type=&quot;application/pdf; length=3852178&quot; class=&quot;file-link&quot;&gt;Solomon Corporation Safety Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(560 pp, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:51:13 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157075 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Letter to Solomon, Notice of Deficiency on April 2016 Application for PCB Commercial Storage </title>
+    <link>https://www.epa.gov/pcbs/epa-letter-solomon-notice-deficiency-april-2016-application-pcb-commercial-storage</link>
+    <description>&lt;p&gt;This document is a notice of deficiency from EPA to Solomon concerning their April 2016 application for a permit to store PCBs and PCB containing items for disposal. This notice was given on April 27, 2016.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-307959&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/epa_ltr_to_solomon-_nod-04-27-16.pdf&quot; type=&quot;application/pdf; length=326704&quot; class=&quot;file-link&quot;&gt;EPA Letter to Solomon, Notice of Deficiency on April 2016 Application for PCB Commercial Storage (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 327 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:46:44 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157069 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon May 2016 Cover Letter for Revised Application</title>
+    <link>https://www.epa.gov/pcbs/solomon-may-2016-cover-letter-revised-application</link>
+    <description>&lt;p&gt;This is the cover letter from Solomon Corporation to USEPA Region 5, which states there is a revised copy of the PCB Storage Permit Application enclosed.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-309489&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_cover_letter-053116_003.pdf-8-16-2016.pdf&quot; type=&quot;application/pdf; length=243863&quot; class=&quot;file-link&quot;&gt;Solomon May 2016 Cover Letter for Revised Application  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 244 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:41:47 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157063 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Solomon May 2016 Commercial Storage Permit Application</title>
+    <link>https://www.epa.gov/pcbs/solomon-may-2016-commercial-storage-permit-application</link>
+    <description>&lt;p&gt;This is Solomon&#039;s application for a permit to store PCBs and PCB containing items for disposal. The permit would allow Solomon Corporation to receive equipment and waste that is either known or assumed PCB, or equipment whose PCB content is unknown at receipt. Solomon Corporation would test and store equipment for disposal at an authorized disposal facility as detailed in the permit application.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-309487&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/solomon_application_-_053116.pdf-8-16-2016.pdf&quot; type=&quot;application/pdf; length=1333153&quot; class=&quot;file-link&quot;&gt;Solomon May 2016 Application for Permit to Store PCBs and PCB Containing Items for Disposal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(51 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 10 Aug 2016 14:38:02 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">157061 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:41:31, expires @ 2017-01-26 05:41:31, lifetime 12 hours -->

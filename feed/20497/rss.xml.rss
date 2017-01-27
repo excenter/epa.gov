@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/20497/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Smart Growth</title>
+    <link>https://www.epa.gov/feed/20497/rss.xml</link>
+    <description>Updated Smart Growth content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/20497/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Table of Policy Options for Smart Growth Fixes for Climate Adaptation and Resilience</title>
+    <link>https://www.epa.gov/smartgrowth/table-policy-options-smart-growth-fixes-climate-adaptation-and-resilience</link>
+    <description>&lt;p&gt;This table of the policy options included in &lt;a href=&quot;/smartgrowth/smart-growth-fixes-climate-adaptation-and-resilience&quot;&gt;&lt;em&gt;Smart Growth Fixes for Climate Adaptation and Resilience: Changing Land Use and Building Codes and Policies to Prepare for Climate Change&lt;/em&gt;&lt;/a&gt; is sortable by &lt;strong&gt;chapter&lt;/strong&gt; (Overall Strategies, Adapting to Flooding and Extreme Precipitation, Adapting to Sea Level Rise, Adapting to Extreme Heat, Adapting to Drought, Adapting to Wildfire), &lt;strong&gt;level&lt;/strong&gt; (Minor Adjustment, Major Modification, or Wholesale Change), and &lt;strong&gt;type of policy change&lt;/strong&gt; (Collaboration/Partnerships, Education/Outreach, Incentives, Land Preservation, Pilot Program, Planning/Mapping, Regulatory). The table also lists other impacts to which a policy option might be relevant in addition to the main impact it addresses.&lt;/p&gt;
+
+&lt;p&gt;For more information on these policies, including examples of how they have been implemented in communities, read &lt;a href=&quot;/smartgrowth/smart-growth-fixes-climate-adaptation-and-resilience&quot;&gt;&lt;em&gt;Smart Growth Fixes for Climate Adaptation and Resilience&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Chapter&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Level&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Type of Policy Change&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Policy Change&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Other Relevant Impacts&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div&gt;Use regional climate change, population demographics, transportation demand, and related projections to understand where community assets could be vulnerable.&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;Incorporate projections into the comprehensive plan to show climate adaptation is a priority.&lt;/li&gt;
+					&lt;li&gt;Mainstream climate change and smart growth into comprehensive, master, capital improvement, and hazard mitigation plans.&lt;/li&gt;
+					&lt;li&gt;Update land use maps to identify vulnerable lands. Designate less-vulnerable areas and encourage development there.&lt;/li&gt;
+					&lt;li&gt;Require new municipal buildings to be in well-connected, safer areas.&lt;/li&gt;
+					&lt;li&gt;Establish clear annexation policies that take climate change projections into account.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Align land use, hazard mitigation, transportation, capital improvement, and other plans so all plans are working toward the same goals.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Incentives; Regulatory&lt;/td&gt;
+			&lt;td&gt;Create a list of desired development elements in more-vulnerable areas, and encourage or require developers to implement a certain number of them.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Incentives&lt;/td&gt;
+			&lt;td&gt;Evaluate development incentives to see if they encourage development in particularly vulnerable areas.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Conduct a safe growth audit.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach&lt;/td&gt;
+			&lt;td&gt;Improve public education about the risks of developing in sensitive areas.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach&lt;/td&gt;
+			&lt;td&gt;Assess and address the needs of people who might be particularly vulnerable and/or are likely to be most affected, especially if they live in higher-risk areas.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Use scenario planning to inform local planning and policies.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div&gt;Adopt flexible zoning.&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;Adopt elements of dynamic zoning, or building flexibility into codes.&lt;/li&gt;
+					&lt;li&gt;Adopt a floating zone or overlay zone.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Incorporate fiscal impact analysis into development review, and make sure it includes costs related to climate change impacts.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Allow a mix of uses.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping; Incentives&lt;/td&gt;
+			&lt;td&gt;Incorporate into the land use map, comprehensive plan, and economic development plan locations where it makes sense to encourage economic growth. Encourage businesses to locate there.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Collaboration/ Partnerships; Regulatory&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div&gt;Encourage on-site renewable energy generation and storage.&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;Amend codes or adopt ordinances to allow renewable energy on individual properties and in communal installations.&lt;/li&gt;
+					&lt;li&gt;Use public-private partnerships to promote renewable energy.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Incorporate into capital projects features that enhance resilience and bring multiple other benefits.&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Extreme heat, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Overall Strategies&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping; Regulatory&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div&gt;Plan for post-disaster redevelopment before a disaster strikes.&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;Create a post-disaster redevelopment plan.&lt;/li&gt;
+					&lt;li&gt;Adopt a post-disaster redevelopment ordinance.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;Flooding and extreme precipitation, Sea level rise, Drought, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Pilot Program&lt;/td&gt;
+			&lt;td&gt;Pilot a sustainable streetscape program with green infrastructure features.&lt;/td&gt;
+			&lt;td&gt;Sea level rise, Extreme heat&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach; Incentives&lt;/td&gt;
+			&lt;td&gt;Help private property owners better manage stormwater through education and incentives.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Land Preservation&lt;/td&gt;
+			&lt;td&gt;Design open space in flood plains for multiple amenities.&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require new development or redevelopment to capture and infiltrate the first 1 or 1.5 inches of rain.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Update any Clean Water Act Section 402 National Pollution Discharge Elimination System permits to consider climate change.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Adopt the 500-year flood plain as the &quot;locally regulated flood plain.&quot;&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Restrict development in areas buffering water bodies or wetlands.&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Adopt green and complete streets design standards.&lt;/td&gt;
+			&lt;td&gt;Extreme heat&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Land Preservation&lt;/td&gt;
+			&lt;td&gt;Acquire properties at risk of flooding, use the land for infiltration, and help the property owners resettle in the community.&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Collaboration/ Partnerships&lt;/td&gt;
+			&lt;td&gt;Enter into a community-based public-private partnership to install and maintain green infrastructure.&lt;/td&gt;
+			&lt;td&gt;Extreme heat&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Pilot Program&lt;/td&gt;
+			&lt;td&gt;Create an overarching framework for water-related initiatives.&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Establish elevation requirements with design guidelines for streets and infrastructure.&lt;/td&gt;
+			&lt;td&gt;Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Adopt a site plan requirement that requires all new development to retain all stormwater on-site.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Create sustainable funding for stormwater infrastructure.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flooding and Extreme Precipitation&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach&lt;/td&gt;
+			&lt;td&gt;Develop a municipal stormwater design manual that illustrates context-appropriate green infrastructure.&lt;/td&gt;
+			&lt;td&gt;Sea level rise, Extreme heat&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Add projected sea level rise to flood zone hazard maps that are based exclusively on historical events.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Land Preservation&lt;/td&gt;
+			&lt;td&gt;Designate and protect &quot;transition zones&quot; near tidal marshes.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Change the definition of &quot;normal high water&quot; for land adjacent to tidal waters to change regulatory setbacks.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping; Regulatory&lt;/td&gt;
+			&lt;td&gt;Incorporate sea level rise impacts into all future land use planning and regulations using projections rather than past trends.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Strengthen building codes in coastal zones by requiring additional adaptation strategies.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Modify the steep-slope ordinance to account for slopes exposed to increased moisture due to changes in precipitation and sea level rise.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Create an overlay district where flood regulations and standards would apply, or establish context-sensitive shoreline classifications with appropriate standards.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require building-level design for disassembly/ adaptation planning.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation; Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Pilot Program&lt;/td&gt;
+			&lt;td&gt;Designate and protect working waterfronts.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Implement rolling development restrictions.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sea Level Rise&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Begin planning for managed retreat from the shoreline.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation; Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Incentives&lt;/td&gt;
+			&lt;td&gt;Offer financial or procedural incentives to use passive survivability.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Program; Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Map &quot;hot spots,&quot; and conduct pilot programs in these places to reduce heat.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach&lt;/td&gt;
+			&lt;td&gt;
+				&lt;div&gt;Support the people and neighborhoods that are most vulnerable and least able to adapt on their own.&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;Designate cooling centers in neighborhoods with particularly vulnerable populations.&lt;/li&gt;
+					&lt;li&gt;Identify vulnerable populations, and develop an outreach plan for them.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Incentives&lt;/td&gt;
+			&lt;td&gt;Offer incentives to plant and protect trees.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Include reducing heat island effects as an objective in complete streets projects.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Incentives; Regulatory&lt;/td&gt;
+			&lt;td&gt;Require or encourage green or reflective roofs on new buildings with little or no roof slope.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Revise the zoning ordinance to allow urban agriculture.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require shade trees in all municipal projects and private parking lots.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Adopt a tree canopy or urban forest master plan and implementing ordinances.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Incentives; Regulatory&lt;/td&gt;
+			&lt;td&gt;Require or offer incentives for using cool paving in municipal capital improvement projects and private parking lots.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Amend site plan requirements and design guidelines to encourage light or permeable paving, shade, green alleys, vegetation, and tree canopy.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Adopt an energy conservation code to establish minimum requirements for energy efficiency in buildings, or adopt a stretch or reach code.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Extreme Heat&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Incorporate passive survivability into the building code.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Encourage compact development policies such as walkable block sizes, transit-supportive density, and high intersection connectivity.&lt;/td&gt;
+			&lt;td&gt;Extreme heat, Wildfire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Education/ Outreach&lt;/td&gt;
+			&lt;td&gt;Recommend the use of drought-tolerant plants or xeriscaping as part of water conservation, landscaping, and water waste ordinances.&lt;/td&gt;
+			&lt;td&gt;Extreme heat&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Incentives&lt;/td&gt;
+			&lt;td&gt;Promote the use of WaterSense-rated plumbing fixtures through incentives.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Implement a water impact fee that reflects each property&#039;s consumption.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Incentives&lt;/td&gt;
+			&lt;td&gt;Offer rebates or other incentives to encourage drought-tolerant plants, residential rainwater harvesting, water-efficient fixtures, or other water-saving practices.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Mandate graywater-ready residential development.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Pilot Program&lt;/td&gt;
+			&lt;td&gt;Adopt a citywide policy promoting water recycling for nonpotable uses.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require use of water-efficient fixtures through the building code.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Enact a building energy and water benchmarking ordinance.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Enact a water conservation or water waste ordinance to restrict the type of landscaping on new development and public properties.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Mandate rainwater harvesting for all new commercial construction.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Drought&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Collaboration/ Partnerships&lt;/td&gt;
+			&lt;td&gt;Integrate water resource management with land use plans to make sure the community has enough water for planned growth.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Collaboration/ Partnerships&lt;/td&gt;
+			&lt;td&gt;Establish a task force to review building codes, development patterns, and other relevant issues.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Planning/ Mapping&lt;/td&gt;
+			&lt;td&gt;Incorporate wildfire scenario planning into local planning.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Strengthen requirements for building and roof materials to be fire-resistant and green.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require sites for new emergency facilities to be outside of high-risk areas, well-connected, and easy to access.&lt;/td&gt;
+			&lt;td&gt;Flooding and precipitation, Sea level rise&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Modest Adjustment&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require new developments to submit a fire protection plan during site plan review.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Incentives; Regulatory&lt;/td&gt;
+			&lt;td&gt;Encourage or require compact development through comprehensive plans, area plans, and zoning codes.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;In subdivision regulations, require clustered development that is well-connected to existing development and walkable.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Adopt wildfire hazard overlay districts with development regulations based on factors like slope, structure, and fuel hazards.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Major Modification&lt;/td&gt;
+			&lt;td&gt;Collaboration/ Partnerships&lt;/td&gt;
+			&lt;td&gt;Consider adopting the Firewise Communities Program.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Regulatory&lt;/td&gt;
+			&lt;td&gt;Require subdivisions to have a highly connected street network with multiple connection points to the external street network.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wildfire&lt;/td&gt;
+			&lt;td&gt;Wholesale Change&lt;/td&gt;
+			&lt;td&gt;Land Preservation&lt;/td&gt;
+			&lt;td&gt;Acquire and maintain open space between dense forested areas and residential development.&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Tue, 10 Jan 2017 21:25:10 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">168671 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Smart Growth Fixes for Climate Adaptation and Resilience</title>
+    <link>https://www.epa.gov/smartgrowth/smart-growth-fixes-climate-adaptation-and-resilience</link>
+    <description>&lt;h2&gt;Changing Land Use and Building Codes and Policies to Prepare for Climate Change&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Cover of Smart Growth Fixes for Climate Adaptation and Resilience&quot; title=&quot;Cover of Smart Growth Fixes for Climate Adaptation and Resilience&quot; height=&quot;580&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2017-01/smart_growth_fixes_climate_adaptation_cover.jpg&quot; /&gt;&lt;/span&gt;Local governments are seeking ways to adapt to current and projected climate change impacts to better protect lives and property and ensure they can continue to offer a good quality of life and a thriving economy now and in the future. &lt;em&gt;Smart Growth Fixes for Climate Adaptation and Resilience: Changing Land Use and Building Codes and Policies to Prepare for Climate Change&lt;/em&gt; (2017) can help local government officials, staff, and boards find strategies to prepare for climate change impacts through land use and building policies.&lt;/p&gt;
+
+&lt;p&gt;The policy options described in this publication bring multiple short- and long-term environmental, economic, health, and societal benefits that can not only prepare a community and its residents and businesses for the impacts of climate change, but also improve everyday life.&lt;/p&gt;
+
+&lt;p&gt;The strategies can be worked into a community’s regular processes and policies—for example, through scheduled updates to zoning and building codes. This approach allows incremental change, which might be easier for some communities because it costs little or nothing extra compared to “business as usual” and gives communities the opportunity to adjust codes based on the most up-to-date climate observations and projections.&lt;/p&gt;
+
+&lt;p&gt;To help readers determine which policy and code changes might be appropriate for their community’s capacity, desire, and need to make changes, the options in each chapter are categorized as &lt;em&gt;modest adjustments&lt;/em&gt;, &lt;em&gt;major modifications&lt;/em&gt;, and &lt;em&gt;wholesale changes&lt;/em&gt;. These categorizations are meant as basic guidance on the effort needed to implement a policy. What might be a modest adjustment for one town could be a major modification in another.&lt;/p&gt;
+
+&lt;p&gt;Because an important question to determine in building resilience is &lt;em&gt;resilience of what to what&lt;/em&gt;, the publication is divided by impacts that communities are likely to face as the climate continues to change:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Chapter 2: Overcoming Barriers to Climate Adaptation&lt;/strong&gt; discusses potential social and legal barriers.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 3: Overall Strategies &lt;/strong&gt;discusses smart growth strategies that help adapt to multiple climate change impacts and that can be a foundation for the policies in subsequent chapters.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 4: Adapting to Flooding and Extreme Precipitation &lt;/strong&gt;includes code and policy options that deal mainly with riverine flooding and managing stormwater to prevent flooding and water pollution. This chapter includes green infrastructure strategies that can also help communities cope with extreme heat and other policy options that are relevant to sea level rise.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 5: Adapting to Sea Level Rise&lt;/strong&gt; includes strategies that are specifically related to higher storm surges and other impacts from sea level rise.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 6: Adapting to Extreme Heat &lt;/strong&gt;discusses strategies to protect people from heat waves, including green building and energy efficiency.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 7: Adapting to Drought&lt;/strong&gt; includes water conservation strategies for individual buildings as well as entire communities.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Chapter 8: Adapting to Wildfire&lt;/strong&gt; focuses on smart growth and green building strategies to protect neighborhoods from fire damage.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Most chapters include quick tips called “practice pointers,” examples of communities implementing the policies, resources, and a “Guidance and Metrics” section that references relevant credit summary language and metrics from up to three community-scale sustainability rating systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/table-policy-options-smart-growth-fixes-climate-adaptation-and-resilience&quot;&gt;Click here for a sortable table of the policy options included in the publication&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Learn more about &lt;a href=&quot;/smartgrowth/smart-growth-and-climate-change&quot;&gt;smart growth and climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;em&gt;Smart Growth Fixes for Climate Adaptation and Resilience&lt;/em&gt; is based on the model of two previous publications that give local governments specific changes they can consider to get the type of development they want:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/smartgrowth/essential-smart-growth-fixes-communities&quot;&gt;Essential Smart Growth Fixes for Urban and Suburban Zoning Codes&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/smartgrowth/essential-smart-growth-fixes-communities&quot;&gt;Essential Smart Growth Fixes for Rural Planning, Zoning, and Development Codes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346205&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/smart_growth_fixes_climate_adaptation_resilience.pdf&quot; type=&quot;application/pdf; length=4637830&quot; class=&quot;file-link&quot;&gt;Smart Growth Fixes for Climate Adaptation and Resilience (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(94 pp, 5 MB, 
+  2017)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    231-R-17-001  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Jan 2017 21:18:44 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">168249 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Making a Visible Difference: Eastern Band of Cherokee Indians Fact Sheet</title>
+    <link>https://www.epa.gov/smartgrowth/making-visible-difference-eastern-band-cherokee-indians-fact-sheet</link>
+    <description>&lt;p&gt;Making a Visible Difference Community Fact Sheet.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-325521&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/cherokee_factsheet-1-2.pdf&quot; type=&quot;application/pdf; length=954007&quot; class=&quot;file-link&quot;&gt;Making a Visible Difference: Eastern Band of Cherokee Indians Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 954 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 20 Oct 2016 17:21:54 +0000</pubDate>
+ <dc:creator>npetricc</dc:creator>
+ <guid isPermaLink="false">163173 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequently Asked Questions (FAQs) About Local Foods, Local Places</title>
+    <link>https://www.epa.gov/smartgrowth/frequently-asked-questions-faqs-about-local-foods-local-places</link>
+    <description>&lt;div&gt;On this page&lt;/div&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;#q1&quot;&gt;Are grant funds strictly for planning purposes, or can brick and mortar projects be considered as well?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q2&quot;&gt;Must projects be located on tribal land, the federally designated Appalachia region, or the federally designated Delta region to be eligible for LFLP funding?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q3&quot;&gt;Should I combine my application into a single file with the letters of interest?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Q4&quot;&gt;What should I do if I am unable to save the information I enter into the fillable form?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q5&quot;&gt;Does the applicant have to be a single community, or could a region apply for the planning assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q6&quot;&gt;Is a neighborhood within a city eligible for the assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q7&quot;&gt;What is the anticipated start date of assistance, if received?&lt;span&gt; &lt;/span&gt;How long is the technical assistance expected to last?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q8&quot;&gt;Our city received LFLP assistance in 2016. Can we apply for another neighborhood this year?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q9&quot;&gt;Are there specific outcomes or reporting that are expected as part of this program?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q10&quot;&gt;If an applicant has recently been awarded another federal grant, would that disqualify the applicant for this assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q11&quot;&gt;Is there a cost to the communities selected for technical assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q12&quot;&gt;Can an entity apply for more than one neighborhood or town in the region as long as they are separate applications? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q13&quot;&gt;Can applicants also apply to other EPA technical assistance programs?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;More questions and answers will be posted on this page throughout the application period (Oct. 5 through Nov. 6, 2016).&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q1&quot; name=&quot;q1&quot;&gt;&lt;/a&gt;1. Are grant funds strictly for planning purposes, or can brick and mortar projects be considered as well?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/local-foods-local-places&quot;&gt;Local Foods, Local Places&lt;/a&gt; is not a grant program. Communities &lt;strong&gt;will not&lt;/strong&gt; receive funds directly from EPA. Selected communities will receive access to technical experts who will work with them to hold a two-day convening that brings together stakeholders in the community to create an action plan for creating more vibrant downtowns and neighborhoods by promoting local foods. We encourage participation from federal and state agencies and other potential funding partners in the workshops, so that communities can learn about how they might apply for additional resources to help them accomplish their vision, but those funds are not guaranteed.&lt;/p&gt;
+
+&lt;p&gt;Local Foods, Local Places assistance is strictly for planning purposes and cannot be used for brick and mortar projects.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q2&quot; name=&quot;q2&quot;&gt;&lt;/a&gt;2. Must projects be located on tribal land, the federally designated Appalachia region, or the federally designated Delta region to be eligible for LFLP funding?&lt;/h2&gt;
+
+&lt;p&gt;No. Projects located anywhere in the United States are eligible for this assistance. Projects on tribal land or in designated colonias, Appalachia, or the Delta will receive special consideration during the selection process.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q3&quot; name=&quot;q3&quot;&gt;&lt;/a&gt;3. Should I combine my application into a single file with the letters of interest? &lt;/h2&gt;
+
+&lt;p&gt;No. The application and letters of interest must be submitted as two separate files. The application must be submitted in the original (not scanned) format. Multiple letters of interest should be combined into a single file.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;Q4&quot; name=&quot;Q4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;4. &lt;/strong&gt;&lt;b&gt;What should I do if I am unable to save the information I enter into the fillable form?&lt;/b&gt;&lt;/h2&gt;
+
+&lt;p&gt;You must use the latest version of the &lt;a href=&quot;https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html&quot;&gt;free Adobe Acrobat Reader software&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to save the fillable form. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;q5&quot; name=&quot;q5&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;5. Does the applicant have to be a single community, or could a region apply for the planning assistance?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Regional organizations are eligible to apply. However, the application should request assistance for a single neighborhood, town, or city and identify a strong local partner. Countywide projects will be considered only if they are aimed at improving &lt;span lang=&quot;EN&quot; xml:lang=&quot;EN&quot;&gt;main streets and mixed-use neighborhoods&lt;/span&gt;. Multi-county or state-level projects are not eligible for this assistance.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q6&quot; name=&quot;q6&quot;&gt;&lt;/a&gt;6. &lt;/strong&gt;Is a neighborhood within a city eligible for the assistance?&lt;/h2&gt;
+
+&lt;p&gt;Yes, communities of any size are eligible. Larger cities in particular often choose to focus on a specific neighborhood&#039;s retail corridor or central business district.&lt;/p&gt;
+
+&lt;div&gt;
+	&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+	&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q7&quot; name=&quot;q7&quot;&gt;&lt;/a&gt;7. What is the anticipated start date of assistance, if received?&lt;span&gt; &lt;/span&gt;How long is the technical assistance expected to last?&lt;/strong&gt;&lt;/h2&gt;
+
+	&lt;p&gt;Workshops will likely occur from April to early October 2017. The exact timing will depend on the community’s preference and availability and the facilitators’ schedules. Three planning calls generally begin seven to 10 weeks before the workshop, and three followup calls generally are completed eight to 12 weeks after the workshop.&lt;/p&gt;
+
+	&lt;div&gt;
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q8&quot; name=&quot;q8&quot;&gt;&lt;/a&gt;8. Our city received LFLP assistance in 2016. Can we apply for another neighborhood this year?&lt;/strong&gt;&lt;/h2&gt;
+
+		&lt;p&gt;Any community in the United States is eligible to apply even if the community has received assistance in the past. If applicable, the application should explain how additional assistance will build on the prior work.  &lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+			&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q9&quot; name=&quot;q9&quot;&gt;&lt;/a&gt;9. Are there specific outcomes or reporting that are expected as part of this program?&lt;/strong&gt;&lt;/h2&gt;
+
+			&lt;p&gt;There are no formal reporting or other requirements after the technical assistance process is completed. However, we like to remain in contact with our technical assistance recipients, and we hope communities will let us know as they implement parts of their action plans.&lt;/p&gt;
+
+			&lt;div&gt;
+				&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+				&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q10&quot; name=&quot;q10&quot;&gt;&lt;/a&gt;10. If an applicant has recently been awarded another federal grant, would that disqualify the applicant for this assistance?&lt;/strong&gt;&lt;/h2&gt;
+
+				&lt;p&gt;No. If applicable, the application should explain how this assistance would complement the work to be completed with the help of other federal funding.&lt;/p&gt;
+
+				&lt;div&gt;
+					&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+					&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q11&quot; name=&quot;q11&quot;&gt;&lt;/a&gt;11. Is there a cost to the communities selected for technical assistance?&lt;/strong&gt;&lt;/h2&gt;
+
+					&lt;p&gt;Most communities incur little to no cost aside from staff time devoted to planning and participating in the workshop. The program does not provide any funds directly to communities. The community is responsible for securing a venue for the workshop, although most communities are able to identify a no-cost venue. In addition, the technical assistance award does not include funds for refreshments at the workshop, so any refreshments are provided at the community’s discretion and cost.  &lt;/p&gt;
+
+					&lt;div&gt;
+						&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+						&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q12&quot; name=&quot;q12&quot;&gt;&lt;/a&gt;12. Can an entity apply for more than one neighborhood or town in the region as long as they are separate applications? &lt;/strong&gt;&lt;/h2&gt;
+
+						&lt;p&gt;Yes, applicants can submit multiple, separate applications for consideration. However, no more than one application from a single neighborhood or town will be selected for assistance. &lt;/p&gt;
+
+						&lt;div&gt;
+							&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+							&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;q13&quot; name=&quot;q13&quot;&gt;&lt;/a&gt;13. Can applicants also apply to other EPA technical assistance programs?&lt;/strong&gt;&lt;/h2&gt;
+
+							&lt;p&gt;Yes, applicants can apply to more than one program. However, applicants will receive assistance from no more than one program in 2017. &lt;/p&gt;
+
+							&lt;div&gt;
+								&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+								&lt;hr /&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 17 Oct 2016 13:55:34 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">162781 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequently Asked Questions (FAQs) About Healthy Places for Healthy People</title>
+    <link>https://www.epa.gov/smartgrowth/frequently-asked-questions-faqs-about-healthy-places-healthy-people</link>
+    <description>&lt;div&gt;On this page&lt;/div&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;#q1&quot;&gt;Is there grant funding associated with this program?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q2&quot;&gt;Are there examples of applications that were successful in the past?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q3&quot;&gt;What kind of final product will my community receive through this assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q4&quot;&gt;Is this program open to communities that are not in the Appalachian region?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q5&quot;&gt;Does the applicant have to be a single community, or could a region apply for the planning assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q6&quot;&gt;Can an entity apply for more than one neighborhood or town in the region as long as they are separate applications? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q7&quot;&gt;Are there specific outcomes or reporting that are expected as part of this program?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q8&quot;&gt;If an applicant has recently been awarded another federal grant, would that disqualify the applicant for this assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q9&quot;&gt;Is there a cost to the communities selected for technical assistance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q10&quot;&gt;Can applicants also apply to other EPA technical assistance programs?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q11&quot;&gt;Should I combine my application into a single file with the letter(s) of support?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q12&quot;&gt;What should I do if I am unable to save the information I enter into the fillable form?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;More questions and answers will be posted on this page throughout the application period (Oct. 5 through Nov. 6, 2016). &lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q1&quot; name=&quot;q1&quot;&gt;&lt;/a&gt;1. Is there grant funding associated with this program?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/healthy-places-healthy-people&quot;&gt;Healthy Places for Healthy People&lt;/a&gt; is a planning assistance program, so selected communities will receive access to technical experts who will work with them to hold a two-day convening that brings together stakeholders in the community to create an action plan for creating more walkable, healthy, vibrant downtowns and neighborhoods. Communities &lt;strong&gt;will not&lt;/strong&gt; receive funds directly from EPA. We encourage participation from federal and state agencies and other potential funding partners in the workshops, so that communities can learn about how they might apply for additional resources to help them accomplish their vision, but those funds are not guaranteed.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q2&quot; name=&quot;q2&quot;&gt;&lt;/a&gt;2. Are there examples of applications that were successful in the past?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/healthy-places-healthy-people&quot;&gt;Healthy Places for Healthy People&lt;/a&gt; is a new program, so this is the first time that communities can apply, and we do not have any examples of successful applications yet. However, Williamson, West Virginia, and Middlesboro, Kentucky, are two examples of communities where a Federally Qualified Health Center (in Williamson) and a nonprofit hospital (in Middlesboro) have been very involved in downtown revitalization efforts that will improve health outcomes. Our &lt;a href=&quot;/smartgrowth/healthy-places-healthy-people&quot;&gt;Healthy Places for Healthy People&lt;/a&gt; webpage has short descriptions of these two communities, and both will be discussed during our &lt;a href=&quot;/smartgrowth/smart-growth-webinars-videos-and-podcasts#Upcoming&quot;&gt;webinar&lt;/a&gt; on October 20, 2016.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q3&quot; name=&quot;q3&quot;&gt;&lt;/a&gt;3. What kind of final product will my community receive through this assistance?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/healthy-places-healthy-people&quot;&gt;Healthy Places for Healthy People&lt;/a&gt; is a new program, so we do not have any examples of final products yet. For an example of the final product from these types of workshops, you can read &lt;a href=&quot;http://www.usda.gov/documents/lflp-cap-williamson.pdf&quot;&gt;the action plan that Williamson, West Virginia (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 540 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;created as part of the &lt;a href=&quot;/smartgrowth/local-foods-local-places&quot;&gt;Local Foods, Local Places&lt;/a&gt; program.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q4&quot; name=&quot;q4&quot;&gt;&lt;/a&gt;4. Is this program open to communities that are not in the Appalachian region?&lt;/h2&gt;
+
+&lt;p&gt;Yes, this opportunity is open to communities that are outside the Appalachian region. Rural, economically distressed communities, including those in Appalachia, might receive special consideration, but communities anywhere in the United States can apply and are eligible to receive assistance.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q5&quot; name=&quot;q5&quot;&gt;&lt;/a&gt;5. Does the applicant have to be a single community, or could a region apply for the planning assistance?&lt;/h2&gt;
+
+&lt;p&gt;Regional organizations are eligible to apply. However, the application should request assistance for a single neighborhood, town, or city and identify a strong local partner. Countywide projects will be considered only if they are aimed at improving main streets and mixed-use neighborhoods. Multi-county or state-level projects are not eligible for this assistance.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q6&quot; name=&quot;q6&quot;&gt;&lt;/a&gt;6. Can an entity apply for more than one neighborhood or town in the region as long as they are separate applications? &lt;/h2&gt;
+
+&lt;p&gt;Yes, applicants can submit multiple, separate applications for consideration. However, no more than one application from a single neighborhood or town will be selected for assistance.  &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q7&quot; name=&quot;q7&quot;&gt;&lt;/a&gt;7. Are there specific outcomes or reporting that are expected as part of this program? &lt;/h2&gt;
+
+&lt;p&gt;There are no formal reporting or other requirements after the technical assistance process is completed. However, we like to remain in contact with our technical assistance recipients, and we hope communities will let us know as they implement parts of their action plans.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q8&quot; name=&quot;q8&quot;&gt;&lt;/a&gt;8. If an applicant has recently been awarded another federal grant, would that disqualify the applicant for this assistance?&lt;/h2&gt;
+
+&lt;p&gt;No. If applicable, the application should explain how this assistance would complement the work to be completed with the help of other federal funding.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q9&quot; name=&quot;q9&quot;&gt;&lt;/a&gt;9. Is there a cost to the communities selected for technical assistance? &lt;/h2&gt;
+
+&lt;p&gt;Most communities incur little to no cost aside from staff time devoted to planning and participating in the workshop. The program does not provide any funds directly to communities. The community is responsible for securing a venue for the workshop, although most communities are able to identify a no-cost venue. In addition, the technical assistance award does not include funds for refreshments at the workshop, so any refreshments are provided at the community’s discretion and cost.  &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q10&quot; name=&quot;q10&quot;&gt;&lt;/a&gt;10. Can applicants also apply to other EPA technical assistance programs? &lt;/h2&gt;
+
+&lt;p&gt;Yes, applicants can apply to more than one program. However, applicants will receive assistance from no more than one program in 2017. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q11&quot; name=&quot;q11&quot;&gt;&lt;/a&gt;11. Should I combine my application into a single file with the letter(s) of support? &lt;/h2&gt;
+
+&lt;p&gt;No. The application and letter(s) of support must be submitted as two separate files. The application must be submitted in the original (not scanned) format. Multiple letters of support should be combined into a single file.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;q12&quot; name=&quot;q12&quot;&gt;&lt;/a&gt;12. What should I do if I am unable to save the information I enter into the fillable form?&lt;/h2&gt;
+
+&lt;p&gt;You must use the latest version of the &lt;a href=&quot;https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html&quot;&gt;free Adobe Acrobat Reader software&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to save the fillable form.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 14 Oct 2016 18:30:08 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">162733 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Places for Healthy People 2016 Application</title>
+    <link>https://www.epa.gov/smartgrowth/healthy-places-healthy-people-2016-application</link>
+    <description>&lt;p&gt;The application period for &lt;a href=&quot;/smartgrowth/healthy-places-healthy-people&quot;&gt;Healthy Places for Healthy People&lt;/a&gt; assistance closed on November 6, 2016. The form is available here for reference only. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-325975&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/2016_hp2_loi_fillable_form_final_reader_extended_version.pdf&quot; type=&quot;application/pdf; length=2463406&quot; class=&quot;file-link&quot;&gt;2016-2017: Healthy Places for Healthy People-Fillable Application Form   (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 04 Oct 2016 15:50:14 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">161937 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Cool &amp; Connected Fall 2016 Application</title>
+    <link>https://www.epa.gov/smartgrowth/cool-connected-fall-2016-application</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Webinar&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;An October 20, 2016, webinar provided information on applying for Cool &amp;amp; Connected, Healthy Places for Healthy People, and Local Foods, Local Places. &lt;a href=&quot;https://youtu.be/26cpHumnfc8&quot;&gt;Watch the recording of the webinar&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The application period for the fall 2016 round of planning assistance from &lt;a href=&quot;/smartgrowth/cool-connected&quot;&gt;Cool &amp;amp; Connected&lt;/a&gt; closed on November 6, 2016. The information below is for reference only.&lt;/p&gt;
+
+&lt;p&gt;Through Cool &amp;amp; Connected, a planning program sponsored by the U.S. Department of Agriculture&#039;s Rural Utilities Service, the Appalachian Regional Commission, and EPA&#039;s Office of Sustainable Communities, a team of experts will help community members develop strategies and an action plan for using broadband service to promote smart, sustainable community development. &lt;/p&gt;
+
+&lt;p&gt;Broadband access can provide new opportunities for people and businesses. A growing number of communities have combined broadband service with other local assets such as cultural and recreational amenities to attract and retain investment and people, including young people. This can help diversify local economies. &lt;/p&gt;
+
+&lt;p&gt;Such efforts typically require planning among community leaders, businesses, and internet service providers. The Cool &amp;amp; Connected program will provide assistance to this end, helping communities take advantage of broadband service to create walkable, connected, economically successful main streets and small-town neighborhoods. &lt;/p&gt;
+
+&lt;h3&gt;Eligibility &lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Any community representative is welcome to submit an application to participate in Cool &amp;amp; Connected. &lt;/li&gt;
+	&lt;li&gt;Special consideration will be given to small towns and rural communities that face economic challenges. &lt;/li&gt;
+	&lt;li&gt;Special consideration will be given to communities in places where USDA has provided loans or grants in support of broadband services.&lt;/li&gt;
+	&lt;li&gt;Your community should have existing or anticipated broadband service that can be leveraged for community development. If your community does not yet have broadband service, you may wish to consider other federal programs. See a &lt;a href=&quot;http://www.rd.usda.gov/programs-services/all-programs/telecom-programs&quot;&gt;list of USDA’s Rural Utilities Service programs&lt;/a&gt;. &lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;How to Apply&lt;/h3&gt;
+
+&lt;p&gt;Download and complete the fillable PDF form at the bottom of this page. You must use the latest version of the &lt;a href=&quot;https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html&quot;&gt;free Adobe Acrobat Reader software&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to save the fillable form. Save the form and name your file with the name of your community and your last name. For example: Wensleydale TN Smithers  &lt;/p&gt;
+
+&lt;p&gt;Letters of support from partner organizations are not required, but you may submit them if you wish. Any letters of support must be emailed along with the original (not scanned) application form by the application due date. Please save all letters of support in a single file (separate from the application form) with the name of your community, your last name, and the letters &quot;LOS.&quot; For example: Wensleydale TN Smithers LOS&lt;/p&gt;
+
+&lt;p&gt;Email your application and optional letter(s) of support to &lt;a href=&quot;mailto:Fendley.Ed@epa.gov&quot;&gt;Fendley.Ed@epa.gov&lt;/a&gt; by&lt;strong&gt; 11:59 p.m. Eastern Time on November 6, 2016&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We will contact all applicant communities by early 2017.&lt;/p&gt;
+
+&lt;h3&gt;What to include in your application&lt;/h3&gt;
+
+&lt;p&gt;You should describe needs and challenges related to downtown revitalization or other place-based development, and any areas of interest related to how your community’s broadband service could contribute. As best possible, please address: &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;What is your community&#039;s demographic makeup and its economic condition?&lt;/li&gt;
+	&lt;li&gt;What challenges do you face in seeking to revitalize your community&#039;s downtown or centrally located neighborhoods?&lt;/li&gt;
+	&lt;li&gt;What actions has your community taken so far to overcome these challenges?&lt;/li&gt;
+	&lt;li&gt;What initial ideas do you have for using broadband to help make your downtown and centrally located neighborhoods places where people want to live, work, and visit? You do not have to have all the answers at this point, but we would like to hear about your aspirations.&lt;/li&gt;
+	&lt;li&gt;What other partners would be involved in creating and implementing your Cool &amp;amp; Connected action plan? These could include public agencies and institutions, local businesses, schools and colleges, nongovernmental organizations, and local broadband service providers. Would local elected officials be involved?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Questions?&lt;/h3&gt;
+
+&lt;p&gt;Please contact Ed Fendley at &lt;a href=&quot;mailto:Fendley.Ed@epa.gov&quot;&gt;Fendley.Ed@epa.gov&lt;/a&gt; with any questions.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-320999&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/2016_cool-connected_application_form.pdf&quot; type=&quot;application/pdf; length=2460995&quot; class=&quot;file-link&quot;&gt;Cool &amp;amp; Connected 2016-2017 Application Form (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 13:20:53 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">161511 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Local Foods, Local Places 2016-2017 Application</title>
+    <link>https://www.epa.gov/smartgrowth/local-foods-local-places-2016-2017-application</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Webinar&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;&lt;span&gt;An October 20, 2016, webinar provided information on applying for Local Foods, Local Places; Cool &amp;amp; Connected; and Healthy Places for Healthy People. &lt;/span&gt;&lt;a href=&quot;https://youtu.be/26cpHumnfc8&quot;&gt;Watch the recording of the webinar&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The application for this round of planning assistance from Local Foods, Local Places closed on November 6, 2016. The information here is for reference only.&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/smartgrowth/local-foods-local-places&quot;&gt;Local Foods, Local Places&lt;/a&gt; helps communities create more livable neighborhoods by promoting local foods. The program is supported by the U.S. Department of Agriculture, the U.S. Environmental Protection Agency, the Centers for Disease Control and Prevention, the U.S. Department of Transportation, the U.S. Department of Housing and Urban Development, the Appalachian Regional Commission, and the Delta Regional Authority.&lt;/p&gt;
+
+&lt;p&gt;Local Foods, Local Places aims to support projects that do all of the following:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Create livable, walkable, economically vibrant main streets and mixed-use neighborhoods.&lt;/li&gt;
+	&lt;li&gt;Boost economic opportunities for local farmers and main street businesses.&lt;/li&gt;
+	&lt;li&gt;Improve access to healthy, local food, especially among disadvantaged populations.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See the main &lt;a href=&quot;/smartgrowth/local-foods-local-places&quot;&gt;Local Foods, Local Places&lt;/a&gt; page to learn about past projects.&lt;/p&gt;
+
+&lt;p&gt;The Local Foods, Local Places program will provide selected communities planning assistance that centers around a two-day community workshop. At the workshop, a team of experts will help community members develop an implementable action plan that promotes local food and neighborhood revitalization. &lt;a href=&quot;http://www.usda.gov/wps/portal/usda/knowyourfarmer?navid=kyf-community&quot;&gt;Click here to see examples of action plans from past community workshops organized through this assistance&lt;/a&gt;. This assistance is not a grant, and the program does not provide money directly to communities.&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Eligibility and Special Considerations&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Eligible applicants include local governments, Indian tribes, and nonprofit institutions and organizations proposing to work in a neighborhood, town, or city of any size anywhere in the United States. We expect that many of the communities we select will be economically challenged and in the early phases of their efforts to promote local foods and community revitalization. We also expect that at least two of the selected communities will be designated colonias in the United States-Mexico border region.&lt;/p&gt;
+
+&lt;p&gt;Communities that are selected for the program and are located in the federally designated Appalachia region or the federally designated Delta region might be eligible for additional implementation support beyond what is provided through the planning assistance.&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Download and complete the fillable PDF form at the bottom of this page. You must use the latest version of the &lt;a href=&quot;https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html&quot;&gt;free Adobe Acrobat Reader software&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; to save the fillable form. Please save the form using the file name: City State PointOfContact’sLastName LOI. For example: Washington DC Smith LOI  &lt;/p&gt;
+
+&lt;p&gt;Letters of support are not required in order to be selected for the Local Foods, Local Places Program. However, some applicants might wish to have partner organizations or local elected officials submit letters verifying statements in the application or pledging to support the process and implementation of the resulting action plan. All letters of support must be emailed along with the original (not scanned) application form by the application due date. Please send all letters of support in a single file (separate from the application form) using the file name: City State PointOfContact’sLastName LOS. For example: Washington DC Smith LOS&lt;/p&gt;
+
+&lt;p&gt;Do not include any additional materials (e.g., city master plan, market strategies, event flyers, etc.).&lt;/p&gt;
+
+&lt;p&gt;Email the completed application and optional letter(s) of support to &lt;a href=&quot;mailto:lflp@epa.gov&quot;&gt;lflp@epa.gov&lt;/a&gt; by &lt;strong&gt;11:59 p.m. Eastern Time on November 6, 2016.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We will contact all selected and non-selected communities upon completion of the review process in early 2017.&lt;/p&gt;
+
+&lt;p&gt;If you have questions about the Local Foods, Local Places Program or the application process, please read the &lt;a href=&quot;/smartgrowth/frequently-asked-questions-faqs-about-local-foods-local-places&quot;&gt;Frequently Asked Questions (FAQ) About Local Foods, Local Places&lt;/a&gt;. If your question is not answered there, please email &lt;a href=&quot;mailto:lflp@epa.gov&quot;&gt;lflp@epa.gov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-327391&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/2016_lflp_loi_fillable_form_final_reader_extended_version_-_green.pdf&quot; type=&quot;application/pdf; length=2500734&quot; class=&quot;file-link&quot;&gt;2016-2017 Local Foods Local Places Fillable Application  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 27 Sep 2016 14:47:38 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">161229 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Places for Healthy People</title>
+    <link>https://www.epa.gov/smartgrowth/healthy-places-healthy-people</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#2016rfa&quot;&gt;2016 Request for Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;background&quot; name=&quot;background&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-full caption&quot; style=&quot;width:325px;&quot;&gt;&lt;img alt=&quot;The Women&amp;#039;s Health Center in downtown Middlesboro, Kentucky&quot; height=&quot;240&quot; width=&quot;325&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-10/middlesboro1.jpg&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;The Appalachian Regional Healthcare system located satellite services, including a Women&amp;rsquo;s Health Center, in formerly vacant and underused buildings in downtown Middlesboro, Kentucky. Hospital-affiliated services provide much-needed care and patient education while encouraging other development downtown. &amp;nbsp;&lt;/span&gt;&lt;/span&gt;Healthy Places for Healthy People helps communities create walkable, healthy, economically vibrant places by engaging with their health care facility partners such as community health centers (including Federally Qualified Health Centers), nonprofit hospitals, and other health care facilities. The pilot phase of this program is sponsored by EPA and the &lt;a href=&quot;https://www.arc.gov/index.asp&quot;&gt;Appalachian Regional Commission&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Health care facilities can promote preventive health care and help create vibrant, thriving communities by:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Providing primary care and preventive services to those that do not have access to care.&lt;/li&gt;
+	&lt;li&gt;Promoting healthy behaviors and lifestyles through activities such as supporting downtown farmers markets, co-op markets, and community gardens&lt;br /&gt;
+		that provide access to fresh, healthy, local food.&lt;/li&gt;
+	&lt;li&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-full caption&quot; style=&quot;width:291px;&quot;&gt;&lt;img alt=&quot;Williamson Health Wellness Center in downtown Williamson, WV&quot; height=&quot;350&quot; width=&quot;291&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-10/williamson.jpg&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;The Williamson Health and Wellness Center, a Federally Qualified Health Center in Williamson, West Virginia, is in a formerly vacant building on the town&amp;#39;s main street. It provides health care; coordinates healthy-eating and active-living programs including a farmers market, community garden, and walking programs; and supports entrepreneurs starting food and health care businesses.&lt;/span&gt;&lt;/span&gt;Creating physical activity programs and supporting sidewalks, bike paths, trails, and parks in the community that promote active living.&lt;/li&gt;
+	&lt;li&gt;Contributing to economic development and downtown revitalization by locating health centers, hospital facilities, and associated programs in walkable, compact neighborhoods and central business districts that are accessible via a range of transportation options. &lt;/li&gt;
+	&lt;li&gt;Supporting local entrepreneurs who have business ideas that will contribute to a healthy community and create economic opportunities for residents.&lt;/li&gt;
+	&lt;li&gt;Working with partners and stakeholders in various sectors to use health as an economic driver for a local, thriving economy and a healthy community.&lt;/li&gt;
+	&lt;li&gt;Fostering collaboration between workforce development and economic development initiatives to renovate and repurpose abandoned downtown buildings into new health center sites, affordable housing, retail, and other community assets.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Health care facilities can be particularly helpful partners in rural communities and small towns, where their economic impact in catalyzing downtown revitalization can be especially important. See our &lt;a href=&quot;/smartgrowth/smart-growth-small-towns-and-rural-communities&quot;&gt;Smart Growth in Small Towns and Rural Communities&lt;/a&gt; page to learn more about how smart growth strategies can help rural places strengthen their economies, improve quality of life, and protect the environment and human health.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;2016rfa&quot; name=&quot;2016rfa&quot;&gt;&lt;/a&gt;2016 Request for Applications&lt;/h2&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Webinar&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;An October 20, 2016, webinar provided information on applying for Healthy Places for Healthy People, Cool &amp;amp; Connected, and Local Foods, Local Places. &lt;a href=&quot;https://youtu.be/26cpHumnfc8&quot;&gt;Watch the recording of the webinar&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The application period for the 2016 round of Healthy Places for Healthy People closed on November 6, 2016. The information below is for reference only.&lt;/p&gt;
+
+&lt;p&gt;Healthy Places for Healthy People will provide selected communities with expert planning assistance that centers around a two-day community workshop. A team of experts will help community members develop an implementable action plan that will focus on health as an economic driver and catalyst for downtown and neighborhood revitalization.&lt;/p&gt;
+
+&lt;h3&gt;Eligibility and Special Considerations&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Eligible applicants include local government representatives, health care facilities, local health departments, neighborhood associations, main street districts, nonprofit organizations, tribes and others proposing to work in a neighborhood, town, or city located anywhere in the United States. &lt;/li&gt;
+	&lt;li&gt;Applications that include representatives from both the community (local government or non-governmental organization) and a health care facility will receive special consideration.&lt;/li&gt;
+	&lt;li&gt;Applications that demonstrate existing or new partnerships among multi-sector partners and a health care facility to promote community revitalization and economic development will be given special consideration.&lt;/li&gt;
+	&lt;li&gt;Special consideration will be given to communities that are economically distressed and/or underserved, including those in rural Appalachia.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;How to Apply&lt;/h3&gt;
+
+&lt;p&gt;Submit an application by completing the fillable PDF form (&lt;a href=&quot;/smartgrowth/healthy-places-healthy-people-2016-application&quot;&gt;click here for the form&lt;/a&gt;). Please save the form using the file name: City State PointOfContact’sLastName Application. For example: Washington DC Smith Application&lt;/p&gt;
+
+&lt;p&gt;Do not include any additional materials (city master plan, event flyers, etc.).&lt;/p&gt;
+
+&lt;p&gt;Letters of support are not required in order to be selected for the Healthy Places for Healthy People Program. However, you may submit letters of support from partner organizations or elected officials that affirm the goals of the project and confirm their participation in the process and implementation of the resulting action plan. All letters of support must be emailed along with the original (not scanned) application form by the application due date. Please send all letters of support in a single file (separate from the application form) using the file name: City State PointOfContact’sLastName LOS. For example: Washington DC Smith LOS&lt;/p&gt;
+
+&lt;p&gt;Your application should give us a clear sense of how this assistance would help you and your partners revitalize your downtown through health-related initiatives that take advantage of health care facilities in your community. In your application, you should answer these questions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;What is the project’s geographic scope (e.g., neighborhood, city-wide)? What is the area’s demographic makeup and economic condition?&lt;/li&gt;
+	&lt;li&gt;What challenges does your community face around downtown or neighborhood revitalization?&lt;/li&gt;
+	&lt;li&gt;What health-related challenges does your community face?&lt;/li&gt;
+	&lt;li&gt;How do you propose to leverage health care facilities as an economic anchor and catalyst for downtown/neighborhood revitalization?&lt;/li&gt;
+	&lt;li&gt;How would a community workshop through Healthy Places for Healthy People help you achieve your goals?&lt;/li&gt;
+	&lt;li&gt;What other health-oriented partners will be involved (in addition to the health care partner that is applying for assistance, if applicable)?&lt;/li&gt;
+	&lt;li&gt;What other partners will be involved in planning and implementing your action plan, such as public agencies and institutions, local development districts/regional development organizations, community colleges/universities, non-governmental organizations, foundations, and businesses? Will elected officials be supportive?&lt;/li&gt;
+	&lt;li&gt;What assurances can you make that you will implement the action plan that our technical assistance team will help you develop?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Email the completed application and optional letters of support file to &lt;a href=&quot;mailto:HP2@epa.gov&quot;&gt;HP2@epa.gov&lt;/a&gt; by &lt;strong&gt;11:59 p.m. Eastern Time on November 6, 2016&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;We will contact all selected and non-selected communities upon completion of the review process in early 2017.&lt;/p&gt;
+
+&lt;p&gt;If you have questions about the Healthy Places for Healthy People Program or the application process, please read the &lt;a href=&quot;/smartgrowth/frequently-asked-questions-faqs-about-healthy-places-healthy-people&quot;&gt;Frequently Asked Questions (FAQs) About Healthy Places for Healthy People&lt;/a&gt;. If your question is not answered there, email &lt;a href=&quot;mailto:HP2@epa.gov&quot;&gt;HP2@epa.gov&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Sep 2016 18:16:52 +0000</pubDate>
+ <dc:creator>msusman</dc:creator>
+ <guid isPermaLink="false">161067 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:41:33, expires @ 2017-01-26 05:41:33, lifetime 12 hours -->

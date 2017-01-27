@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/71333/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Tolerances</title>
+    <link>https://www.epa.gov/feed/71333/rss.xml</link>
+    <description>Updated Pesticide Tolerances content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/71333/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>NAFTA Guidance Document on Data Requirements for Tolerances on Imported Commodities in the United States and Canada</title>
+    <link>https://www.epa.gov/pesticide-tolerances/nafta-guidance-document-data-requirements-tolerances-imported-commodities</link>
+    <description>&lt;p&gt;The purpose of this document is to provide detailed guidance on data requirements that meet the North American Free Trade Agreement (NAFTA) standards for the establishment of pesticide import tolerances or maximum residue levels (MRL) in Canada and the United States. This document has been developed consistently with the goals of NAFTA. A common NAFTA approach to import tolerances/MRLs will promote trade between North America and the rest of the world. This guidance began as a project of the three NAFTA countries; however, due to new regulations and resulting resource constraints in Mexico, it is at this time only a bilateral effort by the United States and Canada. &lt;a href=&quot;/pesticide-tolerances/nafta-guidance-data-requirements-pesticide-import-tolerances-questions-answers&quot;&gt;View questions and answers related to the guidance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-212225&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/nafta-guidance.pdf&quot; type=&quot;application/pdf; length=194387&quot; class=&quot;file-link&quot;&gt;NAFTA Guidance Document on Data Requirements for Tolerances on Imported Commodities in the United States and Canada (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(31 pp, 194 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 09 Oct 2015 14:43:18 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">120535 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>NAFTA Guidance on Data Requirements for Pesticide Import Tolerances: Questions &amp; Answers</title>
+    <link>https://www.epa.gov/pesticide-tolerances/nafta-guidance-data-requirements-pesticide-import-tolerances-questions-answers</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Resources&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;Questions On Pesticides?&lt;br /&gt;&lt;a href=&quot;http://npic.orst.edu/&quot;&gt;National Pesticide Information Center (NPIC)&lt;/a&gt;  1-800-858-7378 &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/pesticides/international-activities-related-pesticides&quot;&gt;International activities related to pesticides&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/pesticide-registration&quot;&gt;Pesticide registration&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On April 5, 2006, EPA announced in the &lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2006-04-05/html/E6-4948.htm&quot;&gt;Federal Register&lt;/a&gt; the availability of a guidance document describing the data requirements for establishing pesticide import tolerances in Canada and the United States. Mexico is not participating in the program at this time. A proposed version of this document was released for public comment on April 26, 2003. The revised &lt;a href=&quot;/pesticide-tolerances/nafta-guidance-document-data-requirements-tolerances-imported-commodities&quot;&gt;NAFTA guidance document&lt;/a&gt; is available on EPA’s website and in the docket at www.regulations.gov, &lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OPP-2002-0281-0002&quot;&gt;docket ID EPA-HQ-OPP-2002-0281&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Answers to questions the public may have about the NAFTA guidance document are provided below.&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;On This Page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#whatisimport&quot;&gt;What is an import tolerance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#based&quot;&gt;Are import tolerances based on different safety standards than regular U.S. tolerances?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#legalauthority&quot;&gt;What is the legal authority for setting and enforcing tolerances in the United States?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#necessary&quot;&gt;Why are import tolerances necessary?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#dataneeded&quot;&gt;What data are needed to obtain an import tolerance, and how do the data requirements differ from those for a regular tolerance?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#purpose&quot;&gt;What is the purpose of the NAFTA import tolerance guidance document?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#removerequirements&quot;&gt;Does the NAFTA import tolerance guidance reduce or remove the requirements for obtaining an import tolerance in the United States, or for obtaining a separate MRL in Canada or Mexico?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#jointreview&quot;&gt;What are joint review projects, and how do they help promote trade?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#codex&quot;&gt;If a Codex MRL has been established, will fewer studies be needed to support an import tolerance/MRL in the NAFTA countries?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#newstudies&quot;&gt;Are new studies required to fulfill the new NAFTA import tolerance data requirements?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#newimport&quot;&gt;What are the most important studies required by the NAFTA countries to support new import tolerances/MRLs?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#zonemaps&quot;&gt;What are zone maps and how are they used?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#onecountry&quot;&gt;When an import tolerance is established in one NAFTA country, does it automatically apply in all three NAFTA countries?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#newnafta&quot;&gt;Does the new NAFTA import tolerance guidance change the food safety protections afforded U.S. consumers?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;whatisimport&quot; name=&quot;whatisimport&quot;&gt;&lt;/a&gt;What is an Import Tolerance?&lt;/h2&gt;
+
+&lt;p&gt;A U.S. tolerance (called a Maximum Residue Limit or MRL in Canada and many other countries) is the maximum residue level of a pesticide permitted in or on food or feed grown in the United States or imported into the United States from other countries. EPA usually establishes a tolerance, or an exemption from the requirement of a tolerance, when it registers a pesticide for use on a food or feed commodity in the United States. When no U.S. registration exists, interested persons may submit a petition requesting that EPA establish an import tolerance (or tolerance exemption) for a pesticide residue on a food or feed commodity, which will allow the food or feed treated with the pesticide in foreign countries to be lawfully imported into the United States. The term, “import tolerance,” then, is used as a convenience to refer to a tolerance that exists in the United States for which there is no accompanying U.S. registration, but that meets U.S. food safety standards.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;based&quot; name=&quot;based&quot;&gt;&lt;/a&gt;Are Import Tolerances &lt;strong&gt;B&lt;/strong&gt;ased on Different Safety Standards Than Regular U.S. Tolerances?&lt;/h2&gt;
+
+&lt;p&gt;There is no statutory or regulatory distinction between an import tolerance and any other tolerance established by EPA. Both must meet all current statutory requirements, including the safety standard (“reasonable certainty of no harm”) for pesticide residues in food, set forth in Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA), as amended by the Food Quality Protection Act of 1996 (FQPA).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;legalauthority&quot; name=&quot;legalauthority&quot;&gt;&lt;/a&gt;What is the Legal Authority for Setting and Enforcing Tolerances in the United States?&lt;/h2&gt;
+
+&lt;p&gt;EPA regulates pesticides under two major statutes, the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the FFDCA. FIFRA requires that pesticides be registered or licensed by EPA before they may be sold or distributed for use in the United States. Section 408 of the FFDCA authorizes EPA to establish, modify, or maintain tolerances or tolerance exemptions for pesticide residues in or on food. Any food with pesticide residues not covered by a tolerance or tolerance exemption, and any food with residues in excess of the tolerance, may be subject to regulatory action, including seizure, by the U.S. government. Pesticide tolerances and exemptions are enforced by the U.S. Food and Drug Administration (for most foods), the U.S. Department of Agriculture (for meat, poultry, and some egg products), and the individual states.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;necessary&quot; name=&quot;necessary&quot;&gt;&lt;/a&gt;Why are Import Tolerances Necessary?&lt;/h2&gt;
+
+&lt;p&gt;Food may not be lawfully sold in the United States or imported into the United States from other countries if the food contains detectable pesticide residues above the level permitted by a tolerance, or if the food contains residues at any level if no tolerance or tolerance exemption has been established.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;dataneeded&quot; name=&quot;dataneeded&quot;&gt;&lt;/a&gt;What Data are Needed to Obtain an Import Tolerance, and How do the Data Requirements Differ From Those for a Regular Tolerance?&lt;/h2&gt;
+
+&lt;p&gt;Import tolerances generally require the same types of data as are needed to establish tolerances associated with U.S. registrations, including product chemistry, residue chemistry, and toxicology data, as well as data representative of actual growing conditions. EPA needs these data to assess the potential dietary risk and make the required safety finding. The Agency does not require worker exposure, residential exposure, or environmental fate and effects data to establish import tolerances since these data are not needed to assess dietary risk, although these data would be required if the pesticide were to be registered for use in the United States.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;purpose&quot; name=&quot;purpose&quot;&gt;&lt;/a&gt;What is the Purpose of the NAFTA Import Tolerance Guidance Document?&lt;/h2&gt;
+
+&lt;p&gt;The NAFTA guidance document details the product chemistry, residue chemistry, and toxicology data requirements that meet NAFTA standards for the establishment of import tolerances or maximum residue levels (MRLs) in Canada and the United States. This common approach to establishing import tolerances is expected to promote trade between North America and the rest of the world.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;removerequirements&quot; name=&quot;removerequirements&quot;&gt;&lt;/a&gt;Does the NAFTA Import Tolerance Guidance Reduce or Remove the Requirements for Obtaining an Import Tolerance in the United States, or for Obtaining a Separate MRL in Canada or Mexico?&lt;/h2&gt;
+
+&lt;p&gt;No, the guidance document does not change U.S. data requirements for obtaining import tolerances in this country. Also, tolerance petitioners still must submit separate import tolerance/MRL petitions to the United States and Canada and must adhere to each country’s specific formatting and other requirements. The common set of data requirements presented in the guidance document, however, typically will result in a reduced data set, as well as a more efficient and cost effective review process for obtaining import tolerances in North America. The United States and Canada encourage the concurrent submission of petitions so that joint review projects can be initiated. Joint review of petitions will help harmonize the setting of import tolerances/MRLs in the United States and Canada, promoting free trade within North America.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;jointreview&quot; name=&quot;jointreview&quot;&gt;&lt;/a&gt;What are Joint Review Projects, and How do They Help Promote Trade?&lt;/h2&gt;
+
+&lt;p&gt;The United States and Canada are conducting joint reviews of certain selected pesticides, the results of which apply to both countries. For example, an acceptable joint Canadian-U.S. toxicology data review would satisfy the data requirements for both countries. Reviews of studies conducted under this agreement also would be applicable to import tolerances in both countries.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;codex&quot; name=&quot;codex&quot;&gt;&lt;/a&gt;If a Codex MRL has been Established, Will Fewer Studies be Needed to Support an Import Tolerance/MRL in the NAFTA Countries?&lt;/h2&gt;
+
+&lt;p&gt;Codex is a joint Food and Agriculture Organization (FAO)/World Health Organization (WHO) food standards program which develops internationally agreed upon food standards, including Maximum Residue Limits (MRLs). If a Codex MRL has been established, the United States and Canada may conduct a more limited review of the residue chemistry data supporting a proposed import tolerance/MRL, under certain circumstances. The United States and Canada are more likely to adopt import tolerances/MRLs similar to Codex MRLs if MRLs for the pesticide are already established on other commodities with a contemporary, robust database. Standard data and review requirements would be applied where exposure and/or risk to any subpopulation from the pesticide is high. Mexico accepts Codex MRLs on commodities for domestic consumption. A detailed description of how the United States may consider Codex MRLs when establishing import tolerances can be found in Unit VIII of the EPA document, &lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/FR-2000-06-01/html/00-13708.htm&quot;&gt;Guidance on Pesticide Import Tolerances and Residue Data for Imported Food&lt;/a&gt;, published in the Federal Register on June 1, 2000 (65 FR 35069).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;newstudies&quot; name=&quot;newstudies&quot;&gt;&lt;/a&gt;Are New Studies Required to Fulfill the New NAFTA Import Tolerance Data Requirements?&lt;/h2&gt;
+
+&lt;p&gt;The import tolerance/MRL petitioner may not need to conduct new studies to fulfill the NAFTA data requirements. Interested parties may support a new import tolerance/MRL in the United States and Canada with studies developed for a registration in another country and/or for a Codex MRL, provided that the petitioner is able to demonstrate to each country the applicability of the studies to the requirements in the guidance document. The petitioner or interested party is encouraged to consult with the United States and Canada before submitting existing studies. All studies must be formatted in accordance with the requirements of the country to which the package is being submitted. The United States and Canada strongly recommend that petitioners attach a copy of the study evaluation by the registering country or by Codex to the study report as an appendix.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;newimport&quot; name=&quot;newimport&quot;&gt;&lt;/a&gt;What are the Most Important Studies Required by the NAFTA Countries to Support New Import Tolerances/MRLs?&lt;/h2&gt;
+
+&lt;p&gt;The most significant data required for establishing new import tolerances/MRLs are crop field trials. In addition, for pesticides not already registered, toxicology data requirements also are significant.&lt;/p&gt;
+
+&lt;p&gt;Field trials are conducted to determine the maximum residue that may be expected in or on a raw agricultural commodity as a result of the legal use of a pesticide. The number of field trials recommended in the NAFTA guidance document was derived from the number required for a tolerance associated with a U.S. registration and also takes into consideration the maximum consumption of the commodity as a percentage of the United States or Canadian diet, and the maximum relative amount imported into the United States or Canada from outside of North America. Field trials generally will need to be conducted in all countries whose exports comprise at least 5% of the total amount of a specific commodity imported into either of the countries where a tolerance is being sought. For complete information on field trials and other data requirements, please see the NAFTA guidance document.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;zonemaps&quot; name=&quot;zonemaps&quot;&gt;&lt;/a&gt;What are Zone Maps and How are They Used?&lt;/h2&gt;
+
+&lt;p&gt;Zone maps divide North America into regions where growing conditions are similar. Thus, field trials conducted within the same zone are considered interchangeable. The United States and Canada use zone maps to determine where field trials should be conducted for tolerances/MRLs associated with domestic pesticide registrations.&lt;/p&gt;
+
+&lt;p&gt;In the future, if other countries develop zone maps, and crop cultural practices, climatic conditions, and pesticide use patterns within the mapped foreign regions are demonstrated to be substantially similar to those in North American regions, then the United States and Canada may consider substituting North American data with data from corresponding regions within other countries.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;onecountry&quot; name=&quot;onecountry&quot;&gt;&lt;/a&gt;When an Import Tolerance is Established in One NAFTA Country, Does it Automatically Apply in All Three NAFTA Countries?&lt;/h2&gt;
+
+&lt;p&gt;No, however, the NAFTA countries will attempt to harmonize tolerances/MRLs with each other to the maximum extent possible, consistent with the laws of each country and their obligations under World Trade Organization agreements. Our mutual objective is to work toward greater harmonization in international fora.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;newnafta&quot; name=&quot;newnafta&quot;&gt;&lt;/a&gt;Does the New NAFTA Import Tolerance Guidance Change the Food Safety Protections Afforded U.S. Consumers?&lt;/h2&gt;
+
+&lt;p&gt;U.S. consumers will continue to enjoy the same excellent food quality and safety protections they have always enjoyed, under the new NAFTA import tolerance guidance.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Oct 2015 13:41:39 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">120505 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How to Search for Tolerances for Pesticide Ingredients in the Code of Federal Regulations</title>
+    <link>https://www.epa.gov/pesticide-tolerances/how-search-tolerances-pesticide-ingredients-code-federal-regulations</link>
+    <description>&lt;p&gt;Tolerances are published in the:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR&quot;&gt;Federal Register&lt;/a&gt; - publishes new tolerances and changes to tolerances&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.ecfr.gov/cgi-bin/ECFR?page=browse&quot;&gt;Code of Federal Regulations (CFR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Other Sources of Tolerance Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/pesticide-registration/about-codex&quot;&gt;CODEX Maximum Residue Limits&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;https://www.globalmrl.com/home&quot;&gt;Global MRL Database&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;(does not include certain tolerances, such as tolerances for inadvertent tolerances and for processed commodities)&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can find tolerances for pesticide chemicals in the:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Code of Federal Regulations (&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/CFR-2014-title40-vol24/xml/CFR-2014-title40-vol24-part180.xml&quot;&gt;40 CFR Part 180&lt;/a&gt;), which is&lt;span&gt; updated once a year;&lt;/span&gt; or&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=652f6661f1c740545053c400dfe56616&amp;amp;node=pt40.24.180&amp;amp;rgn=div5&quot;&gt;electronic Code of Federal Regulations&lt;/a&gt; (e-CFR), updated daily.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;How to Conduct an eCFR Search&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;Go to the &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;amp;tpl=/index.tpl&quot;&gt;e-Code of Federal Regulations (eCFR)&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;On the left sidebar, select &quot;Simple Search.&quot;&lt;/li&gt;
+	&lt;li&gt;On the &quot;simple search&quot; page:
+		&lt;ul&gt;&lt;li&gt;Under “Order results by,&quot; select CFR Citation.&lt;/li&gt;
+			&lt;li&gt;Enter &quot;40&quot; in the “Title Number” box.&lt;/li&gt;
+			&lt;li&gt;Leave the &quot;within&quot; box as the default &quot;Full Text.&quot;&lt;/li&gt;
+			&lt;li&gt;Enter the pesticide ingredient in the &quot;search for&quot; box.&lt;/li&gt;
+			&lt;li&gt;Click on the &quot;submit search&quot; button.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;div class=&quot;figure image mode-full&quot; style=&quot;width:757px&quot;&gt;The results returned from the e-CFR will include:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Part 180, Subpart C references that contain the specific tolerances.
+		&lt;ul&gt;&lt;li&gt;Select the item: &quot;name of the pesticide&quot;; tolerances for residues&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For a list of pesticides that have tolerances or exemption from the requirements of an tolerance, see &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=a3b649316ccb17c31211db2edd81f789&amp;amp;mc=true&amp;amp;node=pt40.24.180&amp;amp;rgn=div5&quot;&gt;40 CFR Part 180: Tolerances and exemptions from tolerances for pesticide chemicals in food&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;More Help for Finding Tolerances&lt;/h2&gt;
+
+&lt;p&gt;We have created indexes to 40 CFR Part 180 tolerances to help you more easily find tolerance information for:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Specific commodities (crops).&lt;/li&gt;
+	&lt;li&gt;Pesticide types or families.&lt;/li&gt;
+	&lt;li&gt;Pesticide common name.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;/pesticide-tolerances/indexes-part-180-tolerance-information-pesticide-chemicals-food-and-feed&quot;&gt;Indexes to Part 180 Tolerance Information for Pesticide Chemicals in Food and Feed Commodities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Note that the eCFR is not an official legal version of the Code of Federal Regulations, but is updated by the Office of the Federal Register on a daily basis to reflect documents published in the Federal Register.)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 03 Aug 2015 19:09:48 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">102097 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Requesting a New or Modified Pesticide Tolerance</title>
+    <link>https://www.epa.gov/pesticide-tolerances/requesting-new-or-modified-pesticide-tolerance</link>
+    <description>&lt;p&gt;Foods in interstate commerce containing pesticide residues must be covered by pesticide tolerances or an exemption from the requirement of a tolerance. &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;A tolerance or the exemption from the requirement of a tolerance must be established for each active and inert ingredient in the formulation before a pesticide can be registered for use on a food or feed crop, or for use in a food processing or storage area.&lt;/li&gt;
+	&lt;li&gt;In addition, an amendment to an established tolerance may be required if an amendment is proposed for a currently registered use that might result in residue levels higher than the established tolerance.&lt;/li&gt;
+	&lt;li&gt;Tolerances are required for pesticide residue resulting from the use of a pesticide in food or feed production in a foreign country.&lt;/li&gt;
+	&lt;li&gt;Temporary tolerances are established for uses such as:
+		&lt;ul class=&quot;indented&quot;&gt;&lt;li&gt;Experimental use of a non-registered pesticide.&lt;/li&gt;
+			&lt;li&gt;Use of a pesticide under an emergency exemption from pesticide registration.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Before we can establish or amend a tolerance or tolerance exemption, a tolerance petition must be submitted.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-chapter-11-tolerance-petitions&quot;&gt;More information about tolerance petitions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/nafta-guidance-document-data-requirements-tolerances-imported-commodities&quot;&gt;Guidance on data requirements for tolerances on imported commodities in the United States and Canada&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When we receive a tolerance petition, we publish a notice in the Federal Register about the petition and accept comment for 30 days.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/notifying-public-about-pesticide-tolerances&quot;&gt;More information about public notice of tolerance petitions and other tolerance actions&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 10 Apr 2015 19:48:48 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">80161 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Notifying the Public about Pesticide Tolerances</title>
+    <link>https://www.epa.gov/pesticide-tolerances/notifying-public-about-pesticide-tolerances</link>
+    <description>&lt;p&gt;EPA publishes notices in the &lt;a href=&quot;https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR&quot;&gt;Federal Register&lt;/a&gt; for several tolerance-related actions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-chapter-11-tolerance-petitions&quot;&gt;Notice of filing of a petition to establish a tolerance&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-chapter-11-tolerance-petitions&quot;&gt;Establishment of a tolerance or tolerance exemption&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-registration/pesticide-emergency-exemptions&quot;&gt;Emergency exemptions under FIFRA Section 18&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-tolerances/revoking-pesticide-tolerances&quot;&gt;Revoking a tolerance&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-tolerances/setting-tolerances-pesticide-residues-foods&quot;&gt;Objection to a tolerance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Notice of Filing of a Petition to Establish a Tolerance&lt;/h2&gt;
+
+&lt;p&gt;EPA receives petitions from pesticide registrants and others, such as the USDA Interregional Research Project Number 4 (IR-4) proposing the establishment and/or amendment of regulations for residues of pesticide chemicals in or on various food commodities under section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA).&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;We determine that the petition contains data or information regarding the requirements for such petitions.&lt;/li&gt;
+	&lt;li&gt;We do not fully evaluate the sufficiency of the submitted data or whether the data support granting of the petition before making the petition available to the public for comment.&lt;/li&gt;
+	&lt;li&gt;Additional data may be needed before we rule on the petition.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A summary of the pesticide petition is published in the Federal Register, as required by section 408(d)(3) of the FFDCA. The summary of the petition is prepared by the petitioner and represents the views of the petitioner. We publish the petition summary verbatim without editing it in any way. The petition summary also announces the availability of a description of the analytical methods available to EPA for the detection and measurement of the pesticide chemical residues or an explanation of why no such method is needed.&lt;/p&gt;
+
+&lt;p&gt;View template for &lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-registrant-summary-pesticide-petitions-epas&quot;&gt;Petitioner Summary of Pesticide Petition for EPA&#039;s Notice of Filing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We accept comments on the petition for 30 days after Federal Register publication. These comments are entered in the docket for the pesticide, and we consider them in its review of the petition.&lt;/p&gt;
+
+&lt;h2&gt;Establishing Tolerances and Tolerance Exemptions&lt;/h2&gt;
+
+&lt;p&gt;EPA sets tolerances, which are maximum amounts of a pesticide allowed to remain in or on foods, after conducting a risk assessment. In some cases, a pesticide ingredient qualifies for an exemption from the requirement for a tolerance. &lt;a href=&quot;/pesticide-tolerances/setting-tolerances-pesticide-residues-foods&quot;&gt;More information about how we set tolerances&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The established tolerances and exemptions are listed in the Code of Federal Regulations. When a new tolerance or exemption is established, we publish a rule in the Federal Register. Note that any changes to the established tolerance or exemption will be published in the Federal Register and reflected in the Code of Federal Regulations. These documents should be consulted if current information is needed.&lt;/p&gt;
+
+&lt;h2&gt;Emergency Exemptions under Section 18 of FIFRA&lt;/h2&gt;
+
+&lt;p&gt;State or federal agencies may request permission for unregistered use of a pesticide for a limited time when an emergency condition exists. We review these requests against specific criteria.&lt;/p&gt;
+
+&lt;p&gt;If the exemption program involves the treatment of agricultural goods, we will establish formal tolerances (maximum allowable residue levels) to cover any pesticide residues in food that may result. Tolerances established for emergency exemption uses are time- limited, corresponding to the time that treated commodities might be found in channels of trade.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-registration/pesticide-emergency-exemptions&quot;&gt;Read more about emergency exemptions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Revoking Tolerances&lt;/h2&gt;
+
+&lt;p&gt;EPA sets the tolerance for each pesticide that may be found on foods. When circumstances require, we can revoke tolerances to better safeguard public health and the environment. We may revoke &lt;a href=&quot;/pesticide-tolerances&quot;&gt;pesticide tolerances&lt;/a&gt; for any of several reasons.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/revoking-pesticide-tolerances&quot;&gt;Read more about revoking pesticide tolerances&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Tolerance Objections&lt;/h2&gt;
+
+&lt;p&gt;Under section 408(g)(2)(A) of the Federal Food Drug and Cosmetic Act, any person may file objections with EPA within 60 days of issuance of a final tolerance regulation. Such person may also request a public evidentiary hearing on the objections. Under EPA regulations, EPA must publish an order setting forth its determination on each of the objections. Such order must contain EPA&#039;s reasons for its determination. If, based on the objections, EPA determines that the tolerance regulation should be modified or revoked, EPA will publish by order any revisions to the regulation.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 30 Mar 2015 14:30:13 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">78967 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Setting Tolerances for Pesticide Residues in Foods</title>
+    <link>https://www.epa.gov/pesticide-tolerances/setting-tolerances-pesticide-residues-foods</link>
+    <description>&lt;p&gt;Pesticides are widely used in producing food. These pesticides may remain in small amounts (called residues) in or on fruits, vegetables, grains, and other foods. To ensure the safety of the food supply for human consumption, EPA regulates the amount of each pesticide that may remain in and on foods. This Web page briefly describes how EPA sets limits, called tolerances, for pesticide residues in foods and animal feeds.&lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#first-step&quot;&gt;Pesticide registration is the first step&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#food-safety&quot;&gt;EPA sets tolerances as part of the food safety equation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#not-require&quot;&gt;Tolerances are not required for some products&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#other-agency&quot;&gt;Other agencies are involved&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#scientific-study&quot;&gt;Tolerance setting requires numerous scientific studies&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#fed-register&quot;&gt;Tolerances and exemptions are published in the federal register&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#more-info&quot;&gt;For more information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;first-step&quot; name=&quot;first-step&quot;&gt;&lt;/a&gt;Pesticide Registration is the First Step&lt;/h2&gt;
+
+&lt;p&gt;The term pesticide includes many kinds of ingredients used in products, such as insecticides, fungicides, rodenticides, insect repellants, weed killers, antimicrobials, and swimming pool chemicals, that are designed to prevent, destroy, repel, or reduce pests of any sort. Before a pesticide may be marketed and used in the United States, EPA evaluates the proposed pesticide thoroughly to ensure that it will not harm human health or the environment. Pesticides that pass this evaluation are granted a license or &quot;registration&quot; that permits their sale and use according to requirements set by EPA to protect human health and the environment.&lt;/p&gt;
+
+&lt;div&gt;More information about:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ingredients-used-pesticide-products&quot;&gt;Ingredients used in pesticide products&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-registration/about-pesticide-registration&quot;&gt;Pesticide registration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;food-safety&quot; name=&quot;food-safety&quot;&gt;&lt;/a&gt;EPA Sets Tolerances as Part of the Food Safety Equation&lt;/h2&gt;
+
+&lt;p&gt;Before allowing the use of a pesticide on food crops, we set a tolerance, or maximum residue limit, which is the amount of pesticide residue allowed to remain in or on each treated food commodity. Actual residues are unlikely to exceed this level when a pesticide is applied according to label directions. The tolerance is the residue level that triggers enforcement actions. That is, if residues are found above that level, the commodity will be subject to seizure by the government.&lt;/p&gt;
+
+&lt;p&gt;In setting the tolerance, we must make a safety finding that the pesticide can be used with &quot;reasonable certainty of no harm.&quot; To make this finding, we consider:&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;The toxicity of the pesticide and its break-down products.&lt;/li&gt;
+	&lt;li&gt;How much of the pesticide is applied and how often.&lt;/li&gt;
+	&lt;li&gt;How much of the pesticide (i.e., the residue) remains in or on food by the time it is marketed and prepared.&lt;/li&gt;
+	&lt;li&gt;All possible routes of exposure to that pesticide (residues on each crop use, as well as exposure from drinking water and residential exposure).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We perform dietary risk assessments to ensure that all tolerances established for each pesticide are safe. These assessments account for the fact that the diets of infants and children may be quite different from those of adults and that they consume more food for their size than adults. We address these differences by combining survey information on food consumption by infants and children with data on pesticide residues to estimate their exposure from food. We also estimate exposure of other age groups such as women of reproductive age, ethnic groups and regional populations. &lt;/p&gt;
+
+&lt;p&gt;We then combine information about pesticide exposure (from food, drinking water and residential uses) to infants, children and other subgroups with information about toxicity to determine potential risks posed by pesticide residues. If risks are unacceptable, we won&#039;t approve the tolerances. &lt;/p&gt;
+
+&lt;p&gt;The tolerance applies to food imported into this country, as well as to food grown here in the United States.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;not-require&quot; name=&quot;not-require&quot;&gt;&lt;/a&gt;Tolerances are not Required for Some Products&lt;/h2&gt;
+
+&lt;p&gt;Some pesticides are exempted from the requirement to have a tolerance. We may grant exemptions in cases where the exemption is found to be safe. That is, we must review toxicity and exposure data the same as for tolerance setting.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;other-agency&quot; name=&quot;other-agency&quot;&gt;&lt;/a&gt;Other Agencies are Involved&lt;/h2&gt;
+
+&lt;p&gt;Several government agencies enforce EPA&#039;s pesticide tolerances in food.&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;The Food and Drug Administration (FDA) tests food produced in the United States and food imported from other countries for compliance with these residue limits.&lt;/li&gt;
+	&lt;li&gt;State enforcement agencies also check foods produced in this country.&lt;/li&gt;
+	&lt;li&gt;The U.S. Department of Agriculture (USDA) tests meat and milk.&lt;/li&gt;
+	&lt;li&gt;USDA and FDA have programs designed to develop statistically valid information on pesticide residues in foods. They provide this information to us to use in our risk assessment for pesticides. 
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.ams.usda.gov/datasets/pdp&quot;&gt;Pesticide Data Program&lt;/a&gt; (USDA)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/Pesticides/ucm2006797.htm&quot;&gt;Food and Drug Administration residue monitoring data&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If USDA staff detect violations of tolerances in their data collection program, they notify FDA.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;scientific-study&quot; name=&quot;scientific-study&quot;&gt;&lt;/a&gt;Tolerance Setting Requires Numerous Scientific Studies&lt;/h2&gt;
+
+&lt;p&gt;Pesticide companies, or registrants, must submit a wide variety of scientific studies for review before EPA will set a tolerance. The data are designed to identify:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Possible harmful effects the chemical could have on humans (its toxicity).&lt;/li&gt;
+	&lt;li&gt;The amount of the chemical (or breakdown products) likely to remain in or on food.&lt;/li&gt;
+	&lt;li&gt;Other possible sources of exposures to the pesticide (e.g., through use in homes or other places).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;All of this information is used in our &lt;a href=&quot;/risk/about-risk-assessment&quot;&gt;risk assessment process&lt;/a&gt;. The risk assessment includes consideration of:&lt;/p&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Studies about Pesticides in Food&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Studies to determine potential residues in food include:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Field trials, which are studies of residues found on crops grown in the field when pesticides are applied using the highest rate allowed by the pesticide product label. &lt;/li&gt;
+			&lt;li&gt;Studies of residues in processed foods (e.g., apple juice, tomato paste).&lt;/li&gt;
+			&lt;li&gt;Data on residues in animal products if livestock are exposed directly or through their feed.&lt;/li&gt;
+			&lt;li&gt;Monitoring data, such as from the &lt;a href=&quot;https://www.ams.usda.gov/datasets/pdp&quot;&gt;Pesticide Data Program&lt;/a&gt;.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;The amounts and types of food people eat.
+		&lt;ul&gt;&lt;li&gt;Food consumption by infants and children is specifically considered.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;How widely the pesticide is used (that is, how much of the crop is actually treated with the pesticide). &lt;/li&gt;
+	&lt;li&gt;Information on chemistry, toxicity, and exposure.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We use data on what foods people eat and the quantity they eat, collected through the National Health and Nutrition Survey (NHANES). Through these evaluations, we ensure the overall safety of proposed pesticide uses, as required by FQPA.&lt;/p&gt;
+
+&lt;p&gt;More information on food consumption data:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/nchs/nhanes/wweia.htm&quot;&gt;National Health and Nutrition Survey&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://fcid.foodrisk.org/&quot;&gt;&lt;span&gt;Food Commodity Intake Database&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span&gt;In addition, there must be a practical method for detecting and measuring levels of the pesticide residues so regulatory officials can ensure that any residues are below the level found to be safe.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/oecd-maximum-residue-limit-calculator&quot;&gt;See the OECD calculator, used in the numerical portion of the tolerance-setting process&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;fed-register&quot; name=&quot;fed-register&quot;&gt;&lt;/a&gt;Tolerances and Exemptions are Published in the Federal Register&lt;/h2&gt;
+
+&lt;p&gt;Before we set a tolerance or grant an exemption, the public has an opportunity to comment on proposed new pesticide tolerances. We publish a notice in the Federal Register announcing the receipt of a petition for a tolerance or exemption. This is called a &lt;em&gt;Notice of Filing&lt;/em&gt;. This notice includes a summary by the petitioner. A public comment period follows these notices.&lt;/p&gt;
+
+&lt;p&gt;After reviewing public comments and all the scientific data, we make a decision regarding the new tolerance or exemption and announce it in the Federal Register. This announcement includes our assessment of risks posed by the pesticide and the safety finding that allows establishment of the tolerance or exemption. A 60-day period for filing objections and hearing requests is provided after publication of the tolerance.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/notifying-public-about-pesticide-tolerances&quot;&gt;More information on public notices about pesticide tolerances&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The list of tolerances and exemptions is compiled in the Code of Federal Regulations (CFR), Chapter 40, Part 180. The CFR is revised once a year, in July. Therefore, during the year, information on new or changed tolerances is available from the Federal Register notices or by accessing the electronic CFR (e-CFR).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-tolerances/how-search-tolerances-pesticide-ingredients-code-federal-regulations&quot;&gt;More information on finding tolerances&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tolerances are published in the:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR&quot;&gt;Federal Register&lt;/a&gt; - publishes new tolerances and changes to tolerances&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/ECFR?page=browse&quot;&gt;Code of Federal Regulations (CFR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;more-info&quot; name=&quot;more-info&quot;&gt;&lt;/a&gt;For More Information&lt;/h2&gt;
+
+&lt;p&gt;Information on pesticides and their toxicity is available from the &lt;a href=&quot;http://npic.orst.edu/&quot;&gt;National Pesticide Information Center&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; at 1-800-858-7378.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks&quot;&gt;EPA&#039;s Risk Assessment Process for Tolerance Reassessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 26 Feb 2015 21:22:48 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">75525 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>OECD Maximum Residue Limit Calculator </title>
+    <link>https://www.epa.gov/pesticide-tolerances/oecd-maximum-residue-limit-calculator</link>
+    <description>&lt;p&gt;With the goal of harmonizing the calculation of maximum residue limits (MRLs) across the Organisation for Economic Cooperation and Development, the OECD has developed an MRL Calculator. &lt;a href=&quot;https://www.oecd.org/env/ehs/pesticides-biocides/oecdmaximumresiduelimitcalculator.htm&quot;&gt;View the OECD MRL calculator&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is made up of an Excel spreadsheet simple to use without requiring the user to have extensive statistical knowledge. The two spreadsheets are for:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.oecd.org/dataoecd/17/57/47241308.xls&quot;&gt;single data sets (XLS)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 157 K)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.oecd.org/dataoecd/17/56/47241282.xls&quot;&gt;multiple data sets (XLS)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 1.8 Mb)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For help with the use of the calculator, see:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono%282011%292&amp;amp;doclanguage=en&quot;&gt;User Guide (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 289 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono%282011%292&amp;amp;doclanguage=en&quot;&gt;Statistical White Paper (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(53 pp, 610 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Canada and the United States, along with other OECD member countries, use the OECD MRL Calculator to calculate pesticide tolerances or MRLs. The OECD MRL Calculator replaces and supersedes the NAFTA MRL Calculator.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 20 Jan 2015 19:36:52 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">72329 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Food and Feed Commodity Vocabulary</title>
+    <link>https://www.epa.gov/pesticide-tolerances/food-and-feed-commodity-vocabulary</link>
+    <description>&lt;p&gt;The Food and Feed Commodity Vocabulary was developed to consolidate all the major EPA pesticide program commodity vocabularies into one standardized vocabulary. The vocabulary contains only human consumable commodities and livestock feeds.&lt;/p&gt;
+
+&lt;p&gt;There are about 12,000 terms in this database. Each term is assigned:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;an EPA-preferred term&lt;/li&gt;
+	&lt;li&gt;an EPA (40 CFR 180.41) crop group name/number&lt;/li&gt;
+	&lt;li&gt;a monograph number where further information about a specific commodity can be found.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;About 1500 preferred commodity terms were developed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The EPA-preferred term will be the ONLY term accepted in establishing pesticide tolerances.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;iframe height=&quot;725&quot; name=&quot;Search the Food and Feed Vocabulary&quot; scrolling=&quot;auto&quot; src=&quot;https://cfpub.epa.gov/oppref/food_feed_s/&quot; width=&quot;900&quot; id=&quot;Search the Food and Feed Vocabulary&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 16 Jan 2015 13:11:20 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">72145 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide Cancellation Under EPA&#039;s Own Initiative</title>
+    <link>https://www.epa.gov/pesticide-tolerances/pesticide-cancellation-under-epas-own-initiative</link>
+    <description>&lt;p&gt;Section 6(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) authorizes EPA to take the initiative to cancel a pesticide registration when existing risks related to the use of the pesticide are unacceptable, and registrants either have not made, or cannot make, necessary changes to the terms and conditions of the registration to address the unacceptable risks.&lt;/p&gt;
+
+&lt;p&gt;Cancellation of a pesticide registration may be initiated by EPA after the Agency has evaluated the potential risks and benefits associated with registered uses of a pesticide.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;In order to initiate cancellation based &lt;strong&gt;on dietary risks&lt;/strong&gt;, EPA must determine that the risks exceed the &quot;reasonable certainty of no harm&quot; standard applicable to pesticide residues in food under &lt;a href=&quot;/pesticide-tolerances&quot;&gt;section 408&lt;/a&gt; of the Federal Food, Drug, and Cosmetic Act (FFDCA).&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;In order to initiate cancellation based &lt;strong&gt;on other risks&lt;/strong&gt; (such as residential, occupational or ecological risks), EPA must determine that the risks are unreasonable in light of the benefits associated with the pesticide use.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Although not required to do so by statute, EPA typically solicits input from stakeholders and the public relating to risks, benefits, and possible risk-mitigation options before initiating cancellation action.&lt;/p&gt;
+
+&lt;p&gt;The Agency will initiate cancellation action if it determines that dietary (food and drinking water) and/or non-dietary (residential, occupational and ecological) risks of concern necessitate the cancellation of all currently registered uses of a pesticide, or such risks necessitate changes to the terms and conditions of registration that registrants have been unwilling to implement.&lt;/p&gt;
+
+&lt;h2&gt;Procedures for Non-voluntary Cancellation&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#noic&quot;&gt;Notice of Intent to Cancel&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#usda-sap&quot;&gt;USDA and FIFRA SAP Notification&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#noic-issued&quot;&gt;NOIC Issuance&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#hearing-process&quot;&gt;Hearing Process&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#appeal&quot;&gt;Appeal and Judicial Review of Decision&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a name=&quot;noic&quot; id=&quot;noic&quot;&gt;&lt;/a&gt;Notice of Intent to Cancel (NOIC)&lt;/h3&gt;
+
+&lt;p&gt;When the Agency decides to cancel registration of a pesticide product, it prepares a Notice of Intent to Cancel (NOIC) that is published in the Federal Register and sent to registrants. Before EPA may formally issue a NOIC, it typically must provide notice of the proposed cancellation first to the Department of Agriculture and to a scientific advisory board.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a name=&quot;usda-sap&quot; id=&quot;usda-sap&quot;&gt;&lt;/a&gt;USDA and FIFRA SAP Notification&lt;/h3&gt;
+
+&lt;p&gt;At least 60 days before providing a NOIC to the registrant and the notice to the public, EPA must notify and provide the Secretary of Agriculture with a draft copy of the NOIC and an analysis of the impact of cancellation on the agricultural community.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;The Secretary of Agriculture has 30 days to comment.&lt;/li&gt;
+	&lt;li&gt;If the Secretary provides comment, EPA must publish the comments and EPA&#039;s response to the comments in the Federal Register along with the NOIC.&lt;/li&gt;
+	&lt;li&gt;If the Secretary does not comment, EPA may proceed with the NOIC immediately.&lt;/li&gt;
+	&lt;li&gt;The EPA Administrator and the Secretary of Agriculture may waive or modify these dates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Concurrent with the notification of the Secretary of Agriculture, EPA must also submit the NOIC to the FIFRA Scientific Advisory Panel (SAP) for comment on the effect of the NOIC on health and the environment.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;This requirement may only be waived or modified with the SAP&#039;s consent.&lt;/li&gt;
+	&lt;li&gt;If the SAP meets, it will hold a public meeting, at which time the public will have an opportunity to participate.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a name=&quot;noic-issued&quot; id=&quot;noic-issued&quot;&gt;&lt;/a&gt;NOIC Issued to Registrant and Made Public&lt;/h3&gt;
+
+&lt;p&gt;After complying with the steps above, the EPA Administrator may issue a NOIC together with the reasons (including the factual basis) for the action.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;The notice is sent to the registrant and published in the Federal Register.&lt;/li&gt;
+	&lt;li&gt;The NOIC must consider the effect of cancellation on production, price of agricultural commodities, retail food prices, and the agricultural economy as a whole.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The cancellation outlined in the NOIC becomes final and effective 30 days after the registrant receives the notice, or when the notice is published in the Federal Register (whichever occurs later) unless within that time, a request for a hearing is made by a person adversely affected by the notice. This time period is statutory and cannot be extended.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a name=&quot;hearing-process&quot; id=&quot;hearing-process&quot;&gt;&lt;/a&gt;Hearing Process if Requested&lt;/h3&gt;
+
+&lt;p&gt;While anybody can request a hearing, a hearing cannot proceed without the acquiescence of a registrant. In other words, if no registrant is interested in retaining a registration, and no other person wishes to become a registrant, a hearing is not convened.&lt;/p&gt;
+
+&lt;p&gt;During the time period pending a hearing, the registrations remain active unless EPA initiates suspension action under FIFRA section 6(c).&lt;/p&gt;
+
+&lt;p&gt;If a hearing is held, it will be held in accordance with FIFRA section 6(d) and 40 C.F.R. Part 164. The hearing is chaired by an administrative law judge who makes procedural and substantive decisions. The burden of proof is on the proponents of registration of the pesticide.&lt;/p&gt;
+
+&lt;p&gt;Any interested person or entity (e.g., grower, manufacturer, environmental or other public interest groups, etc.) can participate in the hearing as intervenors, making them full participants in all phases of the hearing. Parties who elect not to intervene (or request a hearing) have only limited rights in a hearing. Such non-participants may be able to file amicus briefs (as an interested party) at the end of the hearing, but they cannot provide new factual information for inclusion in the hearing record, nor can they cross-examine other witnesses. The hearing decision must be based on the hearing record, which consists of cross-examination of witnesses and documents and testimony introduced by parties to the proceeding.&lt;/p&gt;
+
+&lt;p&gt;The hearing is an administrative trial with typically an exchange of documents and witness lists. Parties generally file written testimony from witnesses, who are then cross-examined by other parties. The administrative law judge then makes an initial decision based upon the record.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a name=&quot;appeal&quot; id=&quot;appeal&quot;&gt;&lt;/a&gt;Appeal and Judicial Review of Decision&lt;/h3&gt;
+
+&lt;p&gt;The administrative law judge&#039;s decision can be appealed to the Environmental Appeals Board (EAB), which, on behalf of the Administrator, issues the final decision for the Agency.&lt;/p&gt;
+
+&lt;p&gt;In making a cancellation decision, the Administrator is required by FIFRA to consider restricting the use of the pesticide as an alternative to cancellation while explaining the reasons for the restrictions, and taking into account the effect of such final action on production and prices of agricultural commodities, retail food prices, and otherwise on the agricultural economy. This analysis must be published in the Federal Register.&lt;/p&gt;
+
+&lt;p&gt;A final cancellation order following a public hearing is subject to judicial review within 60 days after entry of the order. Judicial review-where the court makes sure that the law has been properly applied-is available only to those adversely affected by the order and who participated as a party in the hearing. Because the Administrator (or the EAB acting for the Administrator) issues the final decision for the Agency, the prosecuting arm of the Agency cannot discuss the case with the Administrator while the case is pending and cannot appeal an adverse decision from the Administrator.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 14 Jan 2015 21:20:59 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">72023 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>

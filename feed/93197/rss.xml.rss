@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/93197/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Healthy Watersheds Protection</title>
+    <link>https://www.epa.gov/feed/93197/rss.xml</link>
+    <description>Updated Healthy Watersheds Protection content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/93197/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EPA Healthy Watersheds Fact Sheet</title>
+    <link>https://www.epa.gov/hwp/epa-healthy-watersheds-fact-sheet</link>
+    <description>&lt;p&gt;This is a short overview of EPA&#039;s Healthy Watersheds Program dated December 2016.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346681&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/170111_hwp_2pgr_clean_version_12.2.pdf&quot; type=&quot;application/pdf; length=182619&quot; class=&quot;file-link&quot;&gt;EPA Healthy Watersheds Program Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 183 K, 
+  EPA841-f-16-008)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 19 Dec 2016 20:27:47 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">167511 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Assessment Report Documents</title>
+    <link>https://www.epa.gov/hwp/assessment-report-documents</link>
+    <description>&lt;p&gt;This page provides links to Healthy Watersheds Integrated Assessment reports, which are very detailed technical documents that present the results of comparative measurement of a series of watershed health and vulnerability indices across large areas encompassing tens of thousands of watersheds.  Several are statewide-scale efforts undertaken in partnership with state agencies and non-governmental organizations; others are targeted studies of specific ecological regions or river basins.  Statewide assessments have included California, Wisconsin, Alabama, and Tennessee.  Targeted assessments have included the Taunton River Basin, the Clinch River Basin, the Mobile Bay Watershed and the Montana Prairie Potholes Region.  A Preliminary Healthy Watersheds Assessment covering the entire lower 48 states is currently in progress.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-222431&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/tn_hwp_report_final_october2015.pdf&quot; type=&quot;application/pdf; length=8135081&quot; class=&quot;file-link&quot;&gt;Tennessee Integrated Assessment of Watershed Health (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 8 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223283&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/almb_hw_report_final_assessment_0.pdf&quot; type=&quot;application/pdf; length=12159841&quot; class=&quot;file-link&quot;&gt;Alabama and Mobile Bay Basin Integrated Assessment of Watershed Health (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(50 pp, 12 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223289&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/ca_hw_report_111213_0.pdf&quot; type=&quot;application/pdf; length=8874351&quot; class=&quot;file-link&quot;&gt;California Integrated Assessment of Watershed Health (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(118 pp, 9 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223293&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/wihwreport_0.pdf&quot; type=&quot;application/pdf; length=9776395&quot; class=&quot;file-link&quot;&gt;Wisconsin Integrated Assessment of Watershed Health (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(111 pp, 10 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223297&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/hwptauntonriver.pdf&quot; type=&quot;application/pdf; length=7519432&quot; class=&quot;file-link&quot;&gt;Strengthening the Resilience of the Taunton River Watershed (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(108 pp, 8 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223299&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/150813cp_hwp_final_report_508.pdf&quot; type=&quot;application/pdf; length=13821994&quot; class=&quot;file-link&quot;&gt;Clinch River (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(118 pp, 14 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-223303&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/151016mt_final_report_july2015.pdf&quot; type=&quot;application/pdf; length=2149457&quot; class=&quot;file-link&quot;&gt;Montana Prairie Wetlands and Intermittent/Ephemeral Streams: Hydrologic Needs Assessment for Healthy Watersheds (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(65 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-224017&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/151030national_phwa_factsheet.pdf&quot; type=&quot;application/pdf; length=334275&quot; class=&quot;file-link&quot;&gt;Preliminary Healthy Watersheds Assessment for the 48 Conterminous United States: Project Summary (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 334 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 30 Oct 2015 14:39:20 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">123769 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Additional References</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-additional-references</link>
+    <description>&lt;p&gt;This page provides a brief bibliography and links to non-EPA studies, reports and resources that are useful supplements to the healthy watersheds documents created within the EPA program. All links below exit EPA’s website.&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;General background &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Baron, J. S., Poff, N. L., Angermeier, P. L., Dahm, C. N., Gleick, P. H., Hairston, N. G., et al. (2003). &lt;a href=&quot;http://www.esa.org/esa/wp-content/uploads/2013/03/issue10.pdf&quot;&gt;Sustaining Healthy Freshwater Ecosystems. Issues in Ecology. Number 10 (PDF)&lt;/a&gt;  (18 pp, 276K). &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Doppelt, Robert; Scurlock, Mary; Frissell, Chris; Karr, James. (1993) Entering the Watershed: A New Approach To Save America&#039;s River Ecosystems. Island Press. Washington D.C.&lt;/p&gt;
+
+&lt;p&gt;Millennium Ecosystem Assessment. (2005). &lt;a href=&quot;http://www.millenniumassessment.org/en/index.aspx&quot;&gt;Ecosystems and Human Well-Being. Washington D.C.: Island Press&lt;/a&gt;. &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The H. John Heinz III Center for Science, Economics, and the Environment. (2008). &lt;a href=&quot;http://islandpress.org/state-nations-ecosystems-2008&quot;&gt;The State of the Nation&#039;s Ecosystems&lt;/a&gt;. &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;  Island Press.&lt;/p&gt;
+
+&lt;p&gt;U.S. Environmental Protection Agency. (2002). &lt;a href=&quot;http://yosemite.epa.gov/sab/sabproduct.nsf/7700D7673673CE83852570CA0075458A/$File/epec02009.pdf&quot;&gt;A Framework for Assessing and Reporting on Ecological Condition. Science Advisory Board (PDF)&lt;/a&gt; (142 pp, 1.4MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Protection &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.kdheks.gov/tmdl/download/Kansas_Heritage_Streams_Identification_and_Protection_of_Healthy_Watersheds.pdf&quot;&gt;Kansas Heritage Streams: Identification and Protection of Healthy Watersheds (PDF)&lt;/a&gt; (2013) (163 pp, 6.4MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gicinc.org/projectsnelson.htm&quot;&gt;Chesapeake Forests: Conserving the Bay’s headwaters - A Green Infrastructure Assessment and Plan for Nelson County (2011)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gicinc.org/PDFs/GIC%20NY-Practitioners%20Guide-Chapter%205-reduced.pdf&quot;&gt;Mapping Green Infrastructure in Ulster County, New York (PDF)&lt;/a&gt; (2013)( 28 pp, 4.2MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gicinc.org/book.htm&quot;&gt;Evaluating and Conserving Green Infrastructure Across the Landscape: A Practitioner’s Guide (2013)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Green infrastructure and landscape ecology &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Benedict, M. A., &amp;amp; McMahon, E. T. (2006). Green Infrastructure: Linking Landscapes and Communities. Island Press.&lt;/p&gt;
+
+&lt;p&gt;Duerksen, Christopher and Snyder, Cara. Nature Friendly Communities, Habitat Protection, and Land Use Planning. Washington, D.C., Island Press, 2005.&lt;/p&gt;
+
+&lt;p&gt;Forman, R. T. T. Land Mosaics: The Ecology of Landscapes and Regions. Cambridge, Cambridge University Press, 1995.&lt;/p&gt;
+
+&lt;p&gt;The Heritage Conservancy. (2003). &lt;a href=&quot;http://www.dcnr.pa.gov/cs/groups/public/documents/document/dcnr_002286.pdf&quot;&gt;Growing with Green Infrastructure (PDF)&lt;/a&gt;. (20 pp, 4.54MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Nature Conservancy. (2008). &lt;a href=&quot;http://www.floods.org/PDF/ASFPM_TNC_Active_River_%20Area.pdf&quot;&gt;The Active River Area: A Conservation Framework for Protecting Rivers and Streams (PDF)&lt;/a&gt;. (64 pp, 4.84MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic benefits &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.state.nj.us/drbc/library/documents/SocioeconomicValueDRB-UDEL-FinalRpt.pdf&quot;&gt;Socioeconomic Value of the Delaware River Basin in Delaware, New Jersey, New York, and Pennsylvania (PDF) &lt;/a&gt;. (103 pp, 2.6MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dvrpc.org/openspace/value/&quot;&gt;The Economic Value of Protected Open Space in Southeastern Pennsylvania&lt;/a&gt;. &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fishwildlife.org/files/WildlifeRestoration-ROI-Report_2011.pdf&quot;&gt;Financial Returns to Industry from the Federal Aid in Wildlife Restoration Program (PDF) &lt;/a&gt;. (96 pp, 2.2MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://asafishing.org/uploads/2011_ASASportfishing_in_America_Report_January_2013.pdf&quot;&gt;Sportfishing in America: An Economic Force for Conservation (PDF)&lt;/a&gt;. (12 pp, 1.1MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.conservationregistry.org/projects/17166?printable=true&quot;&gt;Common Waters Healthy Forests, Healthy Watersheds Initiative&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mml.org/pdf/information/msulandpolicyreport.pdf&quot;&gt;Comprehensive Study on Economic Valuation, Economic Impact Assessment, and State Conservation Funding of Green Infrastructure Assets in Michigan (PDF) &lt;/a&gt;. (108 pp, 11.5MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hydrology &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Arthington, Angela H, S.E. Bunn, N.L. Poff and R.J. Naiman. (2006). The Challenge of Providing Environmental Flow Rules to Sustain River Ecosystems. Ecological Applications 16(4): 1311-1318.&lt;/p&gt;
+
+&lt;p&gt;Ernst, C., Gullick, R., &amp;amp; Nixon, K. (2004). &lt;a href=&quot;http://efc.muskie.usm.maine.edu/conservation_finance/Documents/Drinking%20Water/Conserving%20Forests%20to%20Protect%20Drinking%20Water.pdf&quot;&gt;Protecting the Source: Conserving Forests to Protect Water. Opflow, 30(5) (PDF)&lt;/a&gt;. (5 pp, 484K) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fausch, K.D., C.E. Torgersen, C.V. Baxter, and H.W. Li. (2002). Landscapes to Riverscapes: Bridging the Gap Between Research and Conservation of Stream Fishes. BioScience 52:483-498.&lt;/p&gt;
+
+&lt;p&gt;Kendy, E., Apse, C., and K. Blann. (2012). &lt;a href=&quot;https://www.conservationgateway.org/ConservationPractices/Freshwater/EnvironmentalFlows/MethodsandTools/ELOHA/Documents/Practical%20Guide%20Eflows%20for%20Policy-low%20res.pdf&quot;&gt;A Practical Guide to Environmental Flows Policy and Planning (PDF)&lt;/a&gt;. (74 pp, 1.5MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Montgomery, D. R., &amp;amp; Buffington, J. M. (1998). Channel Processes, Classification, and Response. River Ecology and Management. 13-42.&lt;/p&gt;
+
+&lt;p&gt;Poff, N.L., J.D. Allan, M. B. Bain, J.R. Karr, K.L. Prestegaard, B. Richter, R. Sparks, and J. Stromberg. (1997). The Natural Flow Regime: a new paradigm for riverine conservation and restoration. BioScience, 47: 769-784.&lt;/p&gt;
+
+&lt;p&gt;Poff, N.L., et al. (2010). The ecological limits of hydrologic alteration (ELOHA): a new framework for developing regional environmental flow standards. Freshwater Biology, 55.1: 147-170.&lt;/p&gt;
+
+&lt;p&gt;Richter, B.D., J.V. Baumgartner, J. Powell, and D.P. Braun. (1996). &lt;a href=&quot;http://www3.interscience.wiley.com/journal/119217922/abstract?CRETRY=1&amp;amp;SRETRY=0&quot;&gt;A Method for Assessing Hydrologic Alteration within Ecosystems. Conservation Biology. 10:1163-1174.&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;World Resources Institute. (2013). &lt;a href=&quot;http://www.wri.org/publication/natural-infrastructure&quot;&gt;Natural Infrastructure Investing in Forested Landscapes for Source Water Protection in the United States&lt;/a&gt;. &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Biological condition&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Flebbe, P., L. Roghair, and J. Bruggink. 2006. Spatial modeling to project Southern Appalachian Trout distribution in warmer climate. Transaction of the American Fisheries Society, 135:1371-1382.&lt;/p&gt;
+
+&lt;p&gt;Jelks, H.L., et al. (2008). Conservation Status of Imperiled North American Freshwater and Diadromous Fishes. Fisheries, 33(8): 372-407.&lt;/p&gt;
+
+&lt;p&gt;Karr, J. R. (1981). Assessment of Biotic Integrity Using Fish Communities. Fisheries, 6: 21-27.&lt;/p&gt;
+
+&lt;p&gt;Master, Lawrence L., Stephanie R. Flack, and Bruce A. Stein, eds. (1998). &lt;a href=&quot;http://www.natureserve.org/library/riversoflife.pdf&quot;&gt;Rivers of Life: Critical Watersheds for Protecting Freshwater Biodiversity. The Nature Conservancy, Arlington, Virginia (PDF)&lt;/a&gt;. (77 pp, 7.26MB) &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Oct 2015 16:14:05 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">123607 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Integrated Assessment Reports</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-integrated-assessment-reports</link>
+    <description>&lt;p&gt;This page provides links to Healthy Watersheds Integrated Assessment reports, which are detailed technical documents that present the results of comparative measurement of a series of watershed health and vulnerability indices across large areas encompassing tens of thousands of watersheds. Several are statewide-scale efforts undertaken in partnership with state agencies and non-governmental organizations; others are targeted studies of specific ecological regions or river basins.  Statewide assessments have included California, Wisconsin, Alabama and Tennessee. Targeted assessments have included the Taunton River Basin, the Clinch River Basin, the Mobile Bay Watershed and the Montana Prairie Potholes Region. A Preliminary Healthy Watersheds Assessment covering the entire lower 48 states is in progress during 2015-2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/almb_hw_report_final_assessment_0.pdf&quot;&gt;Alabama and Mobile Bay Basin Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(50 pp, 12 MB)&lt;/span&gt;&lt;strong&gt;  &lt;/strong&gt;The EPA Healthy Watersheds Program, Alabama Department of Environmental Management and Mobile Bay National Estuary Program conducted an integrated assessment of relative watershed health throughout Alabama and the Mobile Bay Basin. Twelve metrics were selected to describe landscape condition, hydrologic condition, habitat condition, geomorphology, water quality and biological condition. Metrics were quantified for each NHDPlus Version 2 catchment in Alabama and the Mobile Bay Basin using a combination of existing GIS layers and statistical models that predicted values of stream habitat condition, stream chemistry and stream biological condition metrics. Statistical models used landscape variables such as land cover, soil attributes and topography as predictors of stream conditions within each catchment. Metrics were combined into an overall Watershed Health Index and scores were mapped across Alabama and the Mobile Bay Basin to highlight priority areas for protection. In addition, an assessment of hydrologic connectivity to Mobile Bay was conducted for catchments in the Mobile Bay Basin using three metrics that described a catchment’s potential for water and material export and degree of downstream attenuation. Connectivity metrics were combined into a Mobile Bay Connectivity Index that can be used in conjunction with Watershed Health Index scores to identify portions of the Mobile Bay Basin that are both healthy and highly connected to Mobile Bay and are therefore priorities for maintaining natural water, sediment and nutrient inflows to Mobile Bay. To complement the analysis of watershed health and connectivity, four metrics describing the vulnerability of watersheds to future climate, land use and water use change were selected and quantified for NHDPlus catchments throughout the state and Basin. Vulnerability metrics were combined into a Watershed Vulnerability Index and index scores were mapped to further prioritize protection of watersheds that are healthy but vulnerable to future degradation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/ca_hw_report_111213_0.pdf&quot;&gt;California Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(118 pp, 9 MB)&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;The EPA Healthy Watersheds Program and California’s Healthy Streams Partnership conducted an integrated assessment of relative watershed health throughout California. Six metrics describing structural watershed characteristics relevant to aquatic ecosystem health were quantified from GIS layers for each NHDPlus catchment in the state. An additional six stream condition metrics (chemical constituent concentrations, physical habitat index scores, etc.) were quantified for NHDPlus catchments in non-arid regions using statistical models. The models predicted values of stream health metrics based on a catchment’s land cover, soil attributes, topography and other landscape variables. Metrics were combined into a Watershed Condition Index and a Stream Health Index and scores across the state were mapped to highlight priority areas for protection. To complement the analysis of watershed health, eleven metrics describing the vulnerability of California watersheds to future climate, land use and water use change and wildfire risk were selected and quantified for NHDPlus catchments throughout the state. Vulnerability metrics were combined into a Watershed Vulnerability Index and index scores were mapped to further prioritize protection of watersheds that are healthy but vulnerable to future degradation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-10/documents/tn_hwp_report_final_october2015.pdf&quot;&gt;Tennessee Integrated Assessment of Watershed Health (PDF) &lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(105 pp, 8 MB)&lt;/span&gt;&lt;strong&gt;  &lt;/strong&gt;This statewide assessment was carried out in partnership with the Tennessee Healthy Watershed Initiative (THWI), a collaboration of federal, state and nonprofit organizations committed to maintain and improve water resources in Tennessee watersheds. The Assessment identified relative health of watersheds across the entire state of Tennessee at the catchment (approx. 1-mile square) level, based on metrics characterizing Landscape Condition, Geomorphic Condition, Hydrologic Condition, Water Quality, Habitat Condition and Biological Condition. The scores from these six sub-indices were combined to create an overall Watershed Health Index.  Results can be presented for each metric, sub-index or Watershed Health or Vulnerability Index at multiple scales.  Geospatial datasets for all metrics and indices were delivered to the state and project partners along with an applications workshop at the project’s completion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/wihwreport_0.pdf&quot;&gt;Wisconsin Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(111 pp, 10 MB)&lt;/span&gt;&lt;strong&gt;  &lt;/strong&gt;The EPA Healthy Watersheds Program and the Wisconsin Department of Natural Resources (WDNR) conducted an integrated assessment of relative watershed health throughout Wisconsin. Fifteen metrics were selected to describe landscape condition, hydrologic condition, habitat condition, geomorphology, water quality, and biological condition. Metrics were quantified for each catchment in WDNR’s hydrography database using a combination of existing GIS layers and statistical models that predicted values of streamflow alteration, stream habitat condition, stream chemistry and stream biological condition metrics. Statistical models used landscape variables such as land cover, soil attributes and topography as predictors of stream conditions within each catchment. Metrics were combined into a Landscape Condition Index and an Aquatic Ecosystem Health Index. Index scores are being used for planning and evaluation of several WDNR watershed protection and restoration programs. To complement the analysis of watershed health, seven metrics describing the vulnerability of Wisconsin watersheds to future climate, land use and water use change were selected and quantified for catchments in WDNR’s hydrography database throughout the state. Vulnerability metrics were combined into a Watershed Vulnerability Index and index scores were mapped to further prioritize protection of watersheds that are healthy but vulnerable to future degradation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/hwptauntonriver.pdf&quot;&gt;Strengthening the Resilience of the Taunton River Watershed (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(108 pp, 8 MB)&lt;/span&gt;&lt;strong&gt;  &lt;/strong&gt;In partnership with EPA Region 1, The Nature Conservancy and local stakeholders, this project helped inform how Taunton communities decide on priority actions that would increase their overall resiliency and reduce their vulnerability to the converging impacts of climate change and development.  In addition to convening new networking opportunities among the Taunton River watershed stakeholders, the Taunton project also inventoried existing data and developed a decision making framework and a database tool. The tool for applying this framework is the focus of this report.  The framework links specific ecosystem services to important features of the watershed landscape to create an interactive tool that should help communities find ways to maintain the functions and processes most beneficial to their specific conditions (i.e., to become more resilient). The tool itself is designed so that stakeholders and decision makers can easily weight the ecosystem factors that are of most concern to them for the protection of the various ecosystem services.  It is also used to generate listings of top-ranked areas and export them for further examination, mapping and analysis. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/150813cp_hwp_final_report_508.pdf&quot;&gt;Clinch and Powell River System Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;/strong&gt; &lt;span&gt;(118 pp, 14 MB)&lt;/span&gt;  The Healthy Watersheds Program worked with the Clinch–Powell Clean Rivers Initiative (CPCRI) and others to identify healthy watersheds in the Clinch and Powell River System. The Clinch and Powell River System, upstream of Norris Lake, is one of the last free-flowing sections in the Tennessee River basin. It provides a habitat for many aquatic species, particularly rare freshwater mussels. The system begins in the mountains of southwest Virginia and empties into Norris Lake near Tazewell, TN, draining an area of 1.7 million acres. The Powell River begins in Wise County, VA, and flows 120 miles (190 km) southwest where it joins Norris Lake. The Clinch River begins in Tazewell County, VA, and flows approximately 200 miles (300 km) before reaching Norris Lake. The Clinch and Powell River System is home to one of the most diverse fish and mussel assemblages in North America, but over the years coal mining, agricultural activities and runoff from development have harmed this ecosystem. Despite these challenges, the watershed supports more than half of the native fish species currently in the Tennessee River basin, and at least 48 freshwater mussel species including 22 federally endangered species. The rivers also provide drinking water for more than 100,000 people, and are popular recreational sites. Healthy watersheds assessment methods and data products followed the conventional approaches from other assessments, producing watershed health and vulnerability indices and their respective subindices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/151016mt_final_report_july2015.pdf&quot;&gt;Montana Prairie Wetlands and Intermittent/Ephemeral Streams: Hydrologic Needs Assessment for Healthy Watersheds (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(65 pp, 2 MB)&lt;/span&gt;&lt;strong&gt;  &lt;/strong&gt;This project was conducted to address the hydrologic needs for healthy watersheds in Montana. Through a two-step process involving the development of hydrology–ecology hypotheses and a case study analysis of one of these hypotheses, it was demonstrated that precautionary limits of hydrologic alteration can be determined for the prairie wetlands of Montana. Twenty hydrology–ecology hypotheses addressing macroinvertebrates, fish, amphibians and birds were identified for individual- and landscape-level wetlands and intermittent/ephemeral steams. One of the hypotheses was then selected for a case study analysis to develop a proof-of-concept model relationship that describes hydrological alteration and ecological condition and supports the development of precautionary limits of hydrologic alteration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sites/production/files/2015-11/documents/151030national_phwa_factsheet.pdf&quot;&gt;Preliminary Healthy Watersheds Assessment for the 48 Conterminous United States: Project Summary (PDF)&lt;/a&gt; &lt;/strong&gt;&lt;span&gt;(2 pp, 0.3 MB)&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt; This Preliminary Assessment will provide a “first cut” product nationwide at a small watershed scale with individual statewide summaries intended to help states and others without Healthy Watersheds Assessments engage in watershed protection planning and prioritizing. The integrated assessment approach involves scoring watersheds with indices of Watershed Health (landscape condition, habitat condition, hydrologic condition, geomorphic condition, biological condition and water quality) and Watershed Vulnerability (projected climate change, land use change and future water use). To the extent possible with nationally available data, the preliminary assessment follows the same approach.  In addition to statewide assessment, the preliminary assessment will score and compare each ecoregion’s watersheds and then re-summarize by each ecoregion portion within state boundaries. This will enable state-level users to consider watershed protection options relative to each ecoregion within their state as well as how top-ranked watersheds compare across the state as a whole.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 27 Oct 2015 14:58:03 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">123021 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions About Healthy Watersheds</title>
+    <link>https://www.epa.gov/hwp/frequent-questions-about-healthy-watersheds</link>
+    <description>&lt;p&gt;The Healthy Watersheds website contains a wealth of information about what EPA is doing with the Healthy Watersheds Program, its formation, its programmatic and technical documents, and healthy watersheds assessment and protection methods.  You can also browse an extensive collection of local, state, regional and national scale activities involving healthy watersheds assessment and protection around the nation.  Don’t have time for all that, but still curious?  You may want to look through our Frequent Questions About Healthy Watersheds for some of the more basic details that visitors often want to know.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-219765&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/faqs_healthy_watershed.pdf&quot; type=&quot;application/pdf; length=128819&quot; class=&quot;file-link&quot;&gt;Frequent Questions About Healthy Watersheds (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 129 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 26 Oct 2015 19:17:12 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">122883 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Consortium Grant</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-consortium-grant</link>
+    <description>&lt;p&gt;&lt;strong&gt;NEW: 2017 Healthy Watersheds Consortium Grant Request for Proposals (RFP) now available&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;EPA, USDA/NRCS, and U.S. Endowment for Forestry and Communities Announce Availability of $2 million for 2017. Deadline February 1, 2017.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;See &lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.usendowment.org/healthywatersheds.html&quot;&gt;U.S. Endowment for Forestry and Communities, Healthy Watersheds Consortium website&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;WASHINGTON -- The U.S. Endowment for Forestry and Communities, Inc. (Endowment) today released the 2017 Request for Proposals for the Healthy Watersheds Consortium Grant Program. Additional grant funds are available in 2017-2018 through a new partnership with the Natural Resources Conservation Service (NRCS)--up to $2 million is available for the 2017 grant cycle.  NRCS joins the U.S. Environmental Protection Agency (EPA) and the Endowment as Healthy Watershed Consortium Grant Program funders. The program’s focus is to accelerate the strategic protection of healthy freshwater ecosystems and their watersheds across the country. The deadline for proposals is February 1, 2017 at 8:00 p.m. Eastern.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We are delighted to welcome NRCS as a partner in the Healthy Watersheds Consortium,” said Peter Stangel, the Endowment’s Senior Vice President. “NRCS brings tremendous watershed protection expertise and experience to the Consortium.  And, their funding will allow us to support even more projects over the next two years.”&lt;/p&gt;
+
+
+
+&lt;p&gt;The Healthy Watersheds Consortium Grant Program was conceived by the EPA Office of Wetlands, Oceans, and Watersheds to identify and protect healthy, aquatic ecosystems and their watersheds. Healthy watersheds are those in which the hydrological, biological, and land-based functions of the ecosystem are largely intact. The Program’s goal is to conserve healthy aquatic ecosystems and the supporting natural and managed landscape and watershed processes, such as hydrology, that support them.  Rather than waiting until a watershed is negatively impacted and attempting to restore it to health, the Healthy Watersheds Consortium Grant Program seeks to protect and sustain healthy watersheds so that they will continue to provide ecological services such as clean water, habitat for fish and wildlife, recreation, and protection from natural hazards.&lt;/p&gt;
+
+
+
+&lt;p&gt;In 2016, the first year of the Healthy Watersheds Consortium, 169 proposals were received and nine projects were funded, committing $1.4 million. These modest awards are expected to leverage tens of millions in additional funding that is projected to ultimately result in more than 200,000 acres of watersheds permanently protected.&lt;/p&gt;
+
+
+
+&lt;p&gt;“The Healthy Watersheds Consortium was also created to enhance collaboration among the many groups that will benefit from protected watersheds, such as drinking water and storm water, wildlife and fisheries, land conservation, and forestry and working lands,” Stangel said.  “We envision strong public/private partnerships that will protect watersheds and their benefits for generations to come.”&lt;/p&gt;
+
+
+
+&lt;p&gt;A Request for Proposals and other information is available on the&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.usendowment.org/healthywatersheds.html&quot;&gt;U.S. Endowment for Forestry and Communities, Healthy Watersheds Consortium website&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;br /&gt;
+	# # #&lt;br /&gt;&lt;strong&gt;For more information contact:&lt;br /&gt;
+	Peter Stangel, 404-915-2763; &lt;a href=&quot;mailto:peter@usendowment.org&quot;&gt;peter@usendowment.org&lt;/a&gt;&lt;/strong&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;br /&gt;
+	The &lt;strong&gt;U.S. Endowment for Forestry and Communities&lt;/strong&gt; (the Endowment) is a not-for-profit public charity working collaboratively with partners in the public and private sectors to advance systemic, transformative, and sustainable change for the health and vitality of the nation’s working forests and forest-reliant communities – &lt;span&gt;&lt;a href=&quot;http://www.usendowment.org/&quot;&gt;&lt;span&gt;U.S. Endowment for Forestry and Communities, Inc.&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Earlier Posts about the Healthy Watersheds Grant Consortium&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;[Posted June 2016]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA and U.S. Endowment for Forestry and Communities Award $1.4 Million to Protect and Sustain Healthy Watersheds&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Grants will accelerate watershed protection in California, Colorado, Florida, Maine, Oregon, Washington, and West Virginia&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;WASHINGTON&lt;/strong&gt;— The U.S. Environmental Protection Agency (EPA) and the U.S. Endowment for Forestry and Communities (Endowment) are providing for the first time $1.4 million in grants for nine projects to improve land management of hundreds of thousands of acres of watersheds in seven states.&lt;/p&gt;
+
+
+
+&lt;p&gt;Grants were awarded to organizations in California, Colorado, Florida, Maine, Oregon, Washington, and West Virginia to provide short-term funding to leverage larger financing for targeted watershed protection; to provide funds that help build the capacity of local organizations for sustainable, long-term watershed protection; or to support new techniques or approaches that advance the state of practice for watershed protection and that can be replicated across the country. &lt;/p&gt;
+
+
+
+&lt;p&gt;“The Healthy Watershed Consortium Grant Program is a unique public-private partnership that brings together businesses, local governments, universities, and not-for-profit organizations to work collaboratively on watershed protection--which is key to long-lasting environmental protection,” said Joel Beauvais, deputy assistant administrator for EPA’s Office of Water. “Today’s grants will protect waterways from pollution while maintaining healthy habitats and ensuring clean and safe drinking water that will safeguard local economies that depend on watersheds.”&lt;/p&gt;
+
+
+
+&lt;p&gt;“These grants will accelerate protection and improved management of watersheds across the United States,” said Carlton Owen, the Endowment’s President and CEO. &lt;/p&gt;
+
+
+
+&lt;p&gt;EPA launched the Healthy Watershed Consortium Grant Program in 2015 to accelerate and expand the protection of healthy, freshwater ecosystems and their watersheds. EPA co-funds the program with the Endowment, which manages the partnership.&lt;/p&gt;
+
+
+
+&lt;p&gt;The nine funded grants are: &lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Healthy Watersheds California&lt;/strong&gt;--$225,000 to Pacific Forest Trust to develop the policies, technical assessments, and financing instruments needed to leverage private and public capital for restoration and conservation of an estimated 7 million acres of watersheds which serve California’s primary reservoirs. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Protecting Forests to Protect Watersheds, California&lt;/strong&gt;--$200,000 to The Trust for Public Land and the Save the Redwoods League. These organizations are working collaboratively to seek California Clean Water State Revolving Fund loans for large-scale protection of forested watersheds. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Protecting Blue Creek &amp;amp; the Klamath River for Salmon, Wildlife and People, California&lt;/strong&gt;--$100,000 to Western Rivers Conservancy to implement long-term watershed protection plans, sell carbon offsets, and create new jobs in rural northern California. Partners, including the Yurok Tribe, will protect 47,000 acres within four watersheds in northern California&#039;s temperate rainforest.  &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Colorado Conservation Exchange: Accelerating Investment in Watershed Health&lt;/strong&gt;--$150,000 to accelerate investment in watershed health to reduce wildfire threats in the Big Thompson and Cache La Poudre watersheds and beyond through a Watershed Investment Fund linking investors with land stewards.  &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Myakka Island Conservation Corridor, Florida&lt;/strong&gt;--$156,000 to Conservation Foundation of the Gulf Coast to conserve more than 10,000 acres over the next six years within the Myakka River watershed, in rapidly-growing Sarasota and Manatee Counties. These properties will link and buffer already protected lands and help keep waterways drinkable, fishable and swimmable. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Permanently Protecting the Largest Rivers in Eastern Maine--&lt;/strong&gt;$150,000 to Downeast Salmon Federation, which has a goal to conserve 80 percent of the habitat corridors along the remaining three unprotected rivers in Washington County, Maine, by 2025. Funds will support a full-time director for three years at the Federation’s Downeast Rivers Land Trust. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Framework for Acquiring and Sustainably Managing Agricultural Land, Oregon&lt;/strong&gt;--$200,000 to Freshwater Trust to build a replicable framework to acquire and sustainably manage agricultural land in the John Day Basin, Oregon. The model will address the increasing conversion of farmland nationally. As farmers retire over the next 20 years, nearly half of all U.S. farmland—400 million acres—will change hands. Sustainable management of these farmlands will enhance watershed protection.  &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Accelerating Watershed Protection in the Central Puget Sound Region, Washington&lt;/strong&gt;--$200,000 to Puget Sound Regional Council, a metropolitan planning organization that includes 86 jurisdictions. Their project will develop a regional open space plan focused on protecting high priority, threatened ecosystems; prepare a watershed protection report that informs the upcoming update of the Region’s growth plan, VISION 2040, to integrate growth management with ecosystem protection; and promote use of a new online ecosystem service valuation tool for regional watershed benefits, decision making, and local actions. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Healing Waters Regional Landscape Initiative Cacapon River Watershed, West Virginia--&lt;/strong&gt;$100,000 to Cacapon and Lost Rivers Land Trust to develop the Healing Waters Regional Landscape Initiative, build capacity for large-scale protection efforts throughout the watershed, and create a strategic local and regional collaboration model.        &lt;/p&gt;
+
+
+
+&lt;p&gt;More general information on the Healthy Watersheds Consortium Grant Program can be found below and also at the&lt;span&gt;&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.usendowment.org/healthywatersheds.html&quot;&gt;U.S. Endowment for Forestry and Communities website&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;[posted October 2015]&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;EPA Announces $3.75 Million Grant to Support Local Projects to Protect Healthy Watersheds&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;span&gt;EPA is awarding a grant of $3.75 million over six years to the&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.usendowment.org/&quot;&gt;&lt;span&gt;U.S. Endowment for Forestry and Communities, Inc.&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt;&lt;span&gt; &lt;/span&gt;(Endowment) to support partner organizations and their local actions to improve and accelerate their efforts to protect healthy freshwater ecosystems and watersheds across the country. The Endowment will award funding to projects that develop and/or support state, interstate and tribal healthy watersheds programs. It’s expected that the Endowment will release a Request for Proposals (RFP) in late 2015.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;In addition to providing funding for projects, the Endowment will use this program to enhance collaboration among the many groups who benefit from protect&lt;s&gt;i&lt;/s&gt;ng healthy watersheds such as drinking water utilities, hunters and fisherman, foresters and farmers, and others. The Endowment is also matching a portion of EPA’s financial commitment to the partnership and expects to leverage additional funding from other public and private sources.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;The Endowment, headquartered in Greenville, SC, is a not-for-profit corporation established in 2006 at the request of the governments of the U.S. and Canada in accordance with the terms of the Softwood Lumber Agreement between the two countries. It has been endowed with $200 million under the terms of that Agreement. The Endowment was chosen because of its strong relationships with the environmental and land conservation communities and proven track record working with stormwater and drinking water groups to elevate the importance of watershed protection. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Healthy watersheds protection is defined broadly as actions that conserve, enhance, or improve aquatic ecosystems and support natural landscape and watershed processes such as hydrology in largely healthy watersheds. Protecting healthy watersheds maintains the resilience of aquatic ecosystems to climate change. Intact natural systems are more resilient because base flows are preserved during periods of drought, impacts of floods are mitigated through storage of surface and ground water in floodplains and wetlands, riparian corridors allow for species migration and carbon is sequestered in the natural land cover. This larger scale systems approach is becoming increasingly important to counter the challenges of climate change and the need to retain the resilience of aquatic ecosystems. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Read more at the&lt;span&gt; &lt;/span&gt;&lt;a href=&quot;http://www.usendowment.org/healthywatersheds.html&quot;&gt;U.S. Endowment for Forestry and Communities website&lt;/a&gt;&lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span&gt;.&lt;span&gt; &lt;/span&gt;Please note that the most up-to-date information about the program will be found on the Endowment’s website in the future.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt; FAQ’s&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;1. What is a healthy watershed? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For the purposes of this grant program, a Healthy Watershed is one in which natural land cover supports dynamic hydrologic and geomorphic processes within their natural range of variation (i.e., sediment storage and deposition); habitat of sufficient size and connectivity to support native aquatic and riparian species; and water quality that supports healthy biological communities. &lt;em&gt;(US EPA, 2012. Identifying and Protecting Healthy Watersheds: Concepts, Assessments, and Management Approaches. U.S. EPA, EPA-841-B-11-002). &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;2. What does EPA mean by “consortium”? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For the purposes of this program, a consortium is one entity who is linked with or in a collaborative partnership with other groups or organizations having similar healthy watersheds protection goals.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;3. What projects can be funded under the subawards? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;It is anticipated that the subaward projects will be either healthy watershed program development projects or local demonstration/training projects. For healthy watershed program development projects, the subaward funds should be provided for projects that develop and/or support state, interstate, and tribal healthy watersheds programs. Examples of projects include development of state, interstate, or tribal healthy watersheds strategies or plans that employ a systems-based, integrated approach to protection; environmental flows assessments; and public outreach and education on the importance of protecting healthy watersheds. For local demonstration/training projects, examples include protection of forested drinking water sources in headwaters, restoration of hydrologic connectivity, development of local conservation zoning and easement program plans.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;4. Can conservation easements be funded through the subaward grants? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Funds received through this competition cannot be used for the purchase of land or conservation easements. However, partner funding that is independent of this federal funding and not part of the cost share / match (required and voluntary cost share / match) may be used for implementation projects, such as for example, the purchase of land or conservation easements.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;5. Our university would like to participate as a subawardee for consortium grants because of our expertise on watershed related effects on stream ecosystem health. How can we find additional information on the subaward processs? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;It will take the grantee some time to set up the sub-grant program. We estimate that this will be sometime in the late 2015 timeframe. The grantee will establish a process for the sub-grants that will be included on a web site with sub-grant application instructions. EPA will have a link to this sub-grant website on our Healthy Watersheds Program website.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;6. How many subawards does EPA anticipate being made under this grant? Is there a minimum or maximum number required? Anticipated federal funding for this award is approximately $3.75 million. Does this amount include funding that the grantee will issue as subawards? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;There is no minimum or maximum number of sub-awards under this grant. The total funding of the grant with the required match is $5 million ($3.75M of federal funding, plus 25% match). The number of subawards under this grant depends upon any additional leveraged funds, increasing the total funding beyond $5 million, and the range of funding in proposed subawards. Funding for each sub-award may range from $50,000 to $150,000 per project. It is anticipated that a portion of the federal funding will go towards the subawards.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;7. Approximately how many subaward projects does EPA anticipate over the course of the grant period? Additionally, does EPA prefer that there be a high volume of small-scale short-term (1-2 year) subawards or a smaller volume of large-scale long-term (4-5 year) subawards? &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;EPA does not have a minimum or maximum number of subawards or the length of the individual subaward. Funding for each subaward is expected to be in the range of $50,000 to $150,000. The subawards funded under the cooperative agreement must be completed prior to the end of the cooperative agreement project period. The subawards need to be completed in sufficient time for the recipient to, for example, aggregate results and ensure that subawardees have been reimbursed for all incurred costs.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;8. Please provide clarity for the types of healthy watersheds that subawardees may apply to work on. For example, quality of watershed, size, location etc. &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Healthy watersheds protection is defined broadly as actions that preserve, enhance or improve aquatic ecosystems and supporting natural landscape and watershed processes such as hydrology in largely healthy watersheds. The grant is intended to support local protection and/or enhancement projects in healthy or primarily healthy watersheds that can be sustained into the future. A healthy watershed is one in which natural land cover supports dynamic hydrologic and geomorphic processes within their natural range of variation (i.e., sediment storage and deposition); habitat of sufficient size and connectivity to support native aquatic and riparian species; and water quality that supports healthy biological communities. Local projects must represent strategic priorities from an interstate, state, tribal, basin-scale, or regional-scale plan or strategy intended to protect healthy watersheds, or from some other prioritization scheme based on a healthy watersheds assessment.&lt;/p&gt;
+
+
+
+&lt;p&gt;To the extent a metropolitan river basin or watershed (e.g., Chesapeake Bay Watershed) has such a plan or strategy and is large enough to have healthy or primarily healthy watersheds that provide ecological infrastructure to support and sustain local protection and/or enhancement projects, then projects in healthy watersheds that are priorities for protection in the large basin or watershed would qualify for sub-grants.&lt;/p&gt;
+
+
+
+
+
+
+</description>
+     <pubDate>Fri, 23 Oct 2015 19:33:42 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">122595 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Projects in Region 10</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-projects-region-10</link>
+    <description>&lt;p&gt;&lt;img width=&quot;140&quot; height=&quot;198&quot; alt=&quot;Map of EPA Region 10&quot; src=&quot;/sites/production/files/2013-06/region10.png&quot; usemap=&quot;#m_region10&quot; /&gt;&lt;map name=&quot;m_region10&quot; id=&quot;m_region10&quot;&gt;&lt;area title=&quot;Alaska&quot; href=&quot;#ak&quot; shape=&quot;poly&quot; coords=&quot;0,1,140,1,140,64,0,64,0,1&quot; alt=&quot;Alaska&quot; /&gt;&lt;area title=&quot;Idaho&quot; href=&quot;#id&quot; shape=&quot;poly&quot; coords=&quot;96,86,106,88,140,163,134,198,71,186,80,162,79,150,88,140,90,134,86,130&quot; alt=&quot;Idaho&quot; /&gt;&lt;area title=&quot;Oregon&quot; href=&quot;#or&quot; shape=&quot;poly&quot; coords=&quot;87,131,90,133,88,140,79,150,79,161,71,186,0,167,0,151,23,108,29,114,32,124,41,122,60,129,65,126&quot; alt=&quot;Oregon&quot; /&gt;&lt;area title=&quot;Washington&quot; href=&quot;#wa&quot; shape=&quot;poly&quot; coords=&quot;96,87,86,130,66,126,60,129,41,122,32,123,29,113,22,108,22,76,43,72&quot; alt=&quot;Washington&quot; /&gt;&lt;/map&gt;&lt;/p&gt;
+
+&lt;p class=&quot;disclaimer right&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/epahome/pdf.html&quot;&gt;EPA&#039;s PDF page&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cbwtp.org/jsp/cbwtp/index.jsp&quot;&gt;Columbia Basin Water Transactions Program (CBWTP)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The CBWTP seeks creative solutions to maintaining instream flows at ecologically acceptable levels while providing water users with sufficient supplies. Methods used include: (1) water acquisitions; (2) boosting efficiency; (3) conserving habitat; (4) rethinking the source; (5) rotational pools; and (6) water banking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nwhi.org/index/hab&quot;&gt;Combined Habitat Assessment Protocols&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Combined Habitat Assessment Protocols (CHAP) is an accounting and appraisal tool that uses simple, yet scientifically advanced methodology to measure habitat quality (including aquatic habitats) by evaluating biodiversity within a habitat type and/or structural condition. It has been applied in the Western U.S. with its origins in transportation project mitigation. It was developed as a collaborative effort with 11 resource agencies that included: U.S. Army Corps of Engineers, Bureau of Land Management, Oregon Department of Environmental Quality, Oregon Department of Fish and Wildlife, Oregon Department of State Lands, Federal Highway Administration, NOAA Fisheries Service, State Historic Preservation Office, U.S. EPA, U.S. Forest Service and U.S. Fish &amp;amp; Wildlife Service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.waconservation.org/data/collins/GroundwaterMethodsGuideTNC_Jan08.pdf&quot;&gt;Groundwater-Dependent Ecosystem Methods Guide (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt; (176 pp, 6.6MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Nature Conservancy developed this document to assist resource managers in identifying where and when ground water is critical to sustain species and habitat diversity and what activities threaten ground water in these critical times and places in the Pacific Northwest.&lt;/p&gt;
+
+&lt;h3 id=&quot;ak&quot;&gt;Alaska&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;id&quot;&gt;Idaho&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;or&quot;&gt;Oregon&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.defenders.org/resources/publications/programs_and_policy/biodiversity_partners/oregon_stewardship_incentives.pdf&quot;&gt;Stewardship Incentives: Conservation Strategies for Oregon’s Working Landscape (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(140 pp, 1.2MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;This report helps landowners understand the many incentives available for conservation actions, including regulatory relief, direct financial assistance and market-based incentives.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dfw.state.or.us/conservationstrategy/docs/document_pdf/b-statewide_5.pdf&quot;&gt;Engaging Oregonians in Conservation: Strategy Outreach, Conservation Education and Fish and Wildlife-Based Tourism (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 1.6MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;This report from the Oregon Department of Fish &amp;amp; Wildlife details objectives and opportunities in conservation education, fish and wildlife-based tourism and human dimensions research in Oregon. These approaches help to link people with their natural communities.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.oregon.gov/oweb/Pages/docs/pubs/OR_wsassess_manuals.aspx&quot;&gt;Oregon&#039;s Watershed Assessment Manual (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 1.17 MB) &lt;/span&gt;&lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Oregon&#039;s Watershed Enhancement Board prepared a manual for conducting watershed assessments to better understand watershed health, determine how human activities are impacting water quality and habitat and evaluate the effects of land management and use changes over time. The assessment manual addresses hydrology, geomorphology, biological condition, chemical and physical water quality and land use. The assessment results in a watershed condition evaluation that prioritizes sites for protection or restoration actions and provides direction for additional monitoring and assessment activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://orbic.pdx.edu/&quot;&gt;Oregon Biodiversity Information Center&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Exemplifying the common functions of the state natural heritage programs, the Oregon Biodiversity Information Center supports programs focusing on rare species, invasive species and natural areas in the state.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.deq.state.or.us/lab/wqm/wqimain.htm&quot;&gt;Oregon Water Quality Index&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Oregon Department of Environmental Quality developed a water quality index that aggregates subindex scores for water quality parameters including bacteria, biochemical oxygen demand, dissolved oxygen, ammonia and nitrate nitrogen, total phosphorus, pH, temperature and total solids using an unweighted harmonic square mean formula. The index is particularly sensitive to whichever parameter is most severely impaired.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tpl.org/our-work/parks-for-people/deschutes-county-greenprint&quot;&gt;Greenprint for Deschutes County, Oregon&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Deschutes County, Oregon is one of the nation&#039;s fastest-growing counties. With no comprehensive countywide plan prioritizing the lands for conservation and recreation, the outstanding quality of life attracting entrepreneurs and new residents to the region was under increasing threat. In 2008, The Trust for Public Land, in partnership with Deschutes Land Trust, city administrators and local Parks and Recreation departments throughout the county created a Greenprint for Deschutes County. Guided by an experienced Greenprinting team, volunteers from every corner of the county came together to add their expertise and local knowledge to public and academic data about the local landscape, recreation priorities and balanced growth. The team used the information to create interactive maps that highlight and prioritize key protection areas for important scenic views, wildlife habitat and trail connections—as identified by the local people who use them. These maps and the accompanying report will help guide future conservation in all its forms, from the purchase of land and easements, to improved development planning.&lt;/p&gt;
+
+&lt;h3 id=&quot;wa&quot;&gt;Washington&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mrsc.org/subjects/environment/criticalpg.aspx&quot;&gt;Washington’s Critical Areas Growth Management Act&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Per the state’s Growth Management Act, all cities and counties in Washington must develop regulations that protect the functions and values of critical areas, including wetlands, frequently flooded areas, fish and wildlife habitat conservation areas, areas that are critical to the recharge of aquifers that are sources of potable water and geologically hazardous areas. The state has compiled a number of documents to guide city and county officials in using the best available science to identify the functions and values of critical areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fortress.wa.gov/ecy/publications/summarypages/0506027.html&quot;&gt;Protecting Aquatic Ecosystems: A Guide for Puget Sound Planners to Understand Watershed Processes&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;This document provides guidance for Puget Sound planners, resource managers and others on how to better protect aquatic ecosystems, such as lakes, rivers, wetlands and estuaries, by including information about watershed processes in resource management plans and regulatory actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fortress.wa.gov/ecy/publications/publications/1106016.pdf&quot;&gt;Puget Sound Characterization: The Water Resource Assessments (Water Flow and Water Quality) (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(74 pp, 6.4MB) &lt;/span&gt;&lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Puget Sound Characterization is a set of water and habitat assessments that compare areas within a watershed for restoration and protection value. It is a coarse-scale decision-support tool that provides information for regional, county and watershed-based planning. The assessments cover water resources (both water flow and water quality) and fish and wildlife habitats (in terrestrial, freshwater, and marine nearshore areas) over the entire drainage area of Puget Sound. The assessments provide a watershed-scale perspective on the relative importance of small watersheds for the protection and restoration of water resources and habitats that is not generally provided by other available tools. Final results can also be analyzed to identify the basis for a small watershed’s relative importance, and to guide potential management strategies for that watershed. The information it provides will allow local and regional governments and others to base their decisions regarding land use on a systematic analytic framework that prioritizes specific geographic areas on the landscape as focus areas for protection, restoration and conservation of the region’s natural resources, and that also identifies areas that are likely more suitable for development.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ecy.wa.gov/programs/wr/instream-flows/isfhm.html&quot;&gt;Washington Instream Flow Program&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Washington Department of Ecology is required by state law to retain adequate amounts of water in streams to protect and preserve instream resources and uses (such as fish, wildlife, recreation, aesthetics, water quality and navigation). One of the best water management tools for protecting stream flows is to set flow levels in regulation. Watershed management groups around the state are examining local water resources and working with Ecology to set or revise instream flows in their watersheds. The intent is to set instream flows throughout the state.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 18:51:57 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">122585 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Projects in Region 9</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-projects-region-9</link>
+    <description>&lt;p&gt;&lt;img width=&quot;140&quot; height=&quot;214&quot; alt=&quot;Map of EPA Region 9&quot; src=&quot;/sites/production/files/2013-06/region9.png&quot; usemap=&quot;#m_region9&quot; /&gt;&lt;map name=&quot;m_region9&quot; id=&quot;m_region9&quot;&gt;&lt;area title=&quot;Arizona&quot; href=&quot;#az&quot; shape=&quot;poly&quot; coords=&quot;88,88,85,101,80,99,81,103,81,108,79,110,80,119,82,123,78,125,75,135,73,137,77,140,72,142,107,167,130,172,140,96&quot; alt=&quot;Arizona&quot; /&gt;&lt;area title=&quot;California&quot; href=&quot;#ca&quot; shape=&quot;poly&quot; coords=&quot;46,11,7,1,1,18,6,101,45,137,74,141,76,139,73,137,76,135,78,125,83,123,80,117,79,112,37,49&quot; alt=&quot;California&quot; /&gt;&lt;area title=&quot;Hawaii&quot; href=&quot;#hi&quot; shape=&quot;poly&quot; coords=&quot;0,157,78,157,78,214,0,214,0,157&quot; alt=&quot;Hawaii&quot; /&gt;&lt;area title=&quot;Nevada&quot; href=&quot;#nv&quot; shape=&quot;poly&quot; coords=&quot;46,11,38,49,79,111,81,104,79,100,81,98,85,101,101,24&quot; alt=&quot;Nevada&quot; /&gt;&lt;/map&gt;&lt;/p&gt;
+
+&lt;p class=&quot;disclaimer right&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/epahome/pdf.html&quot;&gt;EPA&#039;s PDF page&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;regional&quot;&gt;Regional&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wildutahproject.org/files/images/rsra-ug2010v2_wcover.pdf&quot;&gt;Rapid Assessment of the Functional Condition of Stream-Riparian Ecosystems in the American Southwest (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt; (60 pp, 2.95 MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Combinations of up to seven indicators in five different ecological categories (water quality, fluvial geomorphology, aquatic and fish habitat, vegetation composition and structure and terrestrial wildlife habitat) are used to generate numeric scores in this Rapid Stream Riparian Assessment. The scores rank the level of disturbance to natural processes in riparian systems and their habitat complexity.&lt;/p&gt;
+
+&lt;h3 id=&quot;az&quot;&gt;Arizona&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.pima.gov/CMO/SDCP/&quot;&gt;Sonoran Desert Conservation Plan&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Sonoran Desert Conservation Plan integrates all natural resource protection and land use planning activities into one plan that reflects community values.&lt;/p&gt;
+
+&lt;h3 id=&quot;ca&quot;&gt;California&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mywaterquality.ca.gov/monitoring_council/healthy_streams/&quot;&gt;California’s Healthy Streams Partnership&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Healthy Streams Partnership (HSP) is an interagency workgroup of the California Water Quality Monitoring Council. The mission of the HSP is to promote the protection of California’s healthy streams and the restoration of threatened and impaired streams by providing timely and accurate information directly useful for resource management decisions and actions. The HSP participated in the development of the EPA Healthy Watersheds Program funded &lt;a href=&quot;http://www.mywaterquality.ca.gov/monitoring_council/healthy_streams/docs/ca_hw_report_111213.pdf&quot;&gt;California Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(118 pp, 8.5MB) &lt;/span&gt;&lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mywaterquality.ca.gov/monitoring_council/healthy_streams/docs/ca_hw_report_111213.pdf&quot;&gt;California Integrated Assessment of Watershed Health (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(118 pp, 8.5MB) &lt;/span&gt;&lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The EPA Healthy Watersheds Program and California’s Healthy Streams Partnership conducted an integrated assessment of relative watershed health throughout California. Six metrics describing structural watershed characteristics relevant to aquatic ecosystem health were quantified from GIS layers for each NHDPlus catchment in the state. An additional six stream condition metrics (chemical constituent concentrations, physical habitat index scores, etc.) were quantified for NHDPlus catchments in non-arid regions using statistical models. The models predicted values of stream health metrics based on a catchment’s land cover, soil attributes, topography and other landscape variables. Metrics were combined into a Watershed Condition Index and a Stream Health Index and scores across the state were mapped to highlight priority areas for protection. To complement the analysis of watershed health, eleven metrics describing the vulnerability of California watersheds to future climate, land use and water use change and wildfire risk were selected and quantified for NHDPlus catchments throughout the state. Vulnerability metrics were combined into a Watershed Vulnerability Index and index scores were mapped to further prioritize protection of watersheds that are healthy but vulnerable to future degradation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cwam.ucdavis.edu/&quot;&gt;California Watershed Assessment Manual&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The California Watershed Assessment Manual (CWAM) is an example of a statewide effort to develop a framework for conducting holistic watershed assessments and a set of tools to communicate the approach to local watershed groups, local and state agencies and others. The manual outlines data sources and methods for assessing multiple ecological attributes, including: landscape condition; aquatic habitat extent and condition; fluvial geomorphology; hydrology; water quality; and biological condition.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sacriver.org/files/documents/2010/SacRiverBasin_ReportCard_Report.pdf&quot;&gt;Sacramento River Basin Report Card &amp;amp; Technical Report: Feather River Watershed (PDF)&lt;/a&gt; &lt;span&gt; (205 pp, 26.7MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Sacramento River Basin Report card was developed using a stakeholder-driven identification of goals and selection of indicators to evaluate attainment of those goals. The condition of the Sacramento River Basin&#039;s subwatersheds was assessed based on the 16 selected indicators (including natural and human processes) and a multimetric index that combines the indicators. Trends over time were also evaluated to determine whether conditions are improving or worsening for the different goals identified by the stakeholders. Results are presented in a report card format for easy interpretation by both the public and decision makers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://watershedhealth.org/Files/document/607_AssessingWatershedValues.pdf&quot;&gt;Assessing Ecosystem Values of Watersheds in Southern California: Los Angeles &amp;amp; San Gabriel Rivers Watershed Council (PDF)&lt;/a&gt; &lt;span&gt;(205 pp, 39MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The Los Angeles &amp;amp; San Gabriel Rivers Watershed Council performed an assessment of the health of the Arroyo Seco watershed, a tributary to the Los Angeles River. The science-based systematic assessment resulted in a report card designed to reveal the health of the environment and communities in the Southern California region. The first step in the assessment framework involved the generation of a menu of indicators based on a systematic review of the essential ecological, social and economic attributes of watersheds in the assessment area. Next, those indicators were populated with appropriate measures that reveal the condition of the features of the indicator. Using the measures, each indicator was then described for its current condition, the trend of its condition over time and the certainty of those descriptions given the measures that were utilized in the assessment. Finally, a report was issued that describes each step of the process as decisions were made, stakeholders were included and the research and assessment was conducted.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cramwetlands.org/&quot;&gt;California Rapid Assessment Method (CRAM)&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;The California Rapid Assessment Method is designed for use in monitoring wetland health and assessing the effectiveness of wetland and riparian restoration projects. CRAM can be applied to seven main types of wetlands (riverine and riparian, lacustrine, depressional, estuarine, wet meadows, vernal pools and playas). A 1-3 hour field assessment is used to generate a wetland condition score. The maximum CRAM score possible represents the best condition that is likely to be achieved for the type of wetland being assessed based on landscape context, hydrology, physical structure and biotic structure.&lt;/p&gt;
+
+&lt;h3 id=&quot;hi&quot;&gt;Hawaii&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;nv&quot;&gt;Nevada&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.lvwash.org/html/&quot;&gt;Habitat Protection for the Las Vegas Wash&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;Nevada’s Las Vegas Wash Coordination Committee was developed to restore and enhance riparian areas and the ecological resources within the Las Vegas Wash.&lt;/p&gt;
+
+&lt;h3 id=&quot;pi&quot;&gt;Pacific Islands&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 18:44:13 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">122583 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Watersheds Projects in Region 8</title>
+    <link>https://www.epa.gov/hwp/healthy-watersheds-projects-region-8</link>
+    <description>&lt;p&gt;&lt;img width=&quot;140&quot; height=&quot;129&quot; alt=&quot;Map of EPA Region 8&quot; src=&quot;/epafiles/images/maps/region8.gif&quot; usemap=&quot;#m_region8&quot; /&gt;&lt;map name=&quot;m_region8&quot; id=&quot;m_region8&quot;&gt;&lt;area title=&quot;Colorado&quot; href=&quot;#co&quot; shape=&quot;poly&quot; coords=&quot;37,125,44,86,98,89,96,129&quot; alt=&quot;Colorado&quot; /&gt;&lt;area title=&quot;Montana&quot; href=&quot;#mt&quot; shape=&quot;poly&quot; coords=&quot;34,51,8,45,7,14,9,1,91,10,87,51,33,47&quot; alt=&quot;Montana&quot; /&gt;&lt;area title=&quot;North Dakota&quot; href=&quot;#nd&quot; shape=&quot;poly&quot; coords=&quot;91,10,88,41,138,44,136,11&quot; alt=&quot;North Dakota&quot; /&gt;&lt;area title=&quot;South Dakota&quot; href=&quot;#sd&quot; shape=&quot;poly&quot; coords=&quot;88,42,86,70,140,78,140,45&quot; alt=&quot;South Dakota&quot; /&gt;&lt;area title=&quot;Utah&quot; href=&quot;#ut&quot; shape=&quot;poly&quot; coords=&quot;29,73,10,71,0,118,38,125,44,86,28,82&quot; alt=&quot;Utah&quot; /&gt;&lt;area title=&quot;Wyoming&quot; href=&quot;#wy&quot; shape=&quot;poly&quot; coords=&quot;34,47,27,82,43,86,84,88,87,50,88,51,34,47&quot; alt=&quot;Wyoming&quot; /&gt;&lt;/map&gt;&lt;/p&gt;
+
+&lt;p class=&quot;disclaimer right&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/epahome/pdf.html&quot;&gt;EPA&#039;s PDF page&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;regional&quot;&gt;Regional&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;co&quot;&gt;Colorado&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cwcb.state.co.us/environment/instream-flow-program/Pages/main.aspx&quot;&gt;Colorado Instream Flow Program&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;In Colorado’s semi-arid environment, water is scarce with many competing demands placed on it by an ever-increasing population. The Colorado Water Conservation Board is responsible for the appropriation, acquisition, protection and monitoring of instream flow and natural lake level water rights to preserve and improve the natural environment to a reasonable degree.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.conservationgateway.org/ConservationPractices/Freshwater/EnvironmentalFlows/MethodsandTools/ELOHA/Pages/Case-CO.aspx&quot;&gt;Colorado Watershed Flow Evaluation Tool&lt;/a&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;This project demonstrates the use of flexible approaches to develop flow-ecology curves based on studies reported in the literature and demonstrates the use of flow-ecology curves to inform basin-scale water-resource planning.&lt;/p&gt;
+
+&lt;h3 id=&quot;mt&quot;&gt;Montana&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;nd&quot;&gt;North Dakota&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;sd&quot;&gt;South Dakota&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;ut&quot;&gt;Utah&lt;/h3&gt;
+
+&lt;p&gt;None&lt;/p&gt;
+
+&lt;h3 id=&quot;wy&quot;&gt;Wyoming&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/wyoming/tnc-wetlandbrochure-v8.pdf&quot;&gt;Wyoming Wetland Complex Inventory and Assessment (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 2.68 MB)&lt;/span&gt; &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;This is a landscape-scale geospatial assessment of wetlands in Wyoming for identifying and mapping &#039;wetland complexes&#039; and quantifying the relative importance of these complexes in terms of biodiversity, recreational potential, agricultural influence, current condition and vulnerability to future environmental changes. It is based on an overlay analysis of 16 different data layers.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 18:24:38 +0000</pubDate>
+ <dc:creator>dnorto02</dc:creator>
+ <guid isPermaLink="false">122577 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:57:48, expires @ 2017-01-26 04:57:48, lifetime 12 hours -->

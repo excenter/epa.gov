@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/37577/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Quality System (AQS)</title>
+    <link>https://www.epa.gov/feed/37577/rss.xml</link>
+    <description>Updated Air Quality System (AQS) content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/37577/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>RSS December 2016</title>
+    <link>https://www.epa.gov/aqs/rss-december-2016</link>
+    <description>&lt;p&gt;&lt;b&gt;&lt;span&gt;Ozone Monitoring Seasons&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The Ozone NAAQS standard published in 2015 established new Ozone Monitoring Seasons that go into effect in 2017.  &lt;/p&gt;
+
+&lt;p&gt;On January 3, 2017, AQS will implement this change.  At that time all existing Ozone Monitoring Seasons will be superseded.  Going forward, the state-specific seasons, from 40 CFR Part 58 Appendix D Table D-3 will be loaded into AQS.  Additionally, the monitoring season for all NCORE Ozone monitors will be set to the full calendar year (January 1 – December 31).  To apply for a waiver from the published seasons for a specific set of sites, please contact your EPA Regional Representative.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Dec 2016 13:18:57 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">167795 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>NAAM Conference 2016</title>
+    <link>https://www.epa.gov/aqs/naam-conference-2016</link>
+    <description>&lt;p&gt;The following Presentations were presented by the AQS team at the 2016 National Ambient Air Monitoring Conference.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-309671&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/1_aqs_monitor_metadata2016_0.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=262412&quot; class=&quot;file-link&quot;&gt;AQS Monitor Metadata&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 262 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309675&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/2_access_control_2016_naamc.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=465791&quot; class=&quot;file-link&quot;&gt;AQS Access Control&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 466 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309679&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/3_exceptional_events_2016_naamc.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=491352&quot; class=&quot;file-link&quot;&gt;Exceptional Events&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 491 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309681&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/4_data_certification_2016.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=1590877&quot; class=&quot;file-link&quot;&gt;Data Certification&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-309685&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/5_working_with_qa_data_2016_naamc.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=1003061&quot; class=&quot;file-link&quot;&gt;Working with QA Data&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(44 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309695&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/8_obtaining_aqs_data_2016_naamc.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=1114829&quot; class=&quot;file-link&quot;&gt;Obtaining AQS Data&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309705&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/9_user_support_2016.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=394788&quot; class=&quot;file-link&quot;&gt;User Support&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 395 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309711&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/10_aqs_plans.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=166380&quot; class=&quot;file-link&quot;&gt;AQS Plans&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 166 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-309715&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/aqs_data_handling.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=180990&quot; class=&quot;file-link&quot;&gt;AQS Data Handling&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 181 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309719&quot; class=&quot;file file-document file-application-vndms-powerpoint&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/aqsbasics2016_load.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=2930688&quot; class=&quot;file-link&quot;&gt;AQS Basics Load&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(72 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309725&quot; class=&quot;file file-document file-application-vndms-powerpoint&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/aqsbasics2016_reports.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=1496064&quot; class=&quot;file-link&quot;&gt;AQS Basics Reports&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(39 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-309727&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pmp_tutorial.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=287453&quot; class=&quot;file-link&quot;&gt;PMP Tutorial&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 287 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+
+
+
+</description>
+     <pubDate>Thu, 18 Aug 2016 14:33:52 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">157789 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Outage July 2016</title>
+    <link>https://www.epa.gov/aqs/aqs-outage-july-2016</link>
+    <description>&lt;h2 class=&quot;highlighted&quot;&gt;&lt;span&gt;AQS outage this weekend (July 1-5, 2016).&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;The EPA National Computer Center will be shut down for maintenance this weekend from 10 p.m. on Friday, July 01 through 6 a.m., Tuesday, July 05.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;During this time AQS will not be available. &lt;/span&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 30 Jun 2016 11:49:57 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">153761 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS PEAT</title>
+    <link>https://www.epa.gov/aqs/aqs-peat</link>
+    <description>&lt;p&gt;PEAT is a tool that assists auditors in performing NPAP audits for sites.  Audits can be scheduled, performed and the results uploaded immediately to AQS.  All data is verified against AQS data and business rules to ensure the submitted data will be accepted by AQS.&lt;/p&gt;
+
+&lt;p&gt;PEAT has been designed to refresh all reference data and check and perform upgrades as they are released.  Applying the upgrades are very important since they will contain bug fixes and enhancements.&lt;/p&gt;
+
+&lt;p&gt;PEAT has been built using a universal model and will run on either the 32 bit version or the 64 bit version of Windows XP, Windows 7, Windows 8 and Windows 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/npap/install/AQSPEATInstall.zip&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png left view-mode-medium&quot; style=&quot;width:265px;&quot;&gt;&lt;img alt=&quot;Download PEAT&quot; height=&quot;264&quot; width=&quot;265&quot; class=&quot;left media-element file-medium left&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-04/peatlogo.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;span&gt;Installation instructions:&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p&gt;Click the PEAT Graphic to begin your download. You will be prompted to &#039;Open&#039; or &#039;Save&#039;, select &#039;Save&#039;. Once the download completes open the folder that you saved the zip file to. Right click on the zip file, at the popup menu select &#039;Winzip&#039;, from there select &#039;Unzip to here&#039;. After unzipping the installation files launch &#039;setup.exe&#039; to install PEAT. Click the &#039;Install&#039; button. The setup program will install a shortcut on your desktop and automatically launch PEAT after the install has completed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;*** NOTE ***&lt;/strong&gt;&lt;br /&gt;
+	You will need Administrator rights for the initial install of PEAT.&lt;br /&gt;
+	Upgrades do not require Administrator rights.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 05 Apr 2016 17:22:43 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">142255 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Webinars</title>
+    <link>https://www.epa.gov/aqs/aqs-webinars</link>
+    <description>&lt;p&gt;Here is the Power Point Presentation that was presented on the January 28 and February 3, 2016 Webinar: &lt;span id=&quot;file-261871&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/2016_q1_webinar.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=964236&quot; class=&quot;file-link&quot;&gt;1st Quarter 2016 Webinar&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(41 pp, 964 K, 
+  February 3, 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Here is the Power Point Presentation from the April 14 and April 19, 2016 Webinar: &lt;span id=&quot;file-276551&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-04/data_certification_2016.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=1637499&quot; class=&quot;file-link&quot;&gt;2016_Q2_Webinar&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Here are the Q&amp;amp;As for the January 28 and February 3, 2016 Webinar: &lt;span id=&quot;file-262161&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/revised_q_and_a.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=111622&quot; class=&quot;file-link&quot;&gt;First Quarter Webinar Q&amp;amp;A Document&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 112 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+</description>
+     <pubDate>Thu, 03 Mar 2016 13:18:51 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">137437 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Census Population Data</title>
+    <link>https://www.epa.gov/aqs/aqs-census-population-data</link>
+    <description>&lt;p&gt;Updates to the Census Population Data in AQS:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/sites/production/files/2016-01/documents/population_update_one_pager_inactive_urbanized_areas.pdf&quot;&gt;Population Update 1 pager&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-250635&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-01/documents/population_update_one_pager_inactive_urbanized_areas.pdf&quot; type=&quot;application/pdf; length=72921&quot; class=&quot;file-link&quot;&gt;Population Update (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 73 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 27 Jan 2016 13:48:00 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">133139 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Code List</title>
+    <link>https://www.epa.gov/aqs/aqs-code-list</link>
+    <description>&lt;h2&gt;AQS Codes and Descriptions &lt;!-- #EndEditable --&gt;&lt;!-- END PAGE NAME --&gt;&lt;!-- BEGIN CONTENT AREA --&gt;&lt;!-- #BeginEditable &quot;content&quot; --&gt;&lt;/h2&gt;
+
+&lt;div&gt;
+	
+
+	&lt;p&gt;Links go to HTML pages that are refreshed nightly. The pages can be downloaded as comma separated values (CSV) files.&lt;/p&gt;
+
+	&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;strong&gt;Geographic&lt;/strong&gt;&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/methods_all.html&quot;&gt;All Parameters&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/qualifiers.html&quot;&gt;Qualifiers&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/agencies_all.html&quot;&gt;Agencies - all&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/methods_criteria.html&quot;&gt;Criteria only&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/parameters.html&quot;&gt;Parameters&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/agencies_tribal.html&quot;&gt;Agencies - Tribal only&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/methods_met.html&quot;&gt;Met only&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/parameter_classes.html&quot;&gt;Parameter Classifications&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/states_and_counties.html&quot;&gt;States &amp;amp; Counties&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/methods_haps.html&quot;&gt;HAPS only&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/disallowed_qualifiers.html&quot;&gt;Parameters -  Disallowed Qualifiers&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/cities.html&quot;&gt;Cities&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/methods_speciation.html&quot;&gt;PM2.5 Speciation only&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/units.html&quot;&gt;Units&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/cbsas.html&quot;&gt;CBSAs&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/durations.html&quot;&gt;Durations&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/csas.html&quot;&gt;CSAs&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/collection_frequencies.html&quot;&gt;Collection Frequencies&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/uars.html&quot;&gt;Urban Areas&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/networks.html&quot;&gt;Network Affiliations &lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/aqcrs.html&quot;&gt;Air Quality Control Regions (AQCR)&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/monitor_types.html&quot;&gt;Monitor Types&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/pollutant_standards.html&quot;&gt;Pollutant Standards&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/aqi_breakpoints.html&quot;&gt;AQI breakpoints&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/qapps.html&quot;&gt;Quality Assurance Project Plans (QAPPS)&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/certifying_agencies.html&quot;&gt;Certifying Agencies by Monitor&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/certification_flags.html&quot;&gt;Certification Flags&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/audit_levels.html&quot;&gt;Audit Levels&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/codetables/ozone_seasons.html&quot;&gt;Ozone Seasons&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+
+
+&lt;table summary=&quot;Table 1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Allowed combinations of parameter + sampling methodology (collection and analysis). This list also includes other information, such as the standard unit, the summary scale and the minimum sample value that is allowed into AQS.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Parameters&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Not just pollutants but anything that is measurable, including meteorology measurements, i.e., wind speed.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Qualifiers&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Qualifiers are used when reporting data to AQS. Qualifiers further explain the data.
+				&lt;ul&gt;&lt;li&gt;&quot;&lt;strong&gt;Null&lt;/strong&gt;&quot; qualifiers
+						&lt;ul&gt;&lt;li&gt;required when submitting a null (i.e., nothing was collected) sample measurement; All Null qualifiers are available for every parameter&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&quot;&lt;strong&gt;QA&lt;/strong&gt;&quot; qualifiers - optional
+
+						&lt;ul&gt;&lt;li&gt;quality assurance qualifiers are used when data is valid but you want to note something. i.e. measurement was &quot;Below lowest calibration level&quot;&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&quot;&lt;strong&gt;Inform&lt;/strong&gt;&quot; qualifiers - optional
+
+						&lt;ul&gt;&lt;li&gt;informational qualifiers are used in place of a REQuest EXClusion qualifier; use only when an exclusion of the data will not be requested&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&quot;&lt;strong&gt;ReqExc&lt;/strong&gt;&quot; qualifiers
+
+						&lt;ul&gt;&lt;li&gt;required when submitting data that is affected by an Exceptional Event and for which an exclusion will be requested&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Parameters - Disallowed Qualifiers all&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;List of disallowed qualifiers for each parameter.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Collection frequencies&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;The amount of time between sample observations.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Durations&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Required when reporting a measurement; the length of time used to acquire a sample measurement (can sometimes called the interval) E.g., measurements for a 24 hour sample are reportedwith AQS Duration Code = 7.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Units&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Units of measurement. Apply to both Reported and Standard Sample Values.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Monitor types&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Indicates the purpose of a monitor. Each monitor is required to have at least one monitor type.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Pollutant Standard&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Every NAAQS has a unique Pollutant Standard in AQS, i.e. &quot;2008 8-hour ozone NAAQS&quot;.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;AQI breakpoints&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;For select pollutants, the AQI transforms ambient concentrations to a scale from 0 to 500. Since AQS generates the AQI values, we also store the breakpoints for the AQI ranges (&quot;Good&quot;, &quot;Moderate&quot;, &quot;Unhealthy&quot; for sensitive groups&quot; or &quot;Unhealthy&quot;, &quot;Very unhealthy&quot;, &quot;Hazardous&quot;.).&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Agencies&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Air pollution control agencies and other organizations reporting data to AQS. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;State and Counties&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;FIPS codes for all the states and the counties contained therein.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Cities&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;FIPS codes for cities.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CBSAs&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Core-Based Statistical Areas (CBSAs) - defined by OMB in June 2003; areas based around an urban center of &amp;gt; 10,000 people and adjacent areas; designations are made using US Census numbers.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;CSAs&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Combined Statistical Areas (CSAs) - defined by OMB in June 2003; areas based on adjacent CBSAs; designations are made using US Census numbers.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Quality Assurance Project Plans (QAPPS)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;Contains a list of all agencies that have submitted QAPPs and approval dates by EPA Region where appropriate&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Certifying Ageincies by Monitor&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;A list of criteria monitors. For each monitor, the most recent Certifying agency, PQAO, Collecting Agency, and Reporting Organization is included&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Certification Flags&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;A list of all valid Certification Flags&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Information on the format of the files:&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;You can download the full CSV (Comma Separated Values) file from any page that you are on. The CSV files have been designed to import into MS Excel with minimal effort&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Tue, 29 Sep 2015 13:06:32 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">118221 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Training</title>
+    <link>https://www.epa.gov/aqs/aqs-training</link>
+    <description>&lt;p&gt;AQS &lt;span&gt;provides free, online training to help users learn to effectivley navigate AQS and build their skills. &lt;/span&gt;Get your questions answered! Learn from AQS experts, see engaging demos, explore scenarios, and get the training you need to apply your new skills right away.&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;Video Training&lt;/h2&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-199835&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-09/ee_epaconcurrenceindicator_training_0.swf&quot; type=&quot;application/x-shockwave-flash; length=5411540&quot; class=&quot;file-link&quot;&gt;How to set the Regional Office Concurrence Flag for Exceptional Events&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-247427&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-01/aqs_login_instructions.swf&quot; type=&quot;application/x-shockwave-flash; length=2929377&quot; class=&quot;file-link&quot;&gt;How to log into AQS&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-249681&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-01/loadingfilesaqs.swf&quot; type=&quot;application/x-shockwave-flash; length=1906218&quot; class=&quot;file-link&quot;&gt;Loading Files in AQS&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-252593&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-02/ensc_login_instructions.swf&quot; type=&quot;application/x-shockwave-flash; length=3177525&quot; class=&quot;file-link&quot;&gt;ENSC Login Instructions&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-261957&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/ensc_submit_data_instructions.swf&quot; type=&quot;application/x-shockwave-flash; length=3232666&quot; class=&quot;file-link&quot;&gt;Submitting Data through ENSC&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-271683&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/understanding_batch_submissions.swf&quot; type=&quot;application/x-shockwave-flash; length=2176544&quot; class=&quot;file-link&quot;&gt;Understanding Batch Submissions&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;span id=&quot;file-286787&quot; class=&quot;file file-document file-application-x-shockwave-flash&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-05/aqs_batch_form_overview.swf&quot; type=&quot;application/x-shockwave-flash; length=2679134&quot; class=&quot;file-link&quot;&gt;AQS Batch Form Overview&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-199837&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/agency_roles_and_access.pdf&quot; type=&quot;application/pdf; length=555014&quot; class=&quot;file-link&quot;&gt;Agency Roles and Access Control (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 555 K, 
+  2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199839&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/aqs_data_access.pdf&quot; type=&quot;application/pdf; length=870790&quot; class=&quot;file-link&quot;&gt;AQS Data Access Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 871 K, 
+  2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199843&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/aqs_data_handling.pdf&quot; type=&quot;application/pdf; length=513384&quot; class=&quot;file-link&quot;&gt;AQS Data Handling (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 513 K, 
+  2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199849&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/aqs_support_and_help.pdf&quot; type=&quot;application/pdf; length=1112660&quot; class=&quot;file-link&quot;&gt;AQS Support and Help Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 1 MB, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199851&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/data_certification.pdf&quot; type=&quot;application/pdf; length=529218&quot; class=&quot;file-link&quot;&gt;Data Certification in AQS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 529 K, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199855&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/discoverer_replacement.pdf&quot; type=&quot;application/pdf; length=484577&quot; class=&quot;file-link&quot;&gt;Obtaining AQS Data (Discoverer Replacement) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 485 K, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199857&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/exceptional_events.pdf&quot; type=&quot;application/pdf; length=908114&quot; class=&quot;file-link&quot;&gt;Exceptional Events in AQS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 908 K, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199859&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/qa_trans_and_reports.pdf&quot; type=&quot;application/pdf; length=2139802&quot; class=&quot;file-link&quot;&gt;QA Transactions and Reports (Monitoring QA) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 2 MB, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199861&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/site_monitor_config.pdf&quot; type=&quot;application/pdf; length=584619&quot; class=&quot;file-link&quot;&gt;AQS Site Monitor Configuration (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 585 K, 
+  August 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199863&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/data_certification_criteria.pdf&quot; type=&quot;application/pdf; length=294254&quot; class=&quot;file-link&quot;&gt;Data Certification Criteria (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 294 K, 
+  April 2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199865&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/known_issues.pdf&quot; type=&quot;application/pdf; length=238639&quot; class=&quot;file-link&quot;&gt;Known Issues (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 239 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199869&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/pqao_criteria_met.pdf&quot; type=&quot;application/pdf; length=416917&quot; class=&quot;file-link&quot;&gt;PQAO Criteria Met (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 417 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-199871&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/faqs.pdf&quot; type=&quot;application/pdf; length=223013&quot; class=&quot;file-link&quot;&gt;FAQs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 223 K, 
+  2012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 23 Sep 2015 16:55:56 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">116291 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>AQS Use of Collocated PM2.5 Data and Parameter Occurance Codes</title>
+    <link>https://www.epa.gov/aqs/aqs-use-collocated-pm25-data-and-parameter-occurance-codes</link>
+    <description>&lt;p&gt;MEMORANDUM:&lt;/p&gt;
+
+&lt;p&gt;Use of Collocated PM2.5 Data and Parameter Occurance Codes (POCs)&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196133&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/25colo_0.pdf&quot; type=&quot;application/pdf; length=23214&quot; class=&quot;file-link&quot;&gt;Use of Collocated PM2.5 Data and Parameter Occurance Codes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 23 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 17 Sep 2015 19:37:28 +0000</pubDate>
+ <dc:creator>mbrook04</dc:creator>
+ <guid isPermaLink="false">114807 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>

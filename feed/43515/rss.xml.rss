@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/43515/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Sustainability</title>
+    <link>https://www.epa.gov/feed/43515/rss.xml</link>
+    <description>Updated Sustainability content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/43515/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Materials Management Wizard Fact Sheet</title>
+    <link>https://www.epa.gov/sustainability/materials-management-wizard-fact-sheet</link>
+    <description>&lt;p&gt;Sustainable materials management is a system approach to using and reusing materials more productively over their entire lifecycle. Find out more about our custom search engine for EPA&#039;s materials management resources.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-330489&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/mwiz_factsheet_final_11.9.2016-508.pdf&quot; type=&quot;application/pdf; length=756990&quot; class=&quot;file-link&quot;&gt;MWiz Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 757 K, 
+  November 2016, 
+  EPA-100-F-16-002)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    information on the MWiz application  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 21 Oct 2016 17:42:29 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">163253 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sustainability Resources</title>
+    <link>https://www.epa.gov/sustainability/sustainability-resources</link>
+    <description>&lt;p&gt;Use the following search engines to find tools and resources developed by EPA:&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;/sustainability/sustainability-web-resources&quot;&gt;Sustainability Resource Finder&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Search for EPA sustainability programs, tools, models and other resources.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;/sustainability/green-infrastructure-wizard&quot;&gt;Green Infrastructure Wizard&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Connect to EPA&#039;s green infrastructure programs, tools, models and other resources.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href=&quot;/sustainability/mwiz&quot;&gt;Materials Management Wizard&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Connect to EPA&#039;s sustainable materials management programs, tools, models and other resources.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 18 Oct 2016 20:26:17 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">162957 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title> Materials Management Wizard</title>
+    <link>https://www.epa.gov/sustainability/mwiz</link>
+    <description>&lt;p&gt;Materials Management is a systemic approach to using and reusing materials more productively over their entire lifecycles. EPA’s Materials Management Wizard, or &lt;a href=&quot;https://cfpub.epa.gov/mwiz/&quot;&gt;&lt;strong&gt;MWiz&lt;/strong&gt;&lt;/a&gt;, provides access to a repository of EPA-sourced materials management tools and resources designed to support and promote sustainable materials management and community planning.&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;span&gt;What is MWiz?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;slat&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;https://cfpub.epa.gov/mwiz/&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;MWiz screen shot&quot; title=&quot;MWiz screen shot&quot; height=&quot;254&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/mwiz_0.jpg&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;p&gt;MWiz is an interactive web application that connects communities to EPA Materials Management tools &amp;amp; resources.&lt;/p&gt;
+
+		&lt;p&gt;Users can produce customized reports.&lt;/p&gt;
+
+		&lt;p&gt;Find it &lt;a href=&quot;https://cfpub.epa.gov/mwiz/&quot;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;span&gt;Features include:&lt;/span&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;slat&quot;&gt;
+	&lt;div class=&quot;slat-content&quot;&gt;&lt;strong&gt;Quick Links&lt;/strong&gt;&lt;span&gt; – Customized access to thousands of materials management tools &amp;amp; resources, according to one of four objectives.&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;&lt;strong&gt;Explore&lt;/strong&gt; – Access to an interactive database of materials management tools &amp;amp; resources, based on your individualized specifications.&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;&lt;strong&gt;Connect&lt;/strong&gt; – For application related questions, send an email to GIWIZ@epa.gov.&lt;/div&gt;
+&lt;/div&gt;
+
+
+</description>
+     <pubDate>Tue, 13 Sep 2016 19:17:08 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">160039 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sustainability in Action Video Series</title>
+    <link>https://www.epa.gov/sustainability/sustainability-action-video-series</link>
+    <description>&lt;p&gt;Sustainability runs through all of EPA&#039;s work across the country. The stories below make up a video series entitled Sustainability in Action. Through employees telling their stories and films produced on the ground, we tried to capture stories that will inspire others to seek the path to sustainability.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;Sustainability in Action Videos&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/reg_2_-_camden_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vzlJmHhSC3M&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot;Camden Collaborative Initiative Strives for Sustainability&quot;&gt;Camden Collaborative Initiative Strives for Sustainability&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/reg_2_-_green_remediation_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bGPXmTtbojg&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot;Green Remediation at Lawrence Aviation site&quot;&gt;Green Remediation at Lawrence Aviation Site&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/r10_hailey_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=37WDcveitag&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot;Hailey, Hale and Hearty&quot;&gt;Hailey, Hale and Hearty&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/tom.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5xjxsFzv9DA&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot; E3 - The Economy, Energy and Environment Framework   Tom Murray&quot;&gt;In One Take: E3 - The Economy, Energy and Environment Framework&lt;br /&gt;
+					Tom Murray&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; style=&quot;line-height: 17.325px;&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/brittney_0.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xueAm5tWwyA&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot; ENERGY STAR Community Service Tour  Brittney Gordon&quot;&gt;In One Take: ENERGY STAR Community Service Tour&lt;br /&gt;
+					Brittney Gordon&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;media-element file-thumbnail&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/luis.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OJxj9BK2Ki4&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot; Sustainable Marine Transport Luis Troche&quot;&gt;In One Take: Sustainable Marine Transport&lt;br /&gt;
+					Luis Troche&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/r8_milltown_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=49EYSRhwFWg&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot; Dam Removal and River Restoration&quot;&gt;Milltown, MT: Dam Removal and River Restoration&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/r4_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4kBrcOiAx8c&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot;Reading Riding and Retrofit Program Improves Sustainability in Schools&quot;&gt;Reading Riding and Retrofit Program Improves Sustainability in Schools&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/r5_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sd-ajqYhrd4&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot; The Fond du Lac Story&quot;&gt;Sustainability and Beyond: The Fond du Lac Story&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-05/reg_6_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;a href=&quot;https://youtu.be/t3wf5S8dk3c&quot;&gt;Urban Waters Revitalization in San Antonio, TX&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img alt=&quot;Wildlife Corridor&quot; title=&quot;Wildlife Corridor&quot; height=&quot;96&quot; width=&quot;96&quot; class=&quot;media-element file-thumbnail&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-04/r10-i90_thumb.jpg&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;a href=&quot;https://youtu.be/AFLdQQz1MTw&quot;&gt;&lt;span dir=&quot;ltr&quot; id=&quot;eow-title&quot; title=&quot;  Improving Wildlife Passage&quot;&gt;Washington State I-90 Corridor: Improving Wildlife Passage&lt;/span&gt;&lt;/a&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-thumbnail&quot; style=&quot;width:96px;&quot;&gt;&lt;img height=&quot;96&quot; width=&quot;96&quot; class=&quot;center media-element file-thumbnail center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/thumbnail/public/2016-02/r10_or_thumb.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p style=&quot;vertical-align:top; width:610px&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kcvR9bx2D6E&quot;&gt;&lt;span dir=&quot;ltr&quot; title=&quot;Water Conservation in Oregon –Farmers Irrigation District&quot;&gt;Water Conservation in Oregon –Farmers Irrigation District&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Wed, 17 Feb 2016 22:03:06 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">135801 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sustainability Resource Finder</title>
+    <link>https://www.epa.gov/sustainability/sustainability-resource-finder</link>
+    <description>&lt;p&gt;Search EPA programs, tools, models and other resources that promote sustainability.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe height=&quot;900&quot; scrolling=&quot;yes&quot; src=&quot;https://ofmpub.epa.gov/apex/sustdata/f?p=sustdata&quot; style=&quot;width:100%&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 29 Jan 2016 18:36:22 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">133583 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>GIWiz Fact Sheet</title>
+    <link>https://www.epa.gov/sustainability/giwiz-fact-sheet</link>
+    <description>&lt;p&gt;Learn about the special features of GIWiz and how it can help you meet your green infrastructure needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-328521&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-11/documents/giwiz_fact_sheet_final103116.pdf&quot; type=&quot;application/pdf; length=868356&quot; class=&quot;file-link&quot;&gt;GIWiz Fact Sheet Final (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 868 K, 
+  August 2015, 
+  EPA-231-E-15-002)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 23 Sep 2015 15:28:17 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">116211 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Green Infrastructure Wizard</title>
+    <link>https://www.epa.gov/sustainability/giwiz</link>
+    <description>&lt;p&gt;Green infrastructure uses natural landscapes  to manage water and provide environmental and community benefits.  EPA’s &lt;a href=&quot;http://cfpub.epa.gov/giwiz&quot;&gt;Green Infrastructure Wizard&lt;/a&gt;, or &lt;a href=&quot;http://cfpub.epa.gov/giwiz&quot;&gt;&lt;strong&gt;GIWiz&lt;/strong&gt;&lt;/a&gt;, provides access to tools and resources that can support and promote water management and community planning decisions.&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;span&gt;What is GIWiz?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;slat&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;https://cfpub.epa.gov/giwiz/&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;GIWiz screen shot&quot; title=&quot;GIWiz screen shot&quot; height=&quot;251&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/giwiz_home_page_screenshot.jpg&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;p&gt;GIWiz is an interactive web application that connects communities to EPA Green Infrastructure tools &amp;amp; resources.&lt;/p&gt;
+
+		&lt;p&gt;Users can produce customized reports.&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;https://cfpub.epa.gov/giwiz/&quot;&gt;&lt;strong&gt;Visit GIWiz today&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;span&gt;Features include:&lt;/span&gt;&lt;/h2&gt;
+
+&lt;div class=&quot;slat&quot;&gt;
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;Quick Links&lt;/strong&gt; – Customized access to thousands of green infrastructure tools &amp;amp; resources, according to one of four objectives.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Explore&lt;/strong&gt; – Access to an interactive database of green infrastructure tools &amp;amp; resources, based on your individualized specifications.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Connect&lt;/strong&gt; – For application related questions, send an email to &lt;a href=&quot;mailto:giwiz@epa.gov&quot;&gt;GIWIZ@epa.gov&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 23 Sep 2015 14:39:06 +0000</pubDate>
+ <dc:creator>molend02</dc:creator>
+ <guid isPermaLink="false">116167 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Glossary of Sustainable Manufacturing Terms</title>
+    <link>https://www.epa.gov/sustainability/glossary-sustainable-manufacturing-terms</link>
+    <description>
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#A&quot;&gt;A&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#B&quot;&gt;B&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#C&quot;&gt;C&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#E&quot;&gt;E&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#F&quot;&gt;F&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#G&quot;&gt;G&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#H&quot;&gt;H&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#I&quot;&gt;I&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#L&quot;&gt;L&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#M&quot;&gt;M&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#O&quot;&gt;O&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#P&quot;&gt;P&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#R&quot;&gt;R&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#S&quot;&gt;S&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#T&quot;&gt;T&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#V&quot;&gt;V&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#W&quot;&gt;W&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;
+				&lt;h2&gt;&lt;a href=&quot;#Z&quot;&gt;Z&lt;/a&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;a id=&quot;A&quot; name=&quot;A&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;A&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accreditation&lt;/strong&gt;: Third party review and assessment of an organization&#039;s conformity with an established standard and certification.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attribute&lt;/strong&gt;: The characteristics or elements of products or services that determine the type of extent of their short- and long-term impacts on the environment and/or human health. Environmental attributes include, for example, biodegradability, recyclability, volatile organic compound (VOC) emissions, energy efficiency, water efficiency, indoor air emissions, hazardous waste, and carinogenicity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audit&lt;/strong&gt;: A stematic, independent and documented process for obtaining evidence and evaluating it objectively to determine the extent to which predetermined criteria are fulfilled.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Auditor&lt;/strong&gt;: A person with the demonstrated personal attributes and ability to apply knowledge and skills necessary to conduct an audit.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;B&quot; name=&quot;B&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;B&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefit&lt;/strong&gt;: An environmentall, economically or socially positive outcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;By-product&lt;/strong&gt;: A secondary or incidental product of a manufacturing process (e.g., scrap or emissions).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;C&quot; name=&quot;C&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;C&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Certification&lt;/strong&gt;&lt;span&gt;: Third-party confirmation (or, the process leading to confirmation) that products, processes or persons have demonstrated specific requirements.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Certifier&lt;/b&gt;: An organization which assesses an entity&#039;s compliance with a standard or set of criteria, and issues a certificate if deemed successful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chain of Custody&lt;/strong&gt;: The tracing of a product or commodity through a supply chain to determine whether the product meets the criteria of an eco-label and that the certified product is identifiable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cleaner Production Assessment (CPA)&lt;/strong&gt;: A methodology to systematically identify and evaluate cleaner (less polluting, less toxic and less wasteful) production opportunities and facilitate their implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Closed-loop Production&lt;/strong&gt;: A production system in which any industrial output is capable of being recycled to create another product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corporate Social Responsibility&lt;/strong&gt;: The continuing committment by businesses to behave ethically and contribute to economic development while improving the quality of life of the workplace as well as the local community and society at large.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cost of Ownership&lt;/strong&gt;: A financial estimate designed to help consumers and enterprise managers assess direct and indirect costs related to the purchase of any capital investment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cost Benefit Analysis (CBA)&lt;/strong&gt;: An estimate of the total equivalent money value of the benefits and costs to the community of projects. A CBA is used to establish whether a given project is worthwhile.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Compliance/Conformance Audit&lt;/strong&gt;: A check to verify whether an entity meets applicable standards of a program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conformity Assessment&lt;/strong&gt;: A demonstration that specified requirements for a product, process, system, person or body are fulfilled. This may include any activity concerned with determining directly or indirectly that relevant requirements are fulfilled.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corporate Social Responsibility&lt;/strong&gt;: A form of corporate self-regulation integrated into a business model in which a business embraces responsibility for its actions and encourages a positive impact through its activities on the environment, consumers, employees, communities, and stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Corrective Action Reports&lt;/strong&gt;: Reports that are issued during certification evaluations or audits that require entities to make specific changes in order to meet criteria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cradle-to-cradle Manufacturing&lt;/strong&gt;: An approach to the design of products that seeks to be essentially waste-free. All materials used are designated as either technical nutrients, which are non-toxic synthetic materials that are reused in continuous cycles, and biological nutrients, which can be disposed of into natural environments to decompose into the soil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cumulative Energy Requirements Analysis&lt;/strong&gt;: A process to quantify the primary energy requirement for products and services from a lifecycle perspective.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;E&quot; name=&quot;E&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;E&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Eco-efficiency Analysis&lt;/strong&gt;: An assessment aimed at maximizing a production process’ economic efficiency while minimizing the impact on the environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eco-label&lt;/strong&gt;: A visual communication tool that indicates environmentally preferable products, services, or companies that meet specific standards. Different types of eco-labels include pass-fail; tiered; multi-attribute; and single attribute.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ecological Footprint&lt;/strong&gt;: The total amount of land, food, water, and other resources used by, or the total ecological impact of, a person or organization’s subsistence; usually measured in acres or hectares of productive land.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Claim&lt;/strong&gt;: Any statement, assertion, or visual display about the environmental aspects of an organization, product, or process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Impact Assessment (EIA)&lt;/strong&gt;: The process of identifying and evaluating the consequences of one economic activity on the environment and, when appropriate, mitigating those consequences. An EIA is used as an aid to public decision-making on larger projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Impact Statement (EIS)&lt;/strong&gt;: A document required by the National Environmental Policy Act (NEPA) for certain actions significantly affecting the quality of the human environment. An EIS is a tool for decision making. It describes the positive and negative environmental effects of a proposed action, and it usually also lists one or more alternative actions that may be chosen instead of the action described in the EIS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Management Systems (EMS)&lt;/strong&gt;: A framework that helps a company achieve its environmental goals through consistent control of its operations. The assumption is that this increased control will improve the environmental performance of the company. The EMS itself does not dictate a level of environmental performance that must be achieved; each company&#039;s EMS is tailored to the company&#039;s business and goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Performance Indicators&lt;/strong&gt;: Indicators that describe products’ or processes’ impacts on living and non-living natural systems, including ecosystems, land, air and water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Product Declaration (EPD)&lt;/strong&gt;: A declaration of a product’s performance with regard to different environmental parameters during the product’s life cycle. An EPD requires the gathering of quantified environmental data for a product with pre-set categories of parameters (raw material, energy use, etc.). Also includes additional product and company information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Risk Assessment (ERA)&lt;/strong&gt;: The examination of technology-related risks that threaten ecosystems, animals and people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmentally Preferable Products&lt;/strong&gt;: Products or services that have a lesser or reduced effect on human health and the environment as compared to competing products or services that serve the same purpose. This comparison involves the impacts of a product or service’s raw materials, manufacturing, packaging, distribution, use, reuse, operation, maintenance, and disposal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eutrophication&lt;/strong&gt;: The process by which a body of water or ecosystem acquires a high concentration of organic matter with potentially damaging consequences.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;F&quot; name=&quot;F&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;F&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;First, Second, and Third Party&lt;/strong&gt;: These terms describe a person or organization&#039;s relationship to a product or organization. The first party is the organization, and provides the object. The second party is usually a person or organization that the first organization interacts with. The third party is a person or body that is independent of the first and second party.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Party Certification&lt;/strong&gt;: When the producer of an entity claims to meet a criterion or standard without the verification or endorsement of another party.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;G&quot; name=&quot;G&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;G&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Green Design&lt;/strong&gt;: The design of products, services, buildings, or experiences that are sensitive to environmental issues and achieve greater efficiency and effectiveness in terms of energy and materials use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Green/Sustainable Procurement&lt;/strong&gt;: A process for buying products with a reduced environmental impact compared to similar products.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;H&quot; name=&quot;H&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;H&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Harmonization&lt;/strong&gt;: A process whereby national or regional standards and requirements are aligned, including product and manufacturing standards and conformance assessment requirements. Harmonization does not necessarily require that standards be identical in each jurisdiction, but rather that they be consistent or compatible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Harmonized Standards&lt;/strong&gt;: Standards approved by different standardizing bodies that establish interchangeability of products, processes, and services, or mutual understanding of test results or information provided according to these standards.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;I&quot; name=&quot;I&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;I&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;: The adverse or beneficial effect or output of an activity, product, or substance on the environment or human health.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Input-Output Analysis&lt;/strong&gt;: An economic tool used to measure the impacts of an existing, proposed, or anticipated business operation, decision, or event on the economy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;International Organization for Standardization (ISO) Standards&lt;/strong&gt;: ISO standards are developed by an international body in order to establish requirements, specifications, guidelines, or characteristics that can be used consistently to ensure that materials, products, processes, and services are fit for their purpose. Two examples of ISO standards are ISO 14001 for environmental management systems and ISO 50001 for energy management systems.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;L&quot; name=&quot;L&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;L&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Landfill-free&lt;/strong&gt;: All waste (or at least 90 percent) generated from operations is reused, recycled, or converted to energy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LEED Certification&lt;/strong&gt;: An acronym for Leadership in Energy and Environmental Design, a program sponsored by the United States Green Building Council that creates standards for developing high performance, sustainable buildings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Cycle&lt;/strong&gt;: 1. Consecutive and interlinked stages of a product system, from raw material acquisition or generation of natural resources to final disposal. 2. Life cycle stages include raw material extraction, manufacturing/production, transportation, use, and disposal/recycling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Cycle Assessment&lt;/strong&gt;: Compilation and evaluation of the inputs, outputs, and the potential environmental impacts of a product system throughout its life cycle. The comprehensive examination of a product or service’s environmental aspects and potential impacts throughout its lifetime, including raw material extraction, transportation, manufacturing, use, and disposal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Cycle Cost&lt;/strong&gt;: All costs associated with the defined life cycle of a product, including capital costs, installation costs, operating costs, maintenance costs, and disposal costs. This definition does not include external costs (i.e., those not borne directly by the entity that owns and operates a product/service, such as environmental costs to society at large).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Cycle Thinking&lt;/strong&gt;: A concept that integrates existing consumption and production strategies. Life cycle approaches help avoid shifting problems from one life cycle stage to another, from one geographic area to another and from one environmental medium (e.g., air, water, soil) to another.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;M&quot; name=&quot;M&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;M&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Material and Substance Flow Analysis&lt;/strong&gt;: Mapping of the total use, recycling, and disposal of a specific material or substance in a defined region.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Material Input per Unit Service (MIPS)&lt;/strong&gt;: The weighted cradle to-grave material inputs of a good, as defined per units of services obtainable. This concept can be used to measure the eco-efficiency of a product or service. The calculation takes into account materials required to produce a product or service. The total material input (MI) is divided by the number of service units (S). For example, in the case of a passenger car, the number of service units is the total number of passenger-miles during the whole life span of the vehicle. The lower the material input per mile, the more eco-efficient the vehicle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Multi-Attribute&lt;/strong&gt;: A type of eco-label or standard that captures a number of environmental attributes or life-cycle attributes or impacts of a product.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;O&quot; name=&quot;O&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;O&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Open-Loop Recycling&lt;/strong&gt;: A recycling process in which materials from old products are made into new products in a manner that changes the inherent properties of the materials.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organic&lt;/strong&gt;: A term signifying the absence of pesticides, hormones, synthetic fertilizers and other toxic materials in the cultivation of agricultural products; &quot;organic&quot; is also a food labeling term that denotes the product was produced under the authority of the Organic Foods Production Act.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;P&quot; name=&quot;P&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;P&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Pre- and Post-Market Certification&lt;/strong&gt;: Two types of conformance checks, where &quot;market&quot; means when the certification is publicized to the market. These two approaches are used within a certification system that implements a strategy for credibility assurance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Stewardship&lt;/strong&gt;: A product-centered approach to environmental protection that calls on those in the product life cycle (e.g. manufacturers, retailers, users, and disposers) to share responsibility for reducing the environmental impacts of products.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pollution Prevention&lt;/strong&gt;: Practices that reduce or eliminate the creation of pollutants through increased efficiency in the use of raw materials, energy, water, or other resources, or protection of natural resources by conservation, including:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Reduction in the amount of any hazardous substance, pollutant, or contaminant into the environment prior to recycling, treatment, or disposal.&lt;/li&gt;
+	&lt;li&gt;Reduction in hazards to public health and the environment associated with the release of such substances, pollutants, or contaminants.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;R&quot; name=&quot;R&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;R&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Recycling&lt;/strong&gt;: The process of converting waste into a reusable material or return a material to a previous state in a cyclic process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;: Third party attestation that systems have demonstrated specified requirements. Such systems include those established for the management of product, process, or service quality and environmental performance. Registration is the first step in the process of certification.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remanufacturing&lt;/strong&gt;: A form of product recovering that involves rebuilding, repairing, and/or restoring parts or an instrument to match the same consumer expectations as new machines.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;S&quot; name=&quot;S&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;S&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Second Party Certified or Verified&lt;/strong&gt;: The assessment of an entity against a standard by an organization that has an interest in the entity but is not the producer of the standard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sustainability: &lt;/strong&gt;A concept based in the principle that humans depend on the natural environment for survival and well-being, and that humans and nature can exist in productive harmony. Sustainability is the conditions that ensure that human impact on the environment is sufficiently mitigated in pursuit of the protection of natural resources and of future generations&#039; access to water, material, resources, and social and economic requirements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supply Chain Management&lt;/strong&gt;: An information management tool which integrates procurement, operations and logistics from raw materials acquisition to customer satisfaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sustainable Manufacturing&lt;/strong&gt;: Sustainable manufacturing (also called sustainable design or green design) is the creation of manufactured products through economically-sound processes that minimize negative environmental impacts while conserving energy and natural resources. Sustainable manufacturing also protects employee, community, and consumer safety.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;T&quot; name=&quot;T&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;T&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Third Party Certified or Verified&lt;/strong&gt;: An entity is assessed against a standard by an independent (third party) organization that is independent from the entity being certified (first party), and from the program that set the standard (second party).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency: &lt;/strong&gt;A measure of increased accountability and decreased corruption in which a business reports on its ethics and performance results through accessible publication of the business&#039; practices and behavior.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Triple Bottom Line&lt;/strong&gt;: A phrase describing a company&#039;s improved top line financial performance over the long term due to sustainable business practices, including less capital investment and increased revenues. The triple bottom line refers to environmental, social, and economic sustainability.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;V&quot; name=&quot;V&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;V&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Voluntary Consensus Standards&lt;/strong&gt;: Standards developed or adopted by voluntary consensus standards bodies, both domestic and international. These standards include provisions requiring that owners of relevant intellectual property have agreed to make that intellectual property available on a non-discriminatory, royalty-free or reasonable royalty basis to all interested parties.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voluntary Consensus Standards Bodies&lt;/strong&gt;: Domestic or international organizations that plan, develop, establish, or coordinate voluntary consensus standards using agreed-upon procedures. These bodies are defined by openness, balance of interest, due process, the existence of an appeals process, and a consensus process.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;W&quot; name=&quot;W&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;W&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Waste-to-Energy&lt;/strong&gt;: A recovery process in which waste is incinerated or otherwise turned into steam or electricity, and used to generate heat, light or power through the process of combustion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Waste-to-Profit&lt;/strong&gt;: The process of using one company&#039;s waste or byproduct as the input or raw material for another company, thereby increasing business profits and decreasing waste; also referred to as &quot;byproduct synergy.&quot;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Z&quot; name=&quot;Z&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;Z&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Zero Waste&lt;/strong&gt;: A system-wide approach that seeks to maximize recycling, minimize waste, reduce consumption, and ensure that products are designed to be reused, repaired, or recycled back into the environment or marketplace.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;dl style=&quot;vertical-align:baseline&quot;&gt;&lt;/dl&gt;</description>
+     <pubDate>Thu, 30 Jul 2015 15:03:20 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">101537 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sustainable Manufacturing</title>
+    <link>https://www.epa.gov/sustainability/sustainable-manufacturing</link>
+    <description>&lt;p&gt;A large and growing number of manufacturers are realizing substantial financial and environmental benefits from sustainable business practices. Sustainable manufacturing is the creation of manufactured products through economically-sound processes that minimize negative environmental impacts while conserving energy and natural resources. Sustainable manufacturing also enhances employee, community and product safety.&lt;/p&gt;
+
+&lt;h2&gt;The Business Case for Sustainable Manufacturing&lt;/h2&gt;
+
+&lt;p&gt;A growing number of companies are treating &quot;sustainability&quot; as an important objective in their strategy and operations to increase growth and global competitiveness. This trend has reached well beyond the small niche of those who traditionally positioned themselves as &quot;green,&quot; and now includes many prominent businesses across many different industry sectors. In many cases, these efforts are having significant results.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;vertical-align:baseline&quot;&gt;There are a number of reasons why companies are pursuing sustainability:&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Increase operational efficiency by reducing costs and waste&lt;/li&gt;
+	&lt;li&gt;Respond to or reach new customers and increase competitive advantage&lt;/li&gt;
+	&lt;li&gt;Protect and strengthen brand and reputation and build public trust&lt;/li&gt;
+	&lt;li&gt;Build long-term business viability and success&lt;/li&gt;
+	&lt;li&gt;Respond to regulatory constraints and opportunities&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Companies engaged in sustainability efforts include those of all sizes, ages and sectors. Companies move forward along the path to sustainability by improving performance and reducing their resource footpring. Ways that companies progress further on the path to sustainability include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Address sustainability in a coordinated, integrated and formal manner, rather than in an ad hoc, unconnected and informal manner&lt;/li&gt;
+	&lt;li&gt;Focus on increased competitiveness and revenues rather than primarily focusing on cost-cutting, risk reduction and improved efficiency&lt;/li&gt;
+	&lt;li&gt;Use innovation, scenario planning and strategic analysis to go beyond compliance&lt;/li&gt;
+	&lt;li&gt;Integrate sustainability across business functions&lt;/li&gt;
+	&lt;li&gt;Focus more on the long term&lt;/li&gt;
+	&lt;li&gt;Work collaboratively with external stakeholders&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Find more information on sustainable manufacturing on &lt;a href=&quot;/e3&quot;&gt;EPA&#039;s E3 website&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 30 Jul 2015 13:37:19 +0000</pubDate>
+ <dc:creator>CReed04</dc:creator>
+ <guid isPermaLink="false">101475 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:15:09, expires @ 2017-01-27 11:15:09, lifetime 1 day -->

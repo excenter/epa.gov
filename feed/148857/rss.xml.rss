@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/148857/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Electronic Reporting of Air Emissions</title>
+    <link>https://www.epa.gov/feed/148857/rss.xml</link>
+    <description>Updated Electronic Reporting of Air Emissions content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/148857/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>WebFIRE</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/webfire</link>
+    <description>&lt;p&gt;WebFIRE is EPA’s online emissions factor repository, retrieval, and development tool. The WebFIRE database contains EPA’s recommended emissions factors for criteria and hazardous air pollutants (HAP) for industrial and non-industrial processes. In addition, WebFIRE contains the individual data values used to develop the recommended factors and other data submitted to EPA by federal, state, tribal, and local agencies; consultants; and industries. For each recommended emissions factor and individual data value, WebFIRE contains descriptive information such as industry and source category type, control device information, the pollutants emitted, and supporting documentation.&lt;/p&gt;
+
+&lt;p&gt;WebFIRE includes data submitted to EPA from the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Electronic Reporting Tool (ERT)&lt;/a&gt;. Beginning January 1, 2012, industries are required to submit their source test data to EPA using the ERT application. This information is shared with WebFIRE and is available to the public. More information about the ERT data is available on the &lt;a href=&quot;http://cfpub.epa.gov/webfire/&quot;&gt;Search WebFIRE page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Information about updates, changes or enhancements to the system, and Frequently Asked Questions (FAQs) will be posted on this page.&lt;/p&gt;
+
+&lt;h2&gt;Related Information&lt;/h2&gt;
+
+&lt;p&gt;To assist State and local agencies in compiling data that is needed for purposes of developing the National Emissions Inventory (NEI), EPA developed emissions factors for Electric Generating Units (EGUs). These emissions factors were developed using about 200 of the over 400 stack test data that were collected as part of the Information Collection Requests (ICR’s) issued as part of the development of the Mercury and Air Toxics Standards (MATS) Rule. These factors were derived using an early version of EPA’s Draft 2013 Recommended Procedures for Development of Emissions Factors. These emissions factors have NOT gone through EPA public comment and review and therefore, should NOT be used for any purpose other than for development of the NEI. These factors are available at this link &lt;a href=&quot;ftp://ftp.epa.gov/EmisInventory/2011/doc/mats_efs_haps_with_eis.xlsx&quot;&gt;MATs emissions factors&lt;/a&gt; &lt;small&gt;(XLSX 563 K)&lt;/small&gt; NOTE: Click on the &quot;OPEN&quot; button and it will take a few minutes to open.&lt;/p&gt;
+
+&lt;h2&gt;Related Websites&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri&quot;&gt;Compliance and Emissions Data Reporting Interface (CEDRI)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Electronic Reporting Tool (ERT)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-factors-and-quantification/basic-information-air-emissions-factors-and-quantification&quot;&gt;Air Emissions Factors/AP-42&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-factors-and-quantification/emissions-estimation-tools&quot;&gt;Air Emissions Estimation Tools&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/chief/chief-archive-search&quot;&gt;CHIEF Archives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://cfpub.epa.gov/webfire/&quot;&gt;&lt;strong&gt;Search WebFIRE now&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 04 Aug 2016 16:14:44 +0000</pubDate>
+ <dc:creator>tlowe</dc:creator>
+ <guid isPermaLink="false">156597 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CDX / CEDRI Registration Process</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/cdx-cedri-registration-process</link>
+    <description>&lt;p&gt;Submittal of files through CDX requires a CROMERR compliant signature &lt;a href=&quot;/cromerr&quot;&gt;(What is CROMERR?)&lt;/a&gt;. Authorized signature authorities for the facility should use the LexisNexis electronic identity validation service in lieu of a paper based validation. If the signature authority chooses to use the paper based validation process, the CDX Reporting Center will request the phone number of the signature authority’s employer/authorizing official to verify employment.&lt;/p&gt;
+
+&lt;p&gt;Facility contractors (consultants) must proceed through the paper based validation process prior to submitting files to CDX. Contractors should not use the LexisNexis electronic signature authority validation process in lieu of the paper based validation process. During the validation process, the CDX Reporting Center will request the phone number of an authorized official of the facility on behalf of which the files are submitted. The CDX Reporting Center will contact the authorized official to verify that the contractor is authorized to submit data on behalf of the company.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cdx.epa.gov/epa_home.asp&quot;&gt;Proceed to CDX Registration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/cedriguide.pdf&quot;&gt;CDX/CEDRI User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(110 pp, 4.5 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Return to ERT&lt;/a&gt; | &lt;a href=&quot;/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri&quot;&gt;Return to CEDRI&lt;/a&gt;&lt;/div&gt;
+</description>
+     <pubDate>Thu, 04 Aug 2016 15:05:37 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">156589 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Electronic Reporting Tool (ERT) Tips and Frequently Asked Questions</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert-tips-and-frequently-asked-questions</link>
+    <description>&lt;p&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Return to ERT&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tips&lt;/h2&gt;
+
+&lt;p&gt;This section provides tips on how to use the ERT. Click on the bullet below to view tip relating to your selection. Links throughout the answers will guide you to further information on our web site. If you have tips, questions or comments, please contact Theresa Lowe by sending an email to &lt;a href=&quot;mailto:lowe.theresa@epa.gov&quot;&gt;lowe.theresa@epa.gov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/Modified Method 26A Subpart S and the ERT.pdf&quot;&gt;How do I submit Subpart S Modified Method 26A data with the ERT?&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 1.4 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ERT tip 9 30 15.pdf&quot;&gt;I am having issues with creating an ERT submission package file, what can I do?&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 161 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ERT not responding.pdf&quot;&gt;I have entered the data correctly, but the ERT does not seem to be responding, what do I do?&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 101 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/how to enter process-based emissions.pdf&quot;&gt;How do I enter process-based emissions?&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 404 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/instrumental and isokinetic methods.pdf&quot;&gt;What methods should I enter first if I have instrumental and isokinetic methods in one performance test?&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 104 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;Frequently Asked Questions&lt;/h2&gt;
+
+	&lt;p&gt;This section provides answers to frequently asked questions about the Electronic Reporting Tool (ERT). Click on a question below to view answers relating to your selection. Links throughout the answers will guide you to further information on our web site. Should you have any further questions or comments, please contact Theresa Lowe by sending an email to &lt;a href=&quot;mailto:lowe.theresa@epa.gov&quot;&gt;lowe.theresa@epa.gov&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;#1&quot;&gt;How can I get the ERT to run on my computer?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#2&quot;&gt;Is there a way I can stop the ERT security warnings?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#3&quot;&gt;Are the ERT calculations correct for the Volume of Water Vapor Collected and for the Dry Gas Meter Volume? I get a different value when I use the EPA Method 5 calculations for those parameters.&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#4&quot;&gt;How do I submit my files electronically to EPA?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#5&quot;&gt;How do I submit my files to EPA if I can&#039;t use the ERT program? (For instance, the test data includes methods not supported by the ERT)&lt;/a&gt;.&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#6&quot;&gt;How do I submit my ERT files to EPA if the data includes confidential business information (CBI)?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#7&quot;&gt;My CDX registration has been approved, and my ERT files are in the correct format. I keep getting the message that my submission to CEDRI was not successful. Why is this?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#8&quot;&gt;I am already registered to submit TRI-ME (or TSCA, RCRA, CEDRI etc.) data through EPA&#039;s CDX. Can I extend my authorization to other data systems?&lt;/a&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;hr /&gt;&lt;div&gt;&lt;a id=&quot;1&quot; name=&quot;1&quot;&gt;&lt;/a&gt;
+
+		&lt;p&gt;1. &lt;em&gt;&lt;strong&gt;How can I get the ERT to run on my computer?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;Verify you have a version of Microsoft Access® that will run the ERT.&lt;/p&gt;
+
+		&lt;p&gt;If you have Microsoft Access version 2007:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Verify that you have at least Service Pack 2 installed.
+				&lt;ul&gt;&lt;li&gt;Open Microsoft Access, click on the MS circle in the upper left corner of the Access window,&lt;/li&gt;
+					&lt;li&gt;Click on &quot;Access Options&quot; at the bottom of the window,&lt;/li&gt;
+					&lt;li&gt;Click on &quot;Resources&quot; in the left column.&lt;/li&gt;
+					&lt;li&gt;At the bottom of the window just below the text &quot;about Microsoft Office Access 2007&quot; the software (Microsoft Office Access 2007) and the Service Pack level is identified. If Service Pack 2 is installed, the text &quot;SP2 MSO&quot; will be between two sets of numbers that are in parentheses.&lt;/li&gt;
+					&lt;li&gt;If you do not have Service Pack 2 installed, click on &quot;Check for Updates&quot; and follow the directions to install the updates from Microsoft. Many corporate computers do not allow users to install software and you will need to contact your Information Technology Center for them to update your software.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;If you have Microsoft Access version 2010:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Any Service Pack level is acceptable in order to run the ERT Application.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;If you do NOT have Microsoft Access or have an earlier version than 2007:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;You will need to download and install the runtime version of Microsoft Access from the &lt;a href=&quot;//www.microsoft.com/download/en/details.aspx?id=10910 &quot;&gt;Microsoft Access Download Center&lt;/a&gt;.&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;After installing the runtime version of Microsoft Access, download the ERT ZIP file to your hard drive and extract the manual and the database to a folder. Open the program with MS Access.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;a id=&quot;2&quot; name=&quot;2&quot;&gt;&lt;/a&gt;
+
+		&lt;p&gt;2. &lt;em&gt;&lt;strong&gt;Is there a way I can stop the ERT security warnings?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;If you have Microsoft Access 2007, to avoid these warnings every time you run ERT, make the ERT directory and all subdirectories &quot;Trusted Locations&quot;.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;To make the ERT directory a Trusted location, close the ERT application, open Microsoft Access,&lt;/li&gt;
+			&lt;li&gt;Click on the MS circle in the upper left corner of the Access window,&lt;/li&gt;
+			&lt;li&gt;Click on &quot;Access Options&quot; at the bottom of the window,&lt;/li&gt;
+			&lt;li&gt;Click on &quot;Trust Center&quot; in the left column,&lt;/li&gt;
+			&lt;li&gt;Click on &quot;Trust Center&quot; Settings,&lt;/li&gt;
+			&lt;li&gt;Click on &quot;Trusted Locations&quot;,&lt;/li&gt;
+			&lt;li&gt;Click on &quot;Add new location&quot;.&lt;/li&gt;
+			&lt;li&gt;Browse for the location or directory where you saved the ERT application (the file ERT4.accdb). Select this location and click on the box to the left of &quot;Subfolders of this location are also trusted to enable these locations&quot;.&lt;/li&gt;
+			&lt;li&gt;Click on &quot;OK&quot;. Verify that the Path that you selected is one of the trusted locations.&lt;/li&gt;
+			&lt;li&gt;Click &quot;OK&quot; to close the Trust Center window then the Access Options window.&lt;/li&gt;
+			&lt;li&gt;Close Access. Reopen the ERT application.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;a id=&quot;3&quot; name=&quot;3&quot;&gt;&lt;/a&gt;
+
+		&lt;p&gt;3. &lt;em&gt;&lt;strong&gt;Are the ERT calculations correct for the Volume of Water Vapor Collected and for the Dry Gas Meter Volume? I get a different value when I use the EPA Method 5 calculations for those parameters.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;Neither the ERT nor your calculations are incorrect.&lt;/p&gt;
+
+		&lt;p&gt;In &lt;a href=&quot;https://www3.epa.gov/ttn/emc/promgate/m-05.pdf&quot;&gt;EPA Method 5&lt;/a&gt;, options are available in the equations for calculating the volume of gas sample measured by the dry gas meter, corrected to standard conditions (V&lt;sub&gt;m(std)&lt;/sub&gt;) and the equation for calculating the volume of water vapor in the gas sample, corrected to standard conditions (V&lt;sub&gt;w(std)&lt;/sub&gt;).&lt;/p&gt;
+
+		&lt;p&gt;In both instances, there are two equations presented in Method 5 for each calculation. The first equation presented in Section 12.3 and 12.4 are ones which present the variables associated with the sampling equipment and test conditions and constants for standard conditions and gas characteristics. The values for these constants are presented in Section 12.1 but are rounded to four significant figures.&lt;/p&gt;
+
+		&lt;p&gt;The second equation presented in these sections of Method 5 use a single calculated value (K1 and K2) replacing all these constants. The calculation uses four to five significant digits and then rounds the result to four significant figures. When K1 and K2 are calculated with all the constants rounded to four significant figures and the resulting value rounded to four significant figures, the result is a different value than the K1 and K2 presented in Method 5.&lt;/p&gt;
+
+		&lt;p&gt;The ERT calculations use the procedures used to generate the second equations. Since the ERT allows for different standard temperatures and pressures to accommodate State and local agency rules, the values used are the values used to calculate the K1 and K2 in the method. Prior to rounding, these values may differ at the third to fifth significant digit. But when the policy to round the final results to two significant digits is followed there is no difference. For emissions limits expressed to three significant digits, the values using the published K1 and K2 do not introduce calculation errors due to multiple rounding.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;4&quot; name=&quot;4&quot;&gt;&lt;/a&gt;4. &lt;em&gt;&lt;strong&gt;How do I submit my files electronically to EPA?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;You must first register with the CDX. See the &lt;a href=&quot;/electronic-reporting-air-emissions/cdx-cedri-registration-process&quot;&gt;CDX/CEDRI Registration Process webpage&lt;/a&gt; for instructions.&lt;/li&gt;
+			&lt;li&gt;Only files generated by the ERT program can be submitted electronically to EPA via the CDX.&lt;/li&gt;
+			&lt;li&gt;Detailed instructions for uploading ERT files are included in the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/cedriguide.pdf&quot;&gt;CDX/CEDRI User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(110 pp, 4.5 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; and on the CEDRI submission webpage.&lt;/li&gt;
+			&lt;li&gt;The ERT Submission File will be in the format of a Zip file. This Zip file contains two files: one Zip and one XML file. Your file must be in the proper format for a successful submittal. Please do not change the file name that was generated by the ERT software.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;a id=&quot;5&quot; name=&quot;5&quot;&gt;&lt;/a&gt;
+
+		&lt;p&gt;5. &lt;em&gt;&lt;strong&gt;How do I submit my files to EPA if I can&#039;t use ERT files? (For instance, the test data includes methods not supported by the ERT).&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;Only data collected using the test methods listed on the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;ERT webpage&lt;/a&gt; should be submitted electronically to WebFIRE. If you have used non ERT supported test methods, data should be submitted as described by your state/local agency.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;6&quot; name=&quot;6&quot;&gt;&lt;/a&gt;6. &lt;em&gt;&lt;strong&gt;How do I submit my ERT files to EPA if the data includes confidential business information (CBI)?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;Sources who claim that some of the information being submitted in their performance tests is confidential business information (CBI) must mail a completed ERT file including the CBI on a compact disk or other commonly used electronic storage media clearly marked as CBI to U.S. EPA/OAQPS/CORE CBI Office, Attention: WebFIRE Administrator, MD C404-02, 4930 Old Page Rd., Durham, NC 27703. In addition, the same ERT file with the CBI omitted must be submitted to EPA via CDX.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;a id=&quot;7&quot; name=&quot;7&quot;&gt;&lt;/a&gt;
+
+		&lt;p&gt;7. &lt;em&gt;&lt;strong&gt;My CDX registration has been approved, and my ERT files are in the correct format. I keep getting the message that my submission to CEDRI was not successful. Why is this?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;Recently the CDX Help Desk verified that this is happening because of the java cache on the user&#039;s desktop. Complete instructions for clearing the cache can be found on page 2 of the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/cedriguide.pdf&quot;&gt;CDX/CEDRI User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(110 pp, 4.5 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a id=&quot;8&quot; name=&quot;8&quot;&gt;&lt;/a&gt;8. &lt;em&gt;&lt;strong&gt;I am already registered to submit TRI-ME (or TSCA, RCRA, CEDRI etc.) data through EPA&#039;s CDX. Can I extend my authorization to other data systems?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;At present, three CDX data flows support Electronic Signature Agreement (ESA) reuse functionality: CEDRI, TSCA, and TRI. CEDRI users can re-use TSCA&#039;s ESAs  this is already in place and doesn&#039;t require any changes on the CDX side. A TSCA user can simply add a CEDRI data flow to their data flow list and electronically sign their ESA without a need to go through LexisNexis or paper validation process.&lt;/p&gt;
+
+		&lt;p&gt;However, CEDRI users cannot reuse TRI&#039;s ESAs, because TRI&#039;s identity proofing threshold is set at a lower level than that of CEDRI&#039;s. CEDRI requires a wet ink signature and a phone call, whereas TRI only requires a wet ink signature. Due to these slightly more stringent requirements, CEDRI users cannot re-use TRIs ESAs.&lt;/p&gt;
+
+		&lt;p&gt;eGGRT data flow doesn&#039;t currently support ESA reuse, so eGGRT users that register for CEDRI will have to go through standard identity proofing process prior to getting access.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 04 Aug 2016 13:57:40 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">156573 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Electronic Reporting Tool (ERT) Training and Webinars</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert-training-and-webinars</link>
+    <description>&lt;p&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Return to ERT&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no live training currently scheduled for the Electronic Reporting Tool (ERT). &lt;a href=&quot;#webinars&quot;&gt;Previous webinars are posted below&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;Electronic Reporting Tool (ERT)&lt;/a&gt; and &lt;a href=&quot;https://cfpub.epa.gov/oarweb/index.cfm?action=fire.main&quot;&gt;WebFIRE&lt;/a&gt; are critical program components in the stakeholder-centered process for developing emissions factors. The ERT is a tool that replaces the time-intensive manual preparation and transcription of stationary source emissions test plans and reports currently performed by contractors for emissions sources and the time intensive manual quality assurance evaluations and documentation performed by State agencies.&lt;/p&gt;
+
+&lt;p&gt;Quality assured source emissions test reports provide the foundation for calculation of the average emissions factors that reside in WebFIRE and for the determination of the quality ratings assigned to the emissions factors. The ERT includes an export routine to WebFIRE where the critical information needed to calculate the emissions factors resides. WebFIRE will allow more frequent updates, easier access, and greater transparency for the Agency&#039;s emissions factors development and application process.&lt;/p&gt;
+
+&lt;p&gt;The instructional videos and recorded webinars below are primarily to provide the basics for use of the ERT. Information is also presented on the potential use benefits to the source test contractor and state/local/tribal agencies. Viewers may realize some of the future benefits to the inventory community.&lt;/p&gt;
+
+&lt;p&gt;At the conclusion of these videos and webinars, participants will be able to:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Explain what the ERT is and how it works&lt;/li&gt;
+	&lt;li&gt;Generate, review, assess and comment on an ERT test plan&lt;/li&gt;
+	&lt;li&gt;Load a completed ERT project file and examine the calculations&lt;/li&gt;
+	&lt;li&gt;Understand how to create ERT projects&lt;/li&gt;
+	&lt;li&gt;Learn to locate emissions factors in WebFIRE&lt;/li&gt;
+	&lt;li&gt;Learn to find supplementary information associated with WebFIRE emissions factors&lt;/li&gt;
+	&lt;li&gt;Learn about future enhancements to WebFIRE that will allow users to tailor emissions factors to their specific situation&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;webinars&quot; name=&quot;webinars&quot;&gt;&lt;/a&gt;ERT Improvements Webinar/Meeting - August 22, 2011&lt;/h2&gt;
+
+&lt;p&gt;The purpose of the event was to inform attendees of recent ERT updates and to gain constructive and specific suggestions on how the ERT can be improved. Paul Baker of AMEC presented 2011 ERT revisions which led to ERT Version 4. Paul also showcased a spreadsheet template which allows the ERT to import collected field data. The presentation demonstrates how stack testers can link data from their own spreadsheet into the ERT spreadsheet template. In the second part of the webinar EPA asked for suggestions and ideas on improving the ERT. Attendees asked many specific questions which were answered by EPA.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/webinar/webinar8222011/ERTImprovementwebinat.html&quot;&gt;Recorded Meeting and Webinar to receive ERT improvements recommendations&lt;/a&gt;. (Requires Adobe Flash or Windows Media Player, 1 hour, 24 minutes)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Test Plan/Protocol Preparation - September 2014&lt;/h2&gt;
+
+&lt;p&gt;These seven recordings describe how to prepare a source test plan/protocol in the ERT. Once completed, the plan/protocol may be submitted to the regulatory agency for review and comment. This plan/protocol becomes the framework and basis for stack test data entry and a complete electronic test report. These six recordings describe the following components of a complete test protocol.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab1_Facility-Tester.wmv&quot;&gt;Identification of the Facility and Stack Test Contractor&lt;/a&gt;. (WMV 144 M, 8 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab2_Permit-SCC.wmv&quot;&gt;Source Identification (Permit and Source Number, Process Rates and Source Categorization)&lt;/a&gt;. (WMV 245 M, 20 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab3_Locations-Methods.wmv&quot;&gt;Identification of Sample Location, Test Method/Pollutant and Reporting Units for Emissions&lt;/a&gt;. (WMV 18 9 M, 17 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab4_Regulations.wmv&quot;&gt;Identification of Test Purpose (Regulations, Limits)&lt;/a&gt;. (WMV 164 M, 18 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab5_Process-APCD.wmv&quot;&gt;Process Description, Process Data, Process Lab Data and Control Device Parameter Monitoring&lt;/a&gt;. (WMV 293 M, 29 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab6-8_Methods-Attch.wmv&quot;&gt;Alternative Method, Audit Materials, Calibration, Schedule Documentation&lt;/a&gt;. (WMV 143 M, 14 minutes)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab8a_FieldDataSpreadsheet-Preparation.wmv&quot;&gt;Corporate Spreadsheet Modification for ERT Manual Method Field Data Import&lt;/a&gt; (WMV 256 M, 20 minutes) using one of the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert#spreadsheets&quot;&gt;ERT Field and Header Data import spreadsheets&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab8b_Report-to-Plan_Import-FieldDataSpreadsheet.wmv&quot;&gt;Creating a Test Plan From Report and Field Data Import from Merged Spreadsheet&lt;/a&gt; (WMV 300 M, 20 minutes) data using one of the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert#spreadsheets&quot;&gt;ERT Field and Header Data import spreadsheets&lt;/a&gt; for ERT manual methods field data import.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Regulatory Agency Test Protocol Review - July 2014&lt;/h2&gt;
+
+&lt;p&gt;Webinar recording describing the regulatory agencies use of the ERT to review and provide comments on a submitted Source Test Plan/Protocol. &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestPlan_Tab9-State-Review.wmv&quot;&gt;First half of EPA Webinar with MARAMA States - Test Protocol review&lt;/a&gt;. (WMV 440 M, 26 minutes)&lt;/p&gt;
+
+&lt;h2&gt;Test and Process Operating Data Entry - September 2014&lt;/h2&gt;
+
+&lt;p&gt;Video recordings demonstrating procedures to enter data collected during field testing and analyses of collected samples. Videos are organized to demonstrate procedures applicable for general source sampling methodologies.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_1-Single-Sample-Train-header-point.wmv&quot;&gt;Entering header and point data into single sampler test methods&lt;/a&gt;. (WMV 150 M, 12 minutes) Video recording demonstrating four procedures to enter single sample train field data collected during isokinetic and non-isokinetic manual testing into the header and point data tables of ERT. Importing data from spreadsheet files, importing data from XML files, copying and pasting groups of data elements and manual individual data element entry.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_2-ManLabData.wmv&quot;&gt;Entering laboratory data into single sampler test methods&lt;/a&gt;.  (WMV 221 M, 14 minutes) Video recording demonstrating the manual entry of stack sample laboratory analyses for single sampler test methods. The video also provides an overview and demonstrates data entry per EPA Guideline Document 51F.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_3-Dual-Sample-Train-header-point-lab.wmv&quot;&gt;Entering header, point and sample analysis data into dual sampler test methods&lt;/a&gt;. (WMV 395 M, 33 minutes) Video recording demonstrating the procedure to import Method 30B field data into the header and point data tabs and the manual entry of laboratory analyses. Provides an overview of the Quality Assurance and Quality Control information calculated and presented in the ERT.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_4-InstumentMethod.wmv&quot;&gt;How to enter instrumental test methods data into the ERT&lt;/a&gt;. (WMV 235 M, 23 minutes) Video recording demonstrating the procedure to enter final calibration,gas certification documentation, instrument direct and system,calibration and test results data.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_5-ProcessDataEntry.wmv&quot;&gt;How to enter Process, APCD and Process Lab data&lt;/a&gt;. (WMV 130 M, 11 minutes) Video recording demonstrating the entry of values documented during emission test runs for operational process parameters, APCD operating parameters and laboratory analyses of process feed or product samples.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_6-RATADataEntry.wmv&quot;&gt;How to enter RATA data into the ERT&lt;/a&gt;. (WMV 224 M, 16 minutes) Video recording demonstrating the procedure to verify reference method,data quality, entering continuous emission monitoring data,identification and selection of excluded data and creation of a Relative Accuracy Test Audit (RATA) report.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Regulatory Agency Test Report Review - July 2014&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/training/TestReport_State-Review.wmv&quot;&gt;Second half of EPA Webinar with MARAMA States - Test Report review&lt;/a&gt;. (WMV 357 M, 24 minutes) Video recording of a Webinar describing how regulatory agencies can use the ERT to document their review of electronic stack test reports, provide comments on information provided by the facility or test contractor and recommend revisions of the test report.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 03 Aug 2016 16:38:35 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">156511 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Electronic Reporting Tool (ERT)</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/electronic-reporting-tool-ert</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;a dir=&quot;ltr&quot; href=&quot;#Submitting ERT&quot; lang=&quot;Submitting ERT&quot; title=&quot;Submitting ERT&quot; xml:lang=&quot;Submitting ERT&quot;&gt;I&lt;/a&gt;&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/webfire/index.cfm?action=fire.searchERTSubmission&quot;&gt;Search ERT Submittals in WebFIRE&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ert_rules.pdf&quot;&gt;Regulations with E-Reporting Requirements&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 147 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ert_info.pdf&quot;&gt;ERT Supported Test Methods&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 162 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert-training-and-webinars&quot;&gt;ERT Training and Webinars&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/ttnchie1/ert/ertv5/Webfire_Template_July_2016.xlsx&quot;&gt;WebFIRE Template&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/ttn/chief/ert/ERTFullData.xsd&quot;&gt;ERT Full XML Schema&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ERT%20data%20dictionary.pdf&quot;&gt;ERT Data Dictionary&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(54 pp, 522 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/update%20history.pdf&quot;&gt;Update History&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 253 k,&lt;/span&gt;&lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert-tips-and-frequently-asked-questions&quot;&gt;Questions&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#comments&quot;&gt;Send Us Your Comments&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Related Websites&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri&quot;&gt;CEDRI&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/webfire&quot;&gt;WebFIRE&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/chief/chief-archive-search&quot;&gt;CHIEF Archives&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On This Page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Installation&quot;&gt;Installation, Program Files and User&#039;s Guide&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#spreadhseet&quot;&gt;ERT Field and Header Data Import Spreadsheets and XML Schema&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guide&quot;&gt;ERT User&#039;s Guide, Updated December 22, 2016&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Submit&quot;&gt;Submitting ERT Files to CDX/CEDRI&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#WebFIRE&quot;&gt;WebFIRE Import Spreadsheets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;Introduction&quot; name=&quot;Introduction&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 5.0, released October 2014, updated January 12, 2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The ERT is used to electronically create stationary source sampling test plans and reports.  The ERT will calculate the test results from data imported or hand-entered and includes supporting documentation to create a complete electronic report for submittal to the regulatory agency.&lt;/p&gt;
+
+&lt;p&gt;Affected industrial facilities are required to use the Electronic Reporting Tool (ERT) to generate files containing emissions source test data. The facilities will submit these files to CDX using CEDRI. The submission files are stored in the CDX CROMERR archive and become available to submitters and authorized reviewers immediately upon submission.  After 60 days, the files will be available to the public in WebFIRE.&lt;/p&gt;
+
+&lt;p&gt;The ERT provides a format that:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Highlights the need to document the key information and procedures required by the existing EPA Federal Test Methods;&lt;/li&gt;
+	&lt;li&gt;Facilitates coordination among the source, the test contractor, and the regulatory agency in planning and preparing for the emissions test;&lt;/li&gt;
+	&lt;li&gt;Provides for consistent criteria to quantitatively characterize the quality of the data collected during the emissions test;&lt;/li&gt;
+	&lt;li&gt;Standardizes the reports; and&lt;/li&gt;
+	&lt;li&gt;Provides for future capabilities to electronically exchange information in the reports with facility, State or Federal data systems.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Announcements about the ERT will be made available on the &lt;a href=&quot;/chief/chief-listserv&quot;&gt;&lt;strong&gt;CHIEF Listserv&lt;/strong&gt;&lt;/a&gt;. Notices are sent directly to a member&#039;s email address.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;&lt;a id=&quot;Installation&quot; name=&quot;Installation&quot;&gt;&lt;/a&gt;Installation, Program Files and User&#039;s Guide&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;ERT version 5.0 has been updated&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv5/ERT5_1-12-17.exe&quot;&gt;&lt;strong&gt;ERT Version 5.0 Program Files&lt;/strong&gt; - January 12, 2017 (EXE 8.9 MB)&lt;/a&gt;. This version of the program requires either MS Access 2007 SP2, MS Access 2010, MS Access 2013 or MS Access 2010 Runtime. Download the EXE file to your hard drive, running the file will extract the manual and the database to a folder that you select. It will overwrite the existing files. &lt;strong&gt;If you do not have MS Access 2007, 2010 or 2013, download and install &lt;a href=&quot;http://www.microsoft.com/en-us/download/details.aspx?id=10910&quot;&gt;MS Access 2010 Runtime&lt;/a&gt;&lt;/strong&gt;. Running the ERT application (ERT5.accdb) will open the program with MS Access.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Example ERT Project Data Sets (PDS) and field data import files&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Two example Project Data Sets are available for use as examples of comprehensive data entry and documentation. The file &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/Method_29-30B_Example_Data_2014.zip&quot;&gt;Method_29-30B_Example_Data_2014 (ZIP 19 M)&lt;/a&gt; contains a populated Project Data Set example of single and paired train manual test methods. A second Project Data Set which is unpopulated is provided for users to test the importing of field data. Included in the ZIP file are two spreadsheet files and two XML files for use in demonstrating importing the point and header field data. The file &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/RATA_DATA_Demo_08-27-2012.zip&quot;&gt;RATA_DATA_Demo_08-27-2012 (ZIP 19 M)&lt;/a&gt; contains a populated Project Data Set example of instrumental test methods and the performance specifications for those test methods. Updated October 2014.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;&lt;a id=&quot;spreadhseet&quot; name=&quot;spreadhseet&quot;&gt;&lt;/a&gt;ERT Field and Header Data Import Spreadsheets and XML Schema&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Who should use this spreadsheet or XML schema?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Companies that perform stationary source emissions tests using test methods that are supported by ERT such as US EPA Methods 1 through 5 or EPA Method 30B should consider using the following spreadsheets/schema. These tests require the measurement and documentation of different parameters at multiple points across each emission measurement location. Some companies document this information in spreadsheets that they have programmed to assist them in calculating proper equipment operation(s) and preparation of that information for a test report. Other companies have sampling equipment with electronic sensors, controls, and software programs to perform much of the data collection and documentation. The equipment used by the latter individuals export the collected information in a variety of formats for calculations and report preparation.&lt;/p&gt;
+
+&lt;p&gt;The ERT has the ability to import stack test data for manual test methods from either a specially formatted spreadsheet or from an XML file complying with an established Schema (available through a link in the next paragraph). We have prepared two properly formatted spreadsheet templates which companies may use to import this field and header data into the ERT. These are intended to reduce the effort associated with field data entry into the ERT and improve the reliability of data transcription. The document, &lt;em&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/Modifying_spreadsheet_for_import_toERT4.pdf&quot;&gt;Requirements for modifying a spreadsheet for ERT import &lt;/a&gt;&lt;/em&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 25 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;, describes how to merge the ERT point and header data spreadsheet template with a proprietary corporate field data spreadsheet so you can use the import function into the ERT.&lt;br /&gt;&lt;br /&gt;
+	The spreadsheet &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/ERT_Manual_Methods_DE_Template-Empty.xlt&quot;&gt;ERT data entry template, includes instructions (XLT 361 K)&lt;/a&gt; is for importing the common point and header data when a single sample train is used for each test run. The spreadsheet &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/ERT_Manual_Method_DE_30B_Template-Empty.xltm&quot;&gt;ERT Method 30B data entry template, includes instructions (XLT 361 K)&lt;/a&gt; is for importing similar data when dual sample trains are used for each test run. We also have two XML Schema for ERT field data which are alternatives to the spreadsheet templates. Equipment vendors would be the most likely users of the Schema to program their equipment to generate XML files that the ERT can import. The Schema &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/DataDictionaryManualMethods.xsd&quot;&gt;ERT Single Sampler Manual Method XML Schema (XSD 17 K)&lt;/a&gt; is used to describe the format of an export file for single sample train equipment.&lt;/p&gt;
+
+&lt;p&gt;The Schema &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ertv4/DataDictionaryMethod30B.xsd&quot;&gt;ERT Dual Sampler Manual Method XML Schema (XSD 18 K)&lt;/a&gt; is used to describe the format of an export file for dual sample train equipment. Either the spreadsheet or the XML file may be used to import the test data to ERT thus significantly reducing time, and effort. The spreadsheet has the capability to import the header and point data for up to nine test runs for a single test method and location. Files complying with the XML Schema can import an unlimited number of test runs. Updated October, 2014.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;&lt;a id=&quot;guide&quot; name=&quot;guide&quot;&gt;&lt;/a&gt;ERT User&#039;s Guide, Updated December 22, 2016&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www3.epa.gov/ttn/chief/ert/ertv5/ERT Users Guide -12-22-16 Release.pdf&quot;&gt;Users Guide (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(158 pp, 8.8 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;has been expanded and updated to support the increased capabilities of ERT version 5. To assist the user to quickly locate the specific area of interest, the Table of Contents and the Table of Figures include &quot;Hot Links&quot; to the applicable page for that topic and the training videos. We have also prepared a comprehensive set of videos addressing individual ERT use areas. The videos are available on the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert-training-and-webinars&quot;&gt;ERT Training and Webinars&lt;/a&gt; webpage.&lt;br /&gt;&lt;br /&gt;
+	Please read the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/update history.pdf&quot;&gt;&lt;strong&gt;Update History&lt;/strong&gt;&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 253 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; to keep track of changes and corrections in the program. The document includes technical information about changes from versions 3 to 4, 4.1 and the recent changes in version 5.0.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;a id=&quot;Submit&quot; name=&quot;Submit&quot;&gt;&lt;/a&gt;Submitting ERT Files to CDX/CEDRI&lt;/h2&gt;
+
+&lt;p&gt;The Compliance and Emissions Data Reporting Interface (CEDRI) instructions for registering and accessing CEDRI are in the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/cedriguide.pdf&quot;&gt;CDX/CEDRI User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(110 pp, 4.5 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;. &lt;strong&gt;CDX (Central Data Exchange) support is available Monday through Friday (except on holidays) from 8:00am to 6:00pm (ET). The phone number is 888-890-1995.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA now requires by regulation a number of industries to perform emissions performance tests and to electronically submit such emissions test data to EPA. Please see the list of &lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ert_rules.pdf&quot;&gt;Promulgated Regulations with Electronic Data Reporting Requirements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 147 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/cdx-cedri-registration-process&quot;&gt;&lt;strong&gt;Before attempting to register for CDX/CEDRI please read important information about the CDX registration process&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://cdx.epa.gov/epa_home.asp&quot;&gt;Central Data Exchange (http://cdx.epa.gov/epa_home.asp)&lt;/a&gt; is the point of entry of emissions performance data reports to EPA. It provides capabilities for submitters to submit and access their data electronically and enables OAR to effectively manage the incoming data.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;&lt;a id=&quot;WebFIRE&quot; name=&quot;WebFIRE&quot;&gt;&lt;/a&gt;WebFIRE Import Spreadsheets&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;Spreadsheet template for importing test data to WebFIRE and test quality rating tool for Regulatory Agencies &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Who should use this spreadsheet? &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s emissions factors development procedures begin with source emissions data that has been quality assured using a set of objective review questions that assess the quality of the process, control device and measurement data collected during an emissions test and reported in the ERT file. Emissions data collected after January 1, 2012 using test methods already adapted to the ERT format include the requisite data to enter EPAs emissions factor development process. However, not all source emissions data can be documented in the ERT.  &lt;/p&gt;
+
+&lt;p&gt;In order to allow non-ERT documented data to enter the emissions factor development process, we have developed a spreadsheet tool for companies, associations, and agencies to provide EPA with emissions data collected prior to January 1, 2012 or that is infeasible to document in the ERT. This spreadsheet has a structured format which organizes the basic source emission information used for emissions factor development including supplementary information for more detailed characterization of the source and the measurements.&lt;/p&gt;
+
+&lt;p&gt;The spreadsheet also includes a two part check sheet that is identical to the one in the ERT for assessing the information in the supplied emissions test report. The first part of the check sheet is for use by the provider of the test data and is used to document the presence of supporting documentation needed to assess the representativeness, accuracy and precision of the information in the test report. A numeric quality rating is determined for each test report based upon the answers to these questions. As with the ERT completeness and quality assessment, this quality rating by the report supplier can be adjusted based on responses from an independent regulatory agency using the second part of the check sheet. The second part of the check sheet provides for a more thorough and detailed assessment of information in the test report. Companies, associations and agencies should use the following spreadsheet template to submit their input to WebFIRE.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www3.epa.gov/ttnchie1/ert/ertv5/Webfire_Template_April_2016.xlsx&quot;&gt;WebFIRE Template and Test Quality Rating Tool (including instructions)&lt;/a&gt; (XLS 64 K). Updated April 2015.&lt;/p&gt;
+
+&lt;p&gt;The spreadsheet allows source test data to be added to &lt;a href=&quot;/electronic-reporting-air-emissions/webfire&quot;&gt;WebFIRE&lt;/a&gt; electronically. In addition to the completed WebFIRE spreadsheet template file, an electronic copy (PDF) copy of the entire report documenting the source test must be provided. The source test must include documentation supporting affirmative responses in the WebFIRE spreadsheet fields (columns).&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;comments&quot; name=&quot;comments&quot;&gt;&lt;/a&gt;Send the files to EPA on CD or DVD to the following address:&lt;br /&gt;&lt;br /&gt;
+	US EPA&lt;br /&gt;
+	Group Leader&lt;br /&gt;
+	Measurement Policy Group, OAQPS&lt;br /&gt;
+	Mail Code D243-05&lt;br /&gt;
+	RTP, NC 27711&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;Email your comments to Theresa Lowe at &lt;a href=&quot;mailto:lowe.theresa@epa.gov&quot;&gt;lowe.theresa@epa.gov&lt;/a&gt;. We will update this software and the User&#039;s Guide periodically as reviewers identify easily to accommodate expansion, enhancement or corrections in the application.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 03 Aug 2016 15:11:09 +0000</pubDate>
+ <dc:creator>tlowe</dc:creator>
+ <guid isPermaLink="false">156457 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Compliance and Emissions Data Reporting Interface (CEDRI)</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/compliance-and-emissions-data-reporting-interface-cedri</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/ttn/chief/CEDRIfiles/CEDRI Update Log.pdf&quot;&gt;CEDRI Update Log &lt;/a&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ert_rules.pdf&quot;&gt;(PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 418 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/ert/ert_rules.pdf&quot;&gt;Promulgated Regulations with Electronic Data Reporting Requirements (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 147 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Related Websites&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;ERT&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/electronic-reporting-air-emissions/webfire&quot;&gt;WebFIRE&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/chief/chief-archive-search&quot;&gt;CHIEF Archives&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On This Page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#roles&quot;&gt;CEDRI Roles&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#start&quot;&gt;What Will I Need To Get Started?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guide&quot;&gt;User&#039;s Guide and Compliance Report Form Upload Templates&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq&quot;&gt;Frequent Questions and Announcements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;overview&quot; name=&quot;overview&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;EPA regulations codified in 40 CFR Part 60 and 63 require affected sources to perform emissions source tests, conduct continuous emissions monitoring, and submit compliance and emissions reports. EPA is promulgating &quot;E-Reporting&quot; rules to require affected sources to electronically submit source test results, emissions monitoring data, compliance reports, and emissions reports to EPA. As a result the EPA has developed the Compliance and Emissions Data Reporting Interface (CEDRI) which is located on EPA&#039;s &lt;a href=&quot;https://cdx.epa.gov/&quot;&gt;&lt;strong&gt;Central Data Exchange (CDX)&lt;/strong&gt;&lt;/a&gt;. The CDX Web is the application used by EPA programs and various stakeholders to manage environmental data transmitted to EPA in order to meet EPA&#039;s electronic reporting requirements.&lt;/p&gt;
+
+&lt;p&gt;The CEDRI program service supports the submittal of three types of reporting:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Performance Test Reports&lt;/strong&gt; - Performance Test Reports use the &lt;a href=&quot;/electronic-reporting-air-emissions/electronic-reporting-tool-ert&quot;&gt;&lt;strong&gt;Electronic Reporting Tool (ERT)&lt;/strong&gt;&lt;/a&gt;, built in Microsoft Access, to generate files containing emissions source test data. Facilities upload these files to CDX using CEDRI.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Notification Reports&lt;/strong&gt; - A Notification Report or Notification of Compliance Status (NOCS) are reports typically submitted by a regulated facility that notifies the designated authority that the facility has achieved compliance with an applicable regulation. (Note: In CEDRI most Notification Reports will be uploaded in PDF form.)&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Air Emissions Reports&lt;/strong&gt; - Air emissions reports are periodic reports submitted to the delegated authority after the facility achieves initial compliance that demonstrate that the facility has maintained continuous compliance with an applicable regulation over the reporting period (e.g., 6 months). These reports will be identified by the report names found in each specific rule.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;CEDRI supports submission of multiple reports at one time. CEDRI aggregates the uploaded files and completed forms into a single package for submission. The Certifier then certifies and signs the package using the CDX Cross-Media Electronic Reporting Regulation (CROMERR) service and the reports are stored in the CDX CROMERR archive and are available to Certifiers, Preparers, and authorized EPA, regional, state, local, and tribal reviewers immediately upon submission. Following a processing period, copies of the reports are also subsequently sent to &lt;a href=&quot;https://cfpub.epa.gov/webfire/&quot;&gt;WebFIRE&lt;/a&gt; where the reports are available for public access.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;roles&quot; name=&quot;roles&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;CEDRI Roles&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;CEDRI provides different roles for reporting facilities, roles for regional/state/local/tribal regulatory agencies, and roles for EPA program office personnel. &lt;a href=&quot;https://www3.epa.gov/ttn/chief/cedri/CEDRI%20Roles.pdf&quot;&gt;CEDRI Roles  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 74 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;start&quot; name=&quot;start&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;&lt;strong&gt;What Will I Need To Get Started?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In order to use CDX and CEDRI, the following is required:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;An email account&lt;/li&gt;
+	&lt;li&gt;Web browser with JavaScript and cookies enabled&lt;/li&gt;
+	&lt;li&gt;Internet access&lt;/li&gt;
+	&lt;li&gt;Adobe Acrobat Reader 5.0 or higher&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.java.com/en/download/index.jsp&quot;&gt;Java version 6 update 38 &lt;/a&gt;or above. &lt;br /&gt;
+		Prior to downloading the more recent Java version, it is highly recommended that you clear your Java cache. Follow these steps to clear your Java cache:
+		&lt;ol&gt;&lt;li&gt;Close all open internet browsers.&lt;/li&gt;
+			&lt;li&gt;Select the &#039;Start&#039; button.&lt;/li&gt;
+			&lt;li&gt;Go to &#039;Control Panel.&#039; Select the &#039;Java&#039; icon (Java Control Panel will display).&lt;/li&gt;
+			&lt;li&gt;On the Java Control Panel in the &#039;Temporary Internet Files&#039; section, select the &#039;View&#039; button (Java Cache Viewer will display).&lt;/li&gt;
+			&lt;li&gt;Select &#039;Resources&#039; in the &#039;Show&#039; drop down field located at the top of the Java Cache Viewer.&lt;/li&gt;
+			&lt;li&gt;Select all of the files in the list (Ctrl-A) and click on the red X button located at the top of the Java Cache Viewer to delete the selected files.&lt;/li&gt;
+			&lt;li&gt;Close the Java Cache Viewer and Java Control Panel.&lt;/li&gt;
+		&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Please see the following video if you need help creating an account and accessing CEDRI (specific for Preparer and Certifier roles): &lt;a href=&quot;https://www.youtube.com/watch?v=gIRrMxrcTzE&quot;&gt;&lt;strong&gt;CEDRI Registration Video&lt;/strong&gt;&lt;/a&gt; &lt;span
+    class=&quot;figure image file file-image file-image-png inline view-mode-media_original&quot; style=&quot;width:24px;&quot;&gt;&lt;img alt=&quot;Youtube&quot; title=&quot;YouTube&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;inline media-element file-media-original&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/2016-03/socmed_youtube.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;guide&quot; name=&quot;guide&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;User&#039;s Guide and Compliance Report Form Upload Templates&lt;/h2&gt;
+
+&lt;p&gt;EPA has prepared a comprehensive &lt;a href=&quot;https://www3.epa.gov/ttn/chief/cedri/UserGuide.pdf&quot;&gt;&lt;strong&gt;user&#039;s guide&lt;/strong&gt; (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(110 pp, 4.5 M, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; to help users with Preparer, Certifier, or Delegated Certifier role register for CDX and CEDRI as well as to help users set up organization profiles for their facilities. EPA has also prepared a separate User&#039;s Guide for Users with the State Reviewer roles. This User&#039;s Guide can be accessed when you log into CDX/CEDRI. Users may also use the &lt;a href=&quot;https://www3.epa.gov/ttn/chief/cedri/XML_Reporting_Instruction.pdf&quot;&gt;XML Reporting Instructions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(74 pp, 1 MB)&lt;/span&gt; for details on how to create XML documents to automatically fill out data for a new for Air Emission Compliance Reports form for applicable subparts.&lt;/p&gt;
+
+&lt;p&gt;Below are XML schemas (XSDs) and Excel files that can be used as templates to upload information into Compliance Report forms in the CEDRI application. Use the XSDs to prepare an XML file to create a completely or partially filled out Compliance Report form. Use the Excel files to upload data into tables within an existing Compliance Report form. Refer to Appendix B of the user&#039;s guide for definitions of data elements contained in the Excel templates. Please note that you do not need to use an XML file or Excel file to enter data into a Compliance Report form, but they may assist in expediting data entry into the form.&lt;/p&gt;
+
+&lt;p&gt;Select the part/subpart you would like to download Excel upload templates and/or XML upload schema for. The templates provided below are for reference use only and must be completed and uploaded into CEDRI for the applicable part/subpart.&lt;/p&gt;
+
+&lt;h3&gt;Part 60 Standards of Performance for New Stationary Sources&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Part 60 Subpart Name&lt;/th&gt;
+			&lt;th&gt;Available Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;5&quot;&gt;Subpart IIII
+				&lt;div&gt;VOC Emissions From The Synthetic Organic Chemical&lt;/div&gt;
+
+				&lt;div&gt;Manufacturing Industry Air Oxidation Unit Processes&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Emergency Demand Response Use Summary 60 IIII.xlsx&quot;&gt;Emergency Demand Response Use Summary (XLSX)&lt;/a&gt; (11 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Non-Emergency Use Summary 60 IIII.xlsx&quot;&gt;Non-Emergency Use Summary (XLSX)&lt;/a&gt; (18 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Voltage or Frequency Deviation Summary 60 IIII.xlsx&quot;&gt;Voltage or Frequency Deviation Summary (XLSX)&lt;/a&gt; (11 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/60_IIII-JJJJ.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (7 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/60.4214(d)(3) Annual Report - Bulk Upload Template.xlsx&quot;&gt;60.4214(d)(3) Annual Report - Bulk Upload Template (XLSX)&lt;/a&gt; (395 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;5&quot;&gt;Subpart JJJJ
+				&lt;p&gt;Stationary Spark Ignition Internal Combustion Engines&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Emergency Demand Response Use Summary 60 JJJJ.xlsx&quot;&gt;Emergency Demand Response Use Summary (XLSX)&lt;/a&gt; (11 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Non-Emergency Use Summary 60 JJJJ.xlsx&quot;&gt;Non-Emergency Use Summary (XLSX)&lt;/a&gt; (18 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Voltage or Frequency Deviation Summary 60 JJJJ.xlsx&quot;&gt;Voltage or Frequency Deviation Summary (XLSX)&lt;/a&gt; (11 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/60_IIII-JJJJ.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (7 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/60.4245(e)(3) Annual Report - Bulk Upload Template.xlsx&quot;&gt;60.4245(e)(3) Annual Report - Bulk Upload Template (XLSX)&lt;/a&gt; (280 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Part 63 National Emission Standards for Hazardous Air Pollutants for Major Sources&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Part 63 Subpart Name&lt;/th&gt;
+			&lt;th&gt;Available Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;10&quot;&gt;Subpart DDDDD
+				&lt;p&gt;Industrial, Commercial, And Institutional Boilers And Process Heaters&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/CEMS Summary 63 DDDDD.xlsx&quot;&gt;CEMS Summary (XLSX)&lt;/a&gt; (21 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/CMS%20Downtime%20Summary%2063%20DDDDD.xlsx&quot;&gt;CMS Downtime Summary (XLSX)&lt;/a&gt; (23 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Deviation Report 63 DDDDD.xlsx&quot;&gt;Deviation Report (XLSX)&lt;/a&gt; (23 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Fuel Use 63 DDDDD.xlsx&quot;&gt;Fuel Use Summary (XLSX)&lt;/a&gt; (27 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Malfunction Report 63 DDDDD.xlsx&quot;&gt;Malfunction Report (XLSX)&lt;/a&gt; (22 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63_DDDDD.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (17 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.7550(c)(1) Compliance Report for Facilities Subject to the Requirements of a Tune Up - Bulk Upload Template.xlsx&quot;&gt;63.7550(c)(1) Compliance Report for Facilities Subject to the Requirements of a Tune Up - Bulk Upload Template (XLSX)&lt;/a&gt; (19 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.7550(c)(2) Compliance Report for Facilities Complying with the Fuel Analysis - Bulk Upload Template.xlsx&quot;&gt;63.7550(c)(2) Compliance Report for Facilities Complying with the Fuel Analysis - Bulk Upload Template (XLSX)&lt;/a&gt; (18 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.7550(c)(3) Compliance Report for Facilities Complying with the Applicable Emissions Limit with Performance Testing - Bulk Upload Template.xlsx&quot;&gt;63.7550(c)(3) Compliance Report for Facilities Complying with the Applicable Emissions Limit with Performance Testing - Bulk Upload Template (XLSX) &lt;/a&gt; (23 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.7550(c)(4) Compliance Report for Facilities Complying with an Emissions Limit Using a CMS - Bulk Upload Template.xlsx&quot;&gt;63.7550(c)(4) Compliance Report for Facilities Complying with an Emissions Limit Using a CMS - Bulk Upload Template (XLSX)&lt;/a&gt; (23 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;Subpart JJJJJJ
+				&lt;p&gt;Industrial, Commercial, and Institutional Boilers Area Sources&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63_JJJJJJ.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (3 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.11225(a)(4)(vi) Notification of Compliance Status - Bulk Upload Template.xlsx&quot;&gt;63.11225(a)(4)(vi) Notification of Compliance Status - Bulk Upload Template (XLSX)&lt;/a&gt; (17 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;5&quot;&gt;Subpart LLL
+				&lt;p&gt;Portland Cement Manufacturing Industry&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/CEMS Summary 63 LLL.xlsx&quot;&gt;CEMS Summary (XLSX)&lt;/a&gt;(21 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/CMS Downtime Summary 63 LLL.xlsx&quot;&gt;CMS Downtime Summary (XLSX)&lt;/a&gt; (23 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Excess Emissions Summary 63 LLL.xlsx&quot;&gt;Excess Emissions Summary (XLSX)&lt;/a&gt; (20 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Malfunction Report 63 LLL.xlsx&quot;&gt;Malfunction Report (XLSX)&lt;/a&gt; (22 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63_LLL.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (15 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;6&quot;&gt;Subpart ZZZZ Stationary Reciprocating Internal Combustion Engines&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Emergency Demand Response Use Summary 63 ZZZZ.xlsx&quot;&gt;Emergency Demand Response Use Summary (XLSX)&lt;/a&gt; (11 K&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Fuel Use Deviation Summary 63 ZZZZ.xlsx&quot;&gt;Fuel Use Deviation Summary (XLSX)&lt;/a&gt; (15 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Non-Emergency Use Summary 63 ZZZZ.xlsx&quot;&gt;Non-Emergency Use Summary (XLSX)&lt;/a&gt; (18 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/Voltage or Frequency Deviation Summary 63 ZZZZ.xlsx&quot;&gt;Voltage or Frequency Deviation Summary (XLSX)&lt;/a&gt; (11 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63_ZZZZ.xsd&quot;&gt;XML Schema (XSD)&lt;/a&gt; (8 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/63.6650(h)(3) Annual Report - Bulk Upload Template.xlsx&quot;&gt;63.6650(h)(3) Annual Report - Bulk Upload Template( XLSX)&lt;/a&gt; (297 K)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;faq&quot; name=&quot;faq&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;highlighted&quot;&gt;Frequent Questions and Announcements&lt;/h2&gt;
+
+&lt;p&gt;Here is the most recent &lt;a href=&quot;https://www3.epa.gov/ttn/chief/CEDRIfiles/CEDRI%20Frequently%20Asked%20Questions%2002%2019%2016.docx&quot;&gt;FAQ Document (DOCX)&lt;/a&gt;&lt;span id=&quot;file-306203&quot;&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 28 K).&lt;/span&gt;&lt;/span&gt; We are continually adding new FAQs so check back. Latest update is February 19, 2016.&lt;/p&gt;
+
+&lt;p&gt;If you do not see your question covered in the FAQ you can email the CEDRI team at &lt;a href=&quot;mailto:CEDRI@epa.gov&quot;&gt;&lt;strong&gt;CEDRI@epa.gov&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Announcements about CEDRI will be made available via the &lt;a href=&quot;/chief/chief-listserv&quot;&gt;&lt;strong&gt;CHIEF Listserv&lt;/strong&gt;&lt;/a&gt;. Notices are sent directly to a member&#039;s email address.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 01 Aug 2016 15:05:38 +0000</pubDate>
+ <dc:creator>kpatel02</dc:creator>
+ <guid isPermaLink="false">156237 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about Electronic Reporting of Air Emissions</title>
+    <link>https://www.epa.gov/electronic-reporting-air-emissions/forms/contact-us-about-electronic-reporting-air-emissions</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Send your questions or comments about electronic air emissions reporting to &lt;a href=&quot;mailto:info.chief@epa.gov&quot;&gt;info.chief@epa.gov&lt;/a&gt;, or use the form below. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address: &lt;/strong&gt;&lt;br /&gt;
+	US EPA/OAQPS&lt;br /&gt;
+	109 TW Alexander Drive&lt;br /&gt;
+	Research Triangle Park, NC 27711&lt;/p&gt;
+</description>
+     <pubDate>Fri, 06 May 2016 18:16:07 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">148859 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:54:05, expires @ 2017-01-26 15:54:05, lifetime 12 hours -->

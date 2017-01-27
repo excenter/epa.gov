@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/81849/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Private Wells</title>
+    <link>https://www.epa.gov/feed/81849/rss.xml</link>
+    <description>Updated Private Wells content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/81849/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Private Drinking Water Well Programs in Your State</title>
+    <link>https://www.epa.gov/privatewells/private-drinking-water-well-programs-your-state</link>
+    <description>&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links include non-federal sites &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col&quot; style=&quot;width:70%&quot;&gt;
+		&lt;div&gt;&lt;img alt=&quot;Map of the United States&quot; height=&quot;340&quot; src=&quot;/sites/production/files/styles/large/public/2015-11/us-states-ndwac.jpg&quot; usemap=&quot;#m_us-states&quot; width=&quot;450&quot; /&gt;&lt;map name=&quot;m_us-states&quot; id=&quot;m_us-states&quot;&gt;&lt;area alt=&quot;Alabama&quot; coords=&quot;292,168,294,218,299,220,304,219,302,212,327,209,325,203,325,193,321,188,314,166&quot; href=&quot;http://www.aces.edu/waterquality/faq/faq_list.php3?Code=303&quot; shape=&quot;POLY&quot; title=&quot;Alabama&quot; /&gt;&lt;area alt=&quot;Alaska&quot; coords=&quot;93,276,237,335&quot; href=&quot;http://dec.alaska.gov/eh/dw/DWP/DWP_PrivateWells.html&quot; shape=&quot;RECT&quot; title=&quot;Alaska&quot; /&gt;&lt;area alt=&quot;Arizona&quot; coords=&quot;106,206,89,204,61,184,63,180,61,178,64,170,69,167,66,161,66,156,67,148,71,150,74,138,114,145&quot; href=&quot;https://extension.arizona.edu/private-wells-publications&quot; shape=&quot;POLY&quot; title=&quot;Arizona&quot; /&gt;&lt;area alt=&quot;Arkansas&quot; coords=&quot;244,194,245,188,241,187,241,163,238,156,276,156,274,161,278,161,276,168,277,170,268,186,268,195&quot; href=&quot;https://watersustainability.wordpress.com/urbanresidential/drinking-water/&quot; shape=&quot;POLY&quot; title=&quot;Arkansas&quot; /&gt;&lt;area alt=&quot;California&quot; coords=&quot;9,71,2,83,7,135,22,180,61,183,63,182,62,180,64,170,69,169,66,159,32,108,40,77&quot; href=&quot;http://www.water.ca.gov/groundwater/wells/basics.cfm&quot; shape=&quot;POLY&quot; title=&quot;California&quot; /&gt;&lt;area alt=&quot;Colorado&quot; coords=&quot;116,147,122,105,180,108,178,151&quot; href=&quot;https://www.colorado.gov/pacific/cdphe/drinking-water-private-wells&quot; shape=&quot;POLY&quot; title=&quot;Colorado&quot; /&gt;&lt;area alt=&quot;Connecticut&quot; coords=&quot;397,83,395,76,409,73,410,78,440,85,440,95,423,94,418,87,412,81&quot; href=&quot;http://www.ct.gov/dph/privatewells&quot; shape=&quot;POLY&quot; title=&quot;Connecticut&quot; /&gt;&lt;area alt=&quot;Delaware&quot; coords=&quot;386,102,388,114,393,114,405,120,423,120,423,108,406,109,392,111&quot; href=&quot;http://www.dhss.delaware.gov/dhss/dph/hsp/privdw.html&quot; shape=&quot;POLY&quot; title=&quot;Delaware&quot; /&gt;&lt;area alt=&quot;Florida&quot; coords=&quot;358,208,353,206,354,212,351,213,350,210,329,212,328,210,301,212,304,216,303,219,367,269,399,255&quot; href=&quot;http://www.floridahealth.gov/environmental-health/private-well-testing/index.html&quot; shape=&quot;POLY&quot; title=&quot;Florida&quot; /&gt;&lt;area alt=&quot;Georgia&quot; coords=&quot;313,167,321,189,324,193,323,202,327,212,348,210,349,212,353,212,351,207,356,207,359,197,359,190,354,188,356,184,353,181,350,181,339,171,333,168,336,164&quot; href=&quot;https://dph.georgia.gov/individual-private-wells&quot; shape=&quot;POLY&quot; title=&quot;Georgia&quot; /&gt;&lt;area alt=&quot;Hawaii&quot; coords=&quot;16,202,73,242&quot; href=&quot;http://www2.ctahr.hawaii.edu/oc/freepubs/pdf/HH-9.pdf&quot; shape=&quot;RECT&quot; title=&quot;Hawaii (PDF)&quot; /&gt;&lt;area alt=&quot;Idaho&quot; coords=&quot;78,13,70,44,74,46,72,52,66,59,66,69,61,84,105,93,110,67,94,64,90,54,86,53,87,48,89,44,87,42,82,31,85,14&quot; href=&quot;http://www.deq.idaho.gov/water-quality/ground-water/private-wells.aspx&quot; shape=&quot;POLY&quot; title=&quot;Idaho&quot; /&gt;&lt;area alt=&quot;Illinois&quot; coords=&quot;287,93,290,97,293,129,289,146,285,145,287,149,282,151,281,150,278,149,278,145,276,140,270,138,273,132,270,129,267,130,259,115,263,111,263,108,262,104,267,102,269,97,265,92&quot; href=&quot;http://dph.illinois.gov/topics-services/environmental-health-protection/private-water&quot; shape=&quot;POLY&quot; title=&quot;Illinois&quot; /&gt;&lt;area alt=&quot;Indiana&quot; coords=&quot;291,98,310,95,316,125,315,129,310,129,307,136,305,134,292,139,294,131,295,125&quot; href=&quot;http://in.gov/idem/cleanwater/2452.htm&quot; shape=&quot;POLY&quot; title=&quot;Indiana&quot; /&gt;&lt;area alt=&quot;Iowa&quot; coords=&quot;222,82,222,95,229,113,257,112,260,116,263,109,262,104,267,101,268,96,260,87,258,82&quot; href=&quot;http://www.iowadnr.gov/InsideDNR/RegulatoryWater/PrivateWellProgram.aspx&quot; shape=&quot;POLY&quot; title=&quot;Iowa&quot; /&gt;&lt;area alt=&quot;Kansas&quot; coords=&quot;181,167,182,137,234,137,238,141,237,142,240,146,241,169&quot; href=&quot;http://www.kdheks.gov/waterwell/&quot; shape=&quot;POLY&quot; title=&quot;Kansas&quot; /&gt;&lt;area alt=&quot;Kentucky&quot; coords=&quot;283,155,288,150,287,147,290,147,291,140,305,135,307,137,311,130,316,130,316,125,321,126,322,127,334,128,337,132,340,140,332,148,295,153,292,151,290,154&quot; href=&quot;http://water.ky.gov/groundwater/Pages/WaterWellRelatedConcerns.aspx&quot; shape=&quot;POLY&quot; title=&quot;Kentucky&quot; /&gt;&lt;area alt=&quot;Louisiana&quot; coords=&quot;244,194,243,209,247,211,246,228,277,235,291,233,284,221,280,217,265,217,270,201,267,199,267,195&quot; href=&quot;http://dnr.louisiana.gov/index.cfm?md=pagebuilder&amp;amp;tmp=home&amp;amp;pid=1218&quot; shape=&quot;POLY&quot; title=&quot;Louisiana&quot; /&gt;&lt;area alt=&quot;Maine&quot; coords=&quot;403,34,407,8,417,6,432,29,411,58,409,58&quot; href=&quot;http://www.maine.gov/dhhs/eohp/wells/mewellwater.htm&quot; shape=&quot;POLY&quot; title=&quot;Maine&quot; /&gt;&lt;area alt=&quot;Maryland&quot; coords=&quot;357,114,356,108,386,102,388,114,393,114,402,121,419,122,419,133,400,133,400,127,392,121,389,121,385,116,380,116,380,114,377,112,376,115,365,108&quot; href=&quot;http://www.mde.state.md.us/programs/Water/Water_Supply/Pages/Residential_Wells.aspx&quot; shape=&quot;POLY&quot; title=&quot;Maryland&quot; /&gt;&lt;area alt=&quot;Massachussets&quot; coords=&quot;395,75,414,71,419,74,420,74,423,72,439,60,440,50,421,51,421,59,414,61,407,65,394,70&quot; href=&quot;http://www.mass.gov/eea/agencies/massdep/water/drinking/private-wells.html&quot; shape=&quot;POLY&quot; title=&quot;Massachussets&quot; /&gt;&lt;area alt=&quot;Michigan&quot; coords=&quot;265,47,282,35,305,40,321,47,330,81,323,92,295,96,301,88,300,78,297,75,297,68,286,60,283,55,276,51,274,53&quot; href=&quot;http://www.michigan.gov/deq/0,1607,7-135-3313_3675_3694---,00.html&quot; shape=&quot;POLY&quot; title=&quot;Michigan&quot; /&gt;&lt;area alt=&quot;Minnesota&quot; coords=&quot;219,24,218,30,217,34,220,39,222,63,224,65,224,82,261,81,260,77,254,71,252,70,251,62,250,57,253,55,253,46,269,31,246,24&quot; href=&quot;http://www.health.state.mn.us/divs/eh/wells/&quot; shape=&quot;POLY&quot; title=&quot;Minnesota&quot; /&gt;&lt;area alt=&quot;Mississippi&quot; coords=&quot;293,169,294,219,286,222,282,218,267,217,272,202,269,201,269,187,277,171&quot; href=&quot;http://www.msdh.state.ms.us/msdhsite/_static/30,1937,76,225.html&quot; shape=&quot;POLY&quot; title=&quot;Mississippi&quot; /&gt;&lt;area alt=&quot;Missouri&quot; coords=&quot;231,114,232,122,235,124,233,126,238,130,238,157,276,156,274,162,279,162,280,156,284,152,280,150,280,146,277,142,272,139,274,132,272,129,269,131,259,113&quot; href=&quot;http://health.mo.gov/lab/privatedrinkingwater.php&quot; shape=&quot;POLY&quot; title=&quot;Missouri&quot; /&gt;&lt;area alt=&quot;Montana&quot; coords=&quot;84,13,81,30,86,41,88,42,85,47,86,53,90,52,94,63,109,66,109,63,167,66,171,23&quot; href=&quot;http://waterquality.montana.edu/well-ed/testingawell/&quot; shape=&quot;POLY&quot; title=&quot;Montana&quot; /&gt;&lt;area alt=&quot;Nebraska&quot; coords=&quot;164,95,162,114,178,115,177,127,230,127,229,120,222,103,204,95&quot; href=&quot;http://dhhs.ne.gov/publichealth/Pages/enh_wwsindex.aspx&quot; shape=&quot;POLY&quot; title=&quot;Nebraska&quot; /&gt;&lt;area alt=&quot;Nevada&quot; coords=&quot;39,77,33,108,66,160,67,148,71,151,83,89&quot; href=&quot;http://ndep.nv.gov/bsdw/wells.htm&quot; shape=&quot;POLY&quot; title=&quot;Nevada&quot; /&gt;&lt;area alt=&quot;New Hampshire&quot; coords=&quot;400,40,381,21,373,21,373,10,392,10,404,37,412,62,401,67&quot; href=&quot;http://des.nh.gov/organization/divisions/water/dwgb/well_testing/index.htm&quot; shape=&quot;POLY&quot; title=&quot;New Hampshire&quot; /&gt;&lt;area alt=&quot;New Jersey&quot; coords=&quot;386,101,392,110,412,107,430,107,430,95,394,89,389,86,387,91,392,96&quot; href=&quot;http://www.state.nj.us/dep/pwta&quot; shape=&quot;POLY&quot; title=&quot;New Jersey&quot; /&gt;&lt;area alt=&quot;New Mexico&quot; coords=&quot;107,207,113,207,127,204,128,201,165,201,167,150,115,146&quot; href=&quot;https://nmhealth.org/about/erd/eheb/wqp/&quot; shape=&quot;POLY&quot; title=&quot;New Mexico&quot; /&gt;&lt;area alt=&quot;New York&quot; coords=&quot;350,82,354,69,377,48,388,44,390,63,392,63,397,84,411,82,405,87,395,89,388,87,383,79,350,86&quot; href=&quot;http://www.health.state.ny.us/environmental/water/drinking/part5/append5b/fs3_water_quality.htm&quot; shape=&quot;POLY&quot; title=&quot;New York&quot; /&gt;&lt;area alt=&quot;North Carolina&quot; coords=&quot;342,145,342,150,338,153,335,153,333,156,331,156,329,160,327,160,324,165,353,160,355,161,362,161,375,168,401,153,393,135&quot; href=&quot;http://epi.publichealth.nc.gov/oee/programs/wellwater.html&quot; shape=&quot;POLY&quot; title=&quot;North Carolina&quot; /&gt;&lt;area alt=&quot;North Dakota&quot; coords=&quot;171,23,168,57,220,60,220,38,216,35,218,24&quot; href=&quot;http://www.ndhealth.gov/wq/gw/pubs/WellTestingBrochure.pdf&quot; shape=&quot;POLY&quot; title=&quot;North Dakota (PDF)&quot; /&gt;&lt;area alt=&quot;Ohio&quot; coords=&quot;311,94,323,92,344,86,347,101,344,102,346,106,342,117,340,117,334,127,323,126,316,124&quot; href=&quot;https://www.odh.ohio.gov/odhprograms/eh/water/PrivateWaterSystems/main.aspx&quot; shape=&quot;POLY&quot; title=&quot;Ohio&quot; /&gt;&lt;area alt=&quot;Oklahoma&quot; coords=&quot;169,161,169,168,193,168,194,189,202,199,217,196,221,194,225,199,230,194,235,194,242,197,242,174,238,166,238,163&quot; href=&quot;http://www.okgroundwater.org/resources/&quot; shape=&quot;POLY&quot; title=&quot;Oklahoma&quot; /&gt;&lt;area alt=&quot;Oregon&quot; coords=&quot;24,29,29,31,30,38,36,39,38,38,45,41,56,40,72,45,71,51,65,58,65,66,60,83,9,70,8,58&quot; href=&quot;http://www.deq.state.or.us/wq/dwp/wellowners.htm&quot; shape=&quot;POLY&quot; title=&quot;Oregon&quot; /&gt;&lt;area alt=&quot;Pennsylvania&quot; coords=&quot;344,86,349,111,385,103,392,97,387,92,389,88,382,81&quot; href=&quot;http://www.dep.pa.gov/Citizens/My-Water/PrivateWells/Pages/default.aspx#.V1cuU9krJMw&quot; shape=&quot;POLY&quot; title=&quot;Pennsylvania&quot; /&gt;&lt;area alt=&quot;Puerto Rico&quot; coords=&quot;250,271,305,300&quot; href=&quot;#pr&quot; shape=&quot;RECT&quot; title=&quot;Puerto Rico&quot; /&gt;&lt;area alt=&quot;Rhode Island&quot; coords=&quot;411,78,428,82,445,82,445,71,428,71,427,75,413,72,410,72&quot; href=&quot;http://www.health.ri.gov/water/for/privatewellowners/&quot; shape=&quot;POLY&quot; title=&quot;Rhode Island&quot; /&gt;&lt;area alt=&quot;South Carolina&quot; coords=&quot;336,164,333,167,336,169,341,172,343,174,350,181,353,181,355,184,355,188,359,190,373,177,377,168,366,161,358,162,355,160,341,161,341,163&quot; href=&quot;http://www.scdhec.gov/environment/WaterQuality/ResidentialWells/OverviewWells/&quot; shape=&quot;POLY&quot; title=&quot;South Carolina&quot; /&gt;&lt;area alt=&quot;South Dakota&quot; coords=&quot;169,60,166,91,205,91,224,98,224,85,224,68,222,67,221,63&quot; href=&quot;http://denr.sd.gov/des/dw/privatewell.aspx&quot; shape=&quot;POLY&quot; title=&quot;South Dakota&quot; /&gt;&lt;area alt=&quot;Tennessee&quot; coords=&quot;276,170,327,166,328,160,331,161,332,157,335,157,337,154,340,154,343,151,344,147,294,152,293,152,291,152,291,154,280,156&quot; href=&quot;https://tn.gov/health/article/private-water-supply&quot; shape=&quot;POLY&quot; title=&quot;Tennessee&quot; /&gt;&lt;area alt=&quot;Texas&quot; coords=&quot;126,212,138,238,187,258,201,279,222,280,244,237,246,220,243,218,242,196,227,192,222,198,219,194,214,196,198,193,192,188,190,167,166,167,163,211,125,209&quot; href=&quot;http://water.tamu.edu/water-quality/texas-well-owner-network/&quot; shape=&quot;POLY&quot; title=&quot;Texas&quot; /&gt;&lt;area alt=&quot;Utah&quot; coords=&quot;84,90,74,142,114,149,121,107,103,104,104,94&quot; href=&quot;http://extension.usu.edu/waterquality/htm/agriculturewq/riskwater/&quot; shape=&quot;POLY&quot; title=&quot;Utah&quot; /&gt;&lt;area alt=&quot;Vermont&quot; coords=&quot;367,37,387,45,390,63,392,62,394,70,400,67,401,41,385,27,367,26&quot; href=&quot;http://healthvermont.gov/enviro/ph_lab/water_test.aspx#two&quot; shape=&quot;POLY&quot; title=&quot;Vermont&quot; /&gt;&lt;area alt=&quot;Virgin Islands&quot; coords=&quot;321,264,356,298&quot; href=&quot;/&quot; shape=&quot;RECT&quot; title=&quot;Virgin Islands&quot; /&gt;&lt;area alt=&quot;Virginia&quot; coords=&quot;372,110,363,123,359,122,356,128,357,133,348,138,340,138,333,146,344,145,395,135,394,119,389,119,386,115,382,115,381,112,378,112,378,114&quot; href=&quot;http://www.wellwater.bse.vt.edu/&quot; shape=&quot;POLY&quot; title=&quot;Virginia&quot; /&gt;&lt;area alt=&quot;Washington&quot; coords=&quot;21,30,21,2,37,2,75,13,67,44,53,41,43,43,36,39,33,40,28,39&quot; href=&quot;http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/Contaminants/TestingYourWater&quot; shape=&quot;POLY&quot; title=&quot;Washington&quot; /&gt;&lt;area alt=&quot;West Virginia&quot; coords=&quot;332,146,340,139,347,139,356,134,355,129,359,122,362,124,364,119,371,112,365,108,356,115,357,108,349,110,347,101,345,102,346,107,342,118,339,116,335,127&quot; href=&quot;http://www.wvdhhr.org/phs/water/index.asp&quot; shape=&quot;POLY&quot; title=&quot;West Virginia&quot; /&gt;&lt;area alt=&quot;Wisconsin&quot; coords=&quot;252,48,260,45,263,49,271,54,275,52,280,55,284,62,289,65,285,78,287,94,265,94,260,89,259,83,258,77,253,71,250,72,247,58,252,56&quot; href=&quot;http://dnr.wi.gov/topic/wells/&quot; shape=&quot;POLY&quot; title=&quot;Wisconsin&quot; /&gt;&lt;area alt=&quot;Wyoming&quot; coords=&quot;113,62,107,102,167,108,170,68&quot; href=&quot;http://deq.wyoming.gov/wqd/groundwater/resources/drinking-water-wells/&quot; shape=&quot;POLY&quot; title=&quot;Wyoming&quot; /&gt;&lt;/map&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col&quot; style=&quot;width:30%&quot;&gt;
+		&lt;form action=&quot;https://www3.epa.gov/cgi-bin/redirect.pl&quot; method=&quot;post&quot;&gt;&lt;label for=&quot;list&quot;&gt;Choose a state from the list for information about private wells in your state.&lt;/label&gt; &lt;select id=&quot;list&quot; name=&quot;Target&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;http://www.aces.edu/waterquality/faq/faq_list.php3?Code=303&quot;&gt;Alabama&lt;/option&gt;&lt;option value=&quot;http://dec.alaska.gov/eh/dw/DWP/DWP_PrivateWells.html&quot;&gt;Alaska&lt;/option&gt;&lt;option value=&quot;https://extension.arizona.edu/private-wells-publications&quot;&gt;Arizona&lt;/option&gt;&lt;option value=&quot;https://watersustainability.wordpress.com/urbanresidential/drinking-water/&quot;&gt;Arkansas&lt;/option&gt;&lt;option value=&quot;http://www.water.ca.gov/groundwater/wells/basics.cfm&quot;&gt;California&lt;/option&gt;&lt;option value=&quot;https://www.colorado.gov/pacific/cdphe/drinking-water-private-wells&quot;&gt;Colorado&lt;/option&gt;&lt;option value=&quot;http://www.ct.gov/dph/privatewells&quot;&gt;Connecticut&lt;/option&gt;&lt;option value=&quot;http://www.dhss.delaware.gov/dhss/dph/hsp/privdw.html&quot;&gt;Delaware&lt;/option&gt;&lt;option value=&quot;http://www.floridahealth.gov/environmental-health/private-well-testing/index.html&quot;&gt;Florida&lt;/option&gt;&lt;option value=&quot;https://dph.georgia.gov/individual-private-wells&quot;&gt;Georgia&lt;/option&gt;&lt;option value=&quot;http://www2.ctahr.hawaii.edu/oc/freepubs/pdf/HH-9.pdf&quot;&gt;Hawaii (PDF)&lt;/option&gt;&lt;option value=&quot;http://www.deq.idaho.gov/water-quality/ground-water/private-wells.aspx&quot;&gt;Idaho&lt;/option&gt;&lt;option value=&quot;http://dph.illinois.gov/topics-services/environmental-health-protection/private-water&quot;&gt;Illinois&lt;/option&gt;&lt;option value=&quot;http://in.gov/idem/cleanwater/2452.htm&quot;&gt;Indiana&lt;/option&gt;&lt;option value=&quot;http://www.iowadnr.gov/InsideDNR/RegulatoryWater/PrivateWellProgram.aspx&quot;&gt;Iowa&lt;/option&gt;&lt;option value=&quot;http://www.kdheks.gov/waterwell/&quot;&gt;Kansas&lt;/option&gt;&lt;option value=&quot;http://water.ky.gov/groundwater/Pages/WaterWellRelatedConcerns.aspx&quot;&gt;Kentucky&lt;/option&gt;&lt;option value=&quot;http://dnr.louisiana.gov/index.cfm?md=pagebuilder&amp;amp;tmp=home&amp;amp;pid=1218&quot;&gt;Louisiana&lt;/option&gt;&lt;option value=&quot;http://www.maine.gov/dhhs/eohp/wells/mewellwater.htm&quot;&gt;Maine&lt;/option&gt;&lt;option value=&quot;http://www.mde.state.md.us/programs/Water/Water_Supply/Pages/Residential_Wells.aspx&quot;&gt;Maryland&lt;/option&gt;&lt;option value=&quot;http://www.mass.gov/eea/agencies/massdep/water/drinking/private-wells.html&quot;&gt;Massachusetts&lt;/option&gt;&lt;option value=&quot;http://www.michigan.gov/deq/0,1607,7-135-3313_3675_3694---,00.html&quot;&gt;Michigan&lt;/option&gt;&lt;option value=&quot;http://www.health.state.mn.us/divs/eh/wells/&quot;&gt;Minnesota&lt;/option&gt;&lt;option value=&quot;http://www.msdh.state.ms.us/msdhsite/_static/30,1937,76,225.html&quot;&gt;Mississippi&lt;/option&gt;&lt;option value=&quot;http://health.mo.gov/lab/privatedrinkingwater.php&quot;&gt;Missouri&lt;/option&gt;&lt;option value=&quot;http://waterquality.montana.edu/well-ed/testingawell/&quot;&gt;Montana&lt;/option&gt;&lt;option value=&quot;http://dhhs.ne.gov/publichealth/Pages/enh_wwsindex.aspx&quot;&gt;Nebraska&lt;/option&gt;&lt;option value=&quot;http://ndep.nv.gov/bsdw/wells.htm&quot;&gt;Nevada&lt;/option&gt;&lt;option value=&quot;http://des.nh.gov/organization/divisions/water/dwgb/well_testing/index.htm&quot;&gt;New Hampshire&lt;/option&gt;&lt;option value=&quot;http://www.state.nj.us/dep/pwta&quot;&gt;New Jersey&lt;/option&gt;&lt;option value=&quot;https://nmhealth.org/about/erd/eheb/wqp/&quot;&gt;New Mexico&lt;/option&gt;&lt;option value=&quot;http://www.health.state.ny.us/environmental/water/drinking/part5/append5b/fs3_water_quality.htm&quot;&gt;New York&lt;/option&gt;&lt;option value=&quot;http://erp.unc.edu/water/private-well-water/&quot;&gt;North Carolina&lt;/option&gt;&lt;option value=&quot;http://www.ndhealth.gov/wq/gw/pubs/WellTestingBrochure.pdf&quot;&gt;North Dakota (PDF)&lt;/option&gt;&lt;option value=&quot;https://www.odh.ohio.gov/odhprograms/eh/water/PrivateWaterSystems/main.aspx&quot;&gt;Ohio&lt;/option&gt;&lt;option value=&quot;http://www.okgroundwater.org/resources/&quot;&gt;Oklahoma&lt;/option&gt;&lt;option value=&quot;http://www.deq.state.or.us/wq/dwp/wellowners.htm&quot;&gt;Oregon&lt;/option&gt;&lt;option value=&quot;http://www.dep.pa.gov/Citizens/My-Water/PrivateWells/Pages/default.aspx#.V1cuU9krJMw&quot;&gt;Pennsylvania&lt;/option&gt;&lt;option value=&quot;http://www.health.ri.gov/water/for/privatewellowners/&quot;&gt;Rhode Island&lt;/option&gt;&lt;option value=&quot;http://www.scdhec.gov/environment/WaterQuality/ResidentialWells/OverviewWells/&quot;&gt;South Carolina&lt;/option&gt;&lt;option value=&quot;http://denr.sd.gov/des/dw/privatewell.aspx&quot;&gt;South Dakota&lt;/option&gt;&lt;option value=&quot;https://tn.gov/health/article/private-water-supply&quot;&gt;Tennessee&lt;/option&gt;&lt;option value=&quot;http://water.tamu.edu/water-quality/texas-well-owner-network/&quot;&gt;Texas&lt;/option&gt;&lt;option value=&quot;http://extension.usu.edu/waterquality/htm/agriculturewq/riskwater/&quot;&gt;Utah&lt;/option&gt;&lt;option value=&quot;http://healthvermont.gov/enviro/ph_lab/water_test.aspx#two&quot;&gt;Vermont&lt;/option&gt;&lt;option value=&quot;http://www.wellwater.bse.vt.edu/&quot;&gt;Virginia&lt;/option&gt;&lt;option value=&quot;http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/Contaminants/TestingYourWater&quot;&gt;Washington&lt;/option&gt;&lt;option value=&quot;http://www.wvdhhr.org/phs/water/index.asp&quot;&gt;West Virginia&lt;/option&gt;&lt;option value=&quot;http://dnr.wi.gov/topic/wells/&quot;&gt;Wisconsin&lt;/option&gt;&lt;option value=&quot;http://deq.wyoming.gov/wqd/groundwater/resources/drinking-water-wells/&quot;&gt;Wyoming&lt;/option&gt;&lt;/select&gt;&lt;input name=&quot;submit&quot; type=&quot;submit&quot; value=&quot;GO&quot; /&gt; &lt;/form&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 07 May 2015 19:11:02 +0000</pubDate>
+ <dc:creator>rcarey</dc:creator>
+ <guid isPermaLink="false">83417 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Publications Related to Private Water Well Safety</title>
+    <link>https://www.epa.gov/privatewells/publications-related-private-water-well-safety</link>
+    <description>&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;a href=&quot;/privatewells/drinking-water-household-wells&quot;&gt;Drinking Water From Household Wells&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/privatewells/what-do-your-private-well-after-flood&quot;&gt;What to do After a Flood&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1008ZP0.txt&quot;&gt;Water on Tap: What You Need To Know (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 2MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) EPA 816-K-03-007, October 2003&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/npdes/pubs/homeowner_guide_long.pdf&quot;&gt;Homeowner&#039;s Guide to Septic Systems (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) EPA 832-B-02-005, March 2005&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000U9HN.txt&quot;&gt;Manual of Individual and Non-Public Water Supply Systems (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(196 pp, 8MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) EPA 570/9-91-004, May 1991&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=910209CX.txt&quot;&gt;Applicability of Wellhead Protection Area Delineation to Domestic Wellhead Case Study (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 1MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) EPA 813-B-95-007, September 1995&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 07 May 2015 17:27:07 +0000</pubDate>
+ <dc:creator>rcarey</dc:creator>
+ <guid isPermaLink="false">83365 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>What to Do With Your Private Well After a Flood</title>
+    <link>https://www.epa.gov/privatewells/what-do-your-private-well-after-flood</link>
+    <description>&lt;p&gt;The document provides steps and precautions for protecting your private well following a flood. It includes information on:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Well and pump inspection&lt;/li&gt;
+	&lt;li&gt;Emergency disinfection of wells that have been flooded&lt;/li&gt;
+	&lt;li&gt;Sampling and testing the well water&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-128795&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-05/documents/epa816f05021.pdf&quot; type=&quot;application/pdf; length=396167&quot; class=&quot;file-link&quot;&gt;What to Do After the Flood (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 396 K, 
+  August 2005, 
+  816-F-05-021)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    English Language Version of the What to Do After the Flood Plublication  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 07 May 2015 17:12:28 +0000</pubDate>
+ <dc:creator>jjollie</dc:creator>
+ <guid isPermaLink="false">83357 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Key Steps To Protect Your Well</title>
+    <link>https://www.epa.gov/privatewells/key-steps-protect-your-well</link>
+    <description>&lt;p&gt;Private, individual wells are the responsibility of the homeowner. To help protect your well, here are some steps you can take:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#test&quot;&gt;Test your water&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#home&quot;&gt;Identify potential problems close to home&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#community&quot;&gt;Identify potential problems in your community&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#sources&quot;&gt;Consider common sources of potential ground water contamination&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;test&quot;&gt;Test your water&lt;/h2&gt;
+
+&lt;p&gt;Have your water tested annually for total coliform bacteria, nitrates, total dissolved solids, and pH levels. If you suspect other contaminants, test for those. Always use a &lt;a href=&quot;/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water&quot;&gt;state certified laboratory &lt;/a&gt;that conducts drinking water tests.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Testing more than once a year may be warranted in some situations, such as:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Someone in your household is pregnant or nursing&lt;/li&gt;
+			&lt;li&gt;There are unexplained illnesses in the family&lt;/li&gt;
+			&lt;li&gt;Your neighbors find a dangerous contaminant in their water&lt;/li&gt;
+			&lt;li&gt;You note a change in water taste, odor, color, or clarity&lt;/li&gt;
+			&lt;li&gt;There is a spill of chemicals or fuels into or near your well&lt;/li&gt;
+			&lt;li&gt;When you replace or repair any part of your well system&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;home&quot;&gt;Identify potential problem sources around your well&lt;/h2&gt;
+
+&lt;p&gt;To start your search for potential problems, do a survey around your well.  Some questions you might ask are:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Are there livestock nearby?&lt;/li&gt;
+	&lt;li&gt;Are pesticides being used on nearby agricultural crops or nurseries?&lt;/li&gt;
+	&lt;li&gt;Do you use lawn fertilizers near the well?&lt;/li&gt;
+	&lt;li&gt;Is your well &quot;downstream&quot; from your own or a neighbor&#039;s septic system?&lt;/li&gt;
+	&lt;li&gt;Is your well located near a road that is frequently salted or sprayed with de-icers during winter months?&lt;/li&gt;
+	&lt;li&gt;Do you or your neighbors dispose of household wastes or used motor oil in the backyard, even in small amounts?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Be aware of your surroundings:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;As you drive around your community, take note of new construction.&lt;/li&gt;
+	&lt;li&gt;Check the local newspaper for articles about new construction in your area.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If any of these items apply, it may be best to:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Have your water tested&lt;/li&gt;
+	&lt;li&gt;Talk to your local public health department or agricultural extension agent to find ways to change some of the practices which can affect your private well&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Also see &lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=200024OD.txt&quot;&gt;Drinking Water from Household Wells&lt;/a&gt; for more information and help.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;op of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;Identify potential problem sources in your community&lt;/h2&gt;
+
+&lt;p&gt;In addition to the immediate area around your well, you should be aware of other possible sources of contamination that may:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Already be in your community&lt;/li&gt;
+	&lt;li&gt;Be moving into the area&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A good place to start may be to consult a local expert who knows your area, such as:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;A local health department official&lt;/li&gt;
+	&lt;li&gt;An agricultural extension agent&lt;/li&gt;
+	&lt;li&gt;A nearby public water system official&lt;/li&gt;
+	&lt;li&gt;A geologist at a local university&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Find out about the construction of facilities that may pollute your drinking water. Check the paper for announcements or call your local planning or zoning commission about hearings or zoning appeals on new development, construction or industrial projects. Attend these hearings, planning meetings, or zoning appeals. Ask questions, such as:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&quot;How is the water source is being protected?&quot; Don&#039;t be satisfied with general answers.&lt;/li&gt;
+	&lt;li&gt;&quot;What will you do to ensure that my water will be protected?&quot; Listen for specifics about what plans have been made to address this.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Ask to see the environmental impact statement on the project. See if protection of underground drinking water sources has been addressed. If not, ask why.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;sources&quot;&gt;Common Sources of Potential Ground Water Contamination&lt;/h2&gt;
+
+&lt;table summary=&quot; Common Sources of Potiental Ground Water Contamination&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Category&lt;/strong&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;strong&gt;Contaminant Source&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Agricultural&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;Animal burial areas&lt;/li&gt;
+					&lt;li&gt;Drainage fields/wells&lt;/li&gt;
+					&lt;li&gt;Animal feedlots&lt;/li&gt;
+					&lt;li&gt;Irrigation sites&lt;/li&gt;
+					&lt;li&gt;Fertilizer storage/use&lt;/li&gt;
+					&lt;li&gt;Manure spreading areas/pits, lagoons&lt;/li&gt;
+					&lt;li&gt;Pesticide storage/use&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Commercial&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;Airports&lt;/li&gt;
+					&lt;li&gt;Jewelry/metal plating&lt;/li&gt;
+					&lt;li&gt;Auto repair shops&lt;/li&gt;
+					&lt;li&gt;Laundromats&lt;/li&gt;
+					&lt;li&gt;Boatyards&lt;/li&gt;
+					&lt;li&gt;Medical institutions&lt;/li&gt;
+					&lt;li&gt;Car washes&lt;/li&gt;
+					&lt;li&gt;Paint shops&lt;/li&gt;
+					&lt;li&gt;Construction areas&lt;/li&gt;
+					&lt;li&gt;Photography establishments&lt;/li&gt;
+					&lt;li&gt;Cemeteries&lt;/li&gt;
+					&lt;li&gt;Process waste water drainage&lt;/li&gt;
+					&lt;li&gt;Dry cleaners fields/wells&lt;/li&gt;
+					&lt;li&gt;Gas stations&lt;/li&gt;
+					&lt;li&gt;Railroad tracks and yards&lt;/li&gt;
+					&lt;li&gt;Golf courses&lt;/li&gt;
+					&lt;li&gt;Research laboratories&lt;/li&gt;
+					&lt;li&gt;Scrap and junkyards&lt;/li&gt;
+					&lt;li&gt;Storage tanks&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Industrial&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;Asphalt plants&lt;/li&gt;
+					&lt;li&gt;Petroleum production/storage&lt;/li&gt;
+					&lt;li&gt;Chemical manufacture/storage&lt;/li&gt;
+					&lt;li&gt;Pipelines&lt;/li&gt;
+					&lt;li&gt;Electronic manufacture&lt;/li&gt;
+					&lt;li&gt;Process waste water drainage&lt;/li&gt;
+					&lt;li&gt;Electroplaters fields/wells&lt;/li&gt;
+					&lt;li&gt;Foundries/metal fabricators&lt;/li&gt;
+					&lt;li&gt;Septage lagoons and sludge&lt;/li&gt;
+					&lt;li&gt;Machine/metalworking shops&lt;/li&gt;
+					&lt;li&gt;Storage tanks&lt;/li&gt;
+					&lt;li&gt;Mining and mine drainage&lt;/li&gt;
+					&lt;li&gt;Toxic and hazardous spills&lt;/li&gt;
+					&lt;li&gt;Wood preserving facilities&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Residential&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;Fuel oil&lt;/li&gt;
+					&lt;li&gt;Septic systems, cesspools&lt;/li&gt;
+					&lt;li&gt;Furniture stripping/refinishing&lt;/li&gt;
+					&lt;li&gt;Sewer lines&lt;/li&gt;
+					&lt;li&gt;Household hazardous products&lt;/li&gt;
+					&lt;li&gt;Swimming pools (chemicals)&lt;/li&gt;
+					&lt;li&gt;Household lawns&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Other&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;Hazardous waste landfills&lt;/li&gt;
+					&lt;li&gt;Recycling/reduction facilities&lt;/li&gt;
+					&lt;li&gt;Municipal incinerators&lt;/li&gt;
+					&lt;li&gt;Road deicing operations&lt;/li&gt;
+					&lt;li&gt;Municipal landfills&lt;/li&gt;
+					&lt;li&gt;Road maintenance depots&lt;/li&gt;
+					&lt;li&gt;Municipal sewer lines&lt;/li&gt;
+					&lt;li&gt;Storm water drains/basins/wells&lt;/li&gt;
+					&lt;li&gt;Open burning sites&lt;/li&gt;
+					&lt;li&gt;Transfer stations&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 07 May 2015 15:28:48 +0000</pubDate>
+ <dc:creator>rcarey</dc:creator>
+ <guid isPermaLink="false">83321 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Human Health and Contaminated Water</title>
+    <link>https://www.epa.gov/privatewells/human-health-and-contaminated-water</link>
+    <description>
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#what&quot;&gt;Natural sources of contamination&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#human&quot;&gt;Contamination from human activity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;what&quot;&gt;Naturally sources of contamination&lt;/h2&gt;
+
+&lt;p&gt;The first step to protect your health and the health of your family is learning about what may impact the quality of your source of drinking water.  &lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Microorganisms &lt;/strong&gt;are bacteria, viruses, and parasites sometimes found in water. Shallow wells are at greater risk of contamination. Runoff, or water flowing over the land surface, may pick up contaminants from wildlife and soils. This is often the case after a flood. These organisms can cause a variety of illnesses.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Radionuclides &lt;/strong&gt;are radioactive elements such as uranium and radium. They may be present in underlying rock and ground water. Radon is a gas that is a natural product of the breakdown of uranium in the soil and can also pose a threat. Radon is most dangerous when inhaled and contributes to lung cancer. Although soil is the primary source, using household water containing radon contributes to elevated indoor radon levels. Radon is less dangerous when consumed in water, but remains a risk to health. &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Nitrates and nitrites &lt;/strong&gt;are inorganic compounds. Usually from human activities, they may also be found naturally in ground water. They come from the breakdown of nitrogen compounds (such as fertilizers) in the soil. High levels of nitrates and nitrites in drinking water have a more significant health impact on fomula-fed infants.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Heavy metals &lt;/strong&gt;occur naturally in underground rocks and soils. Heavy metals from natural sources may be a concern in some areas, but are not often found in household wells at dangerous levels. Naturally-occurring heavy metals include:
+		&lt;ul&gt;&lt;li&gt;Arsenic&lt;/li&gt;
+			&lt;li&gt;Cadmium&lt;/li&gt;
+			&lt;li&gt;Chromium&lt;/li&gt;
+			&lt;li&gt;Lead&lt;/li&gt;
+			&lt;li&gt;Selenium&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Fluoride&lt;/strong&gt;: High levels of fluoride occur naturally in some areas and can contaminate private wells. Fluoride is helpful in preventing tooth decay; however, excessive consumption of fluoride can damage bone tissue. Too much fluoride can also cause tooth discoloration in young children.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;human&quot;&gt;Contamination from human activity&lt;/h2&gt;
+
+&lt;div class=&quot;figure image mode-media_large caption right clear-right&quot; style=&quot;width:300px&quot;&gt;&lt;img alt=&quot;diagram of a septic tank&quot; src=&quot;/sites/production/files/styles/large/public/2015-05/septictank_300.jpg?itok=E_UV3zFB&quot; /&gt;&lt;div class=&quot;figcaption&quot;&gt;Septic tanks are designed to have a “leach field” around them — an area where wastewater flows out of the tank. This wastewater can also move into the ground water.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Bacteria and nitrates&lt;/strong&gt;: These contaminants are found in human and animal wastes. &lt;span&gt;Septic tanks or &lt;/span&gt;large numbers of farm animals &lt;span&gt;can also cause bacterial and nitrate pollution. Both septic systems and animal manures must be carefully managed to prevent private well contamination.&lt;/span&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;span&gt;​&lt;/span&gt;Sanitary landfills and garbage dumps are also sources.&lt;/li&gt;
+			&lt;li&gt;Children and some adults are at extra risk when exposed to water-born bacteria. These include the elderly and people whose immune systems are weak due to AIDS or treatments for cancer.&lt;/li&gt;
+			&lt;li&gt;Fertilizers can add to nitrate problems.
+				&lt;ul&gt;&lt;li&gt;Nitrates cause a health threat in very young infants called “blue baby” syndrome. This condition disrupts oxygen flow in the blood.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Concentrated animal feeding operations (CAFOs)&lt;/strong&gt;: The number of CAFOs, often called “factory farms,” is growing. On these farms thousands of animals are raised in a small space. The large amounts of animal wastes/manures from these farms can threaten water supplies. Strict and careful manure management is needed to prevent pathogen and nutrient problems in private wells. Salts from high levels of manures can also pollute ground water.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Heavy metals&lt;/strong&gt;: Activities such as mining and construction can release large amounts of heavy metals into nearby ground water sources. Some older fruit orchards may contain high levels of arsenic, once used as a pesticide. At high levels, these metals pose a health risk.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Fertilizers and pesticides&lt;/strong&gt;: Farmers use fertilizers and pesticides to promote growth and reduce insect damage. These products are also used on golf courses and suburban lawns and gardens. The chemicals in these products may end up in ground water. The extent of contamination depends on the types and amounts of chemicals used and how they are applied. Local environmental conditions (such as soil types, seasonal snow, and rainfall) also impact their contamination potential.
+		&lt;ul&gt;&lt;li&gt;Many fertilizers contain forms of nitrogen that can break down into harmful nitrates. This could add to other sources of nitrates mentioned above.&lt;/li&gt;
+			&lt;li&gt;Some underground agricultural drainage systems collect fertilizers and pesticides. This polluted water can pose problems to ground water and local streams and rivers.&lt;/li&gt;
+			&lt;li&gt;In addition, chemicals used to treat buildings and homes for termites or other pests may also pose a threat.&lt;/li&gt;
+			&lt;li&gt;Again, the possibility of problems depends on the amount and kind of chemicals. The types of soil and the amount of water moving through the soil also play a role.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Industrial products and wastes&lt;/strong&gt;: Many harmful chemicals are used widely in local business and industry. These can become drinking water pollutants if not well managed. The most common sources of such problems are:
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Local businesses&lt;/strong&gt;: Factories, industrial plants, and even small businesses such as gas stations and dry cleaners handle a variety of hazardous chemicals that need careful management. Spills and improper disposal of these chemicals or of industrial wastes can threaten ground water supplies.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Leaking underground tanks and piping&lt;/strong&gt;: Petroleum products, chemicals, and wastes stored in underground storage tanks and pipes may end up in the ground water. Tanks and piping leak if they are constructed or installed improperly. Steel tanks and piping corrode with age. Tanks are often found on farms. The possibility of leaking tanks is great on old, abandoned farm sites. Farm tanks are exempt from the EPA rules for petroleum and chemical tanks.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Landfills and waste dumps&lt;/strong&gt;: Modern landfills are designed to contain any leaking liquids, but floods can carry conaminants over the barriers. Older dumpsites may have a wide variety of pollutants that can seep into ground water.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Household wastes&lt;/strong&gt;: Improper disposal of many common products can pollute ground water. These include cleaning solvents, used motor oil, paints, and paint thinners. Even soaps and detergents can harm drinking water. These are often a problem from faulty septic tanks and septic leaching fields.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Lead and copper&lt;/strong&gt;: &lt;span&gt;Elevated concentrations of lead are rarely found in source water. &lt;/span&gt;Lead is commonly found in household plumbing materials. &lt;span&gt;Homes built before 1986 are more likely to have lead pipes, fixtures, and solder. Lead can leach into &lt;/span&gt;water systems&lt;span&gt; when these plumbing materials corrode. Your water’s acidity or alkalinity (often measured as &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;pH&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;pH&lt;/em&gt;The measure of acidity or alkalinity of a chemical solution, from 0-14. Anything neutral, for example, has a pH of 7. Acids have a pH less than 7, bases (alkaline) greater than 7.&lt;/span&gt;&lt;/a&gt;) greatly affects corrosion. Temperature and mineral content also affect how corrosive it is. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;indented&quot;&gt;&lt;span&gt;Lead in drinking water can cause a variety of adverse health effects. &lt;span&gt;&lt;span&gt;Exposure to lead in drinking water can cause &lt;/span&gt;delays in physical and mental development in babies and children. &lt;span&gt;Adults who drink this water over many years could develop kidney problems or high blood pressure.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Water treatment chemicals&lt;/strong&gt;: Improper handling or storage of water-well treatment chemicals (such as disinfectants or corrosion inhibitors) close to your well can cause problems.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 06 May 2015 20:00:12 +0000</pubDate>
+ <dc:creator>rcarey</dc:creator>
+ <guid isPermaLink="false">83209 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Home Water Testing</title>
+    <link>https://www.epa.gov/privatewells/home-water-testing</link>
+    <description>&lt;p&gt;This fact sheet has information to help you decide whether or not to have your well water tested. If you decide it needs testing, tests are suggested for your water.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-128491&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-05/documents/epa816f05013.pdf&quot; type=&quot;application/pdf; length=582078&quot; class=&quot;file-link&quot;&gt;Home Water Testing (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 582 K, 
+  May 2005, 
+  816-F-05-013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 06 May 2015 16:57:16 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83181 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Protect Your Home&#039;s Water</title>
+    <link>https://www.epa.gov/privatewells/protect-your-homes-water</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;For more information:&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/privatewells/drinking-water-household-wells&quot;&gt;Drinking Water From Household Wells&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1002SMR.txt&quot;&gt;Home Water Testing&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#welltestanchor&quot;&gt;Testing wells to safeguard your water&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#floodwellanchor&quot;&gt;Protect your water after a flood &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#preventwellanchor&quot;&gt;Prevent water well pollution &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;how&quot;&gt;&lt;a id=&quot;welltestanchor&quot; name=&quot;welltestanchor&quot;&gt;&lt;/a&gt;Testing wells to safeguard your water&lt;/h2&gt;
+
+&lt;p&gt;Consider testing your well for pesticides, organic chemicals, and heavy metals before you use it for the first time. Test private water supplies annually for nitrate and coliform bacteria to detect contamination problems early.&lt;/p&gt;
+
+&lt;p&gt;Test your well more frequently if you suspect a problem. Be aware of activities in your watershed that may affect the water quality of your well, especially if you live in an unsewered area.&lt;/p&gt;
+
+&lt;h3&gt;Reasons to test your water&lt;/h3&gt;
+
+&lt;p&gt;The chart below will help you spot problems. The last five problems listed are not the most immediate health concern. They can make your water taste bad, may indicate problems, and could affect your well long term.&lt;/p&gt;
+
+&lt;table summary=&quot;Reasons to Test Water&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Conditions or Nearby Activities:&lt;/strong&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;strong&gt;Test for:&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Recurring gastro-intestinal illness&lt;/td&gt;
+			&lt;td&gt;Coliform bacteria&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Household plumbing contains lead&lt;/td&gt;
+			&lt;td&gt;pH, lead, copper&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Radon in indoor air or region is radon rich&lt;/td&gt;
+			&lt;td&gt;Radon&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Corrosion of pipes, plumbing&lt;/td&gt;
+			&lt;td&gt;Corrosion, pH, lead&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nearby areas of intensive agriculture&lt;/td&gt;
+			&lt;td&gt;Nitrate, pesticides, coliform bacteria&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coal or other mining operations nearby&lt;/td&gt;
+			&lt;td&gt;Metals, pH, corrosion&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gas drilling operations nearby&lt;/td&gt;
+			&lt;td&gt;Chloride, sodium, barium, strontium&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dump, junkyard, landfill, factory, gas station or dry-cleaning operation nearby&lt;/td&gt;
+			&lt;td&gt;Volatile organic compounds, total dissolved solids, pH, sulfate, chloride, metals&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Odor of gasoline or fuel oil, and near gas station or buried fuel tanks&lt;/td&gt;
+			&lt;td&gt;Volatile organic compounds&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Objectionable taste or smell&lt;/td&gt;
+			&lt;td&gt;Hydrogen sulfide, corrosion, metals&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stained plumbing fixtures, laundry&lt;/td&gt;
+			&lt;td&gt;Iron, copper, manganese&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Salty taste and seawater, or a heavily salted roadway nearby&lt;/td&gt;
+			&lt;td&gt;Chloride, total dissolved solids, sodium&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Scaly residues, soaps don’t lather&lt;/td&gt;
+			&lt;td&gt;Hardness&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rapid wear of water treatment equipment&lt;/td&gt;
+			&lt;td&gt;pH, corrosion&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water softener needed to treat hardness&lt;/td&gt;
+			&lt;td&gt;Manganese, iron&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water appears cloudy, frothy or colored&lt;/td&gt;
+			&lt;td&gt;Color, detergents&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Only use laboratories that are certified to do drinking water tests. To find a certified laboratory in your state, you can contact:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;A &lt;a href=&quot;/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water&quot;&gt;State Certification Officer&lt;/a&gt; to get a list of certified water testing labs in your state&lt;/li&gt;
+	&lt;li&gt;Your local health department, which may also test private well water for free&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If a contaminant is detected, the results should include the concentration found and whether this level exceeds a drinking water health standard.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;See the &lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1005EJT.txt&quot;&gt;List of Drinking Water Contaminants and their Maximum Contaminant Levels (MCL)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 920K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;for information on Drinking Water Contaminants.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If a standard is exceeded in your sample, retest the water supply immediately and contact your public health department for assistance. Some problems can be handled quickly. For example, high bacteria concentrations can sometimes be controlled by disinfecting a well.&lt;/p&gt;
+
+&lt;p&gt;Filters or other on-site treatment processes may also remove some contaminants. Other problems may require a new source of water or a new, deeper well. If serious problems persist, you may need to rely on bottled water until a new water source can be obtained.&lt;/p&gt;
+
+&lt;p&gt;To detect contamination problems early, you should test private water supplies annually for at least:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Nitrates&lt;/li&gt;
+	&lt;li&gt;Coliform bacteria&lt;/li&gt;
+	&lt;li&gt;Total dissolved solids&lt;/li&gt;
+	&lt;li&gt;pH levels&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Test more frequently if a problem was found in earlier tests.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;what&quot;&gt;&lt;a id=&quot;floodwellanchor&quot; name=&quot;floodwellanchor&quot;&gt;&lt;/a&gt;Protect your water after a flood&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;Stay away from the well pump while flooded to avoid electric shock.&lt;/li&gt;
+	&lt;li&gt;Do not drink or wash from the flooded well to avoid becoming sick.&lt;/li&gt;
+	&lt;li&gt;Get assistance from a well or pump contractor to clean and disinfect your well before turning on the pump.&lt;/li&gt;
+	&lt;li&gt;After the pump is turned back on, pump the well until the water runs clear to rid the well of flood water.&lt;/li&gt;
+	&lt;li&gt;If the water does not run clear, get advice from the county or state health department or extension service.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;For additional information:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1001569.txt&quot;&gt;What to do After a Flood&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://emergency.cdc.gov/disasters/wellsdisinfect.asp&quot;&gt;What to do After a Natural Disaster&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;protect&quot;&gt;&lt;a id=&quot;preventwellanchor&quot; name=&quot;preventwellanchor&quot;&gt;&lt;/a&gt;Prevent water well pollution&lt;/h2&gt;
+
+&lt;p&gt;Protect your water supply by carefully managing activities near the water source. For households using a domestic well, this includes keeping contaminants away from sinkholes and the well itself. Keep hazardous chemicals out of septic systems.&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;Periodically inspect exposed parts of the well for problems such as:
+		&lt;ul&gt;&lt;li&gt;Cracked, corroded or damaged well casing&lt;/li&gt;
+			&lt;li&gt;Broken or missing well cap&lt;/li&gt;
+			&lt;li&gt;Settling and cracking of surface seals&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Slope the area around the well to drain surface runoff away from the well.&lt;/li&gt;
+	&lt;li&gt;Install a well cap or sanitary seal to prevent unauthorized use of, or entry into, the well.&lt;/li&gt;
+	&lt;li&gt;Have the well tested once a year for coliform bacteria, nitrates, and other contaminants of concern.&lt;/li&gt;
+	&lt;li&gt;Keep accurate records of well maintenance, such as disinfection or sediment removal, that may require the use of chemicals in the well.&lt;/li&gt;
+	&lt;li&gt;Hire a certified well driller for any new well construction, modification, or abandonment and closure.&lt;/li&gt;
+	&lt;li&gt;Avoid mixing or using pesticides, fertilizers, herbicides, degreasers, fuels, and other pollutants near the well.&lt;/li&gt;
+	&lt;li&gt;Do not dispose of wastes in dry wells or in abandoned wells.&lt;/li&gt;
+	&lt;li&gt;Do not cut off the well casing below the land surface.&lt;/li&gt;
+	&lt;li&gt;Pump and inspect septic systems as often as recommended by your local health department.&lt;/li&gt;
+	&lt;li&gt;Never dispose of harsh chemicals, solvents, petroleum products, or pesticides in a septic system or dry well.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 06 May 2015 16:38:06 +0000</pubDate>
+ <dc:creator>rcarey</dc:creator>
+ <guid isPermaLink="false">83175 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Construction Features of Dug Wells</title>
+    <link>https://www.epa.gov/privatewells/construction-features-dug-wells</link>
+    <description>&lt;p&gt;This document contains a graphic and construction features of a dug well. Dug wells are holes in the ground dug by shovel or backhoe.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-234407&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/dugwell.pdf&quot; type=&quot;application/pdf; length=66020&quot; class=&quot;file-link&quot;&gt;Construction Features of Dug Wells (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 66 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 06 May 2015 15:01:58 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83141 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Construction Features of Driven Wells</title>
+    <link>https://www.epa.gov/privatewells/construction-features-driven-wells</link>
+    <description>&lt;p&gt;This document contains a graphic and construction features of Driven Wells. Like dug wells, driven wells pull water from the water-saturated zone above the bedrock. Driven wells can be deeper than dug wells.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-234413&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/drivenwell_1.pdf&quot; type=&quot;application/pdf; length=58217&quot; class=&quot;file-link&quot;&gt;Construction Features of Driven Wells (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 58 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 06 May 2015 14:56:48 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83139 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:02:25, expires @ 2017-01-26 23:02:25, lifetime 12 hours -->

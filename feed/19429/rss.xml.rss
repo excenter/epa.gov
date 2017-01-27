@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/19429/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>home</title>
+    <link>https://www.epa.gov/feed/19429/rss.xml</link>
+    <description>Updated home content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/19429/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Updates to EPA.gov&#039;s Look</title>
+    <link>https://www.epa.gov/home/updates-epagovs-look</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Compare the Changes&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Click on the image to enlarge it.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-12/beforeafter.jpg&quot;&gt;&lt;img alt=&quot;screen shots comparing EPA web pages with the previous and new design&quot; height=&quot;159&quot; width=&quot;160&quot; class=&quot;center media-element file-teaser center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2016-12/beforeafter.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Beginning December 18, 2016, you might notice &lt;strong&gt;a change in the look of our website.&lt;/strong&gt; We&#039;ve reworked the design of EPA&#039;s web pages to make them cleaner and lighter, to help you use them more easily and efficiently.  &lt;a href=&quot;https://espanol.epa.gov/espanol/las-actualizaciones-la-apariencia-de-espanolepagov&quot;&gt;Lea más en español&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Web pages are simpler to read and understand.&lt;/strong&gt; We&#039;re improving the appearance and spacing of text and fonts to make it easier to read, particularly for people with low vision. We&#039;ve increased the visibility of some critical navigation elements. Other visual features or colors are lightened or reduced, also to increase usability.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Certain common features or links are re-grouped or streamlined.&lt;/strong&gt; For example, all EPA pages now have the same links at the bottom of the page in the &quot;footer,&quot; so you can find these useful resources anywhere.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Pages work better on different devices.&lt;/strong&gt; You may notice improved usability or consistency whether you&#039;re on a desktop computer or laptop, tablet, or a phone. And it&#039;s accessible for people who use assistive technologies like screen readers.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The design increases consistency with other government websites.&lt;/strong&gt; There’s an effort going on inside government to make sure that federal agency websites have a consistent look and feel. The idea is that this consistency makes it easier to find the information you need regardless of what agency website you’re using. If you visit other government sites like &lt;a href=&quot;http://USAjobs.gov&quot;&gt;USAjobs.gov&lt;/a&gt; or &lt;a href=&quot;http://Vote.gov&quot;&gt;Vote.gov&lt;/a&gt; you’ll notice some similarities between those sites and the new EPA.gov site&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;However, EPA content is unchanged.&lt;/strong&gt; The update to our look is more about how our web pages &lt;em&gt;look.&lt;/em&gt; It doesn&#039;t affect the information or services you use or link to.  Remember, please update your links or bookmarks with the updated URL for EPA home page: &lt;strong&gt;&lt;a href=&quot;https://www.epa.gov&quot;&gt;https://www.epa.gov&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 09 Nov 2016 17:11:47 +0000</pubDate>
+ <dc:creator>jmorin</dc:creator>
+ <guid isPermaLink="false">164895 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Github Contribution Disclaimer</title>
+    <link>https://www.epa.gov/home/github-contribution-disclaimer</link>
+    <description>&lt;p class=&quot;indented&quot;&gt;The United States Environmental Protection Agency (EPA) GitHub project code is provided on an &quot;as is&quot; basis and the user assumes responsibility for its use.  EPA has relinquished control of the information and no longer has responsibility to protect the integrity , confidentiality, or availability of the information.  Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by EPA.  The EPA seal and logo shall not be used in any manner to imply endorsement of any commercial product or activity by EPA or the United States Government.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 21 Oct 2016 19:50:20 +0000</pubDate>
+ <dc:creator>ayuen</dc:creator>
+ <guid isPermaLink="false">163265 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Getting Certified by EPA</title>
+    <link>https://www.epa.gov/home/getting-certified-epa</link>
+    <description>&lt;p&gt;A substantial number of our offices manage programs that certify technicians, service locations, laboratories or products.  Sometimes rather than performing the certifications ourselves, we will authorize specific independent organizations to perform these certifications.  We&#039;ve created this page to help visitors find information about these programs.&lt;/p&gt;
+
+&lt;p&gt;Below is an automatically-generated list of EPA web pages that include “certification” in the title.  Entries are listed by when they were last updated; most recently updated pages appear at the top.   &lt;/p&gt;
+
+&lt;p&gt;If you can&#039;t find what you need using the box on this page, or the list below, try our &lt;a href=&quot;/home/advanced-search&quot;&gt;Advanced Search page&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 09 Aug 2016 17:35:16 +0000</pubDate>
+ <dc:creator>mbanta</dc:creator>
+ <guid isPermaLink="false">156963 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Disclaimers</title>
+    <link>https://www.epa.gov/home/epa-disclaimers</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/home/exit-epa&quot;&gt;About Links to External Sites&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF Files&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/home/free-viewers-and-readers-read-and-print-epa-information&quot;&gt;About Free Viewers and Readers to Read and Print EPA Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/home/social-media-epa&quot;&gt;About Social Media at EPA&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/home/intranet-disclaimer&quot;&gt;Intranet Disclaimer&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer of Endorsement:&lt;/strong&gt; Mention of or referral to commercial products or services, and/or links to non-EPA sites does not imply official EPA endorsement of or responsibility for the opinions, ideas, data, or products presented at those locations, or guarantee the validity of the information provided. Mention of commercial products/services on non-EPA websites is provided soley as a pointer to information on topics related to environmental protection that may be useful to EPA staff and the public.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Copyright Status:&lt;/strong&gt; The U.S. Government retains a nonexclusive, royalty-free license to publish or reproduce these documents, or allow others to do so, for U.S. Government purposes. These documents may be freely distributed and used for non-commercial, scientific and educational purposes. Commercial use of the documents available from the EPA websites may be protected under the U.S. and Foreign Copyright Laws. Individual documents on the EPA website may have different copyright conditions, and that will be noted in those documents.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer of Liability:&lt;/strong&gt; With respect to documents available from the EPA website, neither the United States Government nor any of their employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notice:&lt;/strong&gt; Information from the EPA website resides on numerous computer systems funded by the &lt;em&gt;Agency&lt;/em&gt;. The use of the EPA websites may be monitored for computer security purposes. Any unauthorized access to the EPA website is prohibited and is subject to criminal and civil penalties under Federal Laws including but not limited to Public Laws 83-703 and 99-474. &lt;/p&gt;
+</description>
+     <pubDate>Thu, 04 Aug 2016 11:31:32 +0000</pubDate>
+ <dc:creator>cdibbl03</dc:creator>
+ <guid isPermaLink="false">156563 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Professional and regulatory advanced search</title>
+    <link>https://www.epa.gov/home/professional-and-regulatory-advanced-search</link>
+    <description>&lt;p&gt;Please send comments and questions about professional and regulatory search, including comments about this page, to &lt;a href=&quot;/home/forms/contact-us-about-professional-search&quot;&gt;Contact us about professional search&lt;/a&gt;. &amp;nbsp;&lt;br&gt;
+	&amp;nbsp;&lt;/p&gt;
+
+&lt;form action=&quot;https://search.epa.gov/epasearch/epasearch&quot; id=&quot;EPAsearch&quot; method=&quot;get&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;force&quot; value=&quot;yes&quot; /&gt;&lt;p&gt;&lt;input name=&quot;areasearchurl&quot; type=&quot;hidden&quot; value=&quot;https://www.epa.gov/search-central/professional-and-regulatory-search&quot; /&gt;&lt;input name=&quot;typeofsearch&quot; type=&quot;hidden&quot; value=&quot;epa&quot; /&gt;&lt;input name=&quot;search_crumbs&quot; type=&quot;hidden&quot; value=&quot;no&quot; /&gt;&lt;input name=&quot;result_template&quot; type=&quot;hidden&quot; value=&quot;pro.ftl&quot; /&gt;&lt;/p&gt;
+	&lt;table class=&quot;nostyle&quot; summary=&quot;search form&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; id=&quot;pages&quot;&gt;
+					 &lt;tr&gt;&lt;td&gt; &lt;strong&gt;Search  &lt;/strong.&lt;/td&gt;&lt;td&gt;&lt;input id=&quot;procollection&quot; type=&quot;radio&quot; name=&quot;collection&quot; value=&quot;pro&quot; checked=&quot;checked&quot;&gt; Environmental professional collection&lt;/input&gt;&lt;/d&gt;&lt;td&gt; &lt;input type=&quot;radio&quot; id=&quot;regcollection&quot; name=&quot;collection&quot; value=&quot;reg&quot;&gt; Regulatory professional collection .&lt;/strong&gt; &lt;/td&gt;&lt;/tr&gt;
+				&lt;tr&gt; &lt;td&gt;&lt;strong&gt;... for pages that have.. &lt;/strong&gt;&lt;/td&gt;
+				&lt;td id=&quot;parts&quot;&gt;
+					&lt;p&gt;&lt;strong&gt;Search in this part of the document..&lt;/strong&gt;&lt;/p&gt;
+				&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;pages&quot;&gt;&lt;label for=&quot;allquery&quot;&gt;All of these words:&lt;/label&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;input id=&quot;allquery&quot; name=&quot;allquery&quot; size=&quot;30&quot; tabindex=&quot;4&quot; value=&quot;&quot; /&gt;&lt;/td&gt;
+				&lt;td headers=&quot;parts&quot;&gt;&lt;select name=&quot;allin&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;anywhere in the document&lt;/option&gt;&lt;option value=&quot;intitle&quot;&gt;in the title&lt;/option&gt;&lt;option value=&quot;inurl&quot;&gt;in the url&lt;/option&gt;&lt;/select&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;pages&quot;&gt;&lt;label for=&quot;phrasequery&quot;&gt;This exact phrase:&lt;/label&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;input id=&quot;phrasequery&quot; name=&quot;phrasequery&quot; size=&quot;30&quot; tabindex=&quot;4&quot; value=&quot;&quot; /&gt;&lt;/td&gt;
+				&lt;td headers=&quot;parts&quot;&gt;&lt;select name=&quot;phrasein&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;anywhere in the document&lt;/option&gt;&lt;option value=&quot;intitle&quot;&gt;in the title&lt;/option&gt;&lt;option value=&quot;inurl&quot;&gt;in the url&lt;/option&gt;&lt;/select&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;pages&quot;&gt;&lt;label for=&quot;anyquery&quot;&gt;Any of these words:&lt;/label&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;input id=&quot;anyquery&quot; name=&quot;anyquery&quot; size=&quot;30&quot; tabindex=&quot;4&quot; value=&quot;&quot; /&gt;&lt;/td&gt;
+				&lt;td headers=&quot;parts&quot;&gt;&lt;select name=&quot;anyin&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;anywhere in the document&lt;/option&gt;&lt;option value=&quot;intitle&quot;&gt;in the title&lt;/option&gt;&lt;option value=&quot;inurl&quot;&gt;in the url&lt;/option&gt;&lt;/select&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; id=&quot;exclude&quot;&gt;
+					&lt;p&gt;&lt;strong&gt;But exclude EPA pages that have...&lt;/strong&gt;&lt;/p&gt;
+				&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;exclude&quot;&gt;&lt;label for=&quot;nonequery&quot;&gt;Any of these unwanted words:&lt;/label&gt;&lt;/td&gt;
+				&lt;td headers=&quot;exclude&quot;&gt;&lt;input id=&quot;search&quot; name=&quot;nonequery&quot; size=&quot;30&quot; tabindex=&quot;4&quot; value=&quot;&quot; /&gt;&lt;/td&gt;
+				&lt;td headers=&quot;parts&quot;&gt;&lt;select name=&quot;nonein&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;anywhere in the document&lt;/option&gt;&lt;option value=&quot;intitle&quot;&gt;in the title&lt;/option&gt;&lt;option value=&quot;inurl&quot;&gt;in the url&lt;/option&gt;&lt;/select&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Show:&lt;/b&gt; &lt;select name=&quot;results_per_page&quot;&gt;&lt;option value=&quot;20&quot;&gt;20
+                       &lt;/option&gt;&lt;option value=&quot;50&quot;&gt;50
+                       &lt;/option&gt;&lt;option value=&quot;100&quot;&gt;100
+                       &lt;/option&gt;&lt;option value=&quot;200&quot;&gt;200
+                     &lt;/option&gt;&lt;/select&gt;&lt;b&gt;results per page&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;  Show these document formats:&lt;/strong&gt; &lt;input checked=&quot;checked&quot; name=&quot;doctype&quot; type=&quot;radio&quot; value=&quot;all&quot; /&gt; All &lt;input name=&quot;doctype&quot; type=&quot;radio&quot; value=&quot;html&quot; /&gt; Web pages &lt;input name=&quot;doctype&quot; type=&quot;radio&quot; value=&quot;pdf&quot; /&gt; PDF&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;  Sort by:&lt;/strong&gt; &lt;input checked=&quot;checked&quot; name=&quot;sort&quot; type=&quot;radio&quot; value=&quot;term_relevancy&quot; /&gt; Relevance &lt;input name=&quot;sort&quot; type=&quot;radio&quot; value=&quot;date&quot; /&gt; Date&lt;/p&gt;
+
+	 &lt;input type=&quot;submit&quot; value=&quot;Search&quot; /&gt; &lt;/form&gt;</description>
+     <pubDate>Thu, 19 May 2016 15:07:46 +0000</pubDate>
+ <dc:creator>pbuch</dc:creator>
+ <guid isPermaLink="false">150001 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact us about professional search</title>
+    <link>https://www.epa.gov/home/forms/contact-us-about-professional-search</link>
+    <description>&lt;p&gt;Please enter your comments and questions about professional and regulatory search below.&lt;br /&gt;&lt;br /&gt;
+	When referring to a specific result that you did or did not want returned for a particular search, it is helpful to supply the text of the search you performed,the specifics of the document(s) you were looking for, and if possible, the URL of results you did and/or did not want. &lt;/p&gt;
+</description>
+     <pubDate>Thu, 19 May 2016 14:25:26 +0000</pubDate>
+ <dc:creator>pbuch</dc:creator>
+ <guid isPermaLink="false">149991 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Professional and Regulatory Search</title>
+    <link>https://www.epa.gov/home/professional-and-regulatory-search</link>
+    <description>&lt;form action=&quot;https://search.epa.gov/epasearch/epasearch&quot; method=&quot;get&quot;&gt;&lt;strong&gt;&lt;label class=&quot;element-hidden&quot; for=&quot;search-box&quot;&gt;Search&lt;/label&gt;&lt;/strong&gt; &lt;input name=&quot;querytext&quot; class=&quot;form-text&quot; id=&quot;search-box&quot; type=&quot;text&quot; size=&quot;50&quot; placeholder=&quot;Search&quot; value=&quot;&quot;&gt;&lt;button title=&quot;Search&quot; class=&quot;epa-search-buttonx&quot; id=&quot;search-button&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt; &lt;input name=&quot;typeofsearch&quot; type=&quot;hidden&quot; value=&quot;epa&quot;&gt; &lt;input name=&quot;areaname&quot; type=&quot;hidden&quot; value=&quot;Professional search&quot;&gt;&lt;input name=&quot;result_template&quot; type=&quot;hidden&quot; value=&quot;2col.ftl&quot;&gt;&lt;br&gt;
+	&lt;strong&gt;What to search: &lt;/strong&gt; &lt;input type=&quot;radio&quot; name=&quot;collection&quot; value=&quot;pro&quot; checked=&quot;checked&quot;/&gt; Environmental professional collection &lt;input type=&quot;radio&quot; name=&quot;collection&quot; value=&quot;reg&quot;&gt; Regulatory collection
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;p&gt;We’ve created Professional and Regulatory Search in response to feedback from people who use our Website resources to do their job. These collections are designed to help you find information faster by excluding “general information” pages from your search results.&lt;/p&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;Environmental Professional collection - a broad range of information for various environmental professionals, including white papers, scientific studies, regulatory and technical information.&lt;/li&gt;
+		&lt;li&gt;Regulatory collection - a subset of the Environmental Professional collection for professionals, with a focus on laws and regulations.&lt;/li&gt;
+	&lt;/ul&gt;
+
+	
+
+	&lt;p&gt;&lt;span style=&quot;line-height: 1.5;&quot;&gt;If you have comments or questions about Professional or Regulatory, please visit &lt;a href=&quot;/home/forms/contact-us-about-professional-search&quot;&gt;Contact us about professional search&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/form&gt;
+</description>
+     <pubDate>Thu, 19 May 2016 13:20:40 +0000</pubDate>
+ <dc:creator>pbuch</dc:creator>
+ <guid isPermaLink="false">149981 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Plain Writing</title>
+    <link>https://www.epa.gov/home/plain-writing</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs vertical&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#2016&quot;&gt;2016 Annual Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#2015&quot;&gt;2015 Annual Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#2014&quot;&gt;2014 Annual Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#2013&quot;&gt;2013 Annual Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#2012&quot;&gt;2012 Annual Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#initial&quot;&gt;Plain Writing Act Initial Report&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#epa&quot;&gt;Resources for EPA Writers&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;overview&quot;&gt;
+		&lt;h2&gt;Overview&lt;/h2&gt;
+
+		&lt;p&gt;Clear air... clear water... it all depends on &lt;strong&gt;clear writing&lt;/strong&gt;.&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf&quot;&gt;The Plain Writing Act of 2010 (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(3 pp, yy K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;requires federal agencies to write &quot;clear Government communication that the public can understand and use.&quot; President Obama also emphasized the importance of establishing &quot;a system of transparency, public participation, and collaboration&quot; in his &lt;a href=&quot;https://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment&quot;&gt;January 21, 2009 Memorandum on Transparency and Open Government&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p&gt;We are committed to writing new documents in plain language, using the &lt;a href=&quot;http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm&quot;&gt;Federal Plain Language Guidelines&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p&gt;We need your help to comply with this Act! &lt;strong&gt;&lt;a href=&quot;/home/forms/contact-epa&quot;&gt;Let us know if you have trouble understanding our documents or the pages on our website, or if we haven&#039;t written a document in plain language.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;We have assigned staff to oversee our plain language efforts.  Eric Wachter is the Senior Agency Official for Plain Writing.&lt;/p&gt;
+
+		&lt;p&gt;We&#039;re training our employees and have strengthened our oversight process. We must use plain language in any document that:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;is necessary for obtaining any federal government benefit or service or filing taxes;&lt;/li&gt;
+			&lt;li&gt;provides information about any federal government benefit or service; or&lt;/li&gt;
+			&lt;li&gt;explains to the public how to comply with a requirement that the federal government administers or enforces.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;We have to report our progress and compliance.  This site includes the initial report, issued in 2011, and subsequent annual reports that the Plain Writing Act requires.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;2016&quot;&gt;
+		&lt;h2&gt;2016 Annual Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;U.S. Environmental Protection Agency&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Plain Writing Act &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;2016 Annual Report&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+			Director&lt;br /&gt;
+			Office of the Executive Secretariat&lt;br /&gt;
+			wachter.eric@epa.gov&lt;br /&gt;
+			(202) 564-7960&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;The EPA’s Leadership Development Institute annually holds agencywide plain-writing courses. The course is designed for employees at all levels of the agency. Participants engage in exercises to improve their written communication, decrease muddy language and slang, and eliminate information clutter. This exercise-based workshop focuses on setting quality writing standards with an overall objective to increase productivity, identify problem areas, improve clarity of message and enhance one’s ability to share information to a broad audience.&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;III. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;The national-program and regional offices have designated officials for plain writing who work in collaboration with the senior official. See appendix for a list of the designated officials.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;With institutional knowledge of the unique processes and various documents produced in their offices, these designated officials have implemented processes for ongoing compliance.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;These processes include communications officials’ approval of documents; multi-level managerial review for plain writing; designating plain-writing coordinators in individual offices; and refresher training courses.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Offices continue to follow plain-writing procedures to satisfy the executive order and administrative orders that predate the Plain Writing Act.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;IV. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;The EPA’s plain-writing website is &lt;a href=&quot;/home/plain-writing&quot;&gt;www.epa.gov/home/plain-writing&lt;/a&gt;.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;The site is linked from &lt;a href=&quot;/open&quot;&gt;epa.gov/open&lt;/a&gt;.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;h3&gt;&lt;strong&gt;Appendix&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;h3&gt;EPA Plain Writing Designated Officials&lt;/h3&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Administration and Resource Management&lt;/strong&gt;&lt;br /&gt;
+			Joanne Oxley&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Administrator&lt;/strong&gt;&lt;br /&gt;
+			Eric Wachter&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Air and Radiation&lt;/strong&gt;&lt;br /&gt;
+			Wanda Farrar&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Enforcement and Compliance Assurance&lt;/strong&gt;&lt;br /&gt;
+			Keith Bartlett&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Environmental Information&lt;/strong&gt;&lt;br /&gt;
+			Jonda Byrd&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Chief Financial Officer&lt;/strong&gt;&lt;br /&gt;
+			Gene Pontillo&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the General Counsel&lt;/strong&gt;&lt;br /&gt;
+			Aditi Prabhu&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Inspector General&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of International and Tribal Affairs&lt;/strong&gt;&lt;br /&gt;
+			Chris Hoff&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Chemical Safety and Pollution Prevention&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Research and Development&lt;/strong&gt;&lt;br /&gt;
+			Dayna Gibbons&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Land and Emergency Management&lt;/strong&gt;&lt;br /&gt;
+			(formerly &quot;Office of Solid Waste and Emergency Response&quot;)&lt;br /&gt;
+			Nancy Cohen&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Water&lt;/strong&gt;&lt;br /&gt;
+			Travis Loop&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 1&lt;/strong&gt;&lt;br /&gt;
+			Nancy Grantham&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 2&lt;/strong&gt;&lt;br /&gt;
+			Michael McGowan&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 3&lt;/strong&gt;&lt;br /&gt;
+			Terry White&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 4&lt;/strong&gt;&lt;br /&gt;
+			Bryan Myers&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 5&lt;/strong&gt;&lt;br /&gt;
+			John Peterson&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 6&lt;/strong&gt;&lt;br /&gt;
+			David Gray&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 7&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 8&lt;/strong&gt;&lt;br /&gt;
+			Wendy Dew&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 9&lt;/strong&gt;&lt;br /&gt;
+			Kelly Zito&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 10&lt;/strong&gt;&lt;br /&gt;
+			Charles Bert&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;2015&quot;&gt;
+		&lt;h2&gt;2015 Annual Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;U.S. Environmental Protection Agency&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Plain Writing Act &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;2015 Annual Report&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+			Director&lt;br /&gt;
+			Office of the Executive Secretariat&lt;br /&gt;
+			wachter.eric@epa.gov&lt;br /&gt;
+			(202) 564-7960&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Among the training highlights in 2015:&lt;/p&gt;
+
+				&lt;ol type=&quot;i&quot;&gt;&lt;li&gt;
+						&lt;p&gt;EPA&#039;s Leadership Development Institute annually holds agencywide plain-writing courses and offered three open-enrollment courses in 2015. The course is designed for employees at all levels of the agency. Participants engage in exercises to improve their written communication, decrease muddy language and slang, and eliminate information clutter. This exercise-based workshop focuses on setting quality writing standards with an overall objective to increase productivity, identify problem areas, improve clarity of message, and enhance one&#039;s ability to share information to a broad audience.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;In response to a review of the Action Development Process, the Office of Policy in the Office of the Administrator worked to finalize a webinar to promote plain writing during rule writing to help the public better understand EPA regulations.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;Region 10 included plain-writing principles when it launched in spring 2015 the year-long Community College Certificate Training Program. This program focused on external and internal communications and community engagement.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;The Office of Communications and Government Relations in Region 3 produced in March 2015 an internal guide for preparing regional and divisional correspondence in response to external inquiries and requests for information. The guide includes key plain-writing principles and provides tips to address the most common issues and questions that writers encounter when preparing correspondence.&lt;/p&gt;
+					&lt;/li&gt;
+				&lt;/ol&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;III. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;The national-program and regional offices have designated officials for plain writing who work in collaboration with the senior official. See appendix for a list of the designated officials.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;With institutional knowledge of the unique processes and various documents produced in their offices, these designated officials have implemented processes for ongoing compliance.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;These processes include communications officials&#039; approval of documents; multi-level managerial review for plain writing; designating plain-writing coordinators in individual offices; and refresher training courses.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Offices continue to follow plain-writing procedures to satisfy the executive order and administrative orders that predate the Plain Writing Act.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Among the compliance highlights in 2015:&lt;/p&gt;
+
+				&lt;ol type=&quot;i&quot;&gt;&lt;li&gt;
+						&lt;p&gt;The Office of the Chief Financial Officer&#039;s special assistants in the six OCFO offices serve an important role in delivering clear and effective communication. Recent continuity in these positions has fostered institutional knowledge of the importance of plain writing in OCFO communications.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;During its reorganization in 2015 the Office of the Chief Financial Officer worked diligently to ensure that it continues to maintain high level of quality control over the review of documents.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;Region 10 emphasized the plain-writing courses provided through the employee training portal SkillPort.&lt;/p&gt;
+					&lt;/li&gt;
+				&lt;/ol&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;IV. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA&#039;s plain-writing website is &lt;a href=&quot;/home/plain-writing&quot;&gt;epa.gov/home/plainwriting&lt;/a&gt;.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;The site is linked from &lt;a href=&quot;/open&quot;&gt;epa.gov/open&lt;/a&gt;.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;h3&gt;&lt;strong&gt;Appendix&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;h3&gt;EPA Plain Writing Designated Officials&lt;/h3&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Administration and Resource Management&lt;/strong&gt;&lt;br /&gt;
+			Joanne Oxley&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Administrator&lt;/strong&gt;&lt;br /&gt;
+			Eric Wachter&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Air and Radiation&lt;/strong&gt;&lt;br /&gt;
+			Wanda Farrar&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Enforcement and Compliance Assurance&lt;/strong&gt;&lt;br /&gt;
+			Keith Bartlett&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Environmental Information&lt;/strong&gt;&lt;br /&gt;
+			Jonda Byrd&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Chief Financial Officer&lt;/strong&gt;&lt;br /&gt;
+			Gene Pontillo&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the General Counsel&lt;/strong&gt;&lt;br /&gt;
+			Aditi Prabhu&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Inspector General&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of International and Tribal Affairs&lt;/strong&gt;&lt;br /&gt;
+			Chris Hoff&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Chemical Safety and Pollution Prevention&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Research and Development&lt;/strong&gt;&lt;br /&gt;
+			Dayna Gibbons&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Land and Emergency Management&lt;/strong&gt;&lt;br /&gt;
+			(formerly &quot;Office of Solid Waste and Emergency Response&quot;)&lt;br /&gt;
+			Nancy Cohen&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Water&lt;/strong&gt;&lt;br /&gt;
+			Travis Loop&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 1&lt;/strong&gt;&lt;br /&gt;
+			Nancy Grantham&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 2&lt;/strong&gt;&lt;br /&gt;
+			Michael McGowan&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 3&lt;/strong&gt;&lt;br /&gt;
+			Terry White&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 4&lt;/strong&gt;&lt;br /&gt;
+			Bryan Myers&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 5&lt;/strong&gt;&lt;br /&gt;
+			John Peterson&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 6&lt;/strong&gt;&lt;br /&gt;
+			David Gray&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 7&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 8&lt;/strong&gt;&lt;br /&gt;
+			Wendy Dew&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 9&lt;/strong&gt;&lt;br /&gt;
+			Kelly Zito&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 10&lt;/strong&gt;&lt;br /&gt;
+			Charles Bert&lt;/p&gt;
+
+		
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;2014&quot;&gt;
+		&lt;h2&gt;2014 Annual Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;U.S. Environmental Protection Agency&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Plain Writing Act &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;2014 Annual Report&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+			Director&lt;br /&gt;
+			Office of the Executive Secretariat&lt;br /&gt;
+			wachter.eric@epa.gov&lt;br /&gt;
+			(202) 564-7960&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Among the training highlights in 2014:&lt;/p&gt;
+
+				&lt;ol type=&quot;i&quot;&gt;&lt;li&gt;
+						&lt;p&gt;EPA&#039;s Leadership Development Institute annually holds agencywide plain-writing courses and offered two open-enrollment courses in 2014. The course is designed for employees at all levels of the agency. Participants engage in exercises to improve their written communication, decrease muddy language and slang, and eliminate information clutter. This exercise-based workshop focuses on setting quality writing standards with an overall objective to increase productivity, identify problem areas, improve clarity of message and enhance one&#039;s ability to share information to a broad audience.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;The Office of Research and Development held two plain writing trainings for its staff. ORD also offered in November its first e-writing training to the communications team. The training focused on communicating more effectively through email as ORD tends to email with the public regularly.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;The Office of Solid Waste and Emergency Response&#039;s community involvement coordinators participated in OSWER&#039;s writing webinars, including writing outreach materials and community involvement plans. OSWER conducted one-on-one writing instruction for remedial program managers doing technical presentations and raised awareness of the plain-writing requirements by reducing the use of jargon and acronyms.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;Region 5 held two plain-writing training sessions: one for Superfund community involvement staff and a second for a section of the Land and Chemicals Division.&lt;/p&gt;
+					&lt;/li&gt;
+				&lt;/ol&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;III. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;The national-program and regional offices have designated officials for plain writing to work in collaboration with the senior official. See appendix for a list of the designated officials.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;With institutional knowledge of the unique processes and various documents produced in their offices, these designated officials have implemented processes for ongoing compliance.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;These processes include communications officials&#039; approval of documents; multi-level managerial review for plain writing; designating plain-writing coordinators in individual offices; and refresher training courses.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Offices continue to follow plain-writing procedures that were already in place to satisfy the executive order and administrative orders that predate the Plain Writing Act.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;Among the compliance highlights in 2014:&lt;/p&gt;
+
+				&lt;ol type=&quot;i&quot;&gt;&lt;li&gt;
+						&lt;p&gt;The Office of the Chief Financial Officer&#039;s special assistants in the six OCFO offices serve an important role in delivering clear and effective communication. Recent continuity in these positions has fostered institutional knowledge of the importance of plain writing in OCFO communications. OCFO also has stream lined its correspondence process, which is enabling better plain-writing quality control.&lt;/p&gt;
+					&lt;/li&gt;
+					&lt;li&gt;
+						&lt;p&gt;Region 1&#039;s communications team, which meets weekly and includes representatives from each program office, emphasizes plain writing in its meetings. Region 1 has instituted office hours with one of its press officers to provide support for effective, clear and plain writing for blogs. Program staff is involved in press-release drafting, and the senior press officer edits documents to ensure they are written plainly. He also explains his approach on a case-by-case basis, so staff learn why changes are being made and how to incorporate them in future documents.&lt;/p&gt;
+					&lt;/li&gt;
+				&lt;/ol&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;IV. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA&#039;s plain-writing website is epa.gov/plainwriting.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;The site is linked from &lt;a href=&quot;/open&quot;&gt;epa.gov/open&lt;/a&gt;.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;h3&gt;&lt;strong&gt;Appendix&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;h3&gt;EPA Plain Writing Designated Officials&lt;/h3&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Administration and Resource Management&lt;/strong&gt;&lt;br /&gt;
+			Joanne Oxley&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Administrator&lt;/strong&gt;&lt;br /&gt;
+			Eric Wachter&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Air and Radiation&lt;/strong&gt;&lt;br /&gt;
+			Wanda Farrar&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Enforcement and Compliance Assurance&lt;/strong&gt;&lt;br /&gt;
+			Keith Bartlett&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Environmental Information&lt;/strong&gt;&lt;br /&gt;
+			Jonda Byrd&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Chief Financial Officer&lt;/strong&gt;&lt;br /&gt;
+			Gene Pontillo&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the General Counsel&lt;/strong&gt;&lt;br /&gt;
+			Aditi Prabhu&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Inspector General&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of International and Tribal Affairs&lt;/strong&gt;&lt;br /&gt;
+			Chris Hoff&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Chemical Safety and Pollution Prevention&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Research and Development&lt;/strong&gt;&lt;br /&gt;
+			Dayna Gibbons&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Solid Waste and Emergency Response&lt;/strong&gt;&lt;br /&gt;
+			Nancy Cohen&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Water&lt;/strong&gt;&lt;br /&gt;
+			Travis Loop&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 1&lt;/strong&gt;&lt;br /&gt;
+			Nancy Grantham&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 2&lt;/strong&gt;&lt;br /&gt;
+			Michael McGowan&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 3&lt;/strong&gt;&lt;br /&gt;
+			Terry White&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 4&lt;/strong&gt;&lt;br /&gt;
+			Bryan Myers&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 5&lt;/strong&gt;&lt;br /&gt;
+			John Peterson&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 6&lt;/strong&gt;&lt;br /&gt;
+			David Gray&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 7&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 8&lt;/strong&gt;&lt;br /&gt;
+			Wendy Dew&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 9&lt;/strong&gt;&lt;br /&gt;
+			Kelly Zito&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 10&lt;/strong&gt;&lt;br /&gt;
+			Charles Bert&lt;/p&gt;
+
+		
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;2013&quot;&gt;
+		&lt;h2&gt;2013 Annual Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;U.S. Environmental Protection Agency&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Plain Writing Act &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;2013 Annual Report&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+			Director&lt;br /&gt;
+			Office of the Executive Secretariat&lt;br /&gt;
+			wachter.eric@epa.gov&lt;br /&gt;
+			(202) 564-7960&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;blockquote&gt;
+			&lt;p&gt;A. EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/p&gt;
+
+			&lt;p&gt;B. EPA offers classroom workshops and training sessions for interested employees.&lt;/p&gt;
+
+			&lt;p&gt;C. Among the training highlights in 2013:&lt;/p&gt;
+
+			&lt;blockquote&gt;
+				&lt;p&gt;i. The Office of Environmental Information held a plain writing training for approximately 20 communications staff members to discuss writing standards, including plain writing.&lt;/p&gt;
+
+				&lt;p&gt;ii. The Office of Environmental Information also established a writing-for-the-web course that colleagues from the Office of External Affairs delivered several times for EPA web writers, coders and reviewers. This ongoing course emphasizes writing web content plainly and directly and how to target an audience and write for that audience. &lt;a href=&quot;/webguide/epa-web-training-classes#writing&quot;&gt;Find more information about this training&lt;/a&gt;.&lt;/p&gt;
+
+				&lt;p&gt;iii. As a supplement to the agency&#039;s correspondence manual, EPA&#039;s Region 2 produced a style guide that further explains clear, concise writing and provides alternatives for complex statements, technical jargon and acronyms. The region also has provided training on PowerPoint presentations to technical staff employees, with a focus on employees who participate in community outreach.&lt;/p&gt;
+			&lt;/blockquote&gt;
+		&lt;/blockquote&gt;
+
+		&lt;p&gt;&lt;strong&gt;III. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;blockquote&gt;
+			&lt;p&gt;A. The national-program and regional office have designated officials for plain writing to work in collaboration with the senior official. See appendix for a list of the designated officials.&lt;/p&gt;
+
+			&lt;p&gt;B. With institutional knowledge of the unique processes and various documents produced in their offices, these designated officials have implemented processes for ongoing compliance.&lt;/p&gt;
+
+			&lt;p&gt;C. These processes include communications officials&#039; approval of documents; multi-level managerial review for plain writing; designating plain-writing coordinators in individual offices; and refresher training courses.&lt;/p&gt;
+		&lt;/blockquote&gt;
+
+		&lt;blockquote&gt;
+			&lt;p&gt;D. Offices continue to follow plain-writing procedures that were already in place to satisfy the executive order and administrative orders that predate the Plain Writing Act.&lt;/p&gt;
+
+			&lt;p&gt;E. Among the compliance highlights in 2013:&lt;/p&gt;
+
+			&lt;blockquote&gt;
+				&lt;p&gt;i. The Office of Air and Radiation follows a process for technical staff and communications staff to work together to review and approve public communications materials, including website content, factsheets, press releases and print materials, to ensure that they are written in plain language.&lt;/p&gt;
+
+				&lt;p&gt;ii. Region 2 has implemented a formal review process for correspondence, social media, web posts and other written communications to require that at least one professional editor reviews the documents to ensure the documents are written plainly.&lt;/p&gt;
+			&lt;/blockquote&gt;
+		&lt;/blockquote&gt;
+
+		&lt;p&gt;&lt;strong&gt;IV. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;blockquote&gt;
+			&lt;p&gt;A. EPA&#039;s plain-writing website is epa.gov/plainwriting.&lt;/p&gt;
+			B. The site is linked from &lt;a href=&quot;/open&quot;&gt;epa.gov/open&lt;/a&gt;.&lt;/blockquote&gt;
+
+		&lt;ol&gt;&lt;/ol&gt;&lt;h3&gt;&lt;strong&gt;Appendix&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;h3&gt;EPA Plain Writing Designated Officials&lt;/h3&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Administration and Resource Management&lt;/strong&gt;&lt;br /&gt;
+			Joanne Oxley&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Administrator&lt;/strong&gt;&lt;br /&gt;
+			Eric Wachter&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Air and Radiation&lt;/strong&gt;&lt;br /&gt;
+			Wanda Farrar&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Enforcement and Compliance Assurance&lt;/strong&gt;&lt;br /&gt;
+			Keith Bartlett&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Environmental Information&lt;/strong&gt;&lt;br /&gt;
+			Jonda Byrd&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Chief Financial Officer&lt;/strong&gt;&lt;br /&gt;
+			Gene Pontillo&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the General Counsel&lt;/strong&gt;&lt;br /&gt;
+			Aditi Prabhu&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Inspector General&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of International and Tribal Affairs&lt;/strong&gt;&lt;br /&gt;
+			Chris Hoff&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Chemical Safety and Pollution Prevention&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Research and Development&lt;/strong&gt;&lt;br /&gt;
+			Dayna Gibbons&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Solid Waste and Emergency Response&lt;/strong&gt;&lt;br /&gt;
+			Nancy Cohen&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Water&lt;/strong&gt;&lt;br /&gt;
+			Travis Loop&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 1&lt;/strong&gt;&lt;br /&gt;
+			Nancy Grantham&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 2&lt;/strong&gt;&lt;br /&gt;
+			Bonnie Bellow&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 3&lt;/strong&gt;&lt;br /&gt;
+			Terry White&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 4&lt;/strong&gt;&lt;br /&gt;
+			Bryan Myers&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 5&lt;/strong&gt;&lt;br /&gt;
+			John Peterson&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 6&lt;/strong&gt;&lt;br /&gt;
+			David Gray&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 7&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 8&lt;/strong&gt;&lt;br /&gt;
+			Wendy Dew&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 9&lt;/strong&gt;&lt;br /&gt;
+			Kelly Zito&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 10&lt;/strong&gt;&lt;br /&gt;
+			Charles Bert&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;2012&quot;&gt;
+		&lt;h2&gt;2012 Annual Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;U.S. Environmental Protection Agency&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Plain Writing Act &lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;2012 Annual Report&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+			Director&lt;br /&gt;
+			Office of the Executive Secretariat&lt;br /&gt;
+			wachter.eric@epa.gov&lt;br /&gt;
+			(202) 564-7960&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/li&gt;
+			&lt;li&gt;EPA offers classroom workshops and training sessions for interested employees.&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;III. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;Each national-program and regional office has appointed a designated official for plain writing. See appendix.&lt;/li&gt;
+			&lt;li&gt;With institutional knowledge of the unique processes and various documents produced in their offices, these designated officials have implemented processes for ongoing compliance.&lt;/li&gt;
+			&lt;li&gt;These processes include communications officials&#039; approval of documents; multi-level managerial review for plain writing; designating plain-writing coordinators in individual offices; and refresher training courses.&lt;/li&gt;
+			&lt;li&gt;Many offices had existing plain-writing procedures already in place to satisfy existing executive order and administrative orders.&lt;/li&gt;
+			&lt;li&gt;The senior official for plain writing and the designated officials meet to oversee compliance.&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;IV. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol&gt;&lt;li&gt;EPA&#039;s plain-writing website is www.epa.gov/plainwriting.&lt;/li&gt;
+			&lt;li&gt;The site is linked from &lt;a href=&quot;/open&quot;&gt;www.epa.gov/open&lt;/a&gt;.&lt;/li&gt;
+		&lt;/ol&gt;&lt;h3&gt;&lt;strong&gt;Appendix&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;h3&gt;EPA Plain Writing Designated Officials&lt;/h3&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Administration and Resource Management&lt;/strong&gt;&lt;br /&gt;
+			Joanne Oxley&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Administrator&lt;/strong&gt;&lt;br /&gt;
+			Eric Wachter&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Air and Radiation&lt;/strong&gt;&lt;br /&gt;
+			Wanda Farrar&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Enforcement and Compliance Assurance&lt;/strong&gt;&lt;br /&gt;
+			Lynne Davies&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Environmental Information&lt;/strong&gt;&lt;br /&gt;
+			Jonda Byrd&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the Chief Financial Officer&lt;/strong&gt;&lt;br /&gt;
+			Gene Pontillo&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of the General Counsel&lt;/strong&gt;&lt;br /&gt;
+			Aditi Prabhu&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of International and Tribal Affairs&lt;/strong&gt;&lt;br /&gt;
+			Chris Hoff&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Chemical Safety and Pollution Prevention&lt;/strong&gt;&lt;br /&gt;
+			Teresa Green&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Research and Development&lt;/strong&gt;&lt;br /&gt;
+			Dayna Gibbons&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Office of Water&lt;/strong&gt;&lt;br /&gt;
+			Macara Lousberg&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 1&lt;/strong&gt;&lt;br /&gt;
+			Nancy Grantham&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 2&lt;/strong&gt;&lt;br /&gt;
+			Bonnie Bellow&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 3&lt;/strong&gt;&lt;br /&gt;
+			Terry White&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 4&lt;/strong&gt;&lt;br /&gt;
+			Bryan Myers&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 5&lt;/strong&gt;&lt;br /&gt;
+			John Peterson&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 6&lt;/strong&gt;&lt;br /&gt;
+			David Gray&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 7&lt;/strong&gt;&lt;br /&gt;
+			vacant&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 8&lt;/strong&gt;&lt;br /&gt;
+			Wendy Dew&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 9&lt;/strong&gt;&lt;br /&gt;
+			Kelly Zito&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Region 10&lt;/strong&gt;&lt;br /&gt;
+			Charles Bert&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;initial&quot;&gt;
+		&lt;h2&gt;Initial Report&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;I. Senior Agency Official for Plain Writing:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;blockquote&gt;
+			&lt;p&gt;&lt;a href=&quot;mailto:wachter.eric@epa.gov&quot;&gt;Eric E. Wachter&lt;/a&gt;&lt;br /&gt;
+				Director&lt;br /&gt;
+				Office of the Executive Secretariat&lt;br /&gt;
+				wachter.eric@epa.gov&lt;br /&gt;
+				(202) 564-7960&lt;/p&gt;
+		&lt;/blockquote&gt;
+
+		&lt;p&gt;&lt;strong&gt;II. Inform agency staff of Plain Writing Act&#039;s requirements:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol style=&quot;list-style-type:lower-alpha&quot;&gt;&lt;li&gt;
+				&lt;p&gt;General Counsel Scott Fulton issued a memorandum to all employees informing them of the requirements of the Act. The memorandum was emailed agencywide.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;The Plain Writing Act website is linked to the agency&#039;s Intranet.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;A section on plain writing was been included in EPA&#039;s Correspondence Manual, which prescribes specific standards and formats for the preparation of official agency correspondence.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;III. Training&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol style=&quot;list-style-type:lower-alpha&quot;&gt;&lt;li&gt;
+				&lt;p&gt;EPA has an online training for all employees who produce documents for the public and for any employee who would like to be trained in plain writing.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;EPA is planning classroom workshops and training sessions for interested employees.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;IV. Ongoing compliance/sustaining change&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol style=&quot;list-style-type:lower-alpha&quot;&gt;&lt;li&gt;
+				&lt;p&gt;Each national-program and regional office will appoint a designated official for plain writing.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;With institutional knowledge of the unique processes and various documents produced in their offices, these designate officials will devise and implement processes for ongoing compliance.&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;The senior official for plain writing and the designated officials will meet regularly to oversee compliance.&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;V. Agency&#039;s plain-writing website&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ol style=&quot;list-style-type:lower-alpha&quot;&gt;&lt;li&gt;
+				&lt;p&gt;Visit EPA&#039;s plain-writing website&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;&lt;a href=&quot;/open&quot;&gt;Visit our Open Gov site&lt;/a&gt;&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;epa&quot;&gt;
+		&lt;h2&gt;Resources for EPA Writers&lt;/h2&gt;
+
+		&lt;p&gt;Note that none of the pages below can be viewed outside EPA&#039;s firewall. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/web-policies-and-procedures/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/product-review/how-write-plainly&quot;&gt;How to write plainly&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/product-review/frequent-questions-about-plain-writing&quot;&gt;Frequent questions about plain writing&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/product-review/tools-and-resources-plain-writing&quot;&gt;Tools and resources for plain writing&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Tue, 21 Apr 2015 21:37:02 +0000</pubDate>
+ <dc:creator>cdibbl03</dc:creator>
+ <guid isPermaLink="false">81423 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How To Search for Words or Phrases in a PDF Document</title>
+    <link>https://www.epa.gov/home/how-search-words-or-phrases-pdf-document</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#displaying&quot;&gt;Displaying the search window pane&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#search-options&quot;&gt;Search options&lt;/a&gt;:
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#advanced search&quot;&gt;Advanced search&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#basic-search&quot;&gt;Basic search&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#sample-search&quot;&gt;Sample search request using advanced search options&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#additional-info&quot;&gt;Additional information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;On other pages:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/home/pdf-files&quot;&gt;Main page about PDF files&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;displaying&quot; id=&quot;displaying&quot;&gt;&lt;/a&gt;Displaying the Search/Find Window Pane&lt;/h2&gt;
+
+&lt;p&gt;When a PDF is opened in the Acrobat Reader, the search window pane may or may not be displayed. To display the search/find window pane, use &quot;Ctrl+F&quot;.&lt;/p&gt;
+
+&lt;p&gt;When the Find window opens, follow these steps and refer to Figure 1. below:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Click the &lt;strong&gt;small arrow&lt;/strong&gt; on the right side of the box.&lt;/li&gt;
+	&lt;li&gt;Select the drop down item - &quot;&lt;strong&gt;Open Full Acrobat Search&lt;/strong&gt;&quot;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Figure 1.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-full&quot; style=&quot;width:857px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:857px;&quot;&gt;&lt;img alt=&quot;how to search a pdf document&quot; height=&quot;217&quot; width=&quot;857&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/advance-search.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;h2&gt;&lt;a name=&quot;search-options&quot; id=&quot;search-options&quot;&gt;&lt;/a&gt;Search Options&lt;/h2&gt;
+
+&lt;p&gt;There are several ways to search for information within a PDF document. These include the following:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Advanced Search&lt;/li&gt;
+	&lt;li&gt;Basic Search&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a name=&quot;advanced search&quot; id=&quot;advanced search&quot;&gt;&lt;/a&gt;Advanced Search Options&lt;/h3&gt;
+
+&lt;p&gt;Brief explanation of the options available in the advanced search are:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Match Exact Word Or Phrase&lt;/strong&gt; - Searches for the entire string of characters, including spaces, in the same order in which they appear in the text box.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Match Any Of The Words&lt;/strong&gt; - Searches for any instances of at least one of the words typed. For example, if you search for each of, the results include any instances in which one or both of the two words appear: each, of, each of, or of each.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Match All Of The Words&lt;/strong&gt; - Searches for instances that contain all your search words, but not necessarily in the order you type them. Available only for a search of multiple PDFs or index definition files.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Boolean Query&lt;/strong&gt; - Uses the Boolean operators that you type with the search words into the What Word Or Phrase Would You Like To Search For box. Available only for searching multiple PDFs or PDF indexes.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Note&lt;/strong&gt;: You cannot run wildcard searches using asterisks (*) or question marks (?) when searching PDF indexes.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Click &quot;&lt;strong&gt;Use Advanced Search Options&lt;/strong&gt;&quot; near the bottom of the search window pane to display the advanced search information. To execute an advanced search request complete the following steps:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Type your search term(s) inside the &quot;text box&quot; where you are asked:&quot;&lt;strong&gt;What word or phrase would you like to search for?&lt;/strong&gt;&quot;&lt;/li&gt;
+	&lt;li&gt;Select an option from the drop down menu for &lt;strong&gt;&quot;Return results containing:&quot;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;Click the &quot;&lt;strong&gt;Search&lt;/strong&gt;&quot; button to execute the search request.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a name=&quot;basic-search&quot; id=&quot;basic-search&quot;&gt;&lt;/a&gt;Basic Search Options&lt;/h3&gt;
+
+&lt;p&gt;To execute a basic search request complete the following steps:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Type your search term(s) inside the &quot;text box&quot; where you are asked: &quot;&lt;strong&gt;What word or phrase would you like to search for?&lt;/strong&gt;&quot;&lt;/li&gt;
+	&lt;li&gt;Click the &quot;&lt;strong&gt;Search&lt;/strong&gt;&quot; button to execute the search request.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;sample-search&quot; id=&quot;sample-search&quot;&gt;&lt;/a&gt;Sample Search Request Using Advanced Search Options&lt;/h2&gt;
+
+&lt;p&gt;For the purposes of this example, steps are provided to illustrate how to execute a search request for finding information about diazinon and kaolin in a PDF document. Assume that a PDF document is opened in the browser. If the search window pane is not displayed, please refer back to &quot;&lt;a href=&quot;#displaying&quot;&gt;Displaying the Search Window Pane&lt;/a&gt;&quot; for assistance.&lt;/p&gt;
+
+&lt;h3&gt;The Search Criteria&lt;/h3&gt;
+
+&lt;p&gt;Below are the steps to be followed for completing a search request to find information about &lt;strong&gt;diazinon and kaolin&lt;/strong&gt;. Refer to Figure 2.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Click &quot;&lt;strong&gt;Show More Options&lt;/strong&gt;&quot; near the bottom of the search window pane. (Step 1)&lt;/li&gt;
+	&lt;li&gt;Select &quot;&lt;strong&gt;Match Any Of The Words&lt;/strong&gt;&quot; from the drop down menu for &lt;strong&gt;&quot;Return results containing:&quot;&lt;/strong&gt; (Step 2)&lt;/li&gt;
+	&lt;li&gt;Type &quot;&lt;strong&gt;diazinon kaolin&lt;/strong&gt;&quot; inside the &quot;text box&quot; where you are asked: &lt;strong&gt;What word or phrase would you like to search for?&lt;/strong&gt;&quot; (Step 3)&lt;/li&gt;
+	&lt;li&gt;Click the &quot;&lt;strong&gt;Search&lt;/strong&gt;&quot; button to execute the search request. (Step 3)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Figure 2.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-full&quot; style=&quot;width:787px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:787px;&quot;&gt;&lt;img alt=&quot;Advanced search option&quot; height=&quot;616&quot; width=&quot;787&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/search-steps.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;h3&gt;The Search Results&lt;/h3&gt;
+
+&lt;p&gt;In this example, the search results produced 10 items in the PDF document for information about diazinon and kaolin. See Figure 3. below.&lt;/p&gt;
+
+&lt;p&gt;Figure 3.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-full&quot; style=&quot;width:928px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;pdf search&quot; height=&quot;484&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/search-results.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;additional-info&quot; id=&quot;additional-info&quot;&gt;&lt;/a&gt;Additional Information&lt;/h2&gt;
+
+&lt;h3&gt;Setting a Preference for Displaying the Advanced Search Option as the Default&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Select &quot;&lt;strong&gt;Edit&lt;/strong&gt;&quot; from the menu option at the top-left of the computer screen.&lt;/li&gt;
+	&lt;li&gt;Select &quot;&lt;strong&gt;Preferences&lt;/strong&gt;&quot;.&lt;/li&gt;
+	&lt;li&gt;The Preferences popup window is displayed.&lt;/li&gt;
+	&lt;li&gt;Under &lt;strong&gt;Categories:&lt;/strong&gt; select &quot;&lt;strong&gt;Search&lt;/strong&gt;&quot;.&lt;/li&gt;
+	&lt;li&gt;Refer to the &quot;&lt;strong&gt;Search&lt;/strong&gt;&quot; section and check the box &quot;&lt;strong&gt;Always show more options in advanced search&lt;/strong&gt;&quot;.&lt;/li&gt;
+	&lt;li&gt;Click the &quot;&lt;strong&gt;Ok&lt;/strong&gt;&quot; button to save.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 14 Jan 2015 16:41:03 +0000</pubDate>
+ <dc:creator>cdibbl03</dc:creator>
+ <guid isPermaLink="false">71959 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:07:36, expires @ 2017-01-26 16:07:36, lifetime 12 hours -->

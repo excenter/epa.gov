@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/79421/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Research Fellowships</title>
+    <link>https://www.epa.gov/feed/79421/rss.xml</link>
+    <description>Updated Research Fellowships content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/79421/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Advanced Statistical Analysis and Modeling of Data from Mobile Monitoring Designed to Map Major Population Areas in California</title>
+    <link>https://www.epa.gov/research-fellowships/advanced-statistical-analysis-and-modeling-data-mobile-monitoring-designed-map</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of December 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Advanced Statistical Analysis and Modeling of Data from Mobile Monitoring Designed to Map Major Population Areas in California&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Air&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Las Vegas, NV&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The student will have the opportunity to collaborate with a team that is working in an area that is truly state-of-the-science forging new directions and pushing the envelope in air pollution measurements, monitoring, data analysis, storage and communication. The research involves statistical analysis of 1 s air pollution and environmental data collected using mobile platforms in three major California cities, developing performance characteristics and conducting complex spatial and temporal analysis.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The goal of this effort is to analyze air quality data collected in the San Francisco Bay Area (SF), the Los Angeles (LA) metropolitan area, and the Central Valley of California (CVC) during 2016 and 2017.&lt;/p&gt;
+
+				
+
+				&lt;p&gt;The overall project includes review of, and as needed application of statistics used to develop performance characteristics for reference and sensor data, statistical approaches for adjusting data for calibration factors and zero drift, statistics used to adjust sensors for T and RH effects relative to reference methods or laboratory data, statistics used to remove outliers, removal of peaks to obtain an estimate of background concentrations, and perform statistical analysis of spatial and high-time resolution temporal data obtained by the multiple mobile platforms employed in these studies. Google or Alphabet are the key supporters of this project and the mobile platforms are Google Street View cars.&lt;/p&gt;
+
+				
+
+				&lt;p&gt;Topics to address include but are not limited to:&lt;/p&gt;
+
+				&lt;ol&gt;&lt;li&gt;Determine the analytical performance characteristic of pollutant measurements for reference and sensor instruments from laboratory and field calibrations. &lt;/li&gt;
+					&lt;li&gt;How do measurements from sensor nodes (mounted in the vehicles, stationary and moving) compare to measurements from reference samplers located within the vehicles? How do measurements from sensor nodes and reference instruments integrated on a mobile monitoring platform compare with stationary surface measurements while moving and stationary?&lt;/li&gt;
+					&lt;li&gt;Spatial and temporal variation of pollutants associated with specific sources and receptors as determined from mobile and stationary monitoring. Example points of interest:
+						&lt;ol style=&quot;list-style-type:lower-roman&quot;&gt;&lt;li&gt;Environmental Justice (EJ), non-EJ and associated neighborhoods, and industrial parks&lt;/li&gt;
+							&lt;li&gt;Freeways, including bridges and tunnels, and the effect of elevation off of the freeway&lt;/li&gt;
+							&lt;li&gt;Near roadway sites and associated neighborhoods, including schools in the area&lt;/li&gt;
+							&lt;li&gt;Downtown, ports (LA &amp;amp; SF), airports and distribution centers.&lt;/li&gt;
+							&lt;li&gt;Major agricultural areas (feedlot, etc), rural areas and influence from cities, Central Valley&lt;/li&gt;
+							&lt;li&gt;Oil production (Central Valley)&lt;/li&gt;
+							&lt;li&gt;Examine the influence of road barriers, including vegetative and brick walls&lt;/li&gt;
+						&lt;/ol&gt;&lt;/li&gt;
+				&lt;/ol&gt;&lt;p&gt;One goal is to analyze the data to develop multiple papers addressing similar topics as:&lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;Pub.1.  Study design and performance evaluation results that include, for example, comparisons among reference methods located in each car when mobile and between the cars and stationary sites, and between reference methods and sensors within each car. Laboratory evaluations conducted before and after the summer study as well as zero and span checks will be described and included in the paper. An examination of integration time in comparisons should be included in the analysis. This should address EPA’s science questions 1 and 2.&lt;/li&gt;
+					&lt;li&gt;Pub.2   Spatial analysis that addresses the near, middle, and far (within 5 km) distance from the central stationary sites to examine the spatial representativeness of the central site both after adjustment of background (what is the regional representativeness of the central site with peak values removed?) and actual representativeness of the central site when mobile data include local source emissions.  An examination of integration time in comparisons should be included in the analysis.&lt;/li&gt;
+					&lt;li&gt;Pub. 3.  Evaluate the zone of influence of identified source areas (e.g., freeways, ports, airport, industrial areas), examine pollutant and information gained by comparing EJ Areas to non-EJ areas, evaluate how the mobile monitoring provides increased data related to pollutant transport in street canyons, and others as identified in the science questions).  Also, compare near roadway site data with local mobile measurements around the within 10 m – 1 km of the near roadway site.  An examination of integration time in comparisons should be included in the analysis.&lt;/li&gt;
+				&lt;/ul&gt;&lt;p&gt;Data are unlike any mobile monitoring program to date, currently covering almost 90 days of 8 hr data collection at a 1 s sampling frequency for multiple air pollutants and environmental parameters.&lt;/p&gt;
+
+				
+
+				&lt;p&gt;The intern would have the opportunity to co-author multiple journal articles.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The databases collected are unique in size, duration and number of parameters obtained at such a high frequency. Over 5M data points have been obtained that allow for the student to enhance skills in statistics, data mining, atmospheric chemistry, etc. The student will work directly with the EPA mentor, a senior research scientist with expertise in air chemistry measurements and analysis and with a full professor in statistics at UNLV.&lt;/p&gt;
+
+				
+
+				&lt;p&gt;There will be significant area for professional growth and experience by working with &quot;Big Data&quot; or huge databases that require new skills in programming to allow for statistical analysis of pollutant data that is moving in space over time - this is a challenging area where few people have expertise. The student will have access to the EPA facilities in Las Vegas, perhaps have the opportunity to visit the field locations and meet with a private company that is overseeing the mobile platforms, and have the opportunity to work in an area that is truly state-of-the-science forging new directions and pushing the envelope in air pollution measurements, monitoring, data analysis, storage and communication.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Surender Kaushik (&lt;a href=&quot;mailto:kaushik.surender@epa.gov&quot;&gt;kaushik.surender@epa.gov&lt;/a&gt;)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Sun, 04 Dec 2016 20:18:48 +0000</pubDate>
+ <dc:creator>rjoswiak</dc:creator>
+ <guid isPermaLink="false">166365 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Land and Water Remote Sensing Research</title>
+    <link>https://www.epa.gov/research-fellowships/land-and-water-remote-sensing-research</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of December 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Land and Water Remote Sensing Research&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Water&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Research Triangle Park, NC&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;This internship provides an opportunity to conduct a research project in collaboration with EPA and NASA on utilizing airborne remote sensing for collecting data to support water and land research needs. The proposed research includes field work and aircraft flight support.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;EPA, partnering with NASA, is developing an airborne remote sensing system called Transportable Environmental Resource Observation Suite (TEROS). The instrument supports landscape analysis such as urban infrastructure mapping, land cover change, wetland and coastal zone change detection, and water quality research on algal blooms and mine drainage sediments.&lt;/p&gt;
+
+				&lt;p&gt;The instrument suite is comprised of two hyperspectral imagers that cover the visible to short wave infrared region, a thermal camera for temperature sensing, and a mapping camera for the production of 3D digital terrain models. The TEROS package is certified to fly on common Cessna aircraft as an underbelly pod configuration. This allows TEROS to be shipped to field study locations and operate using local aircraft providers.&lt;/p&gt;
+
+				&lt;p&gt;This an exciting opportunity to conduct research with remote sensing experts from both NASA and EPA, designing experiments that utilize the unique capabilities of TEROS. Research will be focused on several areas: investigating the water quality impacts from historical mine operations in California and Nevada, detecting the formation and mapping the extent of harmful algal blooms in Virginia and North Carolina, and developing land cover change detection methods integrating space-borne and airborne datasets. Students will have the opportunity to be involved with NASA Langley Research Center supporting TEROS electronics and structural design modifications for integration on multiple aircraft, and developing airborne flight operation procedures. The work will include deploying to field sites, setting up and operating instrumentation, utilizing image processing algorithms and developing custom analytical procedures, participating in laboratory analysis of samples, statistical analysis of data, and manuscript writing and publishing. Depending on EPA and NASA safety protocols and a successful medical clearance, there may be opportunities for flight operations support as a sensor operations specialist.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Professional development opportunities include working with a team of scientists and engineers from EPA and NASA as well as other federal, state and local agencies. There also will be opportunities to write manuscripts and publish as first author.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;David Williams, &lt;a href=&quot;mailto:williams.davidj@epa.gov&quot;&gt;williams.davidj@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 01 Dec 2016 15:30:13 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">166149 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Using Water Isotopes to Determine Flow Sources and Test How Landscape Characteristics Inform the Hydrologic Behavior of the Columbia River</title>
+    <link>https://www.epa.gov/research-fellowships/using-water-isotopes-determine-flow-sources-and-test-how-landscape</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Using Water Isotopes to Determine Flow Sources and Test How Landscape Characteristics Inform the Hydrologic Behavior of the Columbia River&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Water&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Health and Environmental Effects Research Laboratory (NHEERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Corvallis, OR&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;6 - 12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;We propose to use stable isotopes of surface water to explore how well hydrologic characteristics of landscape units reflect their contribution to flow within the Columbia River Basin.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Stable isotopes of surface water vary spatially, reflecting an integration of precipitation inputs and evaporation. These spatial isotopic patterns are called Isoscapes, which can be useful for determining how and when spatially distributed water sources contribute to flow within major water bodies (Brooks et al. 2012). Additionally, hydrologic classification based on watershed characteristics is an approach that has been applied towards understanding hydrologic behavior and watershed influences on freshwater resources (Wolock et al. 2004, Wigington et al. 2012). This is based on the concept that hydrologic function (e.g., streamflow response) is the result of hydrologic form (e.g., climate and geology) which have been described in the context of hydrologic landscapes (HL) that have been mapped for the Pacific Northwest by scientists at the Western Ecology Division (WED) with plans for the entire U.S. While HLs use morphological characteristics to classify watersheds, it remains unclear as to how well HLs will accurately reflect hydrology inputs in downstream systems without independent verification. We propose to use variation in the stable isotopes of water to assess how various parts of a basin contribute to surface flow over time. Additionally we wish to test how well HLs characterize those flow contribution since the HL concept is being proposed as a management tool to describe hydrologic behavior of watersheds across the country. We will use an extensive isotope data set from the Columbia River Basin to test our hypotheses.&lt;/p&gt;
+
+				&lt;p&gt;We are seeking a student to use a 3-year time-series of water isotopes collected within the Columbia River and spatially distributed sample collected within the Columbia Basin to explore if HLs can help understand variation in landscape contributions to flow within the River. Specific research actions will include 1) developing a surface water isoscape for the Columbia Basin and 2) evaluating the integration of hydrologic landscape units into larger basins by using stable isotopes as spatial integrators of flow.&lt;/p&gt;
+
+				&lt;p&gt;Develop a Columbia Basin Isoscape: Precipitation isotopes vary dramatically across the Columbia Basin because of strong rainout processes as storms originating from the Pacific Ocean move inland across the basin. This variation in precipitation isotopes creates a strong spatial pattern in water isotopes from headwater that feed the Columbia River. We have surface water isotopes collected within the U.S. portion of the Basin that can be used to construct a model that describes how surface water isotopes vary across the basin.&lt;/p&gt;
+
+				&lt;p&gt;Testing methods for integrating hydrologic landscape units within larger basins: HLs are based on the underlying hydrologic characteristics of landscape units such as geology and climate, and are being developed at the national scale as a tool for managers. However, we need to understand how these hydrologic properties integrate across basins to reflect hydrologic behavior for larger water bodies such as the Columbia River. Water stable isotopes are conservative tracers of hydrologic fluxes that contain spatial information on water sources, and can be used to test how well HLs predict the dominant sources and timing of water within larger watersheds. Using the regional isoscape developed above, and our water isotopes time-series measured within the Columbia River, we will test how well HLs indicate the dominant sources and timing of water within watersheds.&lt;/p&gt;
+
+				&lt;p&gt;Brooks, J. R., P. J. Wigington, D. L. Phillips, R. Comeleo, and R. Coulombe. 2012. Willamette River Basin surface water isoscape (d18O and d2H): temporal changes of source water within the river. Ecosphere 3:39 &lt;a href=&quot;http://dx.doi.org/10.1890/ES11-00338.1&quot;&gt;http://dx.doi.org/10.1890/ES11-00338.1&lt;/a&gt;. Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and D. A. Thornburgh. 2016. The stream-catchment (STREAMCAT) dataset: a database of watershed metrics for the contermious United States. Journal of the American Water Resources Association 52:120-128. Wigington, P. J., S. G. Leibowitz, R. Comeleo, and J. L. Ebersole. 2012. Oregon hydrologic landscapes: a classification framework. Journal of the American Water Resources Association. Wolock, D. M., T. C. WInter, and G. McMahon. 2004. Delineation and evaluation of hydrologic-landscape regions in the United States using geographic information system tools and multivariate statistical analyses. Environmental Management 34:S71-S88.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The student will learn about applying stable isotope techniques to characterizing landscapes, water flow, climate change, and environmental changes. Student will employ a Hydrologic Landscape classification system as part of their internship at the Western Ecology Division (WED). The student will have the opportunity to work with scientists in a multidisciplinary laboratory internationally recognized for analyzing and interpreting stable isotopes, and with the EPA scientists responsible for developing HLs and other spatial databases on surface water attributes (StreamCat and LakeCat (Hill et al. 2016)).&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;J. Renee Brooks, &lt;a href=&quot;mailto:brooks.reneej@epa.gov&quot;&gt;brooks.reneej@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 29 Nov 2016 18:12:22 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">165929 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Prescribed Fire Air Quality Modeling</title>
+    <link>https://www.epa.gov/research-fellowships/prescribed-fire-air-quality-modeling</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Prescribed Fire Air Quality Modeling&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Air&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Research Triangle Park, NC&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Up to 12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;A need exists to accurately simulate the impacts of prescribed fire to ambient ozone and particulate matter using numerical models. These needs include retrospective regulatory assessments, human exposure studies and forecasting. EPA’s National Exposure Research Laboratory (NERL)’s modeling system needs more realistic information about prescribed burning management techniques to improve wildland fire representation. This type of data will replace default information that often does not reflect actual land management practices.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;This internship opportunity seeks an individual with interest in collecting information from land management agencies that regularly do prescribed burns regarding time of burns, typical acres burned, fuel type and information about conditions (e.g., meteorology and biofuel moisture) that would restrict prescribed burning. This information will be translated for NERL’s air quality modeling system representing prescribed fire emissions, plume transport and plume chemistry to improve key inputs and also to develop a simple approach for predicting prescribed fires for forecasting simulations. Further, the opportunity may include the application of the photochemical model with alternative or perturbed inputs to quantify specific areas of uncertainty related to the different types of information collected.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The participant will increase knowledge in land management practices, atmospheric science, wildland fire science (plume transport and chemistry), learn atmospheric numerical modeling, develop scientific writing skills, and journal publication.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;George Pouliot, &lt;a href=&quot;mailto:pouliot.george@epa.gov&quot;&gt;pouliot.george@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 28 Nov 2016 19:05:02 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">165795 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Quantifying the Consequences of Spatio-temporal Dynamics of Mangroves Forests in the Provision of Ecosystem Goods and Services</title>
+    <link>https://www.epa.gov/research-fellowships/quantifying-consequences-spatio-temporal-dynamics-mangroves-forests-provision</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Quantifying the Consequences of Spatio-temporal Dynamics of Mangroves Forests in the Provision of Ecosystem Goods and Services&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Ecosystems&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Research Triangle Park, NC&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Mangrove forests provide important ecosystem goods and services to the world’s dense coastal population and support important functions of the biosphere. The forests are under threat from both natural (e.g. typhoons, sea level rise) and anthropogenic forces (rapid economic development, population growth). The loss of these ecosystems can lead to the loss of critical functions of mangroves including coastal protection, carbon sequestration and biodiversity—thus threatening the resiliency and vitality of coastal social-ecological systems. However, our scientific understanding is limited in regards to the rates, patterns and causes of changes to mangrove forest cover and their impact in providing ecosystem goods and services. The proposed research aims to examine dynamics of mangrove forests and associated change in ecosystem good and services of from 1985 to present.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;All available time series of Landsat TM, ETM+, and OLI and Sentinel-2 imagery will be pre-processed to generate surface reflectance products. Pre-processing steps include Top of Atmosphere (ToA) reflectance conversion, cloud/haze removal, and surface reflectance conversion. Landsat and Sentinel-2 data will be the major data sources for the mangrove forest cover change analysis supplemented by very high-resolution satellite data (e.g. WorldView, GeoEye) and field inventory data. Random forest algorithm will be used for image classification. The Continuous Change Detection and Classification (CCDC) and the Vegetation Change Tracker (VCT) and Support Vector Machine (SVM) algorithms will be used to map mangrove forest conversion, disturbance, and regrowth on an annual basis. Extensive fieldwork will be required to collect ground truth for identifying the causes of mangrove change and validating Landsat/Sentinel-2 imagery-derived change. The very high-resolution satellite imagery (&amp;lt;5 m resolution) will complement on-the-ground data collection for the accuracy assessment.&lt;/p&gt;
+
+				&lt;p&gt;We will conduct a rigorous large-scale evaluation of the drivers of mangrove loss and the effectiveness of current conservation practices (e.g. protected areas) at conserving mangroves and reducing blue carbon emissions. Specifically, we will apply quasi-experimental techniques (combining propensity score and covariate matching, differences-in-differences, and post-matching bias adjustments) to assess whether current management practices prevented mangrove loss between 1985 and 2015, building on recent work on the effects of protected areas on mangrove loss in Indonesia by one member of the proposed research team and colleagues (Miteva, Murray and Pattanayak, 2015).&lt;/p&gt;
+
+				&lt;p&gt;To value the protection services provided by mangroves in sheltering coastal communities from extreme weather events, such as typhoons, we will (i) compare the damages measured in in terms of household properties and assets, agricultural assets, and number of deaths in coastal villages with thinner mangrove cover compared to villages with relatively thicker mangrove cover; and (ii) estimate the economic value of storm surge damages in coastal communities with different mangrove areas, densities, species, and disturbance regime. We will use the damage-cost approach (Barbier and Enchelmeyer, 2014) in valuing the protection services provided by mangrove ecosystems against storm related damages. This method takes into account the actual damages brought by the super typhoon in areas with mangrove forests compared to the damages in areas without mangrove forest.&lt;/p&gt;
+
+				&lt;p&gt;We will compile the species-specific information on distribution, population status and major threats for each of the mangrove birds, mammals and amphibian species. Each species’ probability of extinction will be assessed under the Categories and Criteria of the IUCN Red List of Threatened Species. Spatio-temporal analysis will be performed to examine the impact of mangrove forest cover change and forest fragmentation to these species. Particular areas of biodiversity concern in Southeast Asian mangroves will be identified.&lt;/p&gt;
+
+				&lt;p&gt;As part of our effort to quantify the role of mangrove forest fragmentation on biodiversity, we will calculate metapopulation capacity for species endemic to mangrove forests. We will use an occupancy based, spatially explicit metapopulation (SEM) model that has been modified to include self-colonization term in order to prioritize large, contiguous patches (Schnell et al., 2013). This model works by estimating a population&#039;s extinction risk as a function of patch size as well as the colonization rate from all nearby occupied patches. The colonization rate increases with patch size and decreases with inter-patch distance. With this model, we can estimate the metapopulation capacity of a landscape to determine the likelihood of long-term persistence of a species given the spatial arrangement of mangrove fragments.&lt;/p&gt;
+
+				&lt;p&gt;Specific objectives are:&lt;/p&gt;
+
+				&lt;ol&gt;&lt;li&gt;Develop a methodology to detect and monitor mangrove forests’ status and dynamics (conversion, modification and disturbance) using earth observation satellite data on an annual basis; identify the rates, patterns and causes of mangrove forests cover conversion, modifications a disturbances.&lt;/li&gt;
+					&lt;li&gt;Quantify and, where possible, monetize the role and value of mangrove forests in providing ecosystem goods and services including carbon sequestration, storm protection and biodiversity conservation, and explore economic potential for conserving mangroves based exclusively on their ecosystem goods and services.&lt;/li&gt;
+					&lt;li&gt;Assess efficacy, at large spatial scales, of mangrove restoration projects in generating mangrove ecosystems and the services they provide.&lt;/li&gt;
+					&lt;li&gt;Enumerate the changes in ecosystem goods and services in the past ~30 years, and project for the next 50-100 years.&lt;/li&gt;
+				&lt;/ol&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The GRIP intern will have the opportunity to:&lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;Work with researchers from diverse background coming from government, academia and the private sector.&lt;/li&gt;
+					&lt;li&gt;Take a leadership role in their area of expertise or interest.&lt;/li&gt;
+					&lt;li&gt;Play an active role or primary authorship role in publishing peer reviewed publications.&lt;/li&gt;
+					&lt;li&gt;Present research results at national and international conferences.&lt;/li&gt;
+					&lt;li&gt;Network with leading scientists from around the world.&lt;/li&gt;
+					&lt;li&gt;Take a leading role in preparing proposals.&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Chandra Giri, &lt;a href=&quot;mailto:giri.chandra@epa.gov&quot;&gt;giri.chandra@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 28 Nov 2016 18:56:18 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">165793 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Influence of Saharan Dust on Seawater- and Coral-associated Vibrio spp</title>
+    <link>https://www.epa.gov/research-fellowships/influence-saharan-dust-seawater-and-coral-associated-vibrio-spp</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Influence of Saharan Dust on Seawater- and Coral-associated Vibrio spp&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Water&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Athens, GA&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Studying the influence of Saharan dust on the role and interactions of Vibrio spp. within the microbiome of a coral reef through the application of metagenomics and metatranscriptomics.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The application of microbiome research has proven useful in understanding marine ecosystems’ health, especially because microbial interactions in the ocean are multifaceted. A disease state can be described as a dynamic interaction between the host, a pathogen or pathogenic community, and the environment – also known as the disease triangle. Few studies have used this comprehensive model to understand marine disease, particularly in the context of microbial ecology. At EPA, the intern will have access to tools not readily accessible at the intern’s home university to study the microbiome and health of a reef ecosystem experiencing episodic environmental stress.&lt;/p&gt;
+
+				&lt;p&gt;A recent report described up to a 30-fold increase in seawater-associated Vibrio spp. abundance during Saharan dust events in Looe Key Reef, FL. Saharan dust provides a large portion of iron (Fe), which is a key micronutrient for heterotrophic Vibrio spp., to the ocean through atmospheric deposition. Vibrio is ubiquitous in seawater and a dominant member of the coral microbiome. Additionally, certain species of Vibrio spp. are well-known human pathogens, with a reported rate of infection reaching 100 deaths each year in the United States. Vibrio spp. have also been proposed as coral pathogens. Therefore, understanding Vibrio population dynamics in seawater is critical to assessing water quality not only in a human health context but also in a coral disease context, since the water column is a major avenue for coral pathogen transport.&lt;/p&gt;
+
+				&lt;p&gt;The internship will involve applying the host-pathogen-environment triangle concept to investigate the influence of Saharan dust on both seawater- and coral-associated Vibrio. No other study has considered the effect of natural, episodic environmental events, such as dust pulses, on coral and human health simultaneously. This unique, interdisciplinary approach to studying ecosystem health will allow the intern to apply their research in a new scientific direction.&lt;/p&gt;
+
+				&lt;p&gt;The goal of the project is to describe the influence of Saharan dust on both seawater- and coral-associated Vibrio by working in the EPA facility in Athens, GA to accomplish the following goals:&lt;/p&gt;
+
+				&lt;ol&gt;&lt;li&gt;Knowing that dust events increase seawater-associated Vibrio, investigate if dust events also increase the abundance of coral-associated Vibrio.
+						&lt;ul&gt;&lt;li&gt;Conduct a dosing experiment in the lab using the solar simulators available at the Athens EPA facility. This in-lab experiment will allow us to control for variables such as temperature, water contamination and light.&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+					&lt;li&gt;Investigate how Vibrio may be utilizing the nutrient input caused by the Saharan dust influx in seawater?
+						&lt;ul&gt;&lt;li&gt;The intern will use EPA’s mass spectrometer to investigate microbial metabolites in the water column. Results will increase understanding of how Vibrio may be utilizing nutrients from Saharan dust and if its lifestyle could affect the marine microbial community as a whole.&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+					&lt;li&gt;A previous paper observed a boom-and-bust cycle of Vibrio during a Saharan dust event. Are viruses responsible for controlling Vibrio abundance during dust pulses?
+						&lt;ul&gt;&lt;li&gt;The intern will utilize the ultrafiltration equipment and protocol developed by the EPA to sample large volumes of seawater in order to concentrate virus particles for both counting and sequencing.&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ol&gt;&lt;p&gt;Results may provide evidence for decreasing water quality during Saharan dust events, along with assessing the mechanism that increases coral susceptibility to disease.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;While accomplishing the above goals of the internship, the GRIP intern will have the opportunity to grow professionally by collaborating with EPA employees (i.e. training on new equipment and protocols). Intern will have access to resources available only at the Athens EPA facility. Within an interdisciplinary agency, the intern will be able to expand the scope of his/her research, develop new methodological skills, and share findings with a network of experienced, diverse scientists.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Marirosa Molina, &lt;a href=&quot;mailto:molina.marirosa@epa.gov&quot;&gt;molina.marirosa@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 28 Nov 2016 18:35:53 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">165787 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Particulate Matter and Black Carbon Emissions Inventories and Measurement Techniques</title>
+    <link>https://www.epa.gov/research-fellowships/particulate-matter-and-black-carbon-emissions-inventories-and-measurement</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Particulate Matter and Black Carbon Emissions Inventories and Measurement Techniques&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Air&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Risk Management Research Laboratory (NRMRL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Research Triangle Park, NC&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The intern would have the opportunity to work with EPA Office of Research and Development (ORD) researchers in Research Triangle Park, NC to complete a literature review of black carbon emissions in the Arctic Region with particular emphasis on residential heating. The intern would also have the opportunity to learn about black carbon measurements and work hands-on in the laboratory with source emissions.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;There currently exists a need to better understand the anthropogenic emissions of black carbon (BC) in the Arctic Region. There is not enough information available in the literature or emissions inventories/databases to provide a clear understanding of “fresh” BC emissions, and what information is available is incomplete. It is crucial to updating emission inventories and models that the research community gains a better understanding of the following: (a) how much of the emissions data that does exist is based on elemental carbon (EC) rather than BC, (b) how much BC is being generated and emitted in the Arctic Regions, (c) are there diurnal patterns associated with these BC emissions, and (d) what sources are the main contributors? The intern will be involved in providing a literature review to answer these and other questions in order to better understand where gaps in our current emissions inventories exist. The intern will be responsible for understanding many of the current BC measurement techniques and would further have the opportunity to assist in experimental work and data analysis.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;This internship offers the opportunity to work with knowledgeable and accomplished EPA ORD researchers to gain a better understanding of global particulate emissions as well as cutting edge measurement technologies for black carbon. In addition to knowledge gained, the intern would have the opportunity to network with researchers and policy makers and would have the option to participate in other leadership training organizations (EPA RTP Chapter of NLTO, the Networking and Leadership Training Organization) available onsite.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Tiffany Yelverton, &lt;a href=&quot;mailto:yelverton.tiffany@epa.gov&quot;&gt;yelverton.tiffany@epa.gov&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 28 Nov 2016 18:16:49 +0000</pubDate>
+ <dc:creator>ehowell</dc:creator>
+ <guid isPermaLink="false">165785 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Wildland Fire Exposure Modeling</title>
+    <link>https://www.epa.gov/research-fellowships/wildland-fire-exposure-modeling</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Wildland Fire Exposure Modeling&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Air&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Exposure Research Laboratory (NERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Research Triangle Park, NC&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Up to 12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;A need exists to accurately simulate the impacts of wildland fire to ambient ozone and particulate matter. These needs include retrospective regulatory assessments, human exposure studies and forecasting. EPA’s National Exposure Research Laboratory (NERL)’s modeling system needs to be compared with special field study and routine surface measurements to identify priority areas of model development to improve wildland fire representation.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;This internship opportunity seeks an individual who is interested in exploring research wildfire science and atmospheric modeling.&lt;/p&gt;
+
+				&lt;p&gt;As part of the research, the intern would:&lt;/p&gt;
+
+				&lt;p&gt;a) collect routine and special field study air pollution and meteorological measurements impacted by specific wildland fires of interest, b) match the relevant ambient data with photochemical model output, and c) generate a manuscript identifying the strengths and weaknesses of the modeling system with respect to predicting ozone and particulate matter. Further, the opportunity may include the application of the photochemical model with alternative or perturbed inputs to quantify specific areas of uncertainty.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The participant will increase knowledge in atmospheric science, wildland fire science (plume transport and chemistry), learn atmospheric numerical modeling, develop scientific writing skills, and journal publication.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Sergey Napelenok (&lt;a href=&quot;mailto:napelenok.sergey@epa.gov&quot;&gt;napelenok.sergey@epa.gov&lt;/a&gt;)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 25 Nov 2016 18:32:45 +0000</pubDate>
+ <dc:creator>rjoswiak</dc:creator>
+ <guid isPermaLink="false">165695 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Drivers and Impacts of Coastal Acidification in Pacific Northwest Estuaries</title>
+    <link>https://www.epa.gov/research-fellowships/drivers-and-impacts-coastal-acidification-pacific-northwest-estuaries</link>
+    <description>&lt;p&gt;&lt;strong&gt;EPA Office of Research and Development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NSF Graduate Research Internship Opportunities for NSF Graduate Research Fellows&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Current as of November 2016&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Title:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Drivers and Impacts of Coastal Acidification in Pacific Northwest Estuaries&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Research Area:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Water&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;EPA Lab/Center/Office:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;National Health and Environmental Effects Research Laboratory (NHEERL)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Newport, OR&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;3 - 12 months&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Brief Summary:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;The intern selected for this position would develop a project focused on the role of eutrophication in influencing coastal acidification and the impact of this acidification on estuarine ecosystems.  &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunity Description:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Carbon dioxide levels are causing a decline in oceanic pH, which is impacting marine ecosystems. In coastal and estuarine waters, this acidification may be exacerbated by local processes such as atmospheric emissions, and point and nonpoint nutrient inputs.  EPA has encouraged States to assess whether their waters are impaired due to acidification and incorporate acidification into their listing process. A key need are tools to distinguish causes of acidification in coastal and estuarine waters and effects-based research. The intern selected for this position will contribute to field and lab based studies focused on identifying the causes and impacts of acidification in Pacific Northwest estuaries. Research opportunities could either be based on field studies focused in Oregon estuaries or laboratory mesocosm studies.&lt;/p&gt;
+
+				
+
+				&lt;p&gt;Our laboratory is currently conducting a suite of complementary field studies focused in the Tillamook Estuary. As part of this effort, we are focused on quantifying the role of local factors on carbonate chemistry dynamics in this system. We are sampling the tributaries entering Tillamook Estuary for nutrients, natural abundance stable isotopes (dissolved inorganic nitrogen and carbon, and particulate matter), and carbonate chemistry, as well as deploying in-situ carbonate chemistry monitoring instrumentation in the estuary. Laboratory mesocosm studies are focused on the effect of nutrient enrichment and temperature on estuarine communities. We have a range of experimental systems at our laboratory ranging from 6 liter dual compartment chambers to 325 and 3200 liter mesocosms.  Mesocosm facilities at our laboratory allow us to evaluate effects of multiple stressors simultaneously, and are equipped with Honeywell Durafet pH sensors. Currently these mesocosms have the ability to control residence time, nutrient load, irradiance and temperature. In the future, we anticipate adding the capacity to manipulate mesocosm pCO&lt;sub&gt;2&lt;/sub&gt; levels. Other instrumentation available for use in field and laboratory studies include optical nitrate sensors (ISUS) as well as Sunburst SAMI pH and pCO&lt;sub&gt;2&lt;/sub&gt; sensors, Shimadzu Total organic carbon analyzer, and a dual pCO&lt;sub&gt;2&lt;/sub&gt;/TCO&lt;sub&gt;2&lt;/sub&gt; analyzer for carbonate chemistry. &lt;/p&gt;
+
+				
+
+				&lt;p&gt;The successful intern would develop a complementary project embedded within either the field studies or mesocosm experiments. Possible topics may include incorporating an organismal-effects-based component, assessment of impairment associated with organic nutrients, alterations of biogeochemical processing (e.g. ecosystem metabolism, carbon accumulation), or systems modeling. Other ideas are also welcome.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Opportunities for Professional Development:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Professional development opportunities will include being a member of diverse research team working on coastal acidification and mentoring on how science can be used to inform management decisions. Depending upon the intern project, training opportunities may include training on state-of-the-art carbonate chemistry measuring systems and conducting mesocosm experiments. This intern will be at Hatfield Marine Science Center (HMSC), which is a consortium of university, federal and state agencies. The HMSC community provides many professional development opportunities, including seminar series, training and volunteer opportunities, and the ability to interact with diverse research and management community.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:266px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Point of Contact or Mentor:&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:439px&quot;&gt;
+				&lt;p&gt;Cheryl Brown (&lt;a href=&quot;mailto:brown.cheryl@epa.gov&quot;&gt;brown.cheryl@epa.gov&lt;/a&gt;)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;For more information about EPA Research Fellowship opportunities, visit: &lt;a href=&quot;/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&quot;&gt;https://www.epa.gov/research-fellowships/graduate-research-internship-program-grip-opportunities-epa&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 25 Nov 2016 18:23:06 +0000</pubDate>
+ <dc:creator>rjoswiak</dc:creator>
+ <guid isPermaLink="false">165693 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 18:23:24, expires @ 2017-01-26 06:23:24, lifetime 12 hours -->

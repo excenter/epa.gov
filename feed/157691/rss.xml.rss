@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/157691/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Compliance and Fuel Economy Data</title>
+    <link>https://www.epa.gov/feed/157691/rss.xml</link>
+    <description>Updated Compliance and Fuel Economy Data content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/157691/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Test Data for Annual Fuel Economy Guide</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/test-data-annual-fuel-economy-guide</link>
+    <description>&lt;p&gt;Data files for the Fuel Economy Guide are provided for import into databases or spreadsheets (including 6-number Guide format).&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;File Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;2002-Present year&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fueleconomy.gov/feg/download.shtml&quot;&gt;Download Fuel Economy Data&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2001*&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-321107&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/01guide.csv&quot; type=&quot;text/csv; length=103284&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 2001 MY (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 103 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-321111&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/01gd-alt.csv&quot; type=&quot;text/csv; length=6981&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data - Alternative Fuel Vehicle for 2001 MY (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 7 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2000*&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-321113&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/00guide.csv&quot; type=&quot;text/csv; length=93927&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 2000 MY (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 94 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-321115&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/00gd_alt.csv&quot; type=&quot;text/csv; length=8431&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data - Alternative Fuel Vehicle for 2000 MY (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 8 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1999*&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-321117&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/99guide.zip&quot; type=&quot;application/zip; length=80150&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1999 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 80 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-321121&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/99gd_alt.csv&quot; type=&quot;text/csv; length=10744&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data - Alternative Fuel Vehicle for 1999 MY (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 11 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1998*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321129&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/98guide6.zip&quot; type=&quot;application/zip; length=80721&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1998 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 81 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1997*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321131&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/97mfgui.zip&quot; type=&quot;application/zip; length=17367&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1997 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 17 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1996*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321135&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/96mfgui.zip&quot; type=&quot;application/zip; length=18526&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1996 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 19 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1995*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321137&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/95mfgui.zip&quot; type=&quot;application/zip; length=23687&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1995 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 24 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1994*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321141&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/94mfgui.zip&quot; type=&quot;application/zip; length=22749&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1994 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 23 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1993*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321145&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/93mfgui.zip&quot; type=&quot;application/zip; length=29623&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1993 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 30 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1992*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321149&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/92mfgui.zip&quot; type=&quot;application/zip; length=33375&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1992 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 33 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1991*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321153&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/91mfgui.zip&quot; type=&quot;application/zip; length=38236&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1991 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 38 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1990*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321157&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/90mfgui.zip&quot; type=&quot;application/zip; length=33680&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1990 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 34 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1989*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321161&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/89mfgui.zip&quot; type=&quot;application/zip; length=35817&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1989 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 36 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1988*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321163&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/88mfgui.zip&quot; type=&quot;application/zip; length=34917&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1988 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 35 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1987*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321165&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/87mfgui_0.zip&quot; type=&quot;application/zip; length=37533&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1987 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 38 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1986*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321169&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/86mfgui_0.zip&quot; type=&quot;application/zip; length=37141&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1986 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 37 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1985*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321171&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/85mfgui_0.zip&quot; type=&quot;application/zip; length=65440&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1985 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 65 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1984*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321173&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/84mfgui_0.zip&quot; type=&quot;application/zip; length=46939&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1984 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 47 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1983*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321175&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/83data_0.zip&quot; type=&quot;application/zip; length=59325&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1983 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 59 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1982*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321177&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/82data_0.zip&quot; type=&quot;application/zip; length=51729&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1982 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 52 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1981*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321179&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/81data_0.zip&quot; type=&quot;application/zip; length=46222&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1981 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 46 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1980*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321181&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/80data_0.zip&quot; type=&quot;application/zip; length=40937&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1980 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 41 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1979*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321183&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/79data_0.zip&quot; type=&quot;application/zip; length=37442&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1979 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 37 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1978*&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-321185&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/78data_0.zip&quot; type=&quot;application/zip; length=31888&quot; class=&quot;file-link&quot;&gt;Fuel Economy Guide Data for 1978 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 32 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;*  &lt;span id=&quot;file-321203&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/readme.txt&quot; type=&quot;text/plain; length=29915&quot; class=&quot;file-link&quot;&gt;Descriptions and Instructions for 1978-2001 MYs (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 30 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+</description>
+     <pubDate>Tue, 04 Oct 2016 19:07:26 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">161959 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Engine Certification Data</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/engine-certification-data</link>
+    <description>&lt;p&gt;This page provides certification data from various engine manufacturers for past and current model years.&lt;/p&gt;
+
+&lt;div&gt;&lt;small&gt;&lt;strong&gt;NOTE:&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;small&gt;Beginning in Model Year 2011, the data for several industries have migrated to the Verify Database system. Therefore, a difference in formatting may be noticed in the resulting files. Most industries that migrate to Verify will no longer have FileMaker Pro files included.&lt;/small&gt;&lt;/p&gt;
+
+&lt;div&gt;On this page, there is certification data for:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#large&quot;&gt;Large engines&lt;/a&gt;&lt;br /&gt;&lt;small&gt;(including nonroad compression-ignition (NRCI) and on-highway heavy-duty diesel and gasoline)&lt;/small&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#small-nrsi&quot;&gt;Small nonroad spark-ignition (NRSI) engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#marine-si&quot;&gt;Marine spark-ignition (SI) engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#marine-ci&quot;&gt;Marine large compression-ignition (CI) engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#snowmobile&quot;&gt;Snowmobile SI engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#locomotive&quot;&gt;Locomotive CI engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#large-si&quot;&gt;Large NRSI engines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#evap&quot;&gt;Nonroad evaporative components&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#hd-evap&quot;&gt;Heavy-duty evaporative components&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#hd-vehicles&quot;&gt;Heavy-duty vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;large&quot; name=&quot;large&quot;&gt;&lt;/a&gt;Large Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Data is provided for Engine Family and Models Information, Certification Test Data in Excel spreadsheet format by Model Year (MY). Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet and include Greenhouse Gas data.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Nonroad Compression-Ignition (NRCI)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;On-Highway Heavy-Duty Diesel &amp;amp; Gasoline&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2018&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-347869&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nrci-cert-ghg-2018.xls&quot; type=&quot;application/vnd.ms-excel; length=71168&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2018 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(71 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2017&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-347877&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nrci-cert-ghg-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=1560064&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2017 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347881&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdh-cert-ghg-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=1907200&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2017 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2016&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-347883&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nrci-cert-ghg-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=2015744&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2016 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-319937&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/on-hwy-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=574976&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline FileMake Pro Certification Data for 2016 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 575 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;p&gt;&lt;span id=&quot;file-347887&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdh-cert-ghg-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=270848&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2016 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(271 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2015&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;p&gt;&lt;span id=&quot;file-319925&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nrci-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=1874944&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-319953&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/on-hwy-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=4396032&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline FileMake Pro Certification Data for 2015 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 4 MB, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;p&gt;&lt;span id=&quot;file-347891&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdh-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=61952&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2015 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(62 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2014&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;div&gt;
+					&lt;div&gt;&lt;span id=&quot;file-319923&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nrci-cert-ghg-14d.xls&quot; type=&quot;application/vnd.ms-excel; length=1908224&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2014 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-319957&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/on-hwy-2014e.xls&quot; type=&quot;application/vnd.ms-excel; length=2027520&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2014 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2013&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;div&gt;
+					&lt;div&gt;&lt;span id=&quot;file-319921&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nrci-cert-ghg-13e.xls&quot; type=&quot;application/vnd.ms-excel; length=1713152&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2013 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-319959&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/on-hwy-2013c.xls&quot; type=&quot;application/vnd.ms-excel; length=636416&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2013 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 636 K, 
+  May 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2012&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;div&gt;&lt;span id=&quot;file-319919&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nrci-cert-ghg-12b.xls&quot; type=&quot;application/vnd.ms-excel; length=2548736&quot; class=&quot;file-link&quot;&gt;NRCI Certification Data for 2012 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 3 MB, 
+  November 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-319961&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/on-hwy-2012b.xls&quot; type=&quot;application/vnd.ms-excel; length=658944&quot; class=&quot;file-link&quot;&gt;On-highway Heavy-duty Diesel and Gasoline Certification Data for 2012 (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 659 K, 
+  January 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2011&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;
+				&lt;p&gt;&lt;span id=&quot;file-319971&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci-cert-ghg-11.xls&quot; type=&quot;application/vnd.ms-excel; length=199168&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2011 (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 199 K, 
+  May 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-319975&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci11.zip&quot; type=&quot;application/zip; length=23753216&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2011 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  December 2011)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2010&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319977&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci10.zip&quot; type=&quot;application/zip; length=24044740&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2010 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  March 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2009&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319979&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci09.zip&quot; type=&quot;application/zip; length=24417997&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2009 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  March 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2008&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319981&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci08.zip&quot; type=&quot;application/zip; length=24824392&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2008 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 25 MB, 
+  March 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2007&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319983&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci07.zip&quot; type=&quot;application/zip; length=27179607&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2007 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 27 MB, 
+  March 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2006&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319987&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci06.zip&quot; type=&quot;application/zip; length=4025782&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2006 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB, 
+  January 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2005&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319989&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci05.zip&quot; type=&quot;application/zip; length=3735085&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2005 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 4 MB, 
+  March 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2004&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319991&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci04.zip&quot; type=&quot;application/zip; length=5479054&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2004 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB, 
+  March 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2003&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319993&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg_ci03.zip&quot; type=&quot;application/zip; length=5463874&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2003 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB, 
+  February 2004)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2002&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319997&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci02b.zip&quot; type=&quot;application/zip; length=24124005&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2002 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2001&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-319999&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci01b.zip&quot; type=&quot;application/zip; length=24316455&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2001 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2000&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-320001&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci00b.zip&quot; type=&quot;application/zip; length=24269093&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 2000 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1999&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-320003&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci99b.zip&quot; type=&quot;application/zip; length=23832019&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 1999 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 24 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1998&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-320005&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci98b.zip&quot; type=&quot;application/zip; length=23384179&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 1998 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 23 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1997&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; rowspan=&quot;1&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-320009&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci97.zip&quot; type=&quot;application/zip; length=22535231&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 1997 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 23 MB, 
+  August 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1996&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot; style=&quot;vertical-align:top&quot;&gt;&lt;span id=&quot;file-320011&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/lg-ci96.zip&quot; type=&quot;application/zip; length=22334320&quot; class=&quot;file-link&quot;&gt;NRCI and On-highway Heavy-duty Diesel and Gasoline Certification Data for 1996 (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 22 MB, 
+  August 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;small-nrsi&quot; name=&quot;small-nrsi&quot;&gt;&lt;/a&gt;Small Nonroad Spark-Ignition (NRSI) Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data. &lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347947&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nr-s-si-cert-ghg-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=1279488&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2017 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  January 2017 )&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347951&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nr-s-si-cert-ghg-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=1673728&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2016 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347949&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/nr-s-si-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=1224704&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2015 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320025&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si-cert-ghg-14g.xls&quot; type=&quot;application/vnd.ms-excel; length=1152000&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2014 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320027&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si-cert-ghg-13e.xls&quot; type=&quot;application/vnd.ms-excel; length=1111552&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2013 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  July 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320029&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si-cert-ghg-12b.xls&quot; type=&quot;application/vnd.ms-excel; length=838144&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2012 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 838 K, 
+  August 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320031&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si-cert-ghg-11b.xls&quot; type=&quot;application/vnd.ms-excel; length=753152&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2011 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 753 K, 
+  August 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2007-2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320033&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi07-11.zip&quot; type=&quot;application/zip; length=11127661&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2007-2011 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 11 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2006&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320035&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si06.zip&quot; type=&quot;application/zip; length=2434249&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2006 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  January 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2005&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320039&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si05.zip&quot; type=&quot;application/zip; length=1943374&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2005 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  March 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2004&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320041&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/nr-s-si04.zip&quot; type=&quot;application/zip; length=2548039&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2004 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 3 MB, 
+  March 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2003&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320047&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi03.zip&quot; type=&quot;application/zip; length=1089538&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2003 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  September 2003)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2002&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320049&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi02.zip&quot; type=&quot;application/zip; length=1851005&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2002 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2001&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320051&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi01.zip&quot; type=&quot;application/zip; length=1721806&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2001 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2000&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320053&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi00.zip&quot; type=&quot;application/zip; length=1595358&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 2000 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1999&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320055&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi99.zip&quot; type=&quot;application/zip; length=1233880&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 1999 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1998&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320057&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi98.zip&quot; type=&quot;application/zip; length=1179732&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 1998 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1997&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320059&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/sm-nrsi97.zip&quot; type=&quot;application/zip; length=928396&quot; class=&quot;file-link&quot;&gt;Small NRSI Engine Certification Data for 1997 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 928 K, 
+  February 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;marine-si&quot; name=&quot;marine-si&quot;&gt;&lt;/a&gt;Marine Spark-Ignition (SI) Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data. &lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347941&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/mar-si-cert-ghg-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=275968&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2017 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(276 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347943&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/mar-si-cert-ghg-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=439296&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2016 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(439 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347945&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/mar-si-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=333824&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2015 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(334 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320067&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si-cert-ghg-14.xls&quot; type=&quot;application/vnd.ms-excel; length=281600&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2014 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 282 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320069&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si-cert-ghg-13e.xls&quot; type=&quot;application/vnd.ms-excel; length=254464&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2013 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 254 K, 
+  July 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320071&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si-cert-ghg-12a.xls&quot; type=&quot;application/vnd.ms-excel; length=215552&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2012 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 216 K, 
+  July 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320073&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si-cert-ghg-11a.xls&quot; type=&quot;application/vnd.ms-excel; length=89088&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2011 MY (with GHG Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 89 K, 
+  July 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2007-2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320075&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si07-11.zip&quot; type=&quot;application/zip; length=1369147&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2007-2011 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2006&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320077&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si06.zip&quot; type=&quot;application/zip; length=431218&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2006 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 431 K, 
+  March 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2005&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320079&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si05.zip&quot; type=&quot;application/zip; length=535617&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2005 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 536 K, 
+  August 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2004&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320081&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si04.zip&quot; type=&quot;application/zip; length=634601&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2004 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 635 K, 
+  March 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2003&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320083&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si03.zip&quot; type=&quot;application/zip; length=402896&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2003 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 403 K, 
+  September 2003)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2002&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320085&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si02.zip&quot; type=&quot;application/zip; length=729760&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2002 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 730 K, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2001&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320087&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si01.zip&quot; type=&quot;application/zip; length=756741&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2001 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 757 K, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2000&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320089&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si00.zip&quot; type=&quot;application/zip; length=735860&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 2000 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 736 K, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1999&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320091&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si99.zip&quot; type=&quot;application/zip; length=797612&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 1999 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 798 K, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1998&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320093&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-si98.zip&quot; type=&quot;application/zip; length=705098&quot; class=&quot;file-link&quot;&gt;Marine SI Engine Certification Data for 1998 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 705 K, 
+  April 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;marine-ci&quot; name=&quot;marine-ci&quot;&gt;&lt;/a&gt;Marine Large Compression-Ignition (CI) Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data. &lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347935&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/mar-ci-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=390656&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2017 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(391 K, 
+  January 2017 )&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347939&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/mar-ci-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=504320&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2016 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(504 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320099&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=369152&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(369 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-320101&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2014d.xls&quot; type=&quot;application/vnd.ms-excel; length=2136576&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2014 MY (FileMaker Pro Data) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-320103&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2014.xls&quot; type=&quot;application/vnd.ms-excel; length=69632&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2014 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 70 K, 
+  December 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320105&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2013d.xls&quot; type=&quot;application/vnd.ms-excel; length=1881088&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2013 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  September 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320107&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2012b.xls&quot; type=&quot;application/vnd.ms-excel; length=1510912&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2012 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  January2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320109&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-11.xls&quot; type=&quot;application/vnd.ms-excel; length=2290688&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2011 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  July 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2010&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320111&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2010.xls&quot; type=&quot;application/vnd.ms-excel; length=4881920&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2010 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 MB, 
+  April 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2009&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320113&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2009.xls&quot; type=&quot;application/vnd.ms-excel; length=2461696&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2009 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  April 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2008&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320115&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2008.xls&quot; type=&quot;application/vnd.ms-excel; length=1176064&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2008 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  April 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2007&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320117&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci-2007.xls&quot; type=&quot;application/vnd.ms-excel; length=1919488&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2007 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB, 
+  April 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2006&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320119&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci06.zip&quot; type=&quot;application/zip; length=844784&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2006 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 845 K, 
+  January 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2005&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320121&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci05.zip&quot; type=&quot;application/zip; length=782474&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2005 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 782 K, 
+  March 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2004&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320123&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/mar-ci04.zip&quot; type=&quot;application/zip; length=843655&quot; class=&quot;file-link&quot;&gt;Large Marine CI Engines Certification Data for 2004 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 844 K, 
+  March 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;snowmobile&quot; name=&quot;snowmobile&quot;&gt;&lt;/a&gt;Snowmobile Spark-Ignition (SI) Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data. &lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320477&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2017.xls&quot; type=&quot;application/vnd.ms-excel; length=53760&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2017 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(54 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320481&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2016.xls&quot; type=&quot;application/vnd.ms-excel; length=38400&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2016 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(38 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-320483&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2015a.xls&quot; type=&quot;application/vnd.ms-excel; length=311808&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2015 MY (FileMaker Pro Data) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 312 K, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-320485&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2015.xls&quot; type=&quot;application/vnd.ms-excel; length=36864&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(37 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320487&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2014b.xls&quot; type=&quot;application/vnd.ms-excel; length=332800&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2014 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 333 K, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320495&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si2013a.xls&quot; type=&quot;application/vnd.ms-excel; length=297984&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2013 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 298 K, 
+  September 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320503&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si12.zip&quot; type=&quot;application/zip; length=721273&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2012 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 721 K, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2004-2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320505&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/snow-si04-11b.zip&quot; type=&quot;application/zip; length=1095602&quot; class=&quot;file-link&quot;&gt;Snowmobile SI Engine Certification Data for 2004-2011 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  January 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;locomotive&quot; name=&quot;locomotive&quot;&gt;&lt;/a&gt;Locomotive CI Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data. &lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347923&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/loco2017.xls&quot; type=&quot;application/vnd.ms-excel; length=157184&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2017 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(157 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347925&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/loco2016.xls&quot; type=&quot;application/vnd.ms-excel; length=231424&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2016 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(231 K, 
+  January 2017 )&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320515&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco2015.xls&quot; type=&quot;application/vnd.ms-excel; length=195072&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 195 K, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320519&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco14.xls&quot; type=&quot;application/vnd.ms-excel; length=212480&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2014 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 212 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320521&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco13.xls&quot; type=&quot;application/vnd.ms-excel; length=175104&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2013 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 175 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320525&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco12.xls&quot; type=&quot;application/vnd.ms-excel; length=94720&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2012 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 95 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320529&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco11.xls&quot; type=&quot;application/vnd.ms-excel; length=67584&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2011 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 68 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2010&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320531&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loco10.xls&quot; type=&quot;application/vnd.ms-excel; length=77824&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2010 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 78 K, 
+  April 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2008-2009&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320533&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loc08-09.zip&quot; type=&quot;application/zip; length=25907&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2008 &amp;amp; 2009 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 26 K, 
+  May 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2006-2007&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320535&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loc06-07.zip&quot; type=&quot;application/zip; length=10091&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2006 &amp;amp; 2007 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 10 K, 
+  April 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2002-2005&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320537&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/loc02-05.zip&quot; type=&quot;application/zip; length=19001&quot; class=&quot;file-link&quot;&gt;Locomotive CI Engine Certification Data for 2002, 2003, 2004 &amp;amp; 2005 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 19 K, 
+  February 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;large-si&quot; name=&quot;large-si&quot;&gt;&lt;/a&gt;Large NRSI Engines Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. Early years are a Zip file with FileMaker Pro 7 and Excel files. Later years are in an Excel spreadsheet, but include Greenhouse Gas data.&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320545&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=193024&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2015 MY (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(193 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320547&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-ghg-14e.xls&quot; type=&quot;application/vnd.ms-excel; length=181760&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2014 MY (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 182 K, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320549&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-ghg-13d.xls&quot; type=&quot;application/vnd.ms-excel; length=145920&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2013 MY (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 146 K, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320551&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-ghg-12.xls&quot; type=&quot;application/vnd.ms-excel; length=109568&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2012 MY (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 110 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;span id=&quot;file-320555&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-11.xls&quot; type=&quot;application/vnd.ms-excel; length=43520&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2011 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 44 K, 
+  August 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+				&lt;div&gt;&lt;span id=&quot;file-320553&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-ghg-11.xls&quot; type=&quot;application/vnd.ms-excel; length=59392&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2011 MY (GHG Data Added) (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 59 K, 
+  July 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2010&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320557&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/nr-lg-si-cert-10.xls&quot; type=&quot;application/vnd.ms-excel; length=47616&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2010 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 48 K, 
+  August 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2008-2009&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320559&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/lg-nrsi08-09.zip&quot; type=&quot;application/zip; length=11223&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2008 &amp;amp; 2009 MYs (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 11 K, 
+  April 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2006-2007&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320561&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/lg-nrsi06-07.zip&quot; type=&quot;application/zip; length=31561&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2006 &amp;amp; 2007 MYs (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 32 K, 
+  February 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2004-2005&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320563&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/lg-nrsi04-05.zip&quot; type=&quot;application/zip; length=29628&quot; class=&quot;file-link&quot;&gt;Large NRSI Engine Certification Data for 2004 &amp;amp; 2005 MYs (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 30 K, 
+  February 2006)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;evap&quot; name=&quot;evap&quot;&gt;&lt;/a&gt;Nonroad Evaporative Components Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data. The oldest file is compressed.&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320605&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap-cert-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=218112&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(218 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2014&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320609&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap-cert-14e.xls&quot; type=&quot;application/vnd.ms-excel; length=299008&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2014 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 299 K, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2013&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320611&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap-cert-13d.xls&quot; type=&quot;application/vnd.ms-excel; length=284672&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2013 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 285 K, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2012&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320615&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap-cert-12.xls&quot; type=&quot;application/vnd.ms-excel; length=248320&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2012 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 248 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320617&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap-cert-11.xls&quot; type=&quot;application/vnd.ms-excel; length=162816&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2011 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 163 K, 
+  November 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2009-2011&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320621&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/evap09-11.zip&quot; type=&quot;application/zip; length=253489&quot; class=&quot;file-link&quot;&gt;Nonroad Evaporative Components Certification Data for 2009, 2010 &amp;amp; 2011 MY (Zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 253 K, 
+  September 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;hd-evap&quot; name=&quot;hd-evap&quot;&gt;&lt;/a&gt;Heavy-duty Evaporative Components Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data.&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;
+				
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;hd-vehicles&quot; name=&quot;hd-vehicles&quot;&gt;&lt;/a&gt;Heavy-duty Vehicles Certification Data&lt;/h2&gt;
+
+&lt;p&gt;Engine Family and Models Information, and Certification Test Data.&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year (MY)&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Certification Data Files&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2018&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347913&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdv-cert-ghg-2018.xls&quot; type=&quot;application/vnd.ms-excel; length=574464&quot; class=&quot;file-link&quot;&gt;Heavy-duty Vehicle Certification Data for 2018 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(574 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2017&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347915&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdv-cert-ghg-2017.xls&quot; type=&quot;application/vnd.ms-excel; length=1178624&quot; class=&quot;file-link&quot;&gt;Heavy-duty Vehicle Certification Data for 2017 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2016&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-347919&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/hdv-cert-ghg-2016.xls&quot; type=&quot;application/vnd.ms-excel; length=96256&quot; class=&quot;file-link&quot;&gt;Heavy-duty Vehicle Certification Data for 2016 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(96 K, 
+  January 2017)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2015&lt;/td&gt;
+			&lt;td&gt;&lt;span id=&quot;file-320639&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-10/hdv-cert-ghg-2015.xls&quot; type=&quot;application/vnd.ms-excel; length=39936&quot; class=&quot;file-link&quot;&gt;Heavy-duty Vehicle Certification Data for 2015 MY (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(40 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Sep 2016 20:20:11 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">161655 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Certified Vehicle Model Report</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/certified-vehicle-model-report</link>
+    <description>&lt;p&gt;This document contains the 2005 light duty certified vehicle models report.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319151&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/05certified_vehicle_models.pdf&quot; type=&quot;application/pdf; length=83691&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Model Report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(31 pp, 84 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:52:37 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">161385 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Certified Vehicle Test Result for Other Manufacturers</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/certified-vehicle-test-result-other-manufacturers</link>
+    <description>&lt;p&gt;This document contains 2005 other manufacturer certification test results.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319147&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/05minor_mfr_ld_testresults_condensed.pdf&quot; type=&quot;application/pdf; length=495180&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result for Other Manufacturers (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(196 pp, 495 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:45:50 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">161381 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Certified Vehicle Test Result: DaimlerChrysler, Ford, General Motors, Honda, and Toyota-Condensed Report</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/certified-vehicle-test-result-daimlerchrysler-ford-general-motors</link>
+    <description>&lt;p&gt;This document contains 2005 DaimlerChrysler, Ford, General Motors, Honda, and Toyota certification test results.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319143&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/05major_mfr_ld_testresults_condensed.pdf&quot; type=&quot;application/pdf; length=432435&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result: DaimlerChrysler, Ford, General Motors, Honda, and Toyota-Condensed Report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(167 pp, 432 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:44:26 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">161379 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Certified Vehicle Test Result-Condensed Report</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/certified-vehicle-test-result-condensed-report</link>
+    <description>&lt;p&gt;This document contains the 2005 light duty certification test results.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319139&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/05cert_testresults_condensed.pdf&quot; type=&quot;application/pdf; length=901940&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result-Condensed Report  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(362 pp, 902 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:38:44 +0000</pubDate>
+ <dc:creator>xsgregor</dc:creator>
+ <guid isPermaLink="false">161377 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>General - Definitions of Abbreviations</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/general-definitions-abbreviations</link>
+    <description>&lt;p&gt;This document contains definitions of EPA&#039;s Certification Test Result report abbreviations.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319135&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/definitions_abbreviations.pdf&quot; type=&quot;application/pdf; length=33850&quot; class=&quot;file-link&quot;&gt;General - Definitions of Abbreviations (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 34 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:37:02 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">161375 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>General - Certified Vehicle Test Result Report Content Description</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description</link>
+    <description>&lt;p&gt;These documents contain the content description or the annual certified test results data for 2005, 2004 and 2003.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-319123&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/05format.pdf&quot; type=&quot;application/pdf; length=110617&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (2005) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 111 K, 
+  November 4, 2004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-319177&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/04format.pdf&quot; type=&quot;application/pdf; length=68222&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (2004) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 68 K, 
+  January 6, 2004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-319179&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/03format.pdf&quot; type=&quot;application/pdf; length=12711&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (2003) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 13 K, 
+  November 14, 2002)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 28 Sep 2016 15:07:20 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">161369 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Annual Certification Test Data for Vehicles and Engines</title>
+    <link>https://www.epa.gov/compliance-and-fuel-economy-data/annual-certification-test-data-vehicles-and-engines</link>
+    <description>&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The Annual Certification Test Results Report (often referred to as Federal Register Test Results Report) includes light-duty vehicle and heavy-duty engine reports for model years 1979 through 1994 and light-duty only data for later model years.  Heavy-duty engine data for 1995 and 1996 is also available. The report contains certification levels (projected emission levels at the end of the useful life miles of a vehicle) and deterioration factors used to compute the certification levels.&lt;/p&gt;
+
+&lt;p&gt;The formatted report is not available for 1999 and later model years. The list of Certified Vehicle Models can be used in conjunction with the Certified Vehicle Test Result Report Data file by matching the Engine Family/Test Group and Evaporative Family combinations for a given vehicle model with the test results for that same combination in each file. The vehicle model name appearing in the Certified Vehicle Test Result Report Data does not necessarily represent the actual vehicle that was tested.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Model Year&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Light Duty Vehicle Data&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Motorcycle Data&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2017&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317849&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2017actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=16031232&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317855&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2017actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2044416&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317859&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2017certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=281600&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(282 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317863&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2017-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=225792&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(226 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317867&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2017-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=290816&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(291 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2016&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317875&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2016actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=15361024&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317881&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2016actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2250752&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317887&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2016certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=648192&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(648 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317889&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2016-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=477696&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(478 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317891&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2016-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=456192&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(456 K, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2015&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317895&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2015actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=13722624&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 MB, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317897&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2015actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2155520&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317899&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2015certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=687104&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(687 K, 
+  August 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317901&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2015-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=452096&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(452 K, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317903&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/2015-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=463872&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(464 K, 
+  July 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2014&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317905&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/14actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=13739520&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 MB, 
+  November 2016)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317907&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/14actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2226176&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317909&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/14certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=409600&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(410 K, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-317911&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/14-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=450560&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(451 K, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-317917&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/14-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=466432&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(466 K, 
+  March 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2013&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318547&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/13actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=12713984&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318549&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/13actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2217984&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318553&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/13certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=383488&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(383 K, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318555&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/13-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=456192&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(456 K, 
+  July 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318557&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/13-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=379904&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(380 K, 
+  March 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2012&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318559&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/12actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=12128256&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 MB, 
+  July 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318561&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/12actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2262528&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318563&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/12certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=444928&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(445 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318565&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/12-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=500224&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(500 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318571&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/12-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=438784&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(439 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2011&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318573&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/11actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=10721280&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318577&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/11actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2186240&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318579&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/11certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=516608&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(517 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318581&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/11-mc-ctrr.xls&quot; type=&quot;application/vnd.ms-excel; length=426496&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(426 K, 
+  August 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318583&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/11-ofmc-atv-utv.xls&quot; type=&quot;application/vnd.ms-excel; length=298496&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(298 K, 
+  August 2012)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2010&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318585&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/10actrr.xls&quot; type=&quot;application/vnd.ms-excel; length=10654720&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318587&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/10actrr-evap.xls&quot; type=&quot;application/vnd.ms-excel; length=2336768&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318591&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/10certified-models.xls&quot; type=&quot;application/vnd.ms-excel; length=320512&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(321 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318595&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/10-final-mc-ctrr-01-26-11.csv&quot; type=&quot;text/csv; length=225196&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(225 K, 
+  January 26, 2011)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318603&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/10-final-ofmc-atv-ctrr-01-26-11.csv&quot; type=&quot;text/csv; length=163279&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(163 K, 
+  January 26, 2011)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2009&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318607&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09actrr.csv&quot; type=&quot;text/csv; length=4344039&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318611&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09actrr-evap.csv&quot; type=&quot;text/csv; length=1089410&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318613&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09certified-models.csv&quot; type=&quot;text/csv; length=198540&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(199 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318625&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09actrr-late-release-verify.csv&quot; type=&quot;text/csv; length=492746&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (late release) (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(493 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318615&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09actrr-evap-late-release-verify.csv&quot; type=&quot;text/csv; length=89085&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (late release) (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(89 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318629&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09certified-models-late-release-verify.csv&quot; type=&quot;text/csv; length=15723&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (late release) (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2005)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318635&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09mc-ctrr-02-01-10.csv&quot; type=&quot;text/csv; length=233338&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (late release) (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(233 K, 
+  February 1, 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318639&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09ofmc-atv-utv-02-16-10.csv&quot; type=&quot;text/csv; length=140696&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain, Utility and Recreational Vehicles Test Result Report Data (late release) (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(141 K, 
+  February 16, 2010)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318643&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09mc-ctrr_072109.zip&quot; type=&quot;application/zip; length=116616&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(117 K, 
+  July 21, 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318645&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/09ofmc-atv-snowmobile_072109.zip&quot; type=&quot;application/zip; length=161473&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle, All-Terrain and Recreational Vehicles Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(161 K, 
+  July 21, 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2008&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318965&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/08actrr.csv&quot; type=&quot;text/csv; length=4663288&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318967&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/08actrr-evap.csv&quot; type=&quot;text/csv; length=1119046&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318969&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/08certified-models.csv&quot; type=&quot;text/csv; length=210519&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(211 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2005)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318971&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/08mc-ctrr_050709.zip&quot; type=&quot;application/zip; length=102520&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 K, 
+  May 7, 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318973&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/08ofmc-atv_052109.zip&quot; type=&quot;application/zip; length=169799&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle/All-Terrain Vehicle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(170 K, 
+  May 21, 2009)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2007&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318979&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07actrr.csv&quot; type=&quot;text/csv; length=4811444&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318981&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07actrr-evap.csv&quot; type=&quot;text/csv; length=1208196&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318985&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07certified-models.csv&quot; type=&quot;text/csv; length=245672&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(246 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2005)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318987&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07mc-ctrr_013008.zip&quot; type=&quot;application/zip; length=82741&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(83 K, 
+  January 30, 2008)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318991&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07ofmc-ctrr_013008.zip&quot; type=&quot;application/zip; length=15533&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 K, 
+  January 30, 2008)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318993&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/07atv-ctrr_013008.zip&quot; type=&quot;application/zip; length=44856&quot; class=&quot;file-link&quot;&gt;Certified All-Terrain Vehicle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(45 K, 
+  January 30, 2008)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2006&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318995&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/06actrr.csv&quot; type=&quot;text/csv; length=4820684&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318997&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/06actrr-evap.csv&quot; type=&quot;text/csv; length=1289129&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318999&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/06certified-models.csv&quot; type=&quot;text/csv; length=230624&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(231 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2005)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319001&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/06mc-ctrr.txt&quot; type=&quot;text/plain; length=36888&quot; class=&quot;file-link&quot;&gt;Certified Highway Motorcycle Test Result Report Data (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(37 K, 
+  March 29, 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319003&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/06atv-ctrr.txt&quot; type=&quot;text/plain; length=71122&quot; class=&quot;file-link&quot;&gt;Certified Off-Road Motorcycle/All-Terrain Vehicle Test Result Report Data (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(71 K, 
+  March 29, 2007)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2005&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319009&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05cert_testresults.zip&quot; type=&quot;application/zip; length=1210185&quot; class=&quot;file-link&quot;&gt;Vehicle and Motorcycle Certification Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  July 21,2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/certified-vehicle-test-result-condensed-report&quot;&gt;Certified Vehicle Test Result-Condensed Report&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/sites/production/files/2016-09/05cert_testresults.zip&quot;&gt;Certified Vehicle Test Result: DaimlerChrysler, Ford, General Motors, Honda, and Toyota (ZIP) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, July 21, 2005)&lt;/span&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/certified-vehicle-test-result-daimlerchrysler-ford-general-motors&quot;&gt;Certified Vehicle Test Result: DaimlerChrysler, Ford, General Motors, Honda, and Toyota-Condensed Report &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319163&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05minor_mfr_ld_testresults_full.zip&quot; type=&quot;application/zip; length=645329&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result for Other Manufacturers (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(645 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/certified-vehicle-test-result-other-manufacturers&quot;&gt;Certified Vehicle Test Result for Other Manufacturers&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319013&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05actrr.csv&quot; type=&quot;text/csv; length=5174760&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319175&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05certified-models.csv&quot; type=&quot;text/csv; length=246760&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(247 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319015&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05actrr-evap.csv&quot; type=&quot;text/csv; length=1238219&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/certified-vehicle-model-report&quot;&gt;Certified Vehicle Model Report &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2005)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319017&quot; class=&quot;file file-document file-application-vndms-excel&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05motorcycles_testresults.xls&quot; type=&quot;application/vnd.ms-excel; length=151552&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (XLS)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(152 K, 
+  July 21, 2005)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319019&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/05m.zip&quot; type=&quot;application/zip; length=1061129&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  November 4, 2004)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2004&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319021&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/04actrr.csv&quot; type=&quot;text/csv; length=5349633&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319025&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/04actrr-evap.csv&quot; type=&quot;text/csv; length=1106654&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319027&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/04certified-models.csv&quot; type=&quot;text/csv; length=171329&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(171 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2004) &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319031&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/04m.txt&quot; type=&quot;text/plain; length=148720&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(149 K, 
+  September 30, 2003)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2003&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319033&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/03actrr.csv&quot; type=&quot;text/csv; length=4394480&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319035&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/03actrr-evap.csv&quot; type=&quot;text/csv; length=915598&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(916 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319039&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/03certified-models.csv&quot; type=&quot;text/csv; length=159665&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(160 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-certified-vehicle-test-result-report-content-description&quot;&gt;Certified Vehicle Test Result Report Content Description (2003) &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319047&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/03m.txt&quot; type=&quot;text/plain; length=185609&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(186 K, 
+  November 18, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2002&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319051&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/02actrr.csv&quot; type=&quot;text/csv; length=3113220&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319053&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/02actrr-evap.csv&quot; type=&quot;text/csv; length=714255&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(714 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319055&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/02certified-models.csv&quot; type=&quot;text/csv; length=111219&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(111 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319059&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/02format.txt&quot; type=&quot;text/plain; length=9432&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 K, 
+  January 24, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319057&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/02m.txt&quot; type=&quot;text/plain; length=240897&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(241 K, 
+  January 24, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2001&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319063&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/01actrr.csv&quot; type=&quot;text/csv; length=2989209&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 MB, 
+   March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319067&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/01actrr-evap.csv&quot; type=&quot;text/csv; length=714807&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(715 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319071&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/01certified-models.csv&quot; type=&quot;text/csv; length=107542&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(108 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319075&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/01format.txt&quot; type=&quot;text/plain; length=9798&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 K, 
+  January 22, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319077&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/01m.txt&quot; type=&quot;text/plain; length=216951&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(217 K, 
+  February 6, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;2000&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319081&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/00actrr.csv&quot; type=&quot;text/csv; length=3666689&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319087&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/00actrr-evap.csv&quot; type=&quot;text/csv; length=704458&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(704 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319089&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/00certified-models.csv&quot; type=&quot;text/csv; length=121600&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(122 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319091&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/00format.txt&quot; type=&quot;text/plain; length=9999&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 K, 
+  January 22, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/compliance-and-fuel-economy-data/general-definitions-abbreviations&quot;&gt;General - Definitions of Abbreviations &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319095&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/00m.txt&quot; type=&quot;text/plain; length=205623&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(206 K, 
+  January 6, 2002)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1999&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319099&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/99actrr.csv&quot; type=&quot;text/csv; length=4459172&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319107&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/99actrr-evap.csv&quot; type=&quot;text/csv; length=696340&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Evaporative-Only (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(696 K, 
+   March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-319109&quot; class=&quot;file file-document file-text-csv&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/99certified-models.csv&quot; type=&quot;text/csv; length=107417&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Models (CSV)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(107 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/sites/production/files/2016-09/9899layt.txt&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 K, July 25, 2000)&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-319119&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/99m.txt&quot; type=&quot;text/plain; length=189367&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(189 K, 
+  July 25, 2000)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1998&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318835&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/98rpt.zip&quot; type=&quot;application/zip; length=61030&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(61 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318831&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/9899layt.txt&quot; type=&quot;text/plain; length=9999&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318819&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/98db.zip&quot; type=&quot;application/zip; length=91170&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(91 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318821&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/98m.txt&quot; type=&quot;text/plain; length=162916&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(163 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1997&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318795&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/97rpt.zip&quot; type=&quot;application/zip; length=112121&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(112 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318797&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/97layout.txt&quot; type=&quot;text/plain; length=7571&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Content Description (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318805&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/97db.zip&quot; type=&quot;application/zip; length=72448&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report Data (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(72 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318811&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/97m.txt&quot; type=&quot;text/plain; length=154560&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(155 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1996&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318791&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/96rpt-ld.zip&quot; type=&quot;application/zip; length=89050&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(89 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318793&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/96mreg.txt&quot; type=&quot;text/plain; length=126385&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report (TXT)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(126 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1995&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318785&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/95rpt-ld.zip&quot; type=&quot;application/zip; length=57797&quot; class=&quot;file-link&quot;&gt;Certified Vehicle Test Result Report (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(58 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318787&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/95mreg.txt&quot; type=&quot;text/plain; length=125834&quot; class=&quot;file-link&quot;&gt;Certified Motorcycle Test Result Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(126 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1994&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318683&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/94rpt.zip&quot; type=&quot;application/zip; length=25055&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(25 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+					&lt;li&gt;&lt;span id=&quot;file-318687&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/94rpt-ld.zip&quot; type=&quot;application/zip; length=58924&quot; class=&quot;file-link&quot;&gt;Fuel Economy Test Car List (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1993&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318679&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/93rpt.zip&quot; type=&quot;application/zip; length=110593&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(111 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1992&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318677&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/92rpt.zip&quot; type=&quot;application/zip; length=103068&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1991&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318675&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/91rpt.zip&quot; type=&quot;application/zip; length=105757&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1990&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318673&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/90rpt.zip&quot; type=&quot;application/zip; length=102907&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1989&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318671&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/89rpt.zip&quot; type=&quot;application/zip; length=88568&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(89 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1988&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318669&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/88rpt.zip&quot; type=&quot;application/zip; length=72532&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(73 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1987&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318667&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/87rpt.zip&quot; type=&quot;application/zip; length=95386&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(95 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1986&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318665&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/86rpt.zip&quot; type=&quot;application/zip; length=91804&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(92 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1985&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318663&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/85rpt.zip&quot; type=&quot;application/zip; length=85588&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(86 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1984&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318661&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/84rpt.zip&quot; type=&quot;application/zip; length=59245&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1983&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318657&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/83rpt.zip&quot; type=&quot;application/zip; length=55414&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(55 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1982&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318651&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/82rpt.zip&quot; type=&quot;application/zip; length=52598&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(53 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1981&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318655&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/81rpt.zip&quot; type=&quot;application/zip; length=35249&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1980&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318649&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/80rpt.zip&quot; type=&quot;application/zip; length=38452&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(38 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;1979&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;
+				&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;span id=&quot;file-318647&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-09/79rpt.zip&quot; type=&quot;application/zip; length=33570&quot; class=&quot;file-link&quot;&gt;Certified Test Result Report Files (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Mon, 19 Sep 2016 17:54:32 +0000</pubDate>
+ <dc:creator>cbooker</dc:creator>
+ <guid isPermaLink="false">160655 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 12:15:55, expires @ 2017-01-27 12:15:55, lifetime 1 day -->

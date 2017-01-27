@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/62077/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA in South Dakota</title>
+    <link>https://www.epa.gov/feed/62077/rss.xml</link>
+    <description>Updated EPA in South Dakota content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/62077/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Environmental Info for South Dakota</title>
+    <link>https://www.epa.gov/sd/environmental-info-south-dakota</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Air&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Water&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h3&gt;Air in South Dakota&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.airnow.gov/index.cfm?action=airnow.local_state&amp;amp;stateid=43&amp;amp;mapcenter=0&amp;amp;tabs=0&quot;&gt;Real-Time Air Pollution Data (AirNow) for South Dakota&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/myenv/MyAir.html?minx=-106.34766&amp;amp;miny=42.19597&amp;amp;maxx=-94.15283&amp;amp;maxy=46.21025&amp;amp;ve=6,44.43613,-100.23053&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=South%20Dakota&quot;&gt;MyAir for South Dakota&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/approved-sips/approved-sips-region-8&quot;&gt;Approved State Implementation Plans (SIPs) in Region 8&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/airquality/urbanair/sipstatus/reports/sd_infrabypoll.html&quot;&gt;Status of SIP Infrastructure Requirements for South Dakota&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/caa-permitting/caa-permitting-south-dakota&quot;&gt;Clean Air Act Permitting in South Dakota&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h3&gt;Water in South Dakota&lt;/h3&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/myenv/MyWater.html?minx=-106.34766&amp;amp;miny=42.19597&amp;amp;maxx=-94.15283&amp;amp;maxy=46.21025&amp;amp;ve=6,44.43613,-100.23053&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=South%20Dakota&quot;&gt;MyWater for South Dakota&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/region8-waterops&quot;&gt;Drinking Water Program&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/uic/underground-injection-control-epa-region-8-co-mt-nd-sd-ut-and-wy&quot;&gt;Underground Injection Control in Region 8&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/region8/npdes-permits-document-download&quot;&gt;Wastewater Permits (NPDES) in Region 8&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 16 May 2016 18:41:06 +0000</pubDate>
+ <dc:creator>wcooper</dc:creator>
+ <guid isPermaLink="false">149693 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Cleanups in South Dakota</title>
+    <link>https://www.epa.gov/sd/cleanups-south-dakota</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Brownfields&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Superfund&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h3&gt;Brownfields&lt;/h3&gt;
+
+		&lt;p&gt;Brownfields are real property, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant. Cleaning up and reinvesting in these properties protects the environment, reduces blight, and takes development pressures off green spaces and working lands.&lt;/p&gt;
+
+		&lt;p&gt;A &lt;b&gt;Target Brownfields Assessment&lt;/b&gt; (TBA) is a free service the EPA Region 8 Brownfields Team provides to communities to support their eligible brownfields projects. These services include brownfield inventories, area-wide planning, site environmental assessments and investigations, and site cleanup planning.&lt;/p&gt;
+
+		&lt;p&gt;To learn more about brownfields in South Dakota, visit &lt;a href=&quot;/brownfields/brownfields-and-land-revitalization-region-8&quot;&gt;Brownfields and Land Revitalization in Region 8&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h3&gt;Superfund Sites in South Dakota&lt;/h3&gt;
+
+		&lt;p&gt;Superfund is the federal government&#039;s program to clean up the nation&#039;s uncontrolled hazardous waste sites. EPA is committed to ensuring that these hazardous waste sites are cleaned up to protect the environment and the health of all Americans.&lt;/p&gt;
+
+		&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;County&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800585&quot;&gt;Ellsworth Air Force Base &lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Ellsworth Air Force Base&lt;/td&gt;
+					&lt;td&gt;Meade/Pennington&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0801668&quot;&gt;Gilt Edge Mine&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Lead&lt;/td&gt;
+					&lt;td&gt;Lawrence&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800570&quot;&gt;Whitewood Creek&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Whitewood&lt;/td&gt;
+					&lt;td&gt;Lawrence&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0800546&quot;&gt;Williams Pipeline Co. Disposal Pit&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;Sioux Falls&lt;/td&gt;
+					&lt;td&gt;Minnehaha&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Tue, 22 Mar 2016 17:03:07 +0000</pubDate>
+ <dc:creator>wcooper</dc:creator>
+ <guid isPermaLink="false">140987 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about EPA in South Dakota</title>
+    <link>https://www.epa.gov/SD/forms/contact-us-about-epa-south-dakota</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;&lt;a class=&quot;box left&quot; href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your email address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 04 Sep 2014 17:15:26 +0000</pubDate>
+ <dc:creator>wcooper</dc:creator>
+ <guid isPermaLink="false">62079 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:54:12, expires @ 2017-01-26 16:54:12, lifetime 12 hours -->

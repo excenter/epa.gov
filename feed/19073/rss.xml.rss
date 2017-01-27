@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/19073/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA ExpoBox</title>
+    <link>https://www.epa.gov/feed/19073/rss.xml</link>
+    <description>Updated EPA ExpoBox content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/19073/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>About the Exposure Factors Handbook</title>
+    <link>https://www.epa.gov/expobox/about-exposure-factors-handbook</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#about&quot;&gt;Overview &amp;amp; Downloads&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#related&quot;&gt;Related Documents&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#hero&quot;&gt;Peer Reviewed Literature&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;about&quot;&gt;
+		&lt;h2&gt;Exposure Factors Handbook: 2011 Edition&lt;/h2&gt;
+
+		&lt;div class=&quot;slat&quot;&gt;
+			&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=522996&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;EFH Document Cover&quot; height=&quot;207&quot; width=&quot;160&quot; class=&quot;center media-element file-teaser center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-12/efh-cover.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;slat-content&quot;&gt;
+				&lt;p&gt;Get the full &lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=522996&quot;&gt;Exposure Factors Handbook: 2011 Edition&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1436 pp, 22 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;, or click on the cover.  You can also download the &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252#tab-3&quot;&gt;EFH-2011 Final Report by Chapter&lt;/a&gt;.&lt;/p&gt;
+
+				&lt;p&gt;The report background, history, draft versions and peer review comments and response of the report are also available from &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252&quot;&gt;EPA&#039;s Science Inventory: Exposure Factors Handbook 2011 Edition (Final)&lt;/a&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;p&gt;The &lt;em&gt;Exposure Factors Handbook: 2011 Edition&lt;/em&gt; provides statistical information for factors used in assessing exposure among various demographic groups of the population. Information is provided on:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;Intake of water and selected liquids&lt;/li&gt;
+			&lt;li&gt;Non-dietary ingestion factors&lt;/li&gt;
+			&lt;li&gt;Ingestion of soil and dust&lt;/li&gt;
+			&lt;li&gt;Inhalation rates&lt;/li&gt;
+			&lt;li&gt;Dermal exposure factors&lt;/li&gt;
+			&lt;li&gt;Ingestion of fruits, vegetables, meats, dairy products, fats, fish, shellfish, grains, home-produced foods, total dietary intake, and human milk&lt;/li&gt;
+			&lt;li&gt;Activity factors&lt;/li&gt;
+			&lt;li&gt;Consumer products&lt;/li&gt;
+			&lt;li&gt;Building characteristics&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;The &lt;em&gt;Handbook&lt;/em&gt; does not include chemical-specific data or information on physiological parameters that may be needed for exposure assessments involving physiologically based pharmacokinetic (PBPK) modeling.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;related&quot;&gt;
+		&lt;div class=&quot;box multi&quot;&gt;
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;div class=&quot;row cols-4&quot;&gt;
+					&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:88px;&quot;&gt;&lt;img alt=&quot;Cover of the Highlights of the Exposure Factors Handbook (2011 Final Report)&quot; height=&quot;114&quot; width=&quot;88&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/high_efh_thumb.jpg&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=221023&quot;&gt;Highlights of the Exposure Factors Handbook (2011 Final Report)&lt;/a&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:81px;&quot;&gt;&lt;img alt=&quot;Cover of the Child-Specific Exposure Factors Handbook&quot; height=&quot;104&quot; width=&quot;81&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/csefh_thumb.jpg&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=199243&quot;&gt;Child-Specific Exposure Factors Handbook (2008 Final Report)&lt;/a&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:81px;&quot;&gt;&lt;img alt=&quot;Cover of the Highlights of the Child Specific Exposure Factors Handbook (2009)&quot; height=&quot;107&quot; width=&quot;81&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/csefh_hilite_thumb.jpg&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=200445&quot;&gt;Highlights of the Child Specific Exposure Factors Handbook (2009)&lt;/a&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:81px;&quot;&gt;&lt;img alt=&quot;Cover for Child-Specific Exposure Scenarios Examples (2014 Final Report)&quot; height=&quot;105&quot; width=&quot;81&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/child_scen_thumb.jpg&quot; /&gt;&lt;/span&gt; &lt;a href=&quot;http://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=262211&quot;&gt;Child-Specific Exposure Scenarios Examples (2014 Final Report)&lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;hero&quot;&gt;
+		&lt;h2&gt;Peer Reviewed Literature&lt;/h2&gt;
+
+		&lt;p&gt;For the development of the Exposure Factors Handbook (2011), EPA used the Health and Environmental Research Online (HERO) database to augment the underlining literature that supported the final assessment.&lt;/p&gt;
+
+		&lt;p&gt;See: &lt;a href=&quot;http://hero.epa.gov/index.cfm/project/page/project_id/1854&quot;&gt;Exposure Factors Handbook (2011) HERO Project page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;div&gt;
+			&lt;div class=&quot;box multi related-info left&quot;&gt;
+				&lt;h2 class=&quot;pane-title&quot;&gt;What is HERO?&lt;/h2&gt;
+
+				&lt;div class=&quot;pane-content&quot;&gt;
+					&lt;p&gt;&lt;a href=&quot;http://hero.epa.gov&quot;&gt;HERO is a searchable database&lt;/a&gt; of more than 1.6 million scientific studies and other references used to develop EPA assessments aimed at understanding the health and environmental effects of pollutants and chemicals.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;history&quot;&gt;
+		&lt;h2&gt;History&lt;/h2&gt;
+
+		&lt;div id=&quot;tab1&quot;&gt;Some content on this page requires JavaScript in order to be viewed. If you wish to view content on this page, you must have JavaScript enabled.&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 04 Dec 2015 15:09:52 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">128257 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Expo-Box: Submit Tool Information</title>
+    <link>https://www.epa.gov/expobox/forms/expo-box-submit-tool-information</link>
+    <description>&lt;ul class=&quot;tabs&quot;&gt;&lt;li&gt;&lt;a href=&quot;/expobox/forms/expo-box-contact-us&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;/expobox/forms/expo-box-submit-tool-information&quot;&gt;Submit Tool Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA-Expo-Box is always interested in finding new exposure assessment tools to add to its collection. You can help in this process by following these easy steps:&lt;/p&gt;
+
+&lt;p&gt;First, tell us a bit about the exposure assessment tool you think should be a part of the EPA-Expo-Box.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 11 Nov 2015 15:24:32 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">125683 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 19</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-19</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196459&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter19.pdf&quot; type=&quot;application/pdf; length=779852&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 19 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(58 pp, 780 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:27:42 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115101 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 18</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-18</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196455&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter18.pdf&quot; type=&quot;application/pdf; length=110011&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 18 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 110 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:26:23 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115097 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 17</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-17</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196453&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter17.pdf&quot; type=&quot;application/pdf; length=813380&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 17 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(57 pp, 813 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:25:08 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115093 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 16</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-16</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196449&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter16.pdf&quot; type=&quot;application/pdf; length=5222144&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 16 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(204 pp, 5 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:23:46 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115091 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 15</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-15</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196445&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter15.pdf&quot; type=&quot;application/pdf; length=662496&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 15 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 pp, 662 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:22:10 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115085 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 14</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-14</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196443&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter14.pdf&quot; type=&quot;application/pdf; length=600836&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 14 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 601 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:21:04 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115081 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Exposure Factors Handbook Chapter 13</title>
+    <link>https://www.epa.gov/expobox/exposure-factors-handbook-chapter-13</link>
+    <description>&lt;p&gt;Exposure Factors Handbook: 2011 Edition. The Exposure Factors Handbook provides information on various physiological and behavioral factors commonly used in assessing exposure to environmental chemicals.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-196441&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-09/documents/efh-chapter13.pdf&quot; type=&quot;application/pdf; length=1341704&quot; class=&quot;file-link&quot;&gt;Exposure Factors Handbook Chapter 13 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Sep 2015 15:19:55 +0000</pubDate>
+ <dc:creator>donghai_yu</dc:creator>
+ <guid isPermaLink="false">115077 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:30:53, expires @ 2017-01-26 05:30:53, lifetime 12 hours -->

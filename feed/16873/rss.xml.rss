@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/16873/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Registration</title>
+    <link>https://www.epa.gov/feed/16873/rss.xml</link>
+    <description>Updated Pesticide Registration content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/16873/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Mixtures Equation Pilot Program to Reduce Animal Testing</title>
+    <link>https://www.epa.gov/pesticide-registration/mixtures-equation-pilot-program-reduce-animal-testing</link>
+    <description>&lt;p&gt;Under EPA’s initiative to develop non-animal alternatives for acute toxicity testing (see &lt;a href=&quot;https://www.regulations.gov/document?D=EPA-HQ-OPP-2016-0093-0003&quot;&gt;Letter to Stakeholders on EPA Office of Pesticide Programs&#039; Goal to Reduce Animal Testing&lt;/a&gt;), we are announcing the start of a pilot program to evaluate the usefulness and acceptability of a mathematical tool (the GHS Mixtures Equation), which is used in the Globally Harmonized System of Classification and Labeling of Chemicals (GHS). The goal of the pilot is to evaluate the utility and acceptability of the GHS Mixtures Equation as an alternative to animal oral and inhalation toxicity studies for pesticide formulations.&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#submitting&quot;&gt;Instructions for submitting data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guide&quot;&gt;General guide for GHS mixtures equation pilot submissions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#pilot&quot;&gt;GHS Pilot program information resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;submitting&quot; name=&quot;submitting&quot;&gt;&lt;/a&gt;Instructions for Submitting Data&lt;/h2&gt;
+
+&lt;p&gt;Under this pilot, registrants have the option of submitting mathematical calculations (the GHS Mixtures Equation data), paired with the required acute oral and inhalation acute toxicity data, to support the evaluation of pesticide toxicity. Guidance on the GHS Mixtures Equation is available in the &lt;a href=&quot;https://echa.europa.eu/documents/10162/13562/clp_en.pdf&quot;&gt;Guidance on the Application of the CLP Criteria (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(644 pp, 9.46MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; document (pgs. 250-257) and general guidance on submissions is provided below. Registrants interested in providing data to the Agency using the GHS equation for acute oral and inhalation toxicity estimates, may do so using the following methods and submission routes:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;h3&gt;For Submissions Related to Actions Related to EPA Product Registrations:&lt;/h3&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The GHS Mixtures Equation data may be attached to an incoming application for product registration or amendment that already has acute toxicity data. In the application cover letter, include the phrase “GHS Mixtures Equation Pilot” in the subject line. &lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-chapter-21-directions-submitting-applications&quot;&gt;Chapter 21 of the Pesticide Registration Manual provides instructions on application submissions&lt;/a&gt;. &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;h3&gt;For Submissions Not Related to a Current Registration Action:&lt;/h3&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;You may submit the GHS Mixtures Equation data paired with data on acute inhalation or acute oral toxicity, for formulations under the pilot even if there is no incoming action at this time. For these, your submission will follow a different route: &lt;/p&gt;
+
+&lt;blockquote&gt;By US Postal Service&lt;br /&gt;
+	Attn: Jenny Tao&lt;br /&gt;
+	U.S. Environmental Protection Agency&lt;br /&gt;
+	Office of Pesticide Programs (7510P)&lt;br /&gt;
+	1200 Pennsylvania Avenue, N.W.&lt;br /&gt;
+	Washington DC 20460-0001&lt;br /&gt;&lt;br /&gt;
+	By courier mail (e.g. UPS, FedEx)&lt;br /&gt;
+	Attn: Jenny Tao&lt;br /&gt;
+	Office of Pesticide Programs (7510P)&lt;br /&gt;
+	One Potomac Yard&lt;br /&gt;
+	2777 S. Crystal Drive&lt;br /&gt;
+	Arlington, VA 22202&lt;/blockquote&gt;
+
+
+
+&lt;p&gt;The Agency recommends that documents containing Confidential Business Information (CBI) be inserted in a separate envelope marked &#039;Confidential Business Information&#039; inside the mailing envelope.&lt;/p&gt;
+
+&lt;p&gt;Registrants also have the option of sending electronic submissions to &lt;a href=&quot;mailto:GHSEquations@epa.gov&quot;&gt;GHSEquations@epa.gov&lt;/a&gt; with “GHS Mixtures Equation Pilot” in the subject line. (Note: Transmittal of CBI over email is not encouraged.) &lt;/p&gt;
+
+&lt;p&gt;Any information clearly marked as CBI will be treated as CBI once received by the Agency.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;guide&quot; name=&quot;guide&quot;&gt;&lt;/a&gt;General Guide for GHS Mixtures Equation Pilot Submissions:&lt;/h2&gt;
+
+&lt;p&gt;GHS Mixtures Equation data submissions should be paired with &lt;em&gt;in vivo&lt;/em&gt; animal studies oral and/or inhalation acute toxicity data. Specifically, submissions should contain a table or spreadsheet that includes the following information to support the EPA acute inhalation or acute oral toxicity category for the calculated value based on the mixtures equation:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Formulation identity (including chemical name, CAS numbers, % by weight for all active and inert ingredients)&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;In vivo&lt;/em&gt; LD50 and LC50 values for the formulation &amp;amp; associated MRID nos.&lt;/li&gt;
+	&lt;li&gt;Data source(s)/citations for each LD50 and LC50 value for the individual ingredients and whether the data has previously been reviewed by the Agency&lt;/li&gt;
+	&lt;li&gt;Calculated value(s) for each formulation&lt;/li&gt;
+	&lt;li&gt;EPA category for the &lt;em&gt;in vivo&lt;/em&gt; study(ies)&lt;/li&gt;
+	&lt;li&gt;GHS category for the &lt;em&gt;in vivo&lt;/em&gt; study(ies)&lt;/li&gt;
+	&lt;li&gt;EPA category for the calculated value based on the mixtures equation&lt;/li&gt;
+	&lt;li&gt;GHS category for the calculated value based on the mixtures equation&lt;/li&gt;
+	&lt;li&gt;A comparison between the calculated endpoints (LD50 and LC50 values) obtained using the GHS Mixtures Equation and the endpoints obtained from animal testing studies&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Use this example of a &lt;span id=&quot;file-340231&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-12/example_ghs_pilot.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=12162&quot; class=&quot;file-link&quot;&gt;submission template (XLSX)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 12 K)&lt;/span&gt;&lt;/span&gt;
+ as a guide to formatting data.&lt;/p&gt;
+
+&lt;p&gt;GHS Mixtures Equation data that have been previously submitted to other regulatory authorities may be resubmitted to EPA in the original submission format. Upon submission, each study will be associated with an MRID for tracking purposes. GHS Mixtures Equation data are not required to have GLP statements. &lt;/p&gt;
+
+&lt;p&gt;Any questions about the GHS Mixtures Equation pilot program can be sent to: &lt;a href=&quot;mailto:GHSEquations@epa.gov&quot;&gt;GHSEquations@epa.gov&lt;/a&gt;, with “Question” in the subject line.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;pilot&quot; name=&quot;pilot&quot;&gt;&lt;/a&gt;GHS Pilot Program Information Resources:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/pesticide-registration/data-requirements-pesticide-registration&quot;&gt;Data Requirements for Pesticide Registration&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-registration/pesticide-registration-policy-and-guidance&quot;&gt;Pesticide Registration Policy and Guidance&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/strategic-vision-adopting-21st-century-science&quot;&gt;Strategic Vision for Adopting 21st Century Science Methodologies&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pesticide-labels/pesticide-labels-and-ghs-comparison-and-samples&quot;&gt;Pesticide Labels and GHS: Comparison and Samples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 20 Dec 2016 17:43:49 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">167563 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Spinetoram Petition and Response</title>
+    <link>https://www.epa.gov/pesticide-registration/spinetoram-petition-and-response</link>
+    <description>&lt;p&gt;EPA has approved the extension of the exclusive use of data for spinetoram as requested in the attached documents. The exclusive use period now will expire September 28, 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pesticide-registration/minor-uses-and-grower-resources&quot;&gt;Find more information about exclusive use periods&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-338495&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/49806001.pdf&quot; type=&quot;application/pdf; length=3349851&quot; class=&quot;file-link&quot;&gt;Request to extend exclusive use data period for spinetoram  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-338497&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/49940501.pdf&quot; type=&quot;application/pdf; length=4237264&quot; class=&quot;file-link&quot;&gt;Addendum to exclusive use period request for spinetoram (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-338501&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/review-of-request-for-extension-for-spinetoram.pdf&quot; type=&quot;application/pdf; length=821487&quot; class=&quot;file-link&quot;&gt;EPA review of request for extension of exclusive use period for spinetoram (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 821 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-338503&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/epa-response-letter-to-spinetoram-extension-request.pdf&quot; type=&quot;application/pdf; length=798147&quot; class=&quot;file-link&quot;&gt;EPA response to request for extension of exclusive use period for spinetoram (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 798 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 13 Dec 2016 20:47:46 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">167059 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide Registration Manual: Example Letter for Registration or Amendment Applications Document</title>
+    <link>https://www.epa.gov/pesticide-registration/pesticide-registration-manual-example-letter-registration-or-amendment</link>
+    <description>&lt;p&gt;This example letter can be used in submitting pesticide registration or amendment applications.&lt;/p&gt;
+
+&lt;h2&gt;Mailing Information&lt;/h2&gt;
+
+&lt;h3&gt;Courier Address:&lt;/h3&gt;
+
+&lt;p&gt;Document Processing Desk (Distribution Code)&lt;br /&gt;
+	Attn: (enter EPA Contact if known),Office of Pesticide Programs (Mail Code)&lt;br /&gt;
+	U. S. Environmental Protection Agency&lt;br /&gt;
+	Rm S-4900, One Potomac Yard&lt;br /&gt;
+	2777 South Crystal Drive&lt;br /&gt;
+	Arlington, VA 22202-4501&lt;/p&gt;
+
+&lt;h3&gt;US Postal Service&lt;/h3&gt;
+
+&lt;p&gt;Document Processing Desk (Distribution Code)&lt;br /&gt;
+	Attn: (enter EPA Contact if known),&lt;br /&gt;
+	Office of Pesticide Programs (Mail Code)&lt;br /&gt;
+	U. S. Environmental Protection Agency&lt;br /&gt;
+	1200 Pennsylvania Avenue, N.W.&lt;br /&gt;
+	Washington, DC 20460&lt;/p&gt;
+
+&lt;h2&gt;Sample Letter&lt;/h2&gt;
+
+&lt;p&gt;Ladies and Gentlemen:&lt;/p&gt;
+
+&lt;p&gt;Subject:&lt;/p&gt;
+
+&lt;blockquote&gt;Application for New Product Registration or Product Amendment&lt;br /&gt;
+	(Product Name)&lt;br /&gt;
+	EPA Reg. No. – (enter company number – if no number, see directions to get number)&lt;br /&gt;
+	(Company Name and full address)&lt;/blockquote&gt;
+
+&lt;blockquote&gt; &lt;/blockquote&gt;
+
+&lt;p&gt;Please find enclosed an application for registration of the (Company Name) pesticide produce (Product Name). This product contains the active ingredients (xxx). This is an application for a new Product Registration or amendment. (&lt;em&gt;If this is an application associated with PRIA, please include the proposed PRIA code and the fee associated with that code&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;p&gt;This application includes the following enclosed documents (&lt;em&gt;include only the forms that are necessary for your application/amendment&lt;/em&gt;):&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;An Application Form (EPA Form 8570-1).&lt;/li&gt;
+	&lt;li&gt;Transmittal Document.&lt;/li&gt;
+	&lt;li&gt;Five (5) copies of the product label.&lt;/li&gt;
+	&lt;li&gt;Two (2) signed original Basic Confidential Statements of Formula (EPA Form 8570-4).&lt;/li&gt;
+	&lt;li&gt;Formulator’s Exemption Form (EPA Form 8570-27).&lt;/li&gt;
+	&lt;li&gt;Citation of Data Form (EPA Form 8570-34).&lt;/li&gt;
+	&lt;li&gt;Data Matrix Table (EPA Form 8570-35).&lt;/li&gt;
+	&lt;li&gt;List of Data Submitters receiving Offer to Pay Letters&lt;/li&gt;
+	&lt;li&gt;Summary of the Physical/Chemical Properties (EPA Form 8570-36)&lt;/li&gt;
+	&lt;li&gt;Self-Certification Statement for Physical/Chemical Properties (EPA Form 8570-37)&lt;/li&gt;
+	&lt;li&gt;Three (3) copies of each study identified on the data matrix and transmittal documents.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;You may want to provide the purpose of your application/amendment in the cover letter, including identifying some of the unique characteristics of your application. This could include identifying the product registration number of substantially similar or identical product to your proposed product, the use rates, new uses, pH changes, or one or more of the following examples listed below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Relationship to any previous submission(s):&lt;/strong&gt;&lt;br /&gt;
+	(Describe connection to other, earlier submissions. Include original product you are citing for this me-too submission, including EPA Registration Number and Product Name.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Confidential Statement of Formula:&lt;/strong&gt;&lt;br /&gt;
+	(Describe any unusual sources or raw materials or percent numbers on the CSF. The dye information is explained later in this letter.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alternate Test Material Names:&lt;/strong&gt;&lt;br /&gt;
+	(Enter all alternate sample or brand names that are listed in the attached studies or accompanying info that are the same formulation as the Brand Name. Example: Efficacy Test Material RLD 523 and Product Chemistry Test Material ABC 234 are the same as Product Name.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Chemistry:&lt;/strong&gt;&lt;br /&gt;
+	(Describe method for supporting product chemistry requirements, including study submission for manufacturing process while using EPA Form 8570-36 + 37 for physical/chemical properties. While the registrant is required to run storage stability and container stability studies by GLP, such studies used to support non-public health products do not normally need to be submitted unless requested by EPA.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Acute Toxicity:&lt;/strong&gt;&lt;br /&gt;
+	(Indicate you are citing existing acute toxicology studies and that offer to pay letters were sent to data owners identified for the active ingredients. Include the list of companies that received offer to pay by certified mail. &lt;a href=&quot;/pesticide-registration/pesticide-data-submitters-list-pdsl&quot;&gt;View list of data owners&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efficacy:&lt;/strong&gt;&lt;br /&gt;
+	(Describe efficacy test methods your product was tested against for public health claims. Efficacy studies for non-public health microorganisms do not need to be submitted unless requested by EPA.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Identification of Microorganisms:&lt;/strong&gt;&lt;br /&gt;
+	(Describe public health microorganisms tested, including their ATCC identification Numbers.)&lt;/p&gt;
+
+&lt;p&gt;General Labeling:&lt;br /&gt;
+	(Describe label examples where wording was previously approved by EPA – reference original registration on which this product is based. Discuss unusual claims and why they should be acceptable.&lt;/p&gt;
+
+&lt;p&gt;Fragrances on CSFs:&lt;br /&gt;
+	(If applicable, identify any previously approved registrations using the same fragrance, include EPA Registration Number. If new, have fragrance supplier submit complete ingredient list and percentages to EPA either separately or in a sealed envelope with the application. A separate submission needs to be coordinated with Fragrance Supplier so registration and fragrance ingredient packages arrive close together at EPA.)&lt;/p&gt;
+
+&lt;p&gt;Please call me at (area code) xxx-xxxx if you have any questions regarding this submission.&lt;/p&gt;
+
+&lt;blockquote&gt;Sincerely,&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+	Name, Title&lt;br /&gt;
+	Company&lt;br /&gt;
+	Phone number&lt;br /&gt;
+	Fax number&lt;br /&gt;
+	E-mail address&lt;/blockquote&gt;
+</description>
+     <pubDate>Mon, 07 Nov 2016 12:07:57 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">164711 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Antimicrobial Data Requirements Training Videos and Related Materials</title>
+    <link>https://www.epa.gov/pesticide-registration/antimicrobial-data-requirements-training-videos-and-related-materials</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;More Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/pesticide-registration/epa-data-requirements-registration-antimicrobial-pesticides-part-158w&quot;&gt;Data Requirements for Antimicrobial Pesticides&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;/pesticide-registration/antimicrobial-pesticide-registration&quot;&gt;Antimicrobial Pesticide Registration&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In 2013, EPA revised the data requirements for antimicrobial pesticides in 40 CFR Part 158W. The following training videos provide guidance on these new data requirements to help the public and the pesticide industry better understand the pesticide registration process and make the process more efficient and transparent.&lt;/p&gt;
+
+&lt;div&gt;On this page:
+	&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#videos&quot;&gt;Training Videos&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;#presentation&quot;&gt;Presentation Slides and Transcripts&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a id=&quot;videos&quot; name=&quot;videos&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Videos&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Introduction and Overview to 158W Training Series&lt;/strong&gt;: Introduction to EPA training series on 40 CFR Part 158W Data Requirements for Antimicrobial Pesticides final rule.&lt;iframe height=&quot;340&quot; name=&quot;Overview to 158W Training Series&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/LSp5DmydiN4&quot; width=&quot;400&quot; id=&quot;Overview to 158W Training Series&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental Fate and Transport 158W Training&lt;/strong&gt;: Broad overview of environmental fate and transport processes including chemical degradation, microbial degradation, intermedia transport, and wastewater treatment plant fate. Presentation also discusses environmental fate data requirements.&lt;iframe height=&quot;340&quot; name=&quot;Environmental Fate and Transport 158W Training&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/cf30LVJCdj8&quot; width=&quot;400&quot; id=&quot;Environmental Fate and Transport 158W Training&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mammalian Toxicology Data Requirements for Antimicrobial Pesticides&lt;/strong&gt;: Discussion of mammalian toxicology data requirements for antimicrobial pesticides under 158W including how to determine the data requirements, examples for direct food, indirect food, and non-food uses, test notes and alternative approaches to fulfilling these data requirements.&lt;iframe height=&quot;340&quot; name=&quot;Toxicology Data Requirements for Antimicrobial Pesticides&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/bvIupcjDolY&quot; width=&quot;400&quot; id=&quot;Toxicology Data Requirements for Antimicrobial Pesticides&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antimicrobial Pesticides used in Cooling Water Systems&lt;/strong&gt;: Antimicrobial pesticide data requirements for cooling water systems including types of systems, modeling ecological exposure, evaluating dietary exposure and effects on aquatic organisms.&lt;iframe height=&quot;340&quot; name=&quot;Cooling Water Systems&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/Wfj9f71MhnY&quot; width=&quot;400&quot; id=&quot;Cooling Water Systems&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wood Preservation and Associated Antimicrobial Pesticide Data Requirements:&lt;/strong&gt; Antimicrobial pesticide data requirements for wood preservative uses, including environmental fate, human health and ecological effects. Presentation also includes discussion of the wood preservation process.&lt;iframe height=&quot;340&quot; name=&quot;Wood Preservation&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/33Hv6rGZ-vM&quot; width=&quot;400&quot; id=&quot;Wood Preservation&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Introduction to Down-the-Drain Assessment for Antimicrobial Pesticides&lt;/strong&gt;: The down-the-drain assessment considers the potential for an antimicrobial pesticide to pass through a waste water treatment facility and potentially expose aquatic organisms and humans. In addition it addresses the potential adverse effects of an antimicrobial pesticide on the microorganisms used in the treatment of the waste water.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe height=&quot;340&quot; name=&quot;Introduction to Down-the-Drain Assessment for Antimicrobial Pesticides&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube-nocookie.com/embed/q1qfDFjvj0w&quot; width=&quot;400&quot; id=&quot;Introduction to Down-the-Drain Assessment for Antimicrobial Pesticides&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;presentation&quot; name=&quot;presentation&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Presentations Slides and Transcripts&lt;/h2&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-308801&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/introduction_and_overview_to_158w_training_series.pdf&quot; type=&quot;application/pdf; length=836678&quot; class=&quot;file-link&quot;&gt;Introduction and Overview to 158W Training Series Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 837 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309331&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/158w-transcript.pdf&quot; type=&quot;application/pdf; length=408587&quot; class=&quot;file-link&quot;&gt;Introduction and Overview to 158W Training Series Transcript  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 409 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308809&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/environmental_fate_and_transport.pdf&quot; type=&quot;application/pdf; length=580482&quot; class=&quot;file-link&quot;&gt;Environmental Fate and Transport 158W Training Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 pp, 580 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309483&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/environmental-fate-and_transport-transcript.pdf&quot; type=&quot;application/pdf; length=143054&quot; class=&quot;file-link&quot;&gt;Environmental Fate and Transport 158W Training Transcript  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 143 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308811&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/mammalian_toxicology_data_requirements_for_antimicrobial_pesticides.pdf&quot; type=&quot;application/pdf; length=333850&quot; class=&quot;file-link&quot;&gt;Mammalian Toxicology Data Requirements for Antimicrobial Pesticides Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 334 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309337&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/toxicology-transcript.pdf&quot; type=&quot;application/pdf; length=392478&quot; class=&quot;file-link&quot;&gt;Mammalian Toxicology Data Requirements for Antimicrobial Pesticides Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 392 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308815&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/antimicrobials_used_in_cooling_water_systems.pdf&quot; type=&quot;application/pdf; length=566058&quot; class=&quot;file-link&quot;&gt;Antimicrobial Pesticides used in Cooling Water Systems Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 566 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309339&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/water-cooling-systems-transcript.pdf&quot; type=&quot;application/pdf; length=194376&quot; class=&quot;file-link&quot;&gt;Antimicrobial Pesticides used in Cooling Water Systems Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 194 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-308817&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/wood_preservation_and_associated_antimicrobial_pesticide_data_requirements.pdf&quot; type=&quot;application/pdf; length=1176365&quot; class=&quot;file-link&quot;&gt;Wood Preservation and Associated Antimicrobial Pesticide Data Requirements Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(41 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-309341&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/wood-preservatives-transript.pdf&quot; type=&quot;application/pdf; length=324237&quot; class=&quot;file-link&quot;&gt;Wood Preservation and Associated Antimicrobial Pesticide Data Requirements Transcript (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 324 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-317679&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/down-the-drain-slides.pdf&quot; type=&quot;application/pdf; length=751294&quot; class=&quot;file-link&quot;&gt;Introduction to Down-the-Drain Assessment for Antimicrobial Pesticides Slides (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 pp, 751 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-317681&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/down-the-drain-script.pdf&quot; type=&quot;application/pdf; length=354754&quot; class=&quot;file-link&quot;&gt;Introduction to Down-the-Drain Assessment for Antimicrobial Pesticides Transcript   (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 355 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 15 Aug 2016 14:22:02 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">157473 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Background on Development of Harmonized Product Chemistry Templates</title>
+    <link>https://www.epa.gov/pesticide-registration/background-development-harmonized-product-chemistry-templates</link>
+    <description>&lt;p&gt;During a U.S./Canada product chemistry workshop held in November 2011, EPA and PMRA noticed harmonization on many, but not all, data/guideline requirements for product-specific data. These differences, as products were reviewed by the respective countries, often created issues during the joint review process. These slides describe the new templates and how they support and streamline product chemistry reviews by multiple agencies.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-288367&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/pmra-epa-harmonized-pc-template-slides.pdf&quot; type=&quot;application/pdf; length=72448&quot; class=&quot;file-link&quot;&gt;Canada’s PMRA and United States’ EPA Harmonized Product Chemistry Templates Presentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 72 K, 
+  June 2, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 26 May 2016 14:38:46 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">150517 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PRN 2016-XX, Draft Guidance for Herbicide Resistance Management Labeling, Education, Training, and Stewardship</title>
+    <link>https://www.epa.gov/pesticide-registration/prn-2016-xx-draft-guidance-herbicide-resistance-management-labeling-education</link>
+    <description>&lt;p&gt;Draft PRN 2016-XX, Guidance for Herbicide Resistance Management Labeling, Education, Training, and Stewardship, applies to herbicides only. Draft PRN 2016-XX communicates the Agency’s current thinking and approach to addressing herbicide-resistant weeds by providing guidance on labeling, education, training, and stewardship for herbicides undergoing registration review or registration (i.e., new herbicide active ingredients, new uses proposed for use on herbicide-resistant crops or other case-specific registration actions).&lt;/p&gt;
+
+&lt;p&gt;Draft PRN 2016-XX provides 11 elements focused on labeling, education, training and stewardship strategies. Herbicides posing the least risk of developing herbicide-resistant weeds will have the fewest resistance management elements, and herbicides that pose the greatest risk of resistance will have the most elements. &lt;/p&gt;
+
+&lt;p&gt;The 60-day comment period closes on August 2, 2016.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-285395&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/pr-2016-xx-guidance-herbicide-rsistance-management_0.pdf&quot; type=&quot;application/pdf; length=256439&quot; class=&quot;file-link&quot;&gt;Draft Guidance for Herbicide-Resistance Management, Labeling, Education, Training, and Stewardship (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 256 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 13 May 2016 14:27:10 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">149523 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PRN 2016-X, Draft Guidance for Pesticide Registrants on Pesticide Resistance Management Labeling</title>
+    <link>https://www.epa.gov/pesticide-registration/prn-2016-x-draft-guidance-pesticide-registrants-pesticide-resistance</link>
+    <description>&lt;p&gt;Draft PRN 2016-X, Draft Guidance for Pesticide Registrants on Pesticide Resistance Management Labeling, revises and updates &lt;a href=&quot;/pesticide-registration/prn-2001-5-guidance-pesticide-registrants-pesticide-resistance-management&quot;&gt;PRN 2001-5&lt;/a&gt;. Draft PRN 2016-X applies to all conventional, agricultural pesticides (i.e., herbicides, fungicides, bactericides, insecticides, and acaricides). &lt;/p&gt;
+
+&lt;p&gt;The updates in Draft PRN 2016-X focus on pesticide product labels. These updates are aimed at improving information about how pesticide users can minimize and manage pest resistance.&lt;/p&gt;
+
+&lt;p&gt;The 60-day comment period closes on August 2, 2016.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-285397&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/pr-2016-x-guidance-pesticide-registrants-resistance-management.pdf&quot; type=&quot;application/pdf; length=180582&quot; class=&quot;file-link&quot;&gt;Draft Guidance for Pesticide Registrants on Pesticide Resistance Management Labeling (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 181 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 13 May 2016 14:24:22 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">149521 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Slowing and Combating Pest Resistance to Pesticides</title>
+    <link>https://www.epa.gov/pesticide-registration/slowing-and-combating-pest-resistance-pesticides</link>
+    <description>&lt;p&gt;Pesticides can be used to control a variety of pests, such as insects, weeds, rodents, bacteria, fungi, etc. Over time many pesticides have gradually lost their effectiveness because pests have developed resistance – a significant decrease in sensitivity to a pesticide, which reduces the field performance of these pesticides.&lt;/p&gt;
+
+&lt;p&gt;EPA is concerned about resistance issues. We believe that managing the development of pesticide resistance, in conjunction with alternative pest-management strategies and integrated pest management (IPM) programs, is an important part of sustainable pest management. &lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#epa-doing&quot;&gt;What EPA is doing&lt;/a&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#conventional&quot;&gt;Conventional pesticides and resistance management&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#biopesticides&quot;&gt;Biopesticides and resistance management&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#recommendations&quot;&gt;General recommendations related to resistance management in agriculture&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#regulatory&quot;&gt;Related regulatory information&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#resources&quot;&gt;Additional resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;epa-doing&quot; name=&quot;epa-doing&quot;&gt;&lt;/a&gt;What EPA Is Doing&lt;/h2&gt;
+
+&lt;p&gt;To address the growing issue of resistance and preserve the useful life of pesticides, we are embarking on a more widespread effort and set of activities aimed at combating and slowing the development of pesticide resistance. Our effort includes releasing and requesting comment on two Pesticide Registration Notices (PRNs) that focus on strategies to combat or slow pesticide resistance.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;conventional&quot; name=&quot;conventional&quot;&gt;&lt;/a&gt;Conventional Pesticides and Resistance Management&lt;/h3&gt;
+
+&lt;p&gt;PRN 2016-X,&lt;em&gt; &lt;a href=&quot;/pesticide-registration/prn-2016-x-draft-guidance-pesticide-registrants-pesticide-resistance&quot;&gt;Draft Guidance for Pesticide Registrants on Pesticide Resistance Management Labeling&lt;/a&gt;&lt;/em&gt;&lt;a href=&quot;/pesticide-registration/prn-2016-x-draft-guidance-pesticide-registrants-pesticide-resistance&quot;&gt;,&lt;/a&gt; revises and updates &lt;a href=&quot;/pesticide-registration/prn-2001-5-guidance-pesticide-registrants-pesticide-resistance-management&quot;&gt;PRN 2001-5&lt;/a&gt;. PRN 2016-X applies to all conventional, agricultural pesticides (i.e., herbicides, fungicides, bactericides, insecticides, and acaricides). &lt;/p&gt;
+
+&lt;p&gt;The updates in PRN 2016-X focus on pesticide product labels. These updates are aimed at improving information about how pesticide users can minimize and manage pest resistance.&lt;/p&gt;
+
+&lt;p&gt;PRN 2016-X would update PRN 2001-5 with the following three categories of changes:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;additional guidance to registrants, and a recommended format, for resistance management statements or information to place on labels;&lt;/li&gt;
+	&lt;li&gt;references to external technical resources for guidance on resistance management; and&lt;/li&gt;
+	&lt;li&gt;updated instructions on how to submit changes to existing labels in order to enhance resistance-management language. &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Review and comment on &lt;a href=&quot;/pesticide-registration/prn-2016-x-draft-guidance-pesticide-registrants-pesticide-resistance&quot;&gt;PRN 2016-X&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PRN 2016-XX, &lt;a href=&quot;/pesticide-registration/prn-2016-xx-draft-guidance-herbicide-resistance-management-labeling-education&quot;&gt;&lt;em&gt;Guidance for Herbicide Resistance Management Labeling, Education, Training, and Stewardship&lt;/em&gt;&lt;/a&gt;, applies to herbicides only. PRN 2016-XX communicates the Agency’s current thinking and approach to addressing herbicide-resistant weeds by providing guidance on labeling, education, training, and stewardship for herbicides undergoing registration review or registration (i.e., new herbicide active ingredients, new uses proposed for use on herbicide-resistant crops or other case-specific registration actions). &lt;/p&gt;
+
+&lt;p&gt;It is part of a holistic, proactive approach to slow the development and spread of herbicide-resistant weeds and to prolong the useful lifespan of herbicides and related technology. The herbicide-resistance management approach in PRN 2016-XX divides 28 herbicide mechanisms of action (MOAs) into three categories of concern (low, moderate, high) based on the risk of developing herbicide-resistant weeds.&lt;/p&gt;
+
+&lt;p&gt;PRN 2016-XX also provides 11 elements focused on labeling, education, training and stewardship strategies. Herbicides posing the least risk of developing herbicide-resistant weeds will have the fewest resistance management elements, and herbicides that pose the greatest risk of resistance will have the most elements. &lt;/p&gt;
+
+&lt;p&gt;We are focusing on more holistic guidance for herbicides first because:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;they are the most widely used agricultural chemicals;&lt;/li&gt;
+	&lt;li&gt;no new herbicide mechanism of action has been developed in last 30 years; and&lt;/li&gt;
+	&lt;li&gt;herbicide-resistant weeds are rapidly increasing.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Review and comment on &lt;a href=&quot;/pesticide-registration/prn-2016-xx-draft-guidance-herbicide-resistance-management-labeling-education&quot;&gt;PRN 2016-XX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;biopesticides&quot; name=&quot;biopesticides&quot;&gt;&lt;/a&gt;Biopesticides and Resistance Management&lt;/h3&gt;
+
+&lt;p&gt;Biopesticides are compounds derived from biological sources, such as plants, bacteria, fungi, or viruses. Many of these products are used in organic crop production, and they can be included in resistance-management programs by both conventional and organic growers. &lt;/p&gt;
+
+&lt;h4&gt;Regulation of Plant Incorporated Protectants&lt;/h4&gt;
+
+&lt;p&gt;Plant-incorporated protectants (PIPs) are pesticidal substances produced by plants and the genetic material necessary for the plant to produce the substance. PIP crops are plants whose genomes include foreign genes that code for compounds that have pesticidal activity. For example, PIP crops such as corn and cotton have genes for the production of &lt;em&gt;Bacillus thuringiensis&lt;/em&gt; (Bt) endotoxin (derived from the bacterium &lt;em&gt;Bacillus thuringiensis&lt;/em&gt;).  EPA registers and regulates PIPs (the expressed protein and its genetic material) as pesticides under FIFRA but does not regulate the plant itself.&lt;/p&gt;
+
+&lt;p&gt;Regulatory oversight includes human health and environmental fate risk assessments as well as resistance-management risk evaluations. According to the Code of Federal Regulations (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=57512620f5f063b3cc8cb109cc248ea9&amp;amp;mc=true&amp;amp;node=pt40.24.174&amp;amp;rgn=div5&quot;&gt;Title 40, Part 174—Procedures and Requirements for Plant-Incorporated Protectants&lt;/a&gt;) the characteristics of PIP crops, such as their production and use in plants, their biological properties, and their ability to spread and increase in quantity in the environment distinguish them from traditional chemical pesticides. Therefore, PIPs are subject to different regulatory requirements and procedures as compared to traditional chemical pesticides.&lt;/p&gt;
+
+&lt;p&gt;A major component of EPA’s regulation of PIPs is the requirement for an in-depth insect resistance management (IRM) strategy. The primary component of IRM for Bt PIPs is the use of refuges to reduce selection pressure for resistance. A refuge typically consists of non-PIP crops that are planted to serve as source of susceptible insects to mate with any resistant insects arising from the PIP crop. Types of refuges include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Block refuge (a dedicated non-PIP portion of the PIP crop).&lt;/li&gt;
+	&lt;li&gt;Seed blends (non-PIP refuge seed is comingled with PIP seed in the same seed bag).&lt;/li&gt;
+	&lt;li&gt;Natural refuge (weeds, wild hosts, and other crops that produce susceptible insects, used for Bt cotton PIPs). &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Other aspects of IRM for PIPs include IPM-based stewardship, resistance monitoring, grower education, compliance monitoring (for refuge deployment) and mitigation strategies in the event of confirmed resistance.&lt;/p&gt;
+
+&lt;p&gt;Read more about:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/regulation-biotechnology-under-tsca-and-fifra/overview-plant-incorporated-protectants&quot;&gt;Various aspects of the regulation of PIP crops&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/regulation-biotechnology-under-tsca-and-fifra/framework-delay-corn-rootworm-resistance&quot;&gt;Framework to delay corn rootworm resistance&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;recommendations&quot; name=&quot;recommendations&quot;&gt;&lt;/a&gt;General Recommendations Related to Resistance Management in Agriculture&lt;/h2&gt;
+
+&lt;p&gt;The goal of successful resistance management is to reduce populations of pests, whether they are resistant or susceptible to pesticides. The general recommendation when using pesticides is to alternate or tank-mix pesticides of different chemistry and modes of action. This recommendation is based on the theory that the likelihood of a population developing resistance to two or more pesticides, each from a different chemical group with different modes of action, is significantly less than the likelihood that a population could develop resistance to only one of the pesticides. Therefore, individuals in the pest population resistant to one of the pesticides would be killed upon exposure to the (different) partner pesticide. However, there are some cases where even this strategy has resulted in resistance to both pesticide groups.&lt;/p&gt;
+
+&lt;p&gt;The best way to avoid resistance is to use IPM strategies to prevent the increase in resistant pest types, such as:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Rotating crops to reduce the use of the same pesticides season after season.&lt;/li&gt;
+	&lt;li&gt;Reducing nutrient sources such as plant stubble that can harbor pathogens and insects.&lt;/li&gt;
+	&lt;li&gt;Using grazing animals in some cases to reduce (some) weed populations.&lt;/li&gt;
+	&lt;li&gt;If available, using scientifically verified methods to sample pest populations and correlate them to economic estimates of crop damage before applying pesticides.&lt;/li&gt;
+	&lt;li&gt;Timing chemical applications when the pest is most susceptible (e.g., waiting for insect emergence or using preventive fungicide applications when weather conditions appear to be conducive to disease development).&lt;/li&gt;
+	&lt;li&gt;Scouting before and after pesticide application to correctly identify the pest and to determine if the application provided effective control.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;regulatory&quot; name=&quot;regulatory&quot;&gt;&lt;/a&gt;Related Regulatory Information&lt;/h2&gt;
+
+&lt;h3&gt;Regulatory Authority&lt;/h3&gt;
+
+&lt;p&gt;Under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) the Agency has the responsibility to register and regulate pesticides. Under this authority, pesticide resistance may be considered in the risk-benefit decision-making process.&lt;/p&gt;
+
+&lt;h3&gt;Reporting Requirement&lt;/h3&gt;
+
+&lt;p&gt;In &lt;a href=&quot;/pesticide-registration/prn-98-3-guidance-final-fifra-6a2-regulations-pesticide-product-registrants&quot;&gt;Guidance on Final FIFRA Section 6(a)(2) Regulations for Pesticide Product Registrants&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; any substantiated incidents of pest resistance for any regulated pesticide product must be reported to the Agency. This reporting requirement is in accordance with FIFRA Adverse Effects Reporting Section 6(a)(2), which requires pesticide product registrants to &lt;a href=&quot;/pesticide-incidents&quot;&gt;submit adverse-effects information about their products to EPA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;resources&quot; name=&quot;resources&quot;&gt;&lt;/a&gt;Additional Resources&lt;/h2&gt;
+
+&lt;h3&gt;Herbicide Resistance&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wssa.net/wssa/weed/resistance/&quot;&gt;Weed Science Society of America (WSSA)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.hracglobal.com/&quot;&gt;Herbicide Resistance Action Committee (HRAC)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Insecticide Resistance&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.irac-online.org/&quot;&gt;Insecticide Resistance Action Committee (IRAC)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Fungicide Resistance&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.frac.info/&quot;&gt;Fungicide Resistance Action Committee (FRAC)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Herbicide, Insecticide and Fungicide Resistance&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pesticidestewardship.org/resistance/Pages/default.aspx&quot;&gt;Center for Integrated Pest Management&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 12 May 2016 15:08:05 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">149349 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Emerging Viral Pathogen Guidance for Antimicrobial Pesticides  </title>
+    <link>https://www.epa.gov/pesticide-registration/emerging-viral-pathogen-guidance-antimicrobial-pesticides</link>
+    <description>&lt;p&gt;These documents provide general guidance to registrants and address public concerns on a process that can be used to identify effective disinfectant products for use against emerging viral pathogens and to permit registrants to make limited claims of their product’s efficacy against such pathogens. The guidance outlines a voluntary, two stage process involving product label amendments and modified terms of registration and applies only to emerging viruses. Actions described by this guidance may be taken for eligible products only after the Centers for Disease Control and Prevention has identified the emerging pathogen and recommended environmental surface disinfection to help control its spread. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-313147&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/emerging_viral_pathogen_program_guidance_final_8_19_16_001_0.pdf&quot; type=&quot;application/pdf; length=136173&quot; class=&quot;file-link&quot;&gt;Emerging Viral Pathogen Program Guidance (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 136 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-312951&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/emerging_pathogens_final_8_19_16_response_to_public_comments.pdf&quot; type=&quot;application/pdf; length=47208&quot; class=&quot;file-link&quot;&gt;EPA Response to Public Input on Emerging Viral Pathogen Guidance (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 47 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 06 Apr 2016 22:12:32 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">142375 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:55:12, expires @ 2017-01-26 15:55:12, lifetime 12 hours -->

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/46259/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Contacts</title>
+    <link>https://www.epa.gov/feed/46259/rss.xml</link>
+    <description>Updated Pesticide Contacts content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/46259/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Region 4 Pesticide Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-4-pesticide-contacts</link>
+    <description>&lt;h2&gt;Mailing Address &lt;/h2&gt;
+
+&lt;h3&gt;General Topics&lt;/h3&gt;
+
+&lt;p&gt;U.S. Environmental Protection Agency&lt;br /&gt;
+	Region 4&lt;br /&gt;
+	Sam Nunn Atlanta Federal Center&lt;br /&gt;
+	61 Forsyth Street, SW&lt;br /&gt;
+	Atlanta, GA 30303-8960&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;Email&quot;&gt;Email&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot; style=&quot;width:15%&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; headers=&quot;Name&quot;&gt;&lt;strong&gt;Chemical Safety and Enforcement Branch (CSEB)&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Toney.anthony@Epa.gov&quot;&gt;Anthony Toney&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;toney.anthony@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9085&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Branch Chief&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; headers=&quot;Name&quot;&gt;&lt;strong&gt;CSEB - Pesticides Section&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;mailto:Bingham.kimberly@Epa.gov&quot;&gt;Kimberly Bingham&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot; style=&quot;vertical-align:top&quot;&gt;bingham.kimberly@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9038&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot; style=&quot;vertical-align:top&quot;&gt;Section Chief&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Beard.phillip@Epa.gov&quot;&gt;Phillip Beard&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;beard.phillip@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9012&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Tennessee Project Officer, Enforcement Coordinator and Pesticide Producer Establishment Numbers/Reporting (Section 7)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Dominy.randy@Epa.gov&quot;&gt;Randy Dominy&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;dominy.randy@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-8996&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Florida Project Officer, Pollinator Protection, Worker Protection Standard and Mosquito Control&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Corbett.richard@Epa.gov&quot;&gt;Richard Corbett&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;corbett.richard@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9008&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;
+				&lt;p&gt;Kentucky and North Carolina Project Officer, Certification &amp;amp;Training Program and Grants&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Hill.karen@Epa.gov&quot;&gt;Karen Hill&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;hill.karen@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-8972&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Imports Coordinator and Enforcement Officer&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Middlebrook.lula@epa.gov&quot;&gt;Lula Middlebrook&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;middlebrook.lula@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-8981&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Inspector Credentials &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Livingston.patricia@Epa.gov&quot;&gt;Patricia Livingston&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;livingston.patricia@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9171&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Alabama Project Officer, FIFRA Inspector Training Coordinator, FIFRA Tribal Contact, Enforcement Officer and School IPM&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Mullenix.justin@Epa.gov&quot;&gt;Justin Mullenix&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;mullenix.justin@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-8997&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Mississippi Project Officer, Pesticide Producer Establishment Numbers/Reporting (Section 7), Enforcement Officer and FIFRA Tribal Contact&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Table.melba@Epa.gov&quot;&gt;Melba Table&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;table.melba@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-9086&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;South Carolina Project Officer, Imports Team and Enforcement Officer&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Tomczak.kimberly@Epa.gov&quot;&gt;Kimberly Tomczak&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;tomczak.kimberly@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;404-562-8987&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Imports Team, Georgia Project Officer, Bed Bugs, Enforcement Officer and Inspector Credentials&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 26 Aug 2015 18:30:27 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">108971 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Region 7 Pesticide Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-7-pesticide-contacts</link>
+    <description>&lt;h2&gt;Mailing Address &lt;/h2&gt;
+
+&lt;h3&gt;General Topics&lt;/h3&gt;
+
+&lt;p&gt;Office of Pesticide Programs Contacts&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 7&lt;br /&gt;
+	Kansas City Office&lt;br /&gt;
+	11201 Renner Boulevard&lt;br /&gt;
+	Lenexa, Kansas 66219&lt;br /&gt;&lt;br /&gt;
+	Customer Service: 800-223-0425 &lt;br /&gt;
+	Fax: 913-551-7765&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#state-lead&quot;&gt;Pesticide State Lead Agencies and Other State Agencies that Deal with Pesticides&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;Email&quot;&gt;Email&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot; style=&quot;width:15%&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:green.jamie@epa.gov&quot;&gt;Jamie Green&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;green.jamie@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913-551-7139&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Toxics and Pesticides Branch Chief, Kansas Project Officer, Kansas Technical Assistance&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;mailto:teter.royan@epa.gov&quot;&gt;Royan Teter&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot; style=&quot;vertical-align:top&quot;&gt;teter.royan@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot; style=&quot;vertical-align:top&quot;&gt;913-551-7609&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Pesticides Section Chief,Container/Containment Program Contact, and Spray Drift Contact&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; headers=&quot;Name&quot;&gt;&lt;strong&gt;Pesticides Program Team&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;mailto:hackett.shawn@epa.gov&quot;&gt;Shawn Hackett&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot; style=&quot;vertical-align:top&quot;&gt;hackett.shawn@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913-551-7774&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot; style=&quot;vertical-align:top&quot;&gt;Nebraska and Missouri Project Officer, Missouri and Nebraska Technical Assistance, Federal Inspector, Worker Safety Coordinator (WPS, Certification and Training)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:frizzell.damon@epa.gov&quot;&gt;Damon Frizzell&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;frizzell.damon@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913-551-7560&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Pollinator Contact, Water Quality Coordinator, Regional Ag Grants Contact, and R7 Ag Team Contact&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:ridnour.lacy@epa.gov&quot;&gt;Lacy Ridnour&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;ridnour.lacy@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913-551-7986&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Iowa Project Officer, Region 7 Tribal Pesticide Program Contact, Back-up School IPM Coordinator, Endangered Species Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; headers=&quot;Name&quot;&gt;&lt;strong&gt;Pesticides Enforcement Team&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot; style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;mailto:lesher.mark@epa.gov&quot;&gt;Mark Lesher&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot; style=&quot;vertical-align:top&quot;&gt;lesher.mark@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot; style=&quot;vertical-align:top&quot;&gt;913-551-7054&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Case Review Officer, Pesticides Enforcement, Pesticide Publications, Entomologist, Regional Bed Bug Contact, FIFRA CBI Officer, School IPM Coordinator, and Backup for Section 7 - Establishment Registration and Production Reporting&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:kelly.delbert@epa.gov&quot;&gt;Delbert Kelly (NOWCC)&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot; style=&quot;vertical-align:top&quot;&gt;kelly.delbert@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot; style=&quot;vertical-align:top&quot;&gt;913-551-7371&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot; style=&quot;vertical-align:top&quot;&gt;Pesticide Producer Establishment Numbers/Reporting (Section 7), and Pesticides FOIA Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Boatman.brandon@epa.gov&quot;&gt;Brandon Boatman&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;Boatman.brandon@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913- 551-7993&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Case Review Officer, Section 7 Establishment Registration and Production Reporting Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:held.beth@epa.gov&quot;&gt;Beth Held&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;held.beth@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;913-551-7955&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Case Review Officer, Enforcement Team Coordinator, Back up FIFRA CBI Officer, Pesticides Imports and Notice of Arrival Contact&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Pesticide State Lead Agencies and Other State Agencies That Deal With Pesticides&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;IOWA&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Gretchen Paluch, Ph.D., Chief&lt;br /&gt;
+	Pesticide Bureau&lt;br /&gt;
+	Iowa Department of Agriculture and Land Stewardship&lt;br /&gt;
+	Wallace Building, First Floor&lt;br /&gt;
+	502 E. 9th St.&lt;br /&gt;
+	Des Moines, Iowa 50319-0051&lt;br /&gt;
+	Phone: (515) 281-8590 / Fax: (515) 242-6497&lt;br /&gt;&lt;a href=&quot;http://www.iowaagriculture.gov/pesticides.asp&quot;&gt;http://www.iowaagriculture.gov/pesticides.asp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Iowa Pesticide Disposal Programs:&lt;br /&gt;
+	Iowa Department of Natural Resources&lt;br /&gt;
+	502 E. 9th Street, Wallace State Office Building&lt;br /&gt;
+	Des Moines, IA 50319-0034&lt;br /&gt;
+	Phone: (515) 281-5918&lt;br /&gt;&lt;a href=&quot;http://www.iowadnr.gov/&quot;&gt;http://www.iowadnr.gov/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.extension.iastate.edu/psep/&quot;&gt;Iowa Cooperative Extension&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;KANSAS&lt;/h3&gt;
+
+&lt;p&gt;Gary Meyer,  Program Manager&lt;br /&gt;
+	Pesticide &amp;amp; Fertilizer Program&lt;br /&gt;
+	Kansas Department of Agriculture&lt;br /&gt;
+	109 SW 9th Street&lt;br /&gt;
+	Topeka, Kansas 66612-1281&lt;br /&gt;
+	Phone: (785) 296-3786 / Fax: (785) 296-0673&lt;br /&gt;&lt;a href=&quot;https://agriculture.ks.gov/divisions-programs/pesticide-fertilizer&quot;&gt;https://agriculture.ks.gov/divisions-programs/pesticide-fertilizer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ksre.k-state.edu/pesticides-ipm/&quot;&gt;Kansas Cooperative Extension&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;MISSOURI&lt;/h3&gt;
+
+&lt;p&gt;Paul Bailey&lt;br /&gt;
+	Pesticide Program&lt;br /&gt;
+	Plant Industries Division&lt;br /&gt;
+	Missouri Department of Agriculture&lt;br /&gt;
+	P.O. Box 630, 1616 Missouri Blvd.&lt;br /&gt;
+	Jefferson City, Missouri 65102-0630&lt;br /&gt;
+	Phone: (573) 751-5510 / Fax: (573) 751-0005&lt;br /&gt;&lt;a href=&quot;http://agriculture.mo.gov/plants/pesticides/&quot;&gt;http://agriculture.mo.gov/plants/pesticides/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Missouri Department of Natural Resources&lt;br /&gt;
+	P.O. Box 176,&lt;br /&gt;
+	Jefferson City, MO 65102&lt;br /&gt;
+	Phone: (800) 361-4827 / Fax: (573) 751-3443&lt;br /&gt;&lt;a href=&quot;http://dnr.mo.gov/&quot;&gt;http://dnr.mo.gov/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;University of Missouri Pesticide Applicator Training&lt;br /&gt;
+	Phone: (573) 882-4827&lt;br /&gt;&lt;a href=&quot;http://ipm.missouri.edu/&quot;&gt;University of Missouri Cooperative Extension&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;NEBRASKA&lt;/h3&gt;
+
+&lt;p&gt;Tim Creger&lt;br /&gt;
+	Pesticide Program&lt;br /&gt;
+	Nebraska Department of Agriculture&lt;br /&gt;
+	P.O. Box 94756&lt;br /&gt;
+	Lincoln, Nebraska 68509&lt;br /&gt;
+	Phone: (402) 471-2394 / Fax: (402) 471-6892&lt;br /&gt;&lt;a href=&quot;http://www.nda.nebraska.gov/pesticide/&quot;&gt;http://www.nda.nebraska.gov/pesticide/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pesticide Applicator Education:&lt;br /&gt;
+	University of Nebraska-Lincoln&lt;br /&gt;
+	Pesticide Safety Education Programs&lt;br /&gt;&lt;a href=&quot;http://pested.unl.edu&quot; target=&quot;_blank&quot;&gt;http://pested.unl.edu/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;University of Nebraska Cooperative Extension&lt;br /&gt;&lt;a href=&quot;http://pested.unl.edu&quot; target=&quot;_blank&quot;&gt;http://pested.unl.edu/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pesticide Waste Disposal:&lt;br /&gt;
+	Nebraska Department of Environmental Quality&lt;br /&gt;&lt;a href=&quot;http://www.deq.state.ne.us/&quot;&gt;http://www.deq.state.ne.us/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Cooperative Extension Service Offices&lt;/h2&gt;
+
+&lt;p&gt;Frannie Miller&lt;br /&gt;
+	Pesticide Safety &amp;amp; Integrated Pest Management Coordinator&lt;br /&gt;
+	Kansas State University&lt;br /&gt;
+	Department of Entomology&lt;br /&gt;
+	123 W. Waters Hall&lt;br /&gt;
+	Manhattan, Kansas  66506-4004&lt;br /&gt;
+	(620)-241-1523 &lt;br /&gt;&lt;a href=&quot;mailto:fmiller@ksu.edu&quot;&gt;fmiller@ksu.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Brad Fresenburg, Ph.D.&lt;br /&gt;
+	IPM/PAT Coordinator&lt;br /&gt;
+	Division of Plant Science&lt;br /&gt;
+	University of Missouri&lt;br /&gt;
+	214 Waters Hall&lt;br /&gt;
+	Columbia, Missouri 65211&lt;br /&gt;
+	(573) 268-2545&lt;br /&gt;&lt;a href=&quot;mailto:fresenburgb@missouri.edu&quot;&gt;fresenburgb@missouri.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kristine Schaefer&lt;br /&gt;
+	Pesticide Safety Education Program&lt;br /&gt;
+	Iowa State University&lt;br /&gt;
+	8 Instectary Building&lt;br /&gt;
+	Ames, IA 50011-3140&lt;br /&gt;
+	(515) 294-4286&lt;br /&gt;&lt;a href=&quot;mailto:schaefer@iastate.edu&quot;&gt;schaefer@iastate.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Clyde Ogg&lt;br /&gt;
+	Pesticide Education Specialist&lt;br /&gt;
+	UNL Pesticide Education Office&lt;br /&gt;
+	377C Plant Sciences Hall&lt;br /&gt;
+	Lincoln, NE 68583-0971&lt;br /&gt;
+	402-472-9546&lt;br /&gt;
+	402-472-1632 (PSEP Office)&lt;br /&gt;&lt;a href=&quot;mailto:Cogg1@unl.edu&quot;&gt;Cogg1@unl.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 20 Aug 2015 12:24:51 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">107621 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Region 10 Pesticide Program and Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-10-pesticide-program-and-contacts</link>
+    <description>&lt;h2&gt;Report Pesticide Violations&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Violations of the use of a pesticide &lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://dec.alaska.gov/eh/pest/contact.htm&quot;&gt;Alaska&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.agri.state.id.us/AGRI/Categories/Pesticides/PesticidesContactMain.php&quot;&gt;Idaho&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.oregon.gov/ODA/programs/Pesticides/Pages/PesticideComplaints.aspx&quot;&gt;Oregon&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://agr.wa.gov/PestFert/ContactUs.aspx&quot;&gt;Washington&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;On Federal Property&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;On Tribal Lands&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Manufacturer or distributor violations (e.g., labeling or production)
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;EPA Environmental Tips and Complaints System&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Notice of Arrival of Pesticides and Devices&lt;/h2&gt;
+
+&lt;p&gt;Submit a complete &lt;a href=&quot;/compliance/epa-form-3540-1-notice-arrival-pesticides-and-devices&quot;&gt;notice of arrival form&lt;/a&gt; to &lt;a href=&quot;mailto:r10noa@epa.gov&quot;&gt;r10noa@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Pesticide Producer Establishment Application and Reporting&lt;/h2&gt;
+
+&lt;p&gt;Submit a complete &lt;a href=&quot;/compliance/epa-form-3540-16-pesticide-report-pesticide-producing-and-device-producing-establishments&quot;&gt;application for pesticide producer establishment number&lt;/a&gt; to &lt;a href=&quot;mailto:r10pesticideestablishments@epa.gov&quot;&gt;r10pesticideestablishments@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Submit complete &lt;a href=&quot;/compliance/epa-form-3540-16-pesticide-report-pesticide-producing-and-device-producing-establishments&quot;&gt;pesticide-producing and device-producing establishment reports&lt;/a&gt; to &lt;a href=&quot;mailto:r10pesticideestablishments@epa.gov&quot;&gt;r10pesticideestablishments@epa.gov&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Federal Certification to Apply Restricted Use Pesticides in Indian Country&lt;/h2&gt;
+
+&lt;p&gt;Send a complete &lt;a href=&quot;/pesticide-applicator-certification-indian-country/applicator-certification-form-under-epa-plan&quot;&gt;application for federal certification&lt;/a&gt; to:&lt;br /&gt;
+	Attn: Federal Certification&lt;br /&gt;
+	Pesticides and Toxics Unit (OCE-101)&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 10&lt;br /&gt;
+	1200 Sixth Ave, Suite 900&lt;br /&gt;
+	Seattle, WA 98101-1128&lt;/p&gt;
+
+&lt;p&gt;Questions about federal certification? Email &lt;a href=&quot;mailto:r10cert@epa.gov&quot;&gt;r10cert@epa.gov&lt;/a&gt; or call 206-553-4768&lt;/p&gt;
+
+&lt;h2&gt;Contacts&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;Email&quot;&gt;Email&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot; style=&quot;width:15%&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:mcfadden.kelly@epa.gov&quot;&gt;Kelly Mcfadden&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;mcfadden.kelly@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-1679&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Manager of pesticides&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:boccato.gianpaolo@epa.gov&quot;&gt;Gianpaolo Boccato&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;boccato.gianpaolo@epa.gov, r10noa@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-1193&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Import/export coordinator, inspector, case officer, bed bugs coordinator, pesticides coordinator for Washington&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:carvalho.gabriela@epa.gov&quot;&gt;Gabriela Carvalho&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;carvalho.gabriela@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-6698&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Water quality coordinator, tribal pesticides coordinator, pesticides coordinator for Alaska, Yakama Nation, and Coeur d’Alene Tribe, pollinator protection coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:liu.linda@epa.gov&quot;&gt;Linda Liu&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;liu.linda@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-1447&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Pesticides endangered species protection program coordinator, pesticides coordinator for Oregon&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:schulze.chad@epa.gov&quot;&gt;Chad Schulze&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;schulze.chad@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-0505&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Pesticide enforcement coordinator, section 7 pesticide producers, supplemental distributers, confidential business information officer, container/containment, inspector, case developer&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:terada.derrick@epa.gov&quot;&gt;Derrick Terada&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;terada.derrick@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;206-553-4768&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Certification and training coordinator, worker protection standards coordinator, inspector, case developer, pesticides coordinator for Idaho, federal certification plan coordination, oversight for Indian Health Service&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Mailing Address&lt;/h2&gt;
+
+&lt;p&gt;Pesticides and Toxics Unit (OCE-101)&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 10&lt;br /&gt;
+	1200 Sixth Ave, Suite 900&lt;br /&gt;
+	Seattle, WA 98101-1128&lt;br /&gt;
+	800-553-1200 (toll free)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 20 Jan 2015 18:39:36 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">72327 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Region 1 Pesticide Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-1-pesticide-contacts</link>
+    <description>&lt;p&gt;Pesticide Programs&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 1&lt;br /&gt;
+	Boston, MA 02109-3912  &lt;br /&gt;
+	Customer Call Center 617-918-1111 or in the New England States 888-372-7341&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;E-Mail&quot;&gt;E-Mail&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:hayes.sharon@epa.gov&quot;&gt;Sharon Hayes&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;hayes.sharon@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;617-918-1328&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Manager, Toxics and Pesticides Unit&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:koethe.robert@epa.gov&quot;&gt;Robert Koethe&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;koethe.robert@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;617-918-1535&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;FIFRA Project Officer for Connecticut and Rhode Island; Integrated Pest Management; Applicator Certification &amp;amp; Training; Tribal Contact; Water Quality; Bedbugs; Pollinators&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:szylvian.andrea@epa.gov&quot;&gt;Andrea Szylvian&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;szylvian.andrea@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;617-918-1198&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;FIFRA Project Officer for Massachusetts, Maine, New Hampshire, Vermont, and other Pesticide Grants; Worker Safety Contact; Agriculture; Contact for permits to discharge pesticides to waters of the United Sates&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:tham.kan@epa.gov&quot;&gt;Kan Tham&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;tham.kan@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;617-918-1872&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;FIFRA Enforcement; Imports; Pesticide Production Reporting&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:milette.marianne@epa.gov&quot;&gt;Marianne Milette&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;milette.marianne@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;617-918-1854&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;FIFRA Enforcement&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Mon, 29 Dec 2014 16:29:18 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">70949 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Office of Pesticide Programs: Contacts by Division and Topic</title>
+    <link>https://www.epa.gov/pesticide-contacts/office-pesticide-programs-contacts-division-and-topic</link>
+    <description>&lt;p&gt;See the following sets of contact information:&lt;/p&gt;
+&lt;ul&gt;&lt;li style=&quot;list-style-type:none&quot;&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-regulatory-divisions-ad-bppd-prd-rd&quot;&gt;Regulatory divisions (AD, BPPD, PRD, RD)&lt;/a&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type:none&quot;&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-science-division-bead-efed-hed&quot;&gt;Science divisions (BEAD, EFED, HED)&lt;/a&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type:none&quot;&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-field-and-external-affairs-division&quot;&gt;Field and External Affairs Division contacts&lt;/a&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type:none&quot;&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-information-technology-and-resources&quot;&gt;Information Technology and Resources Management Division contacts&lt;/a&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type:none&quot;&gt;&lt;a href=&quot;/pesticide-contacts/contacts-pesticide-topics&quot;&gt;Contacts by topic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 02 Dec 2014 15:59:13 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">68525 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Region 3 Pesticide Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-3-pesticide-contacts</link>
+    <description>&lt;p&gt;Pesticides and Asbestos Programs Branch&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 3&lt;br /&gt;
+	1-800-438-2474 (Customer Service Hotline)&lt;br /&gt;
+	215-814-2042 (General Inquiries)&lt;br /&gt;
+	215-814-3113 FAX&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;E-Mail&quot;&gt;E-Mail&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:El-Abdaoui.fatima@Epa.gov &quot;&gt;Fatima El Abdaoui&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;El-Abdaoui.fatima@Epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2129&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Chief, Pesticides Programs &amp;amp; FIFRA Enforcement&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:butler.johnj@epa.gov&quot;&gt;John Butler&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;butler.johnj@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2127&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Certification and Training of Pesticide Applicators, School IPM, Outreach Activities Concerning Pesticides, Federal regulation of pesticides, Funding and oversight of state pesticide programs for Pennsylvania and Virginia.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:convery.christine@epa.gov&quot;&gt;Christine Convery&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;convery.christine@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2249&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Federal reporting requirements for pesticide producing facilities, Water protection from pesticides&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:townsend.kyla@epa.gov&quot;&gt;Kyla Townsend-McIntyre&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;townsend.kyla@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2045&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Importation and/or exportation of pesticides, Handling of pesticide confidential business information&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:raguza.holly@epa.gov&quot;&gt;Holly Raguza&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;raguza.holly@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2170&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Pollinator Protection, Pesticide grants coordination, Funding and oversight of state pesticide programs for Delaware and West Virginia&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:rodriguez-hunt.magda@epa.gov&quot;&gt;Magda Rodriguez-Hunt&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;E-Mail&quot;&gt;rodriguez-hunt.magda@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;215-814-2128&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Worker Protection Standard, Funding and oversight of state pesticide programs for District of Columbia and Maryland&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Fri, 21 Nov 2014 15:43:35 +0000</pubDate>
+ <dc:creator>gpatay</dc:creator>
+ <guid isPermaLink="false">67595 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Region 8 Pesticide Contacts</title>
+    <link>https://www.epa.gov/pesticide-contacts/region-8-pesticide-contacts</link>
+    <description>&lt;p&gt;Pesticide Programs (8P-PES)&lt;br /&gt;
+	U.S. Environmental Protection Agency, Region 8&lt;br /&gt;
+	Denver, CO 80202-1129&lt;br /&gt;
+	800-227-8917 (toll free Region 8 states only; ask for 4-digit extension)&lt;br /&gt;
+	303-312-6044 FAX&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;Name&quot;&gt;Name&lt;/th&gt;
+			&lt;th id=&quot;Email&quot;&gt;Email&lt;/th&gt;
+			&lt;th id=&quot;Phone&quot;&gt;Phone&lt;/th&gt;
+			&lt;th&gt;Area of Responsibility&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:wood.melanieL@epa.gov&quot;&gt;Melanie L. Wood&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;wood.melanieL@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-7006&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Director, Partnerships and Environmental Stewardship Program&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:espinosa.joyce@epa.gov&quot;&gt;Joyce Espinosa&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;espinosa.joyce@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-6218&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Certification of pesticide applicators in Region 8 Indian Country&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:perreault.peg@epa.gov&quot;&gt;Peg Perreault&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;perreault.peg@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-6286&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Oversight for Colorado and Utah Departments of Agriculture, Ag IPM Coordinator, R8 Representative for National Pollinator Pollinator Protections, Endangered Species coordinator and Water Quality coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:Rivera.Adrienne@epa.gov&quot;&gt;Vacant&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt; &lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt; &lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Oversight for Fort Peck and the Confederated Salish and Kootenai Tribes in in Montana, Cheyenne River Sioux Tribe and Oglala Sioux Tribe in South Dakota, Three Affiliated Tribes in North Dakota, and Standing Rock Sioux Tribe in North and South Dakota.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:satter.suzanne@epa.gov&quot;&gt;Suzanne Satter&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;satter.suzanne@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-6614&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Bed Bugs Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:stevenson.suzanne@epa.gov&quot;&gt;Suzanne Stevenson&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;stevenson.suzanne@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-6030&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Oversight for Montana, South Dakota, North Dakota and Wyoming Departments of Agriculture, Certification and Training Coordinator and Worker Protection Standards Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;Name&quot;&gt;&lt;a href=&quot;mailto:wilson.clyde@epa.gov&quot;&gt;Clyde Wilson&lt;/a&gt;&lt;/td&gt;
+			&lt;td headers=&quot;Email&quot;&gt;wilson.clyde@epa.gov&lt;/td&gt;
+			&lt;td headers=&quot;Phone&quot;&gt;303-312-6217&lt;/td&gt;
+			&lt;td headers=&quot;Area of Responsibility&quot;&gt;Supports the Regional Pesticides and Lead Program in outreach and training efforts; Administrative Functions; and serves as IPM Assistant Coordinator&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 20 Nov 2014 20:28:42 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">67525 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Organization Chart/Current Headquarters Leadership for EPA Pesticide Programs</title>
+    <link>https://www.epa.gov/pesticide-contacts/organization-chartcurrent-headquarters-leadership-epa-pesticide-programs</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/pesticide-contacts/opp-organizational-chart-printing&quot;&gt;OPP Organizational Chart (for printing)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/pesticide-contacts/pesticide-contacts-our-regional-offices&quot;&gt;Regional Pesticide Contacts&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Director&#039;s Office &lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Jack Housenger&lt;/b&gt;&lt;b&gt;, Director&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul type=&quot;disc&quot;&gt;&lt;li&gt;Phone: 703-305-7090&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:housenger.jack@epa.gov&quot;&gt;housenger.jack@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;b&gt;Arnold Layne, Deputy Director for Management&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul type=&quot;disc&quot;&gt;&lt;li&gt;Phone: 703-305-7090&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:layne.arnold@epa.gov &quot;&gt;layne.arnold@epa.gov &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;b&gt;Rick P. Keigwin, Jr.&lt;/b&gt;&lt;strong&gt;, Deputy Office Director For Programs&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-305-7090&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:keigwin.richard@epa.gov&quot;&gt;keigwin.richard@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-office-director&quot;&gt;Additional contacts in the Director&#039;s office&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Biological and Economic Analysis Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Wynne Miller, Director&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-308-8200&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:miller.wynne@epa.gov&quot;&gt;miller.wynne@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-biological-and-economic-analysis-division&quot;&gt;Additional contacts in the Biological and Economic Analysis Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Biopesticides and Pollution Prevention Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Robert McNally, Director&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-308-8712&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:mcnally.robert@epa.gov&quot;&gt;mcnally.robert@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-biopesticides-and-pollution-prevention&quot;&gt;Additional contacts in the Biopesticides and Pollution Prevention Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Health Effects Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Dana Vogel, &lt;/b&gt;&lt;b&gt;Director&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-305-0874&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:vogel.dana@epa.gov&quot;&gt;vogel.dana@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-health-effects-division&quot;&gt;Additional contacts in the Health Effects Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Field and External Affairs Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Jacqueline E. Mosby, &lt;/b&gt;&lt;b&gt;Director &lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-308-2226&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:mosby.jackie@epa.gov&quot;&gt;mosby.jackie@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-field-and-external-affairs-division&quot;&gt;Additional contacts in the Field and External Affairs Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Antimicrobials Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;strong&gt;Steve Knizner&lt;/strong&gt;&lt;b&gt;&lt;strong&gt;, Directo&lt;/strong&gt;r​ &lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-308-6411&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:knizner.steve@epa.gov&quot;&gt;knizner.steve@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-antimicrobial-division&quot;&gt;Additional contacts in the Antimicrobials Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Information Technology and Resources Management Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Delores Barber, Director&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-305-5440&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:barber.delores@epa.gov&quot;&gt;barber.delores@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-information-technology-and-resources&quot;&gt;Additional contacts in the Information Technology and Resources Management Division&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;Environmental Fate and Effects Division&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;Marietta Echeverria&lt;b&gt;, Director​ &lt;/b&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-305-8578&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:echeverria.marietta@epa.gov&quot;&gt;echeverria.marietta@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-environmental-fate-and-effects-division&quot;&gt;Additional contacts in the Environmental Fate and Effects Division&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;Pesticide Re-Evaluation Division&lt;/b&gt;&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;&lt;b&gt;Yu-Ting Guilaran, Director&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-308-8000&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:yu-ting.guilaran@epa.gov&quot;&gt;yu-ting.guilaran@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-pesticide-re-evaluation-division&quot;&gt;Additional contacts in the Pesticide Re-evaluation Division&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;b&gt;&lt;b&gt;Registration Division&lt;/b&gt;&lt;/b&gt;&lt;/h2&gt;
+
+&lt;div&gt;&lt;b&gt;&lt;strong&gt;Mike Goodis​&lt;/strong&gt;&lt;b&gt;&lt;strong&gt;,&lt;/strong&gt; Director &lt;/b&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Phone: 703-305-5447&lt;/li&gt;
+	&lt;li&gt;Email: &lt;a href=&quot;mailto:goodis.michael@epa.gov&quot;&gt;goodis.michael@epa.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;a href=&quot;/pesticide-contacts/contacts-office-pesticide-programs-registration-division&quot;&gt;Additional contacts in the Registration Division&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 29 Oct 2014 20:38:40 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">66175 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Mailing to the Office of Pesticide Programs</title>
+    <link>https://www.epa.gov/pesticide-contacts/mailing-office-pesticide-programs</link>
+    <description>&lt;h2&gt;Mailing Address&lt;/h2&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;OPP Division Mail Codes&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;
+						&lt;div&gt;&lt;strong&gt;Division&lt;/strong&gt;&lt;/div&gt;
+					&lt;/th&gt;
+					&lt;th&gt;
+						&lt;div&gt;&lt;strong&gt;Mail Code&lt;/strong&gt;&lt;/div&gt;
+					&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;AD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7510P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;BEAD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7503P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;BPPD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7511P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Director&#039;s Office&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7501P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Document Processing Desk&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7504P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EFED&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7507P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FEAD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7506P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HED&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7509P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ITRMD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7502P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;RD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7505P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PRD&lt;/td&gt;
+					&lt;td&gt;
+						&lt;div&gt;7508P&lt;/div&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;indented&quot;&gt;U.S. Environmental Protection Agency&lt;br /&gt;&lt;strong&gt;Office of Pesticide Programs&lt;/strong&gt;&lt;br /&gt;
+	Division Mail Code&lt;br /&gt;
+	1200 Pennsylvania Ave. NW&lt;br /&gt;
+	Washington, D.C. 20460&lt;br /&gt;&lt;a href=&quot;https://pesticides.zendesk.com/hc/en-us#_ga=1.187026475.2084482162.1437488395&quot;&gt;Pesticide questions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Delivery Address&lt;/h2&gt;
+
+&lt;p class=&quot;indented&quot;&gt;One Potomac Yard&lt;br /&gt;
+	2777 South Crystal Drive&lt;br /&gt;
+	Arlington, VA 22202&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/aboutepa/visiting-epa-headquarters#tab-2&quot;&gt;Visiting the Office of Pesticide Programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For mailing information about pesticide registration actions, please see the &lt;a href=&quot;/pesticide-registration/pesticide-registration-manual-chapter-21-directions-submitting-applications&quot;&gt;Pesticide Registration Manual&lt;/a&gt;.&lt;/p&gt;
+
+
+</description>
+     <pubDate>Thu, 15 May 2014 17:17:20 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">52385 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:17:19, expires @ 2017-01-26 16:17:19, lifetime 12 hours -->

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/71139/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Clean Water Act Analytical Methods</title>
+    <link>https://www.epa.gov/feed/71139/rss.xml</link>
+    <description>Updated Clean Water Act Analytical Methods content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/71139/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Method Detection Limit - Frequent Questions</title>
+    <link>https://www.epa.gov/cwa-methods/method-detection-limit-frequent-questions</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Methods Q&amp;amp;A&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-questions-and-answers&quot;&gt;Approved methods&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/cwa-methods/cyanide-measurements-questions-and-answers&quot;&gt;Cyanide measurements&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/cwa-methods/hexavalent-chromium-questions-and-answers&quot;&gt;Hexavalent chromium&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/cwa-methods/oil-and-grease-measurements-frequent-questions&quot;&gt;Oil &amp;amp; grease&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#intro&quot;&gt;Method Detection Limit - Introduction&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#questions-mur&quot;&gt;Questions from the 2015 Methods Update Rule&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;intro&quot; name=&quot;intro&quot;&gt;&lt;/a&gt;Method Detection Limit - Introduction&lt;/h2&gt;
+
+&lt;p&gt;The MDL procedure is designed to be a straightforward technique for estimation of the detection limit for a broad variety of physical and chemical methods. The previously promulgated version of the MDL procedure (Revision 1.11) stated: “The method detection limit (MDL) is defined as the minimum concentration of a substance that can be measured and reported with 99% confidence that the analyte concentration is greater than zero and is determined from analysis of a sample in a given matrix containing the analyte.” The 2016 revision of the MDL procedure (Revision 2) differs from Revision 1.11 of the MDL procedure in three significant ways.&lt;/p&gt;
+
+&lt;ol class=&quot;indented&quot;&gt;&lt;li&gt;The MDL procedure now uses method blanks to calculate an MDL, in addition to the spiked samples that have always been used to calculate the MDL. As a result, the new definition of the MDL is: &quot;The method detection limit (MDL) is defined as the minimum measured concentration of a substance that can be reported with 99% confidence that the measured concentration is distinguishable from method blank results.&quot; The value calculated from the &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;spiked samples&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;Spiked samples&lt;/em&gt;are prepared from a clean reference matrix, such as reagent water, spiked with a known and consistent quantity of the analyte.&lt;/span&gt;&lt;/a&gt; is called the &lt;strong&gt;MDL&lt;sub&gt;S&lt;/sub&gt;&lt;/strong&gt;. The MDL&lt;sub&gt;S&lt;/sub&gt; calculation is the same as the MDL calculation in Revision 1.11. The method blank samples are used to calculate the &lt;strong&gt;MDL&lt;sub&gt;b&lt;/sub&gt;&lt;/strong&gt;, which is a very similar calculation that also calculates the 99% confidence level that the result is derived from the sample rather from contamination/noise. The MDL is the higher of the two values (either the MDL&lt;sub&gt;S&lt;/sub&gt; calculated using spiked samples or the MDL&lt;sub&gt;b&lt;/sub&gt; calculated using method blanks). EPA considers this change important because as detector sensitivity improves, the background contamination of the laboratory, consumable supplies, and equipment can be more important in determining the detection limit than the sensitivity of the instrument.&lt;/li&gt;
+	&lt;li&gt;The MDL now requires that the samples used to calculate the MDL are representative of laboratory performance throughout the year, rather than on a single date.&lt;/li&gt;
+	&lt;li&gt;A laboratory has the option to pool data from multiple instruments to calculate one MDL that represents multiple instruments.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;questions-mur&quot; name=&quot;questions-mur&quot;&gt;&lt;/a&gt;Questions from the 2015 Methods Update Rule&lt;/h2&gt;
+
+&lt;p&gt;Questions and comments submitted on the 2015 proposed Methods Update Rule, and EPA&#039;s responses.&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Will the laboratory need to analyze significantly more samples than before to calculate the MDL?&lt;/strong&gt;&lt;br /&gt;
+		No, most commercial laboratories that currently participate in analyses supporting the &lt;a href=&quot;/npdes&quot;&gt;National Pollutant Discharge Elimination System&lt;/a&gt; (NPDES) calculate the MDLs for each method/instrument combination once per year.
+
+		&lt;div&gt;
+			&lt;table summary=&quot;summary&quot;&gt;&lt;caption&gt;Comparison of Number of Samples Analyzed in MDL Procedures&lt;/caption&gt;
+				&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Samples Required&lt;/th&gt;
+						&lt;th scope=&quot;col&quot;&gt;Revision 1.11&lt;/th&gt;
+						&lt;th scope=&quot;col&quot;&gt;    Revision 2&lt;/th&gt;
+					&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Spiked samples&lt;/td&gt;
+						&lt;td&gt;    7/year&lt;/td&gt;
+						&lt;td&gt;8/year (2/quarter)&lt;/td&gt;
+					&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Methods blanks (MBs)&lt;/td&gt;
+						&lt;td&gt;    0&lt;/td&gt;
+						&lt;td&gt;0 (use routine MBs)&lt;/td&gt;
+					&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+		Assuming the analytical instrumentation is used regularly for specific method, Revision 2 of the MDL procedure requires a 14% increase in samples analyzed for MDL determinations (1 sample per year per instrument). If some instruments are used less, then the number of spiked samples will be fewer, possibly less than performing Revision 1.11 of the MDL procedure annually.&lt;br /&gt;
+		 &lt;br /&gt;
+		Additional blanks would be required for determination of the MDL only if the laboratory is implementing a new method for the first time, or has just acquired a new instrument. Otherwise, no additional method blanks are required because Revision 2 of the MDL procedure uses the routine method blanks that are already being analyzed with every batch of samples.
+		&lt;div class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Is the laboratory required to recalculate the MDL every quarter?&lt;/strong&gt;&lt;br /&gt;
+		No, the MDL is only calculated once a year. MDL spiked samples are now analyzed every quarter in which the method is used, but the calculation is only required to be performed once a year.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Will laboratories have to analyze more samples for methods that are rarely used?&lt;/strong&gt;&lt;br /&gt;
+		No, Revision 2 of the MDL procedure could potentially require fewer samples than Revision 1.11 of the MDL procedure for the rarely used methods. For example, if a laboratory analyzed 7 batches of samples spread out over a 2-year period (either because they have a new instrument or because not enough analyses are conducted in a one-year period) then the laboratory would have enough sample spikes and blanks to recalculate the MDL. This would be 7 samples in 2 years, which is half of what was normally done for Revision 1.11 of the MDL procedure, if performed once a year.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;If the laboratory does not use a method during a quarter, will the laboratory still need to analyze low-level spiked samples?&lt;/strong&gt;&lt;br /&gt;
+		No, the laboratory needs to analyze at least seven low-level spiked samples and seven method blanks for one instrument in a two-year period (spread over 3 batches), but is also supposed to analyze two spiked samples per quarter in separate batches any quarter samples are analyzed. See Sections (2)(b) and (3)(a) of the MDL procedure. A practical way for a laboratory to stay in compliance is to analyze a low-level spiked sample with the first two analytical batches every quarter. If no samples are analyzed, then there is no need to analyze spiked samples or method blanks. If one batch of samples is analyzed during a quarter, then the laboratory should include one low-level spiked sample in that batch. If two or more batches of samples are analyzed, the laboratory should include one low-level spiked sample in at least two of those batches.
+		&lt;div class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;What happens if the laboratory has less than 7 sample spikes when calculating the MDL?&lt;/strong&gt;&lt;br /&gt;
+		The minimum number of samples is 7, but more samples are used if more are available. If the analysis is performed regularly, then there will likely be 16 spiked samples per instrument (2 per quarter over 2 years) and many more blanks. If the analysis is performed very rarely, then there may be less than 7 spiked samples. In this case, the laboratory needs to perform a new initial MDL procedure, but can use the samples that are available over the last 2 years to contribute to calculating the new initial MDL. For example, if a laboratory only had 4 available spiked samples and 4 method blanks over the last 2 years, then 3 more spiked samples and 3 more method blanks would be required for determining the initial MDL. These 3 additional spiked samples and method blanks could be analyzed in one batch (assuming the existing 4 pairs of samples were in at least two batches). See Section (2)(b) for the initial MDL procedure. In this scenario, the lab would analyze 7 spiked samples in 2 years, which is less than the laboratory would have analyzed doing an MDL study every year using Revision 1.11 of the MDL procedure.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Could one high blank result drastically elevate the MDL?&lt;/strong&gt;&lt;br /&gt;
+		It depends. A high blank result could be eliminated in a number of ways. If there are 100 or more method blanks results, then the highest blank result is not considered (since the MDL procedure measures the 99% confidence limit). Also, a method blank result can be ignored if it is associated with a documented instance of gross failure (e.g., instrument malfunctions, mislabeled samples, cracked vials). Any data associated with rejected samples also are not used for the MDL calculation. Section (4)(d) of Revision 2 of the MDL procedure states “Include all routine data, with the exception of batches that are rejected and the associated samples reanalyzed.”&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;What if a laboratory buys a new instrument and wants to include it in a multi-instrument MDL?&lt;/strong&gt;&lt;br /&gt;
+		Provisions for a new instrument have been added to Section (3)(e) of Revision 2 of the MDL procedure. The laboratory needs to analyze a minimum of two spiked samples and two method blanks on the new instrument.
+		&lt;div class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;If a laboratory uses a certain analysis daily, then they will have hundreds, potentially thousands, of method blanks to review for a two-year period.&lt;/strong&gt;&lt;br /&gt;
+		In order to make the annual verification less labor intensive for laboratories that analyze many sample batches of certain methods, the laboratory will have the option to use only the last six months of method blank data or the fifty most recent method blanks, whichever criteria yields the greater number of method blanks.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Cost of new MDL procedure.&lt;/strong&gt;&lt;br /&gt;
+		The additional effort and expense is mainly in the computation, not additional sample preparation and analysis. Modern laboratories have laboratory information management systems (LIMS) that can query the data needed for the annual verification. Once the data are compiled, the MDL&lt;sub&gt;S&lt;/sub&gt; calculation is identical to the calculation in Revision 1.11. The MDL&lt;sub&gt;b&lt;/sub&gt; is a similar calculation, and is simplified if blanks are almost always &quot;non-detect.&quot; The implied requirement that the calculated MDL must be no less than one-tenth the spike value in Revision 1.11 of the MDL procedure has been eliminated in Revision 2, so laboratories will not have to redo the MDL procedure if the calculated MDL is lower than expected. This will reduce workload, and is especially helpful for methods with long analyte lists. Also, the fact that the MDL samples are now analyzed throughout the year with routine samples eliminates the need to set aside a specific batch of samples and time to analyze the MDL samples.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Why are acceptable calibrations and batch quality control (QC) not mentioned in the Initial MDL procedure?&lt;/strong&gt;&lt;br /&gt;
+		If the laboratory is performing an initial MDL without client samples in the batch, most batch QC is not required. The spiked samples are essentially laboratory fortified blanks, and the MS/MSD samples are not required if there are no client samples in the batch. Ongoing MDL samples should be analyzed with client samples the laboratory receives, so all normal batch QC should be present. The methods already specify that calibrations must be completed before performing any analyses, so there is no need to add this requirement to the MDL procedure itself.
+		&lt;div class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Why is so much ongoing data collection necessary, and what additional quality is this practice of ongoing data collection providing?&lt;/strong&gt;&lt;br /&gt;
+		Ongoing data collection captures instrument drift and the variation in equipment conditions throughout the year. Many laboratories currently analyze the MDL aliquots immediately after the instrument is serviced and all consumable instrument parts are new, thus yielding a best-case MDL value. Ongoing data collection leads to an MDL that represents what is actually practiced throughout the year.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;If the MDL and ML values change, permit limits may need to be reviewed.&lt;/strong&gt;&lt;br /&gt;
+		EPA acknowledges that MDL values for some analytes may increase due to the revision of the MDL procedure. Some permits may contain limits that cannot be met by approved methods in &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=8a2ea80be57f5dbf2dc4da75b0c4fae2&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5&quot;&gt;40 CFR Part 136&lt;/a&gt;. If this is the case, the permittee should use the most sensitive method allowed among the approved methods in Part 136. The NPDES rule, &quot;&lt;a href=&quot;https://www.federalregister.gov/documents/2014/08/19/2014-19265/national-pollutant-discharge-elimination-system-npdes-use-of-sufficiently-sensitive-test-methods-for&quot;&gt;Use of Sufficiently Sensitive Test Methods for Permit Applications and Reporting&lt;/a&gt;” (August 19, 2014) discusses this issue in detail. (Additionally, supporting documents are available in the docket at &lt;a href=&quot;http://www.regulations.gov/#!docketDetail;D=EPA-HQ-OW-2009-1019&quot;&gt;regulations.gov&lt;/a&gt;, docket no. EPA-HQ-OW-2009-1019.) This situation already existed with Revision 1.11 of the MDL procedure, and permittees and permitting authorities should have addressed this issue. The new MDL procedure may cause some additional contaminants to have MLs above the permit requirements for a specific analysis. The &quot;Sufficiently Sensitive Method&quot; rule is very clear about what to do in this case; see &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=8a2ea80be57f5dbf2dc4da75b0c4fae2&amp;amp;mc=true&amp;amp;node=pt40.24.122&amp;amp;rgn=div5#se40.24.122_121&quot;&gt;40 CFR 122.21(e)(3)&lt;/a&gt;.&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;How long does a laboratory have to implement the current MDL procedure after promulgation of the Methods Update Rule?&lt;/strong&gt;&lt;br /&gt;
+		EPA recognizes that it is not possible for any laboratory to make this change instantaneously. The laboratory should comply with the requirements of its control authority or permitting authority to implement Revision 2 of the MDL procedure.&lt;/li&gt;
+&lt;/ol&gt;&lt;div class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;references&quot; name=&quot;references&quot;&gt;&lt;/a&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/procedures-detection-and-quantitation-documents&quot;&gt;Definition and Procedure for the Determination of the Method Detection Limit, Revision 2&lt;/a&gt; (2016)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cwa-methods/methods-update-rule-2016&quot;&gt;Methods Update Rule&lt;/a&gt; (2016)&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 09 Dec 2016 22:50:02 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">166873 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Decision on Use of ASTM Method D7575</title>
+    <link>https://www.epa.gov/cwa-methods/decision-use-astm-method-d7575</link>
+    <description>&lt;p&gt;EPA published a decision in 2013 on the use of an alternative laboratory analytical method for oil and grease. (See &lt;a href=&quot;/cwa-methods/cwa-methods-regulatory-history&quot;&gt;CWA Methods Regulatory History&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;hr /&gt;&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-217545&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-10/limited-use-atp_application-for-og_2013.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=35304&quot; class=&quot;file-link&quot;&gt;NPDES Chemistry Limited Use Alternate Test Procedure Application (docx; fillable form)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 35 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-217555&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-10/method-doc-form_limited-use-atps_2013.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=60397&quot; class=&quot;file-link&quot;&gt;NPDES Chemistry Limited Use Alternate Test Procedure Method Documentation Form (docx; fillable form)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 60 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-217565&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-10/performance-comparison-form_clean-matrix_for-og_2013.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=55526&quot; class=&quot;file-link&quot;&gt;Performance Comparison Form (Clean Matrix, Laboratory Pure Water) (docx; fillable form)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 56 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-217569&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-10/performance-comparison-form_effluent-matrix_for-og_2013.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=50787&quot; class=&quot;file-link&quot;&gt;Performance Comparison Form - Effluent Matrix (docx; fillable form)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 51 K, 
+  March 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-217573&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-10/oil-and-grease-atp-comparison_2013.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=35680&quot; class=&quot;file-link&quot;&gt;Oil and Grease ATP Comparison Worksheet (spreadsheet)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(36 K, 
+  February 2013)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-217505&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/astm-d7575-decision_fact-sheet_2013.pdf&quot; type=&quot;application/pdf; length=42676&quot; class=&quot;file-link&quot;&gt;Clean Water Act Analytical Methods Update Rule - Decision on Alternative Oil and Grease Method; Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 43 K, 
+  March 2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Decision on use of ASTM Method D7575  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-217511&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/guidance-for-limited-use-astm-d7575_2013.pdf&quot; type=&quot;application/pdf; length=126889&quot; class=&quot;file-link&quot;&gt;Guidance for Limited Use Alternate Test Procedure Applications for ASTM Method D7575 for Oil and Grease (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 127 K, 
+  March 2013, 
+  821-R-13-006)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Instructions for demonstrating comparability between EPA-approved methods for measurement of oil and grease in wastewater and ASTM D7575, an alternate method  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 22 Oct 2015 13:49:21 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">122235 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Oil and Grease Measurements - Frequent Questions</title>
+    <link>https://www.epa.gov/cwa-methods/oil-and-grease-measurements-frequent-questions</link>
+    <description>&lt;h2&gt;Determination of oil and grease and total petroleum hydrocarbons (TPH) in wastewater&lt;/h2&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+	&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-organic-compounds&quot;&gt;Oil and grease test methods&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;div&gt;&lt;strong&gt;Methods Q&amp;amp;A:&lt;/strong&gt;&lt;/div&gt;
+
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-questions-and-answers&quot;&gt;Approved methods&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/cwa-methods/cyanide-measurements-questions-and-answers&quot;&gt;Cyanide&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/cwa-methods/hexavalent-chromium-questions-and-answers&quot;&gt;Hexavalent chromium&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/cwa-methods/method-detection-limit-frequent-questions&quot;&gt;Method Detection Limit&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#withdrawal&quot;&gt;Withdrawal of approved methods employing CFC-113&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#recommended&quot;&gt;Recommended method for testing oil and grease and total petroleum hydrocarbons&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#method-418-1&quot;&gt;EPA Method 418.1&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#source&quot;&gt;Source for &lt;em&gt;n-&lt;/em&gt;hexane for use with EPA Method 1664A&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#use&quot;&gt;Use of repetitive amounts of silica gel with EPA Method 1664A&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reports&quot;&gt;Reports on replacement of Freon with hexane as the extraction solvent&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#documents&quot;&gt;Documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h3&gt;&lt;a id=&quot;withdrawal&quot; name=&quot;withdrawal&quot;&gt;&lt;/a&gt;Withdrawal of approved methods employing CFC-113&lt;/h3&gt;
+
+&lt;p&gt;Methods that employ CFC-113 as the extraction solvent and that were approved for testing of oil and grease in water at &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=c58d1c4a6ac6cd8d397d86a328ca5001&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5&quot;&gt;40 CFR Part 136&lt;/a&gt; are EPA Method 413.1 and &lt;em&gt;Standard Methods&lt;/em&gt; No. 5520B. EPA withdrew these methods in the &lt;a href=&quot;https://www.federalregister.gov/documents/2007/03/12/07-1073/guidelines-establishing-test-procedures-for-the-analysis-of-pollutants-under-the-clean-water-act&quot;&gt;final rule published March 12, 2007&lt;/a&gt;. The only method approved for testing oil and grease in wastewater is &lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-organic-compounds&quot;&gt;EPA Method 1664A&lt;/a&gt;. Method 1664A uses &lt;em&gt;n&lt;/em&gt;-hexane as the extraction solvent.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;recommended&quot; name=&quot;recommended&quot;&gt;&lt;/a&gt;Recommended method for testing oil and grease and total petroleum hydrocarbons&lt;/h3&gt;
+
+&lt;div&gt;Method 1664A has been tested extensively and produces results that are generally comparable to results produced by methods that use CFC-113 as the extraction solvent. EPA promulgated Method 1664A for use in EPA&#039;s Clean Water Act (CWA) and Resource Conservation and Recovery Act (RCRA) programs on May 14, 1999.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/1999/05/14/99-12163/guidelines-establishing-test-procedures-for-the-analysis-of-oil-and-grease-and-non-polar-material&quot;&gt;Final rule&lt;/a&gt; (May 14, 1999)&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;/cwa-methods/cwa-methods-support-documents&quot;&gt;Guidance for EPA Method 1664A Implementation and Use&lt;/a&gt; (2000)&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;method-418-1&quot; name=&quot;method-418-1&quot;&gt;&lt;/a&gt;EPA Method 418.1&lt;/h3&gt;
+
+&lt;p&gt;Total petroleum hydrocarbons (TPH) are not Part 136 pollutants. However, there may be samples for which Method 1664 may not be suitable; e.g., when it is desirable to measure &lt;em&gt;n-&lt;/em&gt;hexane or other components with a boiling range near or below the boiling point of &lt;em&gt;n-&lt;/em&gt;hexane. In those situations, analysts in the past may have used EPA Method 418.1 (“Petroleum Hydrocarbons, Total Recoverable”) for determining TPH in water. However, this method uses CFC-113. If you wish to determine TPH, we recommend ASTM International Method D7066-04, “Standard Test Method for dimer/trimer of chlorotrifluoroethylene (S-316) Recoverable Oil and Grease and Nonpolar Material by Infrared Determination.” S-316 is a chlorofluorocarbon alternative to CFC-113. Neither Method 418.1 nor D7066 are Part 136-approved methods.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;source&quot; name=&quot;source&quot;&gt;&lt;/a&gt;Source for &lt;em&gt;n-&lt;/em&gt;hexane for use with EPA Method 1664A&lt;/h3&gt;
+
+&lt;p&gt;Method 1664A requires use of &lt;em&gt;n-&lt;/em&gt;hexane as the extraction solvent. The specification for the n-hexane to be used is &quot;85% minimum purity, 99.0% min. saturated C6 isomers, residue less than 1 mg/L.&quot; In 2004, EPA received notice from Conoco Phillips that, effective November 1, 2004; Conoco Phillips would discontinue n-hexane production at its Borger, Texas, facility. This facility was the main supplier of &lt;em&gt;n-&lt;/em&gt;hexane that met the Method 1664A specification. Unless another supplier is found, the alternative is to use a higher grade, e.g. 95% minimum purity. If you learn of another supplier for 85%, please send an e-mail to &lt;a href=&quot;mailto:walker.lemuel@epa.gov?subject=Method%201664A&quot;&gt;Lemuel Walker&lt;/a&gt; (walker.lemuel@epa.gov), so that we can update the list.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;use&quot; name=&quot;use&quot;&gt;&lt;/a&gt;Use of Repetitive Amounts of Silica Gel with EPA Method 1664A&lt;/h3&gt;
+
+&lt;p&gt;Use of repetitive treatments with silica gel is allowed without prior EPA approval under the equivalency provision in Section 9.1.2 of EPA Method 1664A. The provision contains rigorous requirements for a demonstration of equivalency, including tests of initial precision and recovery, blanks, matrix spikes and duplicates (MS/MSD), and other data, with and without the repetitive treatment, as required by EPA Method 1664A. For acceptable repetitive treatment with silica gel, one should test for removal of the polar fraction, particularly if the silica gel is highly activated, as required in EPA Method 1664A. One could test for this removal by demonstrating removal of the stearic acid component of the PAR (Precision and Recovery) standard in the initial precision and recovery test and the matrix spikes and duplicates (MS/MSD) test. If this removal is demonstrated, use of repetitive treatment of extracts of environmental samples with silica gel for determination of TPH (also &quot;Non-polar Material&quot; (NPM) and &quot;Silica Gel Treated Hexane Extractable Material&quot; (SGT-HEM)) should be allowed because this modification meets the spirit and letter of the modification provisions in EPA Method 1664A.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;reports&quot; name=&quot;reports&quot;&gt;&lt;/a&gt;Reports on Replacement of Freon with Hexane as the Extraction Solvent&lt;/h3&gt;
+
+&lt;div&gt;Hexane is used in all versions of EPA Method 1664. There were two phases of the Freon replacement studies, described in two EPA reports:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;/cwa-methods/cwa-methods-support-documents&quot;&gt;Preliminary Report of EPA Efforts to Replace Freon for the Determination of Oil and Grease&lt;/a&gt; (also known as Phase I) (1993)&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;&lt;a href=&quot;/cwa-methods/cwa-methods-support-documents&quot;&gt;Report of EPA Efforts to Replace Freon for the Determination of Oil and Grease and Total Petroleum Hydrocarbons: Phase II&lt;/a&gt; (1995)&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a id=&quot;documents&quot; name=&quot;documents&quot;&gt;&lt;/a&gt;Documents&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-organic-compounds&quot;&gt;Method 1664A&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cwa-methods/cwa-methods-support-documents&quot;&gt;Guidance on Method 1664A Implementation and Use&lt;/a&gt; (2000)&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 21 Oct 2015 19:47:34 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">122159 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Procedures for Detection and Quantitation - Documents</title>
+    <link>https://www.epa.gov/cwa-methods/procedures-detection-and-quantitation-documents</link>
+    <description>&lt;ul&gt;&lt;li&gt;
+		&lt;div class=&quot;box multi related-info right&quot;&gt;
+			&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/method-detection-limit-frequent-questions&quot;&gt;MDL Frequent Questions&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/cwa-methods/procedures-detection-and-quantitation&quot;&gt;Procedures for Detection and Quantitation&lt;/a&gt; (overview)&lt;/li&gt;
+				&lt;/ul&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		Method Detection Limit (MDL) Procedure Revision 2 (2016)&lt;/li&gt;
+	&lt;li&gt;Federal Advisory Committee Report (2007)&lt;/li&gt;
+	&lt;li&gt;Laboratory Study On Detection and Quantitation Procedures (2011)&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;clear-right&quot;&gt; &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-339023&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-12/documents/mdl-procedure_rev2_12-13-2016.pdf&quot; type=&quot;application/pdf; length=219251&quot; class=&quot;file-link&quot;&gt;Definition and Procedure for the Determination of the Method Detection Limit, Revision 2 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 219 K, 
+  December 2016, 
+  821-R-16-006)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-216637&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/detection-quant-faca_final-report_2012.pdf&quot; type=&quot;application/pdf; length=2014346&quot; class=&quot;file-link&quot;&gt;Report of the Federal Advisory Committee on Detection and Quantitation Approaches and Uses in Clean Water Act Programs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(176 pp, 2 MB, 
+  December 2007)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This report provides advice and recommendations for the development of an improved procedure for determining detection and quantitation limits, and use of these limits in NPDES permit reporting and compliance determinations.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-216645&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/laboratory-study-faca-report_2011.pdf&quot; type=&quot;application/pdf; length=1388902&quot; class=&quot;file-link&quot;&gt;A Laboratory Study of Procedures Evaluated by the Federal Advisory Committee on Detection and Quantitation Approaches and Uses in Clean Water Act Programs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(95 pp, 1 MB, 
+  December 2011, 
+  821-R-11-005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-216647&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/supplement-lab-study-report_2011.pdf&quot; type=&quot;application/pdf; length=282756&quot; class=&quot;file-link&quot;&gt;Supplement to Report Entitled, “A Laboratory Study of Procedures Evaluated by the Federal Advisory Committee on Detection and Quantitation Approaches and Uses in Clean Water Act Programs” (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 283 K, 
+  2011)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Comparison of the EPA MDL and ML to the FACDQ DL and QL with Respect to Study Measurement Quality Objectives (MQOs)  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 20 Oct 2015 19:20:30 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">121925 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contaminants of Emerging Concern - Methods Documents</title>
+    <link>https://www.epa.gov/cwa-methods/contaminants-emerging-concern-methods-documents</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/cwa-analytical-methods-contaminants-emerging-concern&quot;&gt;CWA Analytical Methods: Contaminants of Emerging Concern&lt;/a&gt; (overview)&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Not Approved Under 40 CFR Part 136&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Pharmaceuticals and Personal Care Products (PPCPs) methods (1694, 1698)&lt;/li&gt;
+	&lt;li&gt;Other new methods (1614, 1699)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Although the following methods are not in EPA regulations, they may be of interest to regulated entities, permitting authorities, and the public. The presence of a method here does not imply a regulatory requirement for its use.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-215059&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1694_2007.pdf&quot; type=&quot;application/pdf; length=644122&quot; class=&quot;file-link&quot;&gt;1694: Pharmaceuticals and Personal Care Products in Water, Soil, Sediment, and Biosolids by HPLC/MS/MS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(77 pp, 644 K, 
+  December 2007, 
+  821-R-08-002)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215061&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1698_2007.pdf&quot; type=&quot;application/pdf; length=473748&quot; class=&quot;file-link&quot;&gt;1698: Steroids and Hormones in Water, Soil, Sediment, and Biosolids by HRGC/HRMS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(69 pp, 474 K, 
+  December 2007, 
+  821-R-08-003)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-180651&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/method_1614a_2010.pdf&quot; type=&quot;application/pdf; length=938360&quot; class=&quot;file-link&quot;&gt;1614A: Brominated Diphenyl Ethers in Water, Soil, Sediment, and Tissue by HRGC/HRMS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(93 pp, 938 K, 
+  May 2010, 
+  821-R-10-005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215067&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1699_2007.pdf&quot; type=&quot;application/pdf; length=921327&quot; class=&quot;file-link&quot;&gt;1699: Pesticides in Water, Soil, Sediment, Biosolids, and Tissue by HRGC/HRMS (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(96 pp, 921 K, 
+  December 2007, 
+  821-R-08-001)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 20 Oct 2015 14:29:42 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">121781 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Other Clean Water Act Test Methods: Biosolids</title>
+    <link>https://www.epa.gov/cwa-methods/other-clean-water-act-test-methods-biosolids</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-microbiological-methods-wastewater-and-sewage-sludge&quot;&gt;Approved Microbiological Methods for Biosolids&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/biosolids&quot;&gt;Biosolids Program (General information)&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Not Approved Under 40 CFR Part 136&lt;/h2&gt;
+
+&lt;p&gt;Although the following methods are not in EPA regulations, they may be of interest to regulated entities, permitting authorities, and the public. The presence of a method here does not imply a regulatory requirement for its use.&lt;/p&gt;
+
+&lt;div class=&quot;clear-left&quot;&gt; &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-184117&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/method_200-7_rev_5_2001.pdf&quot; type=&quot;application/pdf; length=229619&quot; class=&quot;file-link&quot;&gt;200.7: Trace Elements in Water, Solids, and Biosolids by Inductively Coupled Plasma-Atomic Emission Spectrometry; Rev. 5.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(68 pp, 230 K, 
+  January 2001, 
+  821-R-01-010)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-175223&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-08/documents/method_200-9_rev_2-2_1994.pdf&quot; type=&quot;application/pdf; length=293862&quot; class=&quot;file-link&quot;&gt;200.9: Determination of Trace Elements by Stabilized Temperature Graphic Furnace Atomic Absorption; Rev. 2.2 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(43 pp, 294 K, 
+  1994)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215871&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1656a_2000.pdf&quot; type=&quot;application/pdf; length=379036&quot; class=&quot;file-link&quot;&gt;1656A: Organo-Halide Pesticides in Wastewater, Soil, Sludge, Sediment, and Tissue by GC/HSD (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 pp, 379 K, 
+  September 2000, 
+  821-R-00-017)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215873&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1657a_2000.pdf&quot; type=&quot;application/pdf; length=355556&quot; class=&quot;file-link&quot;&gt;1657A: Organo-Phosphorus Pesticides in Wastewater, Soil, Sludge, Sediment, and Tissue by GC/FPD (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(53 pp, 356 K, 
+  September 2000, 
+  821-R-00-018)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215573&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1683_draft_2001.pdf&quot; type=&quot;application/pdf; length=167952&quot; class=&quot;file-link&quot;&gt;1683: Specific Oxygen Uptake Rate in Biosolids (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 168 K, 
+  January 2001, 
+  821-R-01-014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215533&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1684_draft_2001.pdf&quot; type=&quot;application/pdf; length=65162&quot; class=&quot;file-link&quot;&gt;1684: Total, Fixed, and Volatile Solids in Water, Solids, and Biosolids (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 65 K, 
+  January 2001, 
+  821-R-01-015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215615&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1685_draft_2001.pdf&quot; type=&quot;application/pdf; length=100056&quot; class=&quot;file-link&quot;&gt;1685: Nitrate/Nitrite-N in Water and Biosolids by Automated Photometry (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 100 K, 
+  January 2001, 
+  821-R-01-016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215617&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1686_draft_2001.pdf&quot; type=&quot;application/pdf; length=94407&quot; class=&quot;file-link&quot;&gt;1686: Nitrate/Nitrite-N in Water and Biosolids by Manual Colorimetry (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 94 K, 
+  January 2001, 
+  821-R-01-005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215619&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1687_draft_2001.pdf&quot; type=&quot;application/pdf; length=104121&quot; class=&quot;file-link&quot;&gt;1687: Total Kjeldahl Nitrogen in Water and Biosolids by Automated Colorimetry with Preliminary Distillation/Digestion (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 104 K, 
+  January 2001, 
+  821-R-01-004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215621&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1688_draft_2001.pdf&quot; type=&quot;application/pdf; length=100128&quot; class=&quot;file-link&quot;&gt;1688: Total Kjeldahl Nitrogen in Water and Biosolids by Automated Colorimetry with Preliminary Semi-automatic Digestion (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 100 K, 
+  January 2001, 
+  821-R-01-007)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215623&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1689_draft_2001.pdf&quot; type=&quot;application/pdf; length=97032&quot; class=&quot;file-link&quot;&gt;1689: Ammonia-N in Water and Biosolids by Ion-Selective Electrode Potentiometry with Preliminary Distillation (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(25 pp, 97 K, 
+  January 2001, 
+  821-R-01-012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215625&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/method_1690_draft_2001.pdf&quot; type=&quot;application/pdf; length=101459&quot; class=&quot;file-link&quot;&gt;1690: Ammonia-N in Water and Biosolids by Automated Colorimetry with Preliminary Distillation (Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(27 pp, 101 K, 
+  January 2001, 
+  821-R-01-009)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 16 Oct 2015 18:59:45 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">121501 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>CWA Methods Support Documents</title>
+    <link>https://www.epa.gov/cwa-methods/cwa-methods-support-documents</link>
+    <description>&lt;div&gt;
+	&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-metals&quot;&gt;Mercury methods&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-organic-compounds&quot;&gt;Oil and grease methods&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/cwa-methods/decision-use-astm-method-d7575&quot;&gt;Use of ASTM Method D7575 for oil and grease&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	Support documents for specific analytes and analytical methods:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Mercury&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Oil and grease&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;clear-right&quot;&gt; &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-210501&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/mercury-methods-in-npdes-permits_epa-memo_08-23-2007.pdf&quot; type=&quot;application/pdf; length=57928&quot; class=&quot;file-link&quot;&gt;Analytical Methods for Mercury in National Pollutant Discharge Elimination System (NPDES) Permits; Memorandum (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 58 K, 
+  August 23, 2007)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Explains use of Methods 1631E and 245.7 as most sensitive for measurement of mercury and appropriate for use in NPDES permits in most cases  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-217221&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/guidance-for-method-1664a_2000.pdf&quot; type=&quot;application/pdf; length=141868&quot; class=&quot;file-link&quot;&gt;Analytical Method Guidance for EPA Method 1664A Implementation and Use (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(44 pp, 142 K, 
+  February 2000, 
+  821-R-00-003)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Addresses potential differences between results obtained with Method 1664A and an approved method that employs CFC-113 (1,1,2-trichloro-1,2,2-trifluoroethane) as an extracting solvent  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-217345&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/freon-replacement-study-phase-1_1993.pdf&quot; type=&quot;application/pdf; length=3519963&quot; class=&quot;file-link&quot;&gt;Preliminary Report of EPA Efforts to Replace Freon For The Determination of Oil and Grease (Rev. 1) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(88 pp, 4 MB, 
+  September 1993, 
+  821-R-93-011)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-217347&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/freon-replacement-study-phase-2_1995.pdf&quot; type=&quot;application/pdf; length=3287072&quot; class=&quot;file-link&quot;&gt;Report of EPA Efforts to Replace Freon for the Determination of Oil and Grease and Total Petroleum Hydrocarbons: Phase II (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(77 pp, 3 MB, 
+  April 1995, 
+  820-R-95-003)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-217483&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/modifications-to-method-1664a-memo_2009.pdf&quot; type=&quot;application/pdf; length=115977&quot; class=&quot;file-link&quot;&gt;Modifications to Method 1664A; Memorandum (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 116 K, 
+  January 16, 2009)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This memorandum answers several questions about allowed modifications to Method 1664A. Although analyst modifications to method-defined parameter methods are generally not allowed, some changes are acceptable.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 07 Oct 2015 14:44:27 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">120029 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Hexavalent Chromium: Questions and Answers</title>
+    <link>https://www.epa.gov/cwa-methods/hexavalent-chromium-questions-and-answers</link>
+    <description>&lt;div&gt;
+	&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-metals&quot;&gt;Chromium test methods&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;div&gt;&lt;strong&gt;Methods Q&amp;amp;A:&lt;/strong&gt;&lt;/div&gt;
+
+			&lt;ul&gt;&lt;li&gt;
+					&lt;div&gt;&lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-questions-and-answers&quot;&gt;Approved methods&lt;/a&gt;&lt;/div&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;div&gt;&lt;a href=&quot;/cwa-methods/cyanide-measurements-questions-and-answers&quot;&gt;Cyanide&lt;/a&gt;&lt;/div&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;div&gt;&lt;a href=&quot;/cwa-methods/method-detection-limit-frequent-questions&quot;&gt;Method Detection Limit&lt;/a&gt;&lt;/div&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;div&gt;&lt;a href=&quot;/cwa-methods/oil-and-grease-measurements-frequent-questions&quot;&gt;Oil &amp;amp; grease&lt;/a&gt;&lt;/div&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#hierarchy&quot;&gt;Hierarchy of holding times&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#interpretation&quot;&gt;Interpretation of holding time requirement&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#disparity&quot;&gt;Disparity between holding times for drinking water and wastewater&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#colorimetric&quot;&gt;Holding time for colorimetric methods&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#change&quot;&gt;Information supporting holding time change&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#filtration&quot;&gt;Sample filtration&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ph-range&quot;&gt;Correct pH range&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;div&gt;
+	&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;hierarchy&quot; name=&quot;hierarchy&quot;&gt;&lt;/a&gt;Hierarchy of holding times between footnotes to Table II and in approved methods&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Table IB (page 11218) lists the EPA Method for chromium-VI dissolved as 218.6, Rev.3.3 (1994). In Table II (page 11236) the maximum holding time for chromium-VI is listed as 28 days with a reference to footnote 20. Footnote 20 (page 11239) refers to the use of the ammonium sulfate buffer solution described in the method at Sections 7.9 and 8.2. However, Section 1.4 of the same method states [that samples must be] &quot;analyzed within 24 hours of collection.&quot; The question is, which holding time is correct for Method 218.6? And, with respect to the non-EPA methods for chromium-VI listed in Table IB, is it also possible to have a 28 day holding time for these methods by using ammonium sulfate buffer as a preservative at the time of sample collection?&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; Footnote 20 states: &quot;To achieve the 28-day holding time, use the ammonium sulfate buffer solution specified in EPA &lt;a href=&quot;/cwa-methods/approved-cwa-test-methods-metals&quot;&gt;Method 218.6&lt;/a&gt;. The allowance in this footnote supersedes preservation and holding time requirements in the approved hexavalent chromium methods, unless this supersession would compromise the measurement, in which case requirements in the method must be followed.&quot;&lt;/p&gt;
+
+			&lt;p&gt;This footnote supersedes the holding time in the approved methods, unless the longer holding time would compromise measurement of chromium 6, in which case the holding time in the method must be used. The footnote applies to all approved methods (e.g., &lt;em&gt;Standard Methods,&lt;/em&gt; ASTM methods).&lt;/p&gt;
+
+			&lt;p&gt;In addition, footnote 4 to Table II states, in part: &quot;Samples should be analyzed as soon as possible after collection. The times listed are the maximum times that samples may be held before the start of analysis and still be considered valid (e.g., samples analyzed for fecal coliforms may be held up to 6 hours prior to commencing analysis)... &quot;Some samples may not be stable for the maximum time period given in the table. A permittee or monitoring laboratory is obligated to hold the sample for a shorter time if it knows that a shorter time is necessary to maintain sample stability. See &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=c58d1c4a6ac6cd8d397d86a328ca5001&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5#se40.25.136_13&quot;&gt;§136.3(e)&lt;/a&gt; for details... &quot; Therefore, if it is known that the chromium-6 concentration would change in less time than the 28 days allowed by footnote 20, or in less time than allowed in the approved method (e.g., 24 hours in Method 218.6), the sample must be held no longer than the time necessary to assure that the chromium-6 concentration does not change.&lt;/p&gt;
+
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;interpretation&quot; name=&quot;interpretation&quot;&gt;&lt;/a&gt;Interpretation of holding time requirement&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Does footnote 20 to Table II mean that chemical preservation is the only option available and the resulting hold time is 28 days (i.e. unable to analyze unpreserved within 24 hours)? Or does it mean that chemical preservation is an option available in order to achieve a longer hold time but if you do not apply the 28-day holding time (i.e. analyze within 24 hours) then unpreserved is still acceptable?&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; Footnote 20 allows the holding time to be extended to 28 days at the option of the permittee, discharger, or monitoring laboratory, provided the sample is preserved as specified in the footnote. If desired, the sample may be held for no more than 24 hours unpreserved, as specified in the approved methods. Also, as stated in footnote 4 to Table II, &quot;... A permittee or monitoring laboratory is obligated to hold the sample for a shorter time if it knows that a shorter time is necessary to maintain sample stability... &quot;&lt;/p&gt;
+
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;disparity&quot; name=&quot;disparity&quot;&gt;&lt;/a&gt;Disparity between holding times for drinking water and wastewater&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; EPA Method 218.6 for drinking water requires a 24-hour holding time, whereas footnote 20 to Table II at Part 136 for wastewater allows 28 days when properly preserved, and the footnote supersedes the methods, so the footnote is applicable to &lt;em&gt;Standard Methods&lt;/em&gt; also. What this means is that drinking water and wastewater are regulated using the same methods but the holding times are different.&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; There may be disparities between requirements for drinking water and wastewater and disparities between requirements in the holding time table at &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=c58d1c4a6ac6cd8d397d86a328ca5001&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5&quot;&gt;40 CFR Part 136&lt;/a&gt; and in approved methods especially in microbiology methods because wastewater samples often differ significantly from drinking water samples.&lt;/p&gt;
+
+			&lt;div&gt;Regarding the disparity between requirements for chromium 6 for drinking water and wastewater, EPA received a request and data supporting a change of holding time to 28 days for chromium-VI in wastewater, proposed the change in the Federal Register on April 6, 2004 (69 FR 18165), and approved the change on March 12, 2007 (72 FR 11199). EPA did not receive a request and data supporting a change of holding time for drinking water and, therefore, did not change the holding time for drinking water.
+				&lt;div&gt;
+					&lt;ul&gt;&lt;li&gt;
+							&lt;div&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2007/03/12/07-1073/guidelines-establishing-test-procedures-for-the-analysis-of-pollutants-under-the-clean-water-act&quot;&gt;Final rule&lt;/a&gt; (March 12, 2007)&lt;/div&gt;
+						&lt;/li&gt;
+					&lt;/ul&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;p&gt;Regarding disparities between holding times in Table II at Part 136 and in approved methods, holding time requirements in Table II apply to all approved methods, not just to EPA methods. Also, when information becomes available about an improvement in a requirement for a holding time, it is more straightforward to change Table II than to revise all approved methods. When an EPA method is revised, EPA attempts to correct the preservation and holding time to be consistent with Table II.&lt;/p&gt;
+
+			&lt;p&gt;&lt;em&gt;Note: &lt;/em&gt;Chromium-VI is not regulated in drinking water at the federal level. Method 218.6 is not an approved drinking water method (i.e., it isn&#039;t listed at 40 CFR 141.23).&lt;/p&gt;
+
+			&lt;p&gt;Some states require monitoring for chromium-VI in drinking water. In those cases the Primacy Agencies will need to determine how to handle the holding time difference between the method and Table II at Part 136.&lt;/p&gt;
+
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;colorimetric&quot; name=&quot;colorimetric&quot;&gt;&lt;/a&gt;Holding time for colorimetric methods&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; We use &lt;em&gt;Standard Methods&lt;/em&gt; 3500-Cr D, which is a colorimetric method, and are not sure if our method is compatible with the change in preservation requirement in Table II. We assume that it is compatible because the method we use is still approved for &lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; and there is no alternative for Cr6+ in Table II. We have done some preliminary work using the buffer with our method and what immediately stands out is a shift in the curve. Is there any supporting information about using the buffer from Method 218.6 with other Cr6+ methods?&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; At present, there is no supporting information about using the buffer with methods other than ion chromatography Method 218.6. We suggest to test this modification prepare standard solutions using the buffer, and produce a calibration curve with the buffered solutions. If that does not work, do not use the buffer and return to requirements in the method (24-hour holding time, unpreserved), as provided for in footnote 20 to Table II.&lt;/p&gt;
+
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;change&quot; name=&quot;change&quot;&gt;&lt;/a&gt;Information supporting holding time change&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; Where can I get a copy of the information and/or data used to make the holding time change for hexavalent chromium?&lt;/p&gt;
+
+			&lt;div&gt;&lt;strong&gt;Response:&lt;/strong&gt; The information was provided in the docket for the March 12, 2007 final rule. Available at &lt;a href=&quot;https://www.regulations.gov/#!docketDetail;D=EPA-HQ-OW-2003-0070&quot;&gt;Regulations.gov&lt;/a&gt;, docket number EPA-HQ-OW-2003-0070.&lt;/div&gt;
+
+			&lt;ul&gt;&lt;li&gt;
+					&lt;div&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2007/03/12/07-1073/guidelines-establishing-test-procedures-for-the-analysis-of-pollutants-under-the-clean-water-act&quot;&gt;Final rule&lt;/a&gt; (March 12, 2007)&lt;/div&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;filtration&quot; name=&quot;filtration&quot;&gt;&lt;/a&gt;Sample filtration&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; There is a requirement in EPA Method 218.6 to filter the sample prior to adding the buffer. However, the Methods Update Rule (MUR) makes no mention of filtration when preserving the sample. It does however, say that the &quot;new&quot; requirements supersede the method requirements. Is filtration required prior to preservation for EPA Method 218.6 to enable the 28 day holding time?&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; Yes, filtration is required immediately (within 15 minutes of collection) to prevent interconversion of chromium species. The suppression requirement applies to preservation and holding time only.&lt;/p&gt;
+
+			&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;&lt;strong&gt;&lt;a id=&quot;ph-range&quot; name=&quot;ph-range&quot;&gt;&lt;/a&gt;Correct pH range&lt;/strong&gt;&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; What about the disparity in the pH range specified in footnote 20 in Table II at &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=c58d1c4a6ac6cd8d397d86a328ca5001&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5#se40.25.136_13&quot;&gt;40 CFR 136.3&lt;/a&gt;, and in EPA Method 218.6?&lt;/p&gt;
+
+			&lt;p&gt;&lt;strong&gt;Response:&lt;/strong&gt; The correct pH range is 9.3 - 9.7 as specified in footnote 20, and must be met when the holding time is extended by use of either sodium hydroxide (NaOH), or the buffer solution in Section 7.9 of the method. We suggest that you use the buffer described in Section 7 of EPA Method 218.6, if the pH range can be achieved with sample dilution by no more than 10 percent. If this pH range cannot be achieved without diluting the sample by more than 10 percent, use a minimum amount of NaOH solution, supplemented by buffer solution as necessary.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 02 Oct 2015 19:53:14 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">119271 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Legal Authority for CWA Analytical Methods</title>
+    <link>https://www.epa.gov/cwa-methods/legal-authority-cwa-analytical-methods</link>
+    <description>&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;298&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/epa-banner-images/cincinnatilab2_017.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;EPA establishes test procedures for use by &lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permittees under &lt;a href=&quot;/laws-regulations/summary-clean-water-act&quot;&gt;Clean Water Act&lt;/a&gt; sections 301(a), 304(h), and 501(a); 33 U.S.C. 1311(a), 1314(h), 1361(a).&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;div&gt;Section 301(a) prohibits the discharge of any pollutant into navigable waters except in compliance with the CWA (typically implemented in an &lt;a href=&quot;/npdes&quot;&gt;NPDES permit&lt;/a&gt; issued under section 402).&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Section 304(h) requires EPA to establish test procedures to measure pollutants in Clean Water Act programs, such as NPDES.&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;div&gt;Section 501(a) authorizes EPA to prescribe such regulations as are necessary to carry out functions under the Act.&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA generally has codified the approved test procedures (analytical methods) in the &lt;strong&gt;Code of Federal Regulations&lt;/strong&gt; at &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=c58d1c4a6ac6cd8d397d86a328ca5001&amp;amp;mc=true&amp;amp;node=pt40.25.136&amp;amp;rgn=div5&quot;&gt;40 CFR Part 136&lt;/a&gt;. These methods are sometimes referred to as &quot;wastewater&quot;, &quot;Part 136&quot;, or &quot;304(h)&quot; methods. Some approved methods may also be found at 40 CFR Parts 401 through 503 (&lt;a href=&quot;/eg&quot;&gt;Effluent Guidelines&lt;/a&gt; and &lt;a href=&quot;/biosolids&quot;&gt;Biosolids&lt;/a&gt; regulations).&lt;/p&gt;
+</description>
+     <pubDate>Fri, 02 Oct 2015 16:12:42 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">119233 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:59:53, expires @ 2017-01-26 15:59:53, lifetime 12 hours -->

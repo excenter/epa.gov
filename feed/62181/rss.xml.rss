@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/62181/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA in South Carolina</title>
+    <link>https://www.epa.gov/feed/62181/rss.xml</link>
+    <description>Updated EPA in South Carolina content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/62181/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Environmental Information for South Carolina</title>
+    <link>https://www.epa.gov/sc/environmental-information-south-carolina</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Air&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Water&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;Land and Waste Cleanups&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-4&quot;&gt;Pesticides and Other Toxic Chemicals&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://airnow.gov/index.cfm?action=airnow.local_state&amp;amp;stateid=42&quot;&gt;Real-time map of today&#039;s air quality forecast in South Carolina on AirNow.gov&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/myenv/MyAir.html?minx=-86.98975&amp;amp;miny=31.27855&amp;amp;maxx=-74.79492&amp;amp;maxy=35.94244&amp;amp;ve=6,33.90386,-80.89375&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=South%20Carolina&quot;&gt;MyAir&lt;/a&gt;. MyAir shows &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyAir&quot;&gt;many different kinds of air data&lt;/a&gt; for South Carolina.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/myenv/MyClimate.html?minx=-86.98975&amp;amp;miny=31.27855&amp;amp;maxx=-74.79492&amp;amp;maxy=35.94244&amp;amp;ve=6,33.90386,-80.89375&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=South%20Carolina&quot;&gt;MyClimate&lt;/a&gt;. MyClimate shows greenhouse gas emissions by sector, and &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyClimate&quot;&gt;other kinds of climate data, for South Carolina&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/caa-permitting/clean-air-act-permitting-south-carolina&quot;&gt;Clean Air Act permitting in South Carolina&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/cpptoolbox/south-carolina.pdf&quot;&gt;Fact sheet on the Clean Power Plan for South Carolina&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 238 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;Real-time radiation data from monitors located in South Carolina:
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/radnet/radnet-near-real-time-air-monitoring-results-columbia-sc&quot;&gt;Columbia&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/region4/air/sips/sc/content.htm&quot;&gt;State Implementation Plans (SIPs) for air quality approved by EPA for South Carolina&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/trends/comparative-maps-dashboards/state-air-dashboard?state=SC&amp;amp;view=activity&quot;&gt;Air compliance dashboard&lt;/a&gt;: see trends in environmental compliance and enforcement. The dashboard provides an easy-to-use summary of activities to answer questions like: which facilities are regulated, how many have been inspected or otherwise evaluated, and how many have alleged violations and have been subject to enforcement.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/myenv/MyWater.html?minx=-86.98975&amp;amp;miny=31.27855&amp;amp;maxx=-74.79492&amp;amp;maxy=35.94244&amp;amp;ve=6,33.90386,-80.89375&amp;amp;cLat=&amp;amp;cLon=&amp;amp;pSearch=South%20Carolina&quot;&gt;MyWater&lt;/a&gt;. MyWater shows &lt;a href=&quot;/enviro/myenvironment-how-use-page#MyWater&quot;&gt;many different kinds of water data&lt;/a&gt; for South Carolina.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.scdhec.gov/environment/WaterQuality/ResidentialWells/OverviewWells/&quot;&gt;Private Drinking Water Wells&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/wqs-tech/water-quality-standards-regulations-south-carolina&quot;&gt;Water quality standards&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/climate-change-water-sector/regional-actions-address-climate-change-impacts-water#region4&quot;&gt;Region 4 actions to address climate change impacts on water&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/ocean-dumping/managing-ocean-dumping-epa-region-4&quot;&gt;Managing ocean dumping off of Region 4&#039;s coasts&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/cre/climate-ready-estuaries-partner-projects#region4&quot;&gt;Climate-Ready Estuaries projects in Region 4&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/uic/underground-injection-control-epa-region-4-al-fl-ga-ky-ms-nc-sc-and-tn&quot;&gt;Underground injection control program in Region 4&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Compliance dashboards&lt;/strong&gt;: see trends in environmental compliance and enforcement. The dashboards provide an easy-to-use summary of activities to answer questions like: which facilities are regulated, how many have been inspected or otherwise evaluated, and how many have alleged violations and have been subject to enforcement.
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/trends/comparative-maps-dashboards/drinking-water-dashboard?state=South%20Carolina&amp;amp;view=activity&amp;amp;criteria=basic&quot;&gt;Drinking water dashboard&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/trends/comparative-maps-dashboards/state-water-dashboard?state=SC&amp;amp;view=establishments&quot;&gt;U.S. waters dashboard&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/apex/cimc/f?p=100:35:966970096874:::35:P35_BF_ASSESS_IND,P35_BF_ASSESS_PILOT_IND,P35_BF_CLEANUP_IND,P35_BF_RLF_IND,P35_BF_RLF_PILOT_IND,P35_BF_128A_IND,P35_BF_TBA_IND,P35_MULTIPURPOSE_IND,P35_BF_AWP_IND,P35_FF_BRAC_IND,P35_FF_RCRA_IND,P35_FF_SF_IND,P35_RCRA_CURRENT_IND,P35_RCRA_REMEDY_SEL_IND,P35_RCRA_CONSTR_COMPLT_IND,P35_RCRA_REMEDY_COMPLT_IND,P35_RCRA_REMEDY_NYS_IND,P35_SF_NPL_CODE,P35_SF_NPL_CODE_F,P35_SF_NPL_CODE_D,P35_STIMULUS_SF_IND,P35_STIMULUS_BF_IND,P35_FD1,P35_FD2,P35_FD3,P35_FD4,P35_State_code,P35_BASIC_QUERY:,,,,,,,,,Y,Y,Y,,,,,,,,,,,,,,,SC,&quot;&gt;List of all cleanups&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/srchrslt.cfm?start=1&amp;amp;CFID=25379458&amp;amp;CFTOKEN=76683155&quot;&gt;Map of all cleanups&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/sc/list-superfund-sites-south-carolina&quot;&gt;List of Superfund sites&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/fedfac/base-realignment-and-closure-brac-sites-state#sc&quot;&gt;List of Base Realignment and Closure (BRAC) sites&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/brownfields/brownfields-and-land-revitalization-alabama-florida-georgia-kentucky-mississippi-north&quot;&gt;Brownfields and land revitalization in Region 4&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/trends/comparative-maps-dashboards/state-hazardous-waste-dashboard?state=SC&amp;amp;view=activity&quot;&gt;Hazardous waste compliance dashboard&lt;/a&gt;: see trends in environmental compliance and enforcement. The dashboard provides an easy-to-use summary of activities to answer questions like: which facilities are regulated, how many have been inspected or otherwise evaluated, and how many have alleged violations and have been subject to enforcement.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-4&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://npic.orst.edu/mlrDetail.html?lang=en&amp;amp;to=SPE&amp;amp;state=SC#statePesticide&quot;&gt;Agency in South Carolina that regulates pesticides&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://iaspub.epa.gov/triexplorer/tri_factsheet.factsheet_forstate?&amp;amp;pstate=sc&amp;amp;pyear=2013&amp;amp;pDataSet=TRIQ1&quot;&gt;Most recent fact sheet on the management of certain toxic chemicals in South Carolina&lt;/a&gt; from &lt;a href=&quot;/toxics-release-inventory-tri-program&quot;&gt;EPA&#039;s Toxic Release Inventory&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/region4/air/sips/sc/content.htm&quot;&gt;Go to approved SIPs in Region 4&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://echo.epa.gov/trends/comparative-maps-dashboards/state-pest-dashboard?state=South%20Carolina&amp;amp;view=wps&quot;&gt;Pesticides compliance dashboard&lt;/a&gt;: see trends in environmental compliance and enforcement. The dashboard provides an easy-to-use summary of activities to answer questions like: which facilities are regulated, how many have been inspected or otherwise evaluated, and how many have alleged violations and have been subject to enforcement.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 21 Dec 2015 16:16:24 +0000</pubDate>
+ <dc:creator>smaddox</dc:creator>
+ <guid isPermaLink="false">130167 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Superfund Sites in South Carolina</title>
+    <link>https://www.epa.gov/sc/list-superfund-sites-south-carolina</link>
+    <description>
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://semspub.epa.gov/src/document/HQ/175197&quot;&gt;View a community guide to EPA&#039;s Superfund program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 454KB)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;Learn more about...
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/superfund/about-superfund-cleanup-process&quot;&gt;The Superfund cleanup process&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;/superfund/superfund-national-priorities-list-deletion&quot;&gt;Deleting sites from the National Priorities List&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://superfund.zendesk.com/hc/en-us&quot;&gt;Frequent questions about Superfund&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Below is a list that shows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;proposed, final and deleted sites on the &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;National Priorities List&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;National Priorities List&lt;/em&gt;EPA&#039;s list of the most serious uncontrolled or abandoned hazardous waste sites identified for possible long-term remedial action under Superfund. The list is based primarily on the score a site receives from the Hazard Ranking System.&lt;/span&gt;&lt;/a&gt; (NPL)&lt;/li&gt;
+	&lt;li&gt;non-NPL sites subject to &lt;a href=&quot;/enforcement/sites-superfund-alternative-approach-agreements&quot;&gt;Superfund alternative approach (SAA) agreements&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;table id=&quot;datatable-11&quot;&gt;&lt;caption&gt;All Sites&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Region&lt;/th&gt;
+			&lt;th&gt;State&lt;/th&gt;
+			&lt;th&gt;EPA ID&lt;/th&gt;
+			&lt;th&gt;Site Name&lt;/th&gt;
+			&lt;th&gt;NPL Status&lt;/th&gt;
+			&lt;th&gt;SAA?&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;th&gt;Region&lt;/th&gt;
+			&lt;th&gt;State&lt;/th&gt;
+			&lt;th&gt;EPA ID&lt;/th&gt;
+			&lt;th&gt;Site Name&lt;/th&gt;
+			&lt;th&gt;NPL Status&lt;/th&gt;
+			&lt;th&gt;SAA?&lt;/th&gt;
+		&lt;/tr&gt;&lt;/tfoot&gt;&lt;/table&gt;</description>
+     <pubDate>Fri, 18 Dec 2015 17:38:05 +0000</pubDate>
+ <dc:creator>rwashing</dc:creator>
+ <guid isPermaLink="false">130085 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about EPA in South Carolina</title>
+    <link>https://www.epa.gov/sc/forms/contact-us-about-epa-south-carolina</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;&lt;a class=&quot;box left&quot; href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;United States Environmental Protection Agency&lt;br /&gt;
+	Region 4&lt;br /&gt;
+	Sam Nunn Atlanta Federal Center&lt;br /&gt;
+	61 Forsyth Street, SW &lt;br /&gt;
+	Atlanta, GA 30303-8960&lt;/p&gt;
+
+&lt;p&gt;Main: (404) 562-9900&lt;br /&gt;
+	Toll Free: 1-800-241-1754&lt;br /&gt;
+	Fax: (404) 562-8174 &lt;/p&gt;
+</description>
+     <pubDate>Fri, 05 Sep 2014 13:15:17 +0000</pubDate>
+ <dc:creator>smaddox</dc:creator>
+ <guid isPermaLink="false">62183 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:53:56, expires @ 2017-01-26 16:53:56, lifetime 12 hours -->

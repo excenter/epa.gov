@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/78323/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Science and Assessing Pesticide Risks</title>
+    <link>https://www.epa.gov/feed/78323/rss.xml</link>
+    <description>Updated Pesticide Science and Assessing Pesticide Risks content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/78323/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Pesticide Surface and Ground Water Models</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pesticide-surface-and-ground-water-models</link>
+    <description>&lt;div&gt;&lt;strong&gt;On this page&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#surface&quot;&gt;Surface water models&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ground&quot;&gt;Ground water Models&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#other&quot;&gt;Other models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;surface&quot; name=&quot;surface&quot;&gt;&lt;/a&gt;Surface Water Models&lt;/h2&gt;
+
+&lt;h3&gt;SWCC (Surface Water Concentration Calculator)&lt;/h3&gt;
+
+&lt;p&gt;The Surface Water Concentration Calculator (SWCC) estimates pesticide concentrations in water bodies that result from pesticide applications to land. The SWCC is designed to simulate the environmental concentration of a pesticide in the water column and sediment and is used for regulatory purposes by the USEPA Office of Pesticide Programs (OPP). The SWCC uses PRZM version 5.0+ (PRZM5) and the Variable Volume Water Body Model (VVWM), replacing the older PE5 shell (last updated November 2006), which used PRZM3 (Carousel et al., 2005) and EXAMS (Burns, 2003). This updated model will improve users&#039; interactions with the program and facilitate maintenance and operation of the software.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Executable Installation&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/swcc.msi&quot;&gt;SWCC Executable (SWCC.msi)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 2 MB)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Source Code&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/przm5source.zipwcms.epa.gov/sites/production/files/2015-07/przm5source.zip&quot;&gt;PRZM5 (PRZM5source.zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 63 K)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/vvwmsource.zip&quot;&gt;VVWM (VVWMsource.zip)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 31 K&lt;/span&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Crop Scenarios&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/cropscenarios-swcc.zip&quot;&gt;SWCC Crop Scenarios (cropscenarios-swcc.zip)&lt;/a&gt;(1 pg, 69 K)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100JISL.txt&quot;&gt;Surface Water Concentration Calculator User Manual (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 168 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt; 12June2014, USEPA/OPP 734F14001)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100K3R4.txt&quot;&gt;PRZM5 A Model for Predicting Pesticide in Runoff, Erosion, and Leachate: User Manual (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(55 pp, 684 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt; 01July2014, USEPA/OPP 734F14002)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100JIT6.txt&quot;&gt;The Variable Volume Water Model (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(38 pp, 227 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) 12June2014, USEPA/OPP 734F14003)&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;FIRST (FQPA Index Reservoir Screening Tool)&lt;/h3&gt;
+
+&lt;p&gt;FIRST is a surface water model that is used to assess exposure to pesticides in drinking water.&lt;/p&gt;
+
+&lt;h4&gt;&lt;strong&gt;FIRST Version 1.0&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;/sites/production/files/2015-07/first.exe&quot;&gt;FIRST Version 1.0 Executable (EXE)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 74 K)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/first.for_.txt&quot;&gt;FIRST Version 1.0 Source Code (Fortran 77)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 46 K)&lt;/span&gt; Delete the _.txt to use the file as first.for&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/first-version-10-description.html&quot;&gt;Description&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/first-version-10-users-manual.html&quot;&gt;Users Manual&lt;/a&gt; &lt;/p&gt;
+
+&lt;h4&gt;FIRST Version 1.1.1&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;/sites/production/files/2015-07/firstv1_1_1.exe&quot;&gt;FIRST Version 1.1.1 Executable (EXE)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 590 K)&lt;/span&gt;&lt;br /&gt;
+	FIRST Version 1.1.1 Source Code (Fortran 77)(1 pg, 46 K) Delete the _.txt to use the file as first_version1_1_1.for&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/first-version-111-description.html&quot;&gt;Description&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/first-version-111-user-manual.html&quot;&gt;Users Manual&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/first-release-notes.html&quot;&gt;Release Notes for FIRST Models&lt;/a&gt; &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;ground&quot; name=&quot;ground&quot;&gt;&lt;/a&gt;Ground Water Models&lt;/h2&gt;
+
+&lt;h3&gt;PRZM-GW&lt;/h3&gt;
+
+&lt;p&gt;PRZM-GW (Pesticide Root Zone Model for GroundWater) is used as a screening-level and refined tool for risk assessment purposes. In general, PRZM-GW provides conservative estimates of pesticide concentrations in groundwater, but it also allows for region specific scenario development in cases where refined drinking water assessments are needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/sites/production/files/2015-07/przmgw.msi&quot;&gt;PRZM-GW Version 1.07 Executable (PRZMGW.msi)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 2 MB)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/implementation-pesticide-root-zone-model-groundwater.html&quot;&gt;Implementation of the Pesticide Root Zone Model Groundwater (PRZM-GW) for Use in EPA’s Pesticide Exposure Assessments &lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/standard-operating-procedure-using-przm-gw-estimate.html&quot;&gt;Standard Operating Procedure for Using PRZM-GW to Estimate Pesticide Concentrations in Groundwater for Drinking Water Exposure Assessments&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/guidance-selecting-input-parameters-modeling-0.html&quot;&gt;Guidance for Selecting Input Parameters for Modeling Pesticide Concentrations in Groundwater Using the Pesticide Root Zone Model - Version 1.0&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/model-and-scenario-development-guidance-estimating.html&quot;&gt;Model and Scenario Development Guidance for Estimating Pesticide Concentrations in Groundwater Using the Pesticide Root Zone Model &lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/przmgw_scenarios.zip&quot;&gt;PRZM-GW Version 1.07 - Scenarios (ZIP)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 105 K)&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/przm-gw-support-document-draft-final-report.html&quot;&gt;DRAFT Final Report. Identification and Evaluation of Existing Models for Estimating Environmental Pesticide Transport to Groundwater. A North American Free Trade Agreement (NAFTA) Project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;SCIGROW (Screening Concentration In GROund Water)&lt;/h3&gt;
+
+&lt;p&gt;SCIGROW is an aquatic model used to estimate pesticide concentrations in ground water.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/sites/production/files/2015-07/sg23.exe&quot;&gt;SCI-GROW Executable sg23.exe&lt;/a&gt; (1 pg, 344 K)&lt;br /&gt;&lt;a href=&quot;/sites/production/files/2015-07/scigrow.f90.txt&quot;&gt;SCI-GROW Source Code (scigrow.f90.txt)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 4 K)&lt;/span&gt; (Fortran 90) Delete the .txt extension to use the file as scigrow.f90&lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/epa/pesticide-science-and-assessing-pesticide-risks/sci-grow-description.html&quot;&gt;Description&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://archive.epa.gov/oppefed1/web/html/scigrow_users_manual.html&quot;&gt;User&#039;s Manual for Version 2.3 &lt;/a&gt;is under development &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;other&quot; name=&quot;other&quot;&gt;&lt;/a&gt;Other Models&lt;/h2&gt;
+
+&lt;h3&gt;EXPRESS (EXAMS - PRZM Exposure Simulation Shell)&lt;/h3&gt;
+
+&lt;p&gt;EXPRESS is designed to facilitate a rapid and consistent assessment of aquatic pesticide exposure on a variety of crops. EXPRESS is a joint project of the USEPA Office of Pesticide Programs&#039; Environmental Fate and Effects Division (OPP/EFED) and the USEPA Office of Research and Development (ORD). &lt;a href=&quot;/exposure-assessment-models/express&quot;&gt;View EXPRESS (EXAMS - PRZM Exposure Simulation Shell)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Dec 2016 19:48:53 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">167989 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PFAM 2.0 - Documentations</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pfam-20-documentations</link>
+    <description>&lt;p&gt;PFAM is an aquatic model used to estimate surface water exposure from the use of pesticides in flooded fields. In comparison to the Tier 1 rice model, PFAM allows for more advanced evaluation of pesticide use on flooded agricultural areas such as rice paddies and cranberry bogs. The advanced capabilities of PFAM include accounting for water and pest management practices and for degradation in soil and aquatic environments, as well as for post processing of discharged paddy waters to a user-defined receiving water.  Although PFAM scenarios were developed mainly for applications of pesticides to rice paddies, in the future additional pesticide scenarios may be developed for other crops.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-325055&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pfam-whitepaper.pdf&quot; type=&quot;application/pdf; length=2978266&quot; class=&quot;file-link&quot;&gt;Development of a Conceptual Model to Estimate Pesticide Concentrations for Human Health Drinking Water and Guidance on Conducting Ecological Risk Assessments for the Use of Pesticides on Rice (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(112 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-325059&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/pfam-input-parameter-guidance.pdf&quot; type=&quot;application/pdf; length=354170&quot; class=&quot;file-link&quot;&gt;Guidance for Selecting Input Parameters for the Pesticides in Flooded Application Model (PFAM) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 354 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-325065&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/scenario-metadata.pdf&quot; type=&quot;application/pdf; length=557882&quot; class=&quot;file-link&quot;&gt;Metadata for Pesticides in Flooded Applications Model Scenarios for Simulating Pesticide Applications to Rice Paddies (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(31 pp, 558 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 19 Oct 2016 18:22:33 +0000</pubDate>
+ <dc:creator>ctran</dc:creator>
+ <guid isPermaLink="false">163033 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Guidance on Light-Dependent Peroxidizing Herbicides: Use of the Molar Threshold Value for Adjusting Fish Chronic Endpoints to Account for Ultraviolet Light-enhanced Toxicity</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/guidance-light-dependent-peroxidizing-herbicides-use</link>
+    <description>&lt;p&gt;EPA has developed the following guidance for light-dependent peroxidizing herbicides (LDPHs) and other chemicals that may act via a light dependent peroxidizing (LDP) mode of action.&lt;/p&gt;
+&lt;p&gt;The purpose of this guidance is to assist risk assessors in: (1) identifying herbicides and other pesticides that may act through a LDP mode of action; and (2) applying a molar threshold to fish chronic toxicity test endpoints in the absence of chemical-specific data to account for ultraviolet (&lt;em&gt;uV&lt;/em&gt;) light-enhanced toxicity.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-298231&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/guidancelightdependentperoxidizingherbicides.pdf&quot; type=&quot;application/pdf; length=871637&quot; class=&quot;file-link&quot;&gt;Guidance on Light-Dependent Peroxidizing Herbicides 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 872 K, 
+  June 29, 2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Certain herbicides have been shown to exhibit enhanced toxicity to fish in the presence of ultraviolet light compared to toxicity observed under standard laboratory lighting.  This class of herbicides is called light-dependent peroxidizing herbicides (LDPHs).  To address concerns that standard laboratory tests may underestimate the toxicity of LPDHs in shallow, clear waters, EPA has developed guidance for identifying and evaluating these pesticides.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 30 Jun 2016 14:48:09 +0000</pubDate>
+ <dc:creator>slees</dc:creator>
+ <guid isPermaLink="false">153801 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide in Water Calculator Version 1.50 and 1.52 User Manual</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pesticide-water-calculator-version-150-and-152-user</link>
+    <description>&lt;p&gt;The Pesticide in Water Calculator (PWC) is a &lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment&quot;&gt;water model&lt;/a&gt; used by OPP to estimate pesticide concentrations in water bodies that result from pesticide applications to land.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-286211&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/pwc_user_manual_v1_50and1_52.pdf&quot; type=&quot;application/pdf; length=420271&quot; class=&quot;file-link&quot;&gt;Pesticide in Water Calculator Version 1.50 and 1.52 User Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 420 K, 
+  February 25, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 19 May 2016 12:03:35 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">149971 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide Cumulative Risk Assessment: Framework for Screening Analysis</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pesticide-cumulative-risk-assessment-framework</link>
+    <description>&lt;p&gt;EPA has published a guidance document, &lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OPP-2015-0422-0019&quot;&gt;&lt;em&gt;Pesticide Cumulative Risk Assessment: Framework for Screening Analysis&lt;/em&gt;&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;This document provides guidance on how to screen groups of pesticides for cumulative evaluation using a two-step approach:&lt;/p&gt;
+
+&lt;blockquote&gt;
+	&lt;ol&gt;&lt;li&gt;begin with evaluation of available toxicological information and, if necessary,&lt;/li&gt;
+		&lt;li&gt;
+			&lt;p&gt;follow up with a risk-based screening approach.  &lt;/p&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This framework supplements the existing guidance documents for establishing common mechanism groups and conducting cumulative risk assessments.&lt;/p&gt;
+
+&lt;p&gt;During Registration Review, we will use this framework to determine if the available toxicological data for a group of chemicals suggest a candidate common mechanism group could be established. If we establish a common mechanism group, we may conduct a screening-level toxicology and exposure analysis to provide an initial screen for multiple pesticide exposure.  &lt;/p&gt;
+
+&lt;p&gt;By establishing guidance for conducting a screening-level analysis of chemicals that have potential cumulative risks, we will be able to more efficiently prioritize our cumulative risk assessments. Before development of this framework, cumulative assessments required extensive resources, large amounts of data, and sometimes involved labor-intensive scientific analyses.&lt;/p&gt;
+
+&lt;p&gt;This screening-level approach will ultimately allow us to address the Federal Food, Drug, and Cosmetic Act requirements to consider available information concerning cumulative effects of pesticides having a common mechanism of toxicity while efficiently using resources.&lt;/p&gt;
+
+&lt;h2&gt;Background on the Cumulative Risk Assessment Framework for Screening Analysis&lt;/h2&gt;
+
+&lt;p&gt;In July 2015, we requested public comment on the draft guidance document, &lt;em&gt;Pesticide Cumulative Risk Assessment: Framework for Screening Analysis&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;As an example of how we would implement the guidance, we included in the docket a draft copy of the human health risk assessment for abamectin and emamectin benzoate, considering all risks. Using the proposed screening guidance, we determined that abamectin and emamectin benzoate should be considered a candidate common mechanism group because they share a similar toxicological profile. &lt;/p&gt;
+
+&lt;p&gt;Consistent with the guidance, we then developed a screening-level cumulative analysis for these two pesticides using highly conservative exposure assumptions. This screening assessment indicates that cumulative aggregate dietary and residential exposures for abamectin and emamectin benzoate are below the Agency’s levels of concern.&lt;/p&gt;
+
+&lt;h2&gt;For More Information&lt;/h2&gt;
+
+&lt;p&gt;Learn more about:&lt;/p&gt;
+
+&lt;blockquote&gt;
+	&lt;ul&gt;&lt;li&gt;
+			&lt;div&gt;&lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/cumulative-assessment-risk-pesticides&quot;&gt;How EPA assesses cumulative risk for pesticides&lt;/a&gt;.&lt;/div&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;div&gt;&lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/guidance-human-health-risk-assessments-pesticides#risk-assessment&quot;&gt;Guidance for human health risk assessments for pesticides&lt;/a&gt;&lt;/div&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;&lt;/blockquote&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 May 2016 18:40:27 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">149933 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Refinements for Risk Assessment of Pesticide Treated Seeds – Interim Guidance</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/refinements-risk-assessment-pesticide-treated-seeds</link>
+    <description>&lt;p&gt;Treating seeds with pesticides has become a common agricultural practice to improve seed quality by reducing soil borne diseases and by discouraging insects or other pests. The Office of Pesticide Programs routinely conducts ecological effects assessments for pesticides used as seed treatments.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this document is to clarify EFED’s current policy for conducting risk assessments for pesticides used as seed treatments.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-274035&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-04/documents/interimseedtreatmentguidance2016.pdf&quot; type=&quot;application/pdf; length=246810&quot; class=&quot;file-link&quot;&gt;Refinements for Risk Assessment of Pesticide Treated Seeds – Interim Guidance 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 247 K, 
+  April 1, 2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    The purpose of this document is to clarify EFED’s current policy for conducting risk assessments for pesticides used as seed treatments, to ensure that appropriate risk assessment methodologies are used, and to provide potential options for refinements. Furthermore, the purpose of this interim guidance is to ensure that certain factors, such as soil incorporation of pesticide treated seeds, are used in a scientifically valid and consistent manner across EFED risk assessments.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 05 Apr 2016 14:16:42 +0000</pubDate>
+ <dc:creator>slees</dc:creator>
+ <guid isPermaLink="false">142185 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Guidance for Using the Volatilization Algorithm in the Pesticide in Water Calculator and Water Exposure Models</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/guidance-using-volatilization-algorithm-pesticide</link>
+    <description>&lt;p&gt;This document provides guidance for using the volatilization algorithm in the &lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment#PWC&quot;&gt;Pesticide in Water Calculator&lt;/a&gt; (PWC). The release of the PWC (Version 1.5) includes additional inputs needed to execute the volatilization algorithm. These include the Diffusion in Air Coefficient, Heat of Henry, and Henry’s Law Constant. Additional volatilization-related outputs are also now available, including pesticide mass distribution within the soil profile and the amount of pesticide lost due to volatilization.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-262563&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/volatilization_algorithm_guidance.pdf&quot; type=&quot;application/pdf; length=817625&quot; class=&quot;file-link&quot;&gt;Guidance for Using the Volatilization Algorithm in the Pesticide in Water Calculator and Water Exposure Models (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 818 K, 
+  December 8, 2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This document describes these new additions and provides guidance for assessing pre-emergent and bare soil applications in the PWC with the volatilization algorithm.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 07 Mar 2016 16:54:53 +0000</pubDate>
+ <dc:creator>slees</dc:creator>
+ <guid isPermaLink="false">137655 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide in Water Calculator Version 1.50 User Manual</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pesticide-water-calculator-version-150-user-manual</link>
+    <description>&lt;p&gt;The Pesticide in Water Calculator (PWC) is a &lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/models-pesticide-risk-assessment&quot;&gt;water model&lt;/a&gt; used by OPP to estimate pesticide concentrations in water bodies that result from pesticide applications to land.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-238773&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-12/documents/pwc_user_manual_12-8-15.pdf&quot; type=&quot;application/pdf; length=595928&quot; class=&quot;file-link&quot;&gt;Pesticide in Water Calculator Version 1.50 User Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 596 K, 
+  December 8, 2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+     The Pesticide in Water Calculator (PWC) estimates pesticide concentrations in water bodies that result from pesticide applications to land. The PWC is designed as a regulatory tool for users in the USEPA Office of Pesticide Programs and the Pest Management Regulatory Agency of Health Canada. The PWC contains a graphical user interface shell, the Pesticide Root Zone Model (PRZM version 5.02), and the Variable Volume Water Model (VVWM version 1.02).   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 09 Dec 2015 11:32:39 +0000</pubDate>
+ <dc:creator>dcoleman</dc:creator>
+ <guid isPermaLink="false">129155 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Defining Pesticide Biomarkers</title>
+    <link>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/defining-pesticide-biomarkers</link>
+    <description>&lt;p&gt;Biomarkers are measurable substances or characteristics in the human body that can be used to monitor the presence of a chemical in the body, biological responses or adverse health effects. The use of biomarkers will help us evaluate potential exposures to pesticides as well as predict effects that may result, allowing us to make decisions that are more protective of human health. Biomarkers are commonly grouped into biomarkers of exposure, effect and susceptibility. This Web page describes these groups of biomarkers and provides examples.&lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#expsoure&quot;&gt;Biomarkers of exposure&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#categories&quot;&gt;Biomarkers of exposure categories&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#effect&quot;&gt;Biomarkers of effect&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#effect-categories&quot;&gt;Biomarkers of effect categories&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#susceptibility&quot;&gt;Biomarkers of susceptibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;expsoure&quot; name=&quot;expsoure&quot;&gt;&lt;/a&gt;Biomarkers of Exposure&lt;/h2&gt;
+
+&lt;p&gt;Biomarkers of exposure are used to assess the amount of a chemical that is present within the body. Many chemicals can be measured in urine, blood, saliva, and, if they are fat soluble, in body fat and breast milk (e.g., DDT). Biomarkers of exposure provide information on&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;chemical exposures in individualsl&lt;/li&gt;
+	&lt;li&gt;changes in levels over time; and&lt;/li&gt;
+	&lt;li&gt;variability among different populations.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;They may also provide information on the relative importance of different exposure pathways and associated risk. It is important to note that the measurement of a chemical in someone’s body does not by itself mean that chemical has caused adverse health effects.&lt;/p&gt;
+
+&lt;p&gt;Additionally, there are a number of uses related to the interpretation of biomarkers of exposure. For example, the measurement of 3-phenoxybenzioc acid (3-PBA) in urine is considered a non-specific biomarker of exposure because 3-PBA is a common metabolite of several pyrethroid pesticides. Therefore, additional information is needed to resolve which pyrethroid was the parent chemical.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;expsoure-categories&quot; name=&quot;expsoure-categories&quot;&gt;&lt;/a&gt;Biomarkers of Exposure Categories&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Chemical&lt;/strong&gt; –The most specific exposure biomarker is direct measurement of the chemical of interest in the body. Typically, measurement of the chemical is made in an accessible biological matrix (e.g., blood, urine). While some pesticides can be directly measured in the body, it is generally more common to measure metabolites of pesticides.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Metabolite&lt;/strong&gt; – Many chemicals are rapidly metabolized or difficult to measure. In these cases, a more stable breakdown product (metabolite) of the chemical may be measured to estimate exposure to the chemical. When a metabolite may derive from a number of different chemicals (as in the 3-PBA example above), additional information is needed to resolve to which chemical the person was exposed.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Endogenous surrogate&lt;/strong&gt; – In some cases, a chemical or class of chemicals may result in an endogenous response (response within the body) that is highly characteristic of that chemical or class. Measures of that response can be used as a surrogate in lieu of direct measurement of the chemical or metabolite concentration when sufficient additional information is available. Since there are many factors that can influence endogenous responses, this type of exposure biomarker is accompanied by many uncertainties that should be identified and discussed.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See examples in &lt;a href=&quot;#table1&quot;&gt;Table 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;effect&quot; name=&quot;effect&quot;&gt;&lt;/a&gt;Biomarkers of Effect&lt;/h2&gt;
+
+&lt;p&gt;Biomarkers of effect are indicators of a change in biologic function in response to a chemical exposure&lt;a href=&quot;#footnote&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. Thus, they more directly relate to insight into the potential for adverse health effects compared with biomarkers of exposure.&lt;/p&gt;
+
+&lt;p&gt;One example of a biomarker of effect is blood cholinesterase, which can become depressed following exposure to organophosphate and N-methyl carbamate pesticides. Measuring cholinesterase levels can be a useful tool for monitoring agricultural workers and identifying workers that may potentially be overexposed to pesticides.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;effect-categories&quot; name=&quot;effect-categories&quot;&gt;&lt;/a&gt;Biomarkers of Effect Categories&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;
+		&lt;p&gt;&lt;strong&gt;Bioindicator&lt;/strong&gt; – An ideal biomarker of effect has an explicitly known mechanism that links the marker and an adverse outcome. In most cases, this is achieved by a sufficient understanding of the adverse outcome pathway or mode of action of the chemical, and the causal or correlative relationship of biological events between the marker and the adverse outcome.&lt;/p&gt;
+
+		&lt;p&gt;Bioindicators provide a high degree of confidence in predicting the potential for adverse effects in an individual or population based on marker levels. An understanding of the adverse outcome pathway also supports development of a variety of bioindicators for different key events or outcomes of interest (e.g., markers for precursor events leading to a clinically detectable adverse outcome to support early detection and prevention).&lt;/p&gt;
+
+		&lt;p&gt;When cellular or molecular initiating events can be identified as critical steps in an adverse outcome pathway, bioindicators can be developed in conjunction with high throughput screening assays to provide a rapid and efficient means for early detection of adverse outcomes in target population. EPA researchers are actively developing this class of biomarkers of effects in support of &lt;a href=&quot;/pesticide-science-and-assessing-pesticide-risks/strategic-vision-adopting-21st-century-science&quot;&gt;Toxicity Testing in the 21st Century&lt;/a&gt;.&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;&lt;strong&gt;Undetermined consequence&lt;/strong&gt; – This subgroup of biomarkers provides more limited and uncertain indication of the potential for adverse effects, because the events or deterministic linkages in an adverse outcome pathway are less well known. An example would be markers of oxidative stress where elevations have been associated with a variety of adverse outcomes, but the explicit relationships have yet to be defined. As the role of oxidative stress in different disease processes (and adverse outcome pathways) becomes more clearly defined, there will be increasing certainty in the use of oxidative stress biomarkers to predict the potential for organism/population-level effects. Meanwhile, these biomarkers can be used in conjunction with other biomarkers in this or other subgroups to improve the specificity and sensitivity of the overall set of markers for development of an adverse outcome.&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;&lt;strong&gt;Exogenous surrogate&lt;/strong&gt; – Some chemicals have well known adverse effects, which are accompanied by other effects that can be used as surrogate indicators of the main adverse effect of interest. A common example is paranitrophenol , a metabolite of methyl parathion. Measurement in humans of paranitrophenol in the urine has been used as an exogenous surrogate biomarker of exposure to methyl parathion and as an indicator of the potential for toxicity due to methyl parathion-induced acetylcholinesterase inhibition.&lt;/p&gt;
+
+		&lt;p&gt;Exogenous surrogate biomarkers are suboptimal as effects markers because they do not directly capture the contribution of additional factors (intrinsic and extrinsic) that may influence the incidence or severity of an adverse outcome. Given these limitations, use of exogenous surrogates as biomarkers is mostly limited to measurement of those effects that are predominantly due to the chemical of interest (i.e., to reduce the number of potentially confounding effects and to decrease uncertainty associated with the measured surrogate biomarker).&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See examples in &lt;a href=&quot;#table2&quot;&gt;Table 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;susceptibility&quot; name=&quot;susceptibility&quot;&gt;&lt;/a&gt;Biomarkers of Susceptibility&lt;/h2&gt;
+
+&lt;p&gt;Biomarkers of susceptibility are factors that may make certain individuals more sensitive to chemical exposure. Biomarkers of susceptibility include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Genetic factors that may influence how the body interacts with a chemical.&lt;/li&gt;
+	&lt;li&gt;Other biological factors related to nutritional status, health status, lifestyle, and life stage that may affect an individual’s susceptibility to chemical exposure.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;caption&gt;&lt;a id=&quot;table1&quot; name=&quot;table1&quot;&gt;&lt;/a&gt;Table 1: Examples of Biomarkers of Exposure from Different Categories&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Exposure Biomarker Category&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Biological Matrix&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Example Analytes&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;External stressor&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Chemical&lt;/td&gt;
+			&lt;td&gt;Breath&lt;/td&gt;
+			&lt;td&gt;Styrene (unmetabolized)&lt;/td&gt;
+			&lt;td&gt;Styrene&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chemical&lt;/td&gt;
+			&lt;td&gt;Feces&lt;/td&gt;
+			&lt;td&gt;Bisphenol A (unmetabolized)&lt;/td&gt;
+			&lt;td&gt;Bisphenol A&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chemical&lt;/td&gt;
+			&lt;td&gt;Serum/Urine&lt;/td&gt;
+			&lt;td&gt;8:2 8:2 DiPap&lt;/td&gt;
+			&lt;td&gt;8:2 8:2 DiPap&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Metabolite&lt;/td&gt;
+			&lt;td&gt;Blood&lt;/td&gt;
+			&lt;td&gt;Styrene Oxide&lt;/td&gt;
+			&lt;td&gt;Styrene&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Metabolite&lt;/td&gt;
+			&lt;td&gt;Urine&lt;/td&gt;
+			&lt;td&gt;BPA monoglucuronide&lt;/td&gt;
+			&lt;td&gt;Bisphenol A&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Metabolite&lt;/td&gt;
+			&lt;td&gt;Serum/Urine&lt;/td&gt;
+			&lt;td&gt;PFOA&lt;/td&gt;
+			&lt;td&gt;8:2 8:2 DiPap, other fluorinated alkyl acids&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Endogenous Surrogate&lt;/td&gt;
+			&lt;td&gt;Urine/blood&lt;/td&gt;
+			&lt;td&gt;Testosterone&lt;/td&gt;
+			&lt;td&gt;Bisphenol A , other endocrine active compounds&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Endogenous Surrogate&lt;/td&gt;
+			&lt;td&gt;Plasma&lt;/td&gt;
+			&lt;td&gt;Butyrylcholinesterase inhibition&lt;/td&gt;
+			&lt;td&gt;Toxicity due to acetylcholinesterase inhibition&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;table&gt;&lt;caption&gt;&lt;a id=&quot;table2&quot; name=&quot;table2&quot;&gt;&lt;/a&gt;Table 2: Examples of Biomarkers of Effects from Different Categories&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Effect Biomarker Category&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Biological Matrix&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Example Analytes&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Adverse Outcome /Biological Process&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Bioindicator&lt;/td&gt;
+			&lt;td&gt;Red blood cells&lt;/td&gt;
+			&lt;td&gt;Acetylcholinesterase inhibition&lt;/td&gt;
+			&lt;td&gt;Toxicity due to acetylcholinesterase inhibition&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bioindicator&lt;/td&gt;
+			&lt;td&gt;Blood&lt;/td&gt;
+			&lt;td&gt;Maternal T4/T3&lt;/td&gt;
+			&lt;td&gt;Neurological deficiency in offspring&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Undetermined Consequence&lt;/td&gt;
+			&lt;td&gt;Blood/Urine&lt;/td&gt;
+			&lt;td&gt;Malondialdehyde&lt;/td&gt;
+			&lt;td&gt;Oxidative stress&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Undetermined Consequence&lt;/td&gt;
+			&lt;td&gt;Serum/Urine&lt;/td&gt;
+			&lt;td&gt;8-OHdG&lt;/td&gt;
+			&lt;td&gt;Oxidative stress&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Exogenous Surrogate&lt;/td&gt;
+			&lt;td&gt;Blood&lt;/td&gt;
+			&lt;td&gt;Lead&lt;/td&gt;
+			&lt;td&gt;Neurological deficiency&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Exogenous Surrogate&lt;/td&gt;
+			&lt;td&gt;Urine&lt;/td&gt;
+			&lt;td&gt;3-PBA&lt;/td&gt;
+			&lt;td&gt;Toxicity due to modulation of neuronal sodium channels&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Exogenous Surrogate&lt;/td&gt;
+			&lt;td&gt;Urine&lt;/td&gt;
+			&lt;td&gt;Paranitrophenol&lt;/td&gt;
+			&lt;td&gt;Toxicity due to acetylcholinesterase inhibition&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Abbreviations:&lt;/h3&gt;
+
+&lt;p&gt;3-PBA: 3-phenoxybenzioc acid&lt;br /&gt;
+	8-OHdG: 8-hydroxy-2&#039;-deoxyguanosine &lt;br /&gt;
+	Acetylcholinesterase: AChE &lt;br /&gt;
+	DiPap: Polyfluoroalkyl phosphate ester&lt;br /&gt;
+	PFOA: Perfluorooctanoic acid&lt;br /&gt;
+	T4: thyroxine (a thyroid hormone)&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;&lt;a id=&quot;footnote&quot; name=&quot;footnote&quot;&gt;&lt;/a&gt;1&lt;/sup&gt; Biomarkers of effect correspond to biomarkers as defined by the FDA: Biomarkers Definitions Working Group (2001). &lt;em&gt;Clinical Pharmacology and Therapeutics&lt;/em&gt;, 69, p. 89 – 95.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 08 Dec 2015 18:31:09 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">128619 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:13:41, expires @ 2017-01-26 16:13:41, lifetime 12 hours -->

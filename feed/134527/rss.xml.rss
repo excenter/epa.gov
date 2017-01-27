@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/134527/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Web Policies and Procedures</title>
+    <link>https://www.epa.gov/feed/134527/rss.xml</link>
+    <description>Updated Web Policies and Procedures content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/134527/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Glossary Management Guide</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/glossary-management-guide</link>
+    <description>&lt;p&gt;This guide provides information on how to create and manage an EPA glossary using Terminology Services&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-342999&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/glossary_management_guide.pdf&quot; type=&quot;application/pdf; length=848216&quot; class=&quot;file-link&quot;&gt;Glossary Management Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 848 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Jan 2017 20:42:42 +0000</pubDate>
+ <dc:creator>afeldman</dc:creator>
+ <guid isPermaLink="false">168231 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Linking to Glossaries in Terminology Services</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/linking-glossaries-terminology-services</link>
+    <description>&lt;p&gt;How to link to a glossary in Terminology Services&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-342987&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/linking_to_glossaries_in_terminology_services.pdf&quot; type=&quot;application/pdf; length=286567&quot; class=&quot;file-link&quot;&gt;Linking to glossaries in Terminology Services (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 287 K, 
+  01/04/2017)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 04 Jan 2017 20:30:15 +0000</pubDate>
+ <dc:creator>afeldman</dc:creator>
+ <guid isPermaLink="false">168227 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Image Guidance</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/image-guidance</link>
+    <description>&lt;div&gt;
+	&lt;p&gt;Images for resource directories and microsites are critical to web visitors&#039; experiences on epa.gov. Testing has shown that our visitors consciously and subconsciously use images to help locate content that accomplishes their top tasks. &lt;/p&gt;
+
+	&lt;p&gt;When the Office of Web Communications (OWC) reviews a new or existing web area, it will review the images in that area in order to determine whether they conform to: EPA web standards, policies and other requirements, including Section 508 requirements; and standards of professional quality.  &lt;a href=&quot;#1&quot;&gt;The Image Standards sections of this page&lt;/a&gt; discuss these requirements further.&lt;/p&gt;
+
+	&lt;p&gt;In addition, OWC reviews and has final approval of the selection of images used on (a) microsite home page banners, and (b) resource directory hub pages (main body content).  Options for selecting and developing these images are described below in the &lt;a href=&quot;#2&quot;&gt;Process sections of this page&lt;/a&gt;.&lt;/p&gt;
+	&lt;a id=&quot;where&quot; name=&quot;where&quot;&gt;&lt;/a&gt;
+
+	&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Where Can I Get Photos?&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;
+					&lt;p&gt;&lt;a href=&quot;http://intranet.epa.gov/media/&quot;&gt;Office of Multimedia&#039;s intranet site&lt;/a&gt; &lt;span&gt; &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;.  Click on the Event Gallery, Stock Gallery and Panoramic Gallery links on the left. Free, and no copyright issues.&lt;/p&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;p&gt;&lt;a href=&quot;https://search.usa.gov/search/images?affiliate=usagov&amp;amp;query=&quot;&gt;Search USA.gov&lt;/a&gt; by photo subject for federal government images. Each image is presented with information about copyright/licensing/use restrictions, and with links to image use policies of the agency that owns the image.  You can also &lt;a href=&quot;https://www.flickr.com/search/?text=&amp;amp;license=8&quot;&gt;search on Flickr for photos that are posted with a U.S. Government works license&lt;/a&gt;. &lt;span&gt;  &lt;/span&gt;&lt;a href=&quot;#copyright&quot;&gt;See the copyright section of this page for more information&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;p&gt;Stock photo companies. Your office will have to pay; find out if an account has already been set up.  There is considerable variation in costs per photo; make sure you understand the cost and any licensing/use restrictions before you order.  &lt;a href=&quot;#copyright&quot;&gt;See the copyright section of this page for more information&lt;/a&gt;.&lt;/p&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;p&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;div&gt;&lt;a id=&quot;1&quot; name=&quot;1&quot;&gt;&lt;/a&gt;&lt;strong&gt;Image Standards:&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Standards&quot;&gt;Image Standards:  Requirements and Resources&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Appendix&quot;&gt;Image Standards Specific to One EPA Web: What the OWC Image Team Will Look for When Choosing or Reviewing Images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;a id=&quot;2&quot; name=&quot;2&quot;&gt;&lt;/a&gt;&lt;strong&gt;Process:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#Options&quot;&gt;Options for Creating Images When You Develop a New Web Area&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Process for Selecting and Editing Images:
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#New&quot;&gt;New Microsites and Resource Directories&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#Existing&quot;&gt;Existing Microsites and Resource Directories&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;Standards&quot; name=&quot;Standards&quot;&gt;&lt;/a&gt;Image Standards: Requirements and Resources&lt;/h2&gt;
+
+&lt;h3&gt;General Standards and Policies&lt;/h3&gt;
+
+&lt;div&gt;Web area Editors-in-Chief (EICs) are responsible for adhering to all EPA web standards, policy and guidance related to images/graphics, including but not limited to:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/web-policies-and-procedures/web-standard-graphics&quot;&gt;Web Standard: Graphics&lt;/a&gt;.  Includes information on meeting Section 508 requirements.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/web-policies-and-procedures/web-standard-graphic-logos&quot;&gt;Web Standard: Graphic Logos&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Appendix&quot;&gt;One EPA Web Image Standards (set forth below)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a id=&quot;copyright&quot; name=&quot;copyright&quot;&gt;&lt;/a&gt;Copyright standards and policies&lt;/h3&gt;
+
+&lt;div&gt;Web area Editors-in-Chief (EICs) are responsible for adhering to all all applicable copyright policies and guidance, including but not limited to:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;
+
+		&lt;ul&gt;&lt;li&gt;Use only images you have permission to use:
+				&lt;ol&gt;&lt;li&gt;Images you or OWC have licensed (for example, through stock photo websites); or&lt;/li&gt;
+					&lt;li&gt;Images for which you or OWC have bought the copyright; or&lt;/li&gt;
+					&lt;li&gt;Images for which you have obtained written permission from the copyright owner; or&lt;/li&gt;
+					&lt;li&gt;Images free of copyright; or&lt;/li&gt;
+					&lt;li&gt;Images owned by EPA. A large number of EPA photos are available on the &lt;a href=&quot;http://intranet.epa.gov/media/&quot;&gt;Office of Multimedia&#039;s intranet site&lt;/a&gt; &lt;span&gt; &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;.  Click on the Event Gallery, Stock Gallery and Panoramic Gallery links on the left.&lt;/li&gt;
+				&lt;/ol&gt;&lt;/li&gt;
+			&lt;li&gt;Obtain releases/consents from photo models/subjects where applicable.&lt;/li&gt;
+			&lt;li&gt;&lt;span class=&quot;warning&quot;&gt;&lt;strong&gt;Warning:&lt;/strong&gt;&lt;/span&gt; Do not assume that photos on websites managed by other programs or regions or on other agency websites,&lt;em&gt; including any images found through the Web CMS Image Library,&lt;/em&gt; are free of copyright.  
+				&lt;ul&gt;&lt;li&gt;If you are interested in using an image that is in a web area of the Web CMS, you can try contacting the Editor in Chief (EIC) of that area to find out if he knows who owns the image.  To reach out to the EIC, you can either (a) try contacting the EIC through the &quot;Contact Us&quot; page of the web area where the image is located, or (b) send an email directly to the EIC.  The most accurate list of web area EICs is located in the Web Plan, which is located on the &lt;a href=&quot;/web-policies-and-procedures/resources-web-policies-and-procedures#guidance&quot;&gt;Resources for Web Policies and Procedures page&lt;/a&gt;.&lt;/li&gt;
+					&lt;li&gt;If you are using the Web CMS Image Library to select and use an image on a page you are developing, you should follow these steps:
+						&lt;ul&gt;&lt;li&gt;DO NOT use the &quot;Add files and images&quot; tool in the Edit View of your page to find an image that you can use.  Instead,&lt;/li&gt;
+							&lt;li&gt;Go to the &lt;a href=&quot;/admin/epa-dashboard/files&quot;&gt;Files tab of the Dashboard (you must first log in to access this page)&lt;/a&gt; and search for appropriate images.  Once you have selected one you would like to use, 
+								&lt;ul&gt;&lt;li&gt;Note the LAN ID of the file&#039;s owner.  The owner is found in the User column across from the image.&lt;/li&gt;
+									&lt;li&gt;Determine who the file owner is; what person is associated with the LAN ID?  If you can&#039;t tell by looking at the LAN ID, contact Web CMS Support.&lt;/li&gt;
+									&lt;li&gt;Contact the file owner to determine whether the image is free of any copyright, restriction or license requirement that would prohibit you from reusing the file owner&#039;s image.  If the file owner can&#039;t tell you which category 1-5 above the image falls into, don&#039;t use the image, because it may be that the file owner didn&#039;t get all required permissions to use it in the first place.&lt;/li&gt;
+								&lt;/ul&gt;&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Resources:&lt;/strong&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/webguide/copyright-issues&quot;&gt;General information about copyright issues&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Formal EPA copyright policies:
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://intranet.epa.gov/oei/imitpolicy/qic/ciopolicy/2182.p.pdf&quot;&gt;Children&#039;s Privacy and Children&#039;s Copyright policy (PDF)&lt;/a&gt; &lt;span&gt; &lt;/span&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://intranet.epa.gov/oei/imitpolicy/qic/ciopolicy/2181.p.pdf&quot;&gt;Posting Copyrighted Works on EPA Web Site (PDF)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://intranet.epa.gov/media/MOSS_Guidelines/EPA_Multimedia_Consent_Form_fillable2.pdf&quot;&gt;Consent form to be signed by photo models/subjects (PDF)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Options&quot; name=&quot;Options&quot;&gt;&lt;/a&gt;Options for Creating Images When You Develop a New Web Area&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Option 1:&lt;/strong&gt; OWC develops the images. To help you, OWC can develop these images for you, selecting them (OWC has access to stock images and EPA-created images) and editing them to match your site&#039;s needs. If you decide to have OWC develop images for a home/hub page, you may also suggest image ideas or submit particular images for OWC to consider.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; You develop the images. Aside from a few priority topics where OWC might require that it develop images, you may develop your own images. You are then responsible for meeting the &lt;a href=&quot;#Standards&quot;&gt;standards discussed on this page&lt;/a&gt;. OWC has final approval of image selection.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;New&quot; name=&quot;New&quot;&gt;&lt;/a&gt;Process for Selecting and Editing Images: New Microsites and Resource Directories&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#owc&quot;&gt;Steps to take if OWC develops your images&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#you&quot;&gt;Steps to take if you develop images on your own&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;a id=&quot;owc&quot; name=&quot;owc&quot;&gt;&lt;/a&gt;Steps to Take if OWC Develops your Images&lt;/h3&gt;
+
+&lt;div&gt;&lt;strong&gt;Step 1.&lt;/strong&gt; You, as the EIC, develop a website. Start thinking about images for your site only after:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;you have identified top audiences and tasks,&lt;/li&gt;
+	&lt;li&gt;you have reviewed potential content and identified appropriate content; content is rewritten for the Web as needed, and&lt;/li&gt;
+	&lt;li&gt;content organization is finalized.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;If this is a resource directory, you should:
+		&lt;ul&gt;&lt;li&gt;develop images for (a) spoke (internal) pages and (b) right side of hub page&lt;/li&gt;
+			&lt;li&gt;NOT develop images for main body of hub page -- use a placeholder image instead.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;If this is a microsite, you should:
+		&lt;ul&gt;&lt;li&gt;develop images for (a) internal pages and (b) placement below the banner on the home page&lt;/li&gt;
+			&lt;li&gt;NOT develop banner images – use placeholder images instead.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; Your management reviews and approves the site (they will see some placeholder images on home/hub page)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; Your Web Council member reviews and approves the site (s/he will see some placeholder images on home/hub page).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4. &lt;/strong&gt;Your Web Council member submits review checklist and list of top audiences/tasks to OWC (Kathleen MacKinnon) for content review.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5.&lt;/strong&gt; OWC content review team reviews and approves the site (site still shows some placeholder images). OWC/Kathleen Mackinnon notifies you, your Web Council member, and the OWC images team that site content has been approved.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6.&lt;/strong&gt; You work with OWC images team to develop images for resource directory hub page or microsite banners, as applicable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 7. &lt;/strong&gt;OWC images team notifies OWC/Kathleen MacKinnon, OWC content team, and Web Council member that images have been chosen and included in the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 8.&lt;/strong&gt; OWC/Kathleen MacKinnon notifies you and your Web Council member that your site can be published.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 9.&lt;/strong&gt; You publish the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 10.&lt;/strong&gt; Want to change an image after the site has been published? See the &quot;Process for Selecting and Editing Images - Existing Microsites and Resource Directories&quot; section below.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;you&quot; name=&quot;you&quot;&gt;&lt;/a&gt;Steps to Take if You Develop Images on Your Own&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Only steps 1, 6 and 7 differ from the steps in the process described above&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1.&lt;/strong&gt; You, as the EIC, develop website including all images.&lt;/p&gt;
+
+&lt;div&gt;Start thinking about images for site only after:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;You have identified top audiences and tasks&lt;/li&gt;
+	&lt;li&gt;You have reviewed potential content and identified appropriate content; content is rewritten for the Web as needed&lt;/li&gt;
+	&lt;li&gt;Content organization is finalized&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; Your management reviews and approves the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; Your Web Council member reviews and approves the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4.&lt;/strong&gt; Your Web Council member submits review checklist and list of top audiences/tasks to OWC (Kathleen MacKinnon) for content review.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5.&lt;/strong&gt; OWC content review team reviews and approves the site. OWC/Kathleen MacKinnon notifies you, your Web Council member, and OWC images team that site content has been approved.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6. &lt;/strong&gt;OWC images team reviews resource directory hub page or microsite banners, as applicable. OWC images team works with you on any images that in OWC&#039;s judgment need to be replaced or modified.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 7.&lt;/strong&gt; OWC images team approves hub page/banner images and notifies OWC/Kathleen MacKinnon, OWC content team, and Web Council member.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 8.&lt;/strong&gt; OWC/Kathleen MacKinnon notifies you and your Web Council member that the site can be published.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 9.&lt;/strong&gt; You publish the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 10.&lt;/strong&gt; Want to change an image after the site has been published? See the &quot;Process for Selecting and Editing Images - Existing Microsites and Resource Directories&quot; section below.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Existing&quot; name=&quot;Existing&quot;&gt;&lt;/a&gt;Process for Selecting and Editing Images: Existing Microsites and Resource Directories&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;Banners and all other microsite images: you should develop the images. OWC will not review before you publish.&lt;/li&gt;
+	&lt;li&gt;Images on resource directory hub pages (main body content, i.e. the images associated with content &quot;chunks&quot;):
+		&lt;ul&gt;&lt;li&gt;You can develop these images. In that case, please post the proposed image on the hub page in the Drupal staging environment. Send an email to Danny Hart with the URL; make clear in your email which image(s) is new. You can publish once you receive approval from OWC. OR&lt;/li&gt;
+			&lt;li&gt;You can work with OWC to select and edit the image. OWC images team will notify Danny when image development is complete. He will then let you know that you are free to publish.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Other images in resource directories (i.e. images on the right side of hub page, or on spoke pages): you should develop these images. OWC will not review.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;Appendix&quot; name=&quot;Appendix&quot;&gt;&lt;/a&gt;One EPA Web Image Standards: What the OWC Image Team Will Look for When Choosing or Reviewing Images&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Simplicity. &lt;/strong&gt;Avoid images that are overly complicated or complex. See the sample simple and complex images below.
+
+		&lt;ul&gt;&lt;li&gt;One way of choosing &quot;simple&quot; images is to choose those that have a central focal point. Consider images with one or two subjects on a solid background or with the background slightly out of focus (for example, the image of the mom and daughter shopping). Look at the Educational Resources image. Can you spot the focal point?&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Simple Images vs Complex Images&quot; height=&quot;614&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-11/simplevcomplex.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Communication. &lt;/strong&gt;In the main body of a resource directory hub page, choose images that clearly communicate the text of the cluster heading and help visitors understand what content they will find.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:903px;&quot;&gt;&lt;img alt=&quot;Clear vs Unclear images&quot; height=&quot;241&quot; width=&quot;903&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-11/clearvunclear.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;indented&quot;&gt;&lt;li&gt;Imagine the information cluster if there were no heading text. Would your visitors still understand what information they are likely to find in the cluster?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:315px;&quot;&gt;&lt;img alt=&quot;Image with no header text&quot; height=&quot;118&quot; width=&quot;315&quot; class=&quot;left media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-11/noheader.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;What would this image mean to your visitors?&lt;/i&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;clear-left&quot;&gt;&lt;li&gt;&lt;strong&gt;High Quality.&lt;/strong&gt; Use images that have an appropriate resolution to ensure image clarity.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-media_original&quot; style=&quot;width:1060px;&quot;&gt;&lt;img alt=&quot;Images with good and not good resolution&quot; height=&quot;239&quot; width=&quot;1060&quot; class=&quot;center media-element file-media-original&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/2016-11/goodvsnotres.jpg&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;clear-both roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Diversity.&lt;/strong&gt; Ensure that your images that show people show a wide range of people.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Sensitivity.&lt;/strong&gt;
+		&lt;ul&gt;&lt;li&gt;Be sensitive to your subject matter. If your topic relates to adverse health effects, it&#039;s more effective to show people concerned about their health than smiling people.&lt;/li&gt;
+			&lt;li&gt;Avoid cultural stereotypes in your selection of images.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 17 Nov 2016 19:03:42 +0000</pubDate>
+ <dc:creator>cdibbl03</dc:creator>
+ <guid isPermaLink="false">165319 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Mandate to Publish EPA Information Via EPA Servers (1997 Memo)</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/mandate-publish-epa-information-epa-servers-1997-memo</link>
+    <description>&lt;p&gt;&lt;strong&gt;MEMORANDUM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subject: &lt;/strong&gt;&lt;em&gt;Importance of Public Availability of EPA Information Via Internet&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From: &lt;/strong&gt;&lt;em&gt;Fred Hansen /s/, Deputy Administrator &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To: &lt;/strong&gt;&lt;em&gt;Assistant Administrators, Regional Administrators&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In recent meetings with external groups, members of the public and our own EPA staff, the Administrator and I have become increasingly aware of the importance of EPA information on the Internet to our customers. Over 3 million &quot;hits&quot; are made each month on EPA&#039;s public access server. With one simple address &lt;b&gt;http://www.epa.gov&lt;/b&gt;, anyone on the World Wide Web can reach the EPA home page and browse or search through the thousands of files available.&lt;/p&gt;
+
+&lt;p&gt;We can continue this phenomenal outreach with our limited resources only by maintaining a unified approach to our Internet presence. Providing a central server cluster with one corporate address conserves resources and best serves our customers. While linking to other servers can be done, EPA corporate data must reside on our corporate server.&lt;/p&gt;
+
+&lt;p&gt;At the March 8 meeting of the Executive Steering Committee for Information Resources Management, I asked each Office to load its information directly on the EPA server. Information may be copied or mirrored to other sites, but it must also reside on our corporate public access server. If you are currently using another site, please take steps to make the information available from the EPA server as soon as possible. OARM&#039;s Internet team will help you with the technical options. See the attached information sheet for contacts and online resources.&lt;/p&gt;
+
+&lt;p&gt;The Agency has committed to, make information from all EPA programs available through the Internet and other electronic means that Americans and local organizations can access in their homes, schools and libraries. [Reinventing Environmental Regulation, #17] This goal cannot be achieved through the independent actions of individual programs.&lt;/p&gt;
+
+&lt;p&gt;On October 15th, the Agency will be making public a new EPA Home Page that will emphasize the needs of the general public. It is vital that you make every effort to ensure that the information we present about the Agency and our activities be current, accurate and appropriate. I am looking to Al Pesachowitz, Chief Information Officer, to provide leadership and coordination to this Agency priority.&lt;/p&gt;
+
+&lt;p&gt;Fred Hansen&lt;br /&gt;
+	Deputy Administrator&lt;/p&gt;
+
+&lt;p&gt;Attachment&lt;/p&gt;
+
+&lt;p&gt;cc: ESC for IRM&lt;br /&gt;
+	SROs&lt;br /&gt;
+	SIRMOs&lt;/p&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 27 May 2016 14:31:31 +0000</pubDate>
+ <dc:creator>abramer</dc:creator>
+ <guid isPermaLink="false">150635 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us About Web Policies and Procedures</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/forms/contact-us-about-web-policies-and-procedures</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Please use the form below to send us comments or questions. Be sure to include your e-mail address if you’d like a response.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 08 Feb 2016 16:25:59 +0000</pubDate>
+ <dc:creator>jdew01</dc:creator>
+ <guid isPermaLink="false">134529 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Procedure: Obtaining a Dot Gov Domain</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/procedure-obtaining-dot-gov-domain</link>
+    <description>&lt;h2&gt;Brief Description&lt;/h2&gt;
+
+&lt;p&gt;(see the full document below for details)&lt;/p&gt;
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;About this procedure&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;Required or Recommended:&lt;/strong&gt; Required&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Effective Date:&lt;/strong&gt; 01/13/2016&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;#metadata&quot;&gt;&lt;strong&gt;Full Document Metadata&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This outlines the required external and internal steps for obtaining a dot gov (.gov) domain. The procedure does not apply to subdomains of www.epa.gov. The General Services Administration (GSA) has the authority to oversee and issue new dot gov domains via the GSA [Dot] .gov Domain Name Registration Service. GSA requires a letter from the EPA’s Chief Information Officer (CIO) in addition to specific requirements outlined in this procedure.&lt;/p&gt;
+
+&lt;h2&gt;On this page:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#definitions&quot;&gt;Definitions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Requirements
+		&lt;ul&gt;&lt;li&gt;Content: none&lt;/li&gt;
+			&lt;li&gt;Style: none&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#required&quot;&gt;Required steps&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;Examples&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rationale&quot;&gt;Rationale&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#exemptions&quot;&gt;Exemptions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#metadata&quot;&gt;Full metadata about this standard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;definitions&quot;&gt;Definitions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Domain name&lt;/strong&gt; is a name assigned to an Internet server. This is the name that you request from GSA. Typically, you would apply this name to a domain name server. A domain name locates the organization or other entity on the Internet. The dot gov part of the domain name reflects the purpose of the organization or entity. This part is called the Top- Level Domain name. The Second-Level Domain name to the left of the dot gov maps to a readable version of the Internet address. The Domain Name server has a registry of Internet Protocol (IP) address numbers that relate to the readable text name. (41 CFR Part 102-173).&lt;/p&gt;
+
+&lt;p&gt;EPA’s primary domain name is www.epa.gov. www.epa.gov refers to the EPA’s primary public access website that provides publicly accessible data and information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subdomain&lt;/strong&gt; is a domain that is a part of a larger domain. Examples include echo.epa.gov and archive.epa.gov.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;.gov Domain Name Registration Service&lt;/strong&gt; refers to GSA’s program for registering dot gov domains.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dot gov (or Internet Gov Domain)&lt;/strong&gt; refers to domain names ending with a &quot;.gov&quot; suffix. The Internet GOV domain is another way of expressing the collection of dot gov domain names. (41 CFR Part 102-173)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA Web environment&lt;/strong&gt; includes the servers that provides unrestricted access to EPA’s public information. The Agency central server cluster, hosted by the National Computer Center (NCC), is the official server domain location for Agency public communications via the Web.&lt;/p&gt;
+
+&lt;h2 id=&quot;required&quot;&gt;Required Steps&lt;/h2&gt;
+
+&lt;h3&gt;External GSA Requirements&lt;/h3&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;In order for EPA’s CIO to make the request to GSA, EPA must be the hosting agency and the content must reside on EPA’s servers.&lt;/strong&gt; If EPA is partnering with another federal agency and that agency is hosting the content on their server, then that agency’s CIO is responsible for requesting the dot gov domain.&lt;/li&gt;
+	&lt;li&gt;The program or initiative must be a large-scale or far-reaching program that is unique to EPA and its partners. A partnership that only impacts a single state or a limited geographical region or a very small group of people is not likely to be a strong candidate for a dot gov domain name. The content must be distinct from existing content at www.epa.gov.&lt;/li&gt;
+	&lt;li&gt;New dot gov domains must follow requirements outlined in:
+		&lt;ol&gt;&lt;li&gt;Office of Management and Budget (OMB) Memorandum, &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf&quot;&gt;Policies for Dot Gov Domain Issuance for Federal Agency Public Websites (PDF)&lt;/a&gt;, &lt;span class=&quot;fileinfo&quot;&gt;2 pp., 236 KB, December 8, 2014&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf&quot;&gt;OMB Memorandum M-15-13, &quot;Policy to Require Secure Connections across Federal Websites and Web Services&quot; (PDF)&lt;/a&gt;, &lt;span class=&quot;fileinfo&quot;&gt;5 pp., 258 KB, June 8, 2015&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services/&quot;&gt;Checklist of Requirements for Federal Websites and Digital Services&lt;/a&gt; including &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2005/m05-04.pdf&quot;&gt;OMB Memorandum M-05-04 &quot;Policies for Federal Agency Public Websites&quot; (PDF)&lt;/a&gt;, &lt;span class=&quot;fileinfo&quot;&gt;5 pp., 48 KB, December 17, 2004&lt;/span&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;/li&gt;
+	&lt;li&gt;GSA may deny an Agency’s request for a specific domain name. From the &lt;a href=&quot;https://www.dotgov.gov/portal/web/dotgov/program-guidelines&quot;&gt;GSA.Gov Domain Name Registration Service program guidelines&lt;/a&gt;:&lt;br /&gt;&lt;em&gt;Every [Dot] Gov Internet domain name application is carefully examined to ensure domain names requested will not create misunderstandings about the purpose of domains and their Web site content. GSA arbitrates domain name issues and reserves the right to deny domain name requests that do not adequately meet requirements. All domain requests and requests for exception to policy will come from the CIO for Federal and State level domains.&lt;/em&gt;&lt;/li&gt;
+	&lt;li&gt;GSA must have a letter from EPA&#039;s CIO in order to process the request. (Refer to Internal EPA Requirements). For information about GSA&#039;s .gov Domain Name Registration Service, please refer to &lt;a href=&quot;https://www.dotgov.gov/portal/web/dotgov/welcome&quot;&gt;Policy and Registration Process Tabs&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;The requesting office must pay an annual fee of $125 via a bank card for the dot gov domain (to the GSA registration service).&lt;/li&gt;
+	&lt;li&gt;Each domain must have 3 unique Points of Contact (POC) for the domain. GSA does not allow single POC serving in multiple roles, however, a person can be a POC on several different dot gov domains. EPA is expected to keep its POCs up-to-date with GSA on a regular basis. Please refer to &lt;a href=&quot;/webguide/federal-domain-points-contact&quot;&gt;Maintaining Point of Contacts (POCs) Information for Federal Domains&lt;/a&gt; for more information
+		&lt;ol&gt;&lt;li&gt;The Administrative POC is the person who controls the content of the domain and is the manager of the operations of the domain.&lt;/li&gt;
+			&lt;li&gt;The Billing POC is the person that pays for the domain.&lt;/li&gt;
+			&lt;li&gt;The Technical POC is the person that operates the Domain Name System (DNS) and takes care of technical operations such as security patches, programming, etc.&lt;/li&gt;
+		&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;h3&gt;Internal EPA Requirements&lt;/h3&gt;
+
+&lt;ol&gt;&lt;li&gt;Consult with the Office of Environmental Information (OEI) Office of Information Analysis and Access (OIAA) and the Office of Public Affairs (OPA) Office of Web Communications (OWC) to determine if it will be feasible or appropriate to obtain a non-EPA dot gov site. This consultation can be over email or in a meeting setting. Formal documentation of this consultation is not needed to request a dot gov domain.&lt;/li&gt;
+	&lt;li&gt;Request permission for the dot gov domain name from EPA&#039;s CIO using the &lt;span id=&quot;file-246815&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-01/dotgovdomain-request201601.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=34297&quot; class=&quot;file-link&quot;&gt;Memo Request Template for Federal dotgov Domain&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 34 K, 
+  2016-01)&lt;/span&gt;&lt;/span&gt;
+. The signed memo request from your Senior Information Official must be routed through the OIAA Office Director to the CIO. OIAA will review the request and make recommendations to the CIO.&lt;/li&gt;
+	&lt;li&gt;The requesting office should allow a minimum of 4-6 weeks* for the entire process of requesting and obtaining a dot gov domain. This time includes working with OIAA and OWC, the requesting office obtaining signature(s) from office management on the memo request, OIAA to review and recommend to the CIO, the CIO review and approval (if granted), and for GSA to process the request, as well as working with the NCC and GSA to set up the domain.&lt;br /&gt;&lt;span class=&quot;fileinfo&quot;&gt;*There are times when the dot gov domain must be set up quickly so it is possible to expedite this process in such cases.&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;After the CIO has reviewed request, OIAA will send your office an electronic version of the signed CIO’s request letter (if approved) to transmit to GSA to initiate the GSA process. A signed paper copy will be provided as well.&lt;/li&gt;
+	&lt;li&gt;It is the requesting office&#039;s responsibility to send the CIO’s request letter to the &lt;a href=&quot;https://www.dotgov.gov/portal/web/dotgov/registration-process&quot;&gt;GSA .gov Domain Name Registration Service (fax and email is available)&lt;/a&gt; and work with the NCC to establish the new dot gov domain. After the CIO’s request is transmitted to GSA, GSA typically takes 48 hours to verify and review the request. &lt;strong&gt;The CIO’s approval does not guarantee the domain will be established. GSA can approve or deny the request.&lt;/strong&gt; If GSA approves the request, then GSA will contact the POC to begin the process of setting up the new dot gov domain with the NCC.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;Examples of different EPA dot gov domains include: energystar.gov and airnow.gov.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rationale&quot;&gt;Rationale&lt;/h2&gt;
+
+&lt;p&gt;In 2011, OMB issued a freeze on all new dot gov domains via &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/memoranda/2011/m11-24.pdf&quot;&gt;OMB M-11-24 (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(6 pp., 2.37 MB, June 13, 2011)&lt;/span&gt; in order to streamline and simplify access to government information and remove duplicative and outdated content. Since 2011, OMB has worked with federal agencies to develop a new policy for how dot gov domains are issued. This policy was issued December 8, 2014 via OMB Memorandum, &lt;a href=&quot;https://www.whitehouse.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf&quot;&gt;Policies for Dot Gov Domain Issuance for Federal Agency Public Websites (PDF)&lt;/a&gt;, &lt;span class=&quot;fileinfo&quot;&gt;(2 pp., 236 KB)&lt;/span&gt;. Agencies must adhere to the guiding principles of consolidation and cost-efficiency; and shall continue to limit the proliferation of stand-alone websites and infrastructure. In other words, the number of dot gov domains should remain small and selective to keep access to government information simple.&lt;/p&gt;
+
+&lt;p&gt;However, there are cases where EPA works in partnership with other federal agencies or organizations on a program or initiative that is so far-reaching and distinct from www.epa.gov that a separate domain may be necessary. In such cases, EPA must consider the external GSA requirements and internal EPA requirements to determine if that program or initiative necessitates a dot gov address that is separate from EPA.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exemptions&quot;&gt;Exemptions&lt;/h2&gt;
+
+&lt;p&gt;There are no exemptions from these requirements.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;metadata&quot;&gt;Full Metadata about this standard&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Name &lt;/strong&gt;Obtaining a Dot Gov domain&lt;br /&gt;&lt;strong&gt;Type&lt;/strong&gt; Procedure&lt;br /&gt;&lt;strong&gt;Required or Recommended&lt;/strong&gt; Required &lt;br /&gt;&lt;strong&gt;Effective date&lt;/strong&gt; 01/13/2016&lt;br /&gt;&lt;strong&gt;Date approved &lt;/strong&gt;01/12/2016&lt;br /&gt;&lt;strong&gt;Category&lt;/strong&gt; Area Setup&lt;br /&gt;&lt;strong&gt;Web Council review by&lt;/strong&gt; 01/13/2019 (or earlier if deemed necessary by the Web Council) &lt;br /&gt;&lt;strong&gt;Governing Policy&lt;/strong&gt; &lt;a href=&quot;http://intranet.epa.gov/oei/imitpolicy/qic/ciopolicy/2180-1.pdf&quot;&gt;Web Governance and Management (PDF)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/intranet-disclaimer&quot; title=&quot;EPA&#039;s Internal Link Disclaimer&quot;&gt;Intranet&lt;/a&gt;(5 pp, 339K)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jan 2016 13:22:40 +0000</pubDate>
+ <dc:creator>jdew01</dc:creator>
+ <guid isPermaLink="false">131889 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Web Standard:  Redirects from www.epa.gov  content</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/web-standard-redirects-wwwepagov-content</link>
+    <description>&lt;p&gt;&lt;strong&gt;Definition:&lt;/strong&gt;  A redirect sends a link from one place to another.&lt;/p&gt;
+
+&lt;p&gt;Links to content on www.epa.gov will break after Sept. 30, 2015.&lt;/p&gt;
+
+&lt;p&gt;To prevent broken links going to www.epa.gov, contact Web_CMS_support to request a top level redirect. If you do not make the request, any redirect you created locally in your tssms, will break after Sept. 30, 2015.&lt;/p&gt;
+
+&lt;h2&gt;What is granted upon request:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Legacy sites being transformed to new web areas on www2.
+		&lt;ul&gt;&lt;li&gt;Transformed www2.epa.gov Web Areas get a top-level www redirect upon request.&lt;/li&gt;
+			&lt;li&gt;This means:
+				&lt;ul&gt;&lt;li&gt;Any link going to www.epa.gov/webarea/anything is redirected to the www2.epa.gov/webarea homepage.
+						&lt;ul&gt;&lt;li&gt;Example: www.epa.gov/lead/anycontent  goes to www2.epa.gov/lead&lt;/li&gt;
+						&lt;/ul&gt;&lt;/li&gt;
+					&lt;li&gt;No broken links for www content&lt;/li&gt;
+					&lt;li&gt;Request these when you publish your new web area&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;www3 content gets one primary top-level www alias.
+		&lt;ul&gt;&lt;li&gt;This means:&lt;/li&gt;
+			&lt;li&gt;We take the primary alias used for the original site and redirect that to www3 content.
+				&lt;ul&gt;&lt;li&gt;Example: www.epa.gov/recyclecity is redirected to www3.epa.gov/recyclecity&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;What is not available&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;There will be no redirects from www.epa.gov/webarea/some-subpage content to www2.epa.gov/webarea/some-replacement-subpage content after 9/30/2015
+		&lt;ul&gt;&lt;li&gt;Locally made www subpage redirects will no longer work. (Those created within directory-level .htaccess files, for example.)&lt;/li&gt;
+			&lt;li&gt;If it’s noteworthy, it should be a link on the www2 web area homepage or&lt;/li&gt;
+			&lt;li&gt;Consider having a “Key Information” box on your www2 web area home page.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Related Information:&lt;/h2&gt;
+
+&lt;p&gt;Link to  A Web Area will only have one URL&lt;/p&gt;
+</description>
+     <pubDate>Thu, 02 Jul 2015 14:58:28 +0000</pubDate>
+ <dc:creator>abramer</dc:creator>
+ <guid isPermaLink="false">95523 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Web Standard: A Web Area will only have one URL</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/web-standard-web-area-will-only-have-one-url</link>
+    <description>&lt;h2&gt;Definitions:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;URLs are Universal Resource Locators.  They are the address where web sites live.&lt;/li&gt;
+	&lt;li&gt;Using mixed case or upper case creates issues for search engines, users typing in URLs, and analytics tracking&lt;/li&gt;
+	&lt;li&gt;Drupal WebCMS automatically creates the URL based on the short name (defined when the web area is created).  An alternate name (called a &#039;URL overwrite&#039;) can be created if desired. It must be approved by OWC. Only one or the other will be used as the web area URL.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Content Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Each site will have one URL. &lt;/li&gt;
+	&lt;li&gt;There will not be multiple URLs for the same site.&lt;/li&gt;
+	&lt;li&gt;Use all lower case letters.  (the URL will be changed automatically to lowercase if typed with any uppercase letters)&lt;/li&gt;
+	&lt;li&gt;Use descriptive words.  You want people to find the site using search. &lt;/li&gt;
+	&lt;li&gt;Really need a short URL?
+		&lt;ul&gt;&lt;li&gt;Use https://go.usa.gov/ , the official U.S. government URL shortener&lt;/li&gt;
+			&lt;li&gt;Use the page node number
+				&lt;ul&gt;&lt;li&gt;Example: use http://www2.epa.gov/node/41353​ instead of using http://www2.epa.gov/product-review/how-avoid-multiple-rounds-owc-review-when-creating-new-resource-directories-and&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;How to:&lt;/h2&gt;
+
+&lt;p&gt;Fill out the web area request form.  Office of Web Communication will approve the actual site names.&lt;/p&gt;
+
+&lt;h2&gt;Examples:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Water research can be /water-research/, /waterresearch/ or /h2oresearch/ (pick only one) &lt;br /&gt;
+		http://www2.epa.gov/water-research  &lt;/li&gt;
+	&lt;li&gt;CAMEO (Computer-Aided Management of Emergency Operations) can be /computer-aided-management-emergency-operations/ or /cameo/  (pick only one) &lt;br /&gt;
+		http://www2.epa.gov/cameo&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Related Information&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/webguide/forms/request-create-new-web-area-drupal-webcms&quot;&gt;Web Area Request Form&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Apr 2015 19:22:12 +0000</pubDate>
+ <dc:creator>abramer</dc:creator>
+ <guid isPermaLink="false">81723 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Web Standard: Audio files Use MP3</title>
+    <link>https://www.epa.gov/web-policies-and-procedures/web-standard-audio-files-use-mp3</link>
+    <description>&lt;h2&gt;Definitions:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Audio files play sound.  There are no images.&lt;/li&gt;
+	&lt;li&gt;Audio files should be technology agnostic and played by the browser.  This means you should not use proprietary products such as AIFF or WAV.&lt;/li&gt;
+	&lt;li&gt;Max file size limit is 1000MB. &lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;br /&gt;
+	Content Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Audio files are MP3.&lt;/li&gt;
+	&lt;li&gt;Will need a transcript for the information in the MP3 to meet 508 requirements.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;How to:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Basic page contains the transcript and links to audiofile or&lt;/li&gt;
+	&lt;li&gt;Document page that links to audiofile and transcript is a PDF&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Examples:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/natural-disasters/public-service-announcements-about-emergencies-and-disasters&quot;&gt;Public Service Announcements&lt;/a&gt;&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;h2&gt;About this Standard&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Effective date:&lt;/strong&gt; 04/08/2015&lt;br /&gt;&lt;strong&gt;Date approved: &lt;/strong&gt;&lt;span&gt;04/08/2015&lt;/span&gt;&lt;br /&gt;&lt;strong&gt;Web Council review by:&lt;/strong&gt; &lt;span&gt;04/08/201&lt;/span&gt;7 (or earlier if deemed necessary by the Web Council) &lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Apr 2015 19:10:06 +0000</pubDate>
+ <dc:creator>jdew01</dc:creator>
+ <guid isPermaLink="false">81717 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:12:31, expires @ 2017-01-26 17:12:31, lifetime 12 hours -->

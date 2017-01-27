@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/71341/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pesticide Labels </title>
+    <link>https://www.epa.gov/feed/71341/rss.xml</link>
+    <description>Updated Pesticide Labels  content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/71341/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Mobile Application for Pesticide Label Matching</title>
+    <link>https://www.epa.gov/pesticide-labels/mobile-application-pesticide-label-matching</link>
+    <description>&lt;p&gt;The Pesticides Data Accessibility and Label Matching Project has created the Pesticide Label Matching Mobile Application. Through use of this app, we seek to modernize and streamline the current process for sampling and reviewing pesticide labels for potential violations, which is completed manually. The label matching application will give inspectors the ability to instantly compare pesticide product labels against state and federal label databases via their cell phone, tablet or other mobile device.&lt;/p&gt;
+
+&lt;p&gt;With this application, inspectors can take a picture of a pesticide product label with their mobile device and use the application to compare it with the approved federal master label contained in EPA’s Pesticide Product Label System (PPLS). The Pesticide Label Matching application will dramatically improve inspectors’ efficiency, allowing them to inspect more labels and improving compliance rates over time.&lt;/p&gt;
+
+&lt;p&gt;The application is currently in beta testing.&lt;/p&gt;
+
+&lt;p&gt;EPA will host an instructional webinar on Tuesday, September 20, 2016 from 1:00-2:00 p.m. ET. &lt;a href=&quot;https://www.eventbrite.com/e/us-epa-pesticide-label-matching-mobile-application-release-1-webinar-registration-26787625509&quot;&gt;We encourage beta testers to register for the webinar&lt;/a&gt;. &lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#beta-test&quot;&gt;Beta Testing for Pesticide Label Matching Mobile Application&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#beta-tester-info&quot;&gt;Information for Beta Testers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#add-info&quot;&gt;Additional Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;beta-test&quot; name=&quot;beta-test&quot;&gt;&lt;/a&gt;Beta Testing for Pesticide Label Matching Mobile Application&lt;/h2&gt;
+
+&lt;p&gt;EPA is looking for federal and state inspectors, and case development enforcement officers who routinely go into the field and inspect pesticide products to participate in beta testing for the label matching application. The Agency encourages inspectors and case development enforcement officers at the state, regional, and federal levels to consider becoming a beta tester.&lt;/p&gt;
+
+&lt;p&gt;The application will be open to both state and federal inspectors for beta testing through December 31, 2016. After beta testing is complete, the application will be released on the Apple App store for iOS devices, the Google Play store for Android devices. It will also include a Web-based component for access via supported browsers on other devices such as laptops and desktops.&lt;/p&gt;
+
+&lt;p&gt;EPA will be reaching out to federal and state inspectors and other interested parties to participate in this testing. Any other parties interested in participating in beta testing can contact &lt;a href=&quot;mailto:LMP@epa.gov?subject=Beta Testing for Pesticide Label Matching Mobile Application&quot;&gt;Alan Boutureira&lt;/a&gt; (LMP@epa.gov).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;beta-tester-info&quot; name=&quot;beta-tester-info&quot;&gt;&lt;/a&gt;Information for Beta Testers&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;How Do I Get Access to the Application?&lt;/h3&gt;
+
+&lt;p&gt;To download the application on your mobile device or tablet, search for “EPA PLM” in your device&#039;s specific application store. Once installed, users will be able to open the application immediately. Approved Beta testers will be given the user name and password information to access the application for use. Approved Beta testers will also be able to &lt;a href=&quot;http://lmp.dnsalias.com/&quot;&gt;access the application via the Web app&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;How Do I Provide Feedback?&lt;/h3&gt;
+
+&lt;p&gt;Once logged into the application on any platform, a feedback button can be found on the bottom of the pages inside of the application, which will send an email from your device to the label matching feedback email address located at the end of the document. When sending feedback, please be as detailed as possible and attach any images to the email. Also, please provide device/firmware and any other information that will help us troubleshoot problems or improve the user’s experience.&lt;/p&gt;
+
+&lt;p&gt;In particular, we are looking for feedback on problems with the application’s ability to read the label once a user takes a picture of it. One way to improve the application’s optical character recognition (OCR) is through machine learning, so we need examples of issues with the OCR to improve the application’s functionality.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;add-info&quot; name=&quot;add-info&quot;&gt;&lt;/a&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:lmp@epa.gov&quot;&gt;Get more information on EPA’s pesticide label matching application by email&lt;/a&gt;. (LMP@epa.gov)&lt;/p&gt;
+
+&lt;p&gt;You can also reach out directly to the following individuals:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;mailto:Boutureira.Alan@epa.gov&quot;&gt;Alan Boutureira&lt;/a&gt; (Boutureira.Alan@epa.gov)  – Project Manager, EPA / OCSPP&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;mailto:Klevs.Mardi@epa.gov&quot;&gt;Mardi Klevs&lt;/a&gt; (Klevs.Mardi@epa.gov)  – EPA Co-Chair, EPA Region 5&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;mailto:scottde@purdue.edu&quot;&gt;Dave Scott&lt;/a&gt; (scottde@purdue.edu) – State Co-Chair, Office of Indiana State Chemist&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 07 Sep 2016 16:44:01 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">159479 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Vietnamese</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-vietnamese</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-304303&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-vie.pdf&quot; type=&quot;application/pdf; length=1293769&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304307&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-vie.pdf&quot; type=&quot;application/pdf; length=435121&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 435 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304309&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-vie.pdf&quot; type=&quot;application/pdf; length=1638071&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304311&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets-vie.pdf&quot; type=&quot;application/pdf; length=761729&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 762 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:26:53 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155725 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Tagalog</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-tagalog</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-304265&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-tag.pdf&quot; type=&quot;application/pdf; length=1288048&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304267&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-tag.pdf&quot; type=&quot;application/pdf; length=433573&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 434 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304269&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-tag.pdf&quot; type=&quot;application/pdf; length=1636281&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304271&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets-tag.pdf&quot; type=&quot;application/pdf; length=759950&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 760 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:24:46 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155723 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Korean</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-korean</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-304149&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-kor.pdf&quot; type=&quot;application/pdf; length=247271&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 247 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304151&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-kor.pdf&quot; type=&quot;application/pdf; length=151660&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 152 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304153&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-kor.pdf&quot; type=&quot;application/pdf; length=173278&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 173 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304155&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets-kor.pdf&quot; type=&quot;application/pdf; length=203987&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 204 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:15:35 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155717 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Russian</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-russian</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-304169&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-rus.pdf&quot; type=&quot;application/pdf; length=278145&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 278 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304171&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-rus.pdf&quot; type=&quot;application/pdf; length=117520&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 118 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304175&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-rus.pdf&quot; type=&quot;application/pdf; length=144861&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 145 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-304179&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets-rus.pdf&quot; type=&quot;application/pdf; length=215122&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 215 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:15:22 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155715 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Chinese, traditional</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-chinese-traditional</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-303767&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-cht.pdf&quot; type=&quot;application/pdf; length=1414580&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303769&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-cht.pdf&quot; type=&quot;application/pdf; length=605116&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 605 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303771&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-cht.pdf&quot; type=&quot;application/pdf; length=1751534&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303773&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets-cht.pdf&quot; type=&quot;application/pdf; length=921472&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 921 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:11:35 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155713 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Read the Label Brochures - Chinese, simplified</title>
+    <link>https://www.epa.gov/pesticide-labels/read-label-brochures-chinese-simplified</link>
+    <description>&lt;p&gt;These brochures includes information about the importance of keeping pesticides in their original container, how to prevent harm to the environment, and why you should buy the right product in the right amount for your needs.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-303729&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-garden-chs.pdf&quot; type=&quot;application/pdf; length=1404942&quot; class=&quot;file-link&quot;&gt;Read the Label First - Garden (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303733&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-household-chs.pdf&quot; type=&quot;application/pdf; length=594441&quot; class=&quot;file-link&quot;&gt;Read the Label First - Household (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 594 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303739&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-kids-chs.pdf&quot; type=&quot;application/pdf; length=1748862&quot; class=&quot;file-link&quot;&gt;Read the Label First - Kids (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303741&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/read-label-first-pets_chs.pdf&quot; type=&quot;application/pdf; length=906596&quot; class=&quot;file-link&quot;&gt;Read the Label First - Pets (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 907 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 17:10:26 +0000</pubDate>
+ <dc:creator>Fdarasen</dc:creator>
+ <guid isPermaLink="false">155709 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pesticide Product Label System (PPLS) Application Program Interface (API)</title>
+    <link>https://www.epa.gov/pesticide-labels/pesticide-product-label-system-ppls-application-program-interface-api</link>
+    <description>&lt;div&gt;On this page&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#ppls&quot;&gt;Pesticide product label system application program interface&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#api&quot;&gt;Data service API&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#search&quot;&gt;Constructing a search&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#output&quot;&gt;Working with the output&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#questions&quot;&gt;Assistance or questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;ppls&quot; name=&quot;ppls&quot;&gt;&lt;/a&gt;Pesticide Product Label System Application Program Interface&lt;/h2&gt;
+
+&lt;p&gt;Pesticide Product Label System (PPLS) provides a single point of access to U.S. EPA environmental data contained in the U.S. EPA databases. Interested parties from state and local governments, EPA, or federal agencies, or individuals can search for information about a pesticide product that may help or affect human, health and environment via Application Program Interface (API). &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;api&quot; name=&quot;api&quot;&gt;&lt;/a&gt;Data Service API&lt;/h2&gt;
+
+&lt;p&gt;PPLS has developed a RESTful data service API to all of internal data holding. This functionality provides a user of PPLS with the ability to query any data through the use of a URL by EPA Registration Number. The default output is in JSON (JavaScript Object Notation). The database is being updated every 12 hours (noon and midnight EDT).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;search&quot; name=&quot;search&quot;&gt;&lt;/a&gt;Constructing a Search&lt;/h2&gt;
+
+&lt;p&gt;To retrieve pesticide product information, users create a URL with a specific set of parameter. This is done by creating a string using the following format:&lt;/p&gt;
+
+&lt;h3&gt;To search by EPA Registration Number:&lt;/h3&gt;
+
+&lt;p&gt;https://ofmpub.epa.gov/apex/pesticides/ppls/[Company Number-Product Number]&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;COMPANY_NUMBER &lt;/strong&gt;= six (6) digit company number part of registration number.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;PRODUCT_NUMBER&lt;/strong&gt; = five (5) digit product number part of registration number.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;a href=&quot;https://ofmpub.epa.gov/apex/pesticides/ppls/66551-1&quot;&gt;https://ofmpub.epa.gov/apex/pesticides/ppls/66551-1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;ins data-date=&quot;2016,7,26&quot;&gt;To Search by Product Name&lt;/ins&gt;:&lt;/h3&gt;
+
+&lt;p&gt;https://ofmpub.epa.gov/apex/pesticides/pplstxt/[Product_Name]&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;PRODUCT_NAME&lt;/strong&gt; = Name of product, must be spelled correctly and it’s not case sensitive.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;a href=&quot;https://ofmpub.epa.gov/apex/pesticides/pplstxt/RAID CWR BAIT STATIONS&quot;&gt;https://ofmpub.epa.gov/apex/pesticides/pplstxt/RAID CWR BAIT STATIONS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;ins data-date=&quot;2016,7,26&quot;&gt;To Search by Distributor Product Number&lt;/ins&gt;:&lt;/h3&gt;
+
+&lt;p&gt;https://ofmpub.epa.gov/pesticides/ppldist/[Company_Number-Product_Number-Distributor_Number]&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;COMPANY_NUMBER&lt;/strong&gt; = six (6) digit company number part of registration number.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;PRODUCT_NUMBER&lt;/strong&gt; = five (5) digit product number part of registration number.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;DISTRIBUTOR_NUMBER&lt;/strong&gt; = five (5) digit distributor number part of registration number.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: &lt;a href=&quot;https://ofmpub.epa.gov/apex/pesticides/pplsdist/67702-6-11204&quot;&gt;https://ofmpub.epa.gov/apex/pesticides/pplsdist/67702-6-11204&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;output&quot; name=&quot;output&quot;&gt;&lt;/a&gt;Working with the Output&lt;/h2&gt;
+
+&lt;p&gt;The result set is JSON that can be ported into an application or used as part of a Web mash-up. This is an example of what the output looks like with a return of pesticide product information from the PPLS database:&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Element Name&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Data Type&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;EPAREGNO&lt;/td&gt;
+			&lt;td&gt;EPA Registration Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PRODUCTNAME&lt;/td&gt;
+			&lt;td&gt;Product Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PRODUCT_STATUS&lt;/td&gt;
+			&lt;td&gt;Current Status: Pending, Active, or Cancelled&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PRODUCT_STATUS_DATE&lt;/td&gt;
+			&lt;td&gt;Product Status Date (Month Day, Year)&lt;/td&gt;
+			&lt;td&gt;Date&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;COMPANYINFO (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NAME&lt;/td&gt;
+			&lt;td&gt;Company Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CONTACT_PERSON&lt;/td&gt;
+			&lt;td&gt;Company Contact Person&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DIVISION_NAME&lt;/td&gt;
+			&lt;td&gt;Company Division Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PHONE&lt;/td&gt;
+			&lt;td&gt;Company Phone Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FAX&lt;/td&gt;
+			&lt;td&gt;Company Fax Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EMAIL&lt;/td&gt;
+			&lt;td&gt;Company Email Address&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;STREET&lt;/td&gt;
+			&lt;td&gt;Company Street Address&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PO_BOX&lt;/td&gt;
+			&lt;td&gt;Company P.O. Box&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CITY&lt;/td&gt;
+			&lt;td&gt;Company City Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;STATE&lt;/td&gt;
+			&lt;td&gt;Company State&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ZIP_CODE&lt;/td&gt;
+			&lt;td&gt;Company Zip Code&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;COMPANYAGENTINFO (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NAME&lt;/td&gt;
+			&lt;td&gt;Agent Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CONTACT_PERSON&lt;/td&gt;
+			&lt;td&gt;Agent Contact Person&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PHONE&lt;/td&gt;
+			&lt;td&gt;Agent Phone Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FAX&lt;/td&gt;
+			&lt;td&gt;Agent Fax Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EMAIL&lt;/td&gt;
+			&lt;td&gt;Agent Email Address&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;STREET&lt;/td&gt;
+			&lt;td&gt;Agent Street Address&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PO_BOX&lt;/td&gt;
+			&lt;td&gt;Agent P.O. Box&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CITY&lt;/td&gt;
+			&lt;td&gt;Agent City Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;STATE&lt;/td&gt;
+			&lt;td&gt;Agent State&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ZIP_CODE&lt;/td&gt;
+			&lt;td&gt;Agent Zip Code&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;SIGNAL_WORD&lt;/td&gt;
+			&lt;td&gt;Signal word: Danger, Warning, Caution, or No Signal Word&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;RUP_YN&lt;/td&gt;
+			&lt;td&gt;Restricted Use (Yes/No)&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;FORMULATIONS (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FORMULATION&lt;/td&gt;
+			&lt;td&gt;Physical Form&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;ACTIVE_INGREDIENTS (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PC_CODE&lt;/td&gt;
+			&lt;td&gt;EPA assigned pesticde chemical code&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACTIVE_ING&lt;/td&gt;
+			&lt;td&gt;Active Ingredient&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;CAS_NUMBER&lt;/td&gt;
+			&lt;td&gt;EPA assigned CAS Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACTIVE_ING_PERCENT&lt;/td&gt;
+			&lt;td&gt;Active Ingredient percentage appearing in the pesticide product formulation&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;INACTIVE_BRAND_NAMES (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;INACTIVE_BRAND_NAME&lt;/td&gt;
+			&lt;td&gt;List inactive brand name associated with this product&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;PDFFILES (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PDFFILE&lt;/td&gt;
+			&lt;td&gt;List of PDF files for each product&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PDFFILE_ACCEPTED_DATE&lt;/td&gt;
+			&lt;td&gt;Accepted Date (Month Day, Year)&lt;/td&gt;
+			&lt;td&gt;Date&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;ALTBRANDNAMES (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTBRANDNAME&lt;/td&gt;
+			&lt;td&gt;Product Alternative brand Name&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;SITES (NODE)&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;SITE&lt;/td&gt;
+			&lt;td&gt;List site associated with a pesticide product&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th class=&quot;blue&quot; colspan=&quot;3&quot;&gt;&lt;strong&gt;PESTS&lt;/strong&gt;&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PEST&lt;/td&gt;
+			&lt;td&gt;List pest associate with a pesticide product&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;TYPES(NODE)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE&lt;/td&gt;
+			&lt;td&gt;List of Pesticide Type&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EPADISTNO&lt;/td&gt;
+			&lt;td&gt;EPA Distributor Product Number&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;SEC3RINUM&lt;/td&gt;
+			&lt;td&gt;Section 3 Registration Number of the Distributor product&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DISTRIBUTOR _STATUS&lt;/td&gt;
+			&lt;td&gt;Current Status: Pending, Active, or Cancelled&lt;/td&gt;
+			&lt;td&gt;VARCHAR(2)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DISTRIBUTOR_STATUS_DATE&lt;/td&gt;
+			&lt;td&gt;Status Date (Month Day, Year)&lt;/td&gt;
+			&lt;td&gt;DATE&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;questions&quot; name=&quot;questions&quot;&gt;&lt;/a&gt;For Assistance or Questions&lt;/h2&gt;
+
+&lt;p&gt;If you have any questions or need further assistance, please contact Mark Heflin (&lt;a href=&quot;mailto:heflin.mark@epa.gov&quot;&gt;heflin.mark@epa.gov&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 20 Jun 2016 12:29:05 +0000</pubDate>
+ <dc:creator>morganic</dc:creator>
+ <guid isPermaLink="false">152535 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Questions about the DfE Antimicrobial Pesticides Pilot </title>
+    <link>https://www.epa.gov/pesticide-labels/questions-about-dfe-antimicrobial-pesticides-pilot</link>
+    <description>&lt;p&gt;&lt;span&gt;The following are some frequent questions about the pilot and EPA responses:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#endorsement&quot;&gt;Does EPA consider the DfE logo to be an endorsement?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q2&quot;&gt;Does the pilot set limits on the amount/percentage of active that is acceptable in a labeled product?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q3&quot;&gt;How does OPP handle concentrated products in this pilot?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q4&quot;&gt;Will information on alternate brand names and supplemental distributors be available?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q5&quot;&gt;How will EPA handle cases of unauthorized use of the DfE logo?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q6&quot;&gt;How does a product qualifying under the DfE program differ from a FIFRA 25(b)-exempt product?&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#Q7&quot;&gt;Does the pilot include adjuvants and might such products be eligible for the DfE label?&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;span&gt;&lt;a id=&quot;endorsement&quot; name=&quot;endorsement&quot;&gt;&lt;/a&gt;Does EPA consider the DfE logo to be an endorsement?&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;EPA response: No, EPA does not consider the logo to be an endorsement. Similar to saying a pesticide is “EPA registered” because EPA has found it meets the registration standard, the DfE logo indicates that the product has been reviewed and meets the standard for the DfE pilot. The logo must be accompanied by a reference to the DfE pesticides pilot website that explains what the logo means, how the product was reviewed, and what passing the review means about the product’s hazard profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q2&quot; name=&quot;Q2&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Does the pilot set limits on the amount/percentage of active that is acceptable in a labeled product?  &lt;/h2&gt;
+
+&lt;p&gt;EPA response:  No, however, the criteria may effectively limit the amount of active that can be used. Under the pilot, candidate product formulations are reviewed to determine if they meet the DfE criteria. This includes reviewing the toxicity and physical/chemical properties such as pH of the formula. The toxicity and other properties are affected by the amount/percentage of the active ingredient in the formula. To date, EPA has determined that products containing the following active ingredients may qualify depending on the specific properties of the formulated product: citric acid, lactic acid, peracetic acid, ethanol, isopropanol, sodium bisulfide, and hydrogen peroxide. Products are approved on a formulation basis. Should the registrant request to change the formula, a new DfE review would be needed to determine if the product still qualifies.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q3&quot; name=&quot;Q3&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How does OPP handle concentrated products in this pilot?  &lt;/h2&gt;
+
+&lt;p&gt;EPA Response:  The DfE logo is only allowed on qualifying products after EPA has taken toxicity and pH into consideration. These products must also be  approved for EPA registration. The pilot generally only allows products that are toxicity category 3 or 4. However, concentrated products that are toxicity category 2 may qualify for the DfE logo if the toxicity data for the use dilution product demonstrate category 3 or 4 (on the route of exposure triggering category 2).&lt;/p&gt;
+
+&lt;p&gt;Concentrates supporting toxicity category I do not qualify for the pilot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q4&quot; name=&quot;Q4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Will information on alternate brand names and supplemental distributors be available? &lt;/h2&gt;
+
+&lt;p&gt;EPA Response:  Yes. &lt;a href=&quot;/pesticide-labels/design-environment-antimicrobial-pesticide-pilot-project-moving-toward-green-end&quot;&gt;The web page lists the alternate brand names for qualifying pilot products as well as supplemental distributer company number and brand names, if applicable&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;Supplemental distributor products cannot qualify for the DfE logo on their own. The parent product must qualify for the DfE logo before a supplemental distributor product may add the DfE logo on its label.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q5&quot; name=&quot;Q5&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How will EPA handle cases of unauthorized use of the DfE logo?  &lt;/h2&gt;
+
+&lt;p&gt;EPA Response: Using the logo associated with a pesticide product without having prior approval would be a violation under FIFRA, and EPA may take action as part of its FIFRA enforcement program. Also, unauthorized use of the DfE logo could be handled under Safer Choice procedures. &lt;/p&gt;
+
+&lt;p&gt;Unauthorized use of an EPA mark, for example, placing the DfE logo on a product prior to its being qualified to participate in the OPP-DfE pilot, constitutes fraud and is punishable as a crime. It is the responsibility of EPA’s Office of Inspector General (OIG) to investigate allegations of fraud relating to an Agency logo and refer cases to regional and state counsel for prosecution. DfE will bring all cases of fraud involving the logo to the OIG; currently, DfE has one fraud case in the OIG system.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q6&quot; name=&quot;Q6&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How does a product qualifying under the DfE program differ from a FIFRA 25(b)-exempt product?&lt;/h2&gt;
+
+&lt;p&gt;EPA Response:  They are similar only in that they involve lists of qualifying ingredients, but very different in the process and requirements that participants must follow. In brief, the DfE program/pilot requires a registered-pesticide candidate product to undergo an assessment against the DfE standard (e.g., to evaluate the toxicity of the active and inert chemicals). If the product qualifies it may add the DfE logo to its label through a label amendment.&lt;/p&gt;
+
+&lt;p&gt;In contrast, 25(b) products are exempt from registration and are not evaluated by the EPA, and therefore these products are not eligible for the DfE label. It should also be noted that any product bearing claims to either control or mitigate microorganisms that pose a threat to human health including but not limited to disease transmitting bacteria or viruses, or claims to control insects or rodents carrying specific diseases, but not limited to ticks that carry Lyme disease are not exempt under the 25b Program (40 CFR Part 152.25 (f)(3)(ii)).&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;Q7&quot; name=&quot;Q7&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Does the pilot include adjuvants and might such products be eligible for the DfE label?  &lt;/h2&gt;
+
+&lt;p&gt;EPA response:  Adjuvants would be included only when the adjuvant is part of the registered pesticide product. The pilot is currently open to antimicrobial products and a limited number of biopesticides.  Adjuvants are a class of products -- usually additives intended to be combined with a pesticide -- that are regulated by some states. Adjuvants packaged with a pesticide are eligible for the pilot if both the pesticide and adjuvant meet the pilot criteria. An adjuvant that is used in non-pesticidal products may qualify for DfE; however, to date, EPA has not reviewed any adjuvants under the DfE or Safer Choice program.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt; &lt;/div&gt;
+</description>
+     <pubDate>Wed, 09 Mar 2016 15:22:15 +0000</pubDate>
+ <dc:creator>cgesalma</dc:creator>
+ <guid isPermaLink="false">137929 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:54:27, expires @ 2017-01-27 11:54:27, lifetime 1 day -->

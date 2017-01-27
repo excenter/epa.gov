@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/45671/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Effluent Guidelines</title>
+    <link>https://www.epa.gov/feed/45671/rss.xml</link>
+    <description>Updated Effluent Guidelines content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/45671/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Leather Tanning and Finishing Effluent Guidelines Documents</title>
+    <link>https://www.epa.gov/eg/leather-tanning-and-finishing-effluent-guidelines-documents</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/leather-tanning-and-finishing-effluent-guidelines&quot;&gt;Leather Tanning and Finishing Effluent Guidelines&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-323965&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/leather-tanning_final_53-fr-9176_03-21-1988.pdf&quot; type=&quot;application/pdf; length=1360871&quot; class=&quot;file-link&quot;&gt;Leather Tanning and Finishing Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 1 MB, 
+  March 21, 1988, 
+  53 FR 9176)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 14 Oct 2016 21:20:34 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">162761 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pharmaceutical Manufacturing Effluent Guidelines</title>
+    <link>https://www.epa.gov/eg/pharmaceutical-manufacturing-effluent-guidelines</link>
+    <description>&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;287&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-05/pharm-factory.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;EPA promulgated the Pharmaceutical Manufacturing Effluent Guidelines and Standards (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=890993c0387972f059839fb345376e90&amp;amp;mc=true&amp;amp;node=pt40.32.439&amp;amp;rgn=div5&quot;&gt;40 CFR Part 439&lt;/a&gt;) in 1976 and amended the regulation in 1983, 1998 and 2003. The Effluent Guidelines are incorporated into &lt;a href=&quot;/npdes&quot;&gt;&lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permits&lt;/a&gt; for &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;direct dischargers&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;direct discharger&lt;/em&gt;A point source that discharges pollutants to waters of the United States, such as streams, lakes, or oceans.&lt;/span&gt;&lt;/a&gt;, and permits or other control mechanisms for &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;indirect dischargers&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;indirect discharger&lt;/em&gt;A facility that discharges pollutants to a publicly owned treatment works (municipal sewage treatment plant).&lt;/span&gt;&lt;/a&gt; (see &lt;a href=&quot;/npdes/national-pretreatment-program&quot;&gt;Pretreatment Program&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2&gt;Facilities Covered&lt;/h2&gt;
+
+&lt;div&gt;The regulation applies to facilities organized into five subcategories:&lt;/div&gt;
+
+&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;Fermentation Products&lt;/li&gt;
+	&lt;li&gt;Extraction Products&lt;/li&gt;
+	&lt;li&gt;Chemical Synthesis Products&lt;/li&gt;
+	&lt;li&gt;Mixing/Compounding and Formulation&lt;/li&gt;
+	&lt;li&gt;Research&lt;/li&gt;
+&lt;/ol&gt;&lt;hr /&gt;&lt;h2&gt;Guidance and Analytical Methods Documents&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pharmaceutical-manufacturing-effluent-guidelines-documents&quot;&gt;Guidance Document&lt;/a&gt; (2006)&lt;br /&gt;
+		Assists permit writers and pretreatment coordinators in developing appropriate NPDES permits and pretreatment requirements for pharmaceutical facilities&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cwa-methods/approved-industry-specific-cwa-test-methods#pharm&quot;&gt;Approved Analytical Methods for Pharmaceutical Pollutants&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;Rulemaking History&lt;/h2&gt;
+
+&lt;h3&gt;2003 Amendment&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2003/06/11/03-14744/partial-withdrawal-of-direct-final-rule-effluent-limitations-guidelines-pretreatment-standards-and&quot;&gt;Partial withdrawal of Direct Final Rule&lt;/a&gt; (June 11, 2003)&lt;br /&gt;
+		Corrections regarding compliance dates&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2003/03/13/03-5716/effluent-limitations-guidelines-pretreatment-standards-and-new-source-performance-standards-for-the&quot;&gt;Direct Final Rule&lt;/a&gt; (March 13, 2003)&lt;br /&gt;
+		Clarification of compliance dates; correction to effluent limitations; additional definitions&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1998 Amendment&lt;/h3&gt;
+
+&lt;div&gt;Major revision of &lt;abbr title=&quot;Best Practicable Technology Currently Available&quot;&gt;BPT&lt;/abbr&gt;, &lt;abbr title=&quot;Best Available Technology Economically Achievable&quot;&gt;BAT&lt;/abbr&gt;, &lt;abbr title=&quot;New Source Performance Standards&quot;&gt;NSPS&lt;/abbr&gt;, &lt;abbr title=&quot;Pretreatment Standards for Existing Sources&quot;&gt;PSES&lt;/abbr&gt;, and &lt;abbr title=&quot;Pretreatment Standards for New Sources&quot;&gt;PSNS&lt;/abbr&gt; for Subparts A-D&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/1998/09/21/98-21027/pharmaceutical-manufacturing-category-effluent-limitations-guidelines-pretreatment-standards-and-new&quot;&gt;Final Rule&lt;/a&gt; (September 21, 1998)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/pharmaceutical-manufacturing-effluent-guidelines-documents&quot;&gt;Development Document&lt;/a&gt;&lt;br /&gt;
+		Describes industry processes, pollutants generated, available control and treatment technologies, the technical basis for the final rule, and costs of the rule&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/pharmaceutical-manufacturing-effluent-guidelines-documents&quot;&gt;Economic Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1983 Amendment&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pharmaceutical-manufacturing-effluent-guidelines-documents&quot;&gt;Final Rule&lt;/a&gt; (October 27, 1983)&lt;br /&gt;
+		BAT, NSPS, PSES, PSNS; revised BPT&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1976 Initial Rulemaking&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pharmaceutical-manufacturing-effluent-guidelines-documents&quot;&gt;Interim Final Rule &lt;/a&gt;(November 17, 1976)&lt;br /&gt;
+		Initial BPT limitations&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;For additional information regarding Pharmaceutical Manufacturing Effluent Guidelines, please contact &lt;a href=&quot;mailto:hessenauer.meghan@epa.gov?subject=Pharmaceutical%20Manufacturing%20Effluent%20Guidelines&quot;&gt;Meghan Hessenauer&lt;/a&gt; (hessenauer.meghan@epa.gov) or 202-566-1040.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 14 Sep 2016 19:50:30 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">160141 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pulp, Paper and Paperboard Effluent Guidelines - Documents Related to 1974 through 1986 Rules</title>
+    <link>https://www.epa.gov/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines&quot;&gt;Pulp, Paper and Paperboard Effluent Guidelines&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;1986 Amendment - BCT&lt;/li&gt;
+	&lt;li&gt;1982 Amendment - All standards except BCT&lt;/li&gt;
+	&lt;li&gt;1977 Amendment&lt;/li&gt;
+	&lt;li&gt;1974 Initial Rule: Pulp, Paper and Paperboard Category&lt;/li&gt;
+	&lt;li&gt;1974 Initial Rule: Builders Paper Category&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-299227&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pulp-paper_builders-paper_final_51-fr-45232_12-17-1986.pdf&quot; type=&quot;application/pdf; length=1368467&quot; class=&quot;file-link&quot;&gt;Pulp, Paper &amp;amp; Paperboard; Builders Paper; Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 1 MB, 
+  December 18, 1986, 
+  51 FR 45232)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    BCT  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-299229&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pulp-paper_builders-paper_final_47-fr-52006_11-18-1982.pdf&quot; type=&quot;application/pdf; length=6491779&quot; class=&quot;file-link&quot;&gt;Pulp, Paper &amp;amp; Paperboard; Builders Paper; Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(59 pp, 6 MB, 
+  November 18, 1982, 
+  47 FR 52006)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    All standards except BCT  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-299923&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pulp-paper-dd-1982.pdf&quot; type=&quot;application/pdf; length=25288462&quot; class=&quot;file-link&quot;&gt;Development Document for Effluent Limitations Guidelines, New Source Performance Standards and Pretreatment Standards for the Pulp, Paper and Paperboard and the Builders&amp;#039; Paper and Board Mills Point Source Categories (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(684 pp, 25 MB, 
+  October 1982, 
+  440/1-82/025)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the 1982 final rule  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-299235&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pulp-paper_final_42-fr-1398_01-06-1977.pdf&quot; type=&quot;application/pdf; length=4817609&quot; class=&quot;file-link&quot;&gt;Pulp, Paper &amp;amp; Paperboard Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 5 MB, 
+  January 6, 1977, 
+  42 FR 1398)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-315093&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/pulp-paper_int-final_41-fr-7662_02-19-1976.pdf&quot; type=&quot;application/pdf; length=3641766&quot; class=&quot;file-link&quot;&gt;Pulp, Paper &amp;amp; Paperboard Effluent Guidelines - Interim Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 4 MB, 
+  February 19, 1976, 
+  41 FR 7662)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-299237&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pulp-paper_final_39-fr-18742_05-29-1974.pdf&quot; type=&quot;application/pdf; length=2108448&quot; class=&quot;file-link&quot;&gt;Pulp, Paper &amp;amp; Paperboard Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 2 MB, 
+  May 29, 1974, 
+  39 FR 18742)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-299239&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/builders-paper_39-fr-16578_05-09-1974.pdf&quot; type=&quot;application/pdf; length=540334&quot; class=&quot;file-link&quot;&gt;Builders Paper Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 540 K, 
+  May 9, 1974, 
+  39 FR 16578)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 13 Sep 2016 20:35:51 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">160057 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pulp, Paper and Paperboard Effluent Guidelines</title>
+    <link>https://www.epa.gov/eg/pulp-paper-and-paperboard-effluent-guidelines</link>
+    <description>&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;276&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-11/paper_mill_647x398.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;EPA promulgated initial Effluent Guidelines and Standards for the Pulp, Paper and Paperboard category (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=6b51273d47e8dc451e0aac10f60cdfee&amp;amp;mc=true&amp;amp;node=pt40.32.430&amp;amp;rgn=div5&quot;&gt;40 CFR Part 430&lt;/a&gt;) in 1974 and 1977, amended the regulations in 1982 and 1986, and promulgated a major amendment covering toxic pollutants in 1998. The Effluent Guidelines are incorporated into &lt;a href=&quot;/npdes&quot;&gt;&lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permits&lt;/a&gt; for &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;direct dischargers&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;direct discharger&lt;/em&gt;A point source that discharges pollutants to waters of the United States, such as streams, lakes, or oceans.&lt;/span&gt;&lt;/a&gt;, and permits or other control mechanisms for &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;indirect dischargers&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;indirect discharger&lt;/em&gt;A facility that discharges pollutants to a publicly owned treatment works (municipal sewage treatment plant).&lt;/span&gt;&lt;/a&gt; (see &lt;a href=&quot;/npdes/national-pretreatment-program&quot;&gt;Pretreatment Program&lt;/a&gt;).&lt;/p&gt;
+
+&lt;div&gt;The 1998 &quot;Cluster Rule&quot; also promulgated toxic air emission standards (&lt;abbr title=&quot;National Emission Standards for Hazardous Air Pollutants&quot;&gt;NESHAPs&lt;/abbr&gt;) for the industry under the Clean Air Act (see &lt;a href=&quot;/stationary-sources-air-pollution/pulp-and-paper-production-mact-i-iii-national-emissions-standards&quot;&gt;Pulp and Paper Production (MACT I &amp;amp; III)&lt;/a&gt;).&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#facilities&quot;&gt;Facilities Covered&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guidance&quot;&gt;Guidance Document&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/&quot;&gt;Rulemaking History&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#additional&quot;&gt;Additional Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;facilities&quot; name=&quot;facilities&quot;&gt;&lt;/a&gt;Facilities Covered&lt;/h2&gt;
+
+&lt;table summary=&quot;List of subcategories and processes&quot;&gt;&lt;caption&gt;Pulp, Paper and Paperboard Subcategories&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;     Subcategory     &lt;/th&gt;
+			&lt;th&gt;Processes Included&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;A. Dissolving Kraft&lt;/td&gt;
+			&lt;td&gt;Dissolving pulp at kraft mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B. Bleached Papergrade Kraft and Soda&lt;/td&gt;
+			&lt;td&gt;Market pulp at bleached kraft mills; paperboard, coarse paper, and tissue paper at bleached kraft mills; pulp and fine papers at bleached kraft mills; and pulp and paper at soda mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C. Unbleached Kraft&lt;/td&gt;
+			&lt;td&gt;Pulp and paper at unbleached kraft mills including linerboard or bag paper and other mixed products; pulp and paper using the unbleached kraft-neutral sulfite semi-chemical (cross recovery) process; and pulp and paper at combined unbleached kraft and semi-chemical mills, wherein the spent semi-chemical cooking liquor is burned within the unbleached kraft chemical recovery system&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D. Dissolving Sulfite&lt;/td&gt;
+			&lt;td&gt;Pulp at dissolving sulfite mills for the following grades: nitration, viscose, cellophane, and acetate&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E. Papergrade Sulfite&lt;/td&gt;
+			&lt;td&gt;Calcium, magnesium, or sodium-based pulps; ammonium-based pulps; specialty grade pulps. Pulp and paper at papergrade sulfite mills where blow pit pulp washing techniques are used and pulp and paper at papergrade sulfite mills where vacuum or pressure drums are used to wash pulp&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;F. Semi-Chemical&lt;/td&gt;
+			&lt;td&gt;Pulp and paper at semi-chemical mills using an ammonia base or a sodium base&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G. Mechanical Pulp&lt;/td&gt;
+			&lt;td&gt;Pulp and paper at groundwood chemi-mechanical mills; pulp and paper at groundwood mills through the application of the thermo-mechanical process; pulp and coarse paper, molded pulp products, and newsprint at groundwood mills; and pulp and fine paper at groundwood mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H. Non-Wood Chemical Pulp&lt;/td&gt;
+			&lt;td&gt;Pulp and paper at non-wood chemical pulp mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I. Secondary Fiber Deink&lt;/td&gt;
+			&lt;td&gt;Pulp and paper at deink mills including fine papers, tissue papers, or newsprint&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J. Secondary Fiber Non-Deink&lt;/td&gt;
+			&lt;td&gt;Paperboard from wastepaper from noncorrugating medium furnish or from corrugating medium furnish; tissue paper from wastepaper without deinking at secondary fiber mills; molded products from wastepaper without deinking; and builders&#039; paper and roofing felt from wastepaper&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;K. Fine and Lightweight Papers from Purchased Pulp&lt;/td&gt;
+			&lt;td&gt;Fine papers at nonintegrated mills using wood fiber furnish or cotton fiber furnish; and lightweight papers at nonintegrated mills or lightweight electrical papers at nonintegrated mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;L. Tissue, Filter, Non-woven, and Paperboard from Purchased Pulp&lt;/td&gt;
+			&lt;td&gt;Tissue papers at nonintegrated mills; filter and non-woven papers at nonintegrated mills; and paperboard at nonintegrated mills&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;guidance&quot; name=&quot;guidance&quot;&gt;&lt;/a&gt;Guidance Document&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1998-rule&quot;&gt;Permit Guidance Document&lt;/a&gt; (2000)&lt;br /&gt;
+		Guidance for NPDES permit authorities and &lt;abbr title=&quot;publicly owned treatment works&quot;&gt;POTWs&lt;/abbr&gt; in implementing the 1998 amendments to Subparts B and E&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;rule-history&quot; name=&quot;rule-history&quot;&gt;&lt;/a&gt;Rulemaking History&lt;/h2&gt;
+
+&lt;h3&gt;2007 Amendment&lt;/h3&gt;
+
+&lt;div&gt;Approved an analytical method for measurement of chlorinated phenolics.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2007/03/12/07-1073/guidelines-establishing-test-procedures-for-the-analysis-of-pollutants-under-the-clean-water-act&quot;&gt;Final rule&lt;/a&gt; (March 12, 2007)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;2002 Amendment&lt;/h3&gt;
+
+&lt;div&gt;Technical amendment. Reduced monitoring requirements for chloroform for Subpart B facilities; allows demonstration of compliance by self-certification.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2002/09/19/02-23741/effluent-limitations-guidelines-and-standards-for-the-bleached-papergrade-kraft-and-soda-subcategory&quot;&gt;Final rule&lt;/a&gt; (September 19, 2002)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1999 Amendment&lt;/h3&gt;
+
+&lt;div&gt;Followup to 1998 rule with milestones plan requirements&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/1999/07/07/99-17207/amendment-to-the-effluent-limitations-guidelines-and-standards-for-the-bleached-papergrade-kraft-and&quot;&gt;Final rule&lt;/a&gt; (July 7, 1999)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1998 Amendments&lt;/h3&gt;
+
+&lt;h4&gt;Minor Corrections&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/1998/08/07/98-20413/national-emission-standards-for-hazardous-air-pollutants-for-source-category-pulp-and-paper&quot;&gt;Final rule&lt;/a&gt; (August 7, 1998)&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Cluster Rule&lt;/h4&gt;
+
+&lt;div&gt;Established effluent limitations for toxic pollutants in Subparts B and E; merged Builders Paper Category (formerly 40 CFR Part 431)&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/1998/04/15/98-9613/national-emission-standards-for-hazardous-air-pollutants-for-source-category-pulp-and-paper&quot;&gt;Final rule&lt;/a&gt; (April 15, 1998)
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1998-rule&quot;&gt;Development Document&lt;/a&gt; (1997)&lt;br /&gt;
+				Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1998-rule&quot;&gt;Technical Support Document for Best Management Practices&lt;/a&gt; (1997)&lt;br /&gt;
+				BMPs for bleached papergrade kraft and soda, and papergrade sulfite mills. The BMPs establish controls that reduce the release of toxic, conventional, and nonconventional pollutants to surface waters.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1998-rule&quot;&gt;Economic Analysis&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1998-rule&quot;&gt;Proposed rule&lt;/a&gt; (December 17, 1993)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1986 Amendment&lt;/h3&gt;
+
+&lt;div&gt;&lt;abbr title=&quot;Best Conventional Pollutant Control Technology&quot;&gt;BCT&lt;/abbr&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Final rule&lt;/a&gt; (December 17, 1986)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1982 Amendment&lt;/h3&gt;
+
+&lt;div&gt;All standards except BCT&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Final rule&lt;/a&gt; (November 18, 1982)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Development Document&lt;/a&gt; (October 1982)&lt;br /&gt;
+		Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1977 Amendment&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Final rule&lt;/a&gt; (January 6, 1977)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Interim final rule&lt;/a&gt; (February 19, 1976)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1974 Initial Rulemaking&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Pulp, Paper &amp;amp; Paperboard Category
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Final rule&lt;/a&gt; (May 29, 1974)&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Builders Paper Category
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/pulp-paper-and-paperboard-effluent-guidelines-documents-related-1974-through-1986-rules&quot;&gt;Final rule&lt;/a&gt; (May 9, 1974)&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;additional&quot; name=&quot;additional&quot;&gt;&lt;/a&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;For additional information regarding Pulp, Paper and Paperboard Effluent Guidelines, please contact &lt;a href=&quot;mailto:siddiqui.ahmar@epa.gov?subject=Pulp%20%26%20Paper%20Effluent%20Guidelines&quot;&gt;Ahmar Siddiqui&lt;/a&gt; (siddiqui.ahmar@epa.gov) or 202-566-1044.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 20:11:36 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159843 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Nutrient Control &amp; Wastewater Treatment Study Documents</title>
+    <link>https://www.epa.gov/eg/nutrient-control-wastewater-treatment-study-documents</link>
+    <description>
+
+&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/national-study-nutrient-removal-and-secondary-technologies&quot;&gt;National Study on Nutrient Control and Water Treatment Technologies&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-316265&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/potw-screener-questionnaire_v7_09-15-2016.pdf&quot; type=&quot;application/pdf; length=682691&quot; class=&quot;file-link&quot;&gt;National Study of Nutrient Removal And Secondary Technologies: POTW Screener Questionnaire; Draft (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(25 pp, 683 K, 
+  September 16, 2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Draft of a short questionnaire to be sent to publicly owned treatment works (POTWs, or municipal sewage treatment plants) in the United States. Questions include those necessary to identify the POTWs, and those POTWs with secondary treatment that are not designed specifically to remove nitrogen and phosphorus pollutants.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 13:25:16 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159755 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Concentrated Aquatic Animal Production Effluent Guidelines</title>
+    <link>https://www.epa.gov/eg/concentrated-aquatic-animal-production-effluent-guidelines</link>
+    <description>&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;336&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-11/aquaculture-facilties_500x375.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;EPA promulgated Effluent Guidelines for Concentrated Aquatic Animal Production (CAAP), or aquaculture, in 2004. The regulation (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=b32f065c3e56d423dbc1858e2a077818&amp;amp;mc=true&amp;amp;node=pt40.32.451&amp;amp;rgn=div5&quot;&gt;40 CFR Part 451&lt;/a&gt;) applies to existing and new CAAP facilities with the following characteristics:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Use flow-through, recirculating, or net pen systems&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;Directly discharge&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;direct discharger&lt;/em&gt;A point source that discharges pollutants to waters of the United States, such as streams, lakes, or oceans.&lt;/span&gt;&lt;/a&gt; wastewater&lt;/li&gt;
+	&lt;li&gt;Produce at least 100,000 pounds of fish, molluscs or crustaceans a year&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;These requirements are incorporated into &lt;a href=&quot;/npdes&quot;&gt;&lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permits&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+	&lt;div class=&quot;box multi related-info right&quot;&gt;
+		&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/npdes/npdes-aquaculture-permitting&quot;&gt;NPDES Aquaculture Permits&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#what-is&quot;&gt;What is the CAAP Industry?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#facilities&quot;&gt;Facilities Covered&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#guidance&quot;&gt;Guidance Document&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rulemaking&quot;&gt;Rulemaking History&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#additional&quot;&gt;Additional Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;what-is&quot; name=&quot;what-is&quot;&gt;&lt;/a&gt;What is the CAAP Industry?&lt;/h2&gt;
+
+&lt;p&gt;Fish farms and hatcheries covered by the Effluent Guidelines regulation use one or more of the following systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flow-through systems&lt;/strong&gt; consist of raceways, ponds, or tanks that have constant flows of water through them. Trout, salmon, and hybrid striped bass are examples of fish grown in flow-through systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recirculating systems&lt;/strong&gt; are highly intensive culture systems that actively filter and reuse water many times before it is discharged. These systems typically use tanks or raceways to hold the growing animals and have extensive filtration and support equipment to maintain adequate water quality. Any species can be grown in a recirculating system, but tilapia and hybrid striped bass are the predominant species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Net pens&lt;/strong&gt; are floating structures in which nets are suspended into the water column in coastal waters and the open ocean. Net pen systems typically are located along a shore or pier or may be anchored and floating offshore. The most significant net pen operations are salmon net pens located in the northeastern and northwestern coastal areas of the United States. Other species, such as steelhead trout, cobia and redfish, also can be cultured in net pen operations.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;facilities&quot; name=&quot;facilities&quot;&gt;&lt;/a&gt;Facilities Covered&lt;/h2&gt;
+
+&lt;div&gt;The regulation applies to facilities organized into two subcategories:&lt;/div&gt;
+
+&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;Flow-Through and Recirculating Systems&lt;/li&gt;
+	&lt;li&gt;Net Pen&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Fish farms and hatcheries producing less than 100,000 pounds/year, and other aquaculture systems such as ponds, are not subject to the CAAP Effluent Guidelines, but still require NPDES permits for discharging wastewater. See &lt;a href=&quot;/npdes/npdes-aquaculture-permitting&quot;&gt;NPDES Aquaculture Permits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;guidance&quot; name=&quot;guidance&quot;&gt;&lt;/a&gt;Guidance Document&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/concentrated-aquatic-animal-production-compliance-guide-and-reporting-forms&quot;&gt;Compliance Guide and Reporting Forms (2006)&lt;/a&gt;&lt;br /&gt;
+		The document helps permit writers develop wastewater discharge permits and producers comply with the requirements for their facilities.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;rulemaking&quot; name=&quot;rulemaking&quot;&gt;&lt;/a&gt;Rulemaking History&lt;/h2&gt;
+
+&lt;h3&gt;2004 Rule&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2004/08/23/04-15530/effluent-limitations-guidelines-and-new-source-performance-standards-for-the-concentrated-aquatic&quot;&gt;Final Rule&lt;/a&gt; (August 23, 2004)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/eg/concentrated-aquatic-animal-production-effluent-guidelines-support-documents&quot;&gt;Documents&lt;/a&gt;, including:
+		&lt;ul&gt;&lt;li&gt;Development Document&lt;br /&gt;
+				Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule&lt;/li&gt;
+			&lt;li&gt;Economic &amp;amp; Environmental Benefits Analysis&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/documents/2002/09/12/02-21673/effluent-limitations-guidelines-and-new-source-performance-standards-for-the-concentrated-aquatic&quot;&gt;Proposed Rule&lt;/a&gt; (September 12, 2002)&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;additional&quot; name=&quot;additional&quot;&gt;&lt;/a&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;For additional information regarding CAAP Effluent Guidelines, please contact &lt;a href=&quot;mailto:trentacoste.emily@epa.gov?subject=CAAP%20Effluent%20Guidelines&quot;&gt;Emily Trentacoste&lt;/a&gt; (trentacoste.emily@epa.gov) or 202-566-0703.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 06 Sep 2016 19:50:26 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159389 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Concentrated Aquatic Animal Production Compliance Guide and Reporting Forms</title>
+    <link>https://www.epa.gov/eg/concentrated-aquatic-animal-production-compliance-guide-and-reporting-forms</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/concentrated-aquatic-animal-production-effluent-guidelines&quot;&gt;Concentrated Aquatic Animal Production Effluent Guidelines&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/npdes/npdes-aquaculture-permitting&quot;&gt;NPDES Aquaculture Permits&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Compliance Guide explains the &lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permit requirements and related Effluent Guidelines regulation for the Concentrated Aquatic Animal Production (CAAP) industry, which are facilities that produce 100,000 pounds or more of aquatic animals per year (fish, molluscs and crustaceans). The document will help permit writers develop wastewater discharge permits and producers comply with the requirements for their facilities.&lt;/p&gt;
+
+&lt;p&gt;See the PDF file below for the full Compliance Guide.&lt;/p&gt;
+
+&lt;h2&gt;Optional Reporting Forms&lt;/h2&gt;
+
+&lt;div&gt;Editable versions (MS Word format) of forms included in the Compliance Guide appendices.&lt;/div&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-177817&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/e1-bmpplantemplate.doc&quot; type=&quot;application/msword; length=1138688&quot; class=&quot;file-link&quot;&gt;E1 - BMP Plan Template&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-181899&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/f-bmpcertificationform_1.doc&quot; type=&quot;application/msword; length=25088&quot; class=&quot;file-link&quot;&gt;F - BMP Certification Form&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 25 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-181887&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m1-inad-7daywrittenreport_1.doc&quot; type=&quot;application/msword; length=34816&quot; class=&quot;file-link&quot;&gt;M1 - INAD - 7 Day Written Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 35 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182019&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m2-inad-7dayoralreport.doc&quot; type=&quot;application/msword; length=40448&quot; class=&quot;file-link&quot;&gt;M2 - INAD &amp;amp; Extralabel - 7 Day Oral Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 40 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182043&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m3-inad-30daywrittenreport.doc&quot; type=&quot;application/msword; length=39936&quot; class=&quot;file-link&quot;&gt;M3 - INAD &amp;amp; Extralabel - 30 Day Written Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 40 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182049&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m4-failureordamage-24houroralreport.doc&quot; type=&quot;application/msword; length=41984&quot; class=&quot;file-link&quot;&gt;M4 - Failure or Damage - 24 Hour Oral Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182059&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m5-failureordamage-7daywrittenreport.doc&quot; type=&quot;application/msword; length=36352&quot; class=&quot;file-link&quot;&gt;M5 - Failure or Damage - 7 Day Written Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 36 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-182063&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m6-spills-24houroralreport.doc&quot; type=&quot;application/msword; length=41984&quot; class=&quot;file-link&quot;&gt;M6 - Spills - 24 Hour Oral Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 42 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182073&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/m7-spills-7daywrittenreport.doc&quot; type=&quot;application/msword; length=34816&quot; class=&quot;file-link&quot;&gt;M7 - Spills - 7 Day Written Report&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 35 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182081&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/n-feedconversionratios_0.doc&quot; type=&quot;application/msword; length=69632&quot; class=&quot;file-link&quot;&gt;N - Feed Conversion Ratios&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 70 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182089&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/o-spillsleakslog.doc&quot; type=&quot;application/msword; length=50176&quot; class=&quot;file-link&quot;&gt;O - Spills and Leaks Log&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 50 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182099&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/p1-inspectionmaintenancelog-ftras.doc&quot; type=&quot;application/msword; length=44544&quot; class=&quot;file-link&quot;&gt;P1 - Inspection and Maintenance Log - FT and RAS&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 45 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182105&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/p2-inspectionmaintenancelog-netpen.doc&quot; type=&quot;application/msword; length=45056&quot; class=&quot;file-link&quot;&gt;P2 - Inspection and Maintenance Log - Net Pen&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 45 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182195&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/s-employeetraininglog.doc&quot; type=&quot;application/msword; length=34304&quot; class=&quot;file-link&quot;&gt;S - Employee Training Log&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 34 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-182205&quot; class=&quot;file file-document file-application-msword&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/t-carcassremoval.doc&quot; type=&quot;application/msword; length=52736&quot; class=&quot;file-link&quot;&gt;T - Carcass Removal&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 53 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-224537&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/caap-aquaculture_compliance-guide_2006.pdf&quot; type=&quot;application/pdf; length=5797374&quot; class=&quot;file-link&quot;&gt;Compliance Guide for the Concentrated Aquatic Animal Production Point Source Category (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(292 pp, 6 MB, 
+  March 2006, 
+  821-B-05-001)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 02 Sep 2016 14:34:07 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159287 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ferroalloy Manufacturing Effluent Guidelines Documents</title>
+    <link>https://www.epa.gov/eg/ferroalloy-manufacturing-effluent-guidelines-documents</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/ferroalloy-manufacturing-effluent-guidelines&quot;&gt;Ferroalloy Manufacturing Effluent Guidelines&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-312915&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/ferroalloy-mfg_int-final_subpts_d-g_40-fr-8030_02-24-1975.pdf&quot; type=&quot;application/pdf; length=1308272&quot; class=&quot;file-link&quot;&gt;Ferroalloy Manufacturing Effluent Guidelines - Interim Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(8 pp, 1 MB, 
+  February 24, 1975, 
+  40 FR 8030)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Subparts D - G  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322931&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ferroalloy-mfg_calcium-carbide_dd_1975.pdf&quot; type=&quot;application/pdf; length=3189504&quot; class=&quot;file-link&quot;&gt;Development Document for Interim Final Effluent Limitations Guidelines and Proposed New Source Performance Standards for the Calcium Carbide Segment of the Ferroalloy Manufacturing Point Souce Category (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(86 pp, 3 MB, 
+  February 1975, 
+  440/1-75/038)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322933&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ferroalloy-mfg_electrolytic_dd_1975.pdf&quot; type=&quot;application/pdf; length=2979347&quot; class=&quot;file-link&quot;&gt;Development Document for Interim Final Effluent Limitations Guidelines and Proposed New Source Performance Standards for the Electrolytic Ferroalloys Segment of the Ferroalloy Manufacturing Point Souce Category (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(75 pp, 3 MB, 
+  February 1975, 
+  440/1-75/038a)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322913&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ferroalloy-mfg_final_subpts_a-c_39-fr-6806_02-22-1974.pdf&quot; type=&quot;application/pdf; length=1052144&quot; class=&quot;file-link&quot;&gt;Ferroalloy Manufacturing Effluent Guidelines - Final Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 1 MB, 
+  February 22, 1974, 
+  39 FR 6806)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Subparts A-C  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322927&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ferroalloy-mfg_smelting-slag_dd_1974.pdf&quot; type=&quot;application/pdf; length=6829889&quot; class=&quot;file-link&quot;&gt;Development Document for Effluent Limitations Guidelines and New Source Performance Standards for the Smelting and Slag Processing Segments of the Ferroalloy Manufacturing Point Souce Category (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(182 pp, 7 MB, 
+  February 1974)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule. Subcategories: electric furnaces, slag processing.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-322919&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/ferroalloy-mfg_proposed_subpts_a-d_38-fr-29008_10-18-1973.pdf&quot; type=&quot;application/pdf; length=1700788&quot; class=&quot;file-link&quot;&gt;Ferroalloy Manufacturing Effluent Guidelines - Proposed Rule (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 2 MB, 
+  October 18, 1973, 
+  38 FR 29008)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 01 Sep 2016 20:31:15 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159239 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ferroalloy Manufacturing Effluent Guidelines</title>
+    <link>https://www.epa.gov/eg/ferroalloy-manufacturing-effluent-guidelines</link>
+    <description>&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;&amp;quot;&amp;quot;&quot; height=&quot;299&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-10/ferrosilicon-manufacturing.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;EPA promulgated the Ferroalloy Manufacturing Effluent Guidelines and Standards (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=2b0d499f1ba1f8d73ad7999f3a71f2a4&amp;amp;mc=true&amp;amp;node=pt40.31.424&amp;amp;rgn=div5&quot;&gt;40 CFR Part 424&lt;/a&gt;) in 1974 and 1975. The regulation covers &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;direct&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;direct discharger&lt;/em&gt;A point source that discharges pollutants to waters of the United States, such as streams, lakes, or oceans.&lt;/span&gt;&lt;/a&gt; and &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;indirect&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img alt=&quot;Help&quot; height=&quot;48&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; width=&quot;48&quot; /&gt;&lt;em&gt;indirect discharger&lt;/em&gt;A facility that discharges pollutants to a publicly owned treatment works (municipal sewage treatment plant).&lt;/span&gt;&lt;/a&gt; dischargers. The Effluent Guidelines and Standards are incorporated into &lt;a href=&quot;/npdes&quot;&gt;&lt;abbr title=&quot;National Pollutant Discharge Elimination System&quot;&gt;NPDES&lt;/abbr&gt; permits&lt;/a&gt; for direct dischargers, and permits or other control mechanisms for indirect dischargers (See &lt;a href=&quot;/npdes/national-pretreatment-program&quot;&gt;Pretreatment Program&lt;/a&gt;).&lt;/p&gt;
+
+&lt;div&gt;&lt;strong&gt;On this page:&lt;/strong&gt;&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#what-is&quot;&gt;What is the Ferroalloy Manufacturing Industry?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#related&quot;&gt;Related Categories&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#facilities&quot;&gt;Facilities Covered&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rulemaking&quot;&gt;Rulemaking History&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#additional&quot;&gt;Additional Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;what-is&quot; name=&quot;what-is&quot;&gt;&lt;/a&gt;What is the Ferroalloy Manufacturing Industry?&lt;/h2&gt;
+
+&lt;div&gt;Ferroalloy manufacturers add chemical elements to molten iron, usually during steelmaking. The alloys impart distinctive qualities to steel and cast iron or serve important functions during production. Ferroalloys are used for deoxidation, alloying, and graphitization of steel and cast iron. There are four major methods used to produce ferroalloy and high purity metallic additives for steelmaking:&lt;/div&gt;
+
+&lt;ol&gt;&lt;li&gt;Blast furnace&lt;/li&gt;
+	&lt;li&gt;Electric smelting furnace&lt;/li&gt;
+	&lt;li&gt;Alumina- or silicothermic process&lt;/li&gt;
+	&lt;li&gt;Electrolytic deposition.&lt;/li&gt;
+&lt;/ol&gt;&lt;div&gt;The major alloys produced are:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;Silicon alloys (ferrosilicon and calcium silicide)&lt;/li&gt;
+	&lt;li&gt;Chromium alloys (high carbon ferrochromium in various grades and ferrochrome-silicon)&lt;/li&gt;
+	&lt;li&gt;Manganese alloys (standard ferromanganese and silicomanganese).&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;Ferroalloy manufacturing is included within the following NAICS groups:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;331111 Iron and Steel Mills&lt;/li&gt;
+	&lt;li&gt;331112 Electrometallurgical Ferroalloy Product Manufacturing&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The NAICS listing is provided as a guide and does not define the coverage of the Ferroalloy Manufacturing category. For precise definitions of coverage, see the applicability sections in &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=2b0d499f1ba1f8d73ad7999f3a71f2a4&amp;amp;mc=true&amp;amp;tpl=/ecfrbrowse/Title40/40cfrv31_02.tpl#0&quot;&gt;40 CFR Part 424.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wastewater is generated mainly as thermal pollution, and from air pollution control devices (baghouses, wet scrubbers and electrostatic precipitators).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;related&quot; name=&quot;related&quot;&gt;&lt;/a&gt;Related Categories&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/iron-and-steel-manufacturing-effluent-guidelines&quot;&gt;Iron and Steel Manufacturing&lt;/a&gt; (&lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=2b0d499f1ba1f8d73ad7999f3a71f2a4&amp;amp;mc=true&amp;amp;node=pt40.31.420&amp;amp;rgn=div5&quot;&gt;40 CFR Part 420&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;facilities&quot; name=&quot;facilities&quot;&gt;&lt;/a&gt;Facilities Covered&lt;/h2&gt;
+
+&lt;div&gt;The Ferroalloy Manufacturing regulation is organized into 7 subcategories:&lt;/div&gt;
+
+&lt;ol type=&quot;A&quot;&gt;&lt;li&gt;Open Electric Furnaces with Wet Air Pollution Control Devices&lt;/li&gt;
+	&lt;li&gt;Covered Electric Furnaces and Other Smelting Operations with Wet Air Pollution Control Devices&lt;/li&gt;
+	&lt;li&gt;Slag Processing&lt;/li&gt;
+	&lt;li&gt;Covered Calcium Carbide Furnaces with Wet Air Pollution Control Devices&lt;/li&gt;
+	&lt;li&gt;Other Calcium Carbide Furnaces&lt;/li&gt;
+	&lt;li&gt;Electrolytic Manganese Products&lt;/li&gt;
+	&lt;li&gt;Electrolytic Chromium&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;rulemaking&quot; name=&quot;rulemaking&quot;&gt;&lt;/a&gt;Rulemaking History&lt;/h2&gt;
+
+&lt;h3&gt;1975 Amendment&lt;/h3&gt;
+
+&lt;div&gt;Subparts D-G&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/ferroalloy-manufacturing-effluent-guidelines-documents&quot;&gt;Documents&lt;/a&gt;, including:
+
+		&lt;ul&gt;&lt;li&gt;Interim Final Rule: 40 FR 8030, 2/24/1975&lt;/li&gt;
+			&lt;li&gt;Development Documents&lt;br /&gt;
+				Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule:
+				&lt;ul&gt;&lt;li&gt;Calcium Carbide Segment (EPA 440/1-75/038, February 1975)&lt;/li&gt;
+					&lt;li&gt;Electrolytic Ferroalloys Segment (EPA 440/1-75/038a, February 1975)&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;1974 Initial Rulemaking&lt;/h3&gt;
+
+&lt;div&gt;Subparts A-C&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/eg/ferroalloy-manufacturing-effluent-guidelines-documents&quot;&gt;Documents&lt;/a&gt;, including:
+
+		&lt;ul&gt;&lt;li&gt;Final Rule: 39 FR 6806, 2/22/1974&lt;/li&gt;
+			&lt;li&gt;Development Document – Smelting and Slag Processing Segment (February 1974)&lt;br /&gt;
+				Industry description, wastewater characterization, treatment technologies, regulatory compliance cost estimates and pollutant loadings for the final rule&lt;/li&gt;
+			&lt;li&gt;Proposed Rule: 38 FR 29008, 10/18/1973&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;additional&quot; name=&quot;additional&quot;&gt;&lt;/a&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;For additional information regarding Ferroalloy Manufacturing Effluent Guidelines, please contact &lt;a href=&quot;mailto:siddiqui.ahmar@epa.gov?subject=Ferroalloy%20Manufacturing%20Effluent%20Guidelines&quot;&gt;Ahmar Siddiqui&lt;/a&gt;, siddiqui.ahmar@epa.gov or 202-566-1044.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 01 Sep 2016 19:16:25 +0000</pubDate>
+ <dc:creator>estrassl</dc:creator>
+ <guid isPermaLink="false">159227 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:46:48, expires @ 2017-01-26 16:46:48, lifetime 12 hours -->

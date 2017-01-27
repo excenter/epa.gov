@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/46997/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Air Quality Management Process</title>
+    <link>https://www.epa.gov/feed/46997/rss.xml</link>
+    <description>Updated Air Quality Management Process content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/46997/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Human Health, Environmental and Economic Assessments</title>
+    <link>https://www.epa.gov/air-quality-management-process/human-health-environmental-and-economic-assessments</link>
+    <description>&lt;p&gt;Human health and environmental assessments are included as part of an air quality management program to characterize the human health and environmental risks associated with exposure to pollution. Typically, these assessments evaluate:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;the impact of existing levels of pollution; and/or&lt;/li&gt;
+	&lt;li&gt;the estimated beneficial impact of a policy or program to reduce emissions and improve the air quality.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Economic assessments are used to evaluate the cost and the economic impact of a policy or regulation related to air quality management. They can also be used to estimate the economic value of the benefits of an air pollution policy or program.&lt;/p&gt;
+
+&lt;p&gt;Taken together, these assessments can help identify air quality management policies needed to address the risks that have been identified, as well as to focus on the most cost effective ones.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#what&quot;&gt;&lt;strong&gt;What is the impact of air pollution on human health and the environment?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#how&quot;&gt;&lt;strong&gt;How are human health, environmental and economic assessments developed?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;what&quot; name=&quot;what&quot;&gt;&lt;/a&gt;&lt;strong&gt;What is the impact of air pollution on human health and the environment?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Determining how various pollutants may impact human health and the environment requires information from a range of disciplines, such as toxicology and epidemiology.&lt;/p&gt;
+
+&lt;p&gt;Short- and/or long-term exposure to air pollution has been associated with a wide range of human health effects including &lt;span lang=&quot;EN&quot; xml:lang=&quot;EN&quot;&gt;&lt;span&gt;&lt;ins&gt;increased respiratory symptoms, hospitalization&lt;/ins&gt;&lt;/span&gt; for heart or lung &lt;/span&gt;&lt;span lang=&quot;EN&quot; xml:lang=&quot;EN&quot;&gt;&lt;span&gt;&lt;ins&gt;diseases, and even premature death. Hazardous (or toxic) air pollutants, may cause cancer or other serious health effects, such as reproductive effects or birth defects.&lt;/ins&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Specific groups within the general population may have a greater risk of pollution effects due to a variety of factors. &lt;span&gt;For example, children often are more vulnerable to pollutants. &lt;/span&gt;&lt;a href=&quot;/children&quot;&gt;Learn more about protecting children&#039;s environmental health&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s goal is to provide an environment where all people &lt;ins&gt;regardless of race, color, national origin, or income &lt;/ins&gt;enjoy the same degree of protection from environmental and health hazards and equal access to the decision-making process to maintain a healthy environment in which to live, learn, and work, through implementing &lt;a href=&quot;http://www3.epa.gov/environmentaljustice/&quot;&gt;Environmental Justice.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Environmental (or welfare) effects include effects on:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;soils and water&lt;/li&gt;
+	&lt;li&gt;crops and other vegetation&lt;/li&gt;
+	&lt;li&gt;man-made materials (such as buildings and cars)&lt;/li&gt;
+	&lt;li&gt;animals and other wildlife&lt;/li&gt;
+	&lt;li&gt;visibility&lt;/li&gt;
+	&lt;li&gt;climate&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Information on health and environmental effects is also summarized in assessment documents including:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/isa&quot;&gt;Integrated Science Assessments (ISAs) for common (or criteria) pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/iris&quot;&gt;Integrated Risk Information System (IRIS) assessments for toxic pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://hero.epa.gov/&quot;&gt;Health &amp;amp; Environmental Research Online (HERO) Database of scientific references&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;how&quot; name=&quot;how&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;How are human health, environmental and economic assessments developed?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Human Health and Environmental Assessments&lt;/strong&gt;: Risk assessment is the scientific process of evaluating the potential for adverse health or ecological impacts resulting from exposure to an environmental stress, such as air pollutants. E&lt;ins&gt;xtensive&lt;/ins&gt; information &lt;ins&gt;regarding both human health and ecological&lt;/ins&gt; risk assessments&lt;ins&gt;, including basic information and guidelines for conducting assessments can be found at &lt;/ins&gt;&lt;a href=&quot;/risk&quot;&gt;EPA&#039;s risk assessment website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;EPA develops risk and exposure documents as part of the process in developing national ambient air quality standards for the common (or criteria) pollutants, including particulate matter and ozone. The risk and exposure assessment describes the nature of human health, ecological and welfare impacts associated with each pollutant. Risk assessments for each of the six criteria pollutants are included in the scientific and technical documents supporting reviews of the &lt;a href=&quot;/criteria-air-pollutants&quot;&gt;criteria air pollutants&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tools that can assist with the evaluation of health risk and environmental effects associated with exposure to the criteria pollutants  and also to toxic air pollutants can be found at &lt;a href=&quot;/fera&quot;&gt;EPA&#039;s fate, exposure, and risk analysis website.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Health Benefits and Economic Value: &lt;/strong&gt;&lt;span&gt;The results of risk assessments can be used as part of an assessment of the economic benefits from reducing emissions. BenMAP (&lt;/span&gt;&lt;a href=&quot;/benmap&quot;&gt;Environmental Benefits Mapping and Analysis Program&lt;/a&gt;&lt;span&gt;) is a tool for estimating health impacts, and associated economic values, associated with changes in ambient air pollution.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic Analysis&lt;/strong&gt;: &lt;a href=&quot;http://yosemite1.epa.gov/ee/epa/eed.nsf/Webpages/Guidelines.html&quot;&gt;Guidelines for Preparing Economic Analyses&lt;/a&gt; establish a sound scientific framework for performing economic analyses of environmental regulations and policies.&lt;/p&gt;
+
+&lt;p&gt;Economic and regulatory impact analyses conducted by EPA for many air pollution rules, as well as guidance and tools for cost, benefit and economic analyses for air pollution rules can be found at &lt;a href=&quot;http://www3.epa.gov/ttn/ecas/index.html&quot;&gt;EPA&#039;s economics and cost analysis support website&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 22 Dec 2015 21:55:38 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">130375 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Public Participation</title>
+    <link>https://www.epa.gov/air-quality-management-process/public-participation</link>
+    <description>&lt;p&gt;Public participation involves actively seeking and responding to input from citizens and enabling meaningful involvement in decision-making.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;&lt;strong&gt;Examples of how EPA informs and involves the public&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#tools&quot;&gt;&lt;strong&gt;Tools to help governments involve the public in the air quality management process&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;overview&quot; name=&quot;overview&quot;&gt;&lt;/a&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Environmental management is the collective responsibility of individuals, communities, businesses, organizations, institutions, and governments. Increasingly, governments recognize the importance of civil society participation in environmental management. Public participation is viewed as integral to effective air quality management.&lt;/p&gt;
+
+&lt;p&gt;Citizens have greater access to information and are demanding to be more involved at early stages of the policy development process.  In many countries, data are available via the Internet and people can determine for themselves the sources of local pollution. Citizens can use that information to influence governmental entities or the industry directly.&lt;/p&gt;
+
+&lt;p&gt;Educating the public and ensuring their participation in the air quality management process is a critical aspect of governmental responsibility. Air quality has a tremendous impact on sensitive populations. These populations need to understand how they are affected, how they can minimize these impacts, and how they can influence decision makers for the benefit of all society.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;examples&quot; name=&quot;examples&quot;&gt;&lt;/a&gt;&lt;strong&gt;Examples of how EPA informs and involves the public &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/laws-regulations/get-involved-epa-regulations&quot;&gt;How the public can get involved with EPA regulations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/learn-issues&quot;&gt;Learn about environmental issues and what citizens can do to protect the environment&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/airnow&quot;&gt;EPA’s AIRNow&lt;/a&gt; website provides the public with easy access to air quality information, through the use of the &lt;a href=&quot;http://www.airnow.gov/index.cfm?action=aqibasics.aqi&quot;&gt;Air Quality Index&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/myenvironment&quot;&gt;My Environment&lt;/a&gt; provides environmental information in a user-selected area within the United States. &lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;tools&quot; name=&quot;tools&quot;&gt;&lt;/a&gt;&lt;strong&gt;Tools to help governments involve the public in the air quality management process&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/international-cooperation/public-participation-guide&quot;&gt;EPA&#039;s Public Participation Guide&lt;/a&gt; provides tools for public participation and public outreach in environmental decision-making. This guide is designed to help government agencies design and implement a meaningful public participation program.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.airnow.gov/index.cfm?action=airnow.intlpartners&quot;&gt;AirNow-International &lt;/a&gt; is helping countries and regions around the world inform the public about the quality of the air they breathe.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 22 Dec 2015 21:41:20 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">130367 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Implementation</title>
+    <link>https://www.epa.gov/air-quality-management-process/implementation</link>
+    <description>&lt;p&gt;Implementation is the set of activities to ensure that control strategies are put into effect and that air quality goals and standards are fulfilled.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#important&quot;&gt;&lt;strong&gt;Important elements for successful implementation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#permit&quot;&gt;&lt;strong&gt;Permitting programs&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#add&quot;&gt;&lt;strong&gt;Additional information&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;important&quot; name=&quot;important&quot;&gt;&lt;/a&gt;&lt;strong&gt;Important elements for successful implementation&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;A regulatory program with implementation deadlines;&lt;/li&gt;
+	&lt;li&gt;Clearly defined roles and responsibilities;&lt;/li&gt;
+	&lt;li&gt;Assessment and reporting; and&lt;/li&gt;
+	&lt;li&gt;Compliance and enforcement programs.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;In the United States, state, local and tribal governments typically implement national air quality programs and rules. Regulations should also clearly define the requirements for the regulated industry.&lt;/p&gt;
+
+&lt;p&gt;Ambient air monitoring, emissions measurement, and analysis of trends in emissions and air quality are important tools to assess if control strategies are working to achieve the air quality goals. Results should be reported to the appropriate regulatory authority and made available to the public. &lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;permit&quot; name=&quot;permit&quot;&gt;&lt;/a&gt;&lt;strong&gt;Permitting programs &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Regulatory entities can establish permitting programs to help implement air quality goals.  In a permitting program, a regulatory entity issues authorizations or permits to owners or operators of air pollution sources to do something, such as to construct a new facility or to operate a facility. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/nsr&quot;&gt;The New Source Review Permitting program&lt;/a&gt; in the United States requires stationary sources of air pollution to get permits before construction starts. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/title-v-operating-permits&quot;&gt;The Operating Permit program&lt;/a&gt; in the United States ensures that air quality control requirements applied to stationary sources are in place and met.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;add&quot; name=&quot;add&quot;&gt;&lt;/a&gt;&lt;strong&gt;Additional information&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/clean-air-act-overview/government-partnerships-reduce-air-pollution&quot;&gt;Learn more about the partnership among governments under the Clean Air Act&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/overview.html&quot;&gt;State Implementation Plans to attain and maintain the National Ambient Air Quality Standards&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/naaqs/&quot;&gt;Find information on implementation programs for each of the six criteria air pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-trends&quot;&gt;Air trends in the United States&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/caa-permitting&quot;&gt;Learn more about permitting under the Clean Air Act&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 22 Dec 2015 18:57:54 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">130311 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Control Strategies</title>
+    <link>https://www.epa.gov/air-quality-management-process/control-strategies</link>
+    <description>&lt;p&gt;A control strategy related to air quality is a set of specific techniques and measures identified and implemented to achieve reductions in air pollution to attain an air quality standard or goal.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#consid&quot;&gt;&lt;strong&gt;Considerations in designing an effective control strategy&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#control&quot;&gt;&lt;strong&gt;Controlling sources of pollution&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#gov&quot;&gt;Need for regional or national controls in addition to local controls&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#what&quot;&gt;&lt;strong&gt;What are the steps to developing a control strategy?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;consid&quot; name=&quot;consid&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Considerations in designing an effective control strategy&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Environmental: factors such as ambient air quality conditions, relevant meteorological conditions, location of the emissions source, legal requirements, noise levels, and any ancillary pollution from the control system itself.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Engineering: factors such as pollutant characteristics (such as abrasiveness, reactivity and toxicity), gas stream characteristics, performance characteristics of the control system, and adequate utilities (for example, water for wet scrubbers).&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Economic: factors such as capital cost, operating costs, equipment maintenance, equipment lifetime, and administrative and enforcement costs.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;control&quot; name=&quot;control&quot;&gt;&lt;/a&gt;&lt;strong&gt;Controlling sources of pollution&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/p2&quot;&gt;Pollution prevention approaches&lt;/a&gt; to reduce, eliminate, or prevent pollution at its source, should be considered. Examples are to use less toxic raw materials or fuels, use a less-polluting industrial process, and to improve the efficiency of the process.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www3.epa.gov/ttn/catc/index.html&quot;&gt;The Clean Air Technology Center&lt;/a&gt; serves as a resource on air pollution prevention and control technologies, including their use, effectiveness and cost. Examples are mechanical collectors, wet scrubbers, fabric filters (baghouses), electrostatic precipitators, combustion systems (thermal oxidizers), condensers, absorbers, adsorbers, and biological degradation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www3.epa.gov/otaq/&quot;&gt;Controlling emissions related to transportation&lt;/a&gt; can include emission controls on vehicles as well as use of cleaner fuels.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://yosemite.epa.gov/ee/epa/eed.nsf/webpages/EconomicIncentives.html&quot;&gt;Economic incentives&lt;/a&gt;, such as emissions trading, banking, and emissions caps can be used. These strategies may be combined with the &quot;command-and-control&quot; type regulations which have traditionally been used by air pollution control agencies.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;gov&quot; name=&quot;gov&quot;&gt;&lt;/a&gt;&lt;strong&gt;Need for regional or national controls in addition to local controls&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Air pollution does not recognize geographic boundaries. Emissions of sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) and nitrogen oxides (NO&lt;sub&gt;X&lt;/sub&gt;) can react in the atmosphere to form fine particle (PM&lt;sub&gt;2.5&lt;/sub&gt;) pollution. Similarly, NO&lt;sub&gt;X&lt;/sub&gt; emissions can react in the atmosphere with volatile organic compounds (VOC) and sunlight to create ground-level ozone pollution. These pollutants can travel great distances affecting air quality and public health locally and regionally in areas downwind.&lt;/p&gt;
+
+&lt;p&gt;For this reason, control strategies to improve air quality in local areas need to include control measures that are mandated and implemented on a state, region-wide or national basis, in combination with local control measures. In general, regulations established by the national government tend to have the widest application, which can minimize boundary and economic competition issues.&lt;/p&gt;
+
+&lt;p&gt;In the United States, the Clean Air Act requires that each state’s implementation plan contain provisions to prevent the emissions from the facilities or sources within its borders from contributing significantly to air quality problems in a downwind state. Learn more about the approach in the United States to address &lt;a href=&quot;/airmarkets/interstate-air-pollution-transport&quot;&gt;interstate air pollution transport&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;what&quot; name=&quot;what&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;What are the steps to developing a control strategy?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;Determine priority pollutants. The pollutants of concern for a specific location will be based on health effects and the severity of the air quality problem in that area.&lt;/li&gt;
+&lt;/ol&gt;&lt;ol&gt;&lt;li value=&quot;2&quot;&gt;Identify measures to control sources of pollution.  &lt;/li&gt;
+&lt;/ol&gt;&lt;ol&gt;&lt;li value=&quot;3&quot;&gt;Develop a control strategy and plan that incorporates the control measures. The written plan should include implementation dates. The plan will need to include reference to the requirements that owners or operators of emission sources will need to undertake to reduce pollution contributing to the air quality problems. &lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;indented&quot;&gt;Compliance and enforcement programs are also very important to include.  These programs help owners or operators of sources understand the requirements, as well as the actions that environmental authorities can take if the sources don’t comply. &lt;/p&gt;
+
+&lt;ol&gt;&lt;li value=&quot;4&quot;&gt;Involve the public. Invite input from the regulated community and others, including the general public when developing the control strategy. This early consultation reduces later challenges and can help streamline implementation.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;​&lt;/strong&gt;Governments getting starting in managing air quality should focus first on obvious sources of air pollution and the quickest means of controlling air emissions. More sophisticated and comprehensive strategies can be developed over time. The goal for all control strategies is to achieve real and measurable air emission reductions.&lt;/p&gt;
+
+&lt;p&gt;In the United States, control strategies to meet and maintain the national ambient air quality standards are developed by state governments. State governments adopt control measures through their legislative process and include them in state implementation plans, which need to be submitted and approved by EPA. The control measures are described and included in the plan.  Control measures that are part of an approved state implementation plan can be enforced by either the state or the national government. &lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/index.html&quot;&gt;Learn more about state implementation plans&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www3.epa.gov/ttnecas1/cost.htm&quot;&gt;The Control Strategy Tool&lt;/a&gt; supports the assessment of emission reductions and engineering costs for control strategies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/haps/reducing-emissions-hazardous-air-pollutants&quot;&gt;Learn about reducing emissions of hazardous air pollutants&lt;/a&gt; in the United States.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 22 Dec 2015 14:46:35 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">130251 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Quality Management Process Cycle</title>
+    <link>https://www.epa.gov/air-quality-management-process/air-quality-management-process-cycle</link>
+    <description>&lt;p&gt;Air quality management refers to all the activities a regulatory authority undertakes to help protect human health and the environment from the harmful effects of air pollution. The process of managing air quality can be illustrated as a cycle of inter-related elements. Click on the image below to enlarge it. &lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-04/aqm_draft5.jpg&quot;&gt;&lt;img alt=&quot;Graphic showing the air quality management process cycle: 1. establish goals; 2. determine emission reductions; 3. develop control strategies; 4. implement programs; 5. evaluation; back to 1&quot; height=&quot;321&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-04/aqm_draft5.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;ul&gt;&lt;li&gt;A government institution typically &lt;strong&gt;establishes goals&lt;/strong&gt; related to air quality. An example is an acceptable level of a pollutant in the air that will protect public health, including people who are more vulnerable to the effects of air pollution. &lt;/li&gt;
+	&lt;li&gt;Air quality managers need to &lt;strong&gt;determine&lt;/strong&gt; how much &lt;strong&gt;emissions reductions&lt;/strong&gt; are needed to achieve the goal. Air quality managers use emissions inventories, air monitoring,  air quality modeling and other assessment tools to understand the air quality problem fully. &lt;/li&gt;
+	&lt;li&gt;In &lt;strong&gt;developing control strategies&lt;/strong&gt;, air quality managers consider how pollution prevention and emission control techniques can be applied to achieve the reductions needed to achieve the goals.  &lt;/li&gt;
+	&lt;li&gt;To successfully achieve the air quality goals, air quality managers need to &lt;strong&gt;implement programs &lt;/strong&gt;for pollution control strategies. Regulations or incentive programs that lower emissions from sources need to be put in place. Regulated industries need training and assistance in how to comply with rules. And the rules need to be enforced. &lt;/li&gt;
+	&lt;li&gt;It is important to &lt;strong&gt;undertake on-going evaluation &lt;/strong&gt;to know if your air quality goals are being met.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The cycle is a dynamic process. There is a continuous review and assessment of goals and strategies based on their effectiveness. All parts of this process are informed by&lt;strong&gt; scientific research &lt;/strong&gt;that provides air quality managers with essential understanding of how pollutants are emitted, transported and transformed in the air and their effects on human health and the environment.&lt;/p&gt;
+
+&lt;p&gt;The process involves all levels of government – elected officials, national agencies like EPA, tribal, state and local governments. Regulated industry groups, scientists, environmental groups, and the general public all play important roles too.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 17 Dec 2015 20:39:00 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">129981 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Multi-Pollutant Planning and Control Strategies</title>
+    <link>https://www.epa.gov/air-quality-management-process/multi-pollutant-planning-and-control-strategies</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#climate&quot;&gt;Climate change and air quality&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#multi&quot;&gt;Multi-pollutant planning examples&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;overview&quot; name=&quot;overview&quot;&gt;&lt;/a&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Multi-pollutant control programs can save money and time, and achieve significant health, environmental and economic benefits, while reducing costs and burdens on sources of air pollution.&lt;/p&gt;
+
+&lt;p&gt;Many pollution sources (e.g., industrial facilities) emit several different pollutants that directly cause health and environmental impacts or react in the environment to form other harmful pollutants. Some control technologies can reduce emissions of multiple pollutants. It can be more efficient to develop integrated control strategies that address multiple pollutants rather than separate strategies for each pollutant individually.&lt;/p&gt;
+
+&lt;p&gt;Air quality managers can consider multiple policy goals in developing an air pollution management plan. Policy goals that could be considered in such a program include: reducing concentrations of ozone, particulate matter, and hazardous air pollutants (HAPs) such as mercury; planning to address transportation and energy needs; mitigating and adapting to climate change.&lt;/p&gt;
+
+&lt;div class=&quot;box multi right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Short-Lived Climate Pollutant Toolkit&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;EPA and the Stockholm Environment Institute (SEI) created a toolkit for developing historical emission inventories and estimating the health, climate and agricultural benefits of scenarios for mitigation of short-lived climate pollutants, like black carbon and methane.&lt;/p&gt;
+
+		&lt;p&gt;The LEAP-IBC tool builds upon SEI&#039;s existing Long-range Energy Alternatives Planning (LEAP) system by adding the Integrated Benefits Calculator (IBC) - a simplified benefits estimation tool. It is intended for use by countries where data on local air quality may be incomplete. &lt;a href=&quot;http://www.sei-international.org/low-emissions-development-planning&quot;&gt;Find out more and see a webinar about LEAP-IBC&lt;/a&gt;.&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;The toolkit also includes a customized health benefit and economic valuation tool, the &lt;a href=&quot;/benmap&quot;&gt;Environmental Benefits Mapping and Analysis Program - Community Edition (BenMAP-CE).&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;climate&quot; name=&quot;climate&quot;&gt;&lt;/a&gt;Climate change and air quality&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Many sources of air pollutants also are sources of greenhouse gases, including power plants and facilities associated with the production of oil and natural gas, and transportation. Control strategies exist that can both reduce air pollution and the impacts of climate change.&lt;/p&gt;
+
+&lt;p&gt;For example, controls for organic compounds will reduce emissions of pollutants that form ground-level ozone and also emissions of methane, a pollutant that has global warming potential. Also, measures that lessen the demand for energy (e.g., using more energy efficient products) reduce associated air pollution and carbon emissions from power plants.&lt;/p&gt;
+
+&lt;p&gt;Black carbon is a component of fine particulate matter that has climate warming properties. Sources of emissions include diesel engines and brick kilns. Because fine particle pollution has harmful health effects, controlling emissions of black carbon from these and other sources can have positive impacts on both health and climate.&lt;/p&gt;
+
+&lt;p&gt;More resources on EPA activities at the nexus of climate change and air quality:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/blackcarbon/index.html&quot;&gt;EPA Black Carbon Report to Congress&lt;/a&gt; includes basic information on black carbon, its effects, and mitigation approaches&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-research/black-carbon-research&quot;&gt;Black carbon research&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/oilandgas/&quot;&gt;Oil and natural gas air pollution standards&lt;/a&gt; to reduce emissions of methane and ozone-forming volatile organic compounds&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cleanpowerplan/fact-sheet-clean-power-plan-benefits-cleaner-more-efficient-power-sector&quot;&gt;Fact Sheet: Clean Power Plan Benefits of a Cleaner, More Efficient Power Sector &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;multi&quot; name=&quot;multi&quot;&gt;&lt;/a&gt;Multi-pollutant planning examples&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;EPA’s &lt;a href=&quot;/caaac&quot;&gt;Clean Air Act Advisory Committee (CAAAC)&lt;/a&gt; recommended that EPA allow states to integrate planning requirements and other air quality goals into a comprehensive plan. The recommended plan would demonstrate attainment and maintenance of multiple national ambient air quality standards (NAAQS), accomplish sector-based reductions, realize risk reductions of HAPs and make improvements in visibility. It could also be structured to integrate programs addressing land use, transportation, energy and climate.&lt;/p&gt;
+
+&lt;p&gt;EPA has encouraged states to take a multi-pollutant approach to managing air quality. North Carolina, New York and the City of St. Louis (involving both Missouri and Illinois) participated in an EPA-led pilot effort to develop multi-pollutant air quality management plans. EPA continues to work with interested state and local agencies on multi-pollutant risk-based analyses.&lt;/p&gt;
+
+&lt;p&gt;More on these efforts and other examples:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/caaac/phase-ii-recommendations-air-quality-management-subcommittee-clean-air-act-advisory-committee&quot;&gt;Phase II Recommendations by the Air Quality Management Subcommittee to the Clean Air Act Advisory Committee&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://archive.epa.gov/airquality/aqmp/web/html/index.html&quot;&gt;Air quality management plan pilot effort&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S1309104215305365&quot;&gt;A multi–pollutant, risk–based approach to air quality management: Case study for Detroit&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Encouragement for states to take a multi-pollutant planning approach in implementing the 2008 ozone NAAQS is noted at page 12295 of the &lt;a href=&quot;https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR&amp;amp;browsePath=2015%2F03%2F03-06%5C%2F6%2FEnvironmental+Protection+Agency&amp;amp;isCollapsed=false&amp;amp;leafLevelBrowse=false&amp;amp;isDocumentResults=true&amp;amp;ycord=338&quot;&gt;Federal Register, March 6, 2015&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;, and as proposed in implementing the fine particulate matter NAAQS on page 15448 of the &lt;a href=&quot;https://www.gpo.gov/fdsys/browse/collection.action?collectionCode=FR&amp;amp;browsePath=2015%2F03%2F03-23%5C%2F2%2FEnvironmental+Protection+Agency&amp;amp;isCollapsed=false&amp;amp;leafLevelBrowse=false&amp;amp;isDocumentResults=true&amp;amp;ycord=451&quot;&gt;Federal Register, March 23, 2015&lt;/a&gt;.&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.baaqmd.gov/plans-and-climate&quot;&gt;California Bay Area plans and climate, including a multi-pollutant air quality plan&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 17 Dec 2015 20:21:57 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">129973 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Compliance and Enforcement </title>
+    <link>https://www.epa.gov/air-quality-management-process/compliance-and-enforcement</link>
+    <description>&lt;p&gt;Compliance involves actions and programs designed to ensure that environmental laws and regulations are followed. Enforcement is warranted when a law or regulation has been violated in order to change behavior and deter future violations.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#epa&quot;&gt;&lt;strong&gt;EPA’s compliance and enforcement programs&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#next&quot;&gt;&lt;strong&gt;Next generation compliance &lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;overview&quot; name=&quot;overview&quot;&gt;&lt;/a&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Compliance and enforcement involves different aspects of a government’s legal and policy framework, and includes technical issues related to controlling air pollution in different sectors.  &lt;/p&gt;
+
+&lt;p&gt;General principles for developing effective compliance and enforcement programs include:  &lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Design clear and enforceable measures;&lt;/li&gt;
+	&lt;li&gt;Use data to know about the regulated community and target enforcement actions where they will matter most;&lt;/li&gt;
+	&lt;li&gt;Undertake outreach, communication, and training activities to promote compliance&lt;/li&gt;
+	&lt;li&gt;Establish a “credible likelihood” of detecting violations (e.g., through source self-monitoring, reporting, recordkeeping, inspection, ambient and citizen monitoring, etc.);&lt;/li&gt;
+	&lt;li&gt;Employ a range of enforcement tools and sanctions;&lt;/li&gt;
+	&lt;li&gt;Establish clear roles and relationships across all levels of government;&lt;/li&gt;
+	&lt;li&gt;Make compliance data and enforcement results transparent and publicly available;&lt;/li&gt;
+	&lt;li&gt;Recognize that enforcement is essential but not sufficient; compliance must be promoted through assistance programs, incentives and penalties, and clear requirements.&lt;/li&gt;
+&lt;/ol&gt;&lt;h2&gt;&lt;a id=&quot;epa&quot; name=&quot;epa&quot;&gt;&lt;/a&gt;&lt;strong&gt;EPA’s compliance and enforcement programs &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;EPA, in partnership with state, local, tribal governments and other agencies works to assure compliance with environmental laws and regulations. This work includes compliance monitoring activities, including inspections. EPA and its partners also have developed numerous resources to assist the regulated community with compliance. These include training, educational material and on-line resource centers.&lt;/p&gt;
+
+&lt;p&gt;When warranted, EPA will take civil or criminal enforcement action against violators of environmental laws and regulations. Results related to compliance and enforcement are available on EPA’s website.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/compliance&quot;&gt;EPA compliance website&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/enforcement&quot;&gt;EPA enforcement website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a id=&quot;next&quot; name=&quot;next&quot;&gt;&lt;/a&gt;&lt;strong&gt;Next generation compliance &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Modern approaches to compliance can take advantage of new tools and technologies. For example, the rules themselves can be designed for easy implementation and enforcement in light of advanced emission monitoring and detection technologies. Similarly, electronic reporting can streamline information management and improve accuracy and transparency. Expanding this transparency to the public sector can support broader public participation. Additionally, data can be analyzed to develop innovative strategies for enforcement. More information is available on the &lt;a href=&quot;/compliance/next-generation-compliance&quot;&gt;Next Generation Compliance webpage&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 17 Dec 2015 20:10:50 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">129971 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ongoing evaluation of progress</title>
+    <link>https://www.epa.gov/air-quality-management-process/ongoing-evaluation-progress</link>
+    <description>
+
+&lt;p&gt;EPA, state, local, and tribal environmental program managers, as well as regulated industry and the public, want to know if air quality programs are achieving the desired results.  They want to know:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Are we achieving our air quality goals? &lt;/li&gt;
+	&lt;li&gt;Are the control programs resulting in reductions in emissions of the targeted pollutants? &lt;/li&gt;
+	&lt;li&gt;What are the overall costs and benefits?&lt;/li&gt;
+	&lt;li&gt;Are sources complying with emission limits and requirements?&lt;/li&gt;
+	&lt;li&gt;Are the number of days where air quality is unhealthy decreasing?&lt;/li&gt;
+	&lt;li&gt;Are there improvements in health outcomes as a result of improving air quality?&lt;/li&gt;
+	&lt;li&gt;Are we seeing reversal of ecological effects resulting from reductions in air pollution?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;There are numerous ways to determine the success of the environmental programs designed to reduce pollution and achieve air quality goals.  They use the same tools employed to characterize air pollution sources, air quality, and public health and environmental impacts, including:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Monitored air quality concentrations, air deposition measurements, and monitored trends over multiple years;&lt;/li&gt;
+	&lt;li&gt;Multi-year trends in emissions by source and/or jurisdiction (local, state, region, national), based on regular reporting and quantification of emissions;&lt;/li&gt;
+	&lt;li&gt;Trends in health endpoints attributable to changes in air quality;&lt;/li&gt;
+	&lt;li&gt;Trends in environmental degradation attributable (whole or in part) to atmospheric deposition of air pollution (e.g., lake/stream acidification, lichen surveys, fish tissue sampling);&lt;/li&gt;
+	&lt;li&gt;Inspection and compliance reports; and&lt;/li&gt;
+	&lt;li&gt;Benefits and costs of implementing clean air programs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The information gained from these tools helps environmental managers determine the degree to which control programs are successful and helps them determine any changes necessary to improve effectiveness.&lt;/p&gt;
+
+&lt;p&gt;Examples of evaluations and reports issued by EPA are at:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://yosemite1.epa.gov/EE/epa/eerm.nsf/vwRepNumLookup/EE-0295A?OpenDocument&quot;&gt;U.S. EPA Benefits and Costs of the Clean Air Act 1990 - 2010: Report to Congress&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://yosemite1.epa.gov/EE/epa/eerm.nsf/vwSER/9ADD3221C1A0064D8525643C007E4076?OpenDocument&quot;&gt;U.S. EPA Benefits and Costs of the Clean Air Act 1970 - 1990: Final Report to Congress&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-emissions-inventories/air-pollutant-emissions-trends-data&quot;&gt;U.S. National Air Pollution Emission Trends&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-trends&quot;&gt;U.S. Air Quality Trends&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;&lt;a href=&quot;/enforcement/data-and-results&quot;&gt;Enforcement Data and Results&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 17 Dec 2015 19:57:38 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">129967 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Pollutant Types </title>
+    <link>https://www.epa.gov/air-quality-management-process/pollutant-types</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#com&quot;&gt;&lt;strong&gt;Common air pollutants&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#haz&quot;&gt;&lt;strong&gt;Hazardous Air Pollutants&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#add&quot;&gt;&lt;strong&gt;Additional resources about air pollution&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;com&quot; name=&quot;com&quot;&gt;&lt;/a&gt;Common air pollutants&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The U.S. Clean Air Act requires EPA to set National Ambient Air Quality Standards for six common air pollutants. These pollutants (known as &quot;criteria pollutants&quot;) are found all over the United States. They are particulate matter (often referred to as particle pollution), ground-level ozone, carbon monoxide, sulfur dioxide, nitrogen oxides, and lead.&lt;/p&gt;
+
+&lt;p&gt;These pollutants can harm human health, harm the environment, and cause property damage. Of the six pollutants, particle pollution and ground-level ozone are the most widespread health threats. EPA calls these six pollutants &quot;criteria&quot; air pollutants because it regulates them by developing limits that are based on human health and/or environmental criteria.&lt;/p&gt;
+
+&lt;p&gt;Learn more about &lt;a href=&quot;/criteria-air-pollutants&quot;&gt;criteria air pollutants. &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;haz&quot; name=&quot;haz&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hazardous Air Pollutants&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Toxic air pollutants, also known as hazardous air pollutants (HAPs), are those pollutants that are known or suspected to cause cancer, other serious health effects (including reproductive effects or birth defects), or adverse environmental effects. EPA is working with state, local, and tribal governments to reduce air emissions of HAPs to the environment.&lt;/p&gt;
+
+&lt;p&gt;Examples of HAPs include benzene, which is found in gasoline; perchloroethylene, which is emitted from some dry cleaning facilities; and methylene chloride, which is used as a solvent and paint stripper by a number of industries. Other examples are dioxins, asbestos, toluene, and metals such as cadmium, mercury, chromium, and lead compounds.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/haps&quot;&gt;Learn more about hazardous air pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/urban-air-toxics&quot;&gt;Urban air toxics&lt;/a&gt;&lt;a href=&quot;/haps&quot;&gt;​&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a id=&quot;add&quot; name=&quot;add&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Additional resources about air pollution&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;More information on air-related issues, including stratospheric ozone protection, acid rain, indoor air pollution and greenhouse gases can be found at:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/learn-issues/learn-about-air&quot;&gt;EPA’s Learn about Air website&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/air-research&quot;&gt;EPA&#039;s air research&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 10 Dec 2015 22:20:31 +0000</pubDate>
+ <dc:creator>glacy</dc:creator>
+ <guid isPermaLink="false">129333 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:44:35, expires @ 2017-01-26 16:44:35, lifetime 12 hours -->

@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/120563/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Lakes</title>
+    <link>https://www.epa.gov/feed/120563/rss.xml</link>
+    <description>Updated Lakes content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/120563/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Watershed Protection: Clean Lakes Case Study : Phosphorus Inactivation and Wetland Manipulation Improve Kezar Lake, NH</title>
+    <link>https://www.epa.gov/lakes/watershed-protection-clean-lakes-case-study-phosphorus-inactivation-and-wetland-manipulation</link>
+    <description>&lt;div class=&quot;box simple right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;United States Environmental Protection Agency&lt;br /&gt;
+			Office of Water (4503F)&lt;br /&gt;
+			EPA 841-F-95-002&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#assessing&quot;&gt;Assessing And Characterizing the Problem&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#implementation&quot;&gt;Implementation and Monitoring Efforts&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#long&quot;&gt;Long-Term Monitoring Studies&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Key Feature:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;A lake restoration effort using sediment phosphorus inactivation and wetlands management&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Project Name:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Kezar Lake&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;USEPA Region I&lt;br /&gt;
+				Sutton, New Hampshire&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Scope/Size:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Watershed area 2770 ha;&lt;br /&gt;
+				Lake area 73.5 ha&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Land Type:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Ecoregion 58, Northeastern highlands&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Stressor:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Sediment phosphorus&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Stressor Source:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Historical POTW discharges&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Sources:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;State and local&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Mechanisms:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Modeling and sediment core analysis&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Monitoring Plan:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Control Measures:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Aluminum salts injection and wetlands management&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;Kezar Lake, located in central New Hampshire (Figure 1), has had a long history of water quality problems. Following a major fish kill and persistent algae blooms beginning in the early 1960s, a Diagnostic/Feasibility Study (Phase I of the Clean Lakes Program) was initiated in 1980 under section 314 of the Clean Water Act. The study established that the lake&#039;s problems were from internal loading of phosphorus, and outlined a management strategy to restore the lake. Lake sediments, contaminated by years of effluent discharge from a nearby wastewater treatment facility, were the source of this internal loading.&lt;/p&gt;
+
+&lt;p&gt;A Restoration/Protection Project (Phase II of the Clean Lakes Program) commenced in 1984 to implement the recommended management strategy for Kezar Lake. Two main approaches were employed to reduce phosphorus concentrations in the lake. First, aluminum salts were injected into the hypolimnion to inactivate sediment phosphorus. The injections were performed using a modified barge system that was an efficient and cost-effective means of aluminum salts application. Second, upstream riparian wetlands were manipulated by elevating water level and planting new species to encourage phosphorus removal by sedimentation and vegetative uptake.&lt;/p&gt;
+
+&lt;p&gt;From 1984 to 1994, comprehensive water quality monitoring programs (including part of the Phase II project, a state-assisted volunteer program, and an EPA Phase III Post-Restoration Monitoring Project) were conducted to assess the effects of the restoration activities. Results from these efforts have generally indicated that water quality has improved following aluminum salts injection, although some parameters did worsen during 1988 and 1993. Furthermore, recreational use of Kezar Lake has increased substantially since restoration.&lt;/p&gt;
+
+&lt;p&gt;Contact: Jody Connor, New Hampshire Department of Environmental Services, Water Supply and Pollution Control Division, 6 Hazen Drive, P.O. 95, Concord, NH 03301, phone (603)271-3414&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Kezar Lake is a &quot;fairly shallow, north temperate, dimictic, phosphorus-limited lake at 276 m above sea level&quot; that drains approximately 28 square kilometers of land in central New Hampshire (Figures 1 and 2) (Connor and Martin 1989a). Land use in the watershed is comprised of forestland (approximately 70 percent), urban/residential (25 percent), and agriculture (5 percent). The lake&#039;s volume is 1,975,500 m and its shoreline measures 3400 m. Mean and maximum depths are 2.7 m and 8.2 m, respectively. Flushing rate for the lake is 44.5 days.&lt;/p&gt;
+
+&lt;p&gt;In addition to nonpoint sources of pollution (e.g., runoff and erosion) associated with land use, one point source of particular concern exists in the Kezar Lake watershed. In 1931, the nearby Town of New London opened a sewage treatment facility that began discharging effluent into Lion Brook, the main tributary to Kezar Lake. The New London treatment facility was upgraded in 1969 and decommissioned in 1981.&lt;/p&gt;
+
+&lt;p&gt;Water quality problems in Kezar Lake were first documented in 1963, when blooms of algae (&lt;em&gt;Cyanophyceae&lt;/em&gt;) were observed. Five years later, following continued blooms and a massive fish kill, lake-shore property values around Kezar Lake dropped significantly. Throughout the 1960s and early 1970s, copper sulfate applications and mechanical destratification were used to attempt to improve water quality. The success of these efforts proved to be short-lived, however, and eventually ineffective in preventing algae blooms. Although New London&#039;s waste was rerouted to a new treatment facility in the Town of Sunapee in 1981, algae blooms persisted in Kezar Lake.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;assessing&quot;&gt;Assessing And Characterizing the Problem&lt;/h2&gt;
+
+&lt;p&gt;The Clean Lakes Program, section 314 of the Clean Water Act, provides assistance to states for identifying and restoring lakes that are water-quality-impaired. In 1979, the biennial statewide assessment of lakes in New Hampshire ranked Kezar Lake as having the highest priority for restoration. A Diagnostic/Feasibility Study (Phase I of the Clean Lakes Program) for Kezar Lake was initiated in 1980. The purpose of a Diagnostic/Feasibility Study is to determine the causes and extent of pollution, evaluate potential solutions to water quality problems, and recommend an effective and feasible method for restoring and maintaining water quality in a particular lake.&lt;/p&gt;
+
+&lt;p&gt;The Diagnostic/Feasibility Study for Kezar Lake, which was completed in 1983, provided the following information (Connor and Martin 1989a):&lt;/p&gt;
+
+&lt;p&gt;Examination of the existing water quality and trophic state of the lake.&lt;/p&gt;
+
+&lt;p&gt;Analysis of historical water quality trends.&lt;/p&gt;
+
+&lt;p&gt;Determination of hydrologic and phosphorus inputs and outputs (budgets) for Kezar Lake.&lt;/p&gt;
+
+&lt;p&gt;Determination of the importance of the lake&#039;s sediments in providing phosphorus to support phytoplankton (algae) populations.&lt;/p&gt;
+
+&lt;p&gt;Recommendations to improve the water quality in Kezar Lake.&lt;/p&gt;
+
+&lt;p&gt;Water quality and quantity data for the study were analyzed from the lake itself, tributaries, groundwater seepage meters and shallow wells, rainfall gauges. Sediments from the lake bottom were also collected and analyzed. Nutrient budgets were developed using mass balance equations.&lt;/p&gt;
+
+&lt;p&gt;Trophic state, a measure of a lake&#039;s level of biological productivity and age, was assessed for Kezar Lake during the Diagnostic/Feasibility Study. Three separate classification models, from the State of New Hampshire, EPA, and Dillon-Rigler, all confirmed that Kezar Lake was eutrophic. Phosphorus, the limiting nutrient for biological growth in the lake, existed in high concentrations (&amp;gt; 30 g/l) at a depth of 6 m during nearly the entire first year of study. Such high levels of phosphorus translate into poor water quality because of increased biological productivity. Water quality parameters measured in Kezar Lake during the study included high chlorophyll &lt;em&gt;a&lt;/em&gt; concentrations (indicative of algae blooms), low transparency, and low dissolved oxygen levels, especially during summer months.&lt;/p&gt;
+
+&lt;p&gt;Another major determination made in the Diagnostic/Feasibility Study was the source of the phosphorus causing the water quality problems in Kezar Lake. The main external source of phosphorus, the New London Sewage Treatment Facility, had been decommissioned in 1981, eliminating 71 percent of the external phosphorus load. Blooms of algae persisted after this date, however, forcing researchers to look elsewhere for the source. Through sediment core analysis, computer modeling, and mass balance, they established that internal loading of phosphorus from lake sediments was the controlling factor in determining the trophic state of the lake (Snow and DiGiano 1976, Connor and Martin 1989b). The models showed that lake phosphorus concentrations were more sensitive to changes in sediment loadings than to morphological or watershed loading changes. Lake sediments, which often contain much higher concentrations of phosphorus than does the lake water, can provide a net flux of phosphorus into the water under anaerobic conditions (Wetzel 1983).&lt;/p&gt;
+
+&lt;p&gt;The final part of the Diagnostic/Feasibility Study focused on providing recommendations to restore and maintain water quality in Kezar Lake. The main objective for lake restoration was to prevent phosphorus in the sediment from continuing to enter lake water. The Diagnostic/Feasibility Study recommended that the most feasible method to accomplish this objective was to inject aluminum salts into the hypolimnion to inactivate the sediment phosphorus.&lt;/p&gt;
+
+&lt;p&gt;Although the Diagnostic/Feasibility Study determined that most of the phosphorus in Kezar Lake came from the lake sediments, additional management measures were also recommended to deal with external phosphorus inputs from the watershed. The Study proposed manipulating Chadwick Meadows, an upstream riparian wetland area (Figure 2), to remove phosphorus that would enter the lake from Lion Brook. According to the hydrologic budget developed in the study, Lion Brook contributes nearly 90 percent of the annual inflow to Kezar Lake (Figure 3) and is therefore an appropriate focal point for restoration. Specific activities proposed in the wetland included increasing water level in the Meadows and planting additional vegetation, theoretically causing less phosphorus to enter the lake because of sedimentation and vegetative uptake (Connor and Martin 1989a).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;implementation&quot;&gt;Implementation and Monitoring Efforts&lt;/h2&gt;
+
+&lt;p&gt;Based on recommendations from the 1983 Diagnostic/Feasibility Study, aluminum salts injection and wetlands management projects were implemented to reduce phosphorus concentrations in Kezar Lake. To measure changes in the lake&#039;s status due to restoration efforts, a water quality monitoring program was instituted in 1984 and pursued through 1988 (Connor and Martin 1989a). These activities were performed, in part, through a section 314 EPA grant for a Restoration/ Protection Project (Phase II of the Clean Lakes Program). Additional monitoring activities were also performed from 1988 to 1994 through a state-assisted volunteer program and an EPA Phase III Post-Restoration Monitoring Project.&lt;/p&gt;
+
+&lt;h3 id=&quot;phosphorus&quot;&gt;Phosphorus Inactivation&lt;/h3&gt;
+
+&lt;p&gt;Aluminum salts injection was selected for Kezar Lake partially because of the success this methodology has had in reducing phosphorus concentrations in other thermally stratified lakes (Connor and Martin 1989a). The effectiveness of aluminum salts application rests on the ability of aluminum to form complexes, chelates, and insoluble precipitates with phosphorus, thereby removing it from the water column and depositing it in the sediment in forms unusable by phytoplankton. Depending on pH, phosphorus concentration, aluminum concentration, and the rate at which additional phosphorus is supplied, aluminum salts can provide long-term inactivation of sediment phosphorus (Connor and Martin 1989a). Furthermore, aluminum has been shown to have no toxicity to aquatic life at the pH and dose necessary for lake restoration (Cooke and Kennedy 1981). Although not all forms of phosphorus (e.g., dissolved organic phosphates) are removed by aluminum salts application, this methodology has proven to be an effective strategy for phosphorus inactivation in many water-quality-impaired lakes.&lt;/p&gt;
+
+&lt;p&gt;The week prior to aluminum salts application, copper sulfate was applied as an algicide to remove phosphorus tied up in the phytoplankton. Theoretically, this phosphorus could recycle in the lake system for many years (Connor and Martin 1989a). Additionally, bioassays were conducted to assess the impact of both the copper sulfate and aluminum salts applications to benthic macroinvertebrates in Kezar Lake. Results from before and after the applications indicated no apparent detrimental effects to the macroinvertebrate community (Connor and Martin 1989a).&lt;/p&gt;
+
+&lt;p&gt;Pilot jar and tank studies were also performed before aluminum salts application to determine the best ratio and dosage of aluminum sulfate and sodium aluminate for phosphorus inactivation. Based on results from these studies, a 10-hectare portion of Kezar Lake was treated using 30 mg Al/m at a 2:1 aluminum sulfate-to-sodium aluminate ratio. Since no adverse impacts on aquatic biota were observed following this application, an additional 48-hectare area of Kezar Lake was treated at a higher concentration (40 mg Al/m at the same ratio) to improve flocculation.&lt;/p&gt;
+
+&lt;p&gt;A special method for applying aluminum salts on Kezar Lake was developed to improve both efficiency and cost (Connor and Smith 1986). Prior to the Kezar Lake project, aluminum salts were applied using large barges that were slow and imprecise. A weed harvester was modified to simultaneously apply two aluminum salts and carry a large payload. These alterations provided a less cumbersome, more maneuverable means by which to deliver aluminum salts accurately and quickly.&lt;/p&gt;
+
+&lt;p&gt;Table 1 summarizes cost-effectiveness information associated with seven phosphorus inactivation projects. Note the varying degrees of effectiveness based on the application system used. Additional improvements (i.e., &quot;new barge system&quot; in Table 1) have further increased the efficiency and cost-effectiveness of aluminum salts application since the development of the modified barge for Kezar Lake (Connor and Smith 1986).&lt;/p&gt;
+
+&lt;p&gt;As part of the Phase II Project for Kezar Lake, intensive monitoring was conducted for 4 years to determine the effectiveness of the aluminum salts applications. Water quality parameters included in the monitoring program were dissolved oxygen, pH, alkalinity, total dissolved aluminum, total phosphorus, chlorophyll &lt;em&gt;a&lt;/em&gt;, transparency, phytoplankton, and zooplankton. A qualitative summary of the response of each of these parameters from 1984 to 1988 is given in Table 2. Initial success was realized following treatment, but&lt;/p&gt;
+
+&lt;p&gt;within 4 years many parameters returned to near pretreatment levels, although this change may be due to meteorologic variability. Most parameters did show stabilization (i.e., less extreme variability), however, at the end of the 4-year monitoring period (Connor and Martin 1989b). Furthermore, and most significantly, these levels were suitable for recreation, and average attendance at Wadleigh State Park, which abuts the lake, increased by almost 2000 people per summer in 1984 and 1986.&lt;/p&gt;
+
+&lt;p&gt;Additional monitoring from a state-assisted volunteer program and an EPA Phase III Post-Restoration Monitoring Project was performed from 1988 to 1994 to supplement the Phase II monitoring and provide a longer time frame by which to evaluate water quality changes in the lake. Results from these monitoring studies indicate that water quality had, in fact, generally improved since restoration and that the poor quality measured during the last year of the Phase II project in 1988 (as well as in 1993) was not indicative of overall water quality trends. A quantitative example of the concentrations of chlorophyll &lt;em&gt;a&lt;/em&gt; from 1980 to 1994, shown in Figure 4, represents the improving water quality trend following restoration.&lt;/p&gt;
+
+&lt;h3 id=&quot;wetlands&quot;&gt;Wetlands Management&lt;/h3&gt;
+
+&lt;p&gt;The second management action taken to restore Kezar Lake&#039;s water quality was manipulation of the 20-hectare Chadwick Meadows (a seasonally flooded riparian area) along Lion Brook. Research has shown that wetlands attenuate phosphorus with distinct seasonal variation (Connor and Martin 1989a). Although wetlands might not attenuate or might even be a source of phosphorus in the fall and spring during periods of high flow, several studies have shown phosphorus removal in wetlands to be greater than 80 percent during the summer growing season, when algae growth is most common. Macrophytic nutrient uptake and sedimentation of suspended particulates are the primary mechanisms responsible for phosphorus removal in wetlands.&lt;/p&gt;
+
+&lt;p&gt;To encourage sedimentation of phosphorus-laden particles, the water level at Chadwick Meadows was elevated in the fall of 1983 by installing flashboards below the confluence of Lion Brook and Clark Brook Pond (Connor and Martin 1986). The macrophyte community in the wetland, composed primarily of blue-joint grass (&lt;em&gt;Calamagrostis canadensis&lt;/em&gt;), was also supplemented with plantings of wild rice (&lt;em&gt;Zinzania aquatica&lt;/em&gt;) in 1985 and 1986, to aid in phosphorus attenuation. It was anticipated that these manipulations to Chadwick Meadows would decrease phosphorus concentrations in Lion Brook, ultimately benefiting Kezar Lake (Connor and Martin 1989a).&lt;/p&gt;
+
+&lt;p&gt;A monitoring program was established from 1984 to 1988 to calculate changes in the phosphorus budget and measure the effects of the wetlands management activities. Phosphorus concentrations and flow measurements were taken monthly at the three tributaries and at the outlet of Chadwick Meadows (Connor and Martin 1989a). Results from the monitoring are shown in Figure 5. Although there were a few months when the wetland acted a sink, the overall effectiveness of Chadwick Meadows in removing phosphorus from Lion Brook was poor (Connor and Martin 1989a). The restoration activities did, however, prove valuable in increasing sedimentation and wildlife habitat. Furthermore, costs associated with the wetland manipulation were negligible, totaling $250.00 for the purchase of wild rice.&lt;/p&gt;
+
+&lt;p&gt;The conclusions of the Restoration/Protection Project in the Phase II Final Report (Connor and Martin 1989a) offered four main hypotheses for the water quality response observed. First, the authors indicated the possibility that the aluminum bonding sites provided by the 1984 treatment eventually were all occupied, preventing long-term phosphorus inactivation. Second, the heavier aluminum salts, which initially created a physical barrier between the sediment and water interface, may have migrated vertically downward through the sediment. This migration exposed some of the sediment that may contribute additional internal phosphorous loading. Third, additional phosphorus entered the lake from the tributaries, perhaps as a result of biological assimilation of phosphorus in Lion Brook that occurred during effluent discharge from the New London wastewater treatment facility. Fourth, historical anoxic conditions that occur in the hypolimnion during summer months in Kezar Lake increase the rate at which sediment phosphorus is released into the hypolimnion.&lt;/p&gt;
+
+&lt;p&gt;A final hypothesis generated from more recent monitoring data (collected from 1988 to 1994) suggests that the water quality in Kezar Lake may be influenced by the amount of annual precipitation (J. Connor, pers. comm., May 1995). As Figure 4 indicates, chlorophyll &lt;em&gt;a&lt;/em&gt; levels following restoration (after 1984) fell below those measured before restoration efforts, except during 1988 and 1993. During both of these years, annual precipitation considerably exceeded normal amounts, as did runoff. It is thought that nonpoint source loads from the Kezar Lake watershed may contribute enough additional phosphorus during periods of high precipitation to noticeably decrease the water quality in Kezar Lake. It appears now that the quality of Kezar Lake is regulated by climatic conditions. High summer precipitation produces high productivity while drought years, like 1995, produce record transparency and low productivity.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;long&quot;&gt;Long-Term Monitoring Studies&lt;/h2&gt;
+
+&lt;p&gt;As previously discussed, a state-assisted Volunteer Lake Assessment Program was established to continue water quality data collection for Kezar Lake and to provide a means of public education following completion of the Phase II Project in 1988. An ongoing 5-year EPA Phase III Post-Restoration Monitoring Study is also assessing specific longer-term effects of aluminum salts application in Kezar Lake. Research in the Phase III Study includes:&lt;/p&gt;
+
+&lt;p&gt;An assessment of potential leaching of sediment aluminum into overlying water.&lt;/p&gt;
+
+&lt;p&gt;A comparison of aluminum levels in horned pout (&lt;em&gt;Ictalurus nebulosus&lt;/em&gt;) and yellow perch (&lt;em&gt;Perca flavescens&lt;/em&gt;) between Kezar Lake and several control lakes.&lt;/p&gt;
+
+&lt;p&gt;A comparison of macroinvertebrate diversity and density between Kezar Lake and several control lakes.&lt;/p&gt;
+
+&lt;p&gt;A comprehensive description of this research and the results will be published in the near future in the Phase III Final Report.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1. A comparison of aluminum dose, cost, and productivity for phosphorus inactivation (From Connor and Martin 1989b)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Lake&lt;/th&gt;
+			&lt;th&gt;Year Treated&lt;/th&gt;
+			&lt;th&gt;Area Treated (ha)&lt;/th&gt;
+			&lt;th&gt;Aluminum Dose&lt;/th&gt;
+			&lt;th&gt;Cost for Chemicals, Labor Equipment&lt;/th&gt;
+			&lt;th&gt;Personday/ha&lt;/th&gt;
+			&lt;th&gt;Cost/ha&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;thead&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Medical Lake, Washington&lt;/td&gt;
+			&lt;td&gt;1977&lt;/td&gt;
+			&lt;td&gt;60&lt;/td&gt;
+			&lt;td&gt;8.0 Al/m&lt;sup&gt;3&lt;/sup&gt;&lt;br /&gt;
+				Alminum Sulfate&lt;/td&gt;
+			&lt;td&gt;$132,093&lt;/td&gt;
+			&lt;td&gt;No data&lt;/td&gt;
+			&lt;td&gt;$2,202&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Annabessacook&lt;br /&gt;
+				Lake, Maine&lt;sup&gt;1&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1978&lt;/td&gt;
+			&lt;td&gt;121&lt;/td&gt;
+			&lt;td&gt;25 g Al/m&lt;sup&gt;3&lt;/sup&gt;&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminate&lt;/td&gt;
+			&lt;td&gt;$234,000&lt;/td&gt;
+			&lt;td&gt;1.12&lt;/td&gt;
+			&lt;td&gt;$1,934&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kezar Lake&lt;br /&gt;
+				New Hampshire&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1984&lt;/td&gt;
+			&lt;td&gt;48&lt;/td&gt;
+			&lt;td&gt;40 g Al/m3&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminate&lt;/td&gt;
+			&lt;td&gt;$65,604&lt;/td&gt;
+			&lt;td&gt;0.50&lt;/td&gt;
+			&lt;td&gt;$1,367&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lake Morey&lt;br /&gt;
+				Vermont&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1986&lt;/td&gt;
+			&lt;td&gt;133&lt;/td&gt;
+			&lt;td&gt;45 g Al/m&lt;sup&gt;2&lt;/sup&gt;&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminate&lt;/td&gt;
+			&lt;td&gt;$165,640&lt;/td&gt;
+			&lt;td&gt;0.57&lt;/td&gt;
+			&lt;td&gt;$1,245&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cochnewagon&lt;br /&gt;
+				Lake, Main&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1986&lt;/td&gt;
+			&lt;td&gt;97&lt;/td&gt;
+			&lt;td&gt;18 g Al/m&lt;sup&gt;3&lt;/sup&gt;&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminate&lt;/td&gt;
+			&lt;td&gt;$81,840&lt;/td&gt;
+			&lt;td&gt;0.41&lt;/td&gt;
+			&lt;td&gt;$844&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sluice Pond,&lt;br /&gt;
+				Massachusetts&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1987&lt;/td&gt;
+			&lt;td&gt;6&lt;/td&gt;
+			&lt;td&gt;20 g Al/m&lt;sup&gt;2&lt;/sup&gt;&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminate&lt;/td&gt;
+			&lt;td&gt;$13,196&lt;/td&gt;
+			&lt;td&gt;0.67&lt;/td&gt;
+			&lt;td&gt;$2,199&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3 Mile Pond,&lt;br /&gt;
+				Maine&lt;sup&gt;3&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;1988&lt;/td&gt;
+			&lt;td&gt;266&lt;/td&gt;
+			&lt;td&gt;20 g Al/m&lt;sup&gt;2&lt;/sup&gt;&lt;br /&gt;
+				Aluminum Sulfate&lt;br /&gt;
+				Sodium Aluminat&lt;/td&gt;
+			&lt;td&gt;$170,240&lt;/td&gt;
+			&lt;td&gt;0.06&lt;/td&gt;
+			&lt;td&gt;$640&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td colspan=&quot;7&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;old barge system&lt;br /&gt;&lt;sup&gt;2&lt;/sup&gt;modified harvester&lt;br /&gt;&lt;sup&gt;3&lt;/sup&gt;new barge system&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tfoot&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Table 2. Water Quality response to sediment phosphorus inactivation in Kexar Lake (From Connor and Martin 1989b)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Parameter&lt;/th&gt;
+			&lt;th&gt;Water Quality Response&lt;/th&gt;
+			&lt;th&gt;Duration of Major Response&lt;/th&gt;
+			&lt;th&gt;Return to Pre-Treatment Conditions&lt;/th&gt;
+			&lt;th&gt;Response Mechanisms&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Dissolved Oxygen&lt;/td&gt;
+			&lt;td&gt;reduced hypolimnetic DO deficit&lt;/td&gt;
+			&lt;td&gt;teratment year only&lt;/td&gt;
+			&lt;td&gt;1987&lt;/td&gt;
+			&lt;td&gt;toxic effect on BOD-producing microbes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;pH&lt;/td&gt;
+			&lt;td&gt;reduced variance; increased hypolimnetic pH&lt;/td&gt;
+			&lt;td&gt;4 years&lt;/td&gt;
+			&lt;td&gt;1988&lt;/td&gt;
+			&lt;td&gt;decreased algal productivity; reduced anoxia in hypolimnion&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alkalinity&lt;/td&gt;
+			&lt;td&gt;reduced variance; reduced concentration&lt;/td&gt;
+			&lt;td&gt;3 years&lt;/td&gt;
+			&lt;td&gt;1987&lt;/td&gt;
+			&lt;td&gt;decreased algal productivity; reduced anoxia in hypolimnion; direct effect of treatment&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dissolved Aluminum&lt;/td&gt;
+			&lt;td&gt;no impact&lt;/td&gt;
+			&lt;td&gt;n/a&lt;/td&gt;
+			&lt;td&gt;n/a&lt;/td&gt;
+			&lt;td&gt;none&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Total Phphorus&lt;/td&gt;
+			&lt;td&gt;reduced variance; reduced concentration&lt;/td&gt;
+			&lt;td&gt;3 years&lt;/td&gt;
+			&lt;td&gt;still better than pre-treatment conditions&lt;/td&gt;
+			&lt;td&gt;immediate effect of alum; reduced anoxia in hypolimnion; ongoing effect of alum&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;chlorophyll-α&lt;/td&gt;
+			&lt;td&gt;reduced peak and mean concentration&lt;/td&gt;
+			&lt;td&gt;3 years&lt;/td&gt;
+			&lt;td&gt;1988&lt;/td&gt;
+			&lt;td&gt;reduced phosphorus supply&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Transparency&lt;/td&gt;
+			&lt;td&gt;reduced variance; increased transparency&lt;/td&gt;
+			&lt;td&gt;2 years&lt;/td&gt;
+			&lt;td&gt;still better than pre-treatment conditions&lt;/td&gt;
+			&lt;td&gt;reduced phytoplankton abundance&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Phytoplankton&lt;/td&gt;
+			&lt;td&gt;reduced abundance; elimination of noxious blue-greens&lt;/td&gt;
+			&lt;td&gt;3 years&lt;/td&gt;
+			&lt;td&gt;1987, w/no major blooms as of 1988&lt;/td&gt;
+			&lt;td&gt;reduced phosphorus supply&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zooplankton&lt;/td&gt;
+			&lt;td&gt;fewer cladocerans; elimination of &lt;em&gt;Daphnia&lt;/em&gt; as a co-dominant; increased &lt;em&gt;Keratella&lt;/em&gt;; decreased &lt;em&gt;Polyartha&lt;/em&gt;; increased ciliates&lt;/td&gt;
+			&lt;td&gt;?&lt;/td&gt;
+			&lt;td&gt;communinty still altered as of 1988&lt;/td&gt;
+			&lt;td&gt;altered food chain by change in phytoplankton community structure&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Connor, J.N. and M.R. Martin. 1986. &lt;em&gt;Wetlands management and first year response of a lake to hypolimnetic aluminum salts injection&lt;/em&gt;. New Hampshire Department of Environmental Services, Water Supply and Pollution Control Commission, Staff Report Number 144. 76 pp.&lt;/p&gt;
+
+&lt;p&gt;Connor, J.N. and M.R. Martin. 1989a. &lt;em&gt;An assessment of wetlands management and sediment phosphorus inactivation, Kezar Lake, New Hampshire&lt;/em&gt;. New Hampshire Department of Environmental Services, Water Supply and Pollution Control Division, Staff Report Number 161. 109 pp.&lt;/p&gt;
+
+&lt;p&gt;Connor, J.N. and M.R. Martin. 1989b. An assessment of sediment phosphorus inactivation, Kezar Lake, New Hampshire. &lt;em&gt;Water Resources Bulletin&lt;/em&gt; 25(4):845-853.&lt;/p&gt;
+
+&lt;p&gt;Connor, J.N. and G.N. Smith. 1986. An efficient method of applying aluminum salts for sediment phosphorus inactivation in lakes. &lt;em&gt;Water Resources Bulletin&lt;/em&gt; 22(4):661-664.&lt;/p&gt;
+
+&lt;p&gt;Cooke, G.D. and R.H. Kennedy. 1981. &lt;em&gt;Precipitation and inactivation of phosphorus as a lake restoration technique&lt;/em&gt;. U.S. EPA Ecological Research Series. EPA- 600/3-81-012. U.S. Environmental Protection Agency, Washington, DC.&lt;/p&gt;
+
+&lt;p&gt;Snow, P.D. and F.A. DiGiano. 1976. Mathematical Modeling of Phosphorus Exchange Between Sediments and Overlying Water in Shallow Eutrophic Lakes. Report ENVE.54-76-3 to the Massachusetts Division of Water Resources, Department of Environmental Quality. 244pp.&lt;/p&gt;
+
+&lt;p&gt;Wetzel, R.G. 1983. &lt;em&gt;Limnology&lt;/em&gt;. 2nd Edition. Harcourt Brace Jovanich, Orlando, FL. 767 pp.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;This case study was prepared by Tetra Tech, Inc., Fairfax, VA, in conjunction with EPA&#039;s Office of Wetlands, Oceans, and Watershed Branch. To obtain copies, contact your EPA Regional Clean Lakes Coordinator or request a copy from: &lt;strong&gt;*&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;span&gt;National Center for Environmental Publications and Information (NCEPI)&lt;/span&gt;&lt;br /&gt;
+			11029 Kenwood Rd., Bldg 5&lt;br /&gt;
+			Cincinatti, OH 45242&lt;br /&gt;
+			FAX (513) 489-8695&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;* This document has not been printed yet due to Continuing Resolution printing restrictions&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 19 Feb 2016 19:03:28 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">136185 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Watershed Protection: Clean Lakes Case Study - Watershed and In-lake Practices Improve Green Valley Lake, Iowa</title>
+    <link>https://www.epa.gov/lakes/watershed-protection-clean-lakes-case-study-watershed-and-lake-practices-improve-green-valley</link>
+    <description>&lt;div class=&quot;box simple right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;United States Environmental Protection Agency&lt;br /&gt;
+			Office of Water (4503F)&lt;br /&gt;
+			EPA 841-F-95-003&lt;br /&gt;
+			September 1995&lt;br /&gt;
+			Number 2&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#problems&quot;&gt;Problems&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#participants&quot;&gt;Participants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#goals&quot;&gt;Goals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#criteria&quot;&gt;Criteria for success&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#process&quot;&gt;Process&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#lakerestoration&quot;&gt;Lake restoration&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#monitoring&quot;&gt;Monitoring&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#results&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Key Feature:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Impoundment heavily impacted by agricultural runoff&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Project Name:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Green Valley Lake&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Union County, Iowa USEPA Region 7&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Scope/Size:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Watershed Area 1946 hectares (4750 acres)&lt;br /&gt;
+				Lake Area 158 hectares (390 acres)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Land Type:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Ecoregion #47, western corn belt plains; planted in soybeans and corn&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Pollution Source:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Agriculture&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Pollutants:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Sediment, nutrients&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Sources:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;State; project monitoring&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Mechanisms:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Water quality and sediment sampling, bathymetric studies&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Monitoring Plan:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Control Measures:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Sediment/nutrient retention dikes, grade stabilization structures, tile intake terraces, diversions, grassed waterways, sediment control basins&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	Green Valley Lake is a 158 hectares (ha) impoundment located in southern Iowa. It was built in 1952 near the headwaters of the Platte River and by the 1970s it was heavily impacted by erosion from its surrounding agricultural watershed. Soil and nutrients delivered to the lake produced a number of water quality problems including sedimentation, turbidity, excess growths of the blue-green algae &lt;em&gt;Alphanizomenon&lt;/em&gt; sp., and low dissolved oxygen. The algal blooms were responsible for early morning oxygen sags, which in turn led to partial kills of the largemouth bass and bluegill populations.&lt;/p&gt;
+
+&lt;p&gt;All three phases of EPA&#039;s Section 314 Clean Lakes Program were implemented at Green Valley Lake. A Phase I Diagnostic/Feasibility Study identified the causes of the lake&#039;s water quality problems, and a Restoration/Implementation Project (Phase II of the Clean Lakes Program) was carried out in Green Valley Lake between 1980 and 1986. The Restoration Project included implementation of best management practices on surrounding agricultural lands and construction of sediment/nutrient retention dikes in the two major arms of the lake. A total of 65 best management practice installation projects were completed, including grade stabilization structures, tile intake structures, a diversion, grassed waterways, terraces, and water sediment control basins. A monitoring program conducted during the Restoration phase indicated that water quality improved in the lake and the dikes seemed to be effective in preventing the movement of sediments into the main lake. The lake was monitored for three years to assess the benefits of the Restoration Project. Criteria for judging the effectiveness of the Restoration Project were established and included lowered suspended solids, lowered nutrients in lake inflows, and fewer algal blooms. The Clean Lakes Program Phase II Restoration Project largely succeeded with respect to these criteria. Additional monitoring conducted from 1991 to 1994 under a Phase III Clean Lakes Post-Restoration Monitoring Study indicates that Green Valley Lake has improved and probably will continue to improve due to both in-lake and watershed restoration efforts.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-teaser caption&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;Regional map showing location of Green Valley Lake&quot; height=&quot;201&quot; width=&quot;160&quot; class=&quot;right media-element file-teaser right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2016-01/map.gif&quot; title=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Regional map showing location of Green Valley Lake&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Green Valley Lake was formed as an impoundment of the Platte River in 1952. It lies just north of Creston, Iowa, 88.5 kilometers southwest of Des Moines, Iowa, and 137 kilometers east of Omaha, Nebraska (Figure 1). It has a watershed area of 2105 hectares and a surface area of 158 hectares. The maximum depth of the lake is 7.9 meters and its hydraulic residence time is 1.82 years. The area receives 84 cm of rain per year, 50 percent of which falls between April and July, and 75 percent of which falls during the April through October growing season. Thunderstorms and other violent weather strike the area on average 45 times per year. The average annual runoff for the watershed is 14 cm-6 cm in surface runoff and 8 cm in subsurface runoff.&lt;/p&gt;
+
+&lt;p&gt;The entire lake is surrounded by the Green Valley Lake State Park, which is owned by the State of Iowa and provides recreational opportunities for all citizens of the state. The land in the watershed is occupied by 39 landowners. Seventy-two percent of the watershed is farmed, primarily to raise corn and soybeans, and most of the rest is parkland.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;problems&quot;&gt;Problems&lt;/h2&gt;
+
+&lt;p&gt;Water quality problems in Green Valley Lake first became evident in the 1970s. Aquatic life and recreation suffered from excessive inputs of sediment and nutrients. Between 1968 and 1978 sedimentation reduced the lake area by 10 percent and reduced the lake volume at a rate of 8635 cubic meters per year. Volume reduction was most noticeable in the parts of the lake that received runoff.&lt;/p&gt;
+
+&lt;p&gt;In the northwest arm of the lake (inflow from the Platte River), for instance, boating and fishing were eliminated from over 10 hectares (6.3 percent of the lake surface) because of the loss of lake volume and depth. High turbidity was evident after rainfall, and wind alone was enough to resuspend sediment in the shallows.&lt;/p&gt;
+
+&lt;p&gt;The lake also received an overabundance of nutrients. Algal blooms occurred in summers and caused dissolve oxygen (DO) sags in the morning hours. These in turn caused partial fish kills and led to poor survival for young-of-the-year fish. The populations of largemouth bass and bluegills were reduced, and a bad taste and odor were noticed in fish caught in the lake, a typical phenomenon in lakes with algal blooms. The algal blooms also made the lake unsuitable and unattractive for swimming.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;participants&quot;&gt;Participants&lt;/h2&gt;
+
+&lt;p&gt;To address these problems, the Iowa Department of Natural Resources (IDNR) enlisted and coordinated the efforts of the following agencies:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;US Environmental Protection Agency, Region 7, Kansas City, Kansas&lt;/li&gt;
+	&lt;li&gt;USDA Natural Resources Conservation Service, Des Moines, Iowa&lt;/li&gt;
+	&lt;li&gt;Iowa Department of Agriculture and Land Stewardship, Des Moines, Iowa&lt;/li&gt;
+	&lt;li&gt;Union County Soil Conservation District, Creston, Iowa&lt;/li&gt;
+	&lt;li&gt;Union County Consolidated Farm Service Agency, Creston, Iowa&lt;/li&gt;
+	&lt;li&gt;Area Extension Office, Creston, Iowa&lt;/li&gt;
+	&lt;li&gt;University Hygienic Laboratory, Iowa City&lt;/li&gt;
+	&lt;li&gt;Participating landowners in Green Valley Lake watershed&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Phase II Restoration Project officially lasted from July 1980 to June 1986.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;Based on the Phase I Diagnostic Study, the IDNR established the following goals for the Green Valley Lake Restoration Project:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Reduce sediment/nutrient delivery to the lake to acceptable levels by installing best management practices (BMPs) on croplands in the watershed.&lt;/li&gt;
+	&lt;li&gt;Reduce resuspension of nutrients within the lake bed by deepening shallow water areas and/or containing such areas.&lt;/li&gt;
+	&lt;li&gt;Monitor chemical, physical, and biological parameters to detect changes in water quality.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;criteria&quot;&gt;Criteria for Success&lt;/h2&gt;
+
+&lt;p&gt;IDNR selected the following criteria to be used as evidence of an effective restoration of Green Valley Lake:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Improvements in water clarity or transparency measured with a Secchi disk.&lt;/li&gt;
+	&lt;li&gt;Low suspended solids concentrations in the lake relative to other similar lakes.&lt;/li&gt;
+	&lt;li&gt;Low levels of suspended solids and plant nutrients in the inflows relative to similar streams in the region.&lt;/li&gt;
+	&lt;li&gt;Reductions in algal chlorophylls.&lt;/li&gt;
+	&lt;li&gt;Reductions in blue-green algal populations.&lt;/li&gt;
+	&lt;li&gt;Increases in public use of the State Park.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;IDNR administered the project. In 1980, $569,100 in EPA Clean Lakes Program funds were received to implement Phase II restoration measures at Green Valley Lake. The Union County Soil Conservation District, in conjunction with landowners, prepared water quality management plans for individual farms surrounding the lake. Costs to implement the BMPs were shared by the Federal government (50 percent), the landowners (25 percent), and the State (25 percent). In-lake BMPs (sediment/nutrient retention dikes) were built by IDNR. Union County Soil Conservation District staff were funded by the Iowa Department of Agriculture and Land Stewardship and the USDA Natural Resources Conservation Service.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;lakerestoration&quot;&gt;Lake Restoration&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-full caption&quot; style=&quot;width:320px;&quot;&gt;&lt;img alt=&quot;Map indicating the locations of BMPs in the surrounding watershed&quot; height=&quot;194&quot; width=&quot;320&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/green.gif&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Map indicating the locations of BMPs in the surrounding watershed.&lt;/span&gt;&lt;/span&gt;Two approaches were used to restore the lake. First, BMPs were installed on agricultural lands to reduce soil erosion. Figure 2 indicates the locations of BMPs in the surrounding watershed. When the project ended, the following BMPs had been installed: 3 grade stabilization structures, 39 tile intake terraces (totaling 32,961 m), 1 diversion (380 m long), 6 grassed waterways (totaling 2946 m), and 16 water sediment control basins. Second, two sediment/nutrient retention dikes were installed, one in each arm of the lake, to retard water flow and cause sediment to settle out. It was hoped that this would reduce sediment and nutrient loads throughout the lake.&lt;/p&gt;
+
+&lt;p&gt;Since 1987 additional BMPs, including 4575 m of terraces and 15 water sediment control structures, have been added. A separate crop set aside program had also reduced row cropland from 77 percent (of total cropland farmed in the region) in 1980 to 60 percent by 1989.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;monitoring&quot;&gt;Monitoring&lt;/h2&gt;
+
+&lt;p&gt;Green Valley Lake is classified to be used for primary and secondary contact recreation and as a drinking water supply. The goal of the monitoring program for the Clean Lakes Project was to document short-and long-term trends in the lake resulting from the implementation of BMPs. Monitoring data were collected for 6 years by the Iowa Department of Natural Resources and Iowa State University.&lt;/p&gt;
+
+&lt;p&gt;A bottom profile of the lake has been produced every 5 years to determine the sedimentation rate. Water quality samples were taken during runoff events and dry weather. Two in-lake monitoring sites were used. The water was monitored for pH, chlorophyll &lt;em&gt;a&lt;/em&gt;, nitrogen, phosphorus, temperature, dissolved oxygen, total suspended solids, and Secchi disk transparency. Pesticides, metals, and fecal coliform levels were monitored in sediments and the water column. Water level, weed growth, fish kills, turbidity, and erosion were monitored as well, and fish populations were sampled twice each year to note any trends. Lake use (recreation) data were also collected.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;table summary=&quot;Results&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;th&gt;1981&lt;/th&gt;
+			&lt;th&gt;1986&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Turbidity (JTU)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;12/70&lt;sup&gt;&lt;a href=&quot;#a&quot;&gt;a&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+			&lt;td&gt;19/43&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Secchi Disk transparency (cm)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;71/51&lt;/td&gt;
+			&lt;td&gt;48/30&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nutrient&lt;br /&gt;
+				s (mg/l) &lt;/strong&gt;&lt;strong&gt;Total P&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;.6/.4&lt;/td&gt;
+			&lt;td&gt;.2/.25&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Nutrient&lt;br /&gt;
+				s (mg/l) NO&lt;sub&gt;2&lt;/sub&gt; + NO&lt;sub&gt;3&lt;/sub&gt;&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;.5/9.8&lt;/td&gt;
+			&lt;td&gt;1/1.3&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Algal chlorophyll&lt;br /&gt;
+				(ug/l)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;60/60&lt;/td&gt;
+			&lt;td&gt;24/20&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;&lt;strong&gt;Blue-green algae&lt;/strong&gt;
+				&lt;p&gt;&lt;strong&gt;=&amp;gt; Beach-use indicator&lt;br /&gt;
+					(user days x 1000)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;complaints of fish taste &amp;amp; odor&lt;/td&gt;
+			&lt;td&gt;no fish taste or odor complaints&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1.8&lt;/td&gt;
+			&lt;td&gt;4.1&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Public use&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;-&lt;/td&gt;
+			&lt;td&gt;4.7-fold increase in swimming&lt;br /&gt;
+				1.5-fold increase in fishing&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot;&gt;&lt;a id=&quot;a&quot; name=&quot;a&quot;&gt;&lt;/a&gt;&lt;sup&gt;a&lt;/sup&gt; deep sampling station (in-lake)/shallow sampling station (near inflow)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Monitoring data collected during the 6-year project indicated improvements were made in most of the criteria for success that were established before the project began (see Table 1). Somewhat surprisingly, water clarity declined. This problem was attributed to an increase in populations of bullhead and carp, bottom-dwelling fish species that stir up sediments in the course of their daily activities. This problem has been well-documented in other Iowa lakes. Sediment delivery was reduced enough to lower lake volume loss from 8635 cubic meters/year in 1981 to 4318 cubic meters/year in 1986, a result attributed to the sediment/nutrient retention basins, grassed swales, and other BMPs. Nitrogen levels decreased in shallows, and phosphorus levels decreased in shallows and depths.&lt;/p&gt;
+
+&lt;p&gt;The decline in chlorophyll &lt;em&gt;a&lt;/em&gt; was thought to result from reductions in phosphorus loadings. Fewer algal blooms occurred, and fewer complaints of bad odor and taste in fish were received. By 1986 the decrease in algae had also led to a 50 percent decrease in the daytime annual mean level of DO to 5.7 mg/l in depths and 6.6 mg/l in shallows and eliminated DO sags in the morning hours. As a result there were no summer fish kills reported after 1981.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-full&quot; style=&quot;width:363px;&quot;&gt;&lt;img alt=&quot;Chart illustrating annual swimming beach use at Green valley Lake&quot; height=&quot;395&quot; width=&quot;363&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/green3.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The success of the Green Valley Lake Clean Lakes Project can be measured in numerous ways, including changes in water quality parameters. Improvements in human and wildlife use of the lake were clearly noticeable. Swimming beach use at the lake more than doubled between 1981-1986 as a result of the decrease in blue-green algae populations (Figure 3). Fishing hours also increased 1.5-fold by 1986.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;costs&quot;&gt;Costs and Funding&lt;/h2&gt;
+
+&lt;p&gt;Costs and funding for the BMPs installed by landowners and the state during the project are summarized in Table 2.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;phaseIII&quot;&gt;Phase III&lt;/h2&gt;
+
+&lt;p&gt;Efforts to keep Green Valley Lake clean and healthy continue since the completion of the Phase II Restoration Project in 1986. As indicated above, some additional BMPs have been installed. Also, IDNR implemented an EPA Clean Lakes Program Phase III Post-Restoration Monitoring Project from 1991 to 1994. The primary objective of this monitoring was to determine if the restoration techniques employed at Green Valley Lake and within its watershed are working to improve the lake&#039;s water quality.&lt;/p&gt;
+
+&lt;p&gt;Following are the types of monitoring activities that were conducted:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;From May 1991 to April 1994 water quality was monitored twice per month from May to September and once per month from October to April.&lt;/li&gt;
+	&lt;li&gt;Sediments were sampled above and below the dikes to determine the dikes&#039; sediment and nutrient removal efficiency.&lt;/li&gt;
+	&lt;li&gt;Light penetration and wind speed and direction measurements were taken in the arms of the lake to evaluate resuspension of sediments due to wind induced-mixing.&lt;/li&gt;
+	&lt;li&gt;Soil conservation practice activities were documented for the time period of the project.&lt;/li&gt;
+	&lt;li&gt;Sediment basin maps were created for 1991 and 1994 to estimate the lake sedimentation rate.&lt;/li&gt;
+	&lt;li&gt;Recreational use information was collected.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The final report on the Phase III Monitoring Program, issued in June 1995, indicates that overall water quality at Green Valley Lake has improved and probably will continue to improve due to both in-lake and watershed restoration efforts. The Phase III study compared current data (1991-1994) with historical data (1979, 1981-1986) and found that water quality at Green Valley Lake, with natural fluctuations, has improved. Also, comparisons of water quality data from opposite sides of the sediment/nutrient retention dikes support their role in the improved quality of the lake. As a result of the improved water quality and fisheries at the lake, usership has increased steadily over the past years.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;(Anonymous). 1990. &lt;em&gt;Phase III post-restoration monitoring program on Green Valley Lake, Union County, Iowa&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Iowa Department of Natural Resources. (undated). &lt;em&gt;Green Valley Lake Clean Lakes Project. Union County, Iowa. Six-year summary of activities. July 1980 -June 1986&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Iowa Department of Natural Resources. June 1995. &lt;em&gt;Phase III Project Final Report for Green Valley Lake, Union County, Iowa.&lt;/em&gt; 35pp.&lt;/p&gt;
+
+
+
+&lt;div class=&quot;box simple&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;For more information contact:&lt;br /&gt;
+			Marion Conover, Chief, Fisheries Bureau, Iowa Department of Natural Resources&lt;br /&gt;
+			Wallace State Office Building&lt;br /&gt;
+			Des Moines, IA 50319-0034&lt;br /&gt;
+			phone: 515-281-5208&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jan 2016 19:30:13 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">132025 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Watershed Protection: Clean Lakes Case Study - Use of Aquatic Weevils to Control a Nuisance Weed in Lake Bomoseen, Vermont</title>
+    <link>https://www.epa.gov/lakes/watershed-protection-clean-lakes-case-study-use-aquatic-weevils-control-nuisance-weed-lake</link>
+    <description>&lt;div class=&quot;box simple right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;United States Environmental Protection Agency&lt;br /&gt;
+			Office of Water (4503F)&lt;br /&gt;
+			EPA 841-F-97-002&lt;br /&gt;
+			October 1997&lt;br /&gt;
+			Number 3&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#problem&quot;&gt;Characterizing the problem&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#controls&quot;&gt;Identifying possible controls&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#results&quot;&gt;Results&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#conclusions&quot;&gt;Conslusions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#other&quot;&gt;Other examples of weevil-associated eurasian watermilfoil declines&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Key Feature:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Use of a biological control for a nuisance macrophyte&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Project Name:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Lake Bomoseen&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Rutland County, VT&lt;br /&gt;
+				USEPA Region 1&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Scope/Size:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Watershed area 10,025 hectares (24,470 acres)&lt;br /&gt;
+				Lake area 960 hectares (2,370 acres)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Land Type:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Ecoregion #60, Northern Appalachian Plateau and Uplands&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Stressor:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Eurasian watermilfoil (&lt;em&gt;Myriophyllum spicatum&lt;/em&gt;)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Stressor Source:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Accidental introduction&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Sources:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;State&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Data Mechanisms:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Plant and invertebrate sampling&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Monitoring Plan:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Control Measures:&lt;/strong&gt;&lt;/th&gt;
+			&lt;td&gt;Aquatic weevil (&lt;em&gt;Euhrychiopsis lecontei&lt;/em&gt;)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-full&quot; style=&quot;width:231px;&quot;&gt;&lt;img alt=&quot;Figure 1 - Location map of Bomoseen, Vermont&quot; height=&quot;352&quot; width=&quot;231&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/vermont2.gif&quot; /&gt;&lt;/span&gt; Lake Bomoseen, located in western Vermont (Figure 1), has had a long history of weed problems. By the early 1980s, Eurasian watermilfoil (Myriophyllum spicatum) was the dominant weed species in the lake. Eurasian watermilfoil is an introduced species that is difficult to control due to its ability to survive in various environmental conditions. At one point the watermilfoil covered 240 hectares of the lake, impairing its recreational and commercial uses. In addition to Lake Bomoseen, the macrophyte has been documented to exist in approximately 42 other Vermont lakes. One of those is Brownington Pond (located in northeastern Vermont), which experienced a decline in its watermilfoil population in 1989. Following the discovery of this natural decline, the Vermont Department of Environmental Conservation (VTDEC) was awarded a U.S. Environmental Protection Agency (USEPA) grant to investigate the decline and its causes. It was hoped that the investigation would benefit other lakes with Eurasian watermilfoil problems.&lt;/p&gt;
+
+&lt;p&gt;Researchers from Middlebury College, working under contract for VTDEC, documented fluctuations in the Brownington Pond Eurasian watermilfoil population and then investigated possible causes, including the role of herbivores. The researchers concluded that a native aquatic weevil, Euhrychiopsis lecontei, was largely responsible. They proceeded to examine the specific effects of the weevil on the Eurasian watermilfoil and native plant species to determine the feasibility of the weevil as a biological control. The weevil was deemed appropriate and potentially effective as a control for the Eurasian watermilfoil and the weevil population in Lake Bomoseen was augmented (i.e., added to) in 1993 and 1994. Although an overall reduction in the Eurasian watermilfoil population dramatic enough to be noticeable to lakeshore owners has not yet occurred, the technique has shown promise in controlling the growth of the weed. Results from the monitoring of introduction sites have shown that over the last 4 years weevil survival has been good and that the plants have suffered extensive weevil-induced damage. These initial results indicate that, over time, the weevil might be able to reduce nuisance growth in Lake Bomoseen and could potentially be used in other lakes with similar problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Betty Hutchinson, Vermont Department of Environmental Conservation, 103 South Main Street, Building 10 North, Waterbury, VT 05671-0408, phone (802) 241-3777.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Lake Bomoseen is located in western Vermont in the towns of Castleton and Hubbardton in Rutland County (Figure 1). It is the largest lake that lies entirely within the state&#039;s boundaries, with a surface area of approximately 960 hectares (2,370 acres). The lake is mesotrophic and has an average and maximum depth of 8.2 m (26.8 feet) and 19.8 m (65 feet), respectively. It drains a 10,025-hectare (24,470-acre) watershed, has five major inlets, and empties to the Castleton River.&lt;/p&gt;
+
+&lt;p&gt;A portion of the lake&#039;s shoreline is contained within Bomoseen State Park. Most of the remaining area around the lake is privately owned. The lake has such recreational accommodations as a public beach, marinas, and public boat launches, in addition to the state park. There are approximately 1,000 residences around the lake, as well as restaurants and other commercial facilities (Holly Crosson, VTDEC, personal communication, 1997).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;problem&quot;&gt;Characterizing the Problem&lt;/h2&gt;
+
+&lt;p&gt;Dense aquatic weed growth has been a consistent problem in Lake Bomoseen since the early 1940s. In 1977 the town of Castleton began to harvest the dominant exotic weed species in the lake, curly leaf pondweed (Potamogeton crispus). The weed harvesting was funded under section 314 of the Clean Water Act from 1977 to 1979. The harvesting then continued with state and local funds and was successful in the control of the pondweed until the early 1980s, when Eurasian watermilfoil (Myriophyllum spicatum, hereafter referred to as EWM) replaced P. crispus as the dominant species in the lake. Mechanical harvesting has remained the primary method for the control of EWM on Lake Bomoseen.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-full&quot; style=&quot;width:228px;&quot;&gt;&lt;img alt=&quot;Figure 2 - Eurasian watermilfoil&quot; height=&quot;352&quot; width=&quot;228&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/wtrmfoil_0.gif&quot; /&gt;&lt;/span&gt; Since its accidental introduction in the mid-1900s, EWM has spread to at least 40 states and 3 Canadian provinces, making it one of the most widespread nuisance macrophytes in North America (Sheldon and Creed, 1995). Once introduced, EWM frequently becomes the dominant species in a lake. The widespread distribution of EWM can be explained by its ability to live in various environmental conditions; it can withstand a broad range of aquatic environments, from oligotrophic to eutrophic waters, and it grows in water depths from as shallow as 0.5 meter to as deep as 8 meters (26 feet). It also can grow in substrates ranging from poor, sandy sediment to highly organic soils and can survive in wide ranges of salinity, pH, and temperature conditions (Aiken et al, 1979; Nichols and Shaw, 1986; Smith and Barko, 1990, as cited in Sheldon and Creed, 1995).&lt;/p&gt;
+
+&lt;p&gt;EWM beds are groups of plants of similar height and leaf form (Figure 2). The plants grow quickly and, when they reach the water surface, grow laterally to form a canopy. In contrast to many other macrophytes that grow to variable heights and leaf shapes, EWM grows as thick walls of uniform height and leaf forms. Because of this, the dense EWM beds usually support a lower abundance and diversity of invertebrates than do native aquatic plant beds (Sheldon, 1995; Sheldon and Creed, 1995). In addition to its effects on aquatic life, EWM hinders the use of waters for recreational boating, swimming and, fishing.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;controls&quot;&gt;Identifying Possible Controls&lt;/h2&gt;
+
+&lt;p&gt;In 1989, biologists with the Vermont Department of Environmental Conservation (VTDEC) noticed a natural decline in the population of EWM in Brownington Pond in the northeastern region of the state. In 1990, VTDEC was awarded a $575,000 grant from the USEPA under section 314 of the Clean Water Act. The purpose of this grant was to examine the possibility of using aquatic herbivores found in Brownington Pond as a biological control for other EWM populations. This Clean Lakes Demonstration Program grant was awarded for the purpose of highlighting new and unique techniques for lake restoration.&lt;/p&gt;
+
+&lt;p&gt;Working under contract for VTDEC, researchers from Middlebury College mapped and studied the decreases and increases in EWM in Brownington Pond from 1990 through 1995. The study investigated a variety of factors (e.g., herbivores, water chemistry, and sediment chemistry) that could have influenced the fluctuations. The results of the plant and invertebrate sampling suggested that herbivorous insects played a primary role in the EWM declines observed in 1989 and 1992. The researchers were able to eliminate other factors as reasons for the declines, and the focus turned toward the herbivore populations in the pond.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-full&quot; style=&quot;width:260px;&quot;&gt;&lt;img alt=&quot;Figure 3 - an adult milfoil weevil&quot; height=&quot;195&quot; width=&quot;260&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/bug.gif&quot; /&gt;&lt;/span&gt; The two main EWM herbivores present in Brownington Pond were an aquatic weevil native to North America, Euhrychiopsis lecontei (Figure 3, illustration courtesy of Susan Warren, VT DEC), and the caterpillar Acentria ephemerella. In examining the herbivores, the researchers noticed variations in the abundance of the aquatic weevil between 1990 and 1994 and compared the variations to those of the EWM. They noticed that the fluctuations in the weevil populations compared to the EWM populations were similar to those exhibited by predator-prey or host-parasitoid models (Creed and Sheldon, 1995). The evidence suggested that the naturally occurring weevil populations might have played a role in the decline of the Brownington Pond EWM population.&lt;/p&gt;
+
+&lt;p&gt;The Middlebury College researchers conducted laboratory and field experiments to further examine the relationship between EWM and the weevils, as well as their relationships to other herbivores and macrophytes. It was discovered that Phytobius leucogaster, another species of aquatic weevil, did feed on the EWM but had no significant negative effect on its growth (Sheldon, 1995). It was also discovered that the Acentria larvae reduced EWM growth in laboratory experiments (due to stem-cutting during feeding and retreat construction (Creed and Sheldon, 1994)). However, extensive caterpillar damage was not observed in Brownington Pond (Creed and Sheldon, 1994).&lt;/p&gt;
+
+&lt;p&gt;By researching the feeding behaviors of the weevil, the researchers were able to determine that all of its life stages can cause damage to the plant. The first instar larvae cause extensive destruction to the growing tip of the plant, thus preventing new stem growth. The late instar larvae hollow out the stem by feeding on its vascular tissue, thus reducing the plant&#039;s ability to transport the nutrients necessary for growth. The late instar larvae also destroy the lacunal system of the EWM, which serves as a gas reservoir for respired carbon dioxide (Nichols and Shaw, 1986, as cited in Creed and Sheldon, 1994) and also permits gas exchange between the plant roots and shoots (Grace and Wetzel, 1978, Nichols and Shaw, 1986, as cited in Creed and Sheldon, 1994). The adult weevils can damage the plant by feeding on its upper leaves, which can affect the plant&#039;s energy balance by transferring photosynthesis responsibilities to deeper leaves (Creed et al., 1992). The feeding may also make the plant more susceptible to infections by bacteria and fungi (Sheldon and Creed, 1995; Creed et al., 1992).&lt;/p&gt;
+
+&lt;p&gt;In addition to these direct effects, larval tunneling can also cause the plant to lose buoyancy and collapse into deeper waters, where it is subject to conditions different from those at the surface. This indirect effect of loss of buoyancy could in fact be more significant than the direct loss of leaf and stem tissue discussed above (Creed and Sheldon, 1995; Creed et al., 1992). It can cause the plants to sink out of well-lit surface water, possibly to depths with insufficient light for photosynthesis (Creed et al., 1992). Plants that lose buoyancy due to weevil feeding could also entangle and sink other, undamaged plants.&lt;/p&gt;
+
+&lt;p&gt;The Middlebury College researchers conducted laboratory feeding trials to quantitatively assess the effects of the weevils on the EWM. The plants were collected and cleaned of all invertebrates, eggs, and other material. Data were collected concerning the plants&#039; appearance, weight, and length. The plants were then placed in clear cylinders and either zero, two, or four adult weevils were added to each cylinder. The results of the laboratory experiments showed that the wet weight of the EWM averaged 50 percent less in the two-weevil containers than in the no-weevil containers and 130 percent less in the four-weevil containers (Sheldon, 1995). In addition, the final plant shoot lengths were an average of 25 percent shorter in the two-weevil containers and 60 percent shorter in the four-weevil containers (Sheldon, 1995).&lt;/p&gt;
+
+&lt;p&gt;In field experiments, weevils were added to 30.5-centimeter-diameter, 2-meter-tall cylindrical enclosures in two lakes in which weevils were not present. Forty days after the addition of the weevils, the EWM plants in the three experimental weevil enclosures were compared to those in the three control enclosures. Plant weights were lower for the plants with weevils. In addition, the macrophyte formed canopies in the control enclosures and the surrounding areas, but in the weevil enclosures there were no plants at the water surface (Sheldon and Creed, 1995). The plants had collapsed, and most were at least 1 meter below the surface (Sheldon and Creed, 1995).&lt;/p&gt;
+
+&lt;p&gt;In addition to the effects on EWM, the Middlebury College researchers also investigated the effects of the weevils on other aquatic macrophytes, including several native watermilfoil species. They found that the weevils had no significant negative effects on the native, non-watermilfoil species, with no evidence of weevil feeding or egg-laying (Sheldon and Creed, 1995). Although the weevils did feed and lay eggs on portions of the native watermilfoil M. sibricum, the resulting damage was not considered significant (Sheldon and Creed, 1995; Sheldon, 1995).&lt;/p&gt;
+
+&lt;p&gt;Based on the results from the Middlebury College laboratory and field experiments, the weevil was deemed acceptable by VTDEC as an experimental biological control because of the possibility that it might be able to control EWM and the low risk it posed to non-target native aquatic plants.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;agent&quot;&gt;Introduction of a Biological Control Agent&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif right view-mode-full&quot; style=&quot;width:252px;&quot;&gt;&lt;img alt=&quot;Figure 4 - Lake Bomoseen introduction sites&quot; height=&quot;360&quot; width=&quot;252&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-01/lake4.gif&quot; /&gt;&lt;/span&gt; In the summer of 1993, VTDEC issued a Biological Control Permit under the state&#039;s Aquatic Nuisance Control Permit Program allowing the release of weevils into two Vermont lakes, including Lake Bomoseen (Sheldon, 1995). Rearing of the weevils took place at VTDEC&#039;s environmental laboratory in Waterbury and at Middlebury College.&lt;/p&gt;
+
+&lt;p&gt;In the summer of 1993, more than 5,000 weevils were added to three unharvested sites in Lake Bomoseen— Cedar Mountain, Neshobe Island, and Eckley Point (Figure 4). In the summer of 1994, approximately 15,000 additional weevils were introduced to the same three sites by both VTDEC and Middlebury College. The distribution of the weevils released in 1994 was 9 percent eggs, 77 percent larvae, 13 percent adults, and 1 percent pupae (Hanson et al., 1995).&lt;/p&gt;
+
+&lt;p&gt;Weevils were added to the three unharvested sites in Lake Bomoseen at least once a week throughout the summers of 1993 and 1994. Data were collected concerning the numbers and life stages of weevils released at each location, and any notable weevil damage was recorded at each site on each release date. Each augmentation area was paired with a site that acted as the control &quot;no-weevil&quot; site for later comparison during the monitoring efforts.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;Monitoring was conducted through 1995 at the augmentation sites. Monitoring consisted of collecting stem samples for weevil counts during the summers and quantitative plant and invertebrate samples at the end of each summer. The stem samples were examined, and all weevil eggs, larvae, pupae, and adults were counted and removed. Three random plant samples were collected at the end of the summers from each of the six unharvested areas for examination of plant health and growth. Weevils were counted and, along with other invertebrates, removed. The plants were then dried and weighed. In addition to collection of samples, visual observations were made of the sites to assess the effects of the weevils. Throughout the sampling periods, apparent weevil damage was noted at all sites in Lake Bomoseen.&lt;/p&gt;
+
+&lt;p&gt;The results of the quantitative analysis of the collected samples suggest that the weevil is successfully established in the Lake Bomoseen sites. Since the initial release on June 30, 1993, over 20,000 weevils have been placed in Lake Bomoseen. Data collected in 1993 and 1994 show that the total number of weevils collected at the augmentation sites was greater than in the &quot;no-weevil&quot; sites and greatly increased from one year to the next (Table 1). These findings indicate that the weevil is surviving and thriving in the environment. Table 2 shows that the EWM biomass at the Cedar location was substantially less in the augmentation area as compared to the &quot;no-weevil&quot; control area (although a similar result was not observed at the Neshobe location). There was less EWM in both augmentation sites at the end of 1994 compared to 1993 (Table 3).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table 1 - A comparison of overall total number of weevils collected on stem transects in Lake Bomoseen at augmentation and control sites between 1993 and 1994&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;A comparison of overall total number of weevils collected on stem transects in Lake Bomoseen at augmentation and control sites between 1993 and 1994&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;2&quot;&gt;Augmentation sites&lt;/th&gt;
+			&lt;th colspan=&quot;2&quot;&gt;No-weevil control sites&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Location&lt;/td&gt;
+			&lt;td&gt;1993&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+			&lt;td&gt;1993&lt;/td&gt;
+			&lt;td&gt;1994&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cedar&lt;/td&gt;
+			&lt;td&gt;34&lt;/td&gt;
+			&lt;td&gt;73&lt;/td&gt;
+			&lt;td&gt;25&lt;/td&gt;
+			&lt;td&gt;32&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Neshobe&lt;/td&gt;
+			&lt;td&gt;28&lt;/td&gt;
+			&lt;td&gt;80&lt;/td&gt;
+			&lt;td&gt;23&lt;/td&gt;
+			&lt;td&gt;54&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;5&quot;&gt;Source: Sheldon, 1995.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Table 2 - Results of 1994 quantitative invertebrate and plant sampling in Lake Bomoseen (means ± 1 S.E.) after 2 years of augmentation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;Results of 1994 quantitative invertebrate and plant sampling in Lake Bomoseen (means ± 1 S.E.) after 2 years of augmentation.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;2&quot;&gt;Augmentation sites&lt;/th&gt;
+			&lt;th colspan=&quot;2&quot;&gt;No-weevil control sites&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Location&lt;/td&gt;
+			&lt;td&gt;dry wt (g)¹&lt;/td&gt;
+			&lt;td&gt;# weevils²&lt;/td&gt;
+			&lt;td&gt;dry wt (g)&lt;/td&gt;
+			&lt;td&gt;# weevils&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cedar&lt;/td&gt;
+			&lt;td&gt;21.32&lt;br /&gt;
+				(1.96)&lt;/td&gt;
+			&lt;td&gt;0.67&lt;br /&gt;
+				(0.44)&lt;/td&gt;
+			&lt;td&gt;30.22&lt;br /&gt;
+				(2.88)&lt;/td&gt;
+			&lt;td&gt;2.33&lt;br /&gt;
+				(0.44)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Neshobe&lt;/td&gt;
+			&lt;td&gt;34.59&lt;br /&gt;
+				(7.94)&lt;/td&gt;
+			&lt;td&gt;1.33&lt;br /&gt;
+				(0.44)&lt;/td&gt;
+			&lt;td&gt;27.96&lt;br /&gt;
+				(6.46)&lt;/td&gt;
+			&lt;td&gt;1.00&lt;br /&gt;
+				(1.33)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;5&quot;&gt;¹ Weights are total dry weight of &lt;em&gt;Myriophyllum spicatum&lt;/em&gt;.&lt;br /&gt;
+				² Number of weevils per sample plant.&lt;br /&gt;
+				Source: Sheldon, 1995.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Table 3 - Comparison of 1993 and 1994 EWM biomass at weevil augmentation sites in Lake Bomoseen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;Comparison of 1993 and 1994 EWM biomass at weevil augmentation sites in Lake Bomoseen.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Location&lt;/th&gt;
+			&lt;th&gt;1993 dry weight (g)¹&lt;/th&gt;
+			&lt;th&gt;1994 dry weight (g)¹&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cedar&lt;/td&gt;
+			&lt;td&gt;27.38 (5.76)&lt;/td&gt;
+			&lt;td&gt;21.32 (1.96)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Neshobe&lt;/td&gt;
+			&lt;td&gt;62.50 (10.60)&lt;/td&gt;
+			&lt;td&gt;34.59 (7.94)&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;¹ Values are mean (± 1 S.E.) total dry weight.&lt;br /&gt;
+				Source: Sheldon, 1995.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;Although the conclusions drawn from the Lake Bomoseen results are preliminary, the increased weevil populations and the decreased EWM biomass at the weevil introduction sites in Lake Bomoseen suggest that the weevil may be able to limit the nuisance plant over time. Laboratory and field experiments have documented the correlation between weevil populations and negative effects on EWM and have illustrated the weevil&#039;s apparent specificity in feeding on EWM as opposed to other native aquatic plants (Creed and Sheldon, 1993, 1994, 1995; Creed et al., 1992; Newman et al., 1996a; Sheldon, 1995; Sheldon and Creed, 1995). These preliminary results suggest that Euhryhchiopsis lecontei could potentially act as a biological control for the introduced macrophyte EWM and could provide a unique management opportunity for lakes with problems similar to those experienced by Lake Bomoseen.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;other&quot;&gt;Other Examples of Weevil-Associated Eurasian Watermilfoil Declines&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Fish Lake, Wisconsin&lt;/strong&gt;&lt;br /&gt;
+	At least three lakes in Wisconsin have experienced EWM crashes that are believed to be associated with the aquatic weevil Euhrychiopsis lecontei—Devil&#039;s Lake in Sauk County, Lake Wingra in Dane County, and Fish Lake in Dane County (Lillie and Helsel, 1997). Of the three, Fish Lake is the best documented case of an EWM crash.&lt;/p&gt;
+
+&lt;p&gt;Fish Lake, a 100-hectare (247-acre) seepage lake located in the northwest corner of Dane County, was the subject of an extensive fish research-management study conducted by the Wisconsin Department of Natural Resources (WDNR). The study included monitoring of EWM beds from 1991 to 1995.&lt;/p&gt;
+
+&lt;p&gt;During the early years of the study, EWM covered approximately 40 hectares (100 acres) or nearly 40 percent of the total lake bottom (Lillie, 1996). In 1991, EWM represented 93 percent of the total plant biomass in the lake; that percentage decreased to 77 percent by 1994 (Lillie, 1996). EWM biomass in all vegetated sites of the lake decreased from 532 g/m2 in 1991 to 268 g/m2 in 1994 (Lillie, 1996). These substantial declines in biomass and its relative dominance indicated that the population in Fish Lake was in the process of crashing by 1994. These declines continued in 1995.&lt;/p&gt;
+
+&lt;p&gt;During the study, a large population of weevils was documented to exist in Fish Lake. Given the occurrence of the weevil in the lake and documented feeding habits of the weevil (Creed and Sheldon, 1993, 1994; Creed et al, 1992; Newman et al, 1996a), it is possible that the weevil is largely responsible for the continual decline of EWM populations in Fish Lake.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;McCullom Lake, Illinois&lt;/strong&gt;&lt;br /&gt;
+	McCullom Lake is a 99-hectare (244-acre) glacial lake in the City of McHenry in northeastern Illinois. A Phase I Diagnostic/Feasibility Study was conducted for McCullom Lake from 1989-1992 under a grant from U.S. EPA&#039;s Clean Lakes Program. This study identified many factors affecting the lake&#039;s ecology and recreation, including colonization of the lake by EWM.&lt;/p&gt;
+
+&lt;p&gt;In 1993, the City of McHenry received a Phase II Restoration/Implementation grant from the Clean Lakes Program, thereby enabling it to implement the restoration and protection strategies identified in the Phase I study. An important part of the Phase II project was to re-establish a balanced community of aquatic plants since EWM had spread to about 70 percent of the lake by the summer of 1994 and was choking out many of the native plant species.&lt;/p&gt;
+
+&lt;p&gt;Because of the lake&#039;s small watershed (249 hectares [616 acres]) and limited motorized watercraft access, the potential for EWM re-infestation was deemed comparatively small—but only if the existing EWM growth could be completely eliminated (or close to it). Consequently, a &quot;one-time&quot; herbicide application was planned to selectively remove the existing EWM plants. Future re-infestations would be controlled at an early stage through hand pulling and other non-herbicide control strategies.&lt;/p&gt;
+
+&lt;p&gt;However, just prior to the herbicide application in early spring 1995, almost no trace of EWM could be found. Soon after, the aquatic weevil Euhrychiopsis lecontei was identified on a few floating fragments of EWM. These fragments (and the isolated EWM beds that later emerged) exhibited extensive damage characteristic of weevil activity.&lt;/p&gt;
+
+&lt;p&gt;The EWM has remained suppressed well below nuisance levels through 1996 and 1997. The McCullom Lake Clean Lakes Program grant recently has been extended for an additional year to continue monitoring the EWM and weevil communities and to document their interactions.&lt;/p&gt;
+
+&lt;p&gt;(Source: Robert Kirschner, personal communication)&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cenaiko Lake, Minnesota&lt;/strong&gt;&lt;br /&gt;
+	Ongoing research supported by the Minnesota Department of Natural Resources (MNDNR) and conducted by researchers at the University of Minnesota is examining the possibilities of the weevil Euryhchiopsis lecontei as a biological control agent for EWM. Researchers have examined nine lakes (eight in Minnesota and one in Wisconsin) that had existing EWM and weevil populations.&lt;/p&gt;
+
+&lt;p&gt;Of the nine sites, the most pronounced weevil infestation was found in Cenaiko Lake in Anoka County, Minnesota. Weevils caused severe damage to the EWM plants in Cenaiko Lake, most likely resulting in the plants&#039; decreased abundance. EWM biomass (wet weight) at Cenaiko Lake declined from 974 g/m2 in July 1996 to 239 g/m2 in September 1996 (Newman et al., 1996b). Researchers estimate that the biomass in June 1996 (before sampling) was close to 2,000 g/m2 (Newman et al., 1996b). In July 1996, EWM was approximately 50 percent of the total plant biomass in the lake; by September 1996, this value had decreased to 14 percent.&lt;/p&gt;
+
+&lt;p&gt;Monitoring of Cenaiko Lake did not begin until June 1996 when a dense population of weevils was discovered during reconnaissance studies for introduction sites (Newman et al., 1996b). Cenaiko Lake was then added to the list of regular sampling sites. Plant samples collected at Cenaiko Lake, as well as at other sites, were processed for invertebrates, plant biomass, and stem damage.&lt;/p&gt;
+
+&lt;p&gt;Because monitoring is still ongoing, sampling and data are limited for this study. However, the preliminary results indicate the weevils in Cenaiko Lake may be responsible for the natural decline of EWM.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Aiken, S. G., P.R. Newroth, and I. Wile. 1979. The biology of Canadian weeds. 34. Myriophyllum spicatum L. Canadian Journal of Plant Science. 59:201-215. Cited in Sheldon and Creed, 1995.&lt;/p&gt;
+
+&lt;p&gt;Creed, R.P., Jr., S.P. Sheldon, and D.M. Cheek. 1992. The effect of Herbivore Feeding on the Buoyancy of Eurasian Watermilfoil. Journal of Aquatic Plant Management 30:75-76.&lt;/p&gt;
+
+&lt;p&gt;Creed, R.P., Jr., and S.P. Sheldon. 1993. The effect of feeding by a North American weevil, Euhrychiopsis lecontei, on Eurasian watermilfoil (Myriophyllum spicatum). Aquatic Botany 45:245-256.&lt;/p&gt;
+
+&lt;p&gt;Creed, R.P., Jr., and S.P. Sheldon. 1994. The effect of two herbivorous insect larvae on Eurasian watermilfoil. Journal of Aquatic Plant Management 32:21-26.&lt;/p&gt;
+
+&lt;p&gt;Creed, R.P., Jr., and S.P. Sheldon. 1995. Weevils and watermilfoil: Did a North American herbivore cause the decline of an exotic weed? Ecological Applications 5(4): 1113-1121.&lt;/p&gt;
+
+&lt;p&gt;Grace, J.B., and R.G. Wetzel. 1978. The production biology of Eurasian watermilfoil: a review. Journal of Aquatic Plant Management 16:1-11. Cited in Creed and Sheldon, 1994.&lt;/p&gt;
+
+&lt;p&gt;Hanson, T., C. Eliopoulos, and A. Walker. 1995. Field Collection, Laboratory Rearing and In-lake Introductions of the Herbivorous Aquatic Weevil, Euhrychiopsis lecontei, in Vermont. Vermont Department of Environmental Conservation, Waterbury, VT.&lt;/p&gt;
+
+&lt;p&gt;Kirschner, R. 1997. Personal communication. Natural Resources Department, Northeastern Illinois Planning Commission, Chicago, IL. July 16, 1997.&lt;/p&gt;
+
+&lt;p&gt;Lillie, R.A. 1996. A quantitative survey of the floating-leafed and submersed macrophytes of Fish Lake, Dane County, Wisconsin. Transactions of the Wisconsin Academy of Arts and Sciences 84:111-125.&lt;/p&gt;
+
+&lt;p&gt;Lillie, R.A., and D. Helsel. 1997. A native weevil attacks Eurasian watermilfoil. Wisconsin Department of Natural Resources Research Management Findings 40(March): 1-4.&lt;/p&gt;
+
+&lt;p&gt;Nichols, S.A., and B.H. Shaw. 1986. Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, Potamogeton crispus, and Elodea canadensis. Hydrobiologia 131:3-21. Cited in Creed and Sheldon, 1994.&lt;/p&gt;
+
+&lt;p&gt;Newman, R.M., K.L. Holmberg, D.D. Biesboer, and B.G. Penner. 1996a. Effects of a potential biocontrol agent, Euhrychiopsis lecontei, on Eurasian watermilfoil in experimental tanks. Aquatic Botany 53:131-150.&lt;/p&gt;
+
+&lt;p&gt;Newman, R.M., D.W. Ragsdale, and D.D. Biesboer. 1996b. Can Eurasian Watermilfoil Be Managed in Minnesota by Biological Control With Native or Naturalized Insects? Third progress report to the Minnesota Department of Natural Resources, Ecological Services, St. Paul, MN.&lt;/p&gt;
+
+&lt;p&gt;Sheldon, S. 1995. The Potential for Biological Control of Eurasian Watermilfoil (Myriophyllum spicatum) 1990-1995. Final report. Department of Biology, Middlebury College, Middlebury, VT.&lt;/p&gt;
+
+&lt;p&gt;Sheldon, S.P., and R.P. Creed, Jr. 1995. Use of a native insect as a biological control for an introduced weed. Ecological Applications 5(4):1122-1132.&lt;/p&gt;
+
+&lt;p&gt;Smith, C.M., and J.W. Barko. 1990. Ecology of Eurasian watermilfoil. Journal of Aquatic Plant Management 28:55-64.&lt;/p&gt;
+
+&lt;div class=&quot;box simple&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;This case study was prepared by Tetra Tech, Inc., Fairfax, VA, under the direction of Anne Weinberg in EPA&#039;s Office of Wetlands, Oceans and Watersheds, Watershed Branch. The authors extend their appreciation to those who helped to review the case study, especially Robert Creed at Appalachian State University and Holly Crosson of the Vermont Department of Environmental Conservation. To obtain copies of this case study, contact your EPA Regional Clean Lakes Coordinator, or request a copy from:&lt;/p&gt;
+
+		&lt;p&gt;National Center for Environmental Publications and Information (NCEPI)&lt;br /&gt;
+			11029 Kenwood Road, Building 5&lt;br /&gt;
+			Cincinnati, OH 45424&lt;br /&gt;
+			FAX (513) 489-8695&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jan 2016 19:26:05 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">132019 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lakes Meetings/Training</title>
+    <link>https://www.epa.gov/lakes/lakes-meetingstraining</link>
+    <description>&lt;h2&gt;Lakes Meetings/Training&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Every Year in July
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.nalms.org/home/programs/lakes-appreciation-month/lake-appreciation-month-home.cmsx&quot;&gt;Lake Awareness Month&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.nalms.org/home/programs/secchi-dip-in/secchi-dip-in-and-lake-appreciation-month.cmsx&quot;&gt;Secchi Dip-In&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;November 1 – 4, 2016&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://www.nalms.org/home/conferences-and-events/nalms-upcoming-symposium/nalms-symposium.cmsx&quot;&gt;North American Lake Management Society (NALMS) 35th International Symposium&lt;/a&gt; - Science to Stewardship: Balancing Economic Growth With Lake Sustainability&lt;br /&gt;
+	Banff, Canada&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;May 2-6, 2016&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://www.nalms.org/home/conferences-and-events/national-monitoring-conference/National%20Monitoring%20Conference.cmsx&quot;&gt;10th National Monitoring Conference: Working Together for Clean Water&lt;/a&gt;&lt;br /&gt;
+	Tampa, FL&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;Distance Learning Training Regarding Lakes Management&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.waterontheweb.org/under/lakeecology/&quot;&gt;Understanding Lake Ecology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A 21-page on-line limnology primer prepared by the Water on the Web program in Minnesota.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Oct 2015 16:21:11 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">123609 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Lakes Awareness Publications Request Form</title>
+    <link>https://www.epa.gov/lakes/lakes-awareness-publications-request-form</link>
+    <description>&lt;p&gt;Office of Wetlands, Oceans, and Watersheds Lakes Awareness publications order form.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218361&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/lakes-form.pdf&quot; type=&quot;application/pdf; length=179162&quot; class=&quot;file-link&quot;&gt;Lakes Awareness Publications Order Form (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 179 K)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    A printable request form.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 13:52:37 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">122499 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Clean Lakes Need Healthy Lakeshores</title>
+    <link>https://www.epa.gov/lakes/clean-lakes-need-healthy-lakeshores</link>
+    <description>&lt;p&gt;Promotional keychain with reminders for keeping lakes healthy.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218351&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/clean_lakes_healthy_shores_keychain.pdf&quot; type=&quot;application/pdf; length=173699&quot; class=&quot;file-link&quot;&gt;Clean Lakes Need Healthy Lakeshores; Healthy Lakeshores Need You Keychain (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 174 K, 
+  October 2010, 
+  EPA 840-E-10-001)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Image of a keychain promoting clean lakes.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 13:47:20 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">122493 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Open the Door to Clean Lakes</title>
+    <link>https://www.epa.gov/lakes/open-door-clean-lakes</link>
+    <description>&lt;p&gt;Tips for making a difference in preserving healthy lakeshores.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218339&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/updated_door_hanger8-31.pdf&quot; type=&quot;application/pdf; length=110218&quot; class=&quot;file-link&quot;&gt;Clean Lakes Door Hanger (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 110 K, 
+  October 2010, 
+  EPA 841-E-10-002)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    A door hanger with tips for healthy lakeshores.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 13:43:19 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">122487 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Healthy Lakes and Higher Property Values Factsheet</title>
+    <link>https://www.epa.gov/lakes/healthy-lakes-and-higher-property-values-factsheet</link>
+    <description>&lt;p&gt;Real estate professionals are important partners in maintaining and restoring the quality of our nation’s lakes. “Lakeshore property is in demand because of the amenities or benefits [it] provide[s] its owners, such as water based recreation possibilities, an aesthetic setting for a home, tranquility away from urban and commercial life, and perhaps the privilege or esteem of owning an increasingly scarce and valuable resource.” 1 Since the value of lakeshore property is tied to the quality of the adjacent lake, real estate professionals have a vested interest in helping homebuyers and communities restore and protect their lakes.&lt;/p&gt;
+
+&lt;p&gt;In April 2010, the U.S. Environmental Protection Agency published the National Lakes Assessment (NLA), the first-ever baseline study of the condition of the nation’s lakes. The NLA finds that 44% of U.S. lakes are in fair or poor condition, and that, of the problems assessed, poor lakeshore habitat has the greatest impact on lake health.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218321&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/healthy_lakes_and_higher_property_values.pdf&quot; type=&quot;application/pdf; length=2751489&quot; class=&quot;file-link&quot;&gt;Healthy Lakes and Higher Property Values (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 3 MB, 
+  October 2010, 
+  EPA 840-F-10-002)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Facts and resources to help real estate professionals protect our nation’s lakes and lake shorelines  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 13:36:50 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">122483 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Learning About Lakefront Property</title>
+    <link>https://www.epa.gov/lakes/learning-about-lakefront-property</link>
+    <description>&lt;p&gt;Scenic lakes have lured families to their shores for generations to fish, boat and swim. Once at the lake, people discover more – like the fun of seeing a line of ducklings paddling toward the shore or the sight of a beautiful blue heron wading through shallow waters.&lt;/p&gt;
+
+&lt;p&gt;When you buy lakefront property, you assume part of the responsibility of caring for the lake. Your actions on the land as well as in the water affect the health of the lake and everyone’s enjoyment of it.&lt;/p&gt;
+
+&lt;p&gt;If you are thinking about buying lakefront property, this guide is meant for you. A little time invested in learning about lakefront living will pay back sizable dividends in matching your expectations to reality.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-218303&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/learning_lakefront_property.pdf&quot; type=&quot;application/pdf; length=9718471&quot; class=&quot;file-link&quot;&gt;Lakefront Property Pamphlet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 10 MB, 
+  2009)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    A guide of helpful tips to consider when purchasing lakefront property.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 23 Oct 2015 13:28:43 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">122475 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 19:03:47, expires @ 2017-01-26 07:03:47, lifetime 12 hours -->

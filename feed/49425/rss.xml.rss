@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/49425/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Risk-Screening Environmental Indicators (RSEI) Model </title>
+    <link>https://www.epa.gov/feed/49425/rss.xml</link>
+    <description>Updated Risk-Screening Environmental Indicators (RSEI) Model  content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/49425/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EasyRSEI Online Help - RSEIQueries</title>
+    <link>https://www.epa.gov/rsei/easyrsei-online-help-rseiqueries</link>
+    <description>&lt;ul class=&quot;tabs vertical&quot;&gt;&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help&quot;&gt;EasyRSEI Online Help&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-rankings&quot;&gt;Rankings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-trends&quot;&gt;Trends&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-facility-release-data&quot;&gt;Facility Release Data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-easyquery&quot;&gt;EasyQuery&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-model-data&quot;&gt;Model Data&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;/rsei/easyrsei-online-help-rseiqueries&quot;&gt;RSEI Queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The RSEI Queries database has been populated with links to the data tables and example queries that can be customized for specific results.&lt;/p&gt;
+
+&lt;p&gt;Example: The query “qryRSEIAnnualTrend01” is set up to produce an annual trend for 2001-current year. It can be modified for any time period; however, you must be sure to match the time period covered with the set of chemicals used to produce the trend. In the criteria row for the “Year” field, the criterion is set for the relevant time period, and the Core01 chemical flag is set to “True”.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:502px;&quot;&gt;&lt;img alt=&quot;Example of a RSEI Query - 2001 to current year&quot; height=&quot;340&quot; width=&quot;502&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/rseiqueries_annual_trend_2001.png&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Annual Trend Query for period 2001-current year&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you wanted to produce a time trend for the period 1995-current, you would modify the query as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:504px;&quot;&gt;&lt;img alt=&quot;Example of a RSEI Query - 1995 to current year&quot; height=&quot;331&quot; width=&quot;504&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2017-01/rseiqueries_annual_trend_1995.png&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Annual Trend Query for period 1995-current year&lt;/span&gt;&lt;/span&gt;Note that both the criteria for Submission Year and the Core Chemical Flag used to limit the chemicals selected have changed.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Query Tips:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;To keep an example query for future use, use the File...Save Object As function to make a copy before you modify it.&lt;/li&gt;
+	&lt;li&gt;Media is included in most of the queries. If you don&#039;t want your results broken out by media (stack air, direct water, etc.) just delete that column from the query.&lt;/li&gt;
+	&lt;li&gt;Some RSEI queries, especially ones that are broken out by facility, are very large, and may take a long time to run, depending on your computer. To avoid waiting each time you want to examine a dataset, you may want to save a query results as an Access table in the database (using a Make Table query).  Be aware that the resulting tables may be very large, and if you create multiple tables, you may end up with a very large Access database. You may even approach the limits of the what your computer or Access can manage (Access 2007 and 2010 have a 2GB limit for the whole database). It is a good idea to periodically use the Compact and Repair function under Database Tools to keep the database to the smallest size possible.&lt;/li&gt;
+	&lt;li&gt;RSEI results are stored at the level of the release pathway (which is more granular than media), so in most cases you will want to use the Totals function in the query to group and sum the results.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Important note: &lt;/strong&gt;Both the Release table and the Elements table contain a field with Pounds (Pounds Released and PoundsPT, respectively). It is very important to always use only the PoundsPT metric in any query that includes the Elements table. Using the Pounds Released field in the Submission table in a query where the Submission table and Elements table are joined will result in double counting.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 18 Jan 2017 18:48:12 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">169415 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Risk-Screening Environmental Indicators (RSEI) Methodology Version 2.3.5</title>
+    <link>https://www.epa.gov/rsei/risk-screening-environmental-indicators-rsei-methodology-version-235</link>
+    <description>&lt;p&gt;&lt;span&gt;Detailed information on the data and methods used in the Risk-Screening Environmental Indicators (RSEI) Model Version 2.3.5, January 2017.&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-346725&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2017-01/documents/rsei_methodology_v2.3.5_0.pdf&quot; type=&quot;application/pdf; length=744143&quot; class=&quot;file-link&quot;&gt;RSEI Methodology Version 2.3.5 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(91 pp, 744 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 17 Jan 2017 21:32:50 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">169331 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Results Map</title>
+    <link>https://www.epa.gov/rsei/rsei-results-map</link>
+    <description>&lt;h2&gt;Risk-Screening Environmental Indicators (RSEI): Explore RSEI Scores for Facilities, Counties and States for 2015&lt;/h2&gt;
+
+&lt;p&gt;Click on a state below to see its RSEI Score compared to the RSEI Score of other states. Enter an address or place name in the box at the top right or zoom in on the map using the plus sign to see rankings for counties and individual facilities. &lt;a href=&quot;/rsei/understanding-rsei-results&quot;&gt;More information to help you understand RSEI results&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: It may take a moment for the map to load.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe height=&quot;600&quot; scrolling=&quot;no&quot; src=&quot;https://epa.maps.arcgis.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=a8725a16d6204f6aade14d03d1120f04&amp;amp;gcsextent=-140.1855,15.2842,-52.5586,56.8009&amp;amp;displayslider=true&amp;amp;displaylegend=true&amp;amp;displaysearch=true&quot; width=&quot;725&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;https://epa.maps.arcgis.com/home/webmap/viewer.html?webmap=a8725a16d6204f6aade14d03d1120f04&amp;amp;extent=-140.1855,15.2842,-52.5586,56.8009&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;View Larger Map&lt;/strong&gt;&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 02 Jun 2016 19:39:23 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">151035 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Data Dictionary </title>
+    <link>https://www.epa.gov/rsei/rsei-data-dictionary</link>
+    <description>&lt;p&gt;This set of tables describes all of the data tables and fields used in EPA&#039;s Risk-Screening Environmental Indicators (RSEI) model and results data sets, and is also available in PDF format: &lt;a href=&quot;/rsei/risk-screening-environmental-indicators-rsei-data-dictionary&quot;&gt;RSEI Data Dictionary&lt;/a&gt;. Each table listed below comes with information about where it can be found (e.g., in EasyRSEI, or in the Geographic Microdata).&lt;/p&gt;
+
+&lt;p&gt;Note that many of these tables link to other tables using keys like FacilityNumber, ChemicalNumber, and ReleaseNumber. The key values change with each version of RSEI, so you must use the same version for all tables, including the Microdata. The only exceptions are the Census Crosswalks, Population data tables, and the Shapefiles, which do not change with each RSEI version (however, they do change occasionally, so you should use the most recent version of each).&lt;/p&gt;
+
+&lt;p&gt;Additional information can be found in the &lt;a href=&quot;/rsei/risk-screening-environmental-indicators-rsei-methodology-version-235&quot;&gt;RSEI methodology document&lt;/a&gt; and in the &lt;a href=&quot;/rsei/documentation-risk-screening-environmental-indicators-rsei-geographic-microdata-rsei-gm&quot;&gt;Geographic Microdata documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;6&quot; style=&quot;width:100px&quot;&gt;                          Tables in the RSEI Data Dictionary&lt;/th&gt;
+			&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-facility-data&quot;&gt;Facility&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-chemical-data&quot;&gt;Chemical&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-submission-data&quot;&gt;Submission&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-category-data&quot;&gt;Category&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-averaged-block-group-microdata&quot;&gt;Block Group Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-population-data-us-decennial-census&quot;&gt;Population Data&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-site-data&quot;&gt;Offsite&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-maximum-contaminant-level-mcl-data&quot;&gt;MCL&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-release-data&quot;&gt;Release&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-disaggregated-microdata&quot;&gt;Disaggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-water-microdata&quot;&gt;Water Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-shapefiles-grid-geography&quot;&gt;Shapefiles&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-north-american-industry-classification-system-naics-data&quot;&gt;NAICS&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-media-data&quot;&gt;Media&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-elements-data&quot;&gt;Elements&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-aggregated-microdata&quot;&gt;Aggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-census-crosswalks&quot;&gt;Census Crosswalks&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Thu, 12 May 2016 20:44:15 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149479 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Bibliography</title>
+    <link>https://www.epa.gov/rsei/rsei-bibliography</link>
+    <description>&lt;p&gt;The following books and articles use results from EPA&#039;s Risk-Screening Environmental Indicators (RSEI) model. These resources are provided to users as examples; EPA does not endorse the views or conclusions of any authors. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/rsei/forms/contact-us-about-rsei-model&quot;&gt;Contact Us&lt;/a&gt; to submit your analysis using RSEI for listing on this page.&lt;/p&gt;
+
+&lt;p&gt;Abel, Troy D. 2008. Skewed Riskscapes and Environmental Injustice: A Case Study of Metropolitan St. Louis. &lt;em&gt;Environmental Management &lt;/em&gt;42:232–248.&lt;/p&gt;
+
+&lt;p&gt;Abel, Troy D. Unjust Riskscapes and Skewed Political Landscapes: The Evolving Science of Environmental Injustice. Prepared for delivery at the 2003 Annual Meetings of the American Political Science Association, August 28–August 31.&lt;/p&gt;
+
+&lt;p&gt;Abel, T. D, M. Stephan, and M. E Kraft. 2007. Environmental information disclosure and risk reduction among the states. &lt;em&gt;State &amp;amp; Local Government Review&lt;/em&gt;: 153–165.&lt;/p&gt;
+
+&lt;p&gt;Abel, T., &amp;amp; White, J. (2011) Skewed Riskscapes and Gentrified Inequities: Environmental Exposure Disparities in Seattle, Washington. &lt;em&gt;American Journal of Public Health, 101 &lt;/em&gt;(S1), S246-S254.&lt;/p&gt;
+
+&lt;p&gt;Abel, T., White, J., &amp;amp; Clauson, S. (2015). Risky Business: Sustainability and Industrial Land Use Across Seattle’s Gentrifying Riskscape. &lt;em&gt;Sustainability 2015, 7,&lt;/em&gt; 15718-15753.&lt;/p&gt;
+
+&lt;p&gt;Ard, K. J. 2013. Changes in Exposure to Industrial Air Pollution across the United States from 1995 to 2004: The Role of Race, Income, and Segregation. (Doctoral dissertation, University of Michigan). ProQuest Distinguished Dissertation Award for 2013.&lt;/p&gt;
+
+&lt;p&gt;Ard, K. (2015). Trends in exposure to industrial air toxins for different racial and socioeconomic groups: A spatial and temporal examination of environmental inequality in the U.S. from 1995 to 2004. &lt;em&gt;Social Science Research,&lt;/em&gt; &lt;em&gt;53&lt;/em&gt;, 375–390.&lt;/p&gt;
+
+&lt;p&gt;Ash, M., Boyce, J. (2016). Assessing the jobs-environment relationship with matched data from US EEOC and US EPA. Working Paper 2016-03. University of Massachusetts – Amherst. &lt;/p&gt;
+
+&lt;p&gt;Ash, Michael and James K. Boyce. 2010. Measuring corporate environmental justice performance. &lt;em&gt;Corporate Social Responsibility and Environmental Management &lt;/em&gt;DOI: 10.1002/csr.238.&lt;/p&gt;
+
+&lt;p&gt;Ash, Michael, James K. Boyce, Grace Chang, Manuel Pastor, Justin Scoggins, and Jennifer Tran. 2009. &lt;em&gt;Justice in the Air: Tracking Toxic Pollution from America’s Industries and Companies to our States, Cities, and Neighborhoods. &lt;/em&gt;Political Economy Research Institute (Amherst, MA) and Program for Environmental and Regional Equity (Los Angeles, CA).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ash, Michael, James K. Boyce, Grace Chang, and Helen Scharber. 2013. Is Environmental Justice Good for White Folks? Industrial Air Toxics Exposure in Urban America. &lt;em&gt;Social Science Quarterly&lt;/em&gt;, 94(3): 616–636.&lt;/p&gt;
+
+&lt;p&gt;Ash, Michael and T. Robert Fetter. Who Lives on the Wrong Side of the Environmental Tracks? &lt;em&gt;Social Science Quarterly&lt;/em&gt;, 85(2):441-462, 2004.&lt;/p&gt;
+
+&lt;p&gt;Bae, H. et al. 2008. Information Disclosure Policy: Do States&#039; Data Processing Efforts Help More than the Information Disclosure Itself? &lt;em&gt;NBER Working Paper&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Banzhaf, H. Spencer and Randall P. Walsh. 2008. Do People Vote with Their Feet? An Empirical Test of Tiebout’s Mechanism. &lt;em&gt;American Economic Review&lt;/em&gt;, 98:3, 843–863.&lt;/p&gt;
+
+&lt;p&gt;Boone, C., Fragkias, M., Buckley, B. &amp;amp; Grove, M. (2014). A long view of polluting industry and environmental justice in Baltimore. &lt;em&gt;Cities, 36&lt;/em&gt;, 41–49.&lt;/p&gt;
+
+&lt;p&gt;Bouiver, Rachel. Distribution of income and toxic emissions in Maine, United States: Inequality in two dimensions. &lt;em&gt;Ecological Economics&lt;/em&gt;, Volume 102, June 2014, pp. 39-47.&lt;/p&gt;
+
+&lt;p&gt;Bosman, M. Martin. 2010. Spatial and Environmental Injustice in an American Metropolis: A Study of Tampa Bay, Florida. Amherst, New York: Cambria Press. &lt;/p&gt;
+
+&lt;p&gt;Boyce, J. K., &amp;amp; Pastor, M. 2013. Clearing the air: incorporating air quality and environmental justice into climate policy. &lt;em&gt;Climatic Change&lt;/em&gt;, 120(4), 801-814.&lt;/p&gt;
+
+&lt;p&gt;Boyce, J. K., &amp;amp; Pastor, M. 2012. &lt;em&gt;Cooling the Planet, Clearing the Air: Climate Policy, Carbon Pricing, and Co-Benefits&lt;/em&gt;. Portland, OR: Economics for Equity and the Environment; Washington, DC: Joint Center for Political and Economic Studies. Online at &lt;a href=&quot;https://works.bepress.com/james_boyce/42/&quot;&gt;https://works.bepress.com/james_boyce/42/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boyce, J., Zwickl, K. &amp;amp; Ash, M. (2014). Three Measures of Environmental Inequality. Working Paper No. 12. Institute for New Economic Thinking. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Boyce, J., Zwickl, K. &amp;amp; Ash, M. (2016). Measuring environmental inequality. &lt;em&gt;Ecological Economics, 124&lt;/em&gt;, 114–123.&lt;/p&gt;
+
+&lt;p&gt;California Environmental Protection Agency Air Resources Board. 2010. Proposed Screening Method for Low-Income Communities Highly Impacted by Air Pollution for AB 32 Assessments. Release Date: April 21, 2010. &lt;a href=&quot;http://www.arb.ca.gov/cc/ab32publichealth/communitymethod.pdf&quot;&gt;http://www.arb.ca.gov/cc/ab32publichealth/communitymethod.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Caren, Neal, and Ethan Schoolman. 2008. “Closing the Clean Air Gap? Environmental Justice in the 1990s.” Available at: &lt;a href=&quot;http://citation.allacademic.com/meta/p_mla_apa_research_citation/2/3/9/7/7/p239778_index.html&quot;&gt;http://citation.allacademic.com/meta/p_mla_apa_research_citation/2/3/9/7/7/p239778_index.html&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chakraborty, J., Maantay, J. &amp;amp; Brender, J. (2011). Disproportionate Proximity to Environmental Health Hazards: Methods, Models, and Measurement. &lt;em&gt;American Journal of Public Health 101&lt;/em&gt;(S1), S27-S36.&lt;/p&gt;
+
+&lt;p&gt;Clark, B. R. (2012). Development of an Air Pollution Asthma Risk-Screening Model for Ohio Elementary Schools (Doctoral dissertation, The Ohio State University).&lt;/p&gt;
+
+&lt;p&gt;Collins, M. B. (2011). Risk-Based Targeting: Identifying Disproportionalities in the Sources and Effects of Industrial Pollution. American Journal of Public Health: December 2011, Vol. 101, No. S1, pp. S231-S237. doi: 10.2105/AJPH.2011.300120&lt;/p&gt;
+
+&lt;p&gt;Collins, M., Munoz, I. &amp;amp; Jaja, J. (2016). Linking ‘toxic outliers’ to environmental justice communities. &lt;em&gt;Environ. Res. Lett., 11.&lt;/em&gt; doi:10.1088/1748-9326/11/1/015004&lt;/p&gt;
+
+&lt;p&gt;Cong, Y., Freedman, M. &amp;amp; Park, J. (2014). Tone at the top: CEO environmental rhetoric and environmental performance. &lt;em&gt;Advances in Accounting&lt;/em&gt;, &lt;em&gt;30 &lt;/em&gt;(2), 322–327.&lt;/p&gt;
+
+&lt;p&gt;Cory, Dennis C. On Notions of Fairness in Environmental Justice. Working Paper. University of Arizona Department of Agricultural and Resource Economics.&lt;/p&gt;
+
+&lt;p&gt;Currie, J., Davis, L., Greenstone, M. &amp;amp; Walker, R. (2015). Environmental Health Risks and Housing Values: Evidence from 1,600 Toxic Plant Openings and Closings. &lt;em&gt;American Economic Review 2015, 105 &lt;/em&gt;(2), 678–709.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Delmas, Magali and Vered Doctori Blass. 2010. Measuring Corporate Environmental Performance: the Trade-Offs of Sustainability Ratings. &lt;em&gt;Business Strategy and the Environment &lt;/em&gt;19, 245–260.&lt;/p&gt;
+
+&lt;p&gt;Dombrowski, Janine M. 2000. Cross-Media Transfers of Pollution and Risk. Doctoral dissertation, University of Massachusetts Amherst.&lt;/p&gt;
+
+&lt;p&gt;Downey, L. (2006). Environmental Racial Inequality in Detroit. &lt;em&gt;Oxford Journals Social Sciences Social Forces, 85 (&lt;/em&gt;2), 771-796.&lt;/p&gt;
+
+&lt;p&gt;Downey, Liam. 2007. US Metropolitan-area Variation in Environmental Inequality Outcomes. &lt;em&gt;Urban Studies &lt;/em&gt;44: 953-977, doi:10.1080/00420980701256013.&lt;/p&gt;
+
+&lt;p&gt;Downey, Liam et al. 2008. Environmental Inequality in Metropolitan America. &lt;em&gt;Organization &amp;amp;Environment &lt;/em&gt;21 (3): 270-294.&lt;/p&gt;
+
+&lt;p&gt;Downey, Liam and Brian Hawkins. 2008. Race, Income, and Environmental Inequality in the United States. &lt;em&gt;Sociological Perspectives, &lt;/em&gt;December 1; 51 (4): 759–781.&lt;/p&gt;
+
+&lt;p&gt;Downey, Liam and Brian Hawkins. 2008. Single-Mother Families and Air Pollution: A National Study. &lt;em&gt;Social Science Quarterly &lt;/em&gt;89 (2): 523–536.&lt;/p&gt;
+
+&lt;p&gt;Grant, D., Trautner, M, Downey, L., &amp;amp; Thiebaud, L. (2010) Bringing the Polluters Back In Environmental Inequality and the Organization of Chemical Production. &lt;em&gt;American Sociological Review 75 &lt;/em&gt;(4), 479-504.&lt;/p&gt;
+
+&lt;p&gt;Holladay, Scott. 2008. Are Exporters Mother Nature’s Best Friends? Working paper. Department of Economics, UCB Boulder CO.&lt;/p&gt;
+
+&lt;p&gt;Holladay, J.S. (2015). Exporters and the Environment. WORKING PAPER #2015-03. Available online at: &lt;a href=&quot;http://econpapers.repec.org/paper/tenwpaper/2015-03.htm&quot;&gt;http://econpapers.repec.org/paper/tenwpaper/2015-03.htm&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Harner, John , Warner, Kee , Pierce, John and Huber, Tom. 2002. Urban Environmental Justice Indices, &lt;em&gt;The Professional Geographer&lt;/em&gt;, 54: 3, 318 — 331&lt;/p&gt;
+
+&lt;p&gt;Katner, A. (2015). Prioritization of Louisiana Parishes based on Industrial Releases of Known or Suspected Carcinogens. &lt;em&gt;The Journal of the Louisiana State Medical Society : Official Organ of the Louisiana State Medical Society, 167 &lt;/em&gt;(3), 122-128.&lt;/p&gt;
+
+&lt;p&gt;Konisky, D. &amp;amp; Reenock, C. (2015). Regulatory Enforcement, Riskscapes and Environmental Justice. 27&lt;sup&gt;th&lt;/sup&gt; 2015 Annual Fall Research Conference of the Association for Public Policy Analysis &amp;amp; Management. Miami, Florida. &lt;/p&gt;
+
+&lt;p&gt;Kraft, M. (2014). Using Information Disclosure to Achieve Policy Goals: How Experience with the Toxics Release Inventory Can Inform Action on Natural Gas Fracturing. &lt;em&gt;Issues in Energy and Environmental Policy, 6&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Lam, C. W., Lim, S. R., &amp;amp; Schoenung, J. M. 2011. Environmental and risk screening for prioritizing pollution prevention opportunities in the US printed wiring board manufacturing industry. &lt;em&gt;Journal of hazardous materials&lt;/em&gt;, 189(1), 315-322.&lt;/p&gt;
+
+&lt;p&gt;Li, X. &amp;amp; Zhou, Y. (2014). Offshoring Production or Offshoring Pollution? Working paper. Available online at: &lt;a href=&quot;https://deepblue.lib.umich.edu/handle/2027.42/109195&quot;&gt;https://deepblue.lib.umich.edu/handle/2027.42/109195&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lievanos, R. (2016). Sociospatial Dimensions of Water Injustice: The Distribution of Surface Water Toxic Releases in California’s Bay-Delta. &lt;em&gt;Sociological Perspectives. &lt;/em&gt;doi: 10.1177/0731121416648935&lt;/p&gt;
+
+&lt;p&gt;Lim, Seong-Rin, Carl W. Lam, Julie M. Schoenung. 2010. Quantity-based and toxicity-based evaluation of the U.S. Toxics Release Inventory. &lt;em&gt;Journal of Hazardous Materials &lt;/em&gt;178 49–56.&lt;/p&gt;
+
+&lt;p&gt;Lucier, C., Rosofsky, A., London, B., Scharber, H., &amp;amp; Shandra, J. M. 2011. Toxic Pollution and School Performance Scores Environmental Ascription in East Baton Rouge Parish, Louisiana. &lt;em&gt;Organization &amp;amp; Environment&lt;/em&gt;, 24(4), 423-443.&lt;/p&gt;
+
+&lt;p&gt;Metcalf, A., Mackelprang, A. &amp;amp; Galbreth, M. (2016). Linking pollution toxicity and human exposure to firm idiosyncratic risk. &lt;em&gt;Journal of Cleaner Production&lt;/em&gt; (In Press)&lt;/p&gt;
+
+&lt;p&gt;Mohai, P., Kweon, B. S., Lee, S., &amp;amp; Ard, K. 2011. Air pollution around schools is linked to poorer student health and academic performance. &lt;em&gt;Health Affairs&lt;/em&gt;, 30(5), 852-862.&lt;/p&gt;
+
+&lt;p&gt;Morrison, B., Heath, B., et al. 2008. The Smokestack Effect: Toxic Air and America’s Schools. Special Report. &lt;em&gt;USA Today&lt;/em&gt;. &lt;a href=&quot;http://content.usatoday.com/news/nation/environment/smokestack/index&quot;&gt;http://content.usatoday.com/news/nation/environment/smokestack/index&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Naidu, S. C., Manolakos, P. T., &amp;amp; Hopkins, T. E. 2013. Environmental Justice in Ohio. &lt;em&gt;Review of Radical Political Economics&lt;/em&gt;, 45(3), 384-399.&lt;/p&gt;
+
+&lt;p&gt;Ogneva-Himmelberger, Y., Dahlberg, T., Kelly, K. &amp;amp; Simas, T. (2015). Using Geographic Information Science to Explore Associations between Air Pollution, Environmental Amenities, and Preterm Births. &lt;em&gt;AIMS Public Health, 2&lt;/em&gt;(3), 469-486.&lt;/p&gt;
+
+&lt;p&gt;Pastor, Manuel, Rachel Morello-Frosch, and James Sadd. 2010. Air Pollution and Environmental Justice: Integrating Indicators of Cumulative Impact and Socio-Economic Vulnerability into Regulatory Decision-Making. Final Report to California Air Resources Board. &lt;a href=&quot;http://www.arb.ca.gov/research/apr/past/04-308.pdf&quot;&gt;http://www.arb.ca.gov/research/apr/past/04-308.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rosofsky, A., Lucier, C., London, B., Scharber, H., Borges-Mendez, R. &amp;amp; Shandra, J. (2014). Environmental ascription in Worcester County, MA: toxic pollution and education outcomes. &lt;em&gt;Local Environment, 19 (&lt;/em&gt;3), 283–299. http://dx.doi.org/10.1080/13549839.2013.788485&lt;/p&gt;
+
+&lt;p&gt;Sadd, J. L., Pastor, M., Morello-Frosch, R., Scoggins, J. &amp;amp; Jesdale, B. (2011). Playing It Safe: Assessing Cumulative Impact and Social Vulnerability through an Environmental Justice Screening Method in the South Coast Air Basin, California. &lt;em&gt;Int. J. Environ. Res. Public Health, 8 &lt;/em&gt;(5), 1441-1459. &lt;/p&gt;
+
+&lt;p&gt;Scharber, H., Lucier, C., London, B., Rosofsky, A., and Shandra, J. The consequences of exposure to developmental, neurological, and respiratory toxins for school performance: a closer look at environmental ascription in East Baton Rouge, Louisiana. &lt;em&gt;Population and Environment&lt;/em&gt;. Volume 35, Issue 2, pp. 205-224. December 2013.&lt;/p&gt;
+
+&lt;p&gt;Schmidt , Charles W. 2003. Innovations: The Risk Where You Live. &lt;em&gt;Environmental Health Perspectives &lt;/em&gt;111 (7) A405-A407. June 2003.&lt;/p&gt;
+
+&lt;p&gt;Shapiro, Marc D. 2000. The impact of community characteristics and state policy on changes in emissions and risk from toxic airborne chemicals. Doctoral dissertation, University of Rochester.&lt;/p&gt;
+
+&lt;p&gt;Shapiro, Marc D. 2005. Equity and Information: Information regulation, environmental justice, and risks from toxic chemicals. &lt;em&gt;Journal of Policy Analysis and Management &lt;/em&gt;24(2): 373-398.&lt;/p&gt;
+
+&lt;p&gt;Sicotte, D. 2010. Some more polluted than others: unequal cumulative industrial hazard burdens in the Philadelphia MSA, USA. Local Environment,15 (8), 761-774.&lt;/p&gt;
+
+&lt;p&gt;Sicotte, Diane, and Samantha Swanson. 2007. Whose Risk in Philadelphia? Proximity to Unequally Hazardous Industrial Facilities. &lt;em&gt;Social Science Quarterly &lt;/em&gt;88 (2): 515-534.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Simon, D. &amp;amp; Prince, J. (2015). The Effect of Competition on Toxic Pollution Releases. Indiana University, Bloomington School of Public &amp;amp; Environmental Affairs Research Paper No. 2456732.&lt;/p&gt;
+
+&lt;p&gt;Standridge, J. S., Amit Bhattacharya, PhD, Paul Succop, PhD, Cyndy Cox, and Erin Haynes, DrPH. Effect of chronic low level manganese exposure on postural balance: A pilot study of residents in southwest Ohio. &lt;em&gt;J Occup Environ Med. &lt;/em&gt;50(12): 1421–1429.&lt;/p&gt;
+
+&lt;p&gt;Stephan, Mark, Michael E. Kraft and Troy D. Abel. 2005. Environmental Information Disclosure and Risk Reduction: Findings from a Survey of TRI Facilities, Citizen Activists, and Public Officials. Paper presented at the annual meeting of the Western Political Science Association, Oakland, California, March 17.&lt;/p&gt;
+
+&lt;p&gt;Toffel, Michael W. and Julian D. Marshall. 2004. Improving Environmental Performance Assessment: A Comparative Analysis of Weighting Methods Used to Evaluate Chemical Release Inventories. &lt;em&gt;Journal of Industrial Ecology &lt;/em&gt;8 (1-2) pp. 143-172.&lt;/p&gt;
+
+&lt;p&gt;Wright, David W. Toxicity-Weighting: A Prioritization Tool for Quality Assurance of Air Toxics Inventories. 2007. Maine Department of Environmental Protection.&lt;/p&gt;
+
+&lt;p&gt;Zhou, Xiaoying and Julie M. Schoenung. 2009. Combining U.S.-based prioritization tools to improve screening level accountability for environmental impact: The case of the chemical manufacturing industry. &lt;em&gt;Journal of Hazardous Materials &lt;/em&gt;172: 423–431.&lt;/p&gt;
+
+&lt;p&gt;Zwickl, K. (2015). Three essays on economic inequality and environmental degradation. Doctoral Dissertations May 2014 - current. Paper 339. http://scholarworks.umass.edu/dissertations_2/339&lt;/p&gt;
+
+&lt;p&gt;Zwickl, K., Ash, M. &amp;amp; Boyce, J. (2015). Mapping Environmental Injustice: Race, class and industrial air pollution. Available online at: &lt;a href=&quot;http://triplecrisis.com/mapping-environmental-injustice/&quot;&gt;http://triplecrisis.com/mapping-environmental-injustice/&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Zwickl, Klara, Michael Ash, and James K. Boyce. Regional variation in environmental inequality: Industrial air toxics exposure in U.S. cities. Ecological Economics. Volume 107, November 2014, pp. 494–509.&lt;/p&gt;
+
+&lt;p&gt;Zwickl, K. &amp;amp; Moser, M. (2014). Informal environmental regulation of industrial air pollution: Does neighborhood inequality matter? Working Paper. Ecological Economic Papers, 1. WU Vienna University of Economics and Business, Vienna.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 12 May 2016 18:54:47 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149441 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Results Definitions</title>
+    <link>https://www.epa.gov/rsei/rsei-results-definitions</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;For more details on what how to interpret RSEI results, see &lt;a href=&quot;/rsei/understanding-rsei-results&quot;&gt;understanding RSEI results&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On this page, find definitions for the following results produced by EPA&#039;s Risk-Screening Environmental Indicators (RSEI) model:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#pounds&quot;&gt;TRI Pounds&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rpounds&quot;&gt;RSEI Pounds&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#chazard&quot;&gt;Cancer Hazard&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#nchazard&quot;&gt;NonCancer Hazard&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rhazard&quot;&gt;RSEI Hazard&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#cscore&quot;&gt;Cancer Score&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#ncscore&quot;&gt;NonCancer Score&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rscore&quot;&gt;RSEI Score&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#twconc&quot;&gt;Toxicity-Weighted Concentration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id=&quot;pounds&quot;&gt;TRI Pounds&lt;/h2&gt;
+
+&lt;p&gt;Chemical release or transfer as reported to TRI in pounds per year.&lt;/p&gt;
+
+&lt;h2 id=&quot;rpounds&quot;&gt;RSEI Pounds&lt;/h2&gt;
+
+&lt;p&gt;Chemical release or transfer as reported to TRI in pounds per year, calculated only for RSEI modeled media, or the kinds of releases and transfers that RSEI models (stack and fugitive air releases, direct water releases, and transfers to publicly-owned treatment works (POTWs) and off-site incineration).&lt;/p&gt;
+
+&lt;h2 id=&quot;chazard&quot;&gt;Cancer Hazard&lt;/h2&gt;
+
+&lt;p&gt;The pounds released or transferred, weighted by the chemical&#039;s toxicity for carcinogenic effects.&lt;/p&gt;
+
+&lt;p&gt;Direct water releases and transfers to publicly-owned treatment works (POTWs) use a toxicity weight based on the oral slope factor for the chemical. Air releases and off-site transfers to incineration use a toxicity weight based on the chemical&#039;s inhalation unit risk. If there is not data for a pathway, then the cancer hazard is zero. No modeling or partitioning is performed.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;nchazard&quot;&gt;NonCancer Hazard&lt;/h2&gt;
+
+&lt;p&gt;The pounds released or transferred, weighted by the chemical&#039;s toxicity for noncarcinogenic effects.&lt;/p&gt;
+
+&lt;p&gt;Direct water releases and transfers to publicly-owned treatment works (POTWs) use a toxicity weight based on the reference dose for the chemical. Air releases and off-site transfers to incineration use a toxicity weight based on the chemical&#039;s reference concentration. If there are no data for a pathway, then the noncancer hazard is zero. No modeling or partitioning is performed.&lt;/p&gt;
+
+&lt;h2 id=&quot;rhazard&quot;&gt;RSEI Hazard&lt;/h2&gt;
+
+&lt;p&gt;The pounds released or transferred, weighted by the higher of the cancer/noncancer toxicity weights for the chemical.&lt;/p&gt;
+
+&lt;p&gt;Direct water releases and transfers to publicly-owned treatment works (POTWs) use the higher of the oral slope factor toxicity weight or the reference dose toxicity weight for the chemical. Air releases and off-site transfers to incineration use the higher of the inhalation unit risk toxicity weight or the reference concentration toxicity weight. If all toxicity data for an (air or water) pathway are missing, the data for the other pathway are adopted. No modeling or partitioning is performed.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cscore&quot;&gt;Cancer Score&lt;/h2&gt;
+
+&lt;p&gt;A unitless result that accounts for the size of the release, the chemical&#039;s toxicity for carcinogenic effects, the fate and transport of the chemical through the environment, and the size and location of the exposed population.&lt;/p&gt;
+
+&lt;p&gt;The cancer score is calculated as the product of the estimated dose (estimated through media-specific modeling), the cancer toxicity weight and the number of potentially exposed people. Direct water releases use a toxicity weight based on the oral slope factor for the chemical. Air releases and off-site transfers to incineration use a toxicity weight based on the chemical&#039;s inhalation unit risk. Transfers to publicly-owned treatment works (POTWs) are partitioned using chemical-specific rates to air and water. If there are no data for a pathway, then the cancer score is zero.&lt;/p&gt;
+
+&lt;h2 id=&quot;ncscore&quot;&gt;NonCancer Score&lt;/h2&gt;
+
+&lt;p&gt;A unitless result that accounts for the size of the release, the chemical&#039;s toxicity for noncarcinogenic effects, the fate and transport of the chemical through the environment, and the size and location of the exposed population.&lt;/p&gt;
+
+&lt;p&gt;The noncancer score is calculated as the product of the estimated dose (estimated through media-specific modeling), the noncancer toxicity weight and the number of potentially exposed people. Direct water releases use a toxicity weight based on the reference dose for the chemical. Air releases and off-site transfers to incineration use a toxicity weight based on the chemical&#039;s reference concentration. Transfers to publicly-owned treatment works (POTWs) are partitioned using chemical-specific rates to air and water. If there are no data for a pathway, then the noncancer score is zero.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rscore&quot;&gt;RSEI Score&lt;/h2&gt;
+
+&lt;p&gt;A unitless result that accounts for the size of the release, the chemical&#039;s toxicity, the fate and transport of the chemical through the environment, and the size and location of the exposed population&lt;/p&gt;
+
+&lt;p&gt;The RSEI Score is calculated as the product of the estimated dose (estimated through media-specific modeling), the higher of the cancer/noncancer toxicity weight for each pathway, and the number of potentially exposed people. Direct water releases and transfers to publicly-owned treatment works (POTWs) use the higher of the oral slope factor toxicity weight or the reference dose toxicity weight for the chemical. Air releases and off-site transfers to incineration use the higher of the inhalation unit risk toxicity weight or the reference concentration toxicity weight. If all toxicity data for a (water or air) pathway are missing, the data for the other pathway are adopted. Transfers to POTWs are partitioned using chemical-specific rates to air and water.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;twconc&quot;&gt;Toxicity-Weighted Concentration&lt;/h2&gt;
+
+&lt;p&gt;Used in Microdata, a result that includes the fate and transport of the chemical through the environment and the chemical’s toxicity.&lt;/p&gt;
+
+&lt;p&gt;Direct water releases and transfers to publicly-owned treatment works (POTWs) use the higher of the oral slope factor toxicity weight or the reference dose toxicity weight for the chemical. Air releases and off-site transfers to incineration use the higher of the inhalation unit risk toxicity weight or the reference concentration toxicity weight. If all toxicity data for an (air or water) pathway are missing, the data for the other pathway are adopted.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 12 May 2016 18:49:47 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149439 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Data Dictionary: Shapefiles (Grid geography)</title>
+    <link>https://www.epa.gov/rsei/rsei-data-dictionary-shapefiles-grid-geography</link>
+    <description>&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;6&quot; style=&quot;width:100px&quot;&gt;                          Tables in the RSEI Data Dictionary&lt;/th&gt;
+			&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-facility-data&quot;&gt;Facility&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-chemical-data&quot;&gt;Chemical&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-submission-data&quot;&gt;Submission&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-category-data&quot;&gt;Category&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-averaged-block-group-microdata&quot;&gt;Block Group Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-population-data-us-decennial-census&quot;&gt;Population Data&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-site-data&quot;&gt;Offsite&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-maximum-contaminant-level-mcl-data&quot;&gt;MCL&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-release-data&quot;&gt;Release&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-disaggregated-microdata&quot;&gt;Disaggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-water-microdata&quot;&gt;Water Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-shapefiles-grid-geography&quot;&gt;Shapefiles&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-north-american-industry-classification-system-naics-data&quot;&gt;NAICS&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-media-data&quot;&gt;Media&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-elements-data&quot;&gt;Elements&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-aggregated-microdata&quot;&gt;Aggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-census-crosswalks&quot;&gt;Census Crosswalks&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;RSEI shapefiles define the grid and can be used for mapping. They do not contain any RSEI results. There are two sets: polygon (con_us_810m_poly) and center point (con_us_810m). The grid is split into 4 files for each type, numbered 1-4. The attribute table is the same for all shapefiles. More information on the RSEI grid can be found in the &lt;a href=&quot;/rsei/risk-screening-environmental-indicators-rsei-methodology-version-235&quot;&gt;RSEI methodology document&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;
+				&lt;h2&gt;Attribute Table for Grid Shapefiles&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variable&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Description&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;X&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Assigned grid cell value based on latitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;Y&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Assigned grid cell value based on longitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;LONGX&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Easting coordinate for Albers projection.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;LATY&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Northing coordinate for Albers projection.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;LONGITUDE&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Longitude for center point of grid cell.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;LATITUDE&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Latitude for center point of grid cell.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;RADIALDIST&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Radial distance from center point of grid (m).&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;AREA&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Area of grid (m) (note that grid cells vary slightly in size).&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:127px&quot;&gt;
+				&lt;p&gt;NORTHADJ&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:510px&quot;&gt;
+				&lt;p&gt;Internal.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Thu, 12 May 2016 18:23:05 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149435 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Data Dictionary: Population Data (US Decennial Census)</title>
+    <link>https://www.epa.gov/rsei/rsei-data-dictionary-population-data-us-decennial-census</link>
+    <description>&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;6&quot; style=&quot;width:100px&quot;&gt;                          Tables in the RSEI Data Dictionary&lt;/th&gt;
+			&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-facility-data&quot;&gt;Facility&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-chemical-data&quot;&gt;Chemical&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-submission-data&quot;&gt;Submission&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-category-data&quot;&gt;Category&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-averaged-block-group-microdata&quot;&gt;Block Group Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-population-data-us-decennial-census&quot;&gt;Population Data&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-site-data&quot;&gt;Offsite&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-maximum-contaminant-level-mcl-data&quot;&gt;MCL&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-release-data&quot;&gt;Release&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-disaggregated-microdata&quot;&gt;Disaggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-water-microdata&quot;&gt;Water Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-shapefiles-grid-geography&quot;&gt;Shapefiles&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-north-american-industry-classification-system-naics-data&quot;&gt;NAICS&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-media-data&quot;&gt;Media&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-elements-data&quot;&gt;Elements&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-aggregated-microdata&quot;&gt;Aggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-census-crosswalks&quot;&gt;Census Crosswalks&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;RSEI Census data are contained in three tables, Census 90 (data from the 1990 Census), Census 00 (data from the 2000 Census) and Census 10 (data from the 2010 Census). These three tables contain the Census data that has been transposed onto the RSEI model grid. Each Census table is over 600 MB in size. 1990 Census data have been provided by Geolytics, Inc.&lt;/p&gt;
+
+&lt;p&gt;Census data were last updated in 2012. &lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;
+				&lt;h2&gt;Census 90 Data&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variable&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Description&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Grid Code&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Number that identifies the model grid within which the cell is located.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;X&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on latitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Y&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on longitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Male0to9 through Female65andUp&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The number of people in the grid cell in each Census subpopulation group in the year 1990.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;PrimaryFIPS&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The FIPS code for the county within which most or all of the grid cell is contained.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;
+				&lt;h2&gt;Census 00 Data&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variable&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Description&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Grid Code&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Number that identifies the model grid within which the cell is located.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;X&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on latitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Y&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on longitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Male0to9 through Female65andUp&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The number of people in the grid cell in each Census subpopulation group in the year 2000.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;PrimaryFIPS&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The FIPS code for the county within which most or all of the grid cell is contained.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;
+				&lt;h2&gt;Census 10 Data&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variable&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Description&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Grid Code&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Number that identifies the model grid within which the cell is located.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;X&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on latitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Y&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Assigned grid cell value based on longitude.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Male0to9 through Female65andUp&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The number of people in the grid cell in each Census subpopulation group in the year 2010.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;PrimaryFIPS&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;The FIPS code for the county within which most or all of the grid cell is contained.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Thu, 12 May 2016 18:20:37 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149431 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>RSEI Data Dictionary: Census Crosswalks</title>
+    <link>https://www.epa.gov/rsei/rsei-data-dictionary-census-crosswalks</link>
+    <description>&lt;table class=&quot;nostyle&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+			&lt;th colspan=&quot;6&quot; style=&quot;width:100px&quot;&gt;                          Tables in the RSEI Data Dictionary&lt;/th&gt;
+			&lt;th style=&quot;width:100px&quot;&gt; &lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-facility-data&quot;&gt;Facility&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-chemical-data&quot;&gt;Chemical&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-submission-data&quot;&gt;Submission&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-category-data&quot;&gt;Category&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-averaged-block-group-microdata&quot;&gt;Block Group Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-population-data-us-decennial-census&quot;&gt;Population Data&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-site-data&quot;&gt;Offsite&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-maximum-contaminant-level-mcl-data&quot;&gt;MCL&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-release-data&quot;&gt;Release&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-disaggregated-microdata&quot;&gt;Disaggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-water-microdata&quot;&gt;Water Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-shapefiles-grid-geography&quot;&gt;Shapefiles&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-north-american-industry-classification-system-naics-data&quot;&gt;NAICS&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-media-data&quot;&gt;Media&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-elements-data&quot;&gt;Elements&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-aggregated-microdata&quot;&gt;Aggregated Microdata&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/rsei/rsei-data-dictionary-census-crosswalks&quot;&gt;Census Crosswalks&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Each set of crosswalk files links the RSEI grid cell geography to a different US decennial census year. There is one crosswalk for each area and decennial Census year (1990, 2000, 2010). Crosswalk files are named by area (Alaska, Con(terminous) US, etc.).&lt;/p&gt;
+
+&lt;p&gt;The last three fields in each file contain percent values that can be used to adjust the block or cell contents when performing the crosswalk. PCT_B_C and PCT_C_B are area-weighted and can be used for metrics that do not involve population, such as concentration and toxicity-weighted concentration. PCT_PC_B is population weighted, and can be used to crosswalk fields that involve population, like score and pop.&lt;/p&gt;
+
+&lt;p&gt;Note that the &quot;PCT_CP_B&quot; field is not available for the territories (VI, PR, GU, AS, MP). The Northern Mariana Islands are in the Guam file and the Virgin Islands are in the Puerto Rico file. There are no crosswalks for Puerto Rico, the Virgin Islands, Mariana Islands, Guam, or American Samoa for 1990.  For these areas, RSEI uses 2000 block boundaries and scales each cell’s population by the overall ratio of 1990/2000 population for each area.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th colspan=&quot;3&quot; style=&quot;width:638px&quot;&gt;
+				&lt;h2&gt;&lt;strong&gt;Census Crosswalk Table&lt;/strong&gt;&lt;/h2&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;Field Number&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;&lt;em&gt;&lt;strong&gt;Name&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;&lt;em&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;GridID&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Identifies grid. &lt;/p&gt;
+
+				&lt;ul&gt;&lt;li&gt;14=Conterminous US&lt;/li&gt;
+					&lt;li&gt;24=Alaska&lt;/li&gt;
+					&lt;li&gt;34=Hawaii&lt;/li&gt;
+					&lt;li&gt;44=Puerto Rico/Virgin Islands&lt;/li&gt;
+					&lt;li&gt;54=Guam/Marianas&lt;/li&gt;
+					&lt;li&gt;64=American Samoa&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;2&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;X&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;X coordinate of the cell address&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;3&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;Y&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Y coordinate of the cell address&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;4&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;Block_ID00&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;US Census Block ID&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;5&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;UR&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Internal&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;6&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;PCT_B_C&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Percent of the Census block that is within the cell (Block to Cell)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;7&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;PCT_C_B&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Percent of the cell that is within the Census block (Cell to Block)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:109px&quot;&gt;
+				&lt;p&gt;8&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:199px&quot;&gt;
+				&lt;p&gt;PCT_PC_B&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;width:331px&quot;&gt;
+				&lt;p&gt;Percent of the cell’s population that is within the Census block (Population-Cell to Block)&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Thu, 12 May 2016 18:06:00 +0000</pubDate>
+ <dc:creator>lisa_mayo</dc:creator>
+ <guid isPermaLink="false">149427 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:59:10, expires @ 2017-01-26 05:59:10, lifetime 12 hours -->

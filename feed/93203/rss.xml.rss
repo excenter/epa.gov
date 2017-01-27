@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/93203/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>CASTNET</title>
+    <link>https://www.epa.gov/feed/93203/rss.xml</link>
+    <description>Updated CASTNET content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/93203/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Special Studies</title>
+    <link>https://www.epa.gov/castnet/special-studies</link>
+    <description>&lt;p&gt;Research and special studies are conducted to strengthen our understanding of dry deposition processes, improve model inputs, and test new monitoring methods. Click on the links below to read about on-going research at CASTNET sites. &lt;/p&gt;
+
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;MARGA Field&lt;br /&gt;
+			Performance Evaluation&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;CASTNET Ammonia&lt;br /&gt;
+			Special Study (ACCS)&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;Ameriflux&lt;br /&gt;
+			Deposition Study&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;MARGA Field Performance Evaluation&lt;/h2&gt;
+
+		&lt;h3&gt;Update: August 2013&lt;/h3&gt;
+
+		&lt;p&gt;The Monitor for AeRosols and GAses (MARGA) 1S system was deployed at the Beltsville, MD, CASTNET site between January 2013 and June 2015. Five extended measurement campaigns have produced 17 months of hourly ambient concentration data for soluble gases (HNO&lt;sub&gt;3&lt;/sub&gt;, HONO, SO&lt;sub&gt;2&lt;/sub&gt;, and NH&lt;sub&gt;3&lt;/sub&gt;) and particles (NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;, NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;, Ca&lt;sup&gt;2+&lt;/sup&gt;, Mg&lt;sup&gt;2+&lt;/sup&gt;, K&lt;sup&gt;+&lt;/sup&gt;, and Na&lt;sup&gt;+&lt;/sup&gt;) including eight months of co-located measurements from two separate MARGA units.&lt;/p&gt;
+
+		&lt;p&gt;The MARGA units performed well when compared with a co-located pulsed fluorescence SO&lt;sub&gt;2&lt;/sub&gt; analyzer with hourly SO&lt;sub&gt;2&lt;/sub&gt; gas concentrations having a median average relative percent difference (MARPD) of 35%. Performance statistics between the co-located MARGA units were excellent with MARPD values ≤15% for aerosol species (NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;, NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;) and values ≤ 20% for gaseous species (HNO&lt;sub&gt;3&lt;/sub&gt;, HONO, SO&lt;sub&gt;2&lt;/sub&gt;). Ammonia was an exception to this (MARPD = 38%) as its polarity and solubility make it susceptible to inlet adsorption artifacts. To investigate this, one of the MARGA inlets was shortened from 115&quot; to 33&quot;, which increased the overall recovery of NH&lt;sub&gt;3&lt;/sub&gt; by 2.6μg m&lt;sup&gt;-3&lt;/sup&gt; d&lt;sup&gt;-1&lt;/sup&gt; over a cold weather period. This phenomenon was not observed during the warmer weather and the MARPD values during this time were ~26% for NH&lt;sub&gt;3&lt;/sub&gt;.&lt;/p&gt;
+
+		&lt;p&gt;A MARGA 1S unit was deployed by Colorado State University in Theodore Roosevelt National Park and utilized during the &lt;a href=&quot;https://www2.acom.ucar.edu/frappe&quot;&gt;FRAPPE&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; air quality study. In addition to data collected during those intensives, that unit was co-located in a high NH&lt;sub&gt;3&lt;/sub&gt; concentration area (a lab in Fort Collins) with two hourly NH&lt;sub&gt;3&lt;/sub&gt; analyzers (Air Sentry and Picarro).&lt;/p&gt;
+
+		&lt;p&gt;Recently, two of the three MARGA 1S units were converted into a single unit able to sample concentration gradients by placing inlets at two different heights. This unit is slated to be tested by both in the laboratory this fall and deployed at a coastal site near Charleston, SC, in the summer of 2016.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Update: April 2013&lt;/h3&gt;
+
+		&lt;p&gt;Ambient particulate and gaseous concentrations were sampled from the two MARGA units from November 2012 - February 2013. Data from this time period are currently being validated and analyzed. The slopes for regression between the two instruments is within ± 6% for particulate SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;, NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;, and gaseous SO&lt;sub&gt;2&lt;/sub&gt; and NH&lt;sub&gt;3&lt;/sub&gt;, and ± 12% for particulate NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;. The instruments are also currently being evaluated for accuracy with results from the weekly CASTNET filter pack, the bi-weekly AMoN passive NH&lt;sub&gt;3&lt;/sub&gt; sampler, and hourly SO&lt;sub&gt;2&lt;/sub&gt; and NOy. Improvements to the operational methods and protocols have been developed by CAMD during this initial phase of the field comparison. The two MARGA units received upgrades to parts and software components in January 2013. Measurements collected after the upgrade are still under evaluation. One of the two MARGA units was shipped to Colorado State University for inclusion in an intensive atmospheric chemistry sampling campaign to take place in Theodore Roosevelt National Park, ND, during the summer of 2013. A third unit, a new model was installed in April at the Beltsville site for precision and accuracy comparisons.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Update: April 2012&lt;/h3&gt;
+
+		&lt;p&gt;The two MARGA systems (MARGA-1 and MARGA-2) were installed at the &lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/BEL116.html&quot;&gt;BEL116&lt;/a&gt; CASTNET site at the end of 2011 and have been undergoing maintenance and replacement of the analytical modules. As of April 1, MARGA-2 is collecting ambient concentration measurements and the results are being evaluated for consistency and stability. Additional parts are needed for MARGA-1, but it is expected to be operational by the end of April.&lt;/p&gt;
+
+		&lt;p&gt;ORD continues to assess the applicability of the MARGA 2S, a direct flux measurement system, at the Duke Forest research site in NC. An update on the status of the MARGA 2S field project will be given at the &lt;a href=&quot;http://nadp.isws.illinois.edu/committees/tdep/&quot;&gt;Total Deposition Science Committee&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; meeting (April 23&lt;sup&gt;rd&lt;/sup&gt;, Portland, OR).&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Update: December 2011&lt;/h3&gt;
+
+		&lt;p&gt;Installation of the two MARGA systems at the BEL116, MD, site has been completed. Internet access was connected to the instrument laptops for real time, remote data access. A laboratory space was created at a nearby facility for preparing solutions and washing the glassware. Performance quality solutions have been prepared at the lab and transported to the site, where quality assurance tests using the manufacturer&#039;s recommended data quality objectives are currently in progress. The first step is to test the analytical response of the MARGAs with an internal standard solution and standards of ammonium sulfate ((NH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;), potassium chloride (KCl), and ammonium nitrate (NH&lt;sub&gt;4&lt;/sub&gt;NO&lt;sub&gt;3&lt;/sub&gt;) in concentrations assumed to bracket typically observed atmospheric concentration levels. The next steps will be for the MARGAs to undergo a field performance evaluation.&lt;/p&gt;
+
+		&lt;p&gt;The objectives of the Field Performance Evaluation are:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;to re-establish the operational performance of the MARGAs observed in the &lt;a href=&quot;http://nepis.epa.gov/Adobe/PDF/P100CH7N.pdf&quot;&gt;ETV&lt;/a&gt;,&lt;/li&gt;
+			&lt;li&gt;to make improvements in the MARGA performance especially with regards to the quanitification of ammonia (NH&lt;sub&gt;3&lt;/sub&gt;) and ammonium (NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;) and nitrate (NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;) and nitric acid (HNO&lt;sub&gt;3&lt;/sub&gt;),&lt;/li&gt;
+			&lt;li&gt;to better characterize the MARGA performance by evaluation with different reference methods including weekly CASTNET filterpack measurements and hourly trace-gas concentrations for SO&lt;sub&gt;2&lt;/sub&gt; and NOy,&lt;/li&gt;
+			&lt;li&gt;to characterize operational issues and time-demand associated with routine maintenance and troubleshooting in determining implementation of the MARGA in future monitoring efforts.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Current collaborators in this project include:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/aboutepa/about-office-research-and-development-ord&quot;&gt;U.S. EPA Office of Research and Development&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.ars.usda.gov/main/main.htm&quot;&gt;U.S. Department of Agriculture/Agricultural Research Service&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h4&gt;MARGA Installation at Beltsville, MD&lt;/h4&gt;
+
+		&lt;div class=&quot;row cols-3&quot;&gt;
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;A man working in in the MARGA lab.&quot; height=&quot;696&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-10/marga_lab_0.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-teaser&quot; style=&quot;width:160px;&quot;&gt;&lt;img alt=&quot;A photo of a man installing equipment at the MARGA Installation at Beltsville, MD.&quot; height=&quot;213&quot; width=&quot;160&quot; class=&quot;center media-element file-teaser center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-10/marga_001_0.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;A photo of the MARGA Installation at Beltsville, MD.&quot; height=&quot;696&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-10/marga_002_0.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;h3&gt;Update: October 2011&lt;/h3&gt;
+
+		&lt;p&gt;The Monitor for AeRosols and GAses (MARGA) is a multi-pollutant semi-continuous instrument being tested for use in routine network operations at the Beltsville, MD, CASTNET site (&lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/BEL116.html&quot;&gt;BEL116&lt;/a&gt;).&lt;/p&gt;
+
+		&lt;p&gt;Installation of two MARGA systems at BEL116 is almost complete. The MARGA systems were moved to the site from EPA&#039;s ORD monitoring station in RTP, NC. The next steps for the MARGA include:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;calibrating the instruments using internal and external standards,&lt;/li&gt;
+			&lt;li&gt;setting up an Internet connection to get real-time measurements from the site,&lt;/li&gt;
+			&lt;li&gt;and comparing the MARGA results with the trace gas SO&lt;sub&gt;2&lt;/sub&gt; monitor and CASTNET filterpack measurements from the BEL116 site.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Updates on the MARGA study will continue to be provided on this site periodically.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;Ammonia CASTNET CSN Study (ACCS)&lt;/h2&gt;
+
+		&lt;h3&gt;Update: March 2013&lt;/h3&gt;
+
+		&lt;p&gt;The ACCS began in August 2010 and the last sample was collected in October 2011. Final data, including ambient NH&lt;sub&gt;3&lt;/sub&gt; concentrations and laboratory and field blanks, have been submitted to EPA. Preliminary results from the AMoN Radiello samplers versus duplicate annular denuders (reference method) from the five sites are described below.&lt;/p&gt;
+
+		&lt;p&gt;The mean absolute relative percent difference (MARPD) between the passive samplers and the annular denuders from the five sites was 20%. MARPDs between individual sites ranged from 11% (Palo Duro, TX) to 46% (Connecticut Hill, NY). The first figure below shows the bi-weekly NH&lt;sub&gt;3 &lt;/sub&gt;concentrations as measured by AMoN and the average concentrations over the 2 one-week denuder sampling periods for each site. Concentrations ranged from less than 0.5 ug/m&lt;sup&gt;3&lt;/sup&gt; (Connecticut Hill, NY, and Rocky Mountain National Park, CO) to 4.5 ug/m&lt;sup&gt;3&lt;/sup&gt; (Palo Duro, TX). The second figure shows the 2-week average NH&lt;sub&gt;3&lt;/sub&gt; concentrations from AMoN versus the annular denuders for the 5 ACCS sites. There is good correlation (0.96) between the two sampling methods for the range of concentrations measured during the year sampling period.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-10/accs_series_0.png&quot;&gt;&lt;img alt=&quot;A line chart showing the two week ambient ammonia concentrations from AMoN and Annular Denuder Systems durring ACCS.&quot; title=&quot;Click to see a larger version of this chart.&quot; height=&quot;327&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/accs_series_0.png&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-10/accs_reg_0.png&quot;&gt;&lt;img alt=&quot;A regression line showing AMoN versus Annular denuder NH3 Concentrations form 5-site ACCS. R squared equals 0.9596.&quot; title=&quot;Click to see a larger version of this graph.&quot; height=&quot;326&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/accs_reg_0.png&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p&gt;The precision of the duplicate denuder systems at the five sites was 10%. Triplicate Radiello passive samplers were deployed at the five AMoN sites during the ten ACCS sampling periods. The precision of the triplicate samplers was 12% and comparable to previous quality control studies performed by the NADP.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Update: April 2012&lt;/h3&gt;
+
+		&lt;p&gt;Preliminary results from the ACCS were presented at the NADP &lt;a href=&quot;http://nadp.sws.uiuc.edu/committees/tdep/&quot;&gt;Total Deposition Science Committee Meeting&lt;/a&gt; in Providence, RI (Oct. 2011). The preliminary results showed AMoN samplers compared well with the URG annular denuders, while the Super SASS mini-parallel plate denuders were likely biased low at &lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/CHE185.html&quot;&gt;CHE185&lt;/a&gt; and &lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/ROM206.html&quot;&gt;ROM206&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p&gt;In addition to the ammonia analysis, ion concentrations measured with the CASTNET filter pack were compared with those measured with the Super SASS ion canisters (routinely used in the Chemical Speciation Network). Preliminary results showed good agreement for gasesous SO&lt;sub&gt;2&lt;/sub&gt; between the filter pack and the ion canisters, but comparison for the particulates (NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt; and NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;) showed the ion canisters were biased low when compared to the filter pack. We believe this bias may be attributable to the cut-point. The Super SASS uses a Teflon cyclone with a 2.5μm cut-point while the filter pack is an open-faced surface, which likely allows larger particles to collect on the filters.&lt;/p&gt;
+
+		&lt;p&gt;Final results will be published in two journal articles, one providing the results from the ammonia study and the other showing the results from the ion comparison.&lt;/p&gt;
+
+		&lt;p&gt;The presentation with the preliminary results from both the ammonia and ion studies can be found on the NADP website &lt;a href=&quot;http://nadp.isws.illinois.edu/conf/2011/session5/Rogers.pdf&quot;&gt;here&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 1.6 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h3&gt;Update: November 2011&lt;/h3&gt;
+
+		&lt;p&gt;Ambient ammonia (NH&lt;sub&gt;3&lt;/sub&gt;) concentrations are not routinely measured at CASTNET, &lt;a href=&quot;http://www3.epa.gov/ttnamti1/speciepg.html&quot;&gt;Chemical Speciation Network (CSN)&lt;/a&gt; or NCore sites, which results in a significant gap in our understanding of the total nitrogen budget. In some areas, NH&lt;sub&gt;3&lt;/sub&gt; dry deposition is estimated to be approximately 30% of the total deposited nitrogen (e.g., &lt;a href=&quot;http://www.nps.gov/romo/index.htm&quot;&gt;Rocky Mountain NP&lt;/a&gt;). The Ammonia Monitoring Network (&lt;a href=&quot;http://nadp.isws.illinois.edu/amon/&quot;&gt;AMoN&lt;/a&gt;), a newly formed sub-network within the NADP, measures ambient NH&lt;sub&gt;3&lt;/sub&gt; concentrations at approximately 50 sites throughout the United States.&lt;/p&gt;
+
+		&lt;p&gt;This study was developed to validate the passive Radiello samplers deployed in the AMoN, to characterize the sulfur and nitrogen species collected on the CASTNET filter pack and the ion canisters from the Super SASS (used in the CSN), and evaluate a newly developed mini-parallel plate denuder (MPPD) for measuring NH&lt;sub&gt;3&lt;/sub&gt; in one of the channels of the Super SASS. To accomplish these goals, a five-site study (site locations indicated on the map below) plan was developed. The first sampling period began in August 2010, and the study was completed in September 2011. To stay within budget, two-week sample deployments occurred every 6 weeks for a total of 10 sampling time periods. Each site was collocated with AMoN, which provided a two-week NH&lt;sub&gt;3&lt;/sub&gt; concentration. All AMoN samplers were prepared, shipped and analyzed by NADP’s Central Analytical Laboratory. AMoN data are processed and posted to the NADP &lt;a href=&quot;http://nadp.isws.illinois.edu/AMoN/sites/data/&quot;&gt;AMoN website&lt;/a&gt; routinely. In addition to the passive samplers, each of the five sites also deployed two consecutive 1-week annular denuders systems (ADS) as the reference method. Three sites deployed two consecutive 1-week MPPDs housed within the Super SASS module and two consecutive 1-week ion canisters. The MPPDs are being tested for routine use in the CSN for capturing 24-hour NH&lt;sub&gt;3&lt;/sub&gt; concentrations. The dual ADS systems were analyzed for a full suite of anions and cations for comparison to the CASTNET filter pack and Super SASS ion measurements. The ion canisters were analyzed by RTI for the non-NH&lt;sub&gt;3&lt;/sub&gt; analytes. A summary of the study sites are shown in the table below.&lt;/p&gt;
+
+		&lt;div class=&quot;row cols-2&quot;&gt;
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-10/nh3_site_map.jpg&quot;&gt;&lt;img alt=&quot;A map of the United States showing the NH3 site locations. Ammonia special studies sites are located in Colorado, Texas, Oklahoma, Pennsylvania, and New York.&quot; title=&quot;Click to see a larger version of this map.&quot; height=&quot;346&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/nh3_site_map.jpg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;A photo of the Rocky Mountain National Park site (ROM206).&quot; height=&quot;336&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/rom206_accs.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;table&gt;&lt;caption&gt;Ammonia Measurements at CASTNET Sites: 5-Site Special Study&lt;/caption&gt;
+			&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Site_ID&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;State&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;AMon**&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Single ADS (NHx only)&lt;sup&gt;***&lt;/sup&gt;&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Dual ADS&lt;sup&gt;***&lt;/sup&gt;&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Super SASS MPPD&lt;sup&gt;***&lt;/sup&gt;&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;Super SASS Ion Module&lt;sup&gt;***&lt;/sup&gt;&lt;/th&gt;
+					&lt;th scope=&quot;col&quot;&gt;CASTNET filterpack&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;ARE128&lt;/th&gt;
+					&lt;td&gt;PA&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;CHE185&lt;/th&gt;
+					&lt;td&gt;OK&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;CTH110&lt;/th&gt;
+					&lt;td&gt;NY&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;PAL190&lt;/th&gt;
+					&lt;td&gt;TX&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;ROM206*&lt;/th&gt;
+					&lt;td&gt;CO&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt; &lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+					&lt;td&gt;x&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;* AMoN installed prior to sampling period #5 at ROM206.&lt;br /&gt;
+			** Run in triplicate.&lt;br /&gt;
+			*** Run in duplicate.&lt;/small&gt;&lt;/p&gt;
+
+		&lt;p&gt;Preliminary results show a good comparison between the ADS and AMoN samplers. Comparisons between the MPPDs and the ADS are variable, but this may be a result of invalid flow at the Rocky Mountain NP (&lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/ROM206.html&quot;&gt;ROM206/406&lt;/a&gt;) site. Updates will be provided here and the final results will be published in peer-reviewed journal articles.&lt;/p&gt;
+
+		&lt;p&gt;Funding for this study was provided by EPA’s Office of Research and Development, Clean Air Markets Division and Office of Air Quality Planning and Standards (OAQPS). The Super SASS systems were provided by OAQPS.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;h2&gt;AmeriFlux Deposition Study&lt;/h2&gt;
+
+		&lt;h3&gt;Update: October 2011&lt;/h3&gt;
+
+		&lt;p&gt;CASTNET will be conducting a direct deposition study at the &lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/HOW191.html&quot;&gt;Howland, ME, AmeriFlux&lt;/a&gt; site. The study includes two filterpacks installed above and below the forest canopy at sampling heights of 20.5 and 2 m, respectively, and a multi-stage, solenoid-switch ozone sampling system with inlets at eight different heights: 28, 23.5, 20.5 (just above canopy), 17 (just below canopy), 14.5, 10, 6, and 2 m. The heights were chosen based on the vegetation in the area, represented by Leaf Air Index (LAI), and are represented in the figure below.&lt;/p&gt;
+		&lt;span&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-10/howland_forest_sampling_height.jpg&quot;&gt;&lt;img alt=&quot;An info-graphic displaying the Howland sampling height to the leaf area index.&quot; title=&quot;Click to view a larger version of the graphic.&quot; height=&quot;696&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-10/howland_forest_sampling_height.jpg&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+
+		&lt;div class=&quot;row cols-2&quot;&gt;
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;A photo looking up at the tree canopy at the Ameriflux sampling site.&quot; height=&quot;336&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/ameriflux_canopy.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;A photo of the tower at the Ameriflux sampling site.&quot; height=&quot;336&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-10/ameriflux_tower.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;p&gt;The objective of the study is to monitor differences at various heights presumably due to dry deposition on an hourly basis for ozone and on a weekly basis for the suite of pollutants sampled with the filterpack. The study is being coordinated by CAMD, EPA&#039;s Office of Research and Development (ORD), Mactec, and the State of Maine. In addition to the direct deposition study, a comparison between the current CASTNET site (&lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/HOW132.html&quot;&gt;HOW132&lt;/a&gt;) and the AmeriFlux site (HOW191) will run from September 2011 - September 2012 to determine if any biases would be introduced if the HOW132 site is permanently moved to the AmeriFlux site. Additional information about the Howland AmeriFlux site can be found here: &lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/HOW191.html&quot;&gt;AmeriFlux at Howland, ME&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p&gt;Differences in ozone concentrations will be calculated at the different inlet heights to estimate the deposition flux, above and below the canopy. In addition, CASTNET filterpacks will be deployed on the normal Tuesday - Tuesday CASTNET schedule.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 01 Oct 2015 01:26:04 +0000</pubDate>
+ <dc:creator>xachirli</dc:creator>
+ <guid isPermaLink="false">118941 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Independent Audit Program</title>
+    <link>https://www.epa.gov/castnet/independent-audit-program</link>
+    <description>&lt;p&gt;An independent auditor visits each CASTNET site at least once every other year to perform a Field Systems Audit (FSA). Regulatory ozone monitoring sites are audited annually by an independent auditor or a local monitoring agency. Performance evaluation results are loaded into EPA&#039;s Air Quality System (AQS) database routinely.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;PND165, WY panorama site photo&quot; height=&quot;98&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/pnd165_20100517.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The Quality Assurance Project Plan (QAPP) and Standard Operating Procedures for the independent audits are available below. The quarterly and annual audit reports are also provided below.&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-326355&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-10/documents/audit_3rd_quarter_2016.pdf&quot; type=&quot;application/pdf; length=1327176&quot; class=&quot;file-link&quot;&gt;Third Quarter Audit Report - 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(275 pp, 1 MB, 
+  10/24/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301295&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/audit_2nd_quarter_2016.pdf&quot; type=&quot;application/pdf; length=1103907&quot; class=&quot;file-link&quot;&gt;Second Quarter Audit Report - 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(215 pp, 1 MB, 
+  7/12/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297027&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/audit_program_annual_2015.pdf&quot; type=&quot;application/pdf; length=7251620&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2015 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(77 pp, 7 MB, 
+  6/15/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-253125&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-02/documents/2015-4th_quarter_report.pdf&quot; type=&quot;application/pdf; length=9245876&quot; class=&quot;file-link&quot;&gt;Fourth Quarter Audit Report - 2015 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(314 pp, 9 MB, 
+  1/6/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222855&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_q3_2015_1.pdf&quot; type=&quot;application/pdf; length=3542510&quot; class=&quot;file-link&quot;&gt;Third Quarter Audit Report - 2015 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(442 pp, 4 MB, 
+  10/12/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222903&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_q1_2015.pdf&quot; type=&quot;application/pdf; length=1362019&quot; class=&quot;file-link&quot;&gt;First Quarter Audit Report - 2015 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(178 pp, 1 MB, 
+  5/1/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301291&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/audit_program_annual_2014.pdf&quot; type=&quot;application/pdf; length=3997635&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 4 MB, 
+  7/13/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297029&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/audit_4th_quarter_2014.pdf&quot; type=&quot;application/pdf; length=1674190&quot; class=&quot;file-link&quot;&gt;Fourth Quarter Audit Report - 2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(219 pp, 2 MB, 
+  6/9/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-284307&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/audit_3rd_quarter_2014.pdf&quot; type=&quot;application/pdf; length=1911410&quot; class=&quot;file-link&quot;&gt;Third Quarter Audit Report - 2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(383 pp, 2 MB, 
+  5/12/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-282133&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/audit_2nd_quarter_2014.pdf&quot; type=&quot;application/pdf; length=2506248&quot; class=&quot;file-link&quot;&gt;Second Quarter Audit Report - 2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(244 pp, 3 MB, 
+  5/5/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-281567&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/audit_1st_quarter_2014.pdf&quot; type=&quot;application/pdf; length=1291911&quot; class=&quot;file-link&quot;&gt;First Quarter Audit Report - 2014 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(190 pp, 1 MB, 
+  5/3/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166261&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2013.pdf&quot; type=&quot;application/pdf; length=6855189&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2013 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(64 pp, 7 MB, 
+  2/1/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222905&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_3rd_quarter_2013.pdf&quot; type=&quot;application/pdf; length=2073844&quot; class=&quot;file-link&quot;&gt;Third Quarter Audit Report - 2013 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(312 pp, 2 MB, 
+  8/1/2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222909&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_2nd_quarter_2013.pdf&quot; type=&quot;application/pdf; length=2358904&quot; class=&quot;file-link&quot;&gt;Second Quarter Audit Report - 2013 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(377 pp, 2 MB, 
+  7/1/2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222911&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_1st_quarter_2013.pdf&quot; type=&quot;application/pdf; length=1851859&quot; class=&quot;file-link&quot;&gt;First Quarter Audit Report - 2013 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(270 pp, 2 MB, 
+  5/1/2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166265&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2012.pdf&quot; type=&quot;application/pdf; length=11915369&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2012 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(56 pp, 12 MB, 
+  3/1/2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166269&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2011.pdf&quot; type=&quot;application/pdf; length=212017&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2011 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(33 pp, 212 K, 
+  4/1/2012)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166273&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2007.pdf&quot; type=&quot;application/pdf; length=216070&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2007 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(40 pp, 216 K, 
+  3/10/2008)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166281&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2006.pdf&quot; type=&quot;application/pdf; length=231677&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2006 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(38 pp, 232 K, 
+  3/12/2007)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166295&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_annual_2005.pdf&quot; type=&quot;application/pdf; length=188509&quot; class=&quot;file-link&quot;&gt;Audit Program Annual Report - 2005 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(31 pp, 189 K, 
+  2/28/2006)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166301&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/audit_program_qapp.pdf&quot; type=&quot;application/pdf; length=372095&quot; class=&quot;file-link&quot;&gt;Audit Program Quality Assurance Project Plan (QAPP) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 372 K, 
+  7/1/2007)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222913&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/audit_program_sops.pdf&quot; type=&quot;application/pdf; length=398359&quot; class=&quot;file-link&quot;&gt;Audit Program Standard Operating Procedures (SOPs) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(60 pp, 398 K, 
+  8/1/2005)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 28 Jul 2015 15:47:04 +0000</pubDate>
+ <dc:creator>mrury02</dc:creator>
+ <guid isPermaLink="false">100675 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Ozone </title>
+    <link>https://www.epa.gov/castnet/ozone</link>
+    <description>&lt;p&gt;In 2011, EPA upgraded all ozone monitoring equipment at CASTNET sites to comply with the requirements in 40 Code of Federal Regulations (CFR) Part 58. Each CASTNET site that measures hourly ozone meets the additional audit requirements and complies with the data reporting deadlines set forth in the CFR. CASTNET ozone data is submitted near real-time to &lt;a href=&quot;http://airnowtech.org/&quot;&gt;AIRNow Tech&lt;/a&gt; and is updated on the CASTNET website daily. In addition, CASTNET ozone data is submitted to the Air Quality System (AQS) database managed by EPA&#039;s Office of Air Quality Planning and Standards (OAQPS). All ambient monitors that meet regulatory requirements are required to submit data to AQS. Ozone measurements from CASTNET sites will now be used to determine if an area meets, or exceeds, the &lt;a href=&quot;/criteria-air-pollutants/naaqs-table&quot;&gt;National Ambient Air Quality Standard (NAAQS)&lt;/a&gt;. An area is designated out of attainment if the 3-year average annual 4&lt;sup&gt;th&lt;/sup&gt; highest daily maximum 8-hour ozone concentration exceeds 0.070ppm.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-07/ozone_1214_large.png&quot;&gt;&lt;img alt=&quot;CASTNET 2012-2014 3-year average ozone concentrations&quot; height=&quot;346&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-07/ozone_1214_large.png&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Quality Assurance&lt;/h3&gt;
+
+&lt;p&gt;The CASTNET ozone analyzers undergo nightly zero, span, and precision checks to quickly diagnose any problems with the system. Data review is performed daily by an automatic screening system.&lt;/p&gt;
+
+&lt;p&gt;All on-site transfer standards are certified Level III, meaning they have been calibrated by a Level II standard. The Level II transfer standards are used to calibrate the on-site ozone transfer standards twice per year. The Level II transfer standards are calibrated once per year at NIST or at one of the EPA regional laboratories by a Standard Reference Photometer (SRP), otherwise known as a Level I standard.&lt;/p&gt;
+
+&lt;p&gt;Every CASTNET ozone monitor within the network is audited once per year by an independent auditor who completes a Performance Evaluation (PE). The PE results are required to be submitted to AQS before annual data can be certified. A monitoring agency may perform an independent PE at a CASTNET site if they follow the procedures outlined in the &lt;a href=&quot;/sites/production/files/2015-07/documents/third_party_audits.pdf&quot;&gt;Third Party Audit Guidelines&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 68 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; document. In addition, each year 20% of the network participates in the National Performance Audit Program (NPAP). State, local, and tribal agencies participate in the NPAP to provide consistency in the data across all monitoring organizations.&lt;/p&gt;
+
+&lt;h3&gt;Technical Systems Audit&lt;/h3&gt;
+
+&lt;p&gt;Every three years the reporting agency is required to participate in a Technical Systems Audit (TSA) to verify the monitoring program complies with the established regulations in the Code of Federal Regulations (40 CFR Part 50, 53, and 58). In late 2012, the EPA CASTNET contractor, Amec Foster Wheeler, participated in the first CASTNET program TSA for regulatory ozone monitoring. ARS, Inc., the NPS and BLM-WSO CASTNET contractor, participated in a TSA at their facility in 2013. The final audit reports and contractor responses to the findings can be found on the &lt;a href=&quot;https://java.epa.gov/castnet/documents.do&quot;&gt;Documents &amp;amp; Reports&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;h3&gt;Ozone Documents&lt;/h3&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-302453&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/castnet_plan_2016_final.pdf&quot; type=&quot;application/pdf; length=1301328&quot; class=&quot;file-link&quot;&gt;CASTNET 2016 Annual Network Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(106 pp, 1 MB, 
+  7/21/2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Overview of the CASTNET ozone monitoring program, including any changes to the network that occurred in 2015 and any anticipated changes for 2016.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302465&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/response_to_comments_2016_0.pdf&quot; type=&quot;application/pdf; length=64575&quot; class=&quot;file-link&quot;&gt;Response to Comments Received on the 2016 Draft Annual Network Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 65 K, 
+  7/21/2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    CASTNET&amp;#039;s response to comments received on the 2016 CASTNET Annual Network Plan during the public comment period.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222821&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/castnet_plan_2015_0.pdf&quot; type=&quot;application/pdf; length=1415324&quot; class=&quot;file-link&quot;&gt;CASTNET 2015 Annual Network Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(103 pp, 1 MB, 
+  6/30/2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Overview of the CASTNET ozone monitoring program in 2015, including any changes to the network that occurred in 2014 and any anticipated changes in 2015.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166155&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/response_to_comments_2015.pdf&quot; type=&quot;application/pdf; length=138109&quot; class=&quot;file-link&quot;&gt;CASTNET 2015 Response to Comments Received on ANP (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 138 K, 
+  6/30/2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EPA and NPS response to comments received on the 2015 CASTNET Annual Network Plan during public comment period.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166157&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/castnet_network_assessment_2015.pdf&quot; type=&quot;application/pdf; length=3119524&quot; class=&quot;file-link&quot;&gt;CASTNET Network Assessment 2015 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(26 pp, 3 MB, 
+  6/29/2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Five year assessment used by CASTNET&amp;#039;s sponsoring agencies to determine if the network meets each agency&amp;#039;s objectives.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-222837&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/castnet_ozone_faq_jul13_0.pdf&quot; type=&quot;application/pdf; length=391307&quot; class=&quot;file-link&quot;&gt;Frequently Asked Questions: CASTNET Ozone Monitoring Program (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 391 K, 
+  7/1/2013)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Answers to common questions about the CASTNET ozone monitoring program.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-166185&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/third_party_audits.pdf&quot; type=&quot;application/pdf; length=70017&quot; class=&quot;file-link&quot;&gt;Guidelines for Third-Party Audits (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 70 K, 
+  4/7/2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Steps required for 3rd-party auditors or local monitoring agencies to request access to a CASTNET site.   &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 28 Jul 2015 14:18:34 +0000</pubDate>
+ <dc:creator>mrury02</dc:creator>
+ <guid isPermaLink="false">100625 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Program Partners</title>
+    <link>https://www.epa.gov/castnet/program-partners</link>
+    <description>&lt;p&gt;CASTNET is dependent on contributions from many organizations including EPA, the &lt;a href=&quot;http://www.nature.nps.gov/air/monitoring/drymon.cfm&quot;&gt;National Park Service (NPS)&lt;/a&gt;, the &lt;a href=&quot;http://www.blmwarms.net/&quot;&gt;Bureau of Land Management Wyoming State Office (BLM-WSO)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;, Native American tribes, universities, and other government agencies. Although EPA and NPS sponsor the majority of sites, program partners play a key role in sponsoring individual CASTNET sites and provide in-kind services that support the overall operation of the network. These services are often necessary for the day-to-day operations at sites. For example, partners operate site instruments, change weekly filter packs, and perform general site maintenance. Many program partners provide the land for the CASTNET site. Others, such as universities, provide their expertise in air monitoring, which is invaluable for improving CASTNET monitoring capabilities and ensuring that CASTNET collects data that are valued by the scientific research community.&lt;/p&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col size-2of5&quot;&gt;
+		&lt;div class=&quot;box multi news&quot;&gt;
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;p&gt;&lt;span&gt;The Bureau of Land Management&#039;s Wyoming State Office (BLM-WSO) operates the Wyoming Air Resources Monitoring System (WARMS) network, an eight-station network designed to measure air quality in Wyoming. BLM-WSO upgraded 5 of the WARMS sites to CASTNET sites in 2012. In addition to the traditional CASTNET filter pack, two of the BLM-WSO sponsored CASTNET sites also have regulatory ozone monitors.&lt;/span&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col size-3of5&quot;&gt;
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:443px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-03/partnermap.png&quot;&gt;&lt;img height=&quot;342&quot; width=&quot;443&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-03/partnermap.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Many CASTNET sites are supported by cosponsors. Click the image to view a larger version.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The expansion of CASTNET since 2001 has been largely driven by new participants and co-sponsors of the monitoring sites. Examples of program partners and some of their contributions to the network include:&lt;/p&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;Six monitoring sites located on tribal lands: Cherokee Nation in eastern Oklahoma (&lt;a href=&quot;http://www3.epa.gov/castnet/site_pages/CHE185.html&quot;&gt;CHE185&lt;/a&gt;), Alabama-Coushatta in eastern Texas (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/ALC188.html&quot;&gt;ALC188&lt;/a&gt;), Santee Sioux in northern Nebraska (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/SAN189.html&quot;&gt;SAN189&lt;/a&gt;), Kickapoo Tribe in northeastern Kansas (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/KIC003.html&quot;&gt;KIC003&lt;/a&gt;), Red Lake Nation in northern Minnesota (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/RED004.html&quot;&gt;RED004&lt;/a&gt;), and Nez Perce Tribe in Idaho (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/NPT006.html&quot;&gt;NPT006&lt;/a&gt;).&lt;/li&gt;
+	&lt;li&gt;State and local governments in Florida operate Indian River Lagoon (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/IRL141.html&quot;&gt;IRL141&lt;/a&gt;), one of the most biologically diverse estuaries in North America, through the St. Johns River Water Management District.&lt;/li&gt;
+	&lt;li&gt;Scientists at the Konza Prairie Long-Term Ecological Research program operate a filter pack monitoring site (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/KNZ184.html&quot;&gt;KNZ184&lt;/a&gt;) to assess sulfur and nitrogen impacts to the prairie.&lt;/li&gt;
+	&lt;li&gt;The state of Texas and USDA Agricultural Research Service operate a site in Palo Duro State Park (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/PAL190.html&quot;&gt;PAL190&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In 2012, new small-footprint filter pack-only sites were installed in the Adirondack/New England region. Unlike traditional CASTNET sites, these filter pack-only sites do not require a shelter and use less power. These small fooptrint sites have been a cost-effective method of filling in spatial gaps in sulfur and nitrogen pollutant concentrations across the network. Sites at Whiteface Mountain, NY (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/WFM105.html&quot;&gt;WFM105&lt;/a&gt;), and Nicks Lake, NY (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/NIC001.html&quot;&gt;NIC001&lt;/a&gt;), are supported by the New York Department of Environmental Conservation (NYDEC), in partnership with the New York State Energy Research and Development Authority (NYSERDA). Vermont&#039;s Department of Environmental Conservation (VTDEC), in partnership with the University of Vermont, provides in-kind operations at the Proctor Maple Research Center in Underhill, VT (&lt;a href=&quot;https://www3.epa.gov/castnet/site_pages/UND002.html&quot;&gt;UND002&lt;/a&gt;). Sulfur and nitrogen data from the 3 new small-footprint sites and the existing CASTNET sites in the Adirondack/New England region will be used to study the impacts of acid deposition to the sensitive ecosystem. Two new tribal partners will begin operating small footprint sites in 2014.&lt;/p&gt;
+
+&lt;div class=&quot;row cols-2&quot;&gt;
+	&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg full view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;A photo of a CASTNET site on Whiteface Mountain, New York.&quot; title=&quot;Whiteface Mountain, NY&quot; height=&quot;597&quot; width=&quot;448&quot; class=&quot;left media-element file-small file-medium full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/whiteface_mtn_ny.jpg&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Whiteface Mountain, 20NY&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;A photo of a CASTNET site at Nicks Lake, New York.&quot; title=&quot;Nicks Lake, NY&quot; height=&quot;597&quot; width=&quot;448&quot; class=&quot;media-element file-small file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/nicks_lake_ny.jpg&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Nicks Lake, NY&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Federal&lt;/th&gt;
+			&lt;th&gt;State/Local/Tribal&lt;/th&gt;
+			&lt;th&gt;University&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;http://www.fs.usda.gov/main/allegheny/home&quot;&gt;Allegheny National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/mbr&quot;&gt;Medicine Bow-Routt National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/mnf&quot;&gt;Monongahela National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nrs.fs.fed.us/ef/locations/nh/hubbard-brook/&quot;&gt;Hubbard Brook Exp. Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nrcs.usda.gov/&quot;&gt;USDA Natural Res. Conservation Service (NRCS)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ars.usda.gov/&quot;&gt;Agricultural Research Center (USDA)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.blm.gov/wy/st/en.html&quot;&gt;USDOI-Bureau of Land Management&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ec.gc.ca/rs-mn/default.asp?lang=En&amp;amp;n=752CE271-1&quot;&gt;Environment Canada - CAPMoN&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nrs.fs.fed.us/units/appalachian/&quot;&gt;USDA-FS Timber &amp;amp; Watershed Lab&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.fed.us/ne/warren/&quot;&gt;USDA-FS Forestry Sciences Laboratory&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/main/mississippi/about-forest/&quot;&gt;Holly Springs National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/apalachicola/&quot;&gt;Apalachicola National Forest &lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/whitemountain/&quot;&gt;White Mountain National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.fed.us/rmrs/&quot;&gt;USDA-FS Rocky Mountain Research Station&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gDfxMDT8MwRydLA1cj72BTJw8jAwjQL8h2VAQAzHJMsQ!!/?ss=110811&amp;amp;ttype=recarea&amp;amp;recid=48634&amp;amp;actid=30&amp;amp;navtype=BROWSEBYSUBJECT&quot;&gt;Nantahala National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110204&amp;amp;navtype=BROWSEBYSUBJECT&amp;amp;cid=FSE_003853&amp;amp;navid=091000000000000&amp;amp;pnavi&quot;&gt;Gunnison National Forest&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110811&amp;amp;navtype=BROWSEBYSUBJECT&amp;amp;cid=FSE_003853&amp;amp;navid=091000000000000&amp;amp;pnavi&quot;&gt;USDA-FS Toecane District&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.fws.gov/refuges/profiles/index.cfm?id=51531&quot;&gt;US Fish &amp;amp; Wildlife Service&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.lrl.usace.army.mil/&quot;&gt;United States Army Engineering District/Louisville&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.srs.fs.usda.gov/coweeta/&quot;&gt;USDA South. Res. Station Coweeta Hydrological Lab&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://nature.nps.gov/air/monitoring/index.cfm&quot;&gt;National Park Service&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;http://www.rmbl.org/&quot;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.alabama-coushatta.com/&quot;&gt;Alabama-Coushatta Tribe of Texas&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.anr.state.vt.us/dec/&quot;&gt;Vermont Dept. of Environmental Conservation&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.cherokee.org/OurGovernment/Commissions/EnvironmentalProtection/EnvironmentalPrograms.aspx&quot;&gt;Cherokee Nation&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nezperce.org&quot;&gt;Nez Perce Tribe&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcnr.state.pa.us/index.aspx&quot;&gt;Laurel Hill SP (PA Dept. of Cons. &amp;amp; NR)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcnr.state.pa.us/index.aspx&quot;&gt;Maurice K. Goddard SP (PA Dept. of Cons. &amp;amp; NR)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dec.ny.gov/&quot;&gt;New York Department of Environmental Conservation&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ohio.dnr.gov/&quot;&gt;Deer Creek SP (OH Dept of Nat. Resources)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dof.virginia.gov/stateforest/list/cumberland.htm&quot;&gt;Cumberland St. Forest VA Department of Forestry&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nyserda.ny.gov/&quot;&gt;NYS Energy Research &amp;amp; Development Authority&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.santeedakota.org/santee_sioux_tribe_of_nebraska.htm&quot;&gt;Santee Sioux Tribe of Nebraska&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.floridaswater.com/&quot;&gt;St. Johns River Water Management District&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.state.nj.us/dep/&quot;&gt;Washington Crossing SP (NJ DEP)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.tn.gov/environment/&quot;&gt;Edgar Evans SP (TN Dept. Of Envir. Conservation)&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.wvdnr.gov/&quot;&gt;Cedar Creek SP (WV Division of Nat. Resources)&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;a href=&quot;http://amarillo.tamu.edu/&quot;&gt;Texas A&amp;amp;M Agrilife Research &amp;amp; Extension Center&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.agsci.psu.edu/frec/&quot;&gt;Penn State Fruit Research &amp;amp; Extension Center&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://umaine.edu/pse/&quot;&gt;University of Maine Plant, Soil &amp;amp; Environ. Science&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.aaes.auburn.edu/&quot;&gt;Auburn Univ. Alabama Agricultural Experiment St.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://ag.purdue.edu/agry/Pages/default.aspx&quot;&gt;Purdue Univ. Dept of Agronomy &lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.atmos.umd.edu/&quot;&gt;University of MD Dept. of Atmos. &amp;amp; Oceanic Sci.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.caes.uga.edu/unit/oes/&quot;&gt;Univ. of GA, College of Agriculture &amp;amp; Envir. Scien&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.miamioh.edu/ies/&quot;&gt;Miami Univ. Inst. for the Envir. &amp;amp; Sustainability&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ecologyandevolution.cornell.edu/&quot;&gt;Cornell University, Ecology &amp;amp; Evolutionary Biology&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.esf.edu/aec/&quot;&gt;SUNY ESF Adirondack Ecology Center&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.isws.illinois.edu/&quot;&gt;University of IL, Illinois State Water Survey&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.konza.ksu.edu/knz/pages/research/knzcore.aspx&quot;&gt;KSU Division of Biology/Konza Prairie LTER&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ims.unc.edu/&quot;&gt;UNC Institute of Marine Sciences&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.met.psu.edu/&quot;&gt;Penn State Univ. Dept. of Meteorology &lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.obu.edu/natsci/&quot;&gt;Ouachita Baptist Univ. School of Natural Sciences&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ppws.vt.edu/&quot;&gt;VA Tech Dept. of Plant Path., Phys. &amp;amp; Weed Sci.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.snre.umich.edu/&quot;&gt;University of Michigan School of Natural Resources&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.uvm.edu/~pmrc/&quot;&gt;Proctor Maple Research Center (UVM)&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Jul 2015 13:26:57 +0000</pubDate>
+ <dc:creator>mrury02</dc:creator>
+ <guid isPermaLink="false">99655 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Related Programs</title>
+    <link>https://www.epa.gov/castnet/related-programs</link>
+    <description>&lt;h2&gt;Cary Institute of Ecosystem Studies, Millbrook NY&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium caption&quot; style=&quot;width:375px;&quot;&gt;&lt;img alt=&quot;A picture of the Cary Institute of Ecosystems Studies Monitoring Station.&quot; height=&quot;281&quot; width=&quot;375&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/cary_monitor_station.jpg&quot; title=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Cary Institute of Ecosystems Studies Monitoring Station&lt;/span&gt;&lt;/span&gt;The Cary Institute has been monitoring acidic gases and particles using a CASTNET protocol 3-stage filter pack since 1988. In addition, the monitoring site, located in Millbrook, NY, collects hourly meteorological parameters and hourly ozone data. While not part of the CASTNET monitoring program, the site is an obvious partner in dry deposition research.&lt;/p&gt;
+
+&lt;p&gt;Similar to the CASTNET protocol, the filters are deployed under a rain shelter at 10m from Tuesday-Tuesday. The filter packs from the Millbrook site are analyzed at the Cary Institute of Ecosystem Studies Laboratory. The meteorological data is now being processed by the Multi-Layer Model (MLM) which is also used by the CASTNET program to calculate deposition velocities. The concentration data and flux estimates from the Cary Institute can be found here on the &lt;a href=&quot;https://cary-environmental-monitoring.squarespace.com/air-chemistry/#/air-chemistry-data-summaries/&quot;&gt;Data Summary website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-09/carymap.jpg&quot;&gt;&lt;img alt=&quot;A map depicting the location of the Cary Institute of Ecosystems Studies Monitoring Station in Millbrook, New York.&quot; height=&quot;346&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-09/carymap.jpg&quot; title=&quot;&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Cary Institute Site Location; Millbrook, NY. Click to enlarge the map.&lt;/span&gt;&lt;/span&gt;The NY DEC collects hourly ozone measurements at the Cary Institute. The state QA’s the data and submits the data to EPA’s AQS database (36-027-0007). A link to near-real time ozone data is provided here on the &lt;a href=&quot;http://www.dec.ny.gov/airmon/stationStatus.php?stationNo=25&quot;&gt;NY DEC Web page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Cary Institute has also joined the NADP AMoN, a passive ammonia (NH&lt;sub&gt;3&lt;/sub&gt;) monitoring network. Data from all AMoN sites can be found on the NADP Web page. Additional monitoring at the Millbrook site includes a Climate Reference Network site and a wet precipitation site. Data from all the measurements collected at the Cary Institute site, as well as additional information about the Cary Institute Monitoring program, can be found on the their &lt;a href=&quot;http://www.caryinstitute.org/emp.html&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 21 Jul 2015 16:50:15 +0000</pubDate>
+ <dc:creator>mrury02</dc:creator>
+ <guid isPermaLink="false">99259 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Data Use and Citation</title>
+    <link>https://www.epa.gov/castnet/data-use-and-citation</link>
+    <description>&lt;p&gt;CASTNET data is available in many formats on this website. Data is updated daily so you should note the date that data was accessed. Data tables include Quality Rating codes to identify validation status (e.g., Levels 1 through 3) and will also be subject to changes or updates.&lt;/p&gt;
+
+&lt;p&gt;We encourage the use and publication of CASTNET data in scientific, policy-related, or educational activities. Any published use of CASTNET data or information must acknowledge CASTNET as the source. A suggested citation is:&lt;/p&gt;
+
+&lt;p&gt;U.S. Environmental Protection Agency Clean Air Markets Division&lt;br /&gt;&lt;i&gt;Clean Air Status and Trends Network (CASTNET)&lt;br /&gt;
+	[Data table(s) accessed (i.e., Hourly Ozone, Annual Total Deposition)]&lt;br /&gt;
+	Available at www.epa.gov/castnet&lt;br /&gt;
+	Date accessed: [month day, year]&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;We request that the author provide EPA (puchalski.melissa(at)epa.gov) the URL or the PDF for publications using CASTNET data. We also encourage educators to send the EPA a brief description of how they use the CASTNET data in their curriculum.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;monitoring site at GAS153&quot; height=&quot;83&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-07/gas153_20110122.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 21 Jul 2015 16:45:03 +0000</pubDate>
+ <dc:creator>xachirli</dc:creator>
+ <guid isPermaLink="false">99255 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us About the Clean Air Status and Trends Network</title>
+    <link>https://www.epa.gov/castnet/forms/contact-us-about-clean-air-status-and-trends-network</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Regular or certified mail address:&lt;/h2&gt;
+
+&lt;p&gt;US EPA&lt;br /&gt;
+	Clean Air Markets Division&lt;br /&gt;
+	1200 Pennsylvania Avenue, NW&lt;br /&gt;
+	Mail Code 6204M&lt;br /&gt;
+	Washington, DC 20460&lt;/p&gt;
+
+&lt;h2&gt;Overnight mail address:&lt;/h2&gt;
+
+&lt;p&gt;US EPA&lt;br /&gt;
+	Clean Air Markets Division&lt;br /&gt;
+	1201 Constitution Avenue, NW&lt;br /&gt;
+	Room 7231B&lt;br /&gt;
+	Washington, DC 20004&lt;br /&gt;
+	Tel: 202-343-9790&lt;/p&gt;
+
+&lt;p&gt;Use the form below to send us a comment or question.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;Website Comments and Questions&lt;/h2&gt;
+
+&lt;p&gt;We collect questions and answers for publication to help future visitors find information quickly. We will only publish comments, not any identifying information about you. However, if you would prefer that your comment not be published, please use the &quot;Do Not Publish&quot; button below.&lt;/p&gt;
+
+&lt;p&gt;If you would like a reply to your comment, please enter a full email address (in the form of username@company.ending) and phone number below, and check to make sure they are correct. We will only use contact information to reply to your question; we will not collect or disseminate it.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 18 Jun 2015 23:12:50 +0000</pubDate>
+ <dc:creator>cwalke</dc:creator>
+ <guid isPermaLink="false">93205 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 04:10:25, expires @ 2017-01-25 16:10:25, lifetime 12 hours -->

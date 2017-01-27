@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/11/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA National Library Network</title>
+    <link>https://www.epa.gov/feed/11/rss.xml</link>
+    <description>Updated EPA National Library Network content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/11/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>U.S. EPA Library Collections Digitization Process Report</title>
+    <link>https://www.epa.gov/libraries/us-epa-library-collections-digitization-process-report</link>
+    <description>&lt;p&gt;U.S. EPA Library Collections Digitization Process Report&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-165629&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-07/documents/digitizationreport.pdf&quot; type=&quot;application/pdf; length=514039&quot; class=&quot;file-link&quot;&gt;U.S. EPA Library Collections Digitization Process Report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(35 pp, 514 K, 
+  09/24/2007)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    U.S. EPA Library Collections Digitization Process Report  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 27 Jul 2015 16:46:38 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">100407 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA National Library Network Strategic Plan Fact Sheet FY 2015-2017</title>
+    <link>https://www.epa.gov/libraries/epa-national-library-network-strategic-plan-fact-sheet-fy-2015-2017</link>
+    <description>&lt;p&gt;Fact sheet for the EPA National Library Network Strategic Plan FY 2015-2017.&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-132685&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-05/documents/strategicplanfactsheet.pdf&quot; type=&quot;application/pdf; length=133574&quot; class=&quot;file-link&quot;&gt;EPA National Library Network Strategic Plan FY 2015-2017 Fact Sheet (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 134 K, 
+  05/18/2015)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Fact sheet for the EPA National Library Network Strategic Plan FY 2015-2017.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 19 May 2015 18:36:21 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">84797 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA National Library Network Strategic Plan FY 2015-2017</title>
+    <link>https://www.epa.gov/libraries/epa-national-library-network-strategic-plan-fy-2015-2017</link>
+    <description>&lt;p&gt;The EPA National Library Network&#039;s Strategic Plan for FY 2015-2017.&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-130929&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-05/documents/strategicplanfy2015fy2017.pdf&quot; type=&quot;application/pdf; length=2750709&quot; class=&quot;file-link&quot;&gt;EPA National Library Network Strategic Plan FY 2015-2017 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 3 MB, 
+  05/14/2015, 
+  EPA 260/R-15-003)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EPA National Library Network Strategic Plan for FY 2015-2017  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 14 May 2015 16:06:34 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">84303 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Catalog</title>
+    <link>https://www.epa.gov/libraries/catalog</link>
+    <description>Basic Search of the EPA National Library Catalog
+
+&lt;hr /&gt;&lt;form name=&quot;search_catalog&quot; id=&quot;search_catalog&quot; method=&quot;post&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col&quot;&gt;&lt;label for=&quot;libcode&quot;&gt;&lt;strong&gt;Choose a Library:&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;(CTRL-CLICK for multiple libraries)&lt;/strong&gt; &lt;/label&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col&quot;&gt;&lt;select name=&quot;libcode&quot; title=&quot;Choose Library&quot; id=&quot;libcode&quot; multiple=&quot;Multiple&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;Search all libraries&lt;/option&gt;&lt;option value=&quot;ELB&quot;&gt;AWBERC Library/Cincinnati,OH&lt;/option&gt;&lt;option value=&quot;EJ%&quot;&gt;Capital Group(All DC-area libraries)&lt;/option&gt;&lt;option value=&quot;EMB&quot;&gt;GWERD Library/Ada,OK&lt;/option&gt;&lt;option value=&quot;EJB&quot;&gt;Headquarters Library/Washington,DC&lt;/option&gt;&lt;option value=&quot;EKL&quot;&gt;Law Library/Atlanta, GA&lt;/option&gt;&lt;option value=&quot;EJC&quot;&gt;Law Library/Washington,DC&lt;/option&gt;&lt;option value=&quot;EOB&quot;&gt;NEIC Library/Denver,CO&lt;/option&gt;&lt;option value=&quot;ERB&quot;&gt;NERL/ESD-LV Library/Las Vegas,NV&lt;/option&gt;&lt;option value=&quot;EKD&quot;&gt;NERL/ERD Library/Athens,GA&lt;/option&gt;&lt;option value=&quot;EHB&quot;&gt;NHEERL/AED Library/Narragansett,RI&lt;/option&gt;&lt;option value=&quot;EKC&quot;&gt;NHEERL/GED Library/Gulf Breeze,FL&lt;/option&gt;&lt;option value=&quot;ELD&quot;&gt;NHEERL/MED Library/Duluth,MN&lt;/option&gt;&lt;option value=&quot;ESB&quot;&gt;NHEERL/WED Library/Corvallis,OR&lt;/option&gt;&lt;option value=&quot;ELC&quot;&gt;NVFEL Library/Ann Arbor, MI&lt;/option&gt;&lt;option value=&quot;EJD&quot;&gt;OASQA Library/Fort Meade,MD&lt;/option&gt;&lt;option value=&quot;EJE&quot;&gt;OCSPP Chemical Library/Washington,DC&lt;/option&gt;&lt;option value=&quot;EHA&quot;&gt;Region 1 Library/Boston,MA&lt;/option&gt;&lt;option value=&quot;EIA&quot;&gt;Region 2 Library/New York,NY&lt;/option&gt;&lt;option value=&quot;EJA&quot;&gt;Region 3 Library/Philadelphia, PA&lt;/option&gt;&lt;option value=&quot;EKA&quot;&gt;Region 4 Library/Atlanta,GA&lt;/option&gt;&lt;option value=&quot;ELA&quot;&gt;Region 5 Library/Chicago,IL&lt;/option&gt;&lt;option value=&quot;EMA&quot;&gt;Region 6 Library/Dallas,TX&lt;/option&gt;&lt;option value=&quot;ENA&quot;&gt;Region 7 IRC Library/Kansas City,KS&lt;/option&gt;&lt;option value=&quot;EOA&quot;&gt;Region 8 Technical Library/Denver,CO&lt;/option&gt;&lt;option value=&quot;ERA&quot;&gt;Region 9 Library/San Francisco,CA&lt;/option&gt;&lt;option value=&quot;ESA&quot;&gt;Region 10 Library/Seattle,WA&lt;/option&gt;&lt;option value=&quot;EKB&quot;&gt;Research Triangle Park Library/RTP, NC&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	
+
+	&lt;div&gt;
+		&lt;div&gt;
+			&lt;div style=&quot;width:200px&quot;&gt;&lt;select name=&quot;FIELD1&quot; title=&quot;Choose Search Field&quot; id=&quot;scope&quot;&gt;&lt;option value=&quot;KEYWORD&quot;&gt;Keywords&lt;/option&gt;&lt;option value=&quot;TITLE&quot;&gt;Title&lt;/option&gt;&lt;option value=&quot;AUTHOR&quot;&gt;Author&lt;/option&gt;&lt;option value=&quot;OCLCN&quot;&gt;OCLC Number&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+
+			&lt;div style=&quot;width:400px&quot;&gt;&lt;input name=&quot;INPUT1&quot; title=&quot;Search Term&quot; type=&quot;text&quot; size=&quot;50&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div&gt;
+			&lt;div style=&quot;width:200px&quot;&gt;&lt;label for=&quot;reportcallno&quot;&gt;&lt;span&gt;Report/Call Number&lt;/span&gt; &lt;/label&gt;&lt;/div&gt;
+
+			&lt;div style=&quot;width:400px&quot;&gt;&lt;input name=&quot;INPUT4&quot; title=&quot;Report/Call Number Search Term&quot; id=&quot;reportcallno&quot; type=&quot;text&quot; size=&quot;50&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	
+	&lt;input type=&quot;submit&quot; size=&quot;8&quot; value=&quot;Search&quot; /&gt;&lt;input type=&quot;reset&quot; size=&quot;8&quot; value=&quot;Clear&quot; /&gt; &lt;/form&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;&lt;strong&gt;Advanced Search&lt;/strong&gt;&lt;/a&gt;   &lt;a href=&quot;/libraries/epa-national-library-catalog&quot;&gt;&lt;strong&gt;About the Catalog&lt;/strong&gt;&lt;/a&gt;   &lt;a href=&quot;/libraries/catalog-help&quot;&gt;&lt;strong&gt;Help&lt;/strong&gt;&lt;/a&gt;   &lt;a href=&quot;https://cfpub.epa.gov/ols/catalog/catalog_search_history.cfm&quot;&gt;&lt;strong&gt;Search History&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;span&gt;Search Special Collections:&lt;/span&gt;&lt;br /&gt;&lt;a href=&quot;https://cfpub.epa.gov/ols/catalog/new_acquisitions.cfm&quot;&gt;New Acquisitions&lt;/a&gt; | &lt;a href=&quot;/nscep&quot;&gt;National Service Center for Environmental Publications&lt;/a&gt; | &lt;a href=&quot;https://cfpub.epa.gov/ols/aptic/aptic_lookup.cfm&quot;&gt;Air Pollution Technical Info Center&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://cfpub.epa.gov/ols/ehal/ehal_lookup.cfm&quot;&gt;Region 1 Information&lt;/a&gt; | &lt;a href=&quot;https://cfpub.epa.gov/ols/eral/eral_lookup.cfm&quot;&gt;Region 9 Information (Historical Material)&lt;/a&gt;
+
+
+
+
+
+
+</description>
+     <pubDate>Wed, 08 May 2013 15:04:20 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">33489 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Catalog Help</title>
+    <link>https://www.epa.gov/libraries/catalog-help</link>
+    <description>&lt;p&gt;&lt;a href=&quot;#overview&quot;&gt;General Overview of Searching the Catalog&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#library&quot;&gt;Choosing a Specific Library Collection to Search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Search Instructions with Examples:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#title&quot;&gt;Searching by Title&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#keyword&quot;&gt;Searching by Keyword&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#author&quot;&gt;Searching by Author&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#number&quot;&gt;Searching by Report/Call Number&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Advanced Search Options&lt;/strong&gt;:&lt;br /&gt;
+	(These options are only available from the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen.)&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#corporate&quot;&gt;Searching by Corporate Source&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#number&quot;&gt;Searching by OCLC Number&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#year&quot;&gt;Searching by Year of Publication&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#subject&quot;&gt;Searching the Subject Field &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#issn&quot;&gt;Searching for ISSNs, ISBNs, Subcollections or Open Entry Information &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#notes&quot;&gt;Searching the Notes Field&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#order&quot;&gt;Sorting Your Search Results &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#collect&quot;&gt;Searching a Specific Collection of Materials&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#connect&quot;&gt;Searching Multiple Fields&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;#display&quot;&gt;Displaying Your Search Results&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#save&quot;&gt;Save, Print or Email Selected Records&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#history&quot;&gt;Search History Option&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#newacq&quot;&gt;New Acquisitions&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;#buttons&quot;&gt;Guide to the Toolbar Buttons&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;System Features&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#truncate&quot;&gt;Truncation and Wildcards&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#case&quot;&gt;Case sensitivity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;overview&quot; id=&quot;overview&quot;&gt;General Overview&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the catalog to search the collections of all of EPA&#039;s libraries across the country. These collections include EPA publications, government reports, books, journals, videos and more. This form will also search for additional EPA publications and technical reports that are available from the National Technical Information Service.&lt;/p&gt;
+
+&lt;p&gt;From the basic search screen, you can search by keywords, title, author, or report/call number. On the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, you can also search by corporate source, subjects, OCLC number, ISSN number, ISBN number, or year published. You can search several fields at once or just one of the fields. You don&#039;t need to capitalize words as the searches are not case sensitive.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;For example, to find books with the words &quot;carbon monoxide&quot; in the title, enter the words &quot;carbon monoxide&quot; in the &lt;strong&gt;Title&lt;/strong&gt; field:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:428px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:428px;&quot;&gt;&lt;img alt=&quot;Title search with &amp;quot;title&amp;quot; selected in the dropdown menu and &amp;quot;carbon monoxide&amp;quot; typed into the search box.&quot; height=&quot;30&quot; width=&quot;428&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/co.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+	 
+
+	&lt;p&gt;You can also change the field that you are searching by choosing a new field name from the drop-down menu on the left side of your screen. That way you can search for several words in the same field.&lt;/p&gt;
+	 
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:427px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:427px;&quot;&gt;&lt;img alt=&quot;Switch&quot; height=&quot;113&quot; width=&quot;427&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/switch.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;To combine multiple search terms, go to the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen.&lt;/p&gt;
+
+	&lt;p&gt;From the Advanced Search screen, to find books on acid rain written by an author named Smith, enter the term &quot;acid rain&quot; in the &lt;strong&gt;Keywords&lt;/strong&gt; field and &quot;Smith&quot; in the &lt;strong&gt;Author&lt;/strong&gt; field. By default, the terms are connected by the operator &quot;AND,&quot; meaning that both the term &quot;acid rain&quot; AND the author &quot;Smith&quot; must be present in the record. (To change this connector, see the section on &lt;a href=&quot;#connect&quot;&gt;Searching Multiple Fields&lt;/a&gt;, an Advanced Search feature.)&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:544px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:544px;&quot;&gt;&lt;img alt=&quot;Advanced search screenshot showing how to search multiple fields at once by using multiple dropdown menus and search boxes.&quot; height=&quot;94&quot; width=&quot;544&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/multiple.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Once you&#039;ve entered all of your terms, click on the &lt;strong&gt;Search&lt;/strong&gt; button. Your results will be returned to you with 50 items on a page. You can view each separate page of results by clicking on a page link located on the right side of the search results page: ie, &lt;span&gt;&lt;strong&gt;PREV 1 2 3 4 5 6 7 8 NEXT&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;To view more details on a particular item, simply click on the title. To return to your search results, click the &lt;strong&gt;Search Results&lt;/strong&gt; button.  To do a new search, you can click on the &lt;strong&gt;New Search&lt;/strong&gt; button at the top and bottom of every page.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;library&quot; id=&quot;library&quot;&gt;&lt;strong&gt;Choosing a Specific Library Collection or Multiple Library Collections to Search&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The catalog contains records for the holdings of all of the EPA libraries, as well as EPA publications and technical reports. By default, the system will search all of these collections. If you prefer, you can pick the collection of one library or multiple libraries to search.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;To search the collection of only one EPA library, choose the name of the library from the drop-down menu at the top of the search screen.  To search the collections of multiple libraries press the Control key as you select each library name.  Then enter your search and click on the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:518px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:518px;&quot;&gt;&lt;img alt=&quot;Select one or more libraries by using CTRL-click with the choose a library search box.&quot; height=&quot;109&quot; width=&quot;518&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/library.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;From the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, you can get even more specific and choose one or more collections of materials to search, such as EPA documents, books, or journals.  To search multiple collections of materials press the Control key as you select each material collection name.&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:417px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:417px;&quot;&gt;&lt;img alt=&quot;Screenshot of the &amp;quot;choose a collection&amp;quot; menu used for searching for specific types of library materials..&quot; height=&quot;67&quot; width=&quot;417&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/collection.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;Check the&lt;strong&gt; Items with URLs&lt;/strong&gt; box to limit your search to only those records that contain a URL or link to the actual document or related item.&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large&quot; style=&quot;width:145px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:145px;&quot;&gt;&lt;img alt=&quot;Checkbox for items with URL.&quot; height=&quot;26&quot; width=&quot;145&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/urls.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;title&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Searching by TITLE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to search for words or phrases in the titles of documents.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;Basic&lt;/strong&gt; search screen, choose &lt;strong&gt;Title&lt;/strong&gt; from the field drop-down menu, enter words in the adjacent text box and then click the &lt;strong&gt;Search&lt;/strong&gt; button. You will retrieve items that have all of these words in their titles, although they will not necessarily appear as a phrase or in any particular order.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, enter words to search for in the text box labeled &lt;strong&gt;Title&lt;/strong&gt;, and then choose one of the options from the drop-down menu to the right of the box. You can specify that the title of the document must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;table summary=&quot;This table has three columns and four rows. Each row shows an example of words that could be entered in an OLS title search, a search option from the title drop-down menu, and the types of documents that will be found with that search option.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;width:28%; vertical-align:top&quot; scope=&quot;col&quot;&gt;Entering these words:&lt;/th&gt;
+			&lt;th style=&quot;width:31%; vertical-align:top&quot; scope=&quot;col&quot;&gt;With this search option:&lt;/th&gt;
+			&lt;th style=&quot;width:39%; vertical-align:top&quot; scope=&quot;col&quot;&gt;Will retrieve documents with title words:&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td scope=&quot;row&quot;&gt;acid rain&lt;/td&gt;
+			&lt;td&gt;all the words&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;acid&lt;/strong&gt; and &lt;strong&gt;rain&lt;/strong&gt; in any order without regards to proximity&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td scope=&quot;row&quot;&gt;acid rain snow&lt;/td&gt;
+			&lt;td&gt;any words&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;acid&lt;/strong&gt; or &lt;strong&gt;rain&lt;/strong&gt; or &lt;strong&gt;snow&lt;/strong&gt; or&lt;br /&gt;&lt;strong&gt;acid rain&lt;/strong&gt; or &lt;strong&gt;acid snow&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td scope=&quot;row&quot;&gt;earth in the balance&lt;/td&gt;
+			&lt;td&gt;exact phrase&lt;/td&gt;
+			&lt;td&gt;&lt;strong&gt;earth in the balance&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Search in the TITLE field for:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:453px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:453px;&quot;&gt;&lt;img alt=&quot;Screenshot showing selection of how the search words must appear in the document using the far right dropdown menu.&quot; height=&quot;94&quot; width=&quot;453&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/title.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;keyword&quot; id=&quot;keyword&quot;&gt;Searching by KEYWORD&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to do a broad search on a particular topic. The words will not necessarily appear in the title of the document. They could appear in the title, the abstract, any notes field, authors, corporate authors or the subject headings of the record. They do, however, all have to be present in the same field (e.g., all within the title field, or all within the abstract).&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;Basic&lt;/strong&gt; search screen, simply enter words in the text box labeled &lt;strong&gt;Keywords&lt;/strong&gt; and then click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, enter words to search for in the text box labeled &lt;strong&gt;Keywords&lt;/strong&gt; and then choose one of the searching options from the drop-down menu to the right of the box. You can specify that the document record must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;table style=&quot;vertical-align:top&quot; summary=&quot;This table has three columns and four rows. Each row shows an example of words that could be entered in an OLS keyword search, a search option from the keyword drop-down menu, and the types of documents that will be found with that search option.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th id=&quot;header1&quot; style=&quot;width:33%; vertical-align:top&quot;&gt;Entering these words:&lt;/th&gt;
+			&lt;th id=&quot;header2&quot; style=&quot;width:27%&quot;&gt;With this search option:&lt;/th&gt;
+			&lt;th id=&quot;header3&quot; style=&quot;width:38%&quot;&gt;Will retrieve documents about:&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;header1&quot;&gt;pfiesteria piscicida maryland&lt;/td&gt;
+			&lt;td headers=&quot;header2&quot;&gt;all of the words&lt;/td&gt;
+			&lt;td headers=&quot;header3&quot;&gt;occurrence of &lt;strong&gt;pfiesteria piscicida&lt;/strong&gt; in &lt;strong&gt;Maryland&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;header1&quot;&gt;toxic hazardous waste&lt;/td&gt;
+			&lt;td headers=&quot;header2&quot;&gt;any words&lt;/td&gt;
+			&lt;td headers=&quot;header3&quot;&gt;&lt;strong&gt;hazardous waste&lt;/strong&gt; or &lt;strong&gt;toxic waste&lt;/strong&gt; or &lt;strong&gt;toxic&lt;/strong&gt; or &lt;strong&gt;hazardous&lt;/strong&gt; or &lt;strong&gt;waste&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;header1&quot;&gt;emissions of greenhouse gases&lt;/td&gt;
+			&lt;td headers=&quot;header2&quot;&gt;exact phrase&lt;/td&gt;
+			&lt;td headers=&quot;header3&quot;&gt;&lt;strong&gt;emissions of greenhouse gases&lt;/strong&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Search in the KEYWORD field for:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:452px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:452px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to select how the search words must appear in the document using the far right dropdown menu.&quot; height=&quot;121&quot; width=&quot;452&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/keyword.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;author&quot; id=&quot;author&quot;&gt;Searching by AUTHOR&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to search for works by a particular author.&lt;/p&gt;
+
+&lt;p&gt;(Note - you can&#039;t search for journal articles in the catalog.)&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;Basic&lt;/strong&gt; search screen, choose &lt;strong&gt;Author&lt;/strong&gt; from the field drop-down menu, and enter the author&#039;s name in the text box. Enter the full name, just the last name, or the first initial and the last name. Click on the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, enter the author&#039;s name in the text box labeled &lt;strong&gt;Author&lt;/strong&gt;, and then choose one of the searching options from the drop-down menu to the right of the box. You can specify that the document record must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. It is recommended when searching for an author that you not use the ‘exact phrase’ option since the author’s first and last names could be listed in any order. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;The following are all valid entries:&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;Carson&lt;/li&gt;
+		&lt;li&gt;Rachel Carson&lt;/li&gt;
+		&lt;li&gt;R* Carson (the asterisk is a &quot;wildcard&quot; character - this will search for all words beginning with the letter R.)&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Search in the AUTHOR field for:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:448px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to select author from the dropdown menu to search that field.&quot; height=&quot;34&quot; width=&quot;448&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/author.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;number&quot; id=&quot;number&quot;&gt;Searching by Report Number or Call Number&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to search for publications by EPA report number, NTIS (National Technical Information Service) Report Number or Call Number.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPA Report Number: &lt;/strong&gt;This number will usually have the format EPA/nnn-n-nn-nnn. You can search for the number with or without the punctuation.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;EPA220R93007&lt;/li&gt;
+		&lt;li&gt;epa/220-r-93-007&lt;/li&gt;
+		&lt;li&gt;epa220* (the asterisk is a &quot;wildcard&quot; character&quot; - this search will retrieve all documents with report numbers that begin with &quot;epa220&quot;)&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Search in the REPORT/CALL NUMBER field for an EPA Report Number:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:427px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:427px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to select the &amp;quot;Report/Call Number&amp;quot; field from the dropdown menu to search that field.&quot; height=&quot;31&quot; width=&quot;427&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/epanum.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;National Technical Information Service (NTIS) Report Number: &lt;/strong&gt;Many EPA documents and other federal environmental documents are available from NTIS. These items will have a report number that follows the format PBnnn-nnn or PBnnnn-nnnnnn. Including the dash (-) in the search is optional.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;PB96-115910&lt;/li&gt;
+		&lt;li&gt;PB2012-103314&lt;/li&gt;
+		&lt;li&gt;pb187-758&lt;/li&gt;
+		&lt;li&gt;pb97* (this search will retrieve all documents with NTIS report numbers that begin with &quot;pb97&quot;)&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Search in the REPORT/CALL NUMBER field for a NTIS number:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:427px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:427px;&quot;&gt;&lt;img alt=&quot;Screenshot showing the &amp;quot;Report/Call Number&amp;quot; field being searched with an NTIS number.&quot; height=&quot;28&quot; width=&quot;427&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/ntis.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Call Number&lt;/strong&gt;: This number is usually the Library of Congress Call Number assigned to a book. You can search for this number with or without punctuation.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;ge105.004&lt;/li&gt;
+		&lt;li&gt;GE105004&lt;/li&gt;
+		&lt;li&gt;gf41.g67 1993&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Search in the REPORT/CALL NUMBER field for a call number:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:427px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif view-mode-full&quot; style=&quot;width:427px;&quot;&gt;&lt;img alt=&quot;Screenshot showing the &amp;quot;Report/Call Number&amp;quot; field being searched with a Library of Congress call number.&quot; height=&quot;28&quot; width=&quot;427&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/callnum.gif&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Advanced Search Options&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;corporate&quot; id=&quot;corporate&quot;&gt;Searching by CORPORATE SOURCE&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes a book or report is authored by a group or corporate entity, rather than by one person. Use this field to search for publications by a particular group, publisher or corporate source.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen, choose &lt;strong&gt;CORP Source&lt;/strong&gt; from any of the field drop-down menus, enter words in the adjacent text box, and then choose one of the searching options from the drop-down menu to the right of the box. You can specify that the document record must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;University of California Berkeley&lt;/li&gt;
+		&lt;li&gt;Environmental Protection Agency&lt;/li&gt;
+		&lt;li&gt;American Chemical Society&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Search in the CORP SOURCE field for:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:450px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:450px;&quot;&gt;&lt;img alt=&quot;Screenshot showing the &amp;quot;CORP Source&amp;quot; field being searched.&quot; height=&quot;35&quot; width=&quot;450&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/corp.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- POSSIBLY REMOVE &lt;p&gt;If you are not sure of the form or spelling of the group&#039;s name, or if you only remember part of the name, you can browse the index of all corporate author names in OLS. See the section on &lt;a href=&quot;#browse&quot;&gt;Browsing the OLS Indexes&lt;/a&gt; for more information.&lt;/p&gt; --&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;number2&quot; id=&quot;number2&quot;&gt;&lt;strong&gt;Searching by OCLC Number&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OCLC Number:&lt;/strong&gt; You can search for an item by its unique Online Computer Library Center (OCLC) Number.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;28413039&lt;/li&gt;
+		&lt;li&gt;26634970&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;Enter your search term in the text box adjacent to &lt;strong&gt;OCLC Number&lt;/strong&gt;:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:263px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:263px;&quot;&gt;&lt;img alt=&quot;Searchbox for OCLC number.&quot; height=&quot;30&quot; width=&quot;263&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/oclc.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;year&quot; id=&quot;year&quot;&gt;Searching by Year of Publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to limit your search to a particular year or range of years.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;p&gt;Limit Search to items that were published in 2005:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:459px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:459px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to limit a search to items published in a specific year.&quot; height=&quot;32&quot; width=&quot;459&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/2005.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;Limit Search to items that were published during or after 2001:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:459px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:459px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to limit the search to items published after a specific year.&quot; height=&quot;32&quot; width=&quot;459&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/2001.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;Limit Search to items that were published during or before 1980:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:459px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:459px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to limit search results to items published during or before a specific year.&quot; height=&quot;32&quot; width=&quot;459&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/1980.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+	&lt;p&gt;Limit Search to items that were published between and including the years 1990 and 2000&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:459px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:459px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to limit results to items published within a specified range of years.&quot; height=&quot;32&quot; width=&quot;459&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/1990.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;subject&quot; id=&quot;subject&quot;&gt;Searching the Subject Field&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this field to search the subject headings of a record. Choose &lt;strong&gt;Subjects&lt;/strong&gt; from any of the field drop-down menus, and type the subject term in the text box. You can specify that the subject field must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;You can search using Library of Congress Subject Headings. Be sure to include the proper spacing and punctuation.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;To search for records under the subject of &quot;Industrial hygiene -- Problems&quot; (a Library of Congress Subject Heading), enter this term in the Subject field:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-media_large center&quot; style=&quot;width:452px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:452px;&quot;&gt;&lt;img alt=&quot;Screenshot showing &amp;quot;subjects&amp;quot; field selected in dropdown box for searching Library of Congress subject headings.&quot; height=&quot;150&quot; width=&quot;452&quot; class=&quot;media-image media-element file-media-large&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2013-06/subject.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;issn&quot; id=&quot;issn&quot;&gt;Searching for ISSNs, ISBNs, Subcollections or Open Entry Information &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An ISSN, or International Standard Serial Number, is a unique document number used to identify a print or electronic serial publication, like a journal or periodical. An ISBN, or International Standard Book Number, is also a unique document number, used to identify a book. On the Advanced Search screen, you can search for ISSNs or ISBNs by selecting from the drop down menu in the &lt;strong&gt;Report/Call Number&lt;/strong&gt; field. Using this drop down menu, you can also search for local &lt;strong&gt;Subcollections&lt;/strong&gt; or local &lt;strong&gt;Open Entry &lt;/strong&gt;information.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Choose ISSN from the drop down menu, and then enter your search term in the field:&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:348px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:348px;&quot;&gt;&lt;img alt=&quot;Screenshot showing dropdown box selecting ISSN number field.&quot; title=&quot;Screen shot of a search for ISSN number&quot; height=&quot;138&quot; width=&quot;348&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/issn.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;notes&quot; id=&quot;notes&quot;&gt;Searching the Notes Field&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the &lt;strong&gt;Keyword&lt;/strong&gt; field to search the various notes fields of a record. A record&#039;s &lt;strong&gt;Notes&lt;/strong&gt; field typically contains information about the document that does not fit in any other field. For example, if an item includes a disk or other supplementary material, this information will appear in the &lt;strong&gt;Notes&lt;/strong&gt; field. Also included in the &lt;strong&gt;Keyword&lt;/strong&gt; search is the &lt;strong&gt;Contents Notes&lt;/strong&gt; field which is similar to an abstract. Choose &lt;strong&gt;Keywords&lt;/strong&gt; from the drop down menu on the &lt;a href=&quot;http://cfpub.epa.gov/ols/catalog/advanced_lookup.cfm&quot;&gt;Advanced Search&lt;/a&gt; screen and type the terms in the text box. You can specify that the field must contain all of the words that you entered, any of the words that you entered, or the exact phrase that you entered. Click the &lt;strong&gt;Search&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;order&quot; id=&quot;order&quot;&gt;Sorting Your Search Results&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can customize the order in which your search results are displayed. By default, they will be sorted by Publication dates (newest-oldest), so that the most recent publications will be displayed first.&lt;/p&gt;
+
+&lt;p&gt;At the top of the search screen you can change the value of the &lt;strong&gt;Sort Results&lt;/strong&gt; so that the results will be displayed in order by Publication dates (newest-oldest), by Publication dates (oldest-newest), or alphabetically by title.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;To change the default sort to a title sort&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:532px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:532px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to change the default sort to a title sort&quot; title=&quot;Screen shot showing how to change the default sort to a title sort&quot; height=&quot;108&quot; width=&quot;532&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/sort.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;collect&quot; id=&quot;collect&quot;&gt;Searching a Specific Collection of Materials&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;Advanced Search&lt;/strong&gt; screen, you can choose to limit your search by a specific type of library material. For instance, you can limit your search to only the journal collection, thus eliminating books, documents, and audiovisual materials from the search. You can limit your search to only &lt;strong&gt;books&lt;/strong&gt;, EPA &lt;strong&gt;documents&lt;/strong&gt;, &lt;strong&gt;journals&lt;/strong&gt;, &lt;strong&gt;reference&lt;/strong&gt; items, or &lt;strong&gt;audiovisual&lt;/strong&gt; materials. Simply select one of the options from the ‘Choose a collection’ drop-down menu. You can also select multiple collections of materials for which to limit your search by pressing the Control key as you select each individual collection name.  Check the&lt;strong&gt; Items with URLs&lt;/strong&gt; box to limit your search to only those records that contain a URL or link to the actual document or related item.&lt;/p&gt;
+
+&lt;p&gt;If you don&#039;t choose one, you will automatically search all collections. (Please note that some EPA libraries have not always cataloged their collections in this way. If you can&#039;t find what you are looking for, switch the selection back to &quot;&lt;strong&gt;Search all collections&lt;/strong&gt;&quot; and repeat the search.)&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;To change the material collection limitation to ‘documents’.&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:417px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:417px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to change the material collection limitation to documents.&quot; title=&quot;Screen shot showing how to change the material collection limitation to &amp;#039;documents&amp;#039;&quot; height=&quot;84&quot; width=&quot;417&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/collect.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;connect&quot; id=&quot;connect&quot;&gt;Searching Multiple Fields&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the &lt;strong&gt;Advanced Search&lt;/strong&gt; screen, you can search multiple fields at the same time. For instance, you can search for books by the author Rachel Carson that were published in 1961.&lt;/p&gt;
+
+&lt;p&gt;By default the fields will be connected with the Boolean &quot;AND&quot; operator. For example, in the above search example, the system will search for &quot;Rachel Carson&quot; in the &lt;strong&gt;Author&lt;/strong&gt; field and the year &quot;1961&quot; in the &lt;strong&gt;Year Published&lt;/strong&gt; field. You will see that the &lt;strong&gt;Field Connector&lt;/strong&gt; fields in between the fields is set to &quot;AND.&quot;&lt;/p&gt;
+
+&lt;p&gt;You can change the value in the &lt;strong&gt;Field Connector&lt;/strong&gt; fields. Choosing &quot;OR&quot; as the value will cause the system to search for any of the values you have entered, but not necessarily all of them together in one record. Choosing &quot;AND NOT&quot; as the connector allows you to exclude certain items from your search. For example, doing the search for Rachel Carson and 1961 with the &quot;AND NOT&quot; connector would return a list of all items authored by Rachel Carson EXCEPT items that were published in 1961.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:546px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:546px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to combine search fields with the connectors AND, AND NOT, and OR&quot; title=&quot;Screen shot showing how to combine search fields with the connectors AND, AND NOT, and OR&quot; height=&quot;126&quot; width=&quot;546&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/fields.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;display&quot; id=&quot;display&quot;&gt;Displaying Your Search Results&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After you have submitted a search, a results screen will be displayed showing a list of records that matched your search. The total number of items found and the range of items presently shown on the screen is displayed at the top of the results screen. Your search strategy is also displayed. The records are listed 50 per screen, showing the title of the item and the year in which it was published.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;Page 4 of the search results for Keyword=’acid rain’&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:628px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:628px;&quot;&gt;&lt;img alt=&quot;Screenshot of the search results display page.&quot; title=&quot;Screen shot of the search results display page&quot; height=&quot;396&quot; width=&quot;628&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/results.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To view one of the records, simply click on the title. To see a list of the 50 items on page 2 of the results, click the number &lt;strong&gt;2&lt;/strong&gt;, or NEXT at the top right corner of the results display.  A link to each page of results will be displayed except if the range of pages is too large to fit within the allocated space. In that situation, a continuation symbol of three dots (…) will appear as in the example above.&lt;/p&gt;
+
+&lt;p&gt;Located directly under the displayed search strategy are three of the search options from the main search page. With these options you can quickly make changes to the original search strategy by changing the sort parameter, and limiting the search to specific library collections and/or material collections. After indicating your changes simply click the ‘Go’ button and the search results page will be redisplayed with the new search parameters incorporated.&lt;/p&gt;
+
+&lt;p&gt;At the top of the screen is the &lt;strong&gt;Bibliography&lt;/strong&gt; button. Clicking on this button will display your results in bibliographic format, showing short citations for each item. This option allows you to easily print several citations at a time. From the bibliography display, you can return to your list of results by clicking on the &lt;strong&gt;Search Results&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;Page 8 of the bibliography for Keyword=’acid rain’&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:628px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:628px;&quot;&gt;&lt;img alt=&quot;Screenshot of results displayed as a bibliography.&quot; title=&quot;Screen shot of results displayed as a bibliography&quot; height=&quot;433&quot; width=&quot;628&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/biblio.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;From the bibliographic display you can click the link for &lt;strong&gt;Full Record &lt;/strong&gt;to display all the fields for any of the listed records.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;Record display for the title ‘Acid rain in Shenandoah National Park, Virginia’&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:628px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:628px;&quot;&gt;&lt;img alt=&quot;Screenshot showing record display for the title &amp;#039;Acid rain in Shenandoah National Park, Virginia&amp;#039;&quot; title=&quot;Screen shot showing record display for the title &amp;#039;Acid rain in Shenandoah National Park, Virginia&amp;#039;&quot; height=&quot;230&quot; width=&quot;628&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/record.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;save&quot; id=&quot;save&quot;&gt;&lt;strong&gt;Save, Print or Email Selected Records&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Located at the bottom of the &lt;strong&gt;Search Results &lt;/strong&gt;page is a section in which you can save, print or email selected records from your present search results. You can select individual records by clicking the check box to the left of each record on one or more pages of the search results. If you choose records across several pages you will need to click the ‘Retain Marked Records’ button after selecting records on each pertinent page. If you need to ‘select’ a new set of records then the ‘Clear Marked Records’ button must first be clicked which will ‘unclick’ all presently selected records. There is another option to select all records from the presently displayed page and a final option to select all records from the search results, although there is a one thousand record maximum for this option.&lt;/p&gt;
+
+&lt;p&gt;The format of the saved or printed results can either be text, ASCII delimited, or ENDNOTE. Text format will be columnar, including the field name in the left column and the field data in the right column.  ASCII format will display each field of data separated by the carrot character (^) and which can be directly exported to and EXCEL spreadsheet. ENDNOTE format is a specialized format to be used only with the ENDNOTE product. Finally you can email your selected records to a valid email address.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;Select all records from the page and save them in ASCII delimited format for EXCEL&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:534px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:534px;&quot;&gt;&lt;img alt=&quot;Screenshot showing how to select all records from the page and save them in ASCII delimited format for EXCEL&quot; title=&quot;Screen shot showing how to select all records from the page and save them in ASCII delimited format for EXCEL&quot; height=&quot;246&quot; width=&quot;534&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/ascii.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;history&quot; id=&quot;history&quot;&gt;&lt;strong&gt;Search History Option&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Each search display page has a button labeled, &lt;strong&gt;Search History, &lt;/strong&gt;which when clicked will take you to page that lists all the searches that you have performed during your present session. Both the search strategy and number of records found (hits) for that search will be displayed. By clicking on the link for a particular search, you will be taken to the search results page for that associated search.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;Search history page displaying all searches for a particular user session.&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:628px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:628px;&quot;&gt;&lt;img alt=&quot;Screenshot displaying all searches for a particular user session&quot; title=&quot;Screen shot displaying all searches for a particular user session&quot; height=&quot;240&quot; width=&quot;628&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/history.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;newacq&quot; id=&quot;newacq&quot;&gt;&lt;strong&gt;New Acquisitions&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;New Acquisitions are a listing of new books, serials, document titles, and reference items that were added to the EPA National Library Catalog collections during the current month and previous three months. The links to these new items are grouped by EPA Library name. The records are listed in year published order although from the &#039;Results Page&#039; you are given the ability to re-sort the list by title.&lt;/p&gt;
+
+&lt;p&gt;To view the New Acquisitions page you can click the link toward the bottom of the Basic Search page or the Advanced Search page. Then simply click on the month under the library heading for which you are interested in viewing new acquisitions. /p&amp;gt;&lt;/p&gt;
+
+&lt;div class=&quot;box&quot; style=&quot;width:85%&quot;&gt;
+	&lt;p&gt;&lt;strong&gt;Example: &lt;/strong&gt;New Acquisitions page&lt;/p&gt;
+
+	&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:628px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:628px;&quot;&gt;&lt;img alt=&quot;Screenshot of New Acquisitions page.&quot; title=&quot;New Acquisitions page&quot; height=&quot;288&quot; width=&quot;628&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-01/new.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;&lt;a name=&quot;buttons&quot; id=&quot;buttons&quot;&gt;Guide to the Toolbar Buttons&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;This table has two columns and ten rows.  Each row describes a button name and its function. &quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;vertical-align:top&quot;&gt;Button Name&lt;/th&gt;
+			&lt;th style=&quot;vertical-align:top&quot;&gt;Button Function&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;New Search&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;Takes you to a blank search screen&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;span&gt;&lt;strong&gt;PREV 1 2 3 4 5 6 7 8 NEXT&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From the search results page, these links will take you to each successive or prior page in the search results&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Search Results&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From a record or the bibliography page, this button takes you back to the display of your search results&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Bibliography&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From a record or the search results page, this button will take you to the bibliography page, a listing of item citations&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Modify Search&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From several display pages this button will take you to the search page, populated with your last search criteria&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Search History&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;This button will take you to a page displaying all your session searches with links to the associated search results&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Main Record&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From the full record display page, this button will take you to the record display listing a subset of displayable fields&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;Full Record&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From the record display page, this button will take you to the full record display listing all of the displayable fields&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;PREV&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From a record, this button displays the prior record from your search results&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;vertical-align:top&quot;&gt;&lt;strong&gt;NEXT&lt;/strong&gt;&lt;/td&gt;
+			&lt;td style=&quot;vertical-align:top&quot;&gt;From a record, this button displays the next record in your search results&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;strong&gt;System Features&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;truncate&quot; id=&quot;truncate&quot;&gt;&lt;strong&gt;Truncation and Wildcards&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	When you enter a search in the catalog, the system will search for words exactly as you enter them. For example, searching for the term &quot;cat&quot; would &lt;strong&gt;only&lt;/strong&gt; find the word &quot;cat,&quot; not &quot;cats,&quot; &quot;catnip&quot; or &quot;caterpillar.&quot;&lt;/p&gt;
+
+&lt;p&gt;To expand your search so that it includes various word endings, you will need to use the asterisk character (*) at the end of the word. This will tell the system to retrieve all words that begin with the letters you have entered. The asterisk is a &quot;wildcard&quot; character.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table summary=&quot;This table has two columns and four rows.  Each row shows an example of an asterisk wildcard character search and the search retrieval results.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;width:40%; vertical-align:top&quot;&gt;Entering this:&lt;/th&gt;
+			&lt;th style=&quot;width:50%; vertical-align:top&quot;&gt;Will retrieve this:&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;wetland*&lt;/td&gt;
+			&lt;td&gt;wetland, wetlands&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;cat*&lt;/td&gt;
+			&lt;td&gt;cat, cats, catnip, caterpillar&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;run*&lt;/td&gt;
+			&lt;td&gt;run, runs, running, runner, runoff&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;epa310r95*&lt;/td&gt;
+			&lt;td&gt;epa310r95001, epa310r95002, epa310r95003, etc.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;You can also use a wildcard character that will represent one character. Use the question mark (?) to stand in for one character. You can use several question marks in a row to stand in for a specific number of characters. This is useful if you are unsure of the spelling of a word.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table style=&quot;width:85%&quot; summary=&quot;This table has two columns and three rows.  Each row shows an example of a question mark wildcard character search and its search retrieval results.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;width:50%; vertical-align:top&quot;&gt;Entering this:&lt;/th&gt;
+			&lt;th style=&quot;width:50%; vertical-align:top&quot;&gt;Will retrieve this:&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;rec??ve&lt;/td&gt;
+			&lt;td&gt;receive&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;acid?&lt;/td&gt;
+			&lt;td&gt;acids (but not acidic or acidity)&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;width:70%&quot; /&gt;&lt;p&gt;&lt;a name=&quot;case&quot; id=&quot;case&quot;&gt;&lt;strong&gt;Case sensitivity&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The catalog is not case sensitive, which means that you do not have to use capitalization in any of the words or report numbers for which you are searching. For example, searching for &quot;superfund&quot; will find records that contain the words &quot;Superfund,&quot; &quot;SUPERFUND&quot; and &quot;superfund.&quot;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 12 Mar 2013 15:37:14 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">18715 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>The EPA National Library Catalog</title>
+    <link>https://www.epa.gov/libraries/epa-national-library-catalog</link>
+    <description>&lt;p&gt;The &lt;a href=&quot;https://cfpub.epa.gov/ols/catalog/catalog_lookup.cfm&quot;&gt;EPA National Library Catalog&lt;/a&gt; consists of several related databases that comprise a shared catalog. Use the catalog to locate books, reports, journals, and audiovisual materials on a variety of topics. Then contact your local public, corporate or academic library to arrange for a loan.&lt;br /&gt;&lt;br /&gt;
+	The material in the catalog is updated every two weeks, and may be searched in many ways, such as by title, author, and keyword. In addition to the primary catalog, there are databases within the catalog associated with special collections:&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;National Catalog&lt;/strong&gt;, which is the most popular database, contains the holdings (lists of books, documents and magazine titles) for EPA’s repositories and regional, laboratory, and specialized libraries. The National Catalog also has holdings for the EPA documents in the National Technical Information Service (NTIS) whether or not they are held by any libraries. NTIS abstracts can also be searched for and displayed.&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;National Service Center for Environmental Publications (NSCEP)&lt;/strong&gt; distributes thousands of popular EPA documents free of charge. Search this collection to find publications that are available from NSCEP.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;GroundWater Ecosystems Restoration&lt;/strong&gt; is a collection located in Ada, Oklahoma that contains specialized scientific and technical information relating to ground water protection and remediation. Information includes strategies and technologies to protect and restore ground water, surface water, and ecosystems impacted by man-made and natural events.&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;Air Pollution Technical Information Center&lt;/strong&gt; database contains abstracts of materials that are maintained on microfiche by the EPA library located in Research Triangle Park, North Carolina.&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;Region 1&lt;/strong&gt; database contains the historical holdings of the Region 1 library in Boston, Massachusetts.&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;Region 8&lt;/strong&gt; database contains the historical holdings of the Region 8 library in Denver, Colorado.&lt;br /&gt;&lt;br /&gt;
+	The &lt;strong&gt;Region 9&lt;/strong&gt; database contains historical information from the Region 9 library in San Francisco, California.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+	You can search the catalog to find information on a specific publication, or you can search for all of the books and reports that EPA has on a particular topic or by a particular author. Once you retrieve records for publications that interest you, there are several ways that you can obtain those publications.&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;h3&gt;How To Obtain Publications&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Via an EPA Library:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+	If a publication is owned by one of EPA&#039;s libraries, the catalog record will contain that information. In the field labeled &quot;Holdings,&quot; there will be a four-letter code that represents the owner library. The name of the library is also written out below the holdings information.&lt;br /&gt;&lt;br /&gt;
+	EPA staff may check items out from their local EPA library, or request a publication via Interlibrary Loan from another EPA library. Members of the public can request publications via Interlibrary Loan by working with a public, university, government or corporate library in their area. Contact the &lt;a href=&quot;mailto:epalibrarynetwork@epa.gov&quot;&gt;epalibrarynetwork@epa.gov&lt;/a&gt; for further information.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Via the National Service Center for Environmental Publications (NSCEP):&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+	Some EPA publications are available from EPA&#039;s &lt;a href=&quot;/nscep&quot;&gt;National Service Center for Environmental Publications&lt;/a&gt;, located in Cincinnati, Ohio. NSCEP has over 7,000 hard-copy and more than 50,000 electronic EPA publications available free-of-charge to the public. Search NSCEP for these documents, or look for links to available NSCEP documents in &lt;a href=&quot;https://cfpub.epa.gov/ols/catalog/catalog_lookup.cfm&quot;&gt;EPA National Library Catalog&lt;/a&gt; records.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Via the National Technical Information Service (NTIS):&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;
+	Thousands of EPA documents are available from the &lt;a href=&quot;http://www.ntis.gov&quot;&gt;National Technical Information Service&lt;/a&gt; . A document that is available from NTIS can be identified from the catalog record. The record will have an alphanumeric code in the &quot;Call Number&quot; field that has this format:&lt;br /&gt;
+	PB nnn-nnn, or PBnn-nnnnnn. Contact NTIS toll-free at 1-800-553-6847(NTIS).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+	 &lt;/p&gt;
+
+
+
+
+
+
+</description>
+     <pubDate>Mon, 11 Mar 2013 21:40:07 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">18699 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>About Sunder Ram</title>
+    <link>https://www.epa.gov/libraries/about-sunder-ram</link>
+    <description>&lt;p&gt;About Sunder Ram.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-11789&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/documents/aboutsunderram.pdf&quot; type=&quot;application/pdf; length=56453&quot; class=&quot;file-link&quot;&gt;About Sunder Ram (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 56 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 11 Mar 2013 18:53:57 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">18183 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Information Needs Assessment (Full Report)</title>
+    <link>https://www.epa.gov/libraries/information-needs-assessment-full-report</link>
+    <description>&lt;p&gt;Information Needs Assessment (Full Report), August 2009&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-1211&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/documents/outsellepaneedsassessreport2009.pdf&quot; type=&quot;application/pdf; length=1242405&quot; class=&quot;file-link&quot;&gt;Information Needs Assessment (Full Report), August 2009 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(122 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Jan 2013 19:38:39 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">889 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Executive Summary: Information Needs Assessment</title>
+    <link>https://www.epa.gov/libraries/executive-summary-information-needs-assessment</link>
+    <description>&lt;p&gt;Executive Summary: Information Needs Assessment, August 2009&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-1209&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/documents/outsellepaexecsummary2009.pdf&quot; type=&quot;application/pdf; length=282444&quot; class=&quot;file-link&quot;&gt;Executive Summary: Information Needs Assessment (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 282 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 18 Jan 2013 19:34:20 +0000</pubDate>
+ <dc:creator>AGerken</dc:creator>
+ <guid isPermaLink="false">887 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 04:59:21, expires @ 2017-01-25 16:59:21, lifetime 12 hours -->

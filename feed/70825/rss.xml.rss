@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/70825/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Dockets</title>
+    <link>https://www.epa.gov/feed/70825/rss.xml</link>
+    <description>Updated Dockets content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/70825/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>View Dockets Open for Public Comment by Program Office</title>
+    <link>https://www.epa.gov/dockets/view-dockets-open-public-comment-program-office</link>
+    <description>&lt;p&gt;&lt;strong&gt;This page is a work in progress! &lt;/strong&gt;Program offices will be gradually added to the list. To identify open comment periods for a particular docket, please contact your program office.&lt;/p&gt;
+
+&lt;p&gt;To view the comment period closing and Federal Register effective dates, please select the appropriate program office from the drop down menu below.&lt;/p&gt;
+
+&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;select class=&quot;form-select&quot; id=&quot;div-selector&quot;&gt;&lt;option value=&quot;&quot;&gt;Select an Office&lt;/option&gt;&lt;option value=&quot;oar&quot;&gt;Office of Air and Radiation (OAR)&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+
+&lt;p&gt;If you wish to comment, click on the hyperlink under the Document Bookmark column and you will be automatically routed to Regulations.gov. For more information about how to comment, go to &lt;a href=&quot;/dockets/commenting-epa-dockets&quot;&gt;Commenting on EPA Dockets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id=&quot;oar&quot;&gt;
+
+	&lt;table class=&quot;tablesorter&quot;&gt;&lt;caption&gt;OAR Comment Period Closings and Federal Register Effective Dates&lt;br /&gt;
+			January 20, 2017&lt;/caption&gt;
+		&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Docket#&lt;/th&gt;
+				&lt;th&gt;Docket Title&lt;/th&gt;
+				&lt;th&gt;Document Bookmark&lt;/th&gt;
+				&lt;th&gt;Phase&lt;/th&gt;
+				&lt;th&gt;Publish Date&lt;/th&gt;
+				&lt;th&gt;Comment End / Effective Date&lt;/th&gt;
+				&lt;th&gt;Notes&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0690&lt;/td&gt;
+				&lt;td&gt;Response to the November Section 126 Petition From Maryland&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0690-0001&quot;&gt;EPA-HQ-OAR-2016-0690-0001&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/3/17&lt;/td&gt;
+				&lt;td&gt;1/13/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0751&lt;/td&gt;
+				&lt;td&gt;2015 Ozone NAAQS Preliminary Transport Data &lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0751-0001&quot;&gt;EPA-HQ-OAR-2016-0751-0001&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/6/17&lt;/td&gt;
+				&lt;td&gt;4/6/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2014-0471&lt;/td&gt;
+				&lt;td&gt;Petition to Add n-Propyl Bromide to the List of Hazardous Air Pollutants&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2014-0471-0062&quot;&gt;EPA-HQ-OAR-2014-0471-0062&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/9/17&lt;/td&gt;
+				&lt;td&gt;3/10/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2008-0218&lt;/td&gt;
+				&lt;td&gt;Subpart W-National Emission Standards for Radon Emissions from Operating Mill Tailings&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2008-0218-0196&quot;&gt;EPA-HQ-OAR-2008-0218-0196&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/9/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt;Memorandum&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2015-0531&lt;/td&gt;
+				&lt;td&gt;Protection of Visibility: Amendments to Requirements for State Plans&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2015-0531-0614&quot;&gt;EPA-HQ-OAR-2015-0531-0614&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/10/17&lt;/td&gt;
+				&lt;td&gt;1/10/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0664&lt;/td&gt;
+				&lt;td&gt;Federal Plan requirements for Commercial and Industrial Solid Waste Incineration Units&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0664-0001&quot;&gt;EPA-HQ-OAR-2016-0664-0001&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Proposed Rule&lt;/td&gt;
+				&lt;td&gt;1/11/17&lt;/td&gt;
+				&lt;td&gt;2/27/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2015-0827&lt;/td&gt;
+				&lt;td&gt;Mid-term Evaluation of Model Year 2022-2025 Light-duty Vehicle Greenhouse Gas Emissions Standard&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2015-0827-6240&quot;&gt;EPA-HQ-OAR-2015-0827-6240&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;11/13/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt;Memorandum&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0094&lt;/td&gt;
+				&lt;td&gt;Agency Information Collection Activities; Proposals, Submissions, and Approvals: Importation of On-highway Vehicles and Motorcycles and Nonroad Engines, Vehicles, and Equipment&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0094-0003&quot;&gt;EPA-HQ-OAR-2016-0094-0003&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/13/17&lt;/td&gt;
+				&lt;td&gt;2/13/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2015-0730&lt;/td&gt;
+				&lt;td&gt;National Emission Standards for Hazardous Air Pollutants: Nutritional Yeast Manufacturing Risk and Technology Review (Extension)&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2015-0730-0018&quot;&gt;EPA-HQ-OAR-2015-0730-0018&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Proposed Rule - Extension&lt;/td&gt;
+				&lt;td&gt;1/13/17&lt;/td&gt;
+				&lt;td&gt;2/22/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2015-0730&lt;/td&gt;
+				&lt;td&gt;National Emission Standards for Hazardous Air Pollutants: Nutritional Yeast Manufacturing Risk and Technology Review (Notice of Public Hearing)&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2015-0730-0019&quot;&gt;EPA-HQ-OAR-2015-0730-0019&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Proposed Rule - Notice of Public Hearing&lt;/td&gt;
+				&lt;td&gt;1/13/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2008-0218&lt;/td&gt;
+				&lt;td&gt;Subpart W-National Emission Standards for Radon Emissions from Operating Mill Tailings&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2008-0218-0216&quot;&gt;EPA-HQ-OAR-2008-0218-0216&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/17/17&lt;/td&gt;
+				&lt;td&gt;3/20/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2013-0602&lt;/td&gt;
+				&lt;td&gt;Standards of Performance for Greenhouse Gas Emissions from Existing Sources: Electric Utility Generating Units&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2013-0602-37237&quot;&gt;EPA-HQ-OAR-2013-0602-37237&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Action&lt;/td&gt;
+				&lt;td&gt;1/17/17&lt;/td&gt;
+				&lt;td&gt;1/11/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2015-0310&lt;/td&gt;
+				&lt;td&gt;Revision to the Guideline on Air Quality Models:  Enhancements to the AERMOD Dispersion Modeling System and Incorporation of Approaches to Address Ozone and Fine Particulate Matter; 11th Conference on Air Quality Modeling&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2015-0310-0154&quot;&gt;EPA-HQ-OAR-2015-0310-0154&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/17/17&lt;/td&gt;
+				&lt;td&gt;2/16/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0017&lt;/td&gt;
+				&lt;td&gt;California Waiver Request for 2006, 2007, 2008, and 2011 amendments to Heavy-Duty Engine Regulations&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0017-0064&quot;&gt;EPA-HQ-OAR-2016-0017-0064&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/17/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2010-0895&lt;/td&gt;
+				&lt;td&gt;National Emission Standards for Hazardous Air Pollutants: Ferroalloys Production&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2010-0895-0338&quot;&gt;EPA-HQ-OAR-2010-0895-0338&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Final Rule&lt;/td&gt;
+				&lt;td&gt;1/18/17&lt;/td&gt;
+				&lt;td&gt;1/18/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2012-0788&lt;/td&gt;
+				&lt;td&gt;Health and Environmental Protection Standards for Uranium and Thorium Mill Tailings (40 CFR Part 192)&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2012-0788-0277&quot;&gt;EPA-HQ-OAR-2012-0788-0277&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Proposed Rule&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;7/18/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2014-0534&lt;/td&gt;
+				&lt;td&gt;California State Nonroad Engine Pollution Control Standards: Commercial Harbor Craft Regulations&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2014-0534-0010&quot;&gt;EPA-HQ-OAR-2014-0534-0010&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0181&lt;/td&gt;
+				&lt;td&gt;California Authorization Request for Evaporative Emission Standards and Associated Test Procedures for New 2018 and Subsequent Model Year Off-Highway Recreational Vehicles&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0181-0014&quot;&gt;EPA-HQ-OAR-2016-0181-0014&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2013-0024&lt;/td&gt;
+				&lt;td&gt;California State Nonroad Engine Pollution Control Standards: In-Use Diesel-Fueled Transport Refrigeration Units (TRUs) and TRU Generator Sets and Facilities where TRUs Operate&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2013-0024-0019&quot;&gt;EPA-HQ-OAR-2013-0024-0019&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2007-0268&lt;/td&gt;
+				&lt;td&gt;Updates to Protective Action Guides Manual: Protective Action Guides (PAGs) and Planning Guidance for Radiological Incidents&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2007-0268-2224&quot;&gt;EPA-HQ-OAR-2007-0268-2224&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OAR-2016-0596&lt;/td&gt;
+				&lt;td&gt;Petitions: Response to Clean Air Act Petition From Connecticut, Delaware, Maryland, Massachusetts,New Hampshire, New York, Pennsylvania, Rhode Island and Vermont&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;https://www.regulations.gov/#!documentDetail;D=EPA-HQ-OAR-2016-0596-0001&quot;&gt;EPA-HQ-OAR-2016-0596-0001&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Notice&lt;/td&gt;
+				&lt;td&gt;1/19/17&lt;/td&gt;
+				&lt;td&gt;2/21/17&lt;/td&gt;
+				&lt;td&gt; &lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;&lt;p&gt;OAR is responsible for the weekly updates of this page. If information is not current, please contact &lt;a href=&quot;mailto:Reddick.Lorraine@epa.gov&quot;&gt;Lorraine Reddick&lt;/a&gt; (Reddick.Lorraine@epa.gov).&lt;/p&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Thu, 14 May 2015 17:21:11 +0000</pubDate>
+ <dc:creator>aingram</dc:creator>
+ <guid isPermaLink="false">84325 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Where to Send Comments for EPA Dockets</title>
+    <link>https://www.epa.gov/dockets/where-send-comments-epa-dockets</link>
+    <description>&lt;p&gt;&lt;a href=&quot;http://regulations.gov/&quot;&gt;&lt;strong&gt;Regulations.gov&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; is our preferred method of receiving comments.&lt;/strong&gt; However, other submission formats are accepted.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#regional&quot;&gt;Alternate Submission Forms for Regional Dockets&lt;/a&gt;: Information about additional submission methods for dockets originating from one of EPA’s regional offices. (Docket and Document IDs will begin in EPA-R…)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#hq&quot;&gt;Alternate Submission Forms for HQ Based Dockets&lt;/a&gt;: Instructions on how to submit comments to dockets originating from a headquarters program office. (Docket and Document IDs will begin in EPA-HQ…)&lt;/li&gt;
+	&lt;li&gt;For more information about EPA’s Commenting Rules and Restrictions and Tips, visit &lt;a href=&quot;/dockets/commenting-epa-dockets&quot;&gt;&lt;strong&gt;Commenting on EPA Dockets&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;regional&quot;&gt;Alternate Submission Forms for Regional Dockets&lt;/h2&gt;
+
+&lt;p&gt;Please note that comments on dockets originating from one of EPA’s regional offices are usually to be directed to that region, not EPA Headquarters in Washington, DC. Mailing instructions for regional dockets will be included in the relevant &lt;em&gt;Federal Register&lt;/em&gt; notice.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;hq&quot;&gt;Alternate Submission Forms for HQ Based Dockets&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#mail&quot;&gt;Mail&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#express&quot;&gt;Express Mail, Commercial Delivery, Hand Delivery or Courier&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Email&quot;&gt;Email and Fax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To &lt;span id=&quot;mail&quot;&gt;ship or send mail&lt;/span&gt; via the United States Postal Service, use the following address:&lt;/p&gt;
+
+&lt;div class=&quot;box special&quot; style=&quot;width:50%&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;U.S. Environmental Protection Agency&lt;br /&gt;
+			EPA Docket Center&lt;br /&gt;
+			[Enter Name of Docket Here],&lt;br /&gt;
+			Mail Code 28221T&lt;br /&gt;
+			1200 Pennsylvania Avenue, NW&lt;br /&gt;
+			Washington, DC 20460&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Use the Docket Center address if you are using &lt;span id=&quot;express&quot;&gt;express mail, commercial delivery, hand delivery or courier&lt;/span&gt;. Delivery verification signatures will be available only during regular business hours.&lt;/p&gt;
+
+&lt;div class=&quot;box special&quot; style=&quot;width:50%&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;EPA Docket Center&lt;br /&gt;
+			WJC West Building, Room 3334&lt;br /&gt;
+			1301 Constitution Avenue, NW&lt;br /&gt;
+			Washington, DC 20004&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To send a comment by &lt;span id=&quot;Email&quot;&gt;email or fax&lt;/span&gt;, look below for the contact information of the HQ program or office associated with the docket. Learn how to use a docket or document ID number to identify which HQ or regional program/office it is associated with by visiting &lt;a href=&quot;/dockets/about-epa-dockets#understanding&quot;&gt;Understanding Docket IDs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;form-item form-type-select&quot;&gt;&lt;select class=&quot;form-select&quot; id=&quot;div-selector&quot;&gt;&lt;option selected=&quot;selected&quot; value=&quot;&quot;&gt;Select an Office/Program&lt;/option&gt;&lt;option value=&quot;oar&quot;&gt;Office of Air and Radiation (OAR)&lt;/option&gt;&lt;option value=&quot;oeca&quot;&gt;Office of Enforcement and Compliance (OECA)&lt;/option&gt;&lt;option value=&quot;oei&quot;&gt;Office of Environmental Information (OEI)&lt;/option&gt;&lt;option value=&quot;oem&quot;&gt;Office of Emergency Management (OEM)&lt;/option&gt;&lt;option value=&quot;olem&quot;&gt;Office of Land &amp;amp; Emergency Management (OLEM)&lt;/option&gt;&lt;option value=&quot;opp&quot;&gt;Office of Pesticide Programs (OPP)&lt;/option&gt;&lt;option value=&quot;oppt&quot;&gt;Office of Pollution Prevention and Toxics (OPPT)&lt;/option&gt;&lt;option value=&quot;ord&quot;&gt;Office of Research and Development (ORD)&lt;/option&gt;&lt;option value=&quot;ow&quot;&gt;Office of Water (OW)&lt;/option&gt;&lt;option value=&quot;rcra&quot;&gt;Resource Conservation and Recovery Act Program (RCRA)&lt;/option&gt;&lt;option value=&quot;sfund&quot;&gt;Superfund Program (SFUND)&lt;/option&gt;&lt;option value=&quot;ust&quot;&gt;Underground Storage Tanks Program (UST)&lt;/option&gt;&lt;option value=&quot;others&quot;&gt;All Other Program Offices&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+
+&lt;div id=&quot;oar&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Air and Radiation (OAR)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:a-and-r-Docket@epa.gov&quot;&gt;a-and-r-Docket@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-1742&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;oeca&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Enforcement and Compliance (OECA)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:docket.oeca@epa.gov&quot;&gt;docket.oeca@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-1752&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;oei&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Environmental Information (OEI) (includes Toxics Release Inventory)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:oei.docket@epa.gov&quot;&gt;oei.docket@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-1752&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;ord&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Research and Development (ORD)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:ord.docket@epa.gov&quot;&gt;ord.docket@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-1752&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;ow&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Water (OW)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:OW-Docket@epa.gov&quot;&gt;OW-Docket@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-2426&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;rcra&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Resource Conservation and Recovery Act Program (RCRA)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;&lt;span&gt;(202) 566-0270&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;sfund&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Superfund Program (SFUND)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;(202) 566-0270&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;ust&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Underground Storage Tanks Program (UST)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;&lt;span&gt;(202) 566-0270&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;opp&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Pesticide Programs (OPP)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;(703) 305-5805&lt;/td&gt;
+				&lt;td style=&quot;width:20%&quot;&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;oppt&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Pollution Prevention and Toxics (OPPT)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:oppt.ncic@epa.gov&quot;&gt;oppt.ncic@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-0280&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;olem&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Land &amp;amp; Emergency Management (OLEM)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;(202) 566-0270&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;oem&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Office of Emergency Management (OEM)&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;None (Use Regulations.gov to submit electronically)&lt;/td&gt;
+				&lt;td&gt;(202) 566-0270&lt;/td&gt;
+				&lt;td&gt;N/A&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;div id=&quot;others&quot;&gt;
+	&lt;table style=&quot;width:100%&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Docket&lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;Email&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Phone&lt;/th&gt;
+				&lt;th scope=&quot;col&quot; style=&quot;width:23%&quot;&gt;Fax&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;All Other Program Offices&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;mailto:oei.docket@epa.gov&quot;&gt;oei.docket@epa.gov&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;(202) 566-1752&lt;/td&gt;
+				&lt;td&gt;(202) 566-9744&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 02 Feb 2015 18:06:36 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">73383 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Commenting on EPA Dockets</title>
+    <link>https://www.epa.gov/dockets/commenting-epa-dockets</link>
+    <description>&lt;p&gt;&lt;a href=&quot;http://regulations.gov/&quot;&gt;&lt;strong&gt;Regulations.gov&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; is our preferred method of receiving comments.&lt;/strong&gt; However, other submission formats are accepted. For a complete list of all accepted types and relevant mailing addresses, visit &lt;strong&gt;&lt;a href=&quot;/dockets/where-send-comments-epa-dockets&quot;&gt;Where to Send Comments&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#tips&quot;&gt;Tips for Effective Comments&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#rules&quot;&gt;Rules and Restrictions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;Tips for Effective Comments&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;tips&quot; name=&quot;tips&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A comment that expresses support or disagreement for a particular action provides general feedback to EPA. However, a comment that is constructive and provides information to support an argument is more likely to inform EPA’s decision-making process.The following tips are meant to help you prepare your comments.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Identify the docket ID number and other identifying information (e.g., subject heading, Federal Register date and page number) in your subject line. Comments cannot be considered if they are misdirected or get lost because the identifying information was not included. &lt;/li&gt;
+	&lt;li&gt;Read and understand the document you are commenting on. If you have difficulty understanding it, please reach out to the EPA contact person named in the document. Describe that difficulty in your comments, along with the clarification you received. &lt;/li&gt;
+	&lt;li&gt;Follow directions provided. The Agency may ask you to respond to specific questions, provide particular information or organize comments in a particular way to facilitate their processing once received by EPA. If your comment is about a particular proposed regulatory provision, include the reference to the proposed part and section number for the Code of Federal Regulations (CFR).&lt;/li&gt;
+	&lt;li&gt;Be concise but support your claims. Explain your views as clearly as possible, avoiding the use of profanity or personal threats. Explain why you agree or disagree; suggest alternatives and substitute language for your requested changes. Provide specific examples to illustrate your concerns and suggest alternatives. &lt;/li&gt;
+	&lt;li&gt;Base your comments on sound reasoning, scientific evidence, and/or how you will be impacted by the agency’s proposal. Describe any assumptions and provide the technical information and/or data that you used. If you estimate potential costs or burdens, explain how you arrived at your estimate in sufficient detail to allow for it to be reproduced. &lt;/li&gt;
+	&lt;li&gt;Address trade-offs and opposing views. &lt;/li&gt;
+	&lt;li&gt;The comment process is not a vote – one well-supported comment is often more informative to the agency than a thousand form letters. &lt;/li&gt;
+	&lt;li&gt;Make sure to submit your comments by the comment period deadline identified in the Federal Register document. &lt;/li&gt;
+	&lt;li&gt;View the rules and restrictions on comments to be sure you submit an appropriate comment.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;More advice for commenters can be found at Regulations.gov&#039;s &lt;a href=&quot;http://www.regulations.gov/docs/Tips_For_Submitting_Effective_Comments.pdf&quot;&gt;Tips for Submitting Effective Comments&lt;/a&gt;. &lt;span class=&quot;fileinfo&quot;&gt;(3 pp, yy 353KB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;Rules and Restrictions&lt;br /&gt;&lt;a id=&quot;rules&quot; name=&quot;rules&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Comments submitted to the EPA, including any personal information that is in the body of the submission, will be posted to &lt;a href=&quot;http://www.regulations.gov/&quot;&gt;Regulations.gov&lt;/a&gt; and are also made available for in-person viewing at the &lt;a href=&quot;/dockets/epa-docket-center-reading-room&quot;&gt;EPA Docket Center’s Reading Room&lt;/a&gt; with the following exceptions:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;In instances where individual submissions are deems to be a duplicate or near duplicate copies of a mass mail campaign, EPA may post to Regulations.gov only a representative sample along with a tally of duplicate and near duplicate copies.&lt;/li&gt;
+	&lt;li&gt;Comments containing threatening language or profanity will be rejected without notice from the EPA. &lt;/li&gt;
+	&lt;li&gt;Multimedia submissions (audio, video, etc.) must be accompanied by a written comment. The written comment is considered the official comment and should include discussion of all points you wish to make. &lt;/li&gt;
+	&lt;li&gt;EPA will generally not consider comments or comment contents located outside of the primary submission (i.e. on the web, cloud, or other file sharing system).&lt;/li&gt;
+	&lt;li&gt;The inclusion of any copyrighted material without accompanying proof of one&#039;s explicit right to redistribute that material will result in the comment being blocked from online viewing at Regulations.gov.&lt;/li&gt;
+	&lt;li&gt;Confidential Business Information (CBI) or other information whose disclosure is restricted by statute should never be sent to EPA electronically via Regulations.gov or e-mail.
+		&lt;ul style=&quot;list-style-type:circle&quot;&gt;&lt;li&gt;If you wish to include CBI in your comment, clearly mark the part or all of the information that you claim to be CBI. In addition to one complete version of the comment that includes information claimed as CBI, a non-CBI copy of the comment that does not contain the information claimed as CBI must be submitted for inclusion in the public docket. Information marked as CBI will not be disclosed except in accordance with procedures set forth in 40 CFR part 2.&lt;/li&gt;
+			&lt;li&gt;If you wish to include other information whose disclosure is restricted by statute in your comment, clearly mark your submission as including that information. Information so marked will be processed by the EPA Docket Center in accordance with the applicable statute.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you have any questions about submitting CBI or other information whose disclosure is restricted by statute, please contact the EPA Docket Center at &lt;span&gt;202-566-1744&lt;a href=&quot;/&quot; style=&quot;width:16px; vertical-align:middle&quot; title=&quot; 202-566-1744&quot;&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByAgTYSHaiAFiilgjjggXmYX4IcFIBBKLJCDJiBRRIkuRNUgxUopUIFVIHfI9cgI5h1xGupE7yAAygvyGvEcxlIGyUT3UDLVDuag3GoRGogvQZHQxmo8WoJvQcrQaPYw2oefQq2gP2o8+Q8cwwOgYBzPEbDAuxsNCsTgsCZNjy7EirAyrxhqwVqwDu4n1Y8+xdwQSgUXACTYEd0IgYR5BSFhMWE7YSKggHCQ0EdoJNwkDhFHCJyKTqEu0JroR+cQYYjIxh1hILCPWEo8TLxB7iEPENyQSiUMyJ7mQAkmxpFTSEtJG0m5SI+ksqZs0SBojk8naZGuyBzmULCAryIXkneTD5DPkG+Qh8lsKnWJAcaT4U+IoUspqShnlEOU05QZlmDJBVaOaUt2ooVQRNY9aQq2htlKvUYeoEzR1mjnNgxZJS6WtopXTGmgXaPdpr+h0uhHdlR5Ol9BX0svpR+iX6AP0dwwNhhWDx4hnKBmbGAcYZxl3GK+YTKYZ04sZx1QwNzHrmOeZD5lvVVgqtip8FZHKCpVKlSaVGyovVKmqpqreqgtV81XLVI+pXlN9rkZVM1PjqQnUlqtVqp1Q61MbU2epO6iHqmeob1Q/pH5Z/YkGWcNMw09DpFGgsV/jvMYgC2MZs3gsIWsNq4Z1gTXEJrHN2Xx2KruY/R27iz2qqaE5QzNKM1ezUvOUZj8H45hx+Jx0TgnnKKeX836K3hTvKeIpG6Y0TLkxZVxrqpaXllirSKtRq0frvTau7aedpr1Fu1n7gQ5Bx0onXCdHZ4/OBZ3nU9lT3acKpxZNPTr1ri6qa6UbobtEd79up+6Ynr5egJ5Mb6feeb3n+hx9L/1U/W36p/VHDFgGswwkBtsMzhg8xTVxbzwdL8fb8VFDXcNAQ6VhlWGX4YSRudE8o9VGjUYPjGnGXOMk423GbcajJgYmISZLTepN7ppSTbmmKaY7TDtMx83MzaLN1pk1mz0x1zLnm+eb15vft2BaeFostqi2uGVJsuRaplnutrxuhVo5WaVYVVpds0atna0l1rutu6cRp7lOk06rntZnw7Dxtsm2qbcZsOXYBtuutm22fWFnYhdnt8Wuw+6TvZN9un2N/T0HDYfZDqsdWh1+c7RyFDpWOt6azpzuP33F9JbpL2dYzxDP2DPjthPLKcRpnVOb00dnF2e5c4PziIuJS4LLLpc+Lpsbxt3IveRKdPVxXeF60vWdm7Obwu2o26/uNu5p7ofcn8w0nymeWTNz0MPIQ+BR5dE/C5+VMGvfrH5PQ0+BZ7XnIy9jL5FXrdewt6V3qvdh7xc+9j5yn+M+4zw33jLeWV/MN8C3yLfLT8Nvnl+F30N/I/9k/3r/0QCngCUBZwOJgUGBWwL7+Hp8Ib+OPzrbZfay2e1BjKC5QRVBj4KtguXBrSFoyOyQrSH355jOkc5pDoVQfujW0Adh5mGLw34MJ4WHhVeGP45wiFga0TGXNXfR3ENz30T6RJZE3ptnMU85ry1KNSo+qi5qPNo3ujS6P8YuZlnM1VidWElsSxw5LiquNm5svt/87fOH4p3iC+N7F5gvyF1weaHOwvSFpxapLhIsOpZATIhOOJTwQRAqqBaMJfITdyWOCnnCHcJnIi/RNtGI2ENcKh5O8kgqTXqS7JG8NXkkxTOlLOW5hCepkLxMDUzdmzqeFpp2IG0yPTq9MYOSkZBxQqohTZO2Z+pn5mZ2y6xlhbL+xW6Lty8elQfJa7OQrAVZLQq2QqboVFoo1yoHsmdlV2a/zYnKOZarnivN7cyzytuQN5zvn//tEsIS4ZK2pYZLVy0dWOa9rGo5sjxxedsK4xUFK4ZWBqw8uIq2Km3VT6vtV5eufr0mek1rgV7ByoLBtQFr6wtVCuWFfevc1+1dT1gvWd+1YfqGnRs+FYmKrhTbF5cVf9go3HjlG4dvyr+Z3JS0qavEuWTPZtJm6ebeLZ5bDpaql+aXDm4N2dq0Dd9WtO319kXbL5fNKNu7g7ZDuaO/PLi8ZafJzs07P1SkVPRU+lQ27tLdtWHX+G7R7ht7vPY07NXbW7z3/T7JvttVAVVN1WbVZftJ+7P3P66Jqun4lvttXa1ObXHtxwPSA/0HIw6217nU1R3SPVRSj9Yr60cOxx++/p3vdy0NNg1VjZzG4iNwRHnk6fcJ3/ceDTradox7rOEH0x92HWcdL2pCmvKaRptTmvtbYlu6T8w+0dbq3nr8R9sfD5w0PFl5SvNUyWna6YLTk2fyz4ydlZ19fi753GDborZ752PO32oPb++6EHTh0kX/i+c7vDvOXPK4dPKy2+UTV7hXmq86X23qdOo8/pPTT8e7nLuarrlca7nuer21e2b36RueN87d9L158Rb/1tWeOT3dvfN6b/fF9/XfFt1+cif9zsu72Xcn7q28T7xf9EDtQdlD3YfVP1v+3Njv3H9qwHeg89HcR/cGhYPP/pH1jw9DBY+Zj8uGDYbrnjg+OTniP3L96fynQ89kzyaeF/6i/suuFxYvfvjV69fO0ZjRoZfyl5O/bXyl/erA6xmv28bCxh6+yXgzMV70VvvtwXfcdx3vo98PT+R8IH8o/2j5sfVT0Kf7kxmTk/8EA5jz/GMzLdsAAAAgY0hSTQAAeiUAAICDAAD5/wAAgOkAAHUwAADqYAAAOpgAABdvkl/FRgAAAaNJREFUeNqk009oz3Ecx/HH9/P9/YQRWSi2MGmNrebkpJgSLluKEw5Kk5zUsgMOTrO42MUVxUWRg+LgaPWbUGq7rRk7sExKNPt9vx8H32l921z2vrw+n3fvz/Pz/vP5JDFGy7HKwk1/fz/sR09VNjAZG6fv1buQHcZm3P8vAMfwCKswncoHCn8nbuAratiEUQglwLXiMJz/FhvWYC9OFb4htBV6B9VyBtsKzRJxbDhvbSS5i1kcQo736MNrjJcBeaG3MuFyInagA0fwckHcGzzGiXIJU38bk1U+x3W+x7U/yOvYU4prwG5MlAHPoS4925TMNDeHLxNUh0gGcRC9eFqk34TBMuAhfmL9b5Vz3elIbAmfLq02d4HQhbc4gBYcxUgZMFrcIJecrsgaT6avdl6sPqu1hw9XSWs4U5Q6udgYFfP+he25MEysVWQvutORLcfTYax4gn3z/VoM8A7Xi/WuKNmQCRujpLc1TGkP46hOI1sKADdxG3PzjkzoTNCT1rSFiX+PuLIEoI4rGC+6/xEPMsFKs7YmM8bsAMlyf2OwTPszAMZMeayGCpJVAAAAAElFTkSuQmCC&quot; style=&quot;width:16px; vertical-align:middle&quot; title=&quot; 202-566-1744&quot; /&gt;&lt;/a&gt;&lt;/span&gt;, or send a message to &lt;a href=&quot;mailto:Docket-customerservice@EPA.gov&quot;&gt;Docket Customer Service&lt;/a&gt; (&lt;a href=&quot;mailto:Docket-customerservice@epa.gov&quot;&gt;Docket-customerservice@epa.gov&lt;/a&gt;) for guidance.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 02 Feb 2015 17:57:22 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">73375 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Docket Center Reading Room</title>
+    <link>https://www.epa.gov/dockets/epa-docket-center-reading-room</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot; style=&quot;width:300px&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Reading Room Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;/aboutepa/visiting-epa-headquarters&quot;&gt;Visiting EPA Headquarters&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;EPA Docket Center Reading Room&lt;br /&gt;
+			WJC West Building, Room 3334&lt;br /&gt;
+			1301 Constitution Avenue, NW&lt;br /&gt;
+			Washington, DC 20004&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://maps.google.com/maps?q=1301+Constitution+Ave+NW,+Washington,+DC+20004,+USA&amp;amp;sa=X&amp;amp;oi=map&amp;amp;ct=title&quot;&gt;Map this Location&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;​&lt;a href=&quot;http://www.wmata.com/&quot;&gt;Metro&lt;/a&gt;: Federal Triangle (Orange, Blue and Silver lines) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;Telephone: (202) 566-1744&lt;/p&gt;
+
+		&lt;p&gt;Hours of operation: &lt;br /&gt;
+			8:30 a.m.- 4:30 p.m., Monday-Friday &lt;br /&gt;
+			(except Federal Holidays)&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The EPA Docket Center Reading Room at EPA headquarters in Washington, DC, allows the public to access docket materials. &lt;ins&gt;This includes some materials &lt;/ins&gt;&lt;ins&gt;unavailable on Regulations.gov, such as copyrighted information, pre-digital dockets, oversize items and large data sets/databases. &lt;/ins&gt;However, information for which disclosure is restricted by statute (such as confidential business information) is not available for public access.&lt;/p&gt;
+
+&lt;h2&gt;Directions and Visitor Instructions&lt;/h2&gt;
+
+&lt;p&gt;The EPA Docket Center Reading Room is located in the William Jefferson Clinton (WJC) West building at EPA Headquarters in Washington, DC. Public access is provided through the entrance on Constitution Avenue.  For detailed directions, refer to the &lt;strong&gt;Federal Triangle Campus&lt;/strong&gt; tab on EPA’s &lt;a href=&quot;/aboutepa/visiting-epa-headquarters&quot;&gt;Visiting EPA Headquarters&lt;/a&gt; webpage.&lt;/p&gt;
+
+&lt;p&gt;Note: William Jefferson Clinton (WJC) West, like most other federal office buildings, is governed by strict security requirements for visitors. To ensure that you will be permitted entry, please familiarize yourself with these requirements (viewable on the &lt;strong&gt;Building Access&lt;/strong&gt; tab of the &lt;a href=&quot;/aboutepa/visiting-epa-headquarters&quot;&gt;Visiting EPA Headquarters&lt;/a&gt; webpage) before you departing for your visit. &lt;/p&gt;
+
+&lt;h2&gt;Having Trouble?&lt;/h2&gt;
+
+&lt;p&gt;If you are having trouble locating EPA docket materials, contact the EPA Reading Room Staff for assistance by calling (202) 566-1744, or send a message to &lt;a href=&quot;mailto:Docket-customerservice@epa.gov&quot;&gt;Dockets Customer Service&lt;/a&gt; (Docket-customerservice@epa.gov). Please do not submit comments on specific dockets to this e-mail address. &lt;/p&gt;
+
+&lt;p&gt;For problems with the Regulations.gov website, please contact the &lt;a href=&quot;http://www.regulations.gov/#!contactUs&quot;&gt;Regulations.gov help desk&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;For questions about a specific docket, please use the phone number for the appropriate program docket found on the &lt;a href=&quot;/dockets/where-send-comments-epa-dockets&quot;&gt;Where to Send Comments &lt;/a&gt;page. If you are having trouble viewing a regional docket, refer to the Federal Register Notice for the appropriate contact. Not sure if it is a regional docket? Visit &lt;a href=&quot;/dockets/about-epa-dockets#understanding&quot;&gt;Understanding Docket IDs&lt;/a&gt; for help. &lt;/p&gt;
+</description>
+     <pubDate>Mon, 02 Feb 2015 17:47:58 +0000</pubDate>
+ <dc:creator>ecampbel</dc:creator>
+ <guid isPermaLink="false">73365 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Access EPA Dockets</title>
+    <link>https://www.epa.gov/dockets/access-epa-dockets</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#regulations&quot;&gt;Visit Regulations.gov&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#visualguide&quot;&gt;Visual Guide to Accessing Docket Materials on Regulations.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Did You Know?&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Historically, commenting on an action was challenging. Regulations.gov removed the logistical barriers that made it difficult for a citizen to contribute to the regulatory process. Regulations.gov is revolutionizing public participation and the impact ordinary people can have on federal rules and regulations.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;regulations&quot;&gt;Visit Regulations.gov&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.regulations.gov/#!home&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:347px;&quot;&gt;&lt;img alt=&quot;an image link to regulations.gov reading: regulations.gov -  Your Voice in Federal Decision-Making&quot; height=&quot;84&quot; width=&quot;347&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/rlogo.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;http://www.regulations.gov/&quot;&gt;Regulations.gov&lt;/a&gt; serves as EPA’s electronic public docket system. The EPA posts publicly available documents associated with regulatory dockets, as well as non-regulatory material to Regulations.gov. The public may search, view and comment on those materials. Regulations.gov provides one-stop access to rules and non-rules published by 176 federal agencies, including the EPA. &lt;/p&gt;
+
+&lt;p&gt;The EPA strongly encourages the public to use Regulations.gov as the primary comment platform. Nearly all docket material can be accessed through Regulations.gov.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th id=&quot;header-center1&quot; style=&quot;width:50%&quot; scope=&quot;col&quot;&gt;Accessible on Regulations.gov&lt;br /&gt;
+				(depending on availability)&lt;/th&gt;
+			&lt;th id=&quot;header-center2&quot; style=&quot;width:50%&quot; scope=&quot;col&quot;&gt;Not Accessible on Regulations.gov&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;em&gt;Federal Register&lt;/em&gt; notices&lt;/li&gt;
+					&lt;li&gt;Proposed and Final Rules&lt;/li&gt;
+					&lt;li&gt;Information Collection Requests&lt;/li&gt;
+					&lt;li&gt;Scientific, technical, and economic analyses&lt;/li&gt;
+					&lt;li&gt;Reports&lt;/li&gt;
+					&lt;li&gt;Studies&lt;/li&gt;
+					&lt;li&gt;Hearing transcripts&lt;/li&gt;
+					&lt;li&gt;Public comments&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/td&gt;
+			&lt;td&gt;    
+				&lt;ul&gt;&lt;li&gt;Pre-digital dockets&lt;/li&gt;
+					&lt;li&gt;Copyright-protected materials&lt;sup&gt;2&lt;/sup&gt;&lt;/li&gt;
+					&lt;li&gt;Oversize items&lt;/li&gt;
+					&lt;li&gt;Large data sets/databases&lt;/li&gt;
+					&lt;li&gt;Confidential Business Information&lt;/li&gt;
+					&lt;li&gt;Information whose disclosure is restricted by statute&lt;/li&gt;
+				&lt;/ul&gt;&lt;p&gt;Please contact the &lt;a href=&quot;/dockets/epa-docket-center-reading-room&quot;&gt;EPA Docket Center&lt;/a&gt; to get more information about how these materials may be viewed.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;1 Does not pertain to comments deemed inappropriate or duplicate. See &lt;a href=&quot;/dockets/commenting-epa-dockets#rules&quot;&gt;Rules and Restrictions&lt;/a&gt; for more details. &lt;br /&gt;
+	2 &lt;ins&gt;Those provided without express written permission of the copyright holder.&lt;/ins&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;visualguide&quot;&gt;Guide to Accessing Docket Materials on Regulations.gov&lt;/h2&gt;
+
+
+
+&lt;ol&gt;&lt;li&gt;
+		&lt;p&gt;To access docket materials on Regulations.gov, type the docket or document ID into the search bar. &lt;ins&gt;T&lt;/ins&gt;&lt;ins&gt;ry the “Advanced Search” option t&lt;/ins&gt;&lt;ins&gt;o conduct a more refined search.&lt;/ins&gt;&lt;br /&gt;&lt;br /&gt;&lt;img style=&quot;width:400px&quot; alt=&quot;Docket ID entered in search bar&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/search-bar_1.png?itok=Osy5FPua&quot; /&gt;&lt;br /&gt;
+			 &lt;a title=&quot;Type the docket ID into the search bar, or use the advanced search tool.&quot; class=&quot;colorbox-gallery&quot; href=&quot;/sites/production/files/styles/large/public/2015-02/search-bar_1.png?itok=Osy5FPua&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;&lt;ins&gt;Your search will provide a list of documents. If you were looking for a document, click the title to open it. To view the full docket, click &lt;/ins&gt;&lt;ins&gt;“Open Docket Folder” &lt;/ins&gt;&lt;ins&gt;to see all materials associated with that docket. &lt;/ins&gt;&lt;/p&gt;
+
+		&lt;div class=&quot;box special&quot; style=&quot;width:420px&quot;&gt;
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;p&gt;&lt;img style=&quot;width:400px&quot; alt=&quot;Open Docket folder button on materials webpage&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/docket-folder-button.png?itok=EKomhQ-K&quot; /&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div&gt;&lt;a title=&quot;Open docket materials by clicking the Open Docket Folder button.&quot; class=&quot;colorbox-gallery&quot; href=&quot;/sites/production/files/styles/large/public/2015-02/docket-folder-button.png?itok=EKomhQ-K&quot;&gt;View Larger Image&lt;/a&gt;&lt;/div&gt;
+		&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Inside the docket you will find all relevant associated materials.&lt;br /&gt;&lt;br /&gt;&lt;img style=&quot;width:400px&quot; alt=&quot;List of docket materials&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/docket-materials.png?itok=2LGLymMY&quot; /&gt;&lt;br /&gt;&lt;a title=&quot;Inside the docket you will find all materials associated with that docket accessible to the public.&quot; class=&quot;colorbox-gallery&quot; href=&quot;/sites/production/files/styles/large/public/2015-02/docket-materials.png?itok=2LGLymMY&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;&lt;ins&gt;If public comments are accepted&lt;/ins&gt;&lt;ins&gt;,&lt;/ins&gt;&lt;ins&gt; there will be a “Comment Now” button. Click it to access the comment form. &lt;/ins&gt;&lt;br /&gt;&lt;br /&gt;&lt;img style=&quot;width:400px&quot; alt=&quot;arrow pointing to Comment Now button&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/comment-now-button_0.png?itok=JAI-bPb2&quot; /&gt;&lt;br /&gt;&lt;a title=&quot;Docket materials open for comment will display a &#039;Comment Now!&#039; button&quot; class=&quot;colorbox-gallery&quot; href=&quot;/sites/production/files/styles/large/public/2015-02/comment-now-button_0.png?itok=JAI-bPb2&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;p&gt;Now you are ready to comment! See &lt;a href=&quot;/dockets/commenting-epa-dockets&quot;&gt;tips on effective commenting&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;img style=&quot;width:400px&quot; alt=&quot;webpage with comment form field&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/commenting.png?itok=o1Ah2Zup&quot; /&gt;&lt;br /&gt;&lt;a title=&quot;Now you are ready to comment.&quot; class=&quot;colorbox-gallery&quot; href=&quot;/sites/production/files/styles/large/public/2015-02/commenting.png?itok=o1Ah2Zup&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 02 Feb 2015 17:33:41 +0000</pubDate>
+ <dc:creator>eschultz</dc:creator>
+ <guid isPermaLink="false">73357 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>About EPA Dockets</title>
+    <link>https://www.epa.gov/dockets/about-epa-dockets</link>
+    <description>&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#docket&quot;&gt;What is a Docket?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#notinadocket&quot;&gt;What is not in a Docket?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#understanding&quot;&gt;Understanding Docket IDs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;docket&quot;&gt;What is a Docket?&lt;/h2&gt;
+
+&lt;p&gt;A docket is a collection of documents made available by an agency for public viewing. Often associated with an opportunity for public comment, EPA dockets consist of materials used in a rulemaking or other agency action. These may include documents specifically referenced in the Federal Register, public comments received and other information used by the Agency to explain or support its decisions. Dockets are categorized as being either rulemaking or non-rulemaking dockets.&lt;sup&gt;&lt;a href=&quot;#disclaimer&quot;&gt;(1)&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;Rulemaking Dockets&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;Rulemaking (sometimes referred to as “regulatory”) dockets document an agency’s efforts to propose, amend, repeal or promulgate a rule or regulation. When Congress passes a law or statute, federal agencies translate those laws and statutes into rules and regulations. Once enacted, regulations carry the force of law as specified by the related statute.&lt;/p&gt;
+
+			&lt;p&gt;Rulemaking dockets may contain:&lt;/p&gt;
+
+			&lt;ul&gt;&lt;li&gt;Federal Register Notices
+					&lt;ul&gt;&lt;li&gt;Notice of Proposed Rulemaking&lt;/li&gt;
+						&lt;li&gt;Final Rule Notice&lt;/li&gt;
+						&lt;li&gt;Direct Final Rule Notice&lt;/li&gt;
+					&lt;/ul&gt;&lt;/li&gt;
+				&lt;li&gt;Proposed rule text&lt;/li&gt;
+				&lt;li&gt;Supporting documents&lt;/li&gt;
+				&lt;li&gt;Submitted comments&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;Non-Rulemaking Dockets&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;Non-rulemaking dockets (also known as &quot;general&#039; dockets) contain information on any agency process or action not related to the development of a rule. Non-rulemaking dockets contain varied materials available to the public on agency actions.&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p id=&quot;disclaimer&quot;&gt;&lt;small&gt;(1) The information provided on this page is for general reference only. It does not confer any legal rights or impose any legally binding requirements on EPA or the public.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;notinadocket&quot;&gt;What is not in a Docket?&lt;/h2&gt;
+
+&lt;p&gt;Although you can find the documents described above in a docket, some materials that document the agency&#039;s internal decision-making process prior to the agency&#039;s final decision are not made available for viewing. These materials include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Internal documents that capture pre-decisional internal discussions that were deliberative in nature and consist of materials generated prior to the making of a decision such as day-to-day staff notes;&lt;/li&gt;
+	&lt;li&gt;Briefing papers, action memos and other staff advice and recommendations;&lt;/li&gt;
+	&lt;li&gt;Confidential attorney-client communications;&lt;/li&gt;
+	&lt;li&gt;Confidential attorney work-products;&lt;/li&gt;
+	&lt;li&gt;Draft decision documents;&lt;/li&gt;
+	&lt;li&gt;Internal EPA memos.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See &lt;a href=&quot;/dockets/commenting-epa-dockets#rules&quot;&gt;Rules and Restrictions&lt;/a&gt; for more information about materials excluded from public dockets.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;understanding&quot;&gt;Understanding Docket IDs&lt;/h2&gt;
+
+&lt;p&gt;Dockets, and the documents in them, can be identified by their unique ID code. &lt;br /&gt;
+	 &lt;br /&gt;
+	Docket IDs have five parts: AGENCY-LOCATION-OFFICE-YEAR-DOCKET NUMBER.&lt;br /&gt;
+	Document IDs have six parts: AGENCY-LOCATION-OFFICE-YEAR-DOCKET NUMBER-DOCUMENT NUMBER.&lt;/p&gt;
+
+&lt;h3&gt;Descriptions of Docket ID  Components&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;AGENCY &lt;/strong&gt;– The federal agency responsible for the docket. All EPA dockets start with “EPA.”&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;LOCATION &lt;/strong&gt;– EPA has a headquarters and ten regional offices. This section will contain either “HQ” or a three-digit code for the region such as “R09.”  &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;OFFICE &lt;/strong&gt;– EPA is organized into various programs and offices, each with its own particular focus. This section will contain a two-to five-letter code corresponding to the program/office that developed the docket. Example: Include “OAR” for the Office of Air and Radiation and “OW” for the Office of Water. &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;YEAR&lt;/strong&gt; – Indicates the year the docket was created. Note: The actions described by a docket may include several steps spanning several years.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Docket ID&lt;/strong&gt; – A four-digit identifier for each docket.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Document ID&lt;/strong&gt; – A four digit identifier for each primary document in a docket. Note: Primary documents may also have their own attachments. Those attachments do not have their own unique identifier; they share the document ID of their primary document.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Example One&lt;/h3&gt;
+
+
+
+&lt;div class=&quot;box special center&quot; style=&quot;width:420px&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;img alt=&quot;screenshot of docket created by EPA in region 10.&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/docket-folder-button.png?itok=EKomhQ-K&quot; style=&quot;width:400px&quot; title=&quot;sceenshot of docket created by EPA in region 10.&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;colorbox-inline&quot; href=&quot;#colorbox-hidden6&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This docket ID shows that it was created by the EPA in Region 10 by the Office of Air and Radiation in the year 2014. The docket is identified by the number 0108, and the document number is 0174.&lt;/p&gt;
+
+&lt;h3&gt;Example Two&lt;/h3&gt;
+
+&lt;div class=&quot;box special center&quot; style=&quot;width:420px&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;img alt=&quot;screenshot of docket created by EPA in region 10.&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/example-two.png?itok=054tFZTE&quot; style=&quot;width:400px&quot; title=&quot;sceenshot of docket created by EPA in region 10.&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;colorbox-inline&quot; href=&quot;#colorbox-hidden7&quot;&gt;View Larger Image&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This docket ID shows that it was created by the EPA at headquarters by the Office of Pesticide Programs in the year 2014. The docket is identified by the number 0483 and the document is number 0001.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;hidden-content&quot;&gt;
+	&lt;div class=&quot;colorbox-hidden&quot; id=&quot;colorbox-hidden5&quot;&gt;
+		&lt;h3&gt;What is not in a docket&lt;/h3&gt;
+
+		&lt;p&gt;Dockets do not contain internal EPA business, pre-decisional or deliberative material. This is material that is related to regulation development. In order to view this information, one must submit a FOIA request for this type of material.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;colorbox-hidden&quot; id=&quot;colorbox-hidden6&quot;&gt;
+		&lt;p&gt;&lt;img alt=&quot;screenshot of docket created by EPA in region 10.&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/docket-folder-button.png?itok=EKomhQ-K&quot; style=&quot;width:750px&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;colorbox-hidden&quot; id=&quot;colorbox-hidden7&quot;&gt;
+		&lt;p&gt;&lt;img alt=&quot;screenshot of docket created by EPA in region 10.&quot; src=&quot;/sites/production/files/styles/large/public/2015-02/example-two.png?itok=054tFZTE&quot; style=&quot;width:750px&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 02 Feb 2015 16:21:29 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">73337 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact us About the Docket Center Website</title>
+    <link>https://www.epa.gov/dockets/forms/contact-us-about-docket-center-website</link>
+    <description>&lt;div class=&quot;box right&quot; style=&quot;width:300px&quot;&gt;&lt;a href=&quot;/tips&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4&gt;&lt;a href=&quot;/tips&quot;&gt;Report a Violation&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Please use the form below to send us comments or questions concerning website content, links or accessibility. &lt;span class=&quot;warning&quot;&gt;&lt;strong&gt;Do not use this form to comment on Agency actions or rulemakings. &lt;/strong&gt;&lt;a href=&quot;/dockets/where-send-comments-epa-dockets&quot;&gt;&lt;strong&gt;Learn where to submit your comments&lt;/strong&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mailing Address:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA Docket Center&lt;br /&gt;
+	Environmental Protection Agency&lt;br /&gt;
+	Mail code 28221T &lt;br /&gt;
+	1200 Pennsylvania Ave NW &lt;br /&gt;
+	Washington, DC 20460&lt;/p&gt;</description>
+     <pubDate>Tue, 23 Dec 2014 18:40:24 +0000</pubDate>
+ <dc:creator>lehall</dc:creator>
+ <guid isPermaLink="false">70827 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:34:25, expires @ 2017-01-26 04:34:25, lifetime 12 hours -->

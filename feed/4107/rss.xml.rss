@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/4107/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Exposure Assessment Models</title>
+    <link>https://www.epa.gov/feed/4107/rss.xml</link>
+    <description>Updated Exposure Assessment Models content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/4107/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Model Performance Evaluation and Scenario Analysis (MPESA) Tutorial</title>
+    <link>https://www.epa.gov/exposure-assessment-models/model-performance-evaluation-and-scenario-analysis-mpesa-tutorial</link>
+    <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;This tool consists of two parts: model performance evaluation and scenario analysis (MPESA). The model performance evaluation consists of two components: model performance evaluation metrics and model diagnostics. These metrics provide modelers with statistical goodness-of-fit measures that capture magnitude only, sequence only, and combined magnitude and sequence errors. The performance measures include error analysis, coefficient of determination, Nash-Sutcliffe efficiency, and a new weighted rank method. For HSPF users, this tool replaces the functionalities of the outdated GenScn (Generation and Analysis of Simulation Scenarios) program.&lt;/p&gt;
+
+&lt;h2&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;Mohamoud Y.M. Model Performance Evaluation and Scenario Analysis (MPESA) Tutorial.&lt;br /&gt;
+	US EPA Office of Research and Development, Washington DC, EPA/600/B-16/080, 2016&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-291371&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/model_performance_scenario_analyst_final_report.pdf&quot; type=&quot;application/pdf; length=1487361&quot; class=&quot;file-link&quot;&gt;Model Performance Scenario Analyst Final Report (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(47 pp, 1 MB, 
+  May, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 08 Jun 2016 13:12:58 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">151529 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>History and Generality of Aquatox</title>
+    <link>https://www.epa.gov/exposure-assessment-models/history-and-generality-aquatox</link>
+    <description>&lt;h2&gt;The History and Generality of AQUATOX, a Robust Mechanistic Model&lt;/h2&gt;
+
+&lt;p&gt;In 1990 aquatic fate, toxicology, and ecosystem submodels were coupled to “close the loop,” representing both direct and indirect effects; the  model is also a platform to which other environmental stressors may be added for extensive analysis.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-290787&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/history_and_generality_of_aquatox_final_5-6-16.pdf&quot; type=&quot;application/pdf; length=4571495&quot; class=&quot;file-link&quot;&gt;History and Generality of Aquatox (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 5 MB, 
+  May 6, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 07 Jun 2016 12:42:30 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">151369 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>HDFT Webtool</title>
+    <link>https://www.epa.gov/exposure-assessment-models/hdft-webtool</link>
+    <description>&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The Hydrological Simulation Program—FORTRAN (HSPF) is a comprehensive watershed model capable of simulating water availability and water quality constituents at user-specified spatial and temporal scales. It is used for the development of total maximum daily loads (TMDLs) for impaired water bodies. It is the core watershed model in BASINS (Better Assessment Science Integrating Point and Nonpoint Source Pollution) modeling system. While BASINS offers numerous databases to HSPF users, users often need to create HSPF simulations with data from non-BASINS data sources. Because HSPF requires extensive input data, its Data-Formatting Tool (HDFT) allows users to format that data and import it to a WDM file. HDFT aids urban watershed modeling applications that use sub-hourly temporal resolutions. HDFT was developed for modelers who use Gray and Green tools for stormwater management. Note that the Gray tool is used for urban environments where stormwater usually flows into stormwater system pipes before reaching a local stream, lake, or wastewater treatment plant. The Green Tool is used for green infrastructure systems that mimic natural processes to infiltrate, evaporate, or reuse stormwater to maintain the pre-development hydrology and water quality of urban environments. This tool and the tutorials can be accessed at: &lt;a href=&quot;/exposure-assessment-models/tmdl-models-and-tools&quot;&gt;https://www.epa.gov/exposure-assessment-models/tmdl-models-and-tools &lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;How to Run&lt;/h2&gt;
+
+&lt;p&gt;Run the &lt;a href=&quot;https://www3.epa.gov/ceampubl/tmdl/hdft/web/index.html&quot;&gt;HDFT Webtool&lt;/a&gt; in your web browser.&lt;/p&gt;
+
+&lt;h2&gt;Contact the Author&lt;/h2&gt;
+
+&lt;p&gt;For questions and suggestions, please contact Yusuf Mohamoud at &lt;a href=&quot;mailto:mohamoud.yusuf@epa.gov?subject=HDFT%20Web%20Question&quot;&gt;mohamoud.yusuf@epa.gov&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;For citation, please use: Yusuf Mohamoud (2012). HDFT Webtool. National Exposure Research Laboratory. Athens, Georgia&lt;/p&gt;
+</description>
+     <pubDate>Fri, 03 Jun 2016 14:09:46 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">151071 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Green Tool</title>
+    <link>https://www.epa.gov/exposure-assessment-models/green-tool</link>
+    <description>&lt;h2&gt;&lt;br /&gt;
+	Overview&lt;/h2&gt;
+
+&lt;p&gt;The Green Tool represents infiltration-based stormwater control practices. The tool was developed for HSPF users. From the tool graphic user interface, it allows modelers to select a BMP type, channel shape and BMP unit dimensions, outflow control devices, and infiltration method. Based on the user selection, the program generates an HSPF-formatted FTABLE. HSPF’s Reach module (RCHRES) represents infiltration BMPs whose specific characteristics are captured by the FTABLE. Infiltration BMPs are source control facilities that capture runoff from small impervious areas such as parking lots or roofs. When designing infiltration BMPs, we recommend the Maryland’s unified stormwater sizing criteria. The unified approach has five specific design objectives:  meet pollutant removal goals (WQv), maintain groundwater recharge (Rev), reduce channel erosion (CPv), prevent overbank flooding, and pass extreme floods. The tool can be used for a single BMP or a treatment train. Users must ensure that the two are linked through the SCHEMATICBLOCK of the User Control Input (UCI) file. Representing most infiltration BMPs in HSPF is straightforward; however, building an FTABLE for some BMPs, such as sand filters, may require several steps. The accuracy in representing a particular BMP depends on a user’s skill. The primary design considerations for any infiltration BMP are ensuring that it has the capacity to store the capture volume and that underlying soil can adequately drain the design’s capture volume within the permissible drainage time. This tool can be accessed at: &lt;a href=&quot;/exposure-assessment-models/tmdl-models-and-tools&quot;&gt;https://www.epa.gov/exposure-assessment-models/tmdl-models-and-tools&lt;/a&gt;  .&lt;/p&gt;
+
+&lt;h2&gt;How to Run Green Tool&lt;/h2&gt;
+
+&lt;p&gt;Run the &lt;a href=&quot;https://www3.epa.gov/ceampubl/HSPFWebTools/green/index.html&quot;&gt;GreenTool&lt;/a&gt; in your web browser.&lt;/p&gt;
+
+&lt;p&gt;The tutorial is available at &lt;a href=&quot;/sites/production/files/2015-08/documents/2009_02_17_basinss_tecnote11.pdf&quot;&gt;https://www.epa.gov/sites/production/files/2015-08/documents/2009_02_17_basinss_tecnote11.pdf&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2&gt;Contact the Author&lt;/h2&gt;
+
+&lt;p&gt;For questions and suggestions, please contact Yusuf Mohamoud at &lt;a href=&quot;mailto:mohamoud.yusuf@epa.gov?subject=Green%20Tool%20Web%20Question&quot;&gt;mohamoud.yusuf@epa.gov&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;For citation, please use: Yusuf Mohamoud (2012). HSPF BMP Toolkit. National Exposure Research Laboratory. Athens, Georgia.&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 03 Jun 2016 14:00:08 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">151065 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Gray Tool</title>
+    <link>https://www.epa.gov/exposure-assessment-models/gray-tool</link>
+    <description>&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The Gray tool represents sewer networks and storage-based stormwater control structures. It was developed for the Hydrological Simulation Program-- FORTRAN (HSPF) model users. It uses HSPF’s RCHRES module to model how certain structural best management practices (BMPs) such as detention basins (wet ponds, treatment wetlands, etc.) mitigate the impacts of stormwater runoff and associated water quality constituents. The tool is accessible at &lt;a href=&quot;/exposure-assessment-models/tmdl-models-and-tools&quot;&gt;https://www.epa.gov/exposure-assessment-models/tmdl-models-and-tools&lt;/a&gt; . In its current version, the tool represents open channels and flow control devices (weirs and orifices). The open channel component has five shape choices, and each shape is represented by a depth-area-volume-flow relationship known as hydraulic function table or FTABLE. The available open channel’s shapes are circular, parabolic, rectangular, triangular, trapezoidal, and natural. Outflow control structures consist of V-notch, sharp-crested, rectangular, and broad-crested weirs, and under-drain and riser pipe orifices. For each channel shape, users can select an open channel with or without a flow control device. In many applications, users select only an open channel, while in other applications they may select an open channel with one or more flow control devices. Note that HSPF allows a maximum of five flow exits in one FTABLE. The gray tool enables HSPF users to extend the model’s application to urban watersheds with sewer system networks.&lt;/p&gt;
+
+&lt;h2&gt;How to Run Gray Tool&lt;/h2&gt;
+
+&lt;p&gt;Run the &lt;a href=&quot;https://www3.epa.gov/ceampubl/HSPFWebTools/gray/index.html&quot;&gt;Gray Tool&lt;/a&gt; in your web browser.&lt;/p&gt;
+
+&lt;p&gt;Detailed information on how to run the program are given in the tutorials &lt;a href=&quot;/sites/production/files/2015-08/documents/2007_07_23_basins_tecnote9.pdf&quot;&gt;https://www.epa.gov/sites/production/files/2015-08/documents/2007_07_23_basins_tecnote9.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Java Download&lt;/h2&gt;
+
+&lt;p&gt;If you cannot see the applet when you open the web page in the browser, go to &lt;a href=&quot;http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html&quot;&gt;http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html&lt;/a&gt; and download the latest Java Runtime Engine (JRE), which is under the Java SE category on the Oracle website. We recommend reading the tutorial before attempting to use the tool.&lt;/p&gt;
+
+&lt;h2&gt;Contact the Author&lt;/h2&gt;
+
+&lt;p&gt;For questions and suggestions, please contact Yusuf Mohamoud at &lt;a href=&quot;mailto:mohamoud.yusuf@epa.gov?subject=Gray%20Tool%20Web%20Question&quot;&gt;mohamoud.yusuf@epa.gov&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2&gt;Citation of Gray Tool&lt;/h2&gt;
+
+&lt;p&gt;For citation, please use: Yusuf Mohamoud (2012). HSPF BMP Toolkit. National Exposure Research Laboratory. Athens, Georgia.&lt;/p&gt;
+
+
+</description>
+     <pubDate>Fri, 03 Jun 2016 13:45:17 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">151061 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Managing Watersheds with WMOST</title>
+    <link>https://www.epa.gov/exposure-assessment-models/managing-watersheds-wmost</link>
+    <description>&lt;h2&gt;Managing Watersheds with WMOST (Watershed Management Optimization Support Tool)&lt;/h2&gt;
+
+&lt;p&gt;The Watershed Management Optimization Support Tool (WMOST) allows water-resource managers and planners to screen a wide range of practices for cost-effectiveness in achieving watershed or water utilities management goals, such as meeting projected water demand and minimum and maximum in-stream ecological flow targets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presented by Dr. Naomi Detenbeck&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Naomi Detenbeck earned a Master’s and Ph.D. in ecology from the University of Minnesota-Minneapolis. Dr. Detenbeck currently works in EPA’s Office of Research and Development, Atlantic Ecology Division, overseeing projects to evaluate the effectiveness of green infrastructure stormwater BMPs at the small watershed scale, focusing on stream habitat and biological endpoints. She is also project lead for e-Estuary and oversees the development of WMOST.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;download&quot; name=&quot;download&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-289555&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentpresentationmlpresentation&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-06/sswrwebinar_wmost_012214v2.pptx&quot; type=&quot;application/vnd.openxmlformats-officedocument.presentationml.presentation; length=19125701&quot; class=&quot;file-link&quot;&gt;Managing Watersheds with WMOST Webinar&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(55 pp, 19 MB, 
+  January 22, 2014, 
+  267481)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Citation:&lt;/h3&gt;
+
+&lt;p&gt;Detenbeck, N. Managing Watersheds with WMOST (Watershed Management Optimization Support Tool). Presented at Safe and Sustainable Water Resources (SSWR) Webinar Series (#1), Narragansett, RI, January 22, 2014.&lt;/p&gt;
+
+&lt;h3&gt;Description:&lt;/h3&gt;
+
+&lt;p&gt;EPA’s Green Infrastructure research program and EPA Region 1 recently released a new public-domain software application, WMOST, which supports community applications of Integrated Water Resources Management (IWRM) principles. See WMOST &lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=262280&quot;&gt;User Manual&lt;/a&gt; and &lt;a href=&quot;http://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=261780&quot;&gt;Theoretical Guide&lt;/a&gt; records. The application was created with a user-friendly Excel-based interface for data entry and presentation of results in tabular and graphical form. The Watershed Management Optimization Support Tool (WMOST) allows water resource managers and planners to screen a wide range of practices for cost-effectiveness in achieving watershed or water utilities management goals such as meeting projected water demand and minimum and maximum in-stream ecological flow targets. WMOST optimizes within a watershed system context, accounting for the direct and indirect cost and performance of each practice. WMOST can be used to (1) identify the most cost-effective mix of management practices to meet projected human demand and in-stream flow standards, (2) understand trade-offs between meeting management goals (e.g., human demand or in-stream flow) and total annual costs, (3) characterize the sensitivity of the solution to input data and parameters (e.g., effects of climate change and resulting changes in runoff and recharge rates on the mix of least-cost practices, the robustness of the recommended mix of practices to a range of cost assumptions). WMOST allows evaluation of over twenty potential management practices and goals related to water supply (demand management practices, surface and groundwater pumping, surface water storage, water treatment plant, potable distribution system leak repair), wastewater (septic systems, wastewater treatment plant, infiltration repair in wastewater collection system), nonpotable water reuse (wastewater reuse facility, nonpotable distribution system), aquifer storage and recharge, interbasin transfer of water and wastewater, land conservation and up to fifteen stormwater management practices including traditional, green infrastructure and LID practices, minimum human demand, and minimum and maximum in-stream flow targets. WMOST calculates the optimal solution based on user inputs of watershed characteristics, human water system characteristics, management practices, and management goals. WMOST was developed in collaboration with US EPA Region 1. The application was refined following input from a Technical Advisory Group composed of watershed modelers, water resource managers, and agency staff. The tool was tested through two case studies, one for the upper Ipswich River watershed in Massachusetts, and the second for the Danvers/Middleton, MA communities. The example paralleled the development of a case study for Massachusett’s Sustainable Water Management Initiative (SWMI) process. Results of the case studies were presented in a workshop with stakeholders at EPA Region 1’s Chelmsford Laboratory, which introduced the concepts of integrated water management, and solicited feedback from potential users on tool usefulness and desirability of features to be added in the future.&lt;/p&gt;
+
+&lt;h3&gt;Purpose/Objective:&lt;/h3&gt;
+
+&lt;p&gt;This is the first in a series of webinars for EPA ORD&#039;s Safe and Sustainable Water Resources (SSWR) Program. An overview of the Watershed Optimization Support Tool (WMOST) is presented. WMOST is part of a new generation of tools ORD is producing, like the Triple Value Model being created for Narragansett Bay, that enable stakeholders to simultaneously consider ecological, economic, and human benefits in developing sustainable solutions. It integrates existing tools into a decision support system that allows communities to determine costs and benefits of various stormwater management options, including current and projected future land-use, current and proposed stormwater best management practices (both green and gray), options for repairing leaks in the system, interbasin transfers of drinking water or wastewater with neighboring communities, aquifer storage and recharge systems, water conservation strategies, current and future water demand, etc. The system accounts for both capital and O&amp;amp;M costs for different management options. Communities can evaluate a range of options, examining for optimal solutions.&lt;/p&gt;
+
+&lt;h3&gt;URLs/Downloads:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#download&quot;&gt;SSWRWEBINAR_WMOST_012214V2.PPTX&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Record Details:&lt;/h3&gt;
+
+&lt;p&gt;Record Type: DOCUMENT (PRESENTATION/SLIDE)&lt;br /&gt;
+	Completion Date: 01/27/2014&lt;br /&gt;
+	Record Last Revised: 01/27/2014&lt;br /&gt;
+	Record Created: 01/27/2014&lt;br /&gt;
+	Record Released: 01/27/2014&lt;br /&gt;
+	OMB Category: Other&lt;br /&gt;
+	Record ID:  267481&lt;/p&gt;
+
+&lt;h3&gt;Organization:&lt;/h3&gt;
+
+&lt;p&gt;U.S. ENVIRONMENTAL PROTECTION AGENCY&lt;br /&gt;
+	OFFICE OF RESEARCH AND DEVELOPMENT&lt;br /&gt;
+	NATIONAL HEALTH AND ENVIRONMENTAL EFFECTS RESEARCH LAB&lt;br /&gt;
+	ATLANTIC ECOLOGY DIVISION&lt;br /&gt;
+	WATERSHED DIAGNOSTICS BRANCH&lt;/p&gt;
+
+&lt;h3&gt;Keywords:&lt;/h3&gt;
+
+&lt;p&gt;green infrastructure, watershed, decision support, integrated planning, integrated water resources management, ORD-007245&lt;/p&gt;
+</description>
+     <pubDate>Wed, 01 Jun 2016 19:17:53 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">150917 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>WMOST 2.0 Download Page</title>
+    <link>https://www.epa.gov/exposure-assessment-models/wmost-20-download-page</link>
+    <description>&lt;h2&gt;Watershed Management Optimization Support Tool (WMOST) v2.0&lt;/h2&gt;
+
+&lt;h2 id=&quot;specifications&quot;&gt;Specifications&lt;/h2&gt;
+
+&lt;table summary=&quot;Specifications for the most recent product release.&quot;&gt;&lt;caption&gt;Software Specifications&lt;/caption&gt;
+	&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Current version&lt;/th&gt;
+			&lt;td&gt;V 2.0&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Release date&lt;/th&gt;
+			&lt;td&gt;March 2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Status&lt;/th&gt;
+			&lt;td&gt;General Release&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Information&lt;/th&gt;
+			&lt;td&gt;Release notes - changes and known deficiencies&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Operating System&lt;/th&gt;
+			&lt;td&gt;Windows&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Language&lt;/th&gt;
+			&lt;td&gt;Excel 2010 with Macros, Excel 2013 with Macros&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Download Files&lt;/h2&gt;
+
+&lt;table summary=&quot;Theoretical Documentation and User Guide&quot;&gt;&lt;caption&gt;Documents&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Document&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262909&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/readme.txt&quot; type=&quot;text/plain; length=2496&quot; class=&quot;file-link&quot;&gt;Readme&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 2 K)&lt;/span&gt;&lt;/span&gt;
+&lt;/td&gt;
+			&lt;td&gt;Installation notes, Text, 3KB&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/exposure-assessment-models/wmost-20-documentation&quot;&gt;WMOST Theoretical Documentation&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PDF, 80pp, 6185KB&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/exposure-assessment-models/wmost-20-documentation&quot;&gt;WMOST User Guide&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PDF,  109pp, 11,590KB&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/exposure-assessment-models/managing-watersheds-wmost&quot;&gt;Managing Watersheds Presentation&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;PDF, 55pp, 18678KB&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table summary=&quot;Available software download files.&quot;&gt;&lt;caption&gt;Files&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;File Name / Size / Format&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;File Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262821&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/wmost2.zip&quot; type=&quot;application/zip; length=21528440&quot; class=&quot;file-link&quot;&gt;WMOST v2.0 Install files&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 22 MB)&lt;/span&gt;&lt;/span&gt;
+ Excel 2010&lt;/td&gt;
+			&lt;td&gt;WMOST 2.0 tool with blank input and output tables&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262913&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/supportfiles.zip&quot; type=&quot;application/zip; length=93122767&quot; class=&quot;file-link&quot;&gt;WMOST Support Files&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(21 pp, 93 MB)&lt;/span&gt;&lt;/span&gt;
+  Excel 2010, PDF&lt;/td&gt;
+			&lt;td&gt;WMOST 2.0 Supportfiles subdirectory&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262915&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/wmost_casestudydata_100215.zip&quot; type=&quot;application/zip; length=24545163&quot; class=&quot;file-link&quot;&gt;WMOST 2.0 Casestudy 100215&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 25 MB)&lt;/span&gt;&lt;/span&gt;
+ Excel 2010&lt;/td&gt;
+			&lt;td&gt;Casestudy 100215 Halifax, MA setting up a validation run&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262919&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/wmost_casestudydata_adjb_wsw-wibt_h535_100515.zip&quot; type=&quot;application/zip; length=32618398&quot; class=&quot;file-link&quot;&gt;WMOST 2.0 Casestudy AdjB 100515&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 33 MB)&lt;/span&gt;&lt;/span&gt;
+ Excel 2010&lt;/td&gt;
+			&lt;td&gt;Casestudy AdjB Halifax, MA setting up scenarios to evaluate management options for least cost solution.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262925&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/wmost_excel2013.zip&quot; type=&quot;application/zip; length=21241240&quot; class=&quot;file-link&quot;&gt;WMOST 2.0 Excel 2013&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 21 MB)&lt;/span&gt;&lt;/span&gt;
+ Excel 2013&lt;/td&gt;
+			&lt;td&gt;WMOST 2.0 tool as Excel 2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span id=&quot;file-262927&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentwordprocessingmldocument&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/known_bug_in_ms_office_excel_2013_affecting_wmost_performance_with_solution.docx&quot; type=&quot;application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=11320&quot; class=&quot;file-link&quot;&gt;WMOST 2.0 2013 Performance Fix&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 11 K)&lt;/span&gt;&lt;/span&gt;
+ Word 2013&lt;/td&gt;
+			&lt;td&gt;Document describing fix to known performance bug in Excel 2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Tue, 08 Mar 2016 01:14:23 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">137763 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>WMOST 2.0 Documentation</title>
+    <link>https://www.epa.gov/exposure-assessment-models/wmost-20-documentation</link>
+    <description>&lt;h2&gt;Watershed Management Optimization Support Tool (WMOST) v2&lt;/h2&gt;
+
+&lt;p&gt;The Watershed Management Optimization Support Tool (WMOST) is a decision support tool that evaluates the relative cost-effectiveness of management practices at the local or watershed scale. WMOST models the environmental effects and costs of management decisions in a watershed context, which is, accounting for the direct and indirect effects of decisions.&lt;/p&gt;
+
+&lt;p&gt;Keywords: Integrated watershed management, water resources, decision support, optimization, green infrastructure&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-262817&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/wmostv2_userguide_508final.pdf&quot; type=&quot;application/pdf; length=11867728&quot; class=&quot;file-link&quot;&gt;WMOST v2.0 User Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(109 pp, 12 MB, 
+  November 2015, 
+  EPA/600/R-15/059)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-262819&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-03/documents/wmostv2_theoreticaldoc_final9d.pdf&quot; type=&quot;application/pdf; length=6332827&quot; class=&quot;file-link&quot;&gt;WMOST v2.0 Theoretical Documentation (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(80 pp, 6 MB, 
+  September 2015, 
+  EPA/600/R-15/058)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 08 Mar 2016 01:04:16 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">137761 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Virtual Beach 3.0.6 Download Page</title>
+    <link>https://www.epa.gov/exposure-assessment-models/virtual-beach-306-download-page</link>
+    <description>&lt;h2&gt;Specifications&lt;/h2&gt;
+
+&lt;table summary=&quot;Specifications for the most recent product release.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Current Version:&lt;/th&gt;
+			&lt;td&gt;3.0.6&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Release Date:&lt;/th&gt;
+			&lt;td&gt;February 2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Status:&lt;/th&gt;
+			&lt;td&gt;General Release&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Information:         &lt;/th&gt;
+			&lt;td&gt;&lt;a href=&quot;/exposure-assessment-models/virtual-beach-release-notes&quot;&gt;Release Notes&lt;/a&gt; - changes and known deficiencies&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Operating System:&lt;/th&gt;
+			&lt;td&gt;MS Windows&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;Development Language:&lt;/th&gt;
+			&lt;td&gt;C#&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Text Files&lt;/h2&gt;
+
+&lt;table summary=&quot;Available ASCII text files.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th id=&quot;name&quot; scope=&quot;col&quot;&gt;File Name&lt;/th&gt;
+			&lt;th id=&quot;desc&quot; scope=&quot;col&quot;&gt;File Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td headers=&quot;name&quot;&gt;&lt;span id=&quot;file-43569&quot; class=&quot;file file-document file-text-plain&quot;&gt;&lt;a href=&quot;/sites/production/files/2013-09/version30readme_0.txt&quot; type=&quot;text/plain; length=5439&quot; class=&quot;file-link&quot;&gt;Virtual Beach 3.0 Read Me TXT file&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 5 K)&lt;/span&gt;&lt;/span&gt;
+                          &lt;/td&gt;
+			&lt;td headers=&quot;desc&quot;&gt;Important installation and usage information.                    &lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Download Files&lt;/h2&gt;
+
+&lt;table summary=&quot;Available software download files.&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th id=&quot;ftype&quot; scope=&quot;col&quot;&gt;File Type /&lt;br /&gt;
+				Priority&lt;/th&gt;
+			&lt;th id=&quot;namesz&quot; scope=&quot;col&quot;&gt;File Name/Format/Size&lt;/th&gt;
+			&lt;th id=&quot;fdesc&quot; scope=&quot;col&quot;&gt;File Description&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;center&quot; headers=&quot;ftype&quot;&gt;Install /&lt;br /&gt;
+				Required&lt;/td&gt;
+			&lt;td class=&quot;center&quot; headers=&quot;namesz&quot;&gt;  &lt;span id=&quot;file-261337&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-03/vb306.zip&quot; type=&quot;application/zip; length=86918848&quot; class=&quot;file-link&quot;&gt;Install VB 3.0.6&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 87 MB)&lt;/span&gt;&lt;/span&gt;
+ /&lt;br /&gt;
+				Zipped File&lt;/td&gt;
+			&lt;td headers=&quot;fdesc&quot;&gt;Zipped file for version 3.0.6 of the VB application.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;center&quot; headers=&quot;ftype&quot;&gt;Document /&lt;br /&gt;
+				Optional&lt;/td&gt;
+			&lt;td class=&quot;center&quot; headers=&quot;namesz&quot;&gt;
+				&lt;p&gt;&lt;a href=&quot;/exposure-assessment-models/virtual-beach-306-user-guide&quot;&gt;Virtual Beach v 3.0.6 User Guide&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+					/Adobe Acrobat / 4MB&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td headers=&quot;fdesc&quot;&gt;Virtual Beach User Guide.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Wed, 02 Mar 2016 15:57:20 +0000</pubDate>
+ <dc:creator>hhelgen</dc:creator>
+ <guid isPermaLink="false">137311 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:08:39, expires @ 2017-01-26 16:08:39, lifetime 12 hours -->

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/168175/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>FCA (Fiat Chrysler Automobiles) Diesel Vehicle Violations</title>
+    <link>https://www.epa.gov/feed/168175/rss.xml</link>
+    <description>Updated FCA (Fiat Chrysler Automobiles) Diesel Vehicle Violations content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/168175/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Learn About FCA Violations</title>
+    <link>https://www.epa.gov/fca/learn-about-fca-violations</link>
+    <description>&lt;h2&gt;&lt;a id=&quot;overview&quot; name=&quot;overview&quot;&gt;&lt;/a&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;EPA issued a notice of violation to Fiat Chrysler Automobiles N.V. and FCA US LLC (collectively FCA) for alleged violations of the Clean Air Act for installing and failing to disclose engine management software in certain light-duty diesel vehicles sold in the United States. The undisclosed software results in increased emissions of nitrogen oxides (NOx).&lt;/p&gt;
+
+&lt;p&gt;The Clean Air Act requires vehicle manufacturers to demonstrate to EPA through a certification process that their products meet applicable federal emission standards to control air pollution. As part of the certification process, automakers are required to disclose and explain any software, known as auxiliary emission control devices, that can alter how a vehicle emits air pollution. FCA did not disclose the existence of auxiliary emission control devices to EPA in its applications for certificates of conformity for model year 2014, 2015 and 2016 Jeep Grand Cherokees and Dodge Ram 1500’s, despite being aware that such a disclosure was mandatory. By failing to disclose this software and then selling vehicles that contained it, FCA violated important provisions of the Clean Air Act.&lt;/p&gt;
+
+&lt;p&gt;EPA is also investigating whether the auxiliary emission control devices constitute “defeat devices,” which are illegal.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;coordination&quot; name=&quot;coordination&quot;&gt;&lt;/a&gt;Coordination with California&lt;/h2&gt;
+
+&lt;p&gt;EPA is working in coordination with the California Air Resources Board (CARB), which has also issued a notice of violation to FCA. EPA and CARB have both initiated investigations based on FCA’s alleged actions.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;questions&quot; name=&quot;questions&quot;&gt;&lt;/a&gt;Frequently Asked Questions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;What vehicles are affected?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dodge Ram 1500, 3.0 Liter Diesel Engine (Model Years 2014-2016)&lt;br /&gt;
+	Jeep Grand Cherokee, 3.0 Liter Diesel Engine (Model Years 2014-2016)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How many of the affected vehicles were sold in the U.S.?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The allegations cover roughly 104,000 vehicles sold in the United States.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What should I do if I own an affected 3.0-liter diesel Dodge Ram or Jeep Grand Cherokee?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is nothing you need to do at this time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I continue to drive my vehicle?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes. These cars are safe and legal to drive. Owners do not need to take any action at this time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Will EPA take or confiscate my vehicle?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Absolutely not. EPA will not confiscate your vehicle or require you to stop driving. You will not be charged for any action that may eventually be required.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can EPA require FCA to recall these vehicles?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes. EPA has the authority under section 207 of the Clean Air Act to require a manufacturer to issue a recall when EPA determines that a substantial number of vehicles do not conform to EPA regulations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is EPA requiring FCA to issue a recall now?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No. Any follow up action, including the need for a recall, will be determined as part of the ongoing investigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I live in an area that requires periodic emissions tests. What happens if my car fails?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is unlikely that the presence of the software will cause your vehicle to fail. The software has been installed in the affected FCA 3.0-liter diesels since 2014. To date, EPA has no indication of any pattern failures with these vehicles during inspection and maintenance emission tests.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I turn off the software?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No. The software is embedded in the code that runs the engine control computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What pollutants are being emitted?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vehicles emit an array of pollutants. EPA standards control the allowable emission levels of nitrogen oxides (NOx), hydrocarbons, carbon monoxide, carbon dioxide, particulate matter, and certain toxic chemicals. The FCA software affects the way the NOx control system operates, resulting in higher NOx emission levels from these vehicles than from vehicles with properly operating emission controls.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How does NOx pollution affect people’s health?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;NOx pollution contributes to atmospheric levels of nitrogen dioxide, ground-level ozone, and fine particulate matter. Exposure to these pollutants has been linked with a range of serious health effects, including increased asthma attacks and other respiratory illnesses that can be serious enough to send people to the hospital. Exposure to ozone and particulate matter have also been associated with premature death due to respiratory-related or cardiovascular-related effects. Children, the elderly, and people with pre-existing respiratory disease are particularly at risk for health effects of these pollutants.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 06 Jan 2017 16:05:37 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">168401 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Announcements for FCA Violations</title>
+    <link>https://www.epa.gov/fca/announcements-fca-violations</link>
+    <description>&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;Press Release: &lt;a href=&quot;/newsreleases/epa-notifies-fiat-chrysler-clean-air-act-violations&quot;&gt;EPA Notifies Fiat Chrysler of Clean Air Act Violations&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(January 12, 2017)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/sites/production/files/2017-01/documents/fca-caa-nov-2017-01-12.pdf&quot;&gt;Notice of Violation for Model Year 2014-2016 diesel light-duty vehicles (Dodge Ram and Jeep Grand Cherokee) (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 1 MB, January 12, 2017,  &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 05 Jan 2017 15:29:58 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">168277 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Contact Us about FCA Violations</title>
+    <link>https://www.epa.gov/fca/forms</link>
+    <description>&lt;div class=&quot;box right&quot;&gt;
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;Media and Press Inquiries&lt;/strong&gt;&lt;br /&gt;
+			If you are a reporter, please contact:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;mailto:valentine.julia@epa.gov&quot;&gt;Julia Valentine&lt;/a&gt;&lt;br /&gt;
+				(valentine.julia@epa.gov) 202-564-2663 for inquiries related to the FCA violation.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;box right clear-right&quot;&gt;
+	&lt;div class=&quot;slat-image&quot;&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;&lt;img alt=&quot;Report an environmental violation&quot; src=&quot;/sites/all/themes/epa/img/badge.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;slat-content&quot;&gt;
+		&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;/enforcement/report-environmental-violations&quot;&gt;Report a Violation&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;small&gt;Report possible violations of environmental laws and regulations.&lt;/small&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You may contact us by completing and submitting the form below.&lt;/p&gt;
+
+&lt;p&gt;You may also &lt;a href=&quot;mailto:otaq@epa.gov?subject=FCA%20Violations&quot;&gt;contact us by email&lt;/a&gt; at: otaq@epa.gov or by U.S. mail at:&lt;br /&gt;
+	U.S. Environmental Protection Agency&lt;br /&gt;
+	Public Information Services, Public Inquiry&lt;br /&gt;
+	2000 Traverwood Drive&lt;br /&gt;
+	Ann Arbor, MI 48105&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/air-pollution-transportation/contact-information-epas-office-transportation-and-air-quality&quot;&gt;More Contact Information for EPA&#039;s Office of Transportation and Air Quality&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 04 Jan 2017 16:37:55 +0000</pubDate>
+ <dc:creator>nsun</dc:creator>
+ <guid isPermaLink="false">168177 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:05:51, expires @ 2017-01-26 16:05:51, lifetime 12 hours -->

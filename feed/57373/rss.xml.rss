@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/57373/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Outdoor Air Quality Data</title>
+    <link>https://www.epa.gov/feed/57373/rss.xml</link>
+    <description>Updated Outdoor Air Quality Data content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/57373/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Air Data - Multiyear Tile Plot</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot</link>
+    <description>&lt;p&gt;Plot daily AQI values for a specific location and time period. Each square or “tile” represents one day of the year and is color-coded based on the AQI level for that day.&lt;/p&gt;
+
+&lt;form&gt;
+	&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;label for=&quot;poll&quot;&gt;Pollutant&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;poll&quot; name=&quot;poll&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;year&quot;&gt;Period&lt;/label&gt; from &lt;select class=&quot;form-select&quot; id=&quot;year&quot; name=&quot;year&quot;&gt;&lt;/select&gt; to &lt;select class=&quot;form-select&quot; id=&quot;endyear&quot; name=&quot;endyear&quot;&gt;&lt;/select&gt;  &lt;small&gt;(Maximum 25 years / Query time: 15 years ~ 30 seconds, 25 years ~ 1-2 minutes)&lt;/small&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;cbsa&quot;&gt;Geographic Area&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;cbsa&quot; name=&quot;cbsa&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;county&quot; name=&quot;county&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/form&gt;
+
+&lt;div id=&quot;launch&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;Plot Data&quot; /&gt;&lt;/div&gt;
+
+
+
+&lt;hr id=&quot;hr&quot; /&gt;&lt;div id=&quot;results&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot; id=&quot;top&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 23 Sep 2016 19:12:09 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">161075 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Assessment of PM2.5 FEMs Compared to Collocated FRMs</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/assessment-pm25-fems-compared-collocated-frms</link>
+    <description>&lt;p&gt;This memorandum describes a one-page technical report that assesses the comparability of a PM2.5 continuous monitor when collocated with an FRM sampler. These reports are intended to assist monitoring agencies in understanding if the PM2.5 continuous monitors operated in their network are appropriate for their intended monitoring objective (i.e., comparison to the NAAQS and/or reporting the AQI).&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-315869&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/comparabilityassessmenttool.pdf&quot; type=&quot;application/pdf; length=154612&quot; class=&quot;file-link&quot;&gt;Assessment of PM2.5 FEMs Compared to Collocated FRMs (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 155 K, 
+  02/22/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 16 Sep 2016 17:18:52 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">160415 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>One Point Quality Control Single Point Precision and Bias Graphics For Criteria Pollutants</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/one-point-quality-control-single-point-precision-and-bias-graphics-criteria</link>
+    <description>&lt;p&gt;In order to provide decision makers with data of adequate quality, OAQPS is using the Data&lt;br /&gt;
+	Quality Objective (DQO) process to determine our data quality needs for our ambient air criteria&lt;br /&gt;
+	pollutants. There are some data quality indicators, such as precision, bias, and completeness that&lt;br /&gt;
+	directly affect the attainment of the DQOs. These variables need to be in certain acceptable&lt;br /&gt;
+	ranges (called measurement quality objectives) in order for us to make decisions (like&lt;br /&gt;
+	comparison with the NAAQS) with specified levels of confidence. 40 CFR Part 58 Appendix A&lt;br /&gt;
+	provides the minimum requirements for the collection and reporting of data to assess the data&lt;br /&gt;
+	quality indicators of precision, bias, and completeness. On an annual basis, the Ambient Air&lt;br /&gt;
+	Monitoring Group (AAMG) develop summary reports on these data quality indicators.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	In 2006 OAQPS revised 40 CFR Part 58 Appendix A in order to base the precision and bias&lt;br /&gt;
+	measurement quality objectives on confidence intervals at the site level of data aggregation.&lt;br /&gt;
+	Since the criteria pollutant data are used for very important decisions (comparison to the&lt;br /&gt;
+	NAAQS) it is felt that providing precision and bias estimates at upper confidence limits provides&lt;br /&gt;
+	a higher probability of making appropriate decisions. This statistic provides a conservative&lt;br /&gt;
+	approach to measuring precision and bias. A document describing these statistics is available on&lt;br /&gt;
+	AMTIC. (http://www.epa.gov/ttn/amtic/parslist.html)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	Estimates of both bias and precision for the four automated gaseous methods (CO, NO2, O3, and&lt;br /&gt;
+	SO2) are derived from the bi-weekly one-point QC checks. Since every site should perform the&lt;br /&gt;
+	QC checks at an acceptable frequency, there is enough information to assess and control data&lt;br /&gt;
+	quality at the site level.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	In 2005, OAQPS developed a new report in AQS (AMP255 – P/A Quality Indicator Summary&lt;br /&gt;
+	Report) that summarized precision, bias, and completeness of the required QC data for each&lt;br /&gt;
+	criteria pollutant. The data tables may be generated at any time within the AQS application using&lt;br /&gt;
+	the standard report. Earlier reports also generated this data graphically which monitoring&lt;br /&gt;
+	organizations found very useful. Since AQS presently does not have this capability, AAMG is&lt;br /&gt;
+	providing these graphs annually as an addendum to the summary tables. The AMP255 was later&lt;br /&gt;
+	updated and replaced by the AMP256 report.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+	This document defines the elements displayed in the corresponding box and whisker graphics as&lt;br /&gt;
+	well as base assumptions of the data contained within the AMP256 report.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-314129&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-09/documents/boxplots_companion-generic_v2_9_9_16.pdf&quot; type=&quot;application/pdf; length=325133&quot; class=&quot;file-link&quot;&gt;One Point Quality Control Single Point Precision and Bias Graphics For Criteria Pollutants (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 325 K, 
+  9/9/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 09 Sep 2016 16:33:25 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">159799 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Data - Concentration Map</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/air-data-concentration-map</link>
+    <description>&lt;p&gt;Make a map of daily concentrations over several days. The daily air quality can be displayed in terms of the Air Quality Index or in concentration ranges for certain PM species like organic carbon, nitrates, and sulfates. This tool may be useful for tracking an air pollution episode like a wildfire event.&lt;/p&gt;
+
+&lt;form&gt;
+	&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;label for=&quot;poll&quot;&gt;Pollutant&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;poll&quot; name=&quot;poll&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;year&quot;&gt;Continental U.S. or State&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;state&quot; name=&quot;state&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label&gt;Start Date&lt;/label&gt;&lt;input class=&quot;form-text&quot; id=&quot;sdate&quot; name=&quot;sdate&quot; size=&quot;10&quot; type=&quot;text&quot; value=&quot;07-01-2015&quot; /&gt;&lt;small&gt; (mm-dd-yyyy)&lt;/small&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label&gt;Number of Days&lt;/label&gt;&lt;input class=&quot;form-text&quot; id=&quot;ndays&quot; name=&quot;ndays&quot; size=&quot;5&quot; type=&quot;text&quot; value=&quot;10&quot; /&gt;&lt;small&gt; (max = 10)&lt;/small&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/form&gt;
+
+&lt;div id=&quot;launch&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;Plot Data&quot; /&gt;&lt;/div&gt;
+
+
+
+&lt;hr id=&quot;hr&quot; /&gt;&lt;div id=&quot;results1&quot;&gt; &lt;/div&gt;
+
+&lt;div id=&quot;results2&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot; id=&quot;top&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 08 Sep 2016 17:31:03 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">159675 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Air Data Basic Information</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/air-data-basic-information</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#what&quot;&gt;What is AirData?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#news&quot;&gt;Keeping Up with AirData News&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#do&quot;&gt;What Can I Do with AirData?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#other&quot;&gt;Other Sources of Data&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#concepts&quot;&gt;Some Basic Air Quality Concepts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;what&quot; name=&quot;what&quot;&gt;&lt;/a&gt;What is AirData?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;AirData&lt;/strong&gt; website gives you access to air quality data collected at outdoor monitors across the United States, Puerto Rico, and the U. S. Virgin Islands. The data comes primarily from the AQS (Air Quality System) database. You can choose from several ways of looking at the data:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;download data into a file (or view it on the screen)&lt;/li&gt;
+	&lt;li&gt;output the data into one of AirData’s standard reports&lt;/li&gt;
+	&lt;li&gt;create graphical displays using one of the visualization tools&lt;/li&gt;
+	&lt;li&gt;investigate monitor locations using an interactive map&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;AirData assists a wide range of people, from the concerned citizen who wants to know how many unhealthy air quality days there were in his county last year to air quality analysts in the regulatory, academic, and health research communities who need raw data.&lt;/p&gt;
+
+&lt;p&gt;AirData lets you display and download monitored hourly, daily, and annual concentration data, AQI data, and speciated particle pollution data. If you need data that AirData does not have (such as emissions data) please see &lt;a href=&quot;#other&quot;&gt;Other Sources of Data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;news&quot; name=&quot;news&quot;&gt;&lt;/a&gt;Keeping Up with AirData News&lt;/h2&gt;
+
+&lt;p&gt;We invite you to subscribe to the AirData RSS Feed so you’ll be notified when we make enhancements to AirData, when we’re going to be down for scheduled maintenance, etc. &lt;/p&gt;
+
+&lt;blockquote&gt;&lt;a href=&quot;/sites/production/files/2016-09/rssairdata.xml&quot;&gt;Subscribe to the AirData RSS feed&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;do&quot; name=&quot;do&quot;&gt;&lt;/a&gt;What Can I do with AirData?&lt;/h2&gt;
+
+&lt;p&gt;There are four main parts of the AirData website: Download Data, Reports (Summary and Technical), Visualize Data, and the Interactive Map. &lt;/p&gt;
+
+&lt;h3&gt;Download Data&lt;/h3&gt;
+
+&lt;p&gt;This part of the website has two query tools (one for raw data and one for daily data) and a page of pre-pulled data files.&lt;/p&gt;
+
+&lt;h3&gt;Reports - Summary&lt;/h3&gt;
+
+&lt;p&gt;This part of the website provides a way to generate customized reports based on parameters you select. The &lt;a href=&quot;/outdoor-air-quality-data/about-air-data-reports&quot;&gt;About Air Data Reports&lt;/a&gt; page explains exactly what is in each report, including individual column descriptions.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-quality-index-report&quot;&gt;Air Quality Index Report&lt;/a&gt; – This report displays a yearly summary of AQI values in a county or city (specifically a CBSA - Core Based Statistical Area) . The summary values include maximum, 90th percentile and median AQI, the count of days in each AQI category, and the count of days when the AQI could be attributed to each criteria pollutant.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-quality-statistics-report&quot;&gt;Air Quality Statistics Report&lt;/a&gt; – This report shows yearly summaries of air pollution values for a city or county. The report shows the highest values reported during the year by all monitors in the CBSA or county. The report uses highlighted text to show values that exceed the level of an air quality standard.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/monitor-values-report&quot;&gt;Monitor Values Report&lt;/a&gt; – This report shows a yearly summary (first through fourth maximum values, number of samples, etc.) of the measurements at individual monitors and provides descriptive information about the sites.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/monitor-values-report-hazardous-air-pollutants&quot;&gt;Monitor Values Report - Hazardous Air Pollutants&lt;/a&gt; – This report displays hazardous air pollutant summary data for individual monitoring sites.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-quality-index-daily-values-report&quot;&gt;Air Quality Index Daily Values Report&lt;/a&gt; – This report provides daily Air Quality Index values for the specified year and location.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Reports - Technical&lt;/h3&gt;
+
+&lt;p&gt;This part of the website provides a way to generate customized reports based on paramters you select.  These reports are technical in nature and are intended to assist monitoring agencies.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/pm25-continuous-monitor-comparability-assessments&quot;&gt;PM2.5 Continuous Monitor Comparability Assessments&lt;/a&gt; – This tool provides a one-page technical report that assesses the comparability of a PM2.5 continuous monitor when collocated with an FRM sampler.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/single-point-precision-and-bias-report&quot;&gt;Single Point Precision and Bias Report&lt;/a&gt; – This report provides monitor-level precision and bias summaries in accordance with &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=7710f8dfe0701950b9985fbb06006107&amp;amp;mc=true&amp;amp;node=ap40.6.58_161.a&amp;amp;rgn=div9&quot;&gt;40 CFR Part 58 Appendix A&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;- &lt;cite&gt;Quality Assurance Requirements for Monitors used in Evaluations of National Ambient Air Quality Standards&lt;/cite&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Visualize Data&lt;/h3&gt;
+
+&lt;p&gt;Sometimes “seeing” the data is the best way to understand it. AirData’s visualization tools display data in unique and helpful ways.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-data-aqi-plot&quot;&gt;AQI Plot&lt;/a&gt;&lt;strong&gt; - &lt;/strong&gt;Compare AQI values for multiple pollutants for a specific location and time period. This tool displays an entire year of AQI values – two pollutants at a time - and is useful for seeing how the number of unhealthy days can vary throughout the year for each pollutant.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-data-tile-plot&quot;&gt;Tile Plot&lt;/a&gt; - Plot daily AQI values for a specific location and time period. Each square or “tile” represents one day of the year and is color-coded based on the AQI level for that day.  The legend tallies the number of days in each AQI category.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-data-concentration-plot&quot;&gt;Concentration Plot&lt;/a&gt;&lt;strong&gt; - &lt;/strong&gt;Generate a time series plot for a specific location and time period. This tool displays daily air quality summary statistics for the criteria pollutants by monitor. You can choose to plot all monitors in a county or CBSA, or you can select specific monitors.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-data-concentration-map&quot;&gt;Concentration Map&lt;/a&gt;&lt;strong&gt; - &lt;/strong&gt;Generate an animated series of daily concentration maps for a specific time period. Daily air quality is displayed in terms of the Air Quality Index (AQI) for the criteria pollutants, or in concentration ranges for certain PM species like organic carbon, nitrates, and sulfates.  This tool may be useful for tracking an air pollution episode like a wildfire event.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/outdoor-air-quality-data/air-data-ozone-exceedances&quot;&gt;Ozone Exceedances&lt;/a&gt; - Compare 8-hour ozone &quot;exceedances&quot; from this year with previous years. Comparisons are presented in three ways. The first plot shows the comparisons by MONTH. The second plot shows the comparisons by DAY (for cumulative counts). The third plot shows the comparisons by YEAR.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;The Interactive Map&lt;/h3&gt;
+
+&lt;p&gt;Use the &lt;a href=&quot;/outdoor-air-quality-data/interactive-map-air-quality-monitors&quot;&gt;Interactive Map of Air Quality Monitors&lt;/a&gt;  to see where air quality monitors are located, get information about the monitor, and download data from the monitor.  You can select which monitoring networks to display on the map. There are also layers for nonattainment areas, Tribal areas, and Federal Class 1 areas (national parks and wilderness areas).&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;other&quot; name=&quot;other&quot;&gt;&lt;/a&gt;Other Sources of Air Data&lt;/h2&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;
+			&lt;th&gt;Type of Data&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www.airnow.gov/&quot;&gt;AirNow&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air quality forecasts and real-time data in a visual format for public health protection&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/aircompare/&quot;&gt;AirCompare&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;AQI summaries for comparison of counties&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/air-trends&quot;&gt;AirTrends&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Trends of air quality and emissions&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www3.epa.gov/air/emissions/&quot;&gt;Air Emission Sources&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Emissions - national, state, and county-level summaries for criteria pollutant emissions&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/air-emissions-inventories&quot;&gt;The National Emissions Inventory &lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Emissions - a comprehensive and detailed estimate of air emissions of both Criteria and Hazardous air pollutants from all air emissions sources&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html&quot;&gt;AQS Data Mart&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Monitored ambient air quality data from AQS; for those who need large volumes of data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/castnet&quot;&gt;CASTNET&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;The Clean Air Status and Trends Network (CASTNET) is the nation&#039;s primary source for data on dry acidic deposition and rural, ground-level ozone&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/hesc/remote-sensing-information-gateway&quot;&gt;Remote Sensing Information Gateway (RSIG)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air quality monitoring, modeling, and satellite data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/radnet&quot;&gt;Radiation Monitoring Data&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air quality and emissions; Links to databases and maps&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://developer.epa.gov/category/data/&quot;&gt;EPA Data Finder&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air, Water, other EPA data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;http://views.cira.colostate.edu/web/&quot;&gt;Visibility Information Exchange Web System (VIEWS)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air quality monitoring, modeling, emissions, and satellite data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;http://datafed.net/&quot;&gt;DataFed &lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air quality monitoring, modeling, emissions, and satellite data&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://www.data.gov/&quot;&gt;Data.Gov&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Air, Water, other U.S. Federal Executive Branch datasets&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;concepts&quot; name=&quot;concepts&quot;&gt;&lt;/a&gt;Some Basic Air Quality Concepts&lt;/h2&gt;
+
+&lt;p&gt;Here are a few basic air quality concepts that could help you when using AirData. &lt;/p&gt;
+
+&lt;h3&gt;Types of Data&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring Data - &lt;/strong&gt;Ambient (outdoor) concentrations of pollutants are measured at more than 4000 monitoring stations owned and operated mainly by state environmental agencies. The agencies send hourly or daily measurements of pollutant concentrations to EPA&#039;s database called AQS (Air Quality System). AirData retrieves data from AQS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emissions Data - &lt;/strong&gt;EPA keeps track of the amount of pollution that comes from a variety of sources such as vehicles, power plants, and industries. The emissions data reported to EPA by state environmental agencies can be an actual reading taken at a source or an estimate made using a mathematical calculation. AirData does not contain emissions data at this time. Emissions data can be obtained from the &lt;a href=&quot;https://www3.epa.gov/air/emissions/&quot;&gt;Air Emission Sources&lt;/a&gt; website (for general summaries) and the &lt;a href=&quot;/air-emissions-inventories&quot;&gt;Air Emissions Inventories&lt;/a&gt; website (for detailed reports).&lt;/p&gt;
+
+&lt;h3&gt;Types of Air Pollutants&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Criteria Air Pollutants&lt;/strong&gt;&lt;br /&gt;
+	EPA sets &lt;a href=&quot;/learn-issues/learn-about-air&quot;&gt;national air quality standards&lt;/a&gt; for six common pollutants, also called &lt;a href=&quot;/criteria-air-pollutants&quot;&gt;criteria pollutants&lt;/a&gt;, to protect public health. Monitoring sites report data to EPA for these six criteria air pollutants:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Ozone (O3)&lt;/li&gt;
+	&lt;li&gt;Particulate matter (PM10 and PM2.5)&lt;/li&gt;
+	&lt;li&gt;Carbon monoxide (CO)&lt;/li&gt;
+	&lt;li&gt;Nitrogen dioxide (NO2)&lt;/li&gt;
+	&lt;li&gt;Sulfur dioxide (SO2)&lt;/li&gt;
+	&lt;li&gt;Lead (Pb)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;(PM10 includes particles less than or equal to 10 micrometers in diameter.  PM2.5 includes particles less than or equal to 2.5 micrometers and is also called fine particle pollution.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hazardous Air Pollutants (HAPs) / Toxic Air Pollutants&lt;/strong&gt;&lt;br /&gt;
+	Hazardous air pollutants (HAPs) (also called toxic air pollutants or air toxics) are pollutants that are known or suspected to cause serious health problems such as cancer.  There are &lt;a href=&quot;/ttn/atw/188polls.html&quot;&gt;188 hazardous air pollutants&lt;/a&gt;.  Examples of toxic air pollutants include benzene, which is found in gasoline; perchlorethlyene, which is emitted from some dry cleaning facilities; and methylene chloride, which is used as a solvent and paint stripper. Examples of other listed air toxics include dioxin, asbestos, toluene, and metals such as cadmium, mercury, chromium, and lead compounds. The &lt;a href=&quot;/national-air-toxics-assessment&quot;&gt;National Air Toxics Assessment (NATA)&lt;/a&gt; is EPA&#039;s ongoing comprehensive evaluation of air toxics in the U.S.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The AQI (Air Quality Index)&lt;/strong&gt;&lt;br /&gt;
+	AirData uses the &lt;a href=&quot;https://www.airnow.gov/index.cfm?action=aqibasics.aqi&quot;&gt;Air Quality Index (AQI)&lt;/a&gt; in some of its reports and tables and to display data using the visualization tools. The AQI is an index for reporting daily air quality. It tells how clean or polluted the air is, and what associated health effects might be a concern, especially for ground-level ozone and particle pollution.&lt;br /&gt;&lt;br /&gt;
+	Think of the AQI as a yardstick that runs from 0 to 500. The higher the AQI value, the greater the level of air pollution and the greater the health concern. For example, an AQI value of 50 represents good air quality with little potential to affect public health, while an AQI value over 300 represents hazardous air quality.&lt;/p&gt;
+
+&lt;p&gt;An AQI value of 100 generally corresponds to the national air quality standard for the pollutant, which is the level EPA has set to protect public health. AQI values below 100 are generally thought of as satisfactory. When AQI values are above 100, air quality is considered to be unhealthy-at first for certain sensitive groups of people, then for everyone as AQI values get higher.&lt;/p&gt;
+
+&lt;p&gt;The AQI is divided into six categories:&lt;/p&gt;
+
+&lt;div&gt;&lt;!-- CSS goes in the document HEAD or added to your external stylesheet --&gt;&lt;!-- Table goes in the document BODY --&gt;
+	&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Air Quality Index&lt;br /&gt;
+					(AQI) Values&lt;/strong&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;strong&gt;Levels of Health Concern&lt;/strong&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;strong&gt;Colors&lt;/strong&gt;&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;&lt;em&gt;When the AQI is in this range&lt;/em&gt;:&lt;/strong&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;em&gt;.&lt;strong&gt;.air quality conditions are:&lt;/strong&gt;&lt;/em&gt;&lt;/th&gt;
+				&lt;th&gt;&lt;strong&gt;&lt;em&gt;...as symbolized by this color:&lt;/em&gt;&lt;/strong&gt;&lt;/th&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;0-50 &lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Good &lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Green &lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;51-100&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Moderate&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Yellow &lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;101-150 &lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Unhealthy for Sensitive Groups&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Orange&lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;151 to 200&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Unhealthy &lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Red&lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;201 to 300 &lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Very Unhealthy&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Purple&lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;301 to 500&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Hazardous&lt;/strong&gt;&lt;/td&gt;
+				&lt;td&gt;&lt;strong&gt;Maroon&lt;/strong&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;Each category corresponds to a different level of health concern. The six levels of health concern and what they mean are:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&quot;Good&quot; AQI is 0 - 50. Air quality is considered satisfactory, and air pollution poses little or no risk.&lt;/li&gt;
+	&lt;li&gt;&quot;Moderate&quot; AQI is 51 - 100. Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people. For example, people who are unusually sensitive to ozone may experience respiratory symptoms.&lt;/li&gt;
+	&lt;li&gt;&quot;Unhealthy for Sensitive Groups&quot; AQI is 101 - 150. Although general public is not likely to be affected at this AQI range, people with lung disease, older adults and children are at a greater risk from exposure to ozone, whereas persons with heart and lung disease, older adults and children are at greater risk from the presence of particles in the air.&lt;/li&gt;
+	&lt;li&gt;&quot;Unhealthy&quot; AQI is 151 - 200. Everyone may begin to experience some adverse health effects, and members of the sensitive groups may experience more serious effects.&lt;/li&gt;
+	&lt;li&gt;&quot;Very Unhealthy&quot; AQI is 201 - 300. This would trigger a health alert signifying that everyone may experience more serious health effects.&lt;/li&gt;
+	&lt;li&gt;&quot;Hazardous&quot; AQI greater than 300. This would trigger health warnings of emergency conditions. The entire population is more likely to be affected.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 30 Aug 2016 18:41:06 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">158949 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Download Daily Data</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/download-daily-data</link>
+    <description>&lt;p&gt;Download daily data for a specific location and time period. This tool queries daily air quality summary statistics for the criteria pollutants by monitor. You can get data for specific monitors or all monitors in a city, county, or state.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timeliness of data&lt;/strong&gt; - The daily summaries come direcly from the AQS Data Mart which contains ambient air pollution data collected by EPA, state, local, and tribal air pollution control agencies.  Most data in AQS is required to be submitted by the end of the calendar quarter after the quarter in which it was collected. However, AQS is updated practically every day as reporting agencies have data ready to submit. A key milestone in reporting is May 1&lt;sup&gt;st&lt;/sup&gt;, by which all data for the prior year should be complete and correct.&lt;/p&gt;
+
+&lt;form&gt;
+	&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;label for=&quot;poll&quot;&gt;Pollutant&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;poll&quot; name=&quot;poll&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;year&quot;&gt;Year&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;year&quot; name=&quot;year&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;state&quot;&gt;Geographic Area&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;state&quot; name=&quot;state&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;cbsa&quot; name=&quot;cbsa&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;county&quot; name=&quot;county&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;site&quot;&gt;Monitor Site&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;site&quot; name=&quot;site&quot; size=&quot;10&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/form&gt;
+
+&lt;div id=&quot;launch&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;Get Data&quot; /&gt;&lt;/div&gt;
+
+
+
+&lt;hr id=&quot;hr&quot; /&gt;&lt;div id=&quot;results&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot; id=&quot;top&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 18 Aug 2016 14:51:35 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">157793 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Interactive Map of Air Quality Monitors</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/interactive-map-air-quality-monitors</link>
+    <description>&lt;p&gt;The AirData Air Quality Monitors app is a mapping application available on the web and on mobile devices that displays monitor locations and monitor-specific information.  It also allows the querying and downloading of data daily and annual summary data.  &lt;/p&gt;
+
+&lt;p&gt;Map layers include:&lt;a href=&quot;https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=5f239fd3e72f424f98ef3d5def547eb5&amp;amp;extent=-146.2334,13.1913,-46.3896,56.5319&quot; target=&quot;_blank&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Air Data Map App&quot; title=&quot;Air Data Map App&quot; height=&quot;271&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-09/airdatamapappicon.png&quot; /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Monitors for all criteria pollutants (CO, Pb, NO2, Ozone, PM10, PM2.5, and SO2)&lt;/li&gt;
+	&lt;li&gt;PM2.5 Chemical Speciation Network monitors&lt;/li&gt;
+	&lt;li&gt;IMPROVE (Interagency Monitoring of PROtected Visual Environments) monitors&lt;/li&gt;
+	&lt;li&gt;NATTS (National Air Toxics Trends Stations)&lt;/li&gt;
+	&lt;li&gt;NCORE (Multipollutant Monitoring Network)&lt;/li&gt;
+	&lt;li&gt;Nonattainment areas for all criteria pollutants&lt;/li&gt;
+	&lt;li&gt;Tribal areas&lt;/li&gt;
+	&lt;li&gt;Federal Class I areas (national parks and wilderness areas)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Note: We are working to provide a KML service for the monitor network layers. In the meantime, we are posting &lt;a href=&quot;#kmz&quot;&gt;a static version of the KMZ files&lt;/a&gt; on this page for your convenience.&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;a id=&quot;kmz&quot; name=&quot;kmz&quot;&gt;&lt;/a&gt;Static KMZ files as of October 27, 2015&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-309663&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/co.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=359051&quot; class=&quot;file-link&quot;&gt;CO (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 359 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309665&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pb.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=286824&quot; class=&quot;file-link&quot;&gt;Lead (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 287 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309683&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pbtsplc.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=88819&quot; class=&quot;file-link&quot;&gt;Lead-TSP-Local Conditions (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 89 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309687&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pbpm10lc.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=12872&quot; class=&quot;file-link&quot;&gt;Lead-PM10-Local Conditions (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 13 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309689&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/no2.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=348713&quot; class=&quot;file-link&quot;&gt;NO2 (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 349 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309691&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/ozone.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=775648&quot; class=&quot;file-link&quot;&gt;Ozone (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 776 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309693&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pm10.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=1006970&quot; class=&quot;file-link&quot;&gt;PM10 (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 1 MB, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309697&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/pm25.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=643487&quot; class=&quot;file-link&quot;&gt;PM2.5 (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 643 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309701&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/so2.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=516672&quot; class=&quot;file-link&quot;&gt;SO2 (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 517 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309703&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/trends_speciation.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=92097&quot; class=&quot;file-link&quot;&gt;PM2.5 Chemical Speciation Network (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 92 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309707&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/improve.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=77409&quot; class=&quot;file-link&quot;&gt;IMPROVE (Interagency Monitoring of Protected Visual Environments) (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 77 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309713&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/natts.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=11800&quot; class=&quot;file-link&quot;&gt;NATTS (National Air Toxics Trends Stations) (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 12 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-309721&quot; class=&quot;file file-document file-application-vndgoogle-earthkmz&quot;&gt;&lt;a href=&quot;/sites/production/files/2016-08/ncore_0.kmz&quot; type=&quot;application/vnd.google-earth.kmz; length=19357&quot; class=&quot;file-link&quot;&gt;NCORE Multipollutant Monitoring Network (kmz)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 19 K, 
+  10/27/2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 17 Aug 2016 14:50:19 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">157723 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Single Point Precision and Bias Report</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/single-point-precision-and-bias-report</link>
+    <description>&lt;p&gt;This report provides monitor-level precision and bias summaries in accordance with &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?SID=7710f8dfe0701950b9985fbb06006107&amp;amp;mc=true&amp;amp;node=ap40.6.58_161.a&amp;amp;rgn=div9&quot;&gt;40 CFR Part 58 Appendix A - &lt;cite&gt;Quality Assurance Requirements for Monitors used in Evaluations of National Ambient Air Quality Standards&lt;/cite&gt;&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;  The diagram below describes the plots in the report, and this &lt;a href=&quot;/outdoor-air-quality-data/one-point-quality-control-single-point-precision-and-bias-graphics-criteria&quot;&gt;companion document&lt;/a&gt; provides greater detail. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png right view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2016-09/boxwhiskerexplained.png&quot;&gt;&lt;img alt=&quot;Box and whisker diagram&quot; title=&quot;Box and whisker diagram&quot; height=&quot;482&quot; width=&quot;928&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2016-09/boxwhiskerexplained.png&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;form&gt;
+	&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;label for=&quot;poll&quot;&gt;Pollutant&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;poll&quot; name=&quot;poll&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;year&quot;&gt;Year&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;year&quot; name=&quot;year&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;region&quot;&gt;Domain&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;region&quot; name=&quot;region&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;state&quot; name=&quot;state&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;agency&quot; name=&quot;agency&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;bound&quot;&gt;Bounds for graph&lt;br /&gt;&lt;small&gt;(leave defaults to plot the full range of data)&lt;/small&gt;&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;loweraxis&quot; name=&quot;loweraxis&quot;&gt;&lt;option value=&quot;-1&quot;&gt;Lower Default&lt;/option&gt;&lt;option&gt;-10&lt;/option&gt;&lt;option&gt;-20&lt;/option&gt;&lt;option&gt;-30&lt;/option&gt;&lt;option&gt;-40&lt;/option&gt;&lt;option&gt;-50&lt;/option&gt;&lt;option&gt;-60&lt;/option&gt;&lt;option&gt;-70&lt;/option&gt;&lt;option&gt;-80&lt;/option&gt;&lt;option&gt;-90&lt;/option&gt;&lt;/select&gt;&lt;select class=&quot;form-select&quot; id=&quot;upperaxis&quot; name=&quot;upperaxis&quot;&gt;&lt;option value=&quot;-1&quot;&gt;Upper Default&lt;/option&gt;&lt;option&gt;10&lt;/option&gt;&lt;option&gt;20&lt;/option&gt;&lt;option&gt;30&lt;/option&gt;&lt;option&gt;40&lt;/option&gt;&lt;option&gt;50&lt;/option&gt;&lt;option&gt;60&lt;/option&gt;&lt;option&gt;70&lt;/option&gt;&lt;option&gt;80&lt;/option&gt;&lt;option&gt;90&lt;/option&gt;&lt;/select&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/form&gt;
+
+&lt;div id=&quot;launch&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;Generate Report&quot; /&gt;&lt;/div&gt;
+
+
+
+&lt;hr id=&quot;hr&quot; /&gt;&lt;div id=&quot;results&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot; id=&quot;top&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 12 Aug 2016 19:11:12 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">157443 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>PM2.5 Continuous Monitor Comparability Assessments</title>
+    <link>https://www.epa.gov/outdoor-air-quality-data/pm25-continuous-monitor-comparability-assessments</link>
+    <description>&lt;p&gt;This tool provides a one-page technical report that assesses the comparability of a PM2.5 continuous monitor when collocated with an FRM sampler. These reports are intended to assist monitoring agencies in understanding if the PM2.5 continuous monitors operated in their network are appropriate for their intended monitoring objective (i.e., comparison to the NAAQS and/or reporting the AQI). Data are summarized by season across years, by year, and for all data. The most appropriate way to interpret the comparability of the PM2.5 continuous monitors is to look at either the entire data set, designated as “AllData” or “A”, or view the last complete year of data. The comparability assessments are presented in the context of several benchmark tests to assist with that evaluation. The assessment methods are described in detail in the following memo - &lt;a href=&quot;/outdoor-air-quality-data/assessment-pm25-fems-compared-collocated-frms&quot;&gt;Assessment of PM2.5 FEMs Compared to Collocated FRMs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;form&gt;
+	&lt;ol class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;label for=&quot;state&quot;&gt;Geographic Area&lt;/label&gt; &lt;select class=&quot;form-select&quot; id=&quot;cbsa&quot; name=&quot;cbsa&quot;&gt;&lt;/select&gt;&lt;br /&gt;
+			    &lt;small&gt;-- or --&lt;/small&gt;&lt;br /&gt;&lt;select class=&quot;form-select&quot; id=&quot;county&quot; name=&quot;county&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;site&quot;&gt;Site&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;site&quot; name=&quot;site&quot; size=&quot;7&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;label for=&quot;lastyear&quot;&gt;Specify last year of 3-year period&lt;/label&gt;&lt;select class=&quot;form-select&quot; id=&quot;lastyear&quot; name=&quot;lastyear&quot; size=&quot;7&quot;&gt;&lt;/select&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/form&gt;
+
+&lt;div id=&quot;launch&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;Generate Report&quot; /&gt;&lt;/div&gt;
+
+
+
+&lt;hr id=&quot;hr&quot; /&gt;&lt;div id=&quot;results&quot;&gt; &lt;/div&gt;
+
+&lt;p class=&quot;pagetop&quot; id=&quot;top&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 12 Aug 2016 18:47:28 +0000</pubDate>
+ <dc:creator>dmintz</dc:creator>
+ <guid isPermaLink="false">157435 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:57:14, expires @ 2017-01-26 04:57:14, lifetime 12 hours -->

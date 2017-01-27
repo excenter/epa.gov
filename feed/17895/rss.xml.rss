@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/17895/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Dioxin</title>
+    <link>https://www.epa.gov/feed/17895/rss.xml</link>
+    <description>Updated Dioxin content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/17895/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Resources for Scientists on Dioxin</title>
+    <link>https://www.epa.gov/dioxin/resources-scientists-dioxin</link>
+    <description>&lt;div&gt;These resources are listed as a comprehensive list of the best resources available for anyone needing tools, models, databases, etc.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/dioxin/dioxin-databases-methods-and-tools&quot;&gt;Databases, methods, and tools&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/dioxin/dioxin-exposure-initiative&quot;&gt;Dioxin exposure initiative&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/dioxin/inventory-dioxin-sources-and-environmental-releases&quot;&gt;Dioxin inventory of sources and environmental releases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Mon, 24 Nov 2014 19:55:45 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">67871 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Inventory of Dioxin Sources and Environmental Releases</title>
+    <link>https://www.epa.gov/dioxin/inventory-dioxin-sources-and-environmental-releases</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;p&gt;EPA released the dioxin inventory of sources in the form of a final report entitled, &quot;&lt;em&gt;An inventory of sources and environmental releases of dioxin-like compounds in the United States for the years 1987, 1995 and 2000&lt;/em&gt;&quot; in November 2006. This report represented an evaluation of sources and emissions of dioxins (CDDs), dibenzofurans (CDFs) and coplanar PCBs to the air, land and water of the U.S. The report contained an inventory that suggested there was a significant reduction in environmental releases of dioxin-like compounds from regulated industrial sources between the years 1987 and 2000, and that the open burning of residential refuse in backyard burn barrels was the largest source in 2000 that could be reliably quantified. EPA has been working on a revised version of the report. An external review draft was released in 2013 and is undergoing a public peer review before the final report will be released on the EPA web site.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=159286&quot;&gt;Original report: An inventory of sources and environmental releases of dioxin-like compounds in the United States for the years 1987, 1995 and 2000 (Nov 2006)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=235432&quot;&gt;Revision: An inventory of sources and environmental releases of dioxin-like compounds in the United States for the years 1987, 1995 and 2000 (External Review Draft) (Aug 2013)&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Background&lt;/h2&gt;
+
+		&lt;p&gt;The purpose of this report was to present a comprehensive inventory and overview of sources and environmental releases of dioxin-like compounds in the United States. The major identified sources of environmental releases of dioxin-like compounds are grouped into six broad categories: combustion sources, metals smelting, refining and process sources, chemical manufacturing sources, natural sources, and environmental reservoirs. Estimates of annual releases to land, air, and water are presented for each source category and summarized for reference years 1987, 1995, and 2000. The quantitative results are expressed in terms of the toxicity equivalent (TEQ) of the mixture of polychlorinated dibenzo-p-dioxin (CDD) and polychlorinated dibenzofuran (CDF) compounds present in environmental releases using a procedure sanctioned by the World Health Organization (WHO) in 1998. This TEQ procedure translates the complex mixture of CDDs and CDFs characteristic of environmental releases into an equivalent toxicity concentration of 2,3,7,8-tetrachorodibenzo-p-dioxin (2,3,7,8-TCDD), the most toxic member of this class of compounds. Using this WHO procedure, the annual releases of TEQDF-WHO98 to the U.S. environment over the three reference years are 14,000 g in 1987, 3,400 g in 1995, and 1,400 g in 2000.&lt;/p&gt;
+
+		&lt;p&gt;This analysis indicates that between reference years 1987 and 2000, there was a significant reduction in the releases of dioxin-like compounds to the circulating environment of the United States from regulated industrial sources. In 1987 and 1995, the leading source of dioxin emissions to the U.S. environment was municipal waste combustion; however, because of reductions in dioxin emissions from municipal waste combustors, it dropped to the 4th ranked source in 2000. Burning of domestic refuse in backyard burn barrels remained fairly constant over the years, but in 2000, it emerged as the largest source of dioxin emissions to the U.S. environment that could be reliably quantified. Other potentially large sources were identified, but were not included in the inventory due to uncertainties in available data. These included forest fires and landfill fires.&lt;/p&gt;
+
+		&lt;h2&gt;Related Resources:&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=254526&quot;&gt;National Dioxin Air Monitoring Network (NDAMN) Report of the Results of Atmospheric Measurements of PCDDs, PCDFs, and Dioxin-Like PCBs in Rural and Remote Areas of the U.S. from June 1998 Through November 2004&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=20797&quot;&gt;Database of Sources of Environmental Releases of Dioxin-Like Compounds in the United States&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=55405&quot;&gt;User&#039;s Manual for the Database of Sources of Environmental Releases of Dioxin-Like Compounds in the U.S.: Reference Years 1987 and 1995&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+     <pubDate>Mon, 24 Nov 2014 19:45:08 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">67867 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dioxin Exposure Initiative</title>
+    <link>https://www.epa.gov/dioxin/dioxin-exposure-initiative</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;DEI Contact&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;mailto:lorber.matthew@epa.gov&quot;&gt;Matthew Lorber&lt;/a&gt;&lt;br /&gt;
+				by phone at:&lt;br /&gt;
+				703-347-8535&lt;br /&gt;
+				by email at:&lt;br /&gt;&lt;a href=&quot;mailto:lorber.matthew@epa.gov&quot;&gt;lorber.matthew@epa.gov&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;hr /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=54886&quot; target=&quot;_top&quot;&gt;DEI Publications&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span class=&quot;warning&quot;&gt;The Dioxin Exposure Initiative (DEI) is no longer active. However, many of our web visitors have continuing interest in learning about the approach taken in the DEI, and find it useful as a repository for related DEI publications.&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;On this page:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#obj&quot;&gt;Objective&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#source&quot;&gt;Sources Forward&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#human&quot;&gt;Human Exposure Backward&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#trend&quot;&gt;Trends&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2 id=&quot;obj&quot;&gt;Objective&lt;/h2&gt;
+
+&lt;p&gt;The DEI was identified as a multi-year effort that extended beyond the current reassessment effort; however, particular emphasis was placed on gaining as much information as possible that could be incorporated into the final reassessment. This data was critical to supporting EPA development and implementation of an agency-wide dioxin risk management strategy. The DEI was jointly funded and managed by EPA&#039;s Office of Prevention, Pesticides, and Toxic Substances (OPPT), and the Office of Research and Development (ORD).&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-teaser caption&quot; style=&quot;width:160px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-05/dei-figure-1.jpg&quot;&gt;&lt;img alt=&quot;Dioxin cycling through the environment&quot; title=&quot;Dioxin cycling through the environment&quot; height=&quot;164&quot; width=&quot;160&quot; class=&quot;right media-element file-teaser right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-05/dei-figure-1.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 1. &amp;nbsp;Click for a larger view of how dioxin cycles through the environment.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt; to air are dominated by the combustion of wastes and fuels. Sources to water include storm runoff, air deposition, and waste water discharges from certain industrial processes. Contributions to land include air deposition and the land spreading of waste water treatment sludge. As illustrated in Figure 1, the cycling of dioxin through the environment is a complex process, involving multiple sources, flows, reservoirs, and sinks.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Flows&lt;/strong&gt; include: airborne transport of dioxin vapor and dioxin contaminated particulates; water transport of dioxin contaminated suspended particulates; transport from land through wind and water erosion; transport by biota through trophic exchange; and the movement through commerce contaminated materials.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Reservoirs&lt;/strong&gt; include soil, sediment and manufactured materials which contain dioxins that are temporarily stored but may later be released into the circulating environment.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Sinks&lt;/strong&gt; represent the long-term storage and isolation of dioxin in undisturbed soil and sediment.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Although we have a general qualitative understanding of dioxin cycling in the environment, our quantitative understanding is limited.&lt;/p&gt;
+
+&lt;p&gt;The fundamental goal of the DEI initiative was to quantitatively link dioxin sources to general population exposure. The initiative pursued two simultaneous lines of inquiry:&lt;/p&gt;
+
+&lt;ul class=&quot;indented&quot;&gt;&lt;li&gt;The first focused on identifying sources of dioxin-like compounds and worked forward along their pathways of transport and deposition.&lt;/li&gt;
+	&lt;li&gt;The second started with human body burdens and worked backwards through the process of bioaccumulation and uptake.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;As these two lines of inquiry merged, they should provided an adequate understanding to enable EPA to target future exposure reductions efforts to those sources and pathways that most significantly contribute to human risk. An additional goal of the initiative estimated, where possible, past trends in dioxin exposure and established a current baseline for monitoring future trends.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source&quot;&gt;Sources Forward&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-teaser caption&quot; style=&quot;width:160px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-05/dei-figure-2.jpg&quot;&gt;&lt;img alt=&quot;Sources Forward Approach to Dioxin Exposure&quot; title=&quot;Sources Forward Approach to Dioxin Exposure&quot; height=&quot;116&quot; width=&quot;160&quot; class=&quot;right media-element file-teaser right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-05/dei-figure-2.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 2. Click for a larger view of this image which highlights the sources forward approach to linking dioxin exposure to general population exposure.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA adopted a strategy which divided source identification into three steps:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;source nomination,&lt;/li&gt;
+	&lt;li&gt;source confirmation, and&lt;/li&gt;
+	&lt;li&gt;source characterization.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Nomination of a source can come about based on information such as theoretical chemistry, similarity of a process to known dioxin sources, or emissions data of uncertain quality. Once a source is nominated it is then a candidate for confirmation. Confirmation is a limited monitoring or testing effort intended to confirm that dioxins are, or are not, a product of the candidate source. Confirmation testing will use conditions which are thought to be most conducive to dioxin formation. If no dioxins are found, then no further testing will be needed. If dioxins are found, then the source becomes a candidate for source characterization. Source characterization attempts to provide a basis for quantitatively estimating national emission totals for a source category. This is an inherently expensive activity and, for some sources, could absorb a major portion of the entire initiative budget; consequently, the initial focus of source identification portion of the initiative is on nomination and confirmation.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;human&quot;&gt;Human Exposure Backward&lt;/h2&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-teaser caption&quot; style=&quot;width:160px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2015-05/dei-figure-3.jpg&quot;&gt;&lt;img alt=&quot;Exposure Backwards Approach to Dioxin Exposure&quot; title=&quot;Exposure Backwards Approach to Dioxin Exposure&quot; height=&quot;112&quot; width=&quot;160&quot; class=&quot;right media-element file-teaser right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/small/public/2015-05/dei-figure-3.jpg&quot; /&gt;&lt;/a&gt;&lt;span class=&quot;figcaption&quot;&gt;Figure 3. Click for a larger view of this image which highlights the human exposure backwards approach to linking dioxin exposure to general population exposure.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;In its second approach, the initiative started with quantification of human body burdens, and modeled intake. This modeled intake was compared to the intake derived from newly measured levels of dioxin in the diet to see if they quantitatively confirm the diet hypothesis of exposure. The food measurements also provided a basis for determining what portions of the diet contribute most to general population exposure.&lt;/p&gt;
+
+&lt;p&gt;Similarly, livestock exposures were estimated on the basis of levels in animal feeds and compared with exposures derived from animal body burdens to quantitatively confirm the leaf-to-animal hypothesis. If, in the process of these studies, there are indications of additional pathways of exposure outside of the air-to-leaf-to-animal-to-human route, these will also be explored. Finally, levels in animal feeds were compared to predicted levels derived from air deposition rates to complete the linking of dioxin sources to human exposure.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;trend&quot;&gt;Trends&lt;/h2&gt;
+
+&lt;p&gt;The determination of past trends in emissions, depositions, and exposure could provide a more powerful context in which to develop dioxin strategies. To get a better picture of past deposition and, by inference, emissions and exposure, the DEI looked at dioxin levels in lake sediments in several regions across the United States. The DEI also used pharmacokinetic modeling to reconstruct past doses of 2,3,7,8-tetrachlorodibenzo-p-dioxin. Data collected on food and ambient air can serve as baseline measurements for tracking future trends.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 24 Nov 2014 19:37:36 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">67861 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Publications on Dioxin</title>
+    <link>https://www.epa.gov/dioxin/publications-dioxin</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;General&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Technical/Scientific&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;General&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://water.epa.gov/drink/contaminants/basicinformation/historical/upload/Archived-Consumer-Fact-Sheet-on-Dioxin.pdf&quot;&gt;Archived Consumer Factsheet on Dioxin and Drinking Water (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 148 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) &lt;/span&gt;(Last updated May 2009)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://safewater.zendesk.com/hc/en-us/sections/202346377&quot;&gt;Archived Technical Dioxin and Drinking Water Fact Sheet&lt;/a&gt; (Last updated May 2009)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nj.gov/health/eoh/rtkweb/documents/fs/1806.pdf&quot;&gt;New Jersey Department of Health and Senior Services Hazardous Substance Fact Sheet: 2,3,7,8-tetrachlorodibenzo-&lt;em&gt;p&lt;/em&gt;-dioxin (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 150 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; (Last updated Sep 2002) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;Technical/Scientific&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/dioxin/dioxin-science-plan-issued-2009&quot;&gt;Dioxin Science Plan&lt;/a&gt; (Last updated May 2009)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/risk/documents-recommended-toxicity-equivalency-factors-human-health-risk-assessments-dioxin-and&quot;&gt;Dioxin Toxicity Equivalency Factors (TEFs) for Human Health&lt;/a&gt; (Last updated Dec 2010)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/publication.cfm&quot;&gt;Environmental Assessment Publications on Dioxin&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1024&quot;&gt;Reanalysis of Key Issues Related to Dioxin Toxicity and Response to National Academy of Sciences (NAS) Comments, Volume 1&lt;/a&gt; (Last updated Feb 2012)
+				&lt;ul&gt;&lt;li&gt;​&lt;a href=&quot;/iris/supporting-documents-2378-tetrachlorodibenzo-p-dioxin-tcdd&quot;&gt;Support Documents from the Integrated Risk Information System (IRIS) on Dioxin&lt;/a&gt; (Last updated Feb 2012)&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;Science Inventory (SI) publications on dioxin research: &lt;a href=&quot;https://cfpub.epa.gov/si/si_lab_search_results.cfm?subject=Dioxin&amp;amp;showCriteria=0&amp;amp;searchAll=Dioxin&amp;amp;actType=Product&amp;amp;TIMSType=JOURNAL&amp;amp;sortBy=revisionDate&quot;&gt;SI journal articles&lt;/a&gt; | &lt;a href=&quot;https://cfpub.epa.gov/si/si_lab_search_results.cfm?subject=dioxin&amp;amp;showCriteria=0&amp;amp;searchAll=dioxin&amp;amp;actType=Product&amp;amp;TIMSType=PUBLISHED+REPORT&amp;amp;sortBy=revisionDate&quot;&gt;SI reports&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.unep.org/publications/contents/pub_details_search.asp?ID=438&quot;&gt;United Nations Environmental Programme. Standardized Toolkit for Identification and Quantification of Dioxin and Furan Release&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; (Last updated 2003)&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Nov 2014 19:09:20 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">67245 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dioxins Produced by Backyard Burning</title>
+    <link>https://www.epa.gov/dioxin/dioxins-produced-backyard-burning</link>
+    <description>&lt;p&gt;Dioxins do not typically exist in materials before they are incinerated. However, when materials and waste are burned, dioxins are produced and introduced into the environment. Backyard burning of waste materials creates higher levels of dioxins than industrial incinerators and is particularly dangerous because it releases pollutants at the ground level where they are more readily inhaled or incorporated into the food chain.&lt;/p&gt;
+
+&lt;p&gt;Best resource:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://nepis.epa.gov/Exe/ZyNET.exe/10004638.TXT?ZyActionD=ZyDocument&amp;amp;Client=EPA&amp;amp;Index=2000+Thru+2005&amp;amp;Docs=&amp;amp;Query=&amp;amp;Time=&amp;amp;EndTime=&amp;amp;SearchMethod=1&amp;amp;TocRestrict=n&amp;amp;Toc=&amp;amp;TocEntry=&amp;amp;QField=&amp;amp;QFieldYear=&amp;amp;QFieldMonth=&amp;amp;QFieldDay=&amp;amp;IntQFieldOp=0&amp;amp;ExtQFieldOp=0&amp;amp;XmlQuery=&amp;amp;File=D%3A%5Czyfiles%5CIndex%20Data%5C00thru05%5CTxt%5C00000006%5C10004638.txt&amp;amp;User=ANONYMOUS&amp;amp;Password=anonymous&amp;amp;SortMethod=h%7C-&amp;amp;MaximumDocuments=1&amp;amp;FuzzyDegree=0&amp;amp;ImageQuality=r75g8/r75g8/x150y150g16/i425&amp;amp;Display=hpfr&amp;amp;DefSeekPage=x&amp;amp;SearchBack=ZyActionL&amp;amp;Back=ZyActionS&amp;amp;BackDesc=Results%20page&amp;amp;MaximumPages=1&amp;amp;ZyEntry=1&amp;amp;SeekPage=x&amp;amp;ZyPURL&quot;&gt;The Hidden Hazards of Backyard Burning&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Other related information:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/burnwise/burn-wise-best-burn-practices&quot;&gt;Best Burn Practices&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/burnwise&quot;&gt;Burn Wise Program&lt;/a&gt; (Tips, Wood Stove Tags, and other related information)&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Mon, 17 Nov 2014 17:53:00 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">67221 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dioxin at Superfund sites</title>
+    <link>https://www.epa.gov/dioxin/dioxin-superfund-sites</link>
+    <description>&lt;p&gt;Dioxin is commonly found at hazardous waste sites, including sites on EPA’s National Priority List, for which the cleanup is managed under EPA’s &lt;a href=&quot;/superfund&quot;&gt;Superfund program&lt;/a&gt;. EPA has &lt;a href=&quot;/superfund/dioxin-superfund-sites&quot;&gt;information to help assessors on these sites characterize soil contaminated with dioxins&lt;/a&gt;. Specifically, EPA provides:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;questions and answers with regards to the &lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1024&quot;&gt;2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)&lt;/a&gt; non-cancer toxicity value, or reference dose (RfD), at Resource Conservation and Recovery Act (RCRA) and Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) sites, and&lt;/li&gt;
+	&lt;li&gt;a &lt;a href=&quot;https://clu-in.org/contaminantfocus/default.focus/sec/dioxins/cat/detection_and_site_characterization/&quot;&gt;Dioxin Toolbox&lt;/a&gt;, which contains technical documents to assist Superfund project managers in the sampling and analysis of dioxin-contaminated soils.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Have questions about this information? Contact the &lt;a href=&quot;https://webcms.appdev.epa.gov/superfund/forms/contact-us-about-superfund&quot;&gt;Superfund helpdesk&lt;/a&gt; for additional help.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 12 Nov 2014 19:15:04 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">66877 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dioxin in Art Studio Ball Clay</title>
+    <link>https://www.epa.gov/dioxin/dioxin-art-studio-ball-clay</link>
+    <description>&lt;p&gt;In 1996, dioxins were discovered in ball clay as a result of an investigation to determine the sources of elevated dioxin levels in two chicken samples from a national survey of poultry. The investigation indicated that the contamination source was ball clay added to chicken meal as an anti-caking agent.  In the mid-2000&#039;s, EPA conducted a study to evaluate the potential exposure scenario of the use of ball art clay in ceramic art studios.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=199244&quot;&gt;An Exploratory Study: Assessment of Modeled Dioxin Exposure in Ceramic Art Studios (2008 Final)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 12 Nov 2014 17:29:58 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">66853 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Common Sources of Exposure to Dioxin</title>
+    <link>https://www.epa.gov/dioxin/common-sources-exposure-dioxin</link>
+    <description>&lt;div&gt;Dioxin can be present in our environment in a variety of ways. The following links contain information about different ways people can be exposed to dioxin.&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/dioxin/dioxin-art-studio-ball-clay&quot;&gt;Dioxin in art studio ball clay&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Dioxin in drinking water (&lt;a href=&quot;/ground-water-and-drinking-water/table-regulated-drinking-water-contaminants&quot;&gt;table of regulated drinking water contaminants&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/dioxin/dioxin-superfund-sites&quot;&gt;Dioxin in soil and Superfund sites&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/dioxin/dioxins-produced-backyard-burning&quot;&gt;Dioxins produced by backyard burning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Dioxin is in a group of 30 air pollutants that pose the greatest potential health threat in urban areas. &lt;a href=&quot;/urban-air-toxics&quot;&gt;Learn about urban air toxic pollutants and what EPA is doing to reduce emissions of them&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Related Resources:&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/toxics-release-inventory-tri-program/guidance-dioxin-and-dioxin-compounds-category&quot;&gt;Emergency Planning and Community Right-to-Know Act Section 313 Guidance for Reporting Toxic Chemicals within the Dioxin and Dioxin-like Compounds Category&lt;/a&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/toxics-release-inventory-tri-program/dioxin-and-dioxin-compounds-toxic-equivalency-information&quot;&gt;Dioxin and Dioxin-like Compounds Toxic Equivalency (TEQ) Information&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Need help on TRI or TEQ&#039;s? Contact the &lt;a href=&quot;/toxics-release-inventory-tri-program/forms/tri-program-contacts&quot;&gt;TRI Information Center&lt;/a&gt;.&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/region9/water/dioxin/sfbay.html&quot;&gt;Dioxins in San Francisco Bay: Questions and Answers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.fsis.usda.gov/wps/wcm/connect/fsis-content/internet/main/topics/data-collection-and-reports/chemistry/dioxin-related-activites&quot;&gt;Questions and answers about dioxin and food safety - Dioxin Related Activities (Feb 2012)&lt;/a&gt; (Joint FDA and EPA)&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 12 Nov 2014 17:26:02 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">66847 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Dioxin Resources</title>
+    <link>https://www.epa.gov/dioxin/dioxin-resources</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;General&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;In-Depth&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;Human Consumption&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-4&quot;&gt;Strategies&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;General Dioxin Information&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://safewater.zendesk.com/hc/en-us/sections/202346377&quot; target=&quot;_blank&quot;&gt;Archived Consumer Factsheet on Dioxin and Drinking Water&lt;/a&gt; (Last updated May 2009)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://nj.gov/health/eoh/rtkweb/documents/fs/1806.pdf&quot; target=&quot;_blank&quot;&gt;New Jersey Department of Health and Senior Services Hazardous Substance Fact Sheet: 2,3,7,8-tetrachlorodibenzo-&lt;em&gt;p&lt;/em&gt;-dioxin (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 150 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt; (Last updated Sep 2002) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;Department of Agriculture (USDA)&lt;br /&gt;&lt;span&gt;USDA, with its government partners FDA and EPA, conducts periodic monitoring surveys for dioxins in meat and poultry.&lt;/span&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.fsis.usda.gov/wps/wcm/connect/da1d623d-3005-4116-bef7-2a61d1ebd543/Dioxin-Report-FY2013.pdf?MOD=AJPERES&quot; target=&quot;_blank&quot;&gt; (May 2015; PDF Only)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www.fsis.usda.gov/wps/wcm/connect/ad01c1f4-878e-4a37-9103-de67eb7729d7/Dioxin_Report_1009.pdf?MOD=AJPERES&quot; target=&quot;_blank&quot;&gt;DIOXIN 08 SURVEY: Dioxins and Dioxin-Like Compounds In the U.S. Domestic Meat and Poultry Supply&lt;/a&gt; (Oct 2009; PDF Only)&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www.fsis.usda.gov/wps/wcm/connect/ff70fb41-3343-4302-a56c-cdef04ef270a/Dioxin_Report_0605.pdf?MOD=AJPERES&quot; target=&quot;_blank&quot;&gt;Dioxins and Dioxin-Like Compounds In the U.S. Domestic Meat and Poultry Supply&lt;/a&gt; (Jun 2005; PDF Only)&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://www.nal.usda.gov/fsrio/research/publications/chemical-contaminants/dioxins&quot; target=&quot;_blank&quot;&gt;Dioxins Research Publications&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://www.fsis.usda.gov/wps/portal/fsis/topics/data-collection-and-reports/chemistry/dioxin-related-activites&quot; target=&quot;_blank&quot;&gt;Dioxin-related activities&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;Food and Drug Administration (FDA)
+				&lt;ul&gt;&lt;li&gt;​&lt;a href=&quot;http://www.fda.gov/Food/FoodborneIllnessContaminants/ChemicalContaminants/ucm2006784.htm&quot; target=&quot;_blank&quot;&gt;FDA&#039;s Chemical Contaminants: Dioxin &amp;amp; PCB&#039;s&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://www.fsis.usda.gov/wps/wcm/connect/fsis-content/internet/main/topics/data-collection-and-reports/chemistry/dioxin-related-activites&quot; target=&quot;_blank&quot;&gt;Questions and answers about dioxin and food safety - Dioxin Related Activities (Feb 2012)&lt;/a&gt; (Joint FDA and EPA)&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;National Institutes of Health (NIH)
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.niehs.nih.gov/health/topics/agents/dioxins/&quot; target=&quot;_blank&quot;&gt;Dioxins&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;Occupational Safety &amp;amp; Health Administration (OSHA)
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.osha.gov/dts/chemicalsampling/data/CH_270375.html&quot; target=&quot;_blank&quot;&gt;2,3,7,8-Tetrachlorodibenzo-p-Dioxin&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;In-Depth Dioxin Information&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=20258&quot; target=&quot;_blank&quot;&gt;Real-Time Monitoring of Dioxins and Other Ambient Air Trace Organics&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=119174&amp;amp;fed_org_id=770&amp;amp;SIType=PR&amp;amp;TIMSType=&amp;amp;showCriteria=0&amp;amp;address=nerl/pubs.html&amp;amp;view=citation&amp;amp;personID=991&amp;amp;role=Author&amp;amp;sortBy=pubDateYear&amp;amp;count=100&amp;amp;dateBeginPublishedPresented=&quot; target=&quot;_blank&quot;&gt;Technologies for Monitoring &amp;amp; Measurement of Dioxin and Dioxin-like Compounds in Soil and Sediment (CAPE Technologies LLC, DFI; Dioxin/Furan Immunoassay Kit; PCB TEQ Immunoassay Kit)&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;The Agency for Toxic Substances and Disease Registry (ATSDR)
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=366&amp;amp;tid=63&quot; target=&quot;_blank&quot;&gt;Toxic Substances Portal - Chlorinated Dibenzo-p-dioxins (CDDs)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=26&quot; target=&quot;_blank&quot;&gt;Toxic Substances Portal - Polychlorinated Biphenyls (PCBs)&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;h2&gt;Dioxin and Human Consumption&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/dioxin/recordisplay.cfm?deid=22466&quot; target=&quot;_blank&quot;&gt;Evaluation of the Levels of Dioxin - Like Compounds in Animal Feeds&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://safewater.zendesk.com/hc/en-us/sections/202346377-Dioxin-2-3-7-8-TCDD-&quot; target=&quot;_blank&quot;&gt;Archived Technical Dioxin and Drinking Water Fact Sheets&lt;/a&gt; (Last updated May 2009)&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+
+	&lt;div id=&quot;tab-4&quot;&gt;
+		&lt;h2&gt;Dioxin Strategies and Action&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ec.europa.eu/food/food/chemicalsafety/contaminants/dioxins_en.htm&quot; target=&quot;_blank&quot;&gt;Compilation of European Commission on Dioxin and Health Data&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://binational.net/glwqa-aqegl/&quot; target=&quot;_blank&quot;&gt;Great Lakes Water Quality Agreement&lt;/a&gt; (Binational.net, an EPA and the Environmental Climate Change of Canada Collaboration) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://binational.net/2014/03/20/psa-pasa-2014/&quot; target=&quot;_blank&quot;&gt;2014-2016 Great Lakes Binational Priorities for Science and Action&lt;/a&gt; (Last updated Mar 2014) &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/toxics-release-inventory-tri-program/persistent-bioaccumulative-toxic-pbt-chemicals-covered-tri&quot; target=&quot;_blank&quot;&gt;Persistent Bioaccumulative Toxic (PBT) Chemicals Covered by the Toxic Release Inventory (TRI) Program&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://www.unep.org/publications/contents/pub_details_search.asp?ID=438&quot; target=&quot;_blank&quot;&gt;United Nations Environmental Programme. Standardized Toolkit for Identification and Quantification of Dioxin and Furan Release&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; (Last updated 2003)&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://chm.pops.int/default.aspx&quot; target=&quot;_blank&quot;&gt;Stockholm Convention on Persistent Organic Pollutants&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt; is an international environmental treaty, signed in 2001 and effective from May 2004, that aims to eliminate or restrict the production and use of persistent organic pollutants (POPs).
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://chm.pops.int/TheConvention/ThePOPs/TheNewPOPs/tabid/2511/Default.aspx&quot; target=&quot;_blank&quot;&gt;The new POPs under the Stockholm Convention&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;http://chm.pops.int/TheConvention/ThePOPs/The12InitialPOPs/tabid/296/Default.aspx&quot; target=&quot;_blank&quot;&gt;The 12 initial POPs under the Stockholm Convention&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 05 Feb 2014 19:00:43 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">45553 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 11:27:56, expires @ 2017-01-27 11:27:56, lifetime 1 day -->

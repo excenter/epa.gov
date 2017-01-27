@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/69587/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Coal Ash</title>
+    <link>https://www.epa.gov/feed/69587/rss.xml</link>
+    <description>Updated Coal Ash content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/69587/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Relationship Between the Resource Conservation and Recovery Act’s Coal Combustion Residuals Rule and the Clean Water Act&#039;s National Pollutant Discharge Elimination System Permit Requirements</title>
+    <link>https://www.epa.gov/coalash/relationship-between-resource-conservation-and-recovery-acts-coal-combustion-residuals-rule</link>
+    <description>&lt;p&gt;&lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;The Coal Combustion Residuals (CCR) rule&lt;/a&gt;, promulgated under the Resource Conservation and Recovery Act (RCRA), and the Clean Water Act (CWA) each address environmental impacts of the various units at coal fired power plants. As a general matter, the Clean Water Act addresses instances in which there are discharges to the jurisdictional waters of the United States (“jurisdictional waters”), while the CCR rule deals with the disposal units themselves (where they are located, specific design and operating criteria, structural stability requirements, groundwater monitoring and corrective action, closure of the units, etc.) and with their impacts or potential impacts to groundwater. The CCR rule establishes minimum national criteria which must be met by all disposal units; the rule additionally recognizes that different factors on a site specific basis are important for determining the best method of environmental protection at individual disposal unit sites and thus provides technical criteria to enable flexibility where appropriate to achieve the requirements of the rule. For example, in some cases, dewatering and leaving CCRs in place with safeguards and monitoring may achieve the necessary environmental protections and in fact offer a significantly lower environmental footprint and cost than removal and disposal off site.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#relation&quot;&gt;Questions Regarding the Relationship Between the CCR Rule and CWA NPDES Permit Requirements&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Releases&quot;&gt;Releases and the Requirement to Respond&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#groundwater&quot;&gt;Use of Groundwater Data Obtained Before the CCR Rule &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Closure&quot;&gt;Closure Requirements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;relation&quot; name=&quot;relation&quot;&gt;&lt;/a&gt;Questions Regarding the Relationship Between the CCR Rule and CWA NPDES Permit Requirements&lt;/h2&gt;
+
+&lt;h3&gt;&lt;em&gt;How do the CCR rule and the CWA permit requirements generally work together with respect to landfills and surface impoundments that contain CCRs?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;The CCR rule is designed specifically to address releases to groundwater as well as non-groundwater releases from CCR waste disposal units. Implementation of actions to comply with the CCR rule, such as dewatering of a CCR unit, must be done in compliance with other applicable laws, including the Clean Water Act. Independent of the CCR rule, the CWA prohibits any point source discharge of a pollutant to a water of the United States unless it is authorized by a National Pollutant Discharge Elimination System (NPDES) permit under CWA section 402.&lt;/p&gt;
+
+&lt;h3&gt;&lt;em&gt;What role does dewatering of CCR units play in compliance with the CCR rule? Is a facility that seeks to dewater a CCR surface impoundment required to obtain a CWA NPDES permit? How does this work and can EPA help to ensure that NDPES permits are granted in a timely manner to allow dewatering and closure to proceed?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Dewatering of CCR units is an important step in the process of closure of CCR units in order to comply with the CCR rule, and may require discharge to a jurisdictional waters. If the facility will need to discharge any of the water from the surface impoundment into a jurisdictional water, then, as required by the Clean Water Act, that facility will need an NPDES permit (or potentially a modification to an existing permit) for that discharge.&lt;/p&gt;
+
+&lt;p&gt;The dewatering of a surface impoundment is a necessary first step in ensuring that the eventual closure of the unit will meet the statutory standard under RCRA of “no reasonable probability of adverse effects on human health or the environment.” Over the long-term the closure of the CCR unit will substantially reduce the significant health and environmental risks associated with these units--e.g., from the potential catastrophic release, and/or contamination from leaching into groundwater, as well as into any hydrologically connected jurisdictional waters. In the short term the point source discharge will be subject to NPDES permit requirements under CWA section 402 which “restores and maintains the chemical, physical, and biological integrity of the Nation’s waters.”&lt;/p&gt;
+
+&lt;p&gt;EPA encourages the water and waste programs in the states to work together in this area to ensure that closure of the CCR unit can proceed in a timely fashion while at the same time ensuring that NPDES permit conditions are in place to protect the receiving jurisdictional waters.&lt;/p&gt;
+
+&lt;h3&gt;&lt;em&gt;Can the ground water, corrective action, closure and post closure requirements under RCRA’s CCR rule be implemented in a manner consistent with protection of surface water under the CWA? Can the closure in place option in the CCR rule be conducted in a manner consistent with protection of surface water under the CWA?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes, the comprehensive requirements of the CCR rule were designed specifically to address all releases to groundwater as well as non-groundwater releases, from CCR disposal units and the impacts of those releases on public health and the environment.&lt;/p&gt;
+
+&lt;p&gt;The CCR rule specifically provides a closure in place option, and anticipates that owner/operators would be able to utilize this option in appropriate circumstances. Provided the requirements of the CCR rule as well as the CWA are met, the CCR rule’s closure in place option can be implemented consistent with protection of groundwater and surface water resources. See the closure requirements question below for more detail.&lt;/p&gt;
+
+&lt;h3&gt;&lt;em&gt;Does the issuance of an NPDES permit covering discharges from a CCR unit exempt the owner/operator from any requirements under the CCR rule?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;No, discharges covered by an NPDES permit are not a “solid waste” pursuant to RCRA section 1004(27). The RCRA exclusion only applies to “industrial discharges that are point sources subject to permits,” i.e., to the discharges to jurisdictional waters, and not to any activity, including groundwater releases or contaminant migration, that occurs prior to that point. See title 40 of the Code of Federal Regulations (CFR) § 261.4(a)(2)(&quot;This exclusion applies only to the actual point source discharge. It does not exclude industrial wastewaters while they are being collected, stored or treated before discharge&quot;). For purposes of the RCRA exclusion, EPA considers the &quot;actual point source discharge&quot; to be the point at which a discharge reaches the jurisdictional waters, and not in the groundwater or otherwise prior to the jurisdictional water. Thus, the issuance of an NPDES permit for discharges from a facility’s CCR surface impoundment would not exempt the owner/operator from any requirements under the CCR rule applicable to the disposal unit, such as the requirements to ensure the structural stability of the unit, to clean up all releases to the aquifer, and to meet all closure standards. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;Releases&quot; name=&quot;Releases&quot;&gt;&lt;/a&gt;Releases and the Requirement to Respond&lt;/h2&gt;
+
+&lt;h3&gt;&lt;em&gt;What is the scope of the requirement to respond to “releases”?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(a) Does the phrase “or immediately upon detection of a release from a CCR unit&lt;/em&gt;&lt;em&gt;” in 40 CFR §&lt;/em&gt; &lt;em&gt;257.96(a) apply to both groundwater and non-groundwater releases?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;No. Section § 257.96(a) establishes two different standards for triggering corrective action, one for groundwater releases and one for non-groundwater releases. The requirement that a facility commence corrective action “immediately upon detection of a release from a CCR unit” applies only to non-groundwater releases. By contrast EPA interprets the regulation to require corrective action for groundwater releases only upon a determination that contaminants are present in amounts exceeding the groundwater protection standards in § 257.95(h).&lt;/p&gt;
+
+&lt;p&gt;Note, however that the regulations include other provisions that address releases from a CCR unit. For example, the inspection requirements for surface impoundments and landfills at §§ 257.83 and 257.84 state that if a deficiency or release is identified during an inspection, the owner or operator must remedy the deficiency or release as soon as feasible and prepare documentation detailing the corrective measures taken. In addition, in the requirements for control of fugitive dust at § 257.80 it states that in the annual report the owner/operator must describe any corrective measures taken in response to citizen complaints.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(b) Is a facility required to initiate corrective action to clean up groundwater contamination, even though the concentration does not exceed the groundwater protection standard?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;No, under the CCR rule, a facility is not required to initiate corrective action to clean up groundwater contamination if the contamination is at levels below the groundwater protection standard established in the CCR rule. As noted, EPA interprets the regulation to require corrective action for groundwater releases only upon a determination that contaminants are present in amounts exceeding the groundwater protection standards in § 257.95(h) (that is, a statistically significant increase over background or the maximum contaminant level or MCL).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(&lt;/em&gt;&lt;em&gt;c)&lt;/em&gt; &lt;em&gt;In settlement of a portion of the lawsuit challenging the CCR rule, EPA agreed to a remand on the issue of defining which non-groundwater releases are subject to the full corrective action process. Please provide guidance on what facilities should do in the interim.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA has committed as part of a settlement agreement to revisit the question of whether the &lt;em&gt;procedures &lt;/em&gt;to be used in cleaning up groundwater releases should apply to all non-groundwater releases. EPA agreed that, in principle, for some non-groundwater releases, it may not make sense to require facilities to follow the full corrective action procedures in §§ 257.96-257.98 in cleaning up or remedying the releases, and agreed to conduct a rulemaking on that narrow issue. However, the requirement to clean up those releases remains unaffected.&lt;/p&gt;
+
+&lt;p&gt;It is true, however, that as currently written, the regulations do require compliance with the full corrective action process, whether pursuant to the obligation in section § 257.90(d) or § 257.96. Nevertheless, given the settlement, EPA would recommend that compliance determinations focus primarily on the rapid remediation of detected non-groundwater releases, consistent with §§ 257.90(d), 257.73(d)(2) and 257.83(b)(5) rather than adherence to the specific corrective action procedures in §§ 257.96-257.98.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;groundwater&quot; name=&quot;groundwater&quot;&gt;&lt;/a&gt;Use of Groundwater Data Obtained Prior to the CCR Rule&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;em&gt;Can groundwater data that were not developed/obtained under the CCR rule (e.g., data that existed prior to publication of the rule) trigger the groundwater release assessment and corrective action requirements under the CCR rule (i.e., 40 CFR 257.90(d), 257.96-.98)?&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;If the pre-existing data and accompanying data analysis are as scientifically valid and consistent with the data and analysis required and developed under the CCR rule and they provide equivalent confidence that the standard in § 257.96 (a) has been met, such data would trigger the corrective action requirements in §§ 257.96-.98. Whether any pre-existing data are sufficiently credible to trigger the § 257.96 corrective action process will necessarily be determined on a case-by-case basis.&lt;/p&gt;
+
+&lt;p&gt;However, as a general matter, if a facility has any data that indicates groundwater contamination may be occurring, the facility should be taking appropriate steps without hesitation to address the issue or potential issues shown by the data or sampling results. Such steps could include additional well installation, sampling or analysis--for example if the data shows contamination but the facility has not established an appropriate background level--or it could include actions to locate and address the potential source of the contamination.&lt;/p&gt;
+
+&lt;p&gt;Because the CCR rule was designed to be self-implementing, it contains detailed, prescriptive requirements for establishing a groundwater monitoring system and for sampling and analyzing groundwater. For example, the data collection protocol includes numerous criteria that specify monitoring locations, frequency, and chemical parameters. See §§ 257.91, 257.93-257.95. The data collected are analyzed using specific statistical protocols that provide for comparison with background and Maximum Contaminant Levels. These statistical analyses are conducted for each constituent in each monitoring well, using methodologies that meet specific performance standards. See § 257.93(f), (g). Data that have been developed following such protocols would be considered to be credible, scientifically valid, and suitable for determining whether or not a release has occurred requiring further action under the CCR rule. It is EPA’s expectation that facilities will follow this exacting process and use it to determine whether and when corrective action is warranted.&lt;/p&gt;
+
+&lt;p&gt;As the regulation is currently structured, the requirement to comply with the corrective action procedures in § 257.96 is predicated on the detection of “any constituent…at a statistically significant level exceeding the groundwater protection standard” (The groundwater protection standard is defined in § 257.95(h) and is either the drinking water maximum contaminant level or the background level of the contaminant). To the extent a facility has scientifically valid/credible data demonstrating that the standard in § 257.96(a) has been met (detection of “any constituent…at a statistically significant level” above a groundwater protection standard) the rule requires them to take action to begin assessing the situation and developing a remedy.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;strong&gt;&lt;a id=&quot;Closure&quot; name=&quot;Closure&quot;&gt;&lt;/a&gt;Closure Requirements&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;em&gt;What are the options and the performance standards for closure of units under the CCR rule? &lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Under the CCR rule, closure must be initiated upon the final receipt of waste (for example, where the unit has reached the end of its useful life or the owner/operator has determined that the unit is no longer needed) or in response to a determination that the unit must close “for cause” (i.e., that is the unit does not meet location standards, the unit does not meet structural stability requirements, or the unit is an unlined surface impoundment that is contaminating groundwater). Moreover, all units must prepare closure and post closure care plans by October 17, 2016, and post them to the facility’s CCR web site by November 16, 2016.&lt;/p&gt;
+
+&lt;p&gt;The CCR rule establishes two options for closure: clean closure or closure with waste in place. The regulations also establish performance standards for each option that must be met.The two standards are described below:&lt;/p&gt;
+
+&lt;p&gt;(a) Section 257.102(c) sets out the “clean closure” requirements and states that: an owner or operator may elect to close a CCR unit by removing and decontaminating all areas affected by releases from the CCR unit. CCR removal and decontamination of the CCR unit are complete when constituent concentrations throughout the CCR unit and any areas affected by releases from the CCR unit have been removed and groundwater monitoring concentrations do not exceed the groundwater protection standard established pursuant to § 257.95 (h) for constituents listed in appendix IV to this part.&lt;/p&gt;
+
+&lt;p&gt;If a facility “clean closes” a unit, that unit is not subject to post-closure care (that is continued GW monitoring or corrective action) as the site essentially has been “cleaned up.”&lt;/p&gt;
+
+&lt;p&gt;(b) Section 257.102(d) sets out the requirements/performance standards for closure with waste in place.&lt;/p&gt;
+
+&lt;p&gt;i. Paragraph (d)(1) - Must ensure that the CCR unit is closed in a manner that at a minimum will “&lt;em&gt;control, minimize, or eliminate to the maximum extent feasible,&lt;/em&gt; post-closure infiltration of liquids into the waste and releases of CCR, leachate, or contaminated run-off to the ground or surface waters or to the atmosphere; preclude the probability of future impoundment of water, sediment, or slurry; include measures that provide for slope stability; minimize the need for future maintenance; and be completed in the shortest amount of time consistent with recognized and generally accepted good engineering practices” (emphasis added).&lt;/p&gt;
+
+&lt;p&gt;ii. Paragraph (d)(2) - Drainage and stabilization of CCR surface impoundments – before installing a final cover system, free liquids must be eliminated by removing liquid wastes or solidifying the remaining waste and waste residues and remaining wastes must be stabilized sufficient to support the final cover system.&lt;/p&gt;
+
+&lt;p&gt;iii. Paragraph (d)(3) - Sets out requirements for the final cover system.&lt;/p&gt;
+
+&lt;p&gt;In order to close a unit with waste in place, the facility must meet all of the performance standards in § 257.102(d). If the facility is unable to meet the performance standards for closure with waste in place for a particular unit, it must clean close the unit. Whether any particular unit or facility can meet the performance standards for closure with waste in place is a site-specific determination that will depend on a number of factual and engineering considerations, such as the hydrogeology of the site, the engineering of the unit, and the kinds of engineering measures available. For example, if a small corner of a unit is submerged in the underlying aquifer, a facility might be able to meet the performance standard for closure with waste in place for the majority of the unit, by “clean closing” the submerged portion of the unit, and installing the necessary engineering measures to ensure that the rest of the unit meets the performance standards in § 257.102(d).&lt;/p&gt;
+
+&lt;p&gt;Overall, dewatering and leaving CCRs in place may offer important environmental safeguards and monitoring. Closure with waste in place may help avoid sizable transportation related impacts by eliminating the significant truck traffic that would accompany off site movement of CCRs. In addition, this option may also allow owners and operators to clean close some units while consolidating all the CCRs in a single on-site unit. On-site CCR consolidation can provide for greater land use options and flexibility. Closure with waste in place may allow owners and operators to focus their long term monitoring, care and cleanup obligations on a single unit rather than many units.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 14 Dec 2016 22:19:13 +0000</pubDate>
+ <dc:creator>esundin</dc:creator>
+ <guid isPermaLink="false">167185 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Publicly Accessible Internet Sites Hosting Compliance Data and Information Required by the Disposal of Coal Combustion Residuals Rule</title>
+    <link>https://www.epa.gov/coalash/list-publicly-accessible-internet-sites-hosting-compliance-data-and-information-required</link>
+    <description>&lt;p&gt;The Disposal of Coal Combustion Residuals (CCR) from Electric Utilities &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;final rule&lt;/a&gt; was published on April 17, 2015 and became effective on October 19, 2015. The rule includes a number of technical requirements that have various compliance deadlines. Many of these technical requirements also have Internet posting requirements associated with them. EPA included Internet posting requirements so that compliance information would be readily available because this rule is self-implementing and is enforced by citizens and states using the citizen suit provisions of section 7002 of the Resource Conservation and Recovery Act (RCRA).&lt;/p&gt;
+
+&lt;p&gt;EPA started with the list of facilities that was used in the Regulatory Impact Analysis (RIA) for the CCR final rule and facilities that were identified in the &lt;a href=&quot;/coalash/effort-assess-coal-combustion-residuals-ccr-disposal-units&quot;&gt;structural stability assessments&lt;/a&gt;. Then, EPA conducted a review of information available on the Web for these facilities and shared this information with the states. There may be other regulated units with CCR compliance websites that we are not aware of. If you have any updated information about these or any other CCR compliance websites, &lt;a href=&quot;/coalash/forms/comment-submission-form-publicly-accessible-internet-sites-hosting-coal-combustion&quot;&gt;please submit your comments online&lt;/a&gt;. Below is a list of the Internet sites EPA found (as of January 12, 2017) for facilities posting CCR rule compliance information organized alphabetically by state. All of these links are outside of EPA&#039;s website and EPA is not responsible for the content of these websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-gif center view-mode-media_original&quot; style=&quot;width:450px;&quot;&gt;&lt;img alt=&quot;Image of the U.S. map and its territories&quot; title=&quot;Image of the U.S. map and its territories&quot; height=&quot;340&quot; width=&quot;450&quot; class=&quot;center media-element file-media-original&quot; usemap=&quot;#m_us-states&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/2016-07/us-states.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;map id=&quot;m_us-states&quot; name=&quot;m_us-states&quot;&gt;&lt;area alt=&quot;Alabama&quot; coords=&quot;291,168,293,218,298,220,303,219,301,212,326,209,324,203,324,193,320,188,313,166&quot; href=&quot;#al&quot; shape=&quot;poly&quot; title=&quot;Alabama&quot; /&gt;&lt;area alt=&quot;Alaska&quot; coords=&quot;93,276,237,335&quot; href=&quot;#ak&quot; shape=&quot;rect&quot; title=&quot;Alaska&quot; /&gt;&lt;area alt=&quot;American Samoa&quot; coords=&quot;0,279,82,291&quot; href=&quot;#as&quot; shape=&quot;rect&quot; title=&quot;American Samoa&quot; /&gt;&lt;area alt=&quot;Arizona&quot; coords=&quot;106,207,89,205,61,185,63,181,61,179,64,171,69,168,66,162,66,157,67,149,71,151,74,139,114,146&quot; href=&quot;#az&quot; shape=&quot;poly&quot; title=&quot;Arizona&quot; /&gt;&lt;area alt=&quot;Arkansas&quot; coords=&quot;244,194,245,188,241,187,241,163,238,156,276,156,274,161,278,161,276,168,277,170,268,186,268,195&quot; href=&quot;#ar&quot; shape=&quot;poly&quot; title=&quot;Arkansas&quot; /&gt;&lt;area alt=&quot;California&quot; coords=&quot;9,71,2,83,7,135,22,180,61,183,63,182,62,180,64,170,69,169,66,159,32,108,40,77&quot; href=&quot;#ca&quot; shape=&quot;poly&quot; title=&quot;California&quot; /&gt;&lt;area alt=&quot;Colorado&quot; coords=&quot;115,147,121,105,179,108,177,151&quot; href=&quot;#co&quot; shape=&quot;poly&quot; title=&quot;Colorado&quot; /&gt;&lt;area alt=&quot;Connecticut&quot; coords=&quot;397,83,395,76,409,73,410,78,440,85,440,95,423,94,418,87,412,81&quot; href=&quot;#ct&quot; shape=&quot;poly&quot; title=&quot;Connecticut&quot; /&gt;&lt;area alt=&quot;Delaware&quot; coords=&quot;386,102,388,114,393,114,405,120,423,120,423,108,406,109,392,111&quot; href=&quot;#de&quot; shape=&quot;poly&quot; title=&quot;Delaware&quot; /&gt;&lt;area alt=&quot;Washington, DC&quot; coords=&quot;394,132,404,150,422,150,423,139&quot; href=&quot;#dc&quot; shape=&quot;poly&quot; title=&quot;Washington, DC&quot; /&gt;&lt;area alt=&quot;Florida&quot; coords=&quot;357,208,352,206,353,212,350,213,349,210,328,212,327,210,300,212,303,216,302,219,366,269,398,255&quot; href=&quot;#fl&quot; shape=&quot;poly&quot; title=&quot;Florida&quot; /&gt;&lt;area alt=&quot;Georgia&quot; coords=&quot;313,167,321,189,324,193,323,202,327,212,348,210,349,212,353,212,351,207,356,207,359,197,359,190,354,188,356,184,353,181,350,181,339,171,333,168,336,164&quot; href=&quot;#ga&quot; shape=&quot;poly&quot; title=&quot;Georgia&quot; /&gt;&lt;area alt=&quot;Guam&quot; coords=&quot;0,252,34,264&quot; href=&quot;#gu&quot; shape=&quot;rect&quot; title=&quot;Guam&quot; /&gt;&lt;area alt=&quot;Hawaii&quot; coords=&quot;16,203,73,243&quot; href=&quot;#hi&quot; shape=&quot;rect&quot; title=&quot;Hawaii&quot; /&gt;&lt;area alt=&quot;Idaho&quot; coords=&quot;77,12,69,43,73,45,71,51,65,58,65,68,60,83,104,92,109,66,93,63,89,53,85,52,86,47,88,43,86,41,81,30,84,13&quot; href=&quot;#id&quot; shape=&quot;poly&quot; title=&quot;Idaho&quot; /&gt;&lt;area alt=&quot;Illinois&quot; coords=&quot;289,93,292,97,295,129,291,146,287,145,289,149,284,151,283,150,280,149,280,145,278,140,272,138,275,132,272,129,269,130,261,115,265,111,265,108,264,104,269,102,271,97,267,92&quot; href=&quot;#il&quot; shape=&quot;poly&quot; title=&quot;Illinois&quot; /&gt;&lt;area alt=&quot;Indiana&quot; coords=&quot;291,98,310,95,316,125,315,129,310,129,307,136,305,134,292,139,294,131,295,125&quot; href=&quot;#in&quot; shape=&quot;poly&quot; title=&quot;Indiana&quot; /&gt;&lt;area alt=&quot;Iowa&quot; coords=&quot;224,82,224,95,231,113,259,112,262,116,265,109,264,104,269,101,270,96,262,87,260,82&quot; href=&quot;#ia&quot; shape=&quot;poly&quot; title=&quot;Iowa&quot; /&gt;&lt;area alt=&quot;Kansas&quot; coords=&quot;178,150,179,120,231,120,235,124,234,125,237,129,238,152&quot; href=&quot;#ks&quot; shape=&quot;poly&quot; title=&quot;Kansas&quot; /&gt;&lt;area alt=&quot;Kentucky&quot; coords=&quot;283,154,288,149,287,146,290,146,291,139,305,134,307,136,311,129,316,129,316,124,321,125,322,126,334,127,337,131,340,139,332,147,295,152,292,150,290,153&quot; href=&quot;#ky&quot; shape=&quot;poly&quot; title=&quot;Kentucky&quot; /&gt;&lt;area alt=&quot;Louisiana&quot; coords=&quot;244,194,243,209,247,211,246,228,277,235,291,233,284,221,280,217,265,217,270,201,267,199,267,195&quot; href=&quot;#la&quot; shape=&quot;poly&quot; title=&quot;Louisiana&quot; /&gt;&lt;area alt=&quot;Maine&quot; coords=&quot;405,36,409,10,419,8,434,31,413,60,411,60&quot; href=&quot;#me&quot; shape=&quot;poly&quot; title=&quot;Maine&quot; /&gt;&lt;area alt=&quot;Maryland&quot; coords=&quot;357,114,356,108,386,102,388,114,393,114,402,121,419,122,419,133,400,133,400,127,392,121,389,121,385,116,380,116,380,114,377,112,376,115,365,108&quot; href=&quot;#md&quot; shape=&quot;poly&quot; title=&quot;Maryland&quot; /&gt;&lt;area alt=&quot;Massachussets&quot; coords=&quot;395,75,414,71,419,74,420,74,423,72,439,60,440,50,421,51,421,59,414,61,407,65,394,70&quot; href=&quot;#ma&quot; shape=&quot;poly&quot; title=&quot;Massachussets&quot; /&gt;&lt;area alt=&quot;Michigan&quot; coords=&quot;265,47,282,35,305,40,321,47,330,81,323,92,295,96,301,88,300,78,297,75,297,68,286,60,283,55,276,51,274,53&quot; href=&quot;#mi&quot; shape=&quot;poly&quot; title=&quot;Michigan&quot; /&gt;&lt;area alt=&quot;Minnesota&quot; coords=&quot;219,24,218,30,217,34,220,39,222,63,224,65,224,82,261,81,260,77,254,71,252,70,251,62,250,57,253,55,253,46,269,31,246,24&quot; href=&quot;#mn&quot; shape=&quot;poly&quot; title=&quot;Minnesota&quot; /&gt;&lt;area alt=&quot;Mississippi&quot; coords=&quot;292,168,293,218,285,221,281,217,266,216,271,201,268,200,268,186,276,170&quot; href=&quot;#ms&quot; shape=&quot;poly&quot; title=&quot;Mississippi&quot; /&gt;&lt;area alt=&quot;Missouri&quot; coords=&quot;231,113,232,121,235,123,233,125,238,129,238,156,276,155,274,161,279,161,280,155,284,151,280,149,280,145,277,141,272,138,274,131,272,128,269,130,259,112&quot; href=&quot;#mo&quot; shape=&quot;poly&quot; title=&quot;Missouri&quot; /&gt;&lt;area alt=&quot;Montana&quot; coords=&quot;84,13,81,30,86,41,88,42,85,47,86,53,90,52,94,63,109,66,109,63,167,66,171,23&quot; href=&quot;#mt&quot; shape=&quot;poly&quot; title=&quot;Montana&quot; /&gt;&lt;area alt=&quot;Nebraska&quot; coords=&quot;166,88,164,107,180,108,179,120,232,120,231,113,224,96,206,88&quot; href=&quot;#ne&quot; shape=&quot;poly&quot; title=&quot;Nebraska&quot; /&gt;&lt;area alt=&quot;Nevada&quot; coords=&quot;39,77,33,108,66,160,67,148,71,151,83,89&quot; href=&quot;#nv&quot; shape=&quot;poly&quot; title=&quot;Nevada&quot; /&gt;&lt;area alt=&quot;New Hampshire&quot; coords=&quot;400,40,381,21,373,21,373,10,392,10,404,37,412,62,401,67&quot; href=&quot;#nh&quot; shape=&quot;poly&quot; title=&quot;New Hampshire&quot; /&gt;&lt;area alt=&quot;New Jersey&quot; coords=&quot;386,101,392,110,412,107,430,107,430,95,394,89,389,86,387,91,392,96&quot; href=&quot;#nj&quot; shape=&quot;poly&quot; title=&quot;New Jersey&quot; /&gt;&lt;area alt=&quot;New Mexico&quot; coords=&quot;107,207,113,207,127,204,128,201,165,201,167,150,115,146&quot; href=&quot;#nm&quot; shape=&quot;poly&quot; title=&quot;New Mexico&quot; /&gt;&lt;area alt=&quot;New York&quot; coords=&quot;350,82,354,69,377,48,388,44,390,63,392,63,397,84,411,82,405,87,395,89,388,87,383,79,350,86&quot; href=&quot;#ny&quot; shape=&quot;poly&quot; title=&quot;New York&quot; /&gt;&lt;area alt=&quot;North Carolina&quot; coords=&quot;344,145,344,150,340,153,337,153,335,156,333,156,331,160,329,160,326,165,355,160,357,161,364,161,377,168,403,153,395,135&quot; href=&quot;#nc&quot; shape=&quot;poly&quot; title=&quot;North Carolina&quot; /&gt;&lt;area alt=&quot;North Dakota&quot; coords=&quot;172,23,169,57,221,60,221,38,217,35,219,24&quot; href=&quot;#nd&quot; shape=&quot;poly&quot; title=&quot;North Dakota&quot; /&gt;&lt;area alt=&quot;Northern Mariana Islands&quot; coords=&quot;0,293,83,316&quot; href=&quot;#mp&quot; shape=&quot;rect&quot; title=&quot;Northern Mariana Islands&quot; /&gt;&lt;area alt=&quot;Ohio&quot; coords=&quot;311,94,323,92,344,86,347,101,344,102,346,106,342,117,340,117,334,127,323,126,316,124&quot; href=&quot;#oh&quot; shape=&quot;poly&quot; title=&quot;Ohio&quot; /&gt;&lt;area alt=&quot;Oklahoma&quot; coords=&quot;168,151,168,158,192,158,193,179,201,184,216,186,220,184,224,189,229,184,234,184,241,187,241,164,237,156,237,153&quot; href=&quot;#ok&quot; shape=&quot;poly&quot; title=&quot;Oklahoma&quot; /&gt;&lt;area alt=&quot;Oregon&quot; coords=&quot;24,29,29,31,30,38,36,39,38,38,45,41,56,40,72,45,71,51,65,58,65,66,60,83,9,70,8,58&quot; href=&quot;#or&quot; shape=&quot;poly&quot; title=&quot;Oregon&quot; /&gt;&lt;area alt=&quot;Pennsylvania&quot; coords=&quot;344,85,349,110,385,102,392,96,387,91,389,87,382,80&quot; href=&quot;#pa&quot; shape=&quot;poly&quot; title=&quot;Pennsylvania&quot; /&gt;&lt;area alt=&quot;Puerto Rico&quot; coords=&quot;249,271,304,300&quot; href=&quot;#pr&quot; shape=&quot;rect&quot; title=&quot;Puerto Rico&quot; /&gt;&lt;area alt=&quot;Rhode Island&quot; coords=&quot;411,78,428,82,445,82,445,71,428,71,427,75,413,72,410,72&quot; href=&quot;#ri&quot; shape=&quot;poly&quot; title=&quot;Rhode Island&quot; /&gt;&lt;area alt=&quot;South Carolina&quot; coords=&quot;336,164,333,167,336,169,341,172,343,174,350,181,353,181,355,184,355,188,359,190,373,177,377,168,366,161,358,162,355,160,341,161,341,163&quot; href=&quot;#sc&quot; shape=&quot;poly&quot; title=&quot;South Carolina&quot; /&gt;&lt;area alt=&quot;South Dakota&quot; coords=&quot;169,57,166,88,205,88,224,95,224,82,224,65,222,64,221,60&quot; href=&quot;#sd&quot; shape=&quot;poly&quot; title=&quot;South Dakota&quot; /&gt;&lt;area alt=&quot;Tennessee&quot; coords=&quot;276,169,327,165,328,159,331,160,332,156,335,156,337,153,340,153,343,150,344,146,294,151,293,151,291,151,291,153,280,155&quot; href=&quot;#tn&quot; shape=&quot;poly&quot; title=&quot;Tennessee&quot; /&gt;&lt;area alt=&quot;Texas&quot; coords=&quot;128,203,140,229,189,249,203,270,224,271,246,228,248,211,245,209,244,187,229,183,224,189,221,185,216,187,200,184,194,179,192,158,168,158,165,202,127,200&quot; href=&quot;#tx&quot; shape=&quot;poly&quot; title=&quot;Texas&quot; /&gt;&lt;area alt=&quot;Trust Territories&quot; coords=&quot;0,265,77,278&quot; href=&quot;#tt&quot; shape=&quot;rect&quot; title=&quot;Trust Territories&quot; /&gt;&lt;area alt=&quot;Utah&quot; coords=&quot;84,88,74,140,114,147,121,105,103,102,104,92&quot; href=&quot;#ut&quot; shape=&quot;poly&quot; title=&quot;Utah&quot; /&gt;&lt;area alt=&quot;Vermont&quot; coords=&quot;367,37,387,45,390,63,392,62,394,70,400,67,401,41,385,27,367,26&quot; href=&quot;#vt&quot; shape=&quot;poly&quot; title=&quot;Vermont&quot; /&gt;&lt;area alt=&quot;Virgin Islands&quot; coords=&quot;322,268,357,302&quot; href=&quot;#vi&quot; shape=&quot;rect&quot; title=&quot;Virgin Islands&quot; /&gt;&lt;area alt=&quot;Virginia&quot; coords=&quot;371,111,362,124,358,123,355,129,356,134,347,139,339,139,332,147,343,146,394,136,393,120,388,120,385,116,381,116,380,113,377,113,377,115&quot; href=&quot;#va&quot; shape=&quot;poly&quot; title=&quot;Virginia&quot; /&gt;&lt;area alt=&quot;Washington&quot; coords=&quot;23,29,23,1,39,1,77,12,69,43,55,40,45,42,38,38,35,39,30,38&quot; href=&quot;#wa&quot; shape=&quot;poly&quot; title=&quot;Washington&quot; /&gt;&lt;area alt=&quot;West Virginia&quot; coords=&quot;332,146,340,139,347,139,356,134,355,129,359,122,362,124,364,119,371,112,365,108,356,115,357,108,349,110,347,101,345,102,346,107,342,118,339,116,335,127&quot; href=&quot;#wv&quot; shape=&quot;poly&quot; title=&quot;West Virginia&quot; /&gt;&lt;area alt=&quot;Wisconsin&quot; coords=&quot;254,47,262,44,265,48,273,53,277,51,282,54,286,61,291,64,287,77,289,93,267,93,262,88,261,82,260,76,255,70,252,71,249,57,254,55&quot; href=&quot;#wi&quot; shape=&quot;poly&quot; title=&quot;Wisconsin&quot; /&gt;&lt;area alt=&quot;Wyoming&quot; coords=&quot;110,62,104,102,164,108,167,68&quot; href=&quot;#wy&quot; shape=&quot;poly&quot; title=&quot;Wyoming&quot; /&gt;&lt;/map&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;A&lt;/h3&gt;
+
+&lt;h3 id=&quot;al&quot;&gt;&lt;strong&gt;Alabama&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Greene County&lt;/td&gt;
+			&lt;td&gt;Demopolis&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-greene-county.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-greene-county.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Barry&lt;/td&gt;
+			&lt;td&gt;Bucks&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-barry.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-barry.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colbert&lt;/td&gt;
+			&lt;td&gt;Tuscumbia&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gadsden&lt;/td&gt;
+			&lt;td&gt;Gadsden&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-gadsden.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-gadsden.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;James H Miller Jr&lt;/td&gt;
+			&lt;td&gt;Quinton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-miller.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-miller.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gorgas&lt;/td&gt;
+			&lt;td&gt;Parrish&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-gorgas.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-gorgas.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E C Gaston&lt;/td&gt;
+			&lt;td&gt;Wilsonville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.alabamapower.com/about-us/ccr/plant-gaston.asp&quot;&gt;http://www.alabamapower.com/about-us/ccr/plant-gaston.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Charles R Lowman&lt;/td&gt;
+			&lt;td&gt;Leroy&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://lowmanccr.com/&quot;&gt;http://lowmanccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ak&quot;&gt;&lt;strong&gt;Alaska&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Healy&lt;/td&gt;
+			&lt;td&gt;Healy&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.gvea.com/energy/ccrrulecompliance&quot;&gt;http://www.gvea.com/energy/ccrrulecompliance&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;as&quot;&gt;&lt;strong&gt;American Samoa&lt;/strong&gt; – U.S. Territory&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;az&quot;&gt;&lt;strong&gt;Arizona&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apache Station&lt;/td&gt;
+			&lt;td&gt;Cochise&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.azgt.coop/&quot;&gt;http://ccr.azgt.coop/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cholla&lt;/td&gt;
+			&lt;td&gt;Joseph City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aps.com/en/ourcompany/ratesregulationsresources/environmentalcompliance/Pages/environmental-compliance.aspx&quot;&gt;https://www.aps.com/en/ourcompany/ratesregulationsresources/environmentalcompliance/Pages/environmental-compliance.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Navajo&lt;/td&gt;
+			&lt;td&gt;Page&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://environmental.srpnet.com/CCR/Account/Login?ReturnUrl=%2fCCR&quot;&gt;https://environmental.srpnet.com/CCR/Account/Login?ReturnUrl=%2fCCR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Springerville Generating Station&lt;/td&gt;
+			&lt;td&gt;Springerville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tep.com/ccr/&quot;&gt;https://www.tep.com/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coronado&lt;/td&gt;
+			&lt;td&gt;St Johns&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://environmental.srpnet.com/CCR/Account/Login?ReturnUrl=%2fCCR&quot;&gt;https://environmental.srpnet.com/CCR/Account/Login?ReturnUrl=%2fCCR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ar&quot;&gt;&lt;strong&gt;Arkansas&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;White Bluff&lt;/td&gt;
+			&lt;td&gt;Redfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.entergy-arkansas.com/ccr/WB/&quot;&gt;http://www.entergy-arkansas.com/ccr/WB/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Independence&lt;/td&gt;
+			&lt;td&gt;Newark&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.entergy-arkansas.com/ccr/indy/&quot;&gt;http://www.entergy-arkansas.com/ccr/indy/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Flint Creek&lt;/td&gt;
+			&lt;td&gt;Gentry&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Plum Point Energy Station&lt;/td&gt;
+			&lt;td&gt;Osceola&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John W Turk Jr Power Plant&lt;/td&gt;
+			&lt;td&gt;Fulton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;B&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;C&lt;/h3&gt;
+
+&lt;h3 id=&quot;ca&quot;&gt;&lt;strong&gt;California&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;co&quot;&gt;&lt;strong&gt;Colorado&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cherokee&lt;/td&gt;
+			&lt;td&gt;Denver&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comanche&lt;/td&gt;
+			&lt;td&gt;Pueblo&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rawhide&lt;/td&gt;
+			&lt;td&gt;Wellington&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.prpa.org/sources/rawhide-energy-station/ccr-rule-compliance-data-and-information/&quot;&gt;http://www.prpa.org/sources/rawhide-energy-station/ccr-rule-compliance-data-and-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Valmont&lt;/td&gt;
+			&lt;td&gt;Boulder&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pawnee&lt;/td&gt;
+			&lt;td&gt;Brush&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Arapahoe&lt;/td&gt;
+			&lt;td&gt;Denver&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hayden&lt;/td&gt;
+			&lt;td&gt;Hayden&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nucla Station&lt;/td&gt;
+			&lt;td&gt;Nucla&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ts.cms.coopwebbuilder2.com/content/environment&quot;&gt;http://ts.cms.coopwebbuilder2.com/content/environment&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clear Springs Ranch Landfill&lt;/td&gt;
+			&lt;td&gt;Fountain&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.csu.org/Pages/ccr.aspx&quot;&gt;https://www.csu.org/Pages/ccr.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ct&quot;&gt;&lt;strong&gt;Connecticut&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;D&lt;/h3&gt;
+
+&lt;h3 id=&quot;de&quot;&gt;&lt;strong&gt;Delaware&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Indian River Generating Station&lt;/td&gt;
+			&lt;td&gt;Dagsboro&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;dc&quot;&gt;&lt;strong&gt;District of Columbia – Washington DC&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;E&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;F&lt;/h3&gt;
+
+&lt;h3 id=&quot;fl&quot;&gt;&lt;strong&gt;Florida&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crist&lt;/td&gt;
+			&lt;td&gt;Pensacola&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.gulfpower.com/about-us/background/coal-ash-rule.cshtml&quot;&gt;http://www.gulfpower.com/about-us/background/coal-ash-rule.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lansing Smith&lt;/td&gt;
+			&lt;td&gt;Southport&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.gulfpower.com/about-us/background/coal-ash-rule.cshtml&quot;&gt;http://www.gulfpower.com/about-us/background/coal-ash-rule.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Seminole&lt;/td&gt;
+			&lt;td&gt;Palatka&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.seminole-electric.com/&quot;&gt;http://www.seminole-electric.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C D McIntosh Jr&lt;/td&gt;
+			&lt;td&gt;Lakeland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.lakelandelectric.com/your-utility/ccr-rule-compliance-data-and-information&quot;&gt;http://www.lakelandelectric.com/your-utility/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Deerhaven Generating Station&lt;/td&gt;
+			&lt;td&gt;Gainesville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.gru.com/MyHome/Content/DeerhavenGeneratingStation/CCRRuleComplianceDataandInformation.aspx&quot;&gt;https://www.gru.com/MyHome/Content/DeerhavenGeneratingStation/CCRRuleComplianceDataandInformation.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stanton Energy Center&lt;/td&gt;
+			&lt;td&gt;Orlando&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://oucccr.com/&quot;&gt;https://oucccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crystal River&lt;/td&gt;
+			&lt;td&gt;Crystal River&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Big Bend&lt;/td&gt;
+			&lt;td&gt;Apollo Beach&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.tecoenergy.com/csr/environment/wastemanagement/&quot;&gt;http://www.tecoenergy.com/csr/environment/wastemanagement/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St Johns River Power Park&lt;/td&gt;
+			&lt;td&gt;Jacksonville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.jea.com/JEA_and_the_Environment/Compliance_and_Reporting/CCR_Rule_Compliance_Data_and_Information.aspx&quot;&gt;https://www.jea.com/JEA_and_the_Environment/Compliance_and_Reporting/CCR_Rule_Compliance_Data_and_Information.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;G&lt;/h3&gt;
+
+&lt;h3 id=&quot;ga&quot;&gt;&lt;strong&gt;Georgia&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hammond&lt;/td&gt;
+			&lt;td&gt;Rome&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-hammond.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-hammond.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;McIntosh&lt;/td&gt;
+			&lt;td&gt;Ricncon&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-mcintosh.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-mcintosh.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Scherer&lt;/td&gt;
+			&lt;td&gt;Juliette&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-scherer.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-scherer.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wansley&lt;/td&gt;
+			&lt;td&gt;Roopville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-wansley.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-wansley.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Yates&lt;/td&gt;
+			&lt;td&gt;Newman&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-yates.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-yates.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jack McDonough&lt;/td&gt;
+			&lt;td&gt;Smyrna&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-mcdonough.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-mcdonough.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bowen&lt;/td&gt;
+			&lt;td&gt;Cartersville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-bowen.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-bowen.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crisp Plant&lt;/td&gt;
+			&lt;td&gt;Warwick&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://crispcountypower.com/ccr-rule&quot;&gt;https://crispcountypower.com/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Plant McManus&lt;/td&gt;
+			&lt;td&gt;Brunswick&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.georgiapower.com/environment/ccr-plant-mcmanus.cshtml&quot;&gt;https://www.georgiapower.com/environment/ccr-plant-mcmanus.cshtml&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;gu&quot;&gt;&lt;strong&gt;Guam&lt;/strong&gt; – U.S. Territory&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;H&lt;/h3&gt;
+
+&lt;h3 id=&quot;hi&quot;&gt;&lt;strong&gt;Hawaii&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;I&lt;/h3&gt;
+
+&lt;h3 id=&quot;id&quot;&gt;&lt;strong&gt;Idaho&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;il&quot;&gt;&lt;strong&gt;Illinois&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Baldwin Energy Complex&lt;/td&gt;
+			&lt;td&gt;Baldwin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Newton&lt;/td&gt;
+			&lt;td&gt;Newton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Waukegan&lt;/td&gt;
+			&lt;td&gt;Waukegan&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Duck Creek&lt;/td&gt;
+			&lt;td&gt;Canton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Powerton&lt;/td&gt;
+			&lt;td&gt;Pekin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Marion&lt;/td&gt;
+			&lt;td&gt;Marion&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://sipower.org/p/dept_envfuels.php&quot;&gt;http://sipower.org/p/dept_envfuels.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Prairie State Generating Station&lt;/td&gt;
+			&lt;td&gt;Marissa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://nffacility.com/index.php&quot;&gt;http://nffacility.com/index.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dallman&lt;/td&gt;
+			&lt;td&gt;Springfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ehs.cwlp.com/&quot;&gt;http://ehs.cwlp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Will County&lt;/td&gt;
+			&lt;td&gt;Romeoville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Havana&lt;/td&gt;
+			&lt;td&gt;Havana&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kincaid Generation LLC&lt;/td&gt;
+			&lt;td&gt;Kincaid&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Joliet 29&lt;/td&gt;
+			&lt;td&gt;Joliet&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hennepin Power Station&lt;/td&gt;
+			&lt;td&gt;Hennepin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Woodriver&lt;/td&gt;
+			&lt;td&gt;Alton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coffeen&lt;/td&gt;
+			&lt;td&gt;Coffeen&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E D Edwards&lt;/td&gt;
+			&lt;td&gt;Bartonville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Joppa Steam&lt;/td&gt;
+			&lt;td&gt;Joppa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lincoln Stone Quarry&lt;/td&gt;
+			&lt;td&gt;Joliet&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;in&quot;&gt;&lt;strong&gt;Indiana&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FB Culley&lt;/td&gt;
+			&lt;td&gt;Newburg&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.vectren.com/Corporate/Environmental_Stewardship/CCR_Rule_Compliance_Data_and_Information.jsp&quot;&gt;https://www.vectren.com/Corporate/Environmental_Stewardship/CCR_Rule_Compliance_Data_and_Information.jsp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wabash River&lt;/td&gt;
+			&lt;td&gt;Terre Haute&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Eagle Valley&lt;/td&gt;
+			&lt;td&gt;Martinsville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr-eaglevalley.com/Home/default.aspx&quot;&gt;http://ccr-eaglevalley.com/Home/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AES Petersburg&lt;/td&gt;
+			&lt;td&gt;Petersburg&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr-petersburg.com/Home/default.aspx&quot;&gt;http://ccr-petersburg.com/Home/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cayuga&lt;/td&gt;
+			&lt;td&gt;Cayuga&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Michigan City&lt;/td&gt;
+			&lt;td&gt;Michigan City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&quot;&gt;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bailly&lt;/td&gt;
+			&lt;td&gt;Chesterton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&quot;&gt;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Harding Street&lt;/td&gt;
+			&lt;td&gt;Indianapolis&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;//ccr-hardingstreet.com/Home/default.aspx&amp;quot;&quot;&gt;http://ccr-hardingstreet.com/Home/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rockport&lt;/td&gt;
+			&lt;td&gt;Rockport&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;https://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Merom&lt;/td&gt;
+			&lt;td&gt;Sullivan&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.hepn.com/environmentccr.asp&quot;&gt;https://www.hepn.com/environmentccr.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clifty Creek&lt;/td&gt;
+			&lt;td&gt;Madison&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.ovec.com/CCRClifty.php&quot;&gt;http://www.ovec.com/CCRClifty.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gibson&lt;/td&gt;
+			&lt;td&gt;Owensville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A B Brown&lt;/td&gt;
+			&lt;td&gt;Mount Vernon&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.vectren.com/Corporate/Environmental_Stewardship/CCR_Rule_Compliance_Data_and_Information.jsp&quot;&gt;https://www.vectren.com/Corporate/Environmental_Stewardship/CCR_Rule_Compliance_Data_and_Information.jsp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Whitewater Valley&lt;/td&gt;
+			&lt;td&gt;Richmond&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.rp-l.com/RPL-CCR-Rule.php&quot;&gt;https://www.rp-l.com/RPL-CCR-Rule.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R M Schahfer&lt;/td&gt;
+			&lt;td&gt;Wheatfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&quot;&gt;https://www.nipsco.com/about-us/ccr-rule-compliance-data-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R Gallagher&lt;/td&gt;
+			&lt;td&gt;New Albany&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ia&quot;&gt;&lt;strong&gt;Iowa&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sutherland&lt;/td&gt;
+			&lt;td&gt;Marshalltown&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Sutherland/index.htm&quot;&gt;http://ccr.alliantenergy.com/Sutherland/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Louisa&lt;/td&gt;
+			&lt;td&gt;Muscatine&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://berkshirehathawayenergyco.com/ccr/mec.html&quot;&gt;https://berkshirehathawayenergyco.com/ccr/mec.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;George Neal South&lt;/td&gt;
+			&lt;td&gt;Salix&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://berkshirehathawayenergyco.com/ccr/mec.html&quot;&gt;https://berkshirehathawayenergyco.com/ccr/mec.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Prairie Creek&lt;/td&gt;
+			&lt;td&gt;Cedar Rapids&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/PrairieCreek/index.htm&quot;&gt;http://ccr.alliantenergy.com/PrairieCreek/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lansing&lt;/td&gt;
+			&lt;td&gt;Lansing&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Lansing/index.htm&quot;&gt;http://ccr.alliantenergy.com/Lansing/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ottumwa&lt;/td&gt;
+			&lt;td&gt;Ottumwa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Ottumwa/index.htm&quot;&gt;http://ccr.alliantenergy.com/Ottumwa/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Muscatine Plant #1&lt;/td&gt;
+			&lt;td&gt;Muscatine&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.mpw.org/utilities/ccr-rule&quot;&gt;https://www.mpw.org/utilities/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;George Neal North&lt;/td&gt;
+			&lt;td&gt;Sergeant Bluff&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://berkshirehathawayenergyco.com/ccr/mec.html&quot;&gt;https://berkshirehathawayenergyco.com/ccr/mec.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Milton L Kapp&lt;/td&gt;
+			&lt;td&gt;Clinton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/MLKapp/index.htm&quot;&gt;http://ccr.alliantenergy.com/MLKapp/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Walter Scott Jr Energy Center&lt;/td&gt;
+			&lt;td&gt;Council Bluffs&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://berkshirehathawayenergyco.com/ccr/mec.html&quot;&gt;https://berkshirehathawayenergyco.com/ccr/mec.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Burlington&lt;/td&gt;
+			&lt;td&gt;Burlington&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Burlington/index.htm&quot;&gt;http://ccr.alliantenergy.com/Burlington/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ames Electric Services Power Plant&lt;/td&gt;
+			&lt;td&gt;Ames&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.cityofames.org/government/departments-divisions-a-h/electric/ccr&quot;&gt;http://www.cityofames.org/government/departments-divisions-a-h/electric/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;J&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;K&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ks&quot;&gt;&lt;strong&gt;Kansas&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;La Cygne&lt;/td&gt;
+			&lt;td&gt;La Cygne&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.kcpl.com/ccr&quot;&gt;http://www.kcpl.com/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jeffrey Energy Center&lt;/td&gt;
+			&lt;td&gt;St. Mary&#039;s&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/jec&quot;&gt;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/jec&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lawrence Energy Center&lt;/td&gt;
+			&lt;td&gt;Lawrence&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/lec&quot;&gt;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/lec&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Holcomb&lt;/td&gt;
+			&lt;td&gt;Holcomb&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.sunflower.net/archive20150915/&quot;&gt;http://www.sunflower.net/archive20150915/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tecumseh Energy Center&lt;/td&gt;
+			&lt;td&gt;Tecumseh&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/tec&quot;&gt;https://www.westarenergy.com/content/about-us/rates-regulations/ccr-rule/tec&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nearman Creek&lt;/td&gt;
+			&lt;td&gt;Kansas&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.bpu.com/ccrcompliancedataandinformation.aspx&quot;&gt;http://www.bpu.com/ccrcompliancedataandinformation.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ky&quot;&gt;&lt;strong&gt;Kentucky&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Ghent&lt;/td&gt;
+			&lt;td&gt;Ghent&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.lge-ku.com/GH/GNST/OR&quot;&gt;https://ccr.lge-ku.com/GH/GNST/OR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Big Sandy&lt;/td&gt;
+			&lt;td&gt;Louisa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;https://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;E.W. Brown&lt;/td&gt;
+			&lt;td&gt;Harrodsburg&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.lge-ku.com/BR&quot;&gt;https://ccr.lge-ku.com/BR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cane Run&lt;/td&gt;
+			&lt;td&gt;Louisville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.lge-ku.com/CR&quot;&gt;https://ccr.lge-ku.com/CR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;East Bend&lt;/td&gt;
+			&lt;td&gt;Union&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H L Spurlock&lt;/td&gt;
+			&lt;td&gt;Maysville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ekpc.coop/CCR_Rule_Compliance_Data_and_Information.html&quot;&gt;https://www.ekpc.coop/CCR_Rule_Compliance_Data_and_Information.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cooper&lt;/td&gt;
+			&lt;td&gt;Somerset&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ekpc.coop/ccr/Cooper_Reports_files/Cooper_Reports.htm&quot;&gt;https://www.ekpc.coop/ccr/Cooper_Reports_files/Cooper_Reports.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trimble County&lt;/td&gt;
+			&lt;td&gt;Bedford&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.lge-ku.com/TC/GNST/OR&quot;&gt;https://ccr.lge-ku.com/TC/GNST/OR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sebree&lt;/td&gt;
+			&lt;td&gt;Robards&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.bigrivers.com/environmental-services/big-rivers-electric-corporation-ccr-rule-compliance-and-data-information/&quot;&gt;http://www.bigrivers.com/environmental-services/big-rivers-electric-corporation-ccr-rule-compliance-and-data-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Shawnee&lt;/td&gt;
+			&lt;td&gt;West Paducah&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;D B Wilson&lt;/td&gt;
+			&lt;td&gt;Centertown&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.bigrivers.com/environmental-services/big-rivers-electric-corporation-ccr-rule-compliance-and-data-information/&quot;&gt;http://www.bigrivers.com/environmental-services/big-rivers-electric-corporation-ccr-rule-compliance-and-data-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dale&lt;/td&gt;
+			&lt;td&gt;Winchester&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ekpc.coop/CCR_Rule_Compliance_Data_and_Information.html&quot;&gt;https://www.ekpc.coop/CCR_Rule_Compliance_Data_and_Information.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J. K. Smith Station&lt;/td&gt;
+			&lt;td&gt;Winchester&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ekpc.coop/ccr/Smith_Reports_files/Smith_Reports.htm&quot;&gt;https://www.ekpc.coop/ccr/Smith_Reports_files/Smith_Reports.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Elmer Smith&lt;/td&gt;
+			&lt;td&gt;Owensboro&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://omu.org/coal-combustion-residuals-ccr-rule-compliance-data-and-information/&quot;&gt;http://omu.org/coal-combustion-residuals-ccr-rule-compliance-data-and-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Paradise&lt;/td&gt;
+			&lt;td&gt;Drakesboro&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mill Creek&lt;/td&gt;
+			&lt;td&gt;Louisville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.lge-ku.com/MC/GNST/OR&quot;&gt;https://ccr.lge-ku.com/MC/GNST/OR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 class=&quot;highlighted&quot;&gt;L&lt;/h3&gt;
+
+&lt;h3 id=&quot;la&quot;&gt;&lt;strong&gt;Louisiana&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rodemacher&lt;/td&gt;
+			&lt;td&gt;Lena&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.cleco.com/-/ccr-rule-compliance-data-and-information&quot;&gt;https://www.cleco.com/-/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R S Nelson&lt;/td&gt;
+			&lt;td&gt;Westlake&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.entergy-louisiana.com/ccr/&quot;&gt;http://www.entergy-louisiana.com/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dolet Hills&lt;/td&gt;
+			&lt;td&gt;Mansfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.cleco.com/-/ccr-rule-compliance-data-and-information&quot;&gt;https://www.cleco.com/-/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Big Cajun 2&lt;/td&gt;
+			&lt;td&gt;New Roads&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;M&lt;/h3&gt;
+
+&lt;h3 id=&quot;me&quot;&gt;&lt;strong&gt;Maine&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;md&quot;&gt;&lt;strong&gt;Maryland&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dickerson;&lt;/td&gt;
+			&lt;td&gt;Dickerson&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fort Armistead Road -Lot 15 Industrial Landfill&lt;/td&gt;
+			&lt;td&gt;Baltimore&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.talenenergy.com/generation/fossil-fuels/ccr-raven/fortarmisteadroadlot15&quot;&gt;https://www.talenenergy.com/generation/fossil-fuels/ccr-raven/fortarmisteadroadlot15&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brandywine Ash Landfill&lt;/td&gt;
+			&lt;td&gt;Aquasco&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ma&quot;&gt;&lt;strong&gt;Massachusetts&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brayton Point&lt;/td&gt;
+			&lt;td&gt;Somerset&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/Document.aspx&quot;&gt;https://ccr.dynegy.com/Document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;mi&quot;&gt;&lt;strong&gt;Michigan&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;J H Campbell&lt;/td&gt;
+			&lt;td&gt;West Olive&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.consumersenergy.com/content.aspx?id=8240&quot;&gt;https://www.consumersenergy.com/content.aspx?id=8240&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Shiras&lt;/td&gt;
+			&lt;td&gt;Marquette&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.mblp.org/publicnotices.php?epadisposal&quot;&gt;https://www.mblp.org/publicnotices.php?epadisposal&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;James De Young&lt;/td&gt;
+			&lt;td&gt;Holland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.hollandbpw.com/about-us/electric/our-electric-generation-facilities/ccr&quot;&gt;https://www.hollandbpw.com/about-us/electric/our-electric-generation-facilities/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;River Rouge&lt;/td&gt;
+			&lt;td&gt;River Rouge&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&quot;&gt;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J C Weadock&lt;/td&gt;
+			&lt;td&gt;Essexville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.consumersenergy.com/content.aspx?id=8240&quot;&gt;https://www.consumersenergy.com/content.aspx?id=8240&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Presque Isle&lt;/td&gt;
+			&lt;td&gt;Marquette&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.we-energies.com/environmental/coal-combustion.htm&quot;&gt;http://www.we-energies.com/environmental/coal-combustion.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J R Whiting&lt;/td&gt;
+			&lt;td&gt;Erie&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.consumersenergy.com/content.aspx?id=8240&quot;&gt;https://www.consumersenergy.com/content.aspx?id=8240&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Belle River&lt;/td&gt;
+			&lt;td&gt;China Twp&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&quot;&gt;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Erickson Station&lt;/td&gt;
+			&lt;td&gt;Lansing&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.lbwl.com/CCR-Rule-Compliance-Data-and-Information/&quot;&gt;http://www.lbwl.com/CCR-Rule-Compliance-Data-and-Information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St Clair&lt;/td&gt;
+			&lt;td&gt;East China Twp&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&quot;&gt;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monroe&lt;/td&gt;
+			&lt;td&gt;Monroe&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&quot;&gt;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B C Cobb&lt;/td&gt;
+			&lt;td&gt;Muskegon&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.consumersenergy.com/content.aspx?id=8240&quot;&gt;https://www.consumersenergy.com/content.aspx?id=8240&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trenton Channel&lt;/td&gt;
+			&lt;td&gt;Trenton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&quot;&gt;https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/community-and-news/common/environment/coal-combustion-residual&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dan E Karn&lt;/td&gt;
+			&lt;td&gt;Essexville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.consumersenergy.com/content.aspx?id=8240&quot;&gt;https://www.consumersenergy.com/content.aspx?id=8240&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J.B. Sims Plant&lt;/td&gt;
+			&lt;td&gt;Grand Haven&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ghblp.org/about-us/ccrrulecompliancedatainformation/&quot;&gt;http://ghblp.org/about-us/ccrrulecompliancedatainformation/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;mn&quot;&gt;&lt;strong&gt;Minnesota&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Fox Lake&lt;/td&gt;
+			&lt;td&gt;Sherburn&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/FoxLake/index.htm&quot;&gt;http://ccr.alliantenergy.com/FoxLake/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General Waste Industrial Landfill&lt;/td&gt;
+			&lt;td&gt;Keewatin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr-dem-con.com/&quot;&gt;http://ccr-dem-con.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Austin Northeast&lt;/td&gt;
+			&lt;td&gt;Austin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.austinutilities.com/pages/CCR_Rule/&quot;&gt;http://www.austinutilities.com/pages/CCR_Rule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Syl Laskin&lt;/td&gt;
+			&lt;td&gt;Hoyt Lakes&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://mp-ccr.azurewebsites.net/Laskin&quot;&gt;http://mp-ccr.azurewebsites.net/Laskin&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hoot Lake&lt;/td&gt;
+			&lt;td&gt;Fergus Falls&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.ccr-hlp.net&quot;&gt;http://www.ccr-hlp.net&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Black Dog&lt;/td&gt;
+			&lt;td&gt;Burnsville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clay Boswell&lt;/td&gt;
+			&lt;td&gt;Cohasset&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://mp-ccr.azurewebsites.net/Boswell&quot;&gt;http://mp-ccr.azurewebsites.net/Boswell&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sherburne County (SHERCO)&lt;/td&gt;
+			&lt;td&gt;Becker&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&quot;&gt;https://www.xcelenergy.com/environment/responsible_operations/coal_ash_management&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Taconite Harbor&lt;/td&gt;
+			&lt;td&gt;Schroeder&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://mp-ccr.azurewebsites.net/Home/TaconiteHarbor&quot;&gt;http://mp-ccr.azurewebsites.net/Home/TaconiteHarbor&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ms&quot;&gt;&lt;strong&gt;Mississippi&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R D Morrow&lt;/td&gt;
+			&lt;td&gt;Purvis&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://smepa.coop/portfolio/energy-resources/&quot;&gt;http://smepa.coop/portfolio/energy-resources/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Red Hills Generating Facility&lt;/td&gt;
+			&lt;td&gt;Ackerman&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cglplllpccr.com/&quot;&gt;http://cglplllpccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Victor J Daniel Jr&lt;/td&gt;
+			&lt;td&gt;Escatawpa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.mississippipower.com/about-energy/plants/plant-daniel&quot;&gt;http://www.mississippipower.com/about-energy/plants/plant-daniel&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jack Watson&lt;/td&gt;
+			&lt;td&gt;Gulfport&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.mississippipower.com/about-energy/plants/plant-watson&quot;&gt;http://www.mississippipower.com/about-energy/plants/plant-watson&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;mo&quot;&gt;&lt;strong&gt;Missouri&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Columbia (MO)&lt;/td&gt;
+			&lt;td&gt;Columbia&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.gocolumbiamo.com/WaterandLight/Electric/CCRRuleComplianceDataandInformation.php&quot;&gt;https://www.gocolumbiamo.com/WaterandLight/Electric/CCRRuleComplianceDataandInformation.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Asbury&lt;/td&gt;
+			&lt;td&gt;Asbury&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.empiredistrict.com/Environmental/CCR&quot;&gt;https://www.empiredistrict.com/Environmental/CCR&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iatan&lt;/td&gt;
+			&lt;td&gt;Weston&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.kcpl.com/ccr&quot;&gt;http://www.kcpl.com/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Blue Valley&lt;/td&gt;
+			&lt;td&gt;Independence&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ci.independence.mo.us/PL/CCRRuleCompliance&quot;&gt;https://www.ci.independence.mo.us/PL/CCRRuleCompliance&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Missouri City&lt;/td&gt;
+			&lt;td&gt;Missouri City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ci.independence.mo.us/PL/CCRRuleCompliance&quot;&gt;https://www.ci.independence.mo.us/PL/CCRRuleCompliance&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rush Island&lt;/td&gt;
+			&lt;td&gt;Festus&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ameren.com/Environment/ccr-rule-compliance/ccr-compliance-rush-island&quot;&gt;https://www.ameren.com/Environment/ccr-rule-compliance/ccr-compliance-rush-island&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sibley&lt;/td&gt;
+			&lt;td&gt;Sibley&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.kcpl.com/ccr&quot;&gt;http://www.kcpl.com/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;James River Power Station&lt;/td&gt;
+			&lt;td&gt;Springfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.cityutilities.net/corporate/legal/ccr/&quot;&gt;https://www.cityutilities.net/corporate/legal/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;New Madrid&lt;/td&gt;
+			&lt;td&gt;New Madrid&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.aeci.org/&quot;&gt;https://ccr.aeci.org/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sikeston Power Station&lt;/td&gt;
+			&lt;td&gt;Sikeston&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.sikestonpower.com/&quot;&gt;http://www.sikestonpower.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sioux&lt;/td&gt;
+			&lt;td&gt;West Alton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ameren.com/Environment/ccr-rule-compliance/ccr-compliance-sioux&quot;&gt;https://www.ameren.com/Environment/ccr-rule-compliance/ccr-compliance-sioux&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Montrose&lt;/td&gt;
+			&lt;td&gt;Clinton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.kcpl.com/ccr&quot;&gt;http://www.kcpl.com/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Thomas Hill&lt;/td&gt;
+			&lt;td&gt;Clifton Hill&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.aeci.org/&quot;&gt;https://ccr.aeci.org/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John Twitty Energy Center&lt;/td&gt;
+			&lt;td&gt;Springfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.cityutilities.net/corporate/legal/ccr/&quot;&gt;https://www.cityutilities.net/corporate/legal/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Meramec&lt;/td&gt;
+			&lt;td&gt;St. Louis&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ameren.com/Environment/ccr-rule-compliance&quot;&gt;https://www.ameren.com/Environment/ccr-rule-compliance&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Labadie&lt;/td&gt;
+			&lt;td&gt;Labadie&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.ameren.com/Environment/ccr-rule-compliance&quot;&gt;https://www.ameren.com/Environment/ccr-rule-compliance&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;mt&quot;&gt;&lt;strong&gt;Montana&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colstrip Energy LP&lt;/td&gt;
+			&lt;td&gt;Colstrip&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.talenenergy.com/generation/fossil-fuels/colstrip&quot;&gt;https://www.talenenergy.com/generation/fossil-fuels/colstrip&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lewis &amp;amp; Clark&lt;/td&gt;
+			&lt;td&gt;Richland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.montana-dakota.com/conservation/ccr-rule-compliance-data-and-information&quot;&gt;https://www.montana-dakota.com/conservation/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;N&lt;/h3&gt;
+
+&lt;h3 id=&quot;ne&quot;&gt;&lt;strong&gt;Nebraska&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lon Wright&lt;/td&gt;
+			&lt;td&gt;Fremont&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.fremontne.gov/index.aspx?NID=770&quot;&gt;http://www.fremontne.gov/index.aspx?NID=770&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Platte&lt;/td&gt;
+			&lt;td&gt;Grand Island&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.grand-island.com/your-government/utilities/ccr&quot;&gt;http://www.grand-island.com/your-government/utilities/ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Whelan Energy Center&lt;/td&gt;
+			&lt;td&gt;Hastings&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.hastingsutilities.com/about-us/ccr-rule-compliance.html&quot;&gt;https://www.hastingsutilities.com/about-us/ccr-rule-compliance.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gerald Gentleman&lt;/td&gt;
+			&lt;td&gt;Sutherland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nppd.com/environment/coal-combustion-residuals-ccr/&quot;&gt;http://www.nppd.com/environment/coal-combustion-residuals-ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Omaha&lt;/td&gt;
+			&lt;td&gt;Omaha&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.oppd.com/environment/environmental-reports/ccr-rule-compliance/ccr-rule-compliance-north-omaha-power-station/&quot;&gt;http://www.oppd.com/environment/environmental-reports/ccr-rule-compliance/ccr-rule-compliance-north-omaha-power-station/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sheldon&lt;/td&gt;
+			&lt;td&gt;Hallam&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nppd.com/environment/coal-combustion-residuals-ccr/&quot;&gt;http://www.nppd.com/environment/coal-combustion-residuals-ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nebraska City&lt;/td&gt;
+			&lt;td&gt;Nebraska City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.oppd.com/environment/environmental-reports/ccr-rule-compliance/ccr-rule-compliance-nebraska-city-power-station/&quot;&gt;http://www.oppd.com/environment/environmental-reports/ccr-rule-compliance/ccr-rule-compliance-nebraska-city-power-station/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nv&quot;&gt;&lt;strong&gt;Nevada&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Valmy&lt;/td&gt;
+			&lt;td&gt;Valmy&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.berkshirehathawayenergyco.com/ccr/nve.html&quot;&gt;http://www.berkshirehathawayenergyco.com/ccr/nve.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Reid Gardner&lt;/td&gt;
+			&lt;td&gt;Moapa&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.berkshirehathawayenergyco.com/ccr/nve.html&quot;&gt;http://www.berkshirehathawayenergyco.com/ccr/nve.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TS Power Plant&lt;/td&gt;
+			&lt;td&gt;Battle Mountain&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.newmont.com/operations-and-projects/north-america/nevada-us/reports/default.aspx&quot;&gt;http://www.newmont.com/operations-and-projects/north-america/nevada-us/reports/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nh&quot;&gt;&lt;strong&gt;New Hampshire&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Merrimack&lt;/td&gt;
+			&lt;td&gt;Bow&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.eversource.com/Content/general/about/major-projects-infrastructure/fossil-fuel-power-plants/merrimack-station-landfill-compliance-data-information&quot;&gt;https://www.eversource.com/Content/general/about/major-projects-infrastructure/fossil-fuel-power-plants/merrimack-station-landfill-compliance-data-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nj&quot;&gt;&lt;strong&gt;New Jersey&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PSEG Hudson Generating Station&lt;/td&gt;
+			&lt;td&gt;Jersey City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.pseg.com/family/power/fossil/stations/hudson_ccr-rule.jsp&quot;&gt;https://www.pseg.com/family/power/fossil/stations/hudson_ccr-rule.jsp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PSEG Mercer Generating Station&lt;/td&gt;
+			&lt;td&gt;Hamilton Township&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.pseg.com/family/power/fossil/stations/mercer_ccr-rule.jsp&quot;&gt;https://www.pseg.com/family/power/fossil/stations/mercer_ccr-rule.jsp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;B L England&lt;/td&gt;
+			&lt;td&gt;Beesley&#039;s Point&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://blenglandccr.com/&quot;&gt;http://blenglandccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nm&quot;&gt;&lt;strong&gt;New Mexico&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Four Corners&lt;/td&gt;
+			&lt;td&gt;Fruitland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aps.com/en/ourcompany/ratesregulationsresources/environmentalcompliance/Pages/four-corners.aspx&quot;&gt;https://www.aps.com/en/ourcompany/ratesregulationsresources/environmentalcompliance/Pages/four-corners.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Escalante&lt;/td&gt;
+			&lt;td&gt;Prewitt&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ts.cms.coopwebbuilder2.com/content/environment&quot;&gt;http://ts.cms.coopwebbuilder2.com/content/environment&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ny&quot;&gt;&lt;strong&gt;New York&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;C R Huntley Generating Station&lt;/td&gt;
+			&lt;td&gt;Tonawanda&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Huntley Generation Station&lt;/td&gt;
+			&lt;td&gt;Tonawanda&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dunkirk Generating Plant&lt;/td&gt;
+			&lt;td&gt;Dunkirk&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nc&quot;&gt;&lt;strong&gt;North Carolina&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Cliffside&lt;/td&gt;
+			&lt;td&gt;Cliffside&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;G G Allen&lt;/td&gt;
+			&lt;td&gt;Belmont&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Buck&lt;/td&gt;
+			&lt;td&gt;Salisbury&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dan River&lt;/td&gt;
+			&lt;td&gt;Eden&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mayo&lt;/td&gt;
+			&lt;td&gt;Roxboro&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Asheville&lt;/td&gt;
+			&lt;td&gt;Arden&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Marshall (NC)&lt;/td&gt;
+			&lt;td&gt;Terrell&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Halifax County Ash Landfill&lt;/td&gt;
+			&lt;td&gt;Littleton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://halifaxnc.com/index.php?option=com_docman&amp;amp;Itemid=315&quot;&gt;http://halifaxnc.com/index.php?option=com_docman&amp;amp;Itemid=315&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Roxboro&lt;/td&gt;
+			&lt;td&gt;Semora&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;HF Lee Plant&lt;/td&gt;
+			&lt;td&gt;Goldsboro&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Belews Creek&lt;/td&gt;
+			&lt;td&gt;Belews Creek&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;L V Sutton Steam&lt;/td&gt;
+			&lt;td&gt;Wilmington&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brickhaven No. 2 Mine Tract&lt;/td&gt;
+			&lt;td&gt;Moncure&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://gm-ccrrule.com&quot;&gt;http://gm-ccrrule.com&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;nd&quot;&gt;&lt;strong&gt;North Dakota&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;R M Heskett&lt;/td&gt;
+			&lt;td&gt;Mandan&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.montana-dakota.com/conservation/ccr-rule-compliance-data-and-information&quot;&gt;https://www.montana-dakota.com/conservation/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Milton R Young&lt;/td&gt;
+			&lt;td&gt;Center&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://minnkota-public.sharepoint.com/&quot;&gt;http://minnkota-public.sharepoint.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coyote&lt;/td&gt;
+			&lt;td&gt;Beulah&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.ccr-cs.net/&quot;&gt;http://www.ccr-cs.net/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Antelope Valley&lt;/td&gt;
+			&lt;td&gt;Beulah&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.basinelectric.com/Environment/CCR-Rule/&quot;&gt;https://www.basinelectric.com/Environment/CCR-Rule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coal Creek&lt;/td&gt;
+			&lt;td&gt;Underwood&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.greatriverenergy.com/&quot;&gt;http://ccr.greatriverenergy.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Leland Olds&lt;/td&gt;
+			&lt;td&gt;Stanton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.basinelectric.com/Environment/CCR-Rule/&quot;&gt;https://www.basinelectric.com/Environment/CCR-Rule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stanton Station&lt;/td&gt;
+			&lt;td&gt;Stanton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.greatriverenergy.com/&quot;&gt;http://ccr.greatriverenergy.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;mp&quot;&gt;&lt;strong&gt;Northern Mariana Islands&lt;/strong&gt; – U.S. Territory&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;O&lt;/h3&gt;
+
+&lt;h3 id=&quot;oh&quot;&gt;&lt;strong&gt;Ohio&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cardinal&lt;/td&gt;
+			&lt;td&gt;Brillant&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;https://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;J M Stuart&lt;/td&gt;
+			&lt;td&gt;Aberdeen&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr-stuart.com/Home/default.aspx&quot;&gt;http://ccr-stuart.com/Home/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Conesville&lt;/td&gt;
+			&lt;td&gt;Conesville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FirstEnergy W H Sammis&lt;/td&gt;
+			&lt;td&gt;Stratton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Richmond Mill&lt;/td&gt;
+			&lt;td&gt;Richmond&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://richmondmill.com/&quot;&gt;http://richmondmill.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;W H Zimmer&lt;/td&gt;
+			&lt;td&gt;Moscow&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/document.aspx&quot;&gt;https://ccr.dynegy.com/document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General James M Gavin&lt;/td&gt;
+			&lt;td&gt;Cheshire&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;https://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miami Fort&lt;/td&gt;
+			&lt;td&gt;North Bend&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://ccr.dynegy.com/document.aspx&quot;&gt;https://ccr.dynegy.com/document.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kyger Creek&lt;/td&gt;
+			&lt;td&gt;Cheshire&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.ovec.com/CCRKyger.php&quot;&gt;http://www.ovec.com/CCRKyger.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Killen Station&lt;/td&gt;
+			&lt;td&gt;Manchester&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr-killen.com/Home/default.aspx&quot;&gt;http://ccr-killen.com/Home/default.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;ok&quot;&gt;&lt;strong&gt;Oklahoma&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sooner&lt;/td&gt;
+			&lt;td&gt;Red Rock&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://oge.com/wps/portal/oge/about-us/environment/ccr-rule-compliance-data-and-information/&quot;&gt;https://oge.com/wps/portal/oge/about-us/environment/ccr-rule-compliance-data-and-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hugo&lt;/td&gt;
+			&lt;td&gt;Fort Towson&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.2015website2.wixsite.com/wfec-ccr&quot;&gt;http://2015website2.wixsite.com/wfec-ccr&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Muskogee&lt;/td&gt;
+			&lt;td&gt;Fort Gibson&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://oge.com/wps/portal/oge/about-us/environment/ccr-rule-compliance-data-and-information/&quot;&gt;https://oge.com/wps/portal/oge/about-us/environment/ccr-rule-compliance-data-and-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Northeastern&lt;/td&gt;
+			&lt;td&gt;Oologah&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;GRDA&lt;/td&gt;
+			&lt;td&gt;Chouteau&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.grda.com/ccr-rule-compliance-data-and-information/&quot;&gt;http://www.grda.com/ccr-rule-compliance-data-and-information/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;or&quot;&gt;&lt;strong&gt;Oregon&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Boardman&lt;/td&gt;
+			&lt;td&gt;Boardman&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.portlandgeneral.com/corporate-responsibility/environmental-stewardship/ccr-rule-compliance-data-information&quot;&gt;https://www.portlandgeneral.com/corporate-responsibility/environmental-stewardship/ccr-rule-compliance-data-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 class=&quot;highlighted&quot;&gt;P&lt;/h3&gt;
+
+&lt;h3 id=&quot;pa&quot;&gt;&lt;strong&gt;Pennsylvania&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Hatfields Ferry Power Station&lt;/td&gt;
+			&lt;td&gt;Masontown&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cheswick Power Plant&lt;/td&gt;
+			&lt;td&gt;Cheswick&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Homer City Station&lt;/td&gt;
+			&lt;td&gt;Homer City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.homercitygenerationccr.com/&quot;&gt;http://www.homercitygenerationccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PPL Montour&lt;/td&gt;
+			&lt;td&gt;Washingtonville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.talenenergy.com/generation/fossil-fuels/ccr-montour&quot;&gt;https://www.talenenergy.com/generation/fossil-fuels/ccr-montour&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PPL Brunner Island&lt;/td&gt;
+			&lt;td&gt;York Haven&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.talenenergy.com/generation/fossil-fuels/ccr-brunner-island&quot;&gt;https://www.talenenergy.com/generation/fossil-fuels/ccr-brunner-island&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Keystone&lt;/td&gt;
+			&lt;td&gt;Shelocta&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;New Castle Plant&lt;/td&gt;
+			&lt;td&gt;West Pittsburg&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FirstEnergy Bruce Mansfield&lt;/td&gt;
+			&lt;td&gt;Shippingport&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Conemaugh&lt;/td&gt;
+			&lt;td&gt;New Florence&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;pr&quot;&gt;&lt;strong&gt;Puerto Rico&lt;/strong&gt; – U.S. Commonwealth&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;AES Puerto Rico&lt;/td&gt;
+			&lt;td&gt;Guayama&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://aespuertorico.com/ccr/&quot;&gt;http://aespuertorico.com/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 class=&quot;highlighted&quot;&gt;Q&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;R&lt;/h3&gt;
+
+&lt;h3 id=&quot;ri&quot;&gt;&lt;strong&gt;Rhode Island&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;S&lt;/h3&gt;
+
+&lt;h3 id=&quot;sc&quot;&gt;&lt;strong&gt;South Carolina&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Williams&lt;/td&gt;
+			&lt;td&gt;Goose Creek&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&quot;&gt;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cope&lt;/td&gt;
+			&lt;td&gt;Cope&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&quot;&gt;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wateree&lt;/td&gt;
+			&lt;td&gt;Eastover&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&quot;&gt;https://www.sceg.com/about-us/power-generation/coal/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;W S Lee&lt;/td&gt;
+			&lt;td&gt;Williamston&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&quot;&gt;https://www.duke-energy.com/environment/reports/ccr-compliance.asp&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cross&lt;/td&gt;
+			&lt;td&gt;Cross&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/cross.aspx&quot;&gt;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/cross.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;H B Robinson&lt;/td&gt;
+			&lt;td&gt;Hartsville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/cross.aspx&quot;&gt;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/cross.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Winyah&lt;/td&gt;
+			&lt;td&gt;Georgetown&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/winyah.aspx&quot;&gt;https://www.santeecooper.com/committed-to-south-carolina/environmental-stewardship/ccr/winyah.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;sd&quot;&gt;&lt;strong&gt;South Dakota&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Big Stone&lt;/td&gt;
+			&lt;td&gt;Big Stone City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.ccr-bsp.net/&quot;&gt;http://www.ccr-bsp.net/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 class=&quot;highlighted&quot;&gt;T&lt;/h3&gt;
+
+&lt;h3 id=&quot;tn&quot;&gt;&lt;strong&gt;Tennessee&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cumberland&lt;/td&gt;
+			&lt;td&gt;Cumberland City&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Allen Steam Plant&lt;/td&gt;
+			&lt;td&gt;Memphis&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bull Run&lt;/td&gt;
+			&lt;td&gt;Clinton&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Johnsonville&lt;/td&gt;
+			&lt;td&gt;New Johnsonville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gallatin&lt;/td&gt;
+			&lt;td&gt;Gallatin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kingston&lt;/td&gt;
+			&lt;td&gt;Kingston&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John Sevier&lt;/td&gt;
+			&lt;td&gt;Rogersville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&quot;&gt;https://www.tva.gov/Environment/Environmental-Stewardship/Coal-Combustion-Residuals&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;tx&quot;&gt;&lt;strong&gt;Texas&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;San Miguel&lt;/td&gt;
+			&lt;td&gt;Christine&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.smeci.net/CCR.html&quot;&gt;http://www.smeci.net/CCR.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sandow 5 Generating Plant&lt;/td&gt;
+			&lt;td&gt;Rockdale&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.luminant.com/&quot;&gt;https://www.luminant.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Twin Oaks Power One&lt;/td&gt;
+			&lt;td&gt;Bremond&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.twinoaksccr.com/&quot;&gt;http://www.twinoaksccr.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;W A Parish&lt;/td&gt;
+			&lt;td&gt;Thompsons&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Welsh&lt;/td&gt;
+			&lt;td&gt;Pittsburg&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Big Brown&lt;/td&gt;
+			&lt;td&gt;Fairfield&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.luminant.com/&quot;&gt;https://www.luminant.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oak Grove&lt;/td&gt;
+			&lt;td&gt;Franklin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.luminant.com/&quot;&gt;https://www.luminant.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Monticello&lt;/td&gt;
+			&lt;td&gt;Mount Pleasant&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.luminant.com/&quot;&gt;https://www.luminant.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Fayette Power Project&lt;/td&gt;
+			&lt;td&gt;La Grange&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.lcra.org/energy/electric-power/facilities/fayette-power-project/Pages/Fayette-Power-Project-CCR-Rule.aspx&quot;&gt;http://www.lcra.org/energy/electric-power/facilities/fayette-power-project/Pages/Fayette-Power-Project-CCR-Rule.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Gibbons Creek&lt;/td&gt;
+			&lt;td&gt;Anderson&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.texasmpa.org/environment.aspx&quot;&gt;http://www.texasmpa.org/environment.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Martin Lake&lt;/td&gt;
+			&lt;td&gt;Tatum&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.luminant.com/&quot;&gt;https://www.luminant.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Oklaunion&lt;/td&gt;
+			&lt;td&gt;Oklaunion&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pirkey&lt;/td&gt;
+			&lt;td&gt;Hallsville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coleto Creek&lt;/td&gt;
+			&lt;td&gt;Fannin&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.engie-na.com/&quot;&gt;http://www.engie-na.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Limestone&lt;/td&gt;
+			&lt;td&gt;Jewett&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.nrg.com/legal/coal-combustion-residuals/&quot;&gt;http://www.nrg.com/legal/coal-combustion-residuals/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Calaveras Power Station&lt;/td&gt;
+			&lt;td&gt;San Antonio&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.cpsenergy.com/en/about-us/environment/coal-combustion-residuals.html&quot;&gt;https://www.cpsenergy.com/en/about-us/environment/coal-combustion-residuals.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;tt&quot;&gt;&lt;strong&gt;Trust Territories&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;U&lt;/h3&gt;
+
+&lt;h3 id=&quot;ut&quot;&gt;&lt;strong&gt;Utah&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Intermountain Power Project (Station)&lt;/td&gt;
+			&lt;td&gt;Delta&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ipscenvironmental.weebly.com/&quot;&gt;http://ipscenvironmental.weebly.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sunnyside Cogen Associates&lt;/td&gt;
+			&lt;td&gt;Sunnyside&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.sunnysidecogeneration.com/&quot;&gt;http://www.sunnysidecogeneration.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hunter&lt;/td&gt;
+			&lt;td&gt;Castle Dale&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.pacificorp.com/env/ccr-data.html&quot;&gt;http://www.pacificorp.com/env/ccr-data.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Huntington&lt;/td&gt;
+			&lt;td&gt;Huntington&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.pacificorp.com/env/ccr-data.html&quot;&gt;http://www.pacificorp.com/env/ccr-data.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bonanza&lt;/td&gt;
+			&lt;td&gt;Vernal&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.deseretpower.com/ccr/ccr.php&quot;&gt;http://www.deseretpower.com/ccr/ccr.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;V&lt;/h3&gt;
+
+&lt;h3 id=&quot;vt&quot;&gt;&lt;strong&gt;Vermont&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;va&quot;&gt;&lt;strong&gt;Virginia&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Virginia City Hybrid Energy Center&lt;/td&gt;
+			&lt;td&gt;St. Paul&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Possum Point&lt;/td&gt;
+			&lt;td&gt;Dumfries&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bremo Bluff&lt;/td&gt;
+			&lt;td&gt;Bremo Bluff&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chesapeake&lt;/td&gt;
+			&lt;td&gt;Chesapeake&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clinch River&lt;/td&gt;
+			&lt;td&gt;Cleveland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Yorktown&lt;/td&gt;
+			&lt;td&gt;Yorktown&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chesterfield&lt;/td&gt;
+			&lt;td&gt;Chester&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clover&lt;/td&gt;
+			&lt;td&gt;Clover&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;vi&quot;&gt;&lt;strong&gt;Virgin Islands&lt;/strong&gt; – U.S. Territory&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;No entries available&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 class=&quot;highlighted&quot;&gt;W&lt;/h3&gt;
+
+&lt;h3 id=&quot;wa&quot;&gt;&lt;br /&gt;&lt;strong&gt;Washington&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TransAlta Centralia Generation&lt;/td&gt;
+			&lt;td&gt;Centralia&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.transalta.com/us/2013/06/941/&quot;&gt;http://www.transalta.com/us/2013/06/941/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;wv&quot;&gt;&lt;strong&gt;West Virginia&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John E Amos&lt;/td&gt;
+			&lt;td&gt;St Albans&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mitchell (WV)&lt;/td&gt;
+			&lt;td&gt;Captina&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;http://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FirstEnergy Fort Martin Power Station&lt;/td&gt;
+			&lt;td&gt;Maidsville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mountaineer&lt;/td&gt;
+			&lt;td&gt;New Haven&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.aep.com/about/codeofconduct/CCRRule/&quot;&gt;https://www.aep.com/about/codeofconduct/CCRRule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mt Storm&lt;/td&gt;
+			&lt;td&gt;Mount Storm&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&quot;&gt;https://www.dom.com/corporate/our-commitments/environment/reports-and-data/ccr-rule-compliance-data-and-information&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pleasants Power Station&lt;/td&gt;
+			&lt;td&gt;Willow Island&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FirstEnergy Harrison Power Station&lt;/td&gt;
+			&lt;td&gt;Haywood&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccrdocs.firstenergycorp.com/&quot;&gt;http://ccrdocs.firstenergycorp.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;wi&quot;&gt;&lt;br /&gt;&lt;strong&gt;Wisconsin&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Weston&lt;/td&gt;
+			&lt;td&gt;Rothschild&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.wisconsinpublicservice.com/company/ccr.aspx&quot;&gt;http://www.wisconsinpublicservice.com/company/ccr.aspx&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;John P Madgett&lt;/td&gt;
+			&lt;td&gt;Alma&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edgewater&lt;/td&gt;
+			&lt;td&gt;Sheboygan&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Edgewater/index.htm&quot;&gt;http://ccr.alliantenergy.com/Edgewater/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alma&lt;/td&gt;
+			&lt;td&gt;Alma&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.dairynet.com/environment/CCRCompliance.php&quot;&gt;http://www.dairynet.com/environment/CCRCompliance.php&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Nelson Dewey&lt;/td&gt;
+			&lt;td&gt;Cassville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/NelsonDewey/index.htm&quot;&gt;http://ccr.alliantenergy.com/NelsonDewey/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pleasant Prairie&lt;/td&gt;
+			&lt;td&gt;Pleasant Prairie&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.we-energies.com/environmental/coal-combustion.htm&quot;&gt;http://www.we-energies.com/environmental/coal-combustion.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Columbia (WI)&lt;/td&gt;
+			&lt;td&gt;Pardeville&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://ccr.alliantenergy.com/Columbia/index.htm&quot;&gt;http://ccr.alliantenergy.com/Columbia/index.htm&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;wy&quot;&gt;&lt;strong&gt;Wyoming&lt;/strong&gt;&lt;/h3&gt;
+
+
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Name of Plant&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;City&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;URL of Publicly Accessible Internet Site&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Laramie River Station&lt;/td&gt;
+			&lt;td&gt;Wheatland&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;https://www.basinelectric.com/Environment/CCR-Rule/&quot;&gt;https://www.basinelectric.com/Environment/CCR-Rule/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Dave Johnston&lt;/td&gt;
+			&lt;td&gt;Glen Rock&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.pacificorp.com/env/ccr-data.html&quot;&gt;http://www.pacificorp.com/env/ccr-data.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Naughton&lt;/td&gt;
+			&lt;td&gt;Kemmerer&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.pacificorp.com/env/ccr-data.html&quot;&gt;http://www.pacificorp.com/env/ccr-data.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jim Bridger&lt;/td&gt;
+			&lt;td&gt;Point of Rocks&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://www.pacificorp.com/env/ccr-data.html&quot;&gt;http://www.pacificorp.com/env/ccr-data.html&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 class=&quot;highlighted&quot;&gt;X&lt;/h3&gt;
+
+
+
+&lt;p&gt;No entries available&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;Y&lt;/h3&gt;
+
+&lt;p&gt;No entries available&lt;br /&gt;
+	 &lt;/p&gt;
+
+&lt;h3 class=&quot;highlighted&quot;&gt;Z&lt;/h3&gt;
+
+&lt;p&gt;No entries available&lt;/p&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 26 Jul 2016 15:26:38 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">155681 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Compliance Data and Information Websites Required by the Disposal of Coal Combustion Residuals (CCR) Rule</title>
+    <link>https://www.epa.gov/coalash/compliance-data-and-information-websites-required-disposal-coal-combustion-residuals-ccr</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#intro&quot;&gt;Finalized Initial Open Dump Inventory&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#inventory&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;intro&quot; name=&quot;intro&quot;&gt;&lt;/a&gt;Finalized Initial Open Dump Inventory&lt;/h2&gt;
+
+&lt;p&gt;EPA has finalized its initial CCR Open Dump Inventory. The facilities that were identified on our draft inventory have either come into compliance with the rule requirements or based on further analysis have been determined not to be subject to the CCR rule. Thus, there are no facilities on this initial open dump inventory.  &lt;/p&gt;
+
+&lt;p&gt;The list below provides the disposition of those facilities that were included in the initial draft inventory of open dumps. To develop this list, EPA started with the list of facilities that was used in the Regulatory Impact Analysis (RIA) for the CCR Rule and facilities that were identified in the structural stability assessments. Then, EPA conducted a review of information available on the Web for these facilities and shared this information with the states. Specifically, EPA looked to determine whether these facilities were in compliance with two specific requirements in the CCR rule:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Did the facility have a website with CCR rule compliance information? and&lt;/li&gt;
+	&lt;li&gt;Was the required fugitive dust control plan posted on that website?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If a facility had not complied with either of the two requirements listed above, EPA considered the facility an open dump and placed it on the initial draft inventory which EPA posted on August 1, 2016 for comment. EPA shared this initial information with our State partners to ensure that our initial information was correct. &lt;ins&gt;Based on comments&lt;/ins&gt; received&lt;ins&gt;, further discussions with the facilities&lt;/ins&gt;,&lt;ins&gt; and review of pertinent materials submitted, EPA has determined that &lt;/ins&gt;each of &lt;ins&gt;th&lt;/ins&gt;e&lt;ins&gt; facilities are either not subject to the CCR rule or have complied with the initial requirements of posting their CCR compliance website and their fugitive dust plan&lt;/ins&gt;&lt;ins&gt;. &lt;/ins&gt;&lt;/p&gt;
+
+&lt;p&gt;It is important to note that this initial open dump inventory and analysis covered only two of the many requirements of the CCR rule; the fact that a facility does not appear on the open dump list should not be interpreted to mean that the facility it is in full compliance with all the requirements of the rule. All facilities remain responsible for ensuring their compliance with all of the requirements of the CCR rule, and those that fail to do so will be put on a future version of the open dump inventory.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;Finalized Initial Open Dump Inventory as of January 12, 2017&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Plant Name&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Location&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Reason for Being on the Draft Inventory&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;AES Puerto Rico&lt;/td&gt;
+			&lt;td&gt;Puerto Rico&lt;/td&gt;
+			&lt;td&gt;Compliance website and fugitive dust plan posted:  &lt;a href=&quot;http://aespuertorico.com/ccr/&quot;&gt;http://aespuertorico.com/ccr/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Avon Lake&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;Not subject to the rule&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brickhaven No. 2 Mine Tract &quot;A&quot;&lt;/td&gt;
+			&lt;td&gt;NC&lt;/td&gt;
+			&lt;td&gt;Compliance website and fugitive dust plan posted:  &lt;a href=&quot;http://gm-ccrrule.com/&quot;&gt;http://gm-ccrrule.com/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crisp Plant&lt;/td&gt;
+			&lt;td&gt;GA&lt;/td&gt;
+			&lt;td&gt;Fugitive dust plan has been posted:  &lt;a href=&quot;https://crispcountypower.com/ccr-rule&quot;&gt;https://crispcountypower.com/ccr-rule&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;First Energy Bay Shore&lt;/td&gt;
+			&lt;td&gt;OH&lt;/td&gt;
+			&lt;td&gt;Not subject to the rule&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;JB Sims&lt;/td&gt;
+			&lt;td&gt;MI&lt;/td&gt;
+			&lt;td&gt;Located compliance website:  &lt;a href=&quot;http://ghblp.org/about-us/ccrrulecompliancedatainformation/&quot;&gt;http://ghblp.org/about-us/ccrrulecompliancedatainformation/&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Taconite Harbor&lt;/td&gt;
+			&lt;td&gt;MN&lt;/td&gt;
+			&lt;td&gt;Compliance website and fugitive dust plan posted:  &lt;a href=&quot;http://mp-ccr.azurewebsites.net/Home/TaconiteHarbor&quot;&gt;http://mp-ccr.azurewebsites.net/Home/TaconiteHarbor&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a id=&quot;inventory&quot; name=&quot;inventory&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The Disposal of Coal Combustion Residuals (CCR) from Electric Utilities &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;final rule&lt;/a&gt; was published on April 17, 2015 and was effective on October 19, 2015. The rule includes a number of technical requirements that have various compliance deadlines. Among these are a requirement for regulated entities to develop a publicly available website and post compliance information to that website.  EPA included Internet posting requirements so that compliance information would be readily available to the public. &lt;a href=&quot;/coalash/list-publicly-accessible-internet-sites-hosting-compliance-data-and-information-required&quot;&gt;Read more about publicly available Internet sites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;EPA is required to publish an open dump inventory to assist the states in complying with the directive in section 4003(a)(3) of the Resource Conservation and Recovery Act (RCRA) that state solid waste management plans shall provide for closure and upgrading of open dumps (e.g., facilities which do not comply with the revised federal criteria). Open dumps, in this context, refer to facilities which are not in compliance with the federal CCR rule.&lt;/p&gt;
+
+&lt;p&gt;Under the final CCR rule, compliance dates for specific technical and reporting requirements will continue to arise, so a facility which is not now an open dump could become one at some point in the future. Also, a facility on the inventory could come into compliance with the regulatory requirements and then would no longer be considered an open dump. For this reason, EPA anticipates publishing this draft initial inventory of open dumps and then periodically updating it.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Fri, 15 Jul 2016 00:23:49 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">154961 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Comment Submission Form for the Publicly Accessible Internet Sites Hosting Coal Combustion Residual (CCR) Compliance Data</title>
+    <link>https://www.epa.gov/coalash/forms/comment-submission-form-publicly-accessible-internet-sites-hosting-coal-combustion</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Learn More&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/coalash/compliance-data-and-information-websites-required-disposal-coal-combustion-residuals-ccr&quot;&gt;Learn more about the finalized initial open dump inventory&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/coalash/list-publicly-accessible-internet-sites-hosting-compliance-data-and-information-required&quot;&gt;View the list of compliance websites&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On April 17, 2015, the &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;first set of national regulations&lt;/a&gt; that provide for the safe disposal of coal combustion residuals (CCRs), commonly known as coal ash, from coal-fired power plants were published in the &lt;em&gt;Federal Register&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Resource Conservation and Recovery Act (RCRA) requires EPA to publish an open dump inventory to assist the states in complying with the directive in section 4003(a)(3) of RCRA that state solid waste management plans shall provide for closure and upgrading of open dumps (e.g., facilities which do not comply with the revised federal criteria). Open dumps, in this context, refer to facilities which are not in compliance with the federal CCR rule.&lt;/p&gt;
+
+&lt;p&gt;In order to generate this initial open dump inventory, EPA conducted a review of information available on the Web for facilities listed in the Regulatory Impact Analysis for the CCR rule and facilities that were identified in the structural stability assessments. EPA posted &lt;a href=&quot;/coalash/list-publicly-accessible-internet-sites-hosting-compliance-data-and-information-required&quot;&gt;a list of compliance websites&lt;/a&gt; found and is collecting updated information on it and any facilities or websites not on the list.&lt;/p&gt;
+
+&lt;p&gt;The webform below can be used to provide us with updated information about &lt;a href=&quot;/coalash/list-publicly-accessible-internet-sites-hosting-compliance-data-and-information-required&quot;&gt;the list of compliance websites&lt;/a&gt;:&lt;/p&gt;
+</description>
+     <pubDate>Thu, 14 Jul 2016 18:18:41 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">154859 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Coal Combustion Residuals Impoundment Assessment Reports </title>
+    <link>https://www.epa.gov/coalash/coal-combustion-residuals-impoundment-assessment-reports</link>
+    <description>&lt;p&gt;As part of the U.S. Environmental Protection Agency&#039;s national effort to assess the management of coal combustion residuals (CCR or coal ash), EPA released the final contractor reports assessing the structural integrity of impoundments and similar management units containing CCR at coal fired power plants. A list of those reports and links to them can be found in the document below.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-296931&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ccr_impoundmnt_asesmnt_rprts.pdf&quot; type=&quot;application/pdf; length=658295&quot; class=&quot;file-link&quot;&gt;Coal Combustion Residuals Impoundment Assessment Reports  (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 658 K, 
+  June 24, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 24 Jun 2016 19:47:10 +0000</pubDate>
+ <dc:creator>eocampo</dc:creator>
+ <guid isPermaLink="false">153249 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>U.S. State of Kansas Solid Waste Management Plan Approval</title>
+    <link>https://www.epa.gov/coalash/us-state-kansas-solid-waste-management-plan-approval</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Additional Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;div class=&quot;pane-content&quot;&gt;
+			&lt;ul&gt;&lt;li&gt;The administrative record will be available through &lt;a href=&quot;http://www.regulations.gov&quot;&gt;Regulations.gov&lt;/a&gt; under Docket Number &lt;a href=&quot;http://www.regulations.gov/#!docketDetail;D=EPA-HQ-RCRA-2015-0698&quot;&gt;EPA-HQ-RCRA-2015-0698&lt;/a&gt;.&lt;/li&gt;
+			&lt;/ul&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On October 19, 2015, EPA conditionally approved the Kansas solid waste management plan (SWMP) that incorporates by reference the federal coal combustion residual (CCR) regulations in title 40 of the Code of Federal Regulations (CFR) in Part 257. This approval is conditioned on Kansas completing a process to adopt the federal minimum CCR requirements. Until this process is completed, the State will use its existing laws, regulations, and permitting authority to implement the requirements governing the disposal of CCR.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-214665&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/swmp_approval_letter_kansas_10_15_2015.pdf&quot; type=&quot;application/pdf; length=104060&quot; class=&quot;file-link&quot;&gt;Approval (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 104 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-214441&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/ccr_swmp_with_appendices_2015-09-29_0.pdf&quot; type=&quot;application/pdf; length=3034101&quot; class=&quot;file-link&quot;&gt;State of Kansas Coal Combustion Residuals Part 256 Plan (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(127 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-215375&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-10/documents/part_256_evaluation_of_kansas_swmp.pdf&quot; type=&quot;application/pdf; length=606377&quot; class=&quot;file-link&quot;&gt;Part 256 Evaluation of the Kansas Solid Waste Management Plan (SWMP) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 606 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 14 Oct 2015 16:38:55 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">121035 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions about Groundwater Monitoring and Corrective Action and Implementing the Final Rule Regulating the Disposal of Coal Combustion Residuals (CCR)</title>
+    <link>https://www.epa.gov/coalash/frequent-questions-about-groundwater-monitoring-and-corrective-action-and-implementing-final</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;List of all Frequent Questions&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Want to look at all of the final rule implementation questions? &lt;a href=&quot;/coalash/list-frequent-questions-about-implementing-final-rule-regulating-disposal-coal-combustion&quot;&gt;Check out the complete list&lt;/a&gt;. &lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;EPA has received many questions about implementing the &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;final CCR disposal rule&lt;/a&gt;. The Agency is developing responses to these questions and will be posting them to this Web page periodically.&lt;/p&gt;
+
+&lt;p&gt;The questions and responses below fall under the category of groundwater monitoring and corrective action:&lt;/p&gt;
+
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;The final rule&lt;/ins&gt; requires that if a constituent of concern is detected above a statistically significant level, that the groundwater protection standard must be set at either the Maximum Contaminant Level (MCL) or at the background concentration. Whereas, the proposed rule, like the municipal solid waste program, would have allowed the owner or opera tor to establish an alternative groundwater protection standard based on site­ specific conditions. Has EPA considered whether this will impact future and on-going corrective action at coal ash disposal units in states that utilize risk-based decision making?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;If the Safe Drinking Water Act MCL or background-based cleanup levels are lower than a risk-based level the state has used, the federal regulations would require that the corrective action include treating the groundwater in the uppermost aquifer to a level lower than the risk-based level. If, however, the MCL or background-based cleanup levels in the federal rules are higher than a risk-based level the state has used, the state regulations would require that the corrective action achieve a level lower than the federal levels. In some cases, it is possible that the corrective action provisions in the final rule would require a more rigorous treatment than required under state law, and in other cases, less rigorous treatment than required under state law. The potential number of these scenarios occurring at corrective actions related to coal ash disposal units is unknown.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;If a state decides &lt;/ins&gt;that there is no human receptor for the groundwater and that a cleanup standard above the MCL or background is appropriate, would that meet the minimum requirements of the rule?&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;
+			&lt;p&gt;The rule requires that the groundwater protection standard (either the MCL or the background level, whichever is higher) must be met by the chosen corrective action remedy, in order to preserve the groundwater as a natural resource and for its potential future use as a source of drinking water.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;When new implementation questions are posted, the Agency will identify them with an &lt;ins data-date=&quot;2015,7,6&quot;&gt;icon&lt;/ins&gt; located next to the question. The complete list of questions and responses will also be updated each time new questions are posted.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 20 Aug 2015 21:18:48 +0000</pubDate>
+ <dc:creator>carcari</dc:creator>
+ <guid isPermaLink="false">107919 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions about Location Restrictions and Implementing the Final Rule Regulating the Disposal of Coal Combustion Residuals (CCR)</title>
+    <link>https://www.epa.gov/coalash/frequent-questions-about-location-restrictions-and-implementing-final-rule-regulating</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;List of all Frequent Questions&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Want to look at all of the final rule implementation questions? &lt;a href=&quot;/coalash/list-frequent-questions-about-implementing-final-rule-regulating-disposal-coal-combustion&quot;&gt;Check out the complete list&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;EPA has received many questions about implementing the &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;final CCR disposal rule&lt;/a&gt;. The Agency is developing responses to these questions and will be posting them to this Web page periodically.&lt;/p&gt;
+
+&lt;p&gt;The questions and responses below fall under the category of location restrictions:&lt;/p&gt;
+&lt;div class=&quot;clear-both&quot;&gt; &lt;/div&gt;
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;When EPA proposed&lt;/ins&gt; the application of location restrictions to existing surface impoundments, you acknowledged that these location restrictions would force a majority of the current impoundments to close. Do you have an estimate of how many will close?&lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;The final CCR rule contains five location restrictions that apply to new CCR units and selectively to existing CCR units. These restrictions include: (1) disposal within five feet of the uppermost aquifer; (2) disposal in wetlands; (3) disposal in unstable areas, including karst areas; (4) disposal near active fault zones; and (5) disposal in seismic impact zones. In addition, the current subtitle D regulation (40 CFR 257.3-1) that applied to these units before the final rule was issued already restricts facilities that dispose of wastes in floodplains. For fault areas, seismic impact zones, and unstable areas (using karst areas as a proxy) the EPA&#039;s Regulatory Impact Analysis (RIA) projected that 51 of the 1045 waste management units would be subject to the location restrictions resulting in an estimated 26 waste management units closing and safely relocating off-site. The remaining waste management units are expected to make certifications either that they are not subject to these three location restrictions or that their continued operation in these areas is protective.&lt;/p&gt;
+
+			&lt;p&gt;EPA did not have sufficient data to evaluate the number of waste management units subject to the restrictions against disposal units located within five feet of the uppermost aquifer or in wetlands. However, in contrast to the proposed rule, the final rule allows owners or operators to certify that a waste management unit meets an alternate performance standard, even if it cannot meet the requirement in the proposed rule to demonstrate that it is five feet above the water table. Similarly, EPA notes that under the wetlands criterion, owners or operators have the option of purchasing offsets instead of closing existing units. Both the depth to groundwater and wetland location standards offer protective workable alternatives that facilities will have the option to consider. For these reasons, EPA does not believe that many (if any) facilities will close their waste management units in response to the location restrictions. &lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;What sort of &lt;/ins&gt;reliability issues could be imposed on the electric grid as a result of the CCR final rule?&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;
+			&lt;p&gt;Electricity market impacts presented in Appendix X of EPA’s Regulatory Impact Analysis(RIA) were conducted using the Integrated Planning Model (IPM) and include the location restriction costs of the rule as discussed above. The results of this analysis show that there will be a negligible impact to the electric market.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;When new implementation questions are posted, the Agency will identify them with a &lt;ins data-date=&quot;2015,7,6&quot;&gt;icon&lt;/ins&gt; located next to the question. The complete list of these questions and responses will also be updated each time new questions are posted.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 20 Aug 2015 20:34:18 +0000</pubDate>
+ <dc:creator>tbuhrman</dc:creator>
+ <guid isPermaLink="false">107909 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Miscellaneous Frequent Questions about Implementing the Final Rule Regulating the Disposal of Coal Combustion Residuals (CCR)</title>
+    <link>https://www.epa.gov/coalash/miscellaneous-frequent-questions-about-implementing-final-rule-regulating-disposal-coal</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;List of All Frequent Questions&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;Want to look at all of the final rule implementation questions? &lt;a href=&quot;/coalash/list-frequent-questions-about-implementing-final-rule-regulating-disposal-coal-combustion&quot;&gt;Check out the complete list&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;EPA has received many questions about implementing the &lt;a href=&quot;/coalash/coal-ash-rule&quot;&gt;final CCR disposal rule&lt;/a&gt;. The Agency is developing responses to these questions and will be posting them to this Web page periodically.&lt;/p&gt;
+
+&lt;p&gt;The questions and responses below fall under the category of miscellaneous:&lt;/p&gt;
+&lt;div class=&quot;clear-both&quot;&gt; &lt;/div&gt;
+&lt;ul class=&quot;accordion&quot;&gt;&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-1&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;EPA is required&lt;/ins&gt;, under the Bevill Amendment, to consider specific factors in determining whether to regulate coal ash under subtitle C of RCRA: (1) the source and volumes of material generated per year; (2) present disposal and utilization practices; (3) potential danger, if any, to human health and the environment from the disposal and reuse of such materials; (4) documented cases in which danger to human health or the environment from surface run-off or leachate has been proved; (5) alternatives to current disposal methods; (6) the costs of such alternatives; (7) the impact of those alternatives on the use of coal and other natural resources; and (8) the current and potential utilization of such materials (42 U.S.C. § 6982( n)). EPA revisited these eight study factors in the coal ash final rule. What process did EPA use to gather this information and what did EPA find? &lt;/a&gt;
+
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-1&quot;&gt;
+			&lt;p&gt;In the proposed rule, EPA re-examined the eight Bevill study factors in section 8002(n) of RCRA, and solicited comment on its analysis. As discussed in both the proposed and final rules, the key elements (i.e., factors) of the analysis were EPA&#039;s risk assessment, the assessment of state programs and EPA&#039;s compilation of CCR damage cases. In response to the proposed rule, the Agency received significant comments on the various elements of the analysis and consequently published several Notices of Data Availability (NODAs) presenting new data and possible revisions to the analysis.&lt;/p&gt;
+
+			&lt;p&gt;However, as discussed at length in the preamble to the final rule, critical information necessary to a final Regulatory Determination is still lacking on a number of key technical and policy questions. This includes information needed to quantify the risks of CCR disposal, and the potential impacts of recent Agency regulations on the chemical composition of CCR. The Agency also needs further information on the adequacy of the state programs.&lt;/p&gt;
+
+			&lt;p&gt;In the absence of this information, EPA is unable to reach a conclusion on the issue that is central to a Bevill Determination: whether the risks presented by the management of CCR waste streams can only be adequately mitigated through regulation under RCRA subtitle C. Therefore, EPA deferred a final Regulatory Determination for these wastes. It is worth noting however that CCRs, both those disposed and beneficially used, remain Bevill exempt from RCRA subtitle C regulation and will remain so until EPA changes this determination. EPA will provide the public with an additional opportunity to comment on any proposed Regulatory Determination prior to issuing a final Regulatory Determination. &lt;a href=&quot;http://www.gpo.gov/fdsys/pkg/FR-2015-04-17/pdf/2015-00257.pdf&quot;&gt;See 80 FR at 21327, April 17, 2015&lt;/a&gt;.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-2&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;What factors weighed &lt;/ins&gt;most heavily on EPA&#039;s decision? The final rule identified technical uncertainties that cannot be resolved, including the extent to which risks are managed sufficiently under the final rule.&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-2&quot;&gt;
+			&lt;p&gt;Of the eight statutory Bevill study factors assessed, three weighed the most heavily in the Agency&#039;s decision to defer a final Regulatory Determination:  (1) the extent of the risks posed by mismanagement of CCR; (2) the adequacy of state programs to ensure proper management of CCR; and (3) the extent and nature of damage cases.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-3&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;What information will&lt;/ins&gt; EPA gather over the next several years to resolve these technical uncertainties?&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-3&quot;&gt;
+			&lt;p&gt;Over the next several years, electric utilities will be moving forward in the implementation of this rule as well as the Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category (the ELG rule) and the Carbon Pollution Emission Guidelines for Existing Stationary Sources; Electric Utility Generating Units Clean Power Plant rules.&lt;/p&gt;
+
+			&lt;p&gt;Until these regulatory requirements are implemented, it is premature to define a path forward for resolving the technical uncertainties identified in the final rule. A reasonable course, however, would be to follow the groundwater monitoring data and other information being posted to companies&#039; websites to see what facilities, CCR landfills, and CCR surface impoundments continue operating, whether liners are leaking, and what concentration of contaminants we are observing. Any information that the EPA gathers in the future will be announced to the public and offered for public comment.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;accordion-title&quot; href=&quot;#pane-4&quot; title=&quot;Click to expand description&quot;&gt;&lt;ins data-date=&quot;2015,8,24&quot;&gt;The final rule identified&lt;/ins&gt; the possibility that concentrations of hazardous contaminants in coal ash may rise in the near future. Why might that happen? What actions might be necessary if that happens?&lt;/a&gt;
+		&lt;div class=&quot;accordion-pane&quot; id=&quot;pane-4&quot;&gt;
+			&lt;p&gt;In the final rule, EPA specifically noted that there were uncertainties regarding the evolving characterization and composition of CCR due to electric utility upgrades and retrofits of multi-pollutant control technologies and raised concern that these advances in human health and environmental protection could present new or otherwise unforeseen changes in CCR. Therefore, if the Agency determines a t some future time that significant changes have occurred in the characterization or composition of CCR as a result of these increased air pollution control efforts, EPA will then make a determination on how state programs are addressing those risks and whether additional risk analyses are warranted. This determination may be strongly influenced by the monitoring of facility groundwater data to determine if the controls the Agency has put in place as a result of this rule are providing the necessary environmental protections. Any action that the Agency may consider in the future will be announced to the public and offered for public comment.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;When new implementation questions are posted, the Agency will identify them with an &lt;ins data-date=&quot;2015,7,6&quot;&gt;icon&lt;/ins&gt; located next to the question. The complete list of these questions and responses will also be updated each time new questions are posted.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 20 Aug 2015 20:12:52 +0000</pubDate>
+ <dc:creator>tbuhrman</dc:creator>
+ <guid isPermaLink="false">107905 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:03:49, expires @ 2017-01-26 16:03:49, lifetime 12 hours -->

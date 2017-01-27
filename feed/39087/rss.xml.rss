@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/39087/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Accessibility</title>
+    <link>https://www.epa.gov/feed/39087/rss.xml</link>
+    <description>Updated Accessibility content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/39087/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Section 508 Resources</title>
+    <link>https://www.epa.gov/accessibility/section-508-resources</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.section508.gov&quot;&gt;Section 508.gov&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards&quot;&gt;United States Access Board&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.section508.gov/acquisition-regulations&quot;&gt;Federal Acquisition Regulations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 16 May 2014 13:23:06 +0000</pubDate>
+ <dc:creator>apage01</dc:creator>
+ <guid isPermaLink="false">52431 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA Policy and Guidance</title>
+    <link>https://www.epa.gov/accessibility/epa-policy-and-guidance</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/irmpoli8/policy-standards-procedures-and-guidelines-accessible-electronic-and-information-technology&quot;&gt;EPA CIO Policy 2130.1 Accessible Electronic and Information Technology&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/accessibility/accessible-electronic-and-information-technology-standards-procedures-and-guidance&quot;&gt;EPA Accessible Electronic and Information Technology: Standards, Procedures and Guidance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 16 May 2014 13:21:53 +0000</pubDate>
+ <dc:creator>apage01</dc:creator>
+ <guid isPermaLink="false">52429 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Section 508 Standards Resources</title>
+    <link>https://www.epa.gov/accessibility/section-508-standards-resources</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/accessibility/section-508-standards#sw&quot;&gt;Software Applications &amp;amp; Operating Systems&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/accessibility/section-508-standards#web&quot;&gt;Web-based Intranet and Internet Information and Applications&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/accessibility/section-508-standards&quot;&gt;All Section 508 Standards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 15 May 2014 20:03:40 +0000</pubDate>
+ <dc:creator>apage01</dc:creator>
+ <guid isPermaLink="false">52409 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Learn About Section 508</title>
+    <link>https://www.epa.gov/accessibility/learn-about-section-508</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/accessibility/epa-accessibility-statement&quot;&gt;EPA Accessibility Statement&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/accessibility/what-section-508&quot;&gt;What is Section 508?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/accessibility/frequent-questions-about-section-508&quot;&gt;Frequent Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 15 May 2014 20:01:36 +0000</pubDate>
+ <dc:creator>tbuhrman</dc:creator>
+ <guid isPermaLink="false">52407 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>VPAT - Voluntary Product Accessibility Template</title>
+    <link>https://www.epa.gov/accessibility/vpat-voluntary-product-accessibility-template</link>
+    <description>&lt;p&gt;This template is intended to assist federal contracting officials and other buyers in making preliminary assessments regarding the availability of commercial “Electronic and Information Technology” products and services with features that support accessibility. Version 3.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-46285&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-11/documents/vpat.pdf&quot; type=&quot;application/pdf; length=99408&quot; class=&quot;file-link&quot;&gt;VPAT - Voluntary Product Accessibility Template (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 99 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 08 Nov 2013 14:09:42 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">42377 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions about Section 508</title>
+    <link>https://www.epa.gov/accessibility/frequent-questions-about-section-508</link>
+    <description>&lt;p&gt;&lt;strong&gt;What is Section 508?&lt;/strong&gt;&lt;br /&gt;
+	Section 508 of the Rehabilitation Act (29 U.S.C. § 794d) requires federal agencies to develop, procure, maintain or use electronic and information technology (EIT) that is accessible to people with disabilities – regardless of whether or not they work for the federal government. The U.S. Access Board establishes the Section 508 standards in order to implement the law.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.section508.gov&quot;&gt;Section508.gov&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards&quot;&gt;US Access Board&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.section508.gov/acquisition-regulations&quot;&gt;Federal Acquisition Regulations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Is Section 508 the same as Reasonable Accommodation?&lt;/strong&gt;&lt;br /&gt;
+	Section 508 and Reasonable Accommodation (Section 501) are often confused with each other.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Section 508 is about the EIT – the equipment and the tools that people use to access information or to do their jobs.&lt;/li&gt;
+	&lt;li&gt;Reasonable Accommodation is about the individual and what he/she needs because of his/her disability. Reasonable Accommodation removes workplace barriers for individuals with disabilities.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What is EIT? &lt;/strong&gt;&lt;br /&gt;
+	Electronic and Information Technology (EIT) is any equipment or system that EPA uses to create, convert, duplicate or access information and data.&lt;/p&gt;
+
+&lt;p&gt;Examples of EIT include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Telephones, smart phones and mobile devices&lt;/li&gt;
+	&lt;li&gt;Televisions, DVD players and videotaped productions&lt;/li&gt;
+	&lt;li&gt;Internet and Intranet websites&lt;/li&gt;
+	&lt;li&gt;PDF documents&lt;/li&gt;
+	&lt;li&gt;Content on DVDs and CDs&lt;/li&gt;
+	&lt;li&gt;On-line training&lt;/li&gt;
+	&lt;li&gt;Webinars and teleconferencing&lt;/li&gt;
+	&lt;li&gt;Technical support call centers&lt;/li&gt;
+	&lt;li&gt;Remote access websites and tools&lt;/li&gt;
+	&lt;li&gt;Tablet, laptop and desktop computers&lt;/li&gt;
+	&lt;li&gt;Software and operating systems&lt;/li&gt;
+	&lt;li&gt;User guides for software and tools&lt;/li&gt;
+	&lt;li&gt;Copiers, printers and fax machines&lt;/li&gt;
+	&lt;li&gt;Calculators&lt;/li&gt;
+	&lt;li&gt;Lab equipment&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Why does EIT have to be accessible? &lt;/strong&gt;&lt;br /&gt;
+	Some people who access EPA&#039;s information and resources may have disabilities. EPA has employees with disabilities and any new employees could potentially have disabilities. A person can become disabled at any time either temporarily or permanently. EPA makes its EIT accessible so everybody can access EPA information, because it is the right thing to do, and because it is the law.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I make EIT Section 508 compliant?&lt;/strong&gt;&lt;br /&gt;
+	When you &lt;strong&gt;develop, procure, maintain or use&lt;/strong&gt; EIT, &quot;Think 508 first!&quot;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Determine if your product or service is EIT.&lt;/li&gt;
+	&lt;li&gt;If it is EIT, Section 508 applies.&lt;/li&gt;
+	&lt;li&gt;Decide what standards may be applicable.&lt;/li&gt;
+	&lt;li&gt;Write specific 508 requirements in contracts and IT workplans.&lt;/li&gt;
+	&lt;li&gt;Test and verify compliance with 508 standards before accepting deliverables, purchasing products and services, or launching websites, applications or trainings.&lt;/li&gt;
+	&lt;li&gt;Maintain a dialogue with developers, contractors and project teams, throughout the acquisition and life cycle process.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;I have more Section 508 questions&lt;/strong&gt;&lt;br /&gt;
+	General Services Administration (GSA) maintains additional FAQs and resources that provide a wealth of information about Section 508. Please check out:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://section508.gov/content/help-and-faq&quot;&gt;GSA’s Section 508 FAQs and Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you have other EPA-related Section 508 questions, &lt;a href=&quot;/accessibility/forms/contact-us-about-section-508-accessibility&quot;&gt;contact the EPA Section 508 Coordinators&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Fri, 27 Sep 2013 19:21:54 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">41173 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Life Cycle Project Plan Outline: Web Sites and Web-based Applications</title>
+    <link>https://www.epa.gov/accessibility/life-cycle-project-plan-outline-web-sites-and-web-based-applications</link>
+    <description>&lt;p&gt;Tool to help with planning and checking for 508 compliance on web sites and web based applications.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-44093&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-09/documents/life_cycle_project_plan_outline.pdf&quot; type=&quot;application/pdf; length=177116&quot; class=&quot;file-link&quot;&gt;Life Cycle Project Plan Outline: Web Sites and Web-based Applications (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 177 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 27 Sep 2013 19:10:25 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">41171 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Environmental Protection Agency EIT Procurement Checklist for Section 508</title>
+    <link>https://www.epa.gov/accessibility/environmental-protection-agency-eit-procurement-checklist-section-508</link>
+    <description>&lt;p&gt;Checklist to assist in Electronic Information Technology section 508 compliance.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-44065&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-09/documents/eit-procurement-checklist.pdf&quot; type=&quot;application/pdf; length=89547&quot; class=&quot;file-link&quot;&gt;Environmental Protection Agency EIT Procurement Checklist for Section 508 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 90 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 27 Sep 2013 17:45:03 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">41161 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Environmental Protection Agency EIT Procurement Checklist for Section 508 Instructions</title>
+    <link>https://www.epa.gov/accessibility/environmental-protection-agency-eit-procurement-checklist-section-508-instructions</link>
+    <description>&lt;p&gt;Instructions to accompany the Environmental Protection Agency EIT Procurement Checklist for Section 508.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-44039&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2013-09/documents/eit-checklist-instructions.pdf&quot; type=&quot;application/pdf; length=118553&quot; class=&quot;file-link&quot;&gt;Environmental Protection Agency EIT Procurement Checklist for Section 508 Instructions (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 119 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 26 Sep 2013 21:17:13 +0000</pubDate>
+ <dc:creator>ashahan</dc:creator>
+ <guid isPermaLink="false">41151 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 05:07:38, expires @ 2017-01-26 17:07:38, lifetime 12 hours -->

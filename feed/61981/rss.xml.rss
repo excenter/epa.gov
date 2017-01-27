@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/61981/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EJSCREEN: Environmental Justice Screening and Mapping Tool</title>
+    <link>https://www.epa.gov/feed/61981/rss.xml</link>
+    <description>Updated EJSCREEN: Environmental Justice Screening and Mapping Tool content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/61981/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EJSCREEN Videos</title>
+    <link>https://www.epa.gov/ejscreen/ejscreen-videos</link>
+    <description>&lt;div&gt;
+	&lt;div&gt;
+		&lt;h3&gt;EJSCREEN Overview&lt;/h3&gt;
+		&lt;iframe width=&quot;400&quot; height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/pU_W_xJh3WE&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+	&lt;h3&gt;EJSCREEN Uses&lt;/h3&gt;
+	&lt;iframe width=&quot;400&quot; height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/NOMB-6P3ZBA&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+&lt;div&gt;
+	&lt;h3&gt;New Features for EJSCREEN 2016&lt;/h3&gt;
+	&lt;iframe width=&quot;400&quot; height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/nx2oarwDetQ&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;div&gt;
+	&lt;h3&gt;How to Interpret an EJSCREEN Standard Report&lt;/h3&gt;
+	&lt;iframe width=&quot;400&quot; height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/eZ8-9Mx8UgI&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+</description>
+     <pubDate>Mon, 15 Aug 2016 18:31:25 +0000</pubDate>
+ <dc:creator>kolp</dc:creator>
+ <guid isPermaLink="false">157559 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EPA 4-Tool Comparison Chart</title>
+    <link>https://www.epa.gov/ejscreen/epa-4-tool-comparison-chart</link>
+    <description>&lt;table summary=&quot;Chart summarizing different tools and their analysis of maps, geospatial tools, community comparison, and screening indices as well as the data results.&quot;&gt;&lt;caption&gt;EPA 4-Tool Comparison Chart&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;green&quot; scope=&quot;col&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot; scope=&quot;col&quot;&gt;&lt;a href=&quot;/ejscreen&quot;&gt;EJSCREEN&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;green&quot; scope=&quot;col&quot;&gt;&lt;a href=&quot;/national-air-toxics-assessment/2011-nata-map&quot;&gt;NATA&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;green&quot; scope=&quot;col&quot;&gt;&lt;a href=&quot;/c-ferst&quot;&gt;C-FERST&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;green&quot; scope=&quot;col&quot;&gt;&lt;a href=&quot;/www.epa.gov/enviroatlas&quot;&gt;EnviroAtlas&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Major Focus&lt;/td&gt;
+			&lt;td&gt;National environmental justice screening tool that combines demographic information and environmental data to highlight potential places for further review.&lt;/td&gt;
+			&lt;td&gt;National screening evaluation of inhalation air toxics risks.&lt;/td&gt;
+			&lt;td&gt;Community mapping with emphasis on environmental, health and socioeconomic data and information resources.&lt;/td&gt;
+			&lt;td&gt;Suite of interactive tools and resources on ecosystem services – the benefits people receive from nature.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Output&lt;/td&gt;
+			&lt;td&gt;Interactive map, census tract resolution of air toxics emissions, estimates of cancer and noncancer risks&lt;/td&gt;
+			&lt;td&gt;Issue profiles, maps, community comparison tables, links to additional information and potential solutions  &lt;/td&gt;
+			&lt;td&gt;Interactive map, eco-health browser, GIS toolboxes, guides and educational materials, fact sheets&lt;/td&gt;
+			&lt;td&gt;Demographic maps, community comparisons, environmental justice indexes.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;green&quot;&gt;Features&lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Maps&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Geospatial Analysis Tools&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Community Comparison Tables&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Screening Indices&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;green&quot;&gt;Data&lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;EPA Regulated Facilty Location&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ecosystem Services&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Air Toxics&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PM and Ozone&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water Quality&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Demographics&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Health-Based Output&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;green&quot;&gt;Functionality&lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+			&lt;td class=&quot;green&quot;&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Add Connecting Technology (Web Services)&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ability to Add Own Data&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ability to Download Data&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+			&lt;td&gt;Yes&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;h2&gt;FAQs:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;What are key differences between the screening tools that EPA is developing?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The focus of the EJSCREEN screening tool is to assist stakeholders in making informed decisions about potential environmental justice issues by identifying the locations of potentially overburdened and vulnerable populations. EJSCREEN output includes environmental justice indexes that combine demographic variables with a single environmental indicator. The index provides a comparison between areas. The EJSCREEN tool can be found at &lt;a href=&quot;/ejscreen&quot;&gt;https://www2.epa.gov/ejscreen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;NATA is a national assessment that estimates cancer and noncancer risks from inhalation of air toxics. NATA is intended as a screening tool to help users prioritize pollutants, types of emission sources, and locations of interest for further study. NATA is also incorporated into other Agency screening tools, including EJSCREEN and C-FERST/T-FERST. The NATA tool can be found at &lt;a href=&quot;http://www3.epa.gov/airtoxics/natamain/&quot;&gt;http://www3.epa.gov/airtoxics/natamain/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The focus of C-FERST is to provide information and community mapping through an assessment tool that is designed to help assess screening-level exposures and risks. To provide guidance and information that helps inform in decision making with communities, CFERST provides access to resources that can be used to help communities learn more about their environmental issues and to develop solutions. The C-FERST tool can be found at &lt;a href=&quot;/healthresearch/community-focused-exposure-and-risk-screening-tool-c-ferst&quot;&gt;http://www2.epa.gov/healthresearch/community-focused-exposure-and-risk-screening-tool-c-ferst&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The focus of EnviroAtlas is to provide data, informational resources, and tools to improve the broader understanding of ecosystem services, or ‘nature’s benefits’. EnviroAtlas includes an interactive mapping application that provides over 300 maps, including demographics, which users can explore and use in education, research, and the decision-making process. EnviroAtlas provides maps for the entire nation, as well as more fine-scale maps for use at the community level in selected areas. EnviroAtlas can be found at &lt;a href=&quot;/EnviroAtlas&quot;&gt;www.epa.gov/EnviroAtlas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I know which tool to use?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The screening tool you select depends on your main area of interest.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Those interested in how the environmental quality differs by demographics will want to start with EJSCREEN.&lt;/li&gt;
+	&lt;li&gt;Those primarily interested in inhalation risks and pollutant-specific assessment may find NATA to be the best tool.&lt;/li&gt;
+	&lt;li&gt;For communities interested in their specific area with an interest in exploring community strategies to address a specific issues (e.g., brownfield development), CFERST is a good place to start.&lt;/li&gt;
+	&lt;li&gt;Those interested in the benefits humans receive from nature, how a decision may impact their availability, and potential effects on human health and well-being might use EnviroAtlas.&lt;/li&gt;
+	&lt;li&gt;These tools can be complimentary. Users could identify communities of interest with EJSCREEN and then use CFERST to take a closer look at that community, using CFERST guides for community assessments and potential solutions. EnviroAtlas provides a broader context on both topic and scale.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 10 Feb 2016 18:25:20 +0000</pubDate>
+ <dc:creator>bcurry</dc:creator>
+ <guid isPermaLink="false">134777 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Preguntas y respuestas para informar al público sobre EJSCREEN</title>
+    <link>https://www.epa.gov/ejscreen/preguntas-y-respuestas-para-informar-al-publico-sobre-ejscreen</link>
+    <description>&lt;p&gt;Este documento contiene preguntas y respuestas acerca de EJSCREEN&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-292107&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/final_spanish_ejscreen_faq_5-17-16.pdf&quot; type=&quot;application/pdf; length=266304&quot; class=&quot;file-link&quot;&gt;Preguntas y respuestas para informar al público sobre EJSCREEN (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 266 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 09 Jun 2015 16:46:33 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">88365 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>EJSCREEN Hoja informativa</title>
+    <link>https://www.epa.gov/ejscreen/ejscreen-hoja-informativa</link>
+    <description>&lt;p&gt;Esta hoja informativa ofrece información general acerca de EJSCREEN.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-298927&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/ejscreen_fact_sheet_spanish.pdf&quot; type=&quot;application/pdf; length=2437121&quot; class=&quot;file-link&quot;&gt;EJSCREEN Hoja Informativa (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 09 Jun 2015 16:28:06 +0000</pubDate>
+ <dc:creator>sarah_riggs</dc:creator>
+ <guid isPermaLink="false">88359 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Glossary of EJSCREEN Terms</title>
+    <link>https://www.epa.gov/ejscreen/glossary-ejscreen-terms</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#category-demographics&quot;&gt;Demographic Indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#category-enviro&quot;&gt;Environmental Indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#category-primary&quot;&gt;EJ Indexes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2 id=&quot;category-demographics&quot;&gt;Demographic Indicators&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Percent minority&lt;/strong&gt;&lt;br /&gt;
+		Percent minority as a fraction of population, where minority is defined as all but Non-Hispanic White Alone. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Percent low-income&lt;/strong&gt;&lt;br /&gt;
+		Percent of individuals whose ratio of household income to poverty level in the past 12 months was less than 2 (as a fraction of individuals for whom ratio was determined). Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Percent less than high school education&lt;/strong&gt;&lt;br /&gt;
+		Percent of individuals age 25 and over with less than high school degree. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Percent in linguistic isolation&lt;/strong&gt;&lt;br /&gt;
+		Percent of households in which no one age 14 and over speaks English &quot;very well&quot; or speaks English only (as a fraction of households). Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Percent over age 64&lt;/strong&gt;&lt;br /&gt;
+		Percent of individuals over age 64 as a fraction of the population. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Percent under age 5&lt;/strong&gt;&lt;br /&gt;
+		Percent of individuals under age 5 as a fraction of population. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Demographic Index&lt;/strong&gt;&lt;br /&gt;
+		The Demographic Index in EJSCREEN is a combination of percent low-income and percent minority, the two demographic factors that were explicitly named in Executive Order 12898 on Environmental Justice. For each Census block group, these two numbers are simply averaged together. The formula is as follows: Demographic Index = (% minority + % low-income) / 2. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;category-enviro&quot;&gt;Environmental Indicators&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;Air Toxics Cancer Risk (NATA Cancer Risk)&lt;/strong&gt;&lt;br /&gt;
+		Lifetime cancer risk from inhalation of air toxics, as risk per lifetime per million people. Source: EPA 2011 National Air Toxics Assessment&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Air Toxics Respiratory Hazard Index (NATA Respiratory HI)&lt;/strong&gt;&lt;br /&gt;
+		Air toxics respiratory hazard index (the sum of hazard indices for those air toxics with reference concentrations based on respiratory endpoints, where each hazard index is the ratio of exposure concentration in the air to the health-based reference concentration set by EPA). EPA 2011 National Air Toxics Assessments&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Diesel Particulate Matter level in air (NATA Diesel PM)&lt;/strong&gt;&lt;br /&gt;
+		Diesel particulate matter level in air in micrograms per cubic meter (µg/m3). Source: EPA 2011 National Air Toxics Assessments&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Ozone level in air&lt;/strong&gt;&lt;br /&gt;
+		Ozone summer seasonal avg. of daily maximum 8-hour concentration in air in parts per billion, 2012. Source: EPA Office of Air and Radiation&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;PM2.5 level in air&lt;/strong&gt;&lt;br /&gt;
+		Particulate matter (PM2.5) levels in air, micrograms per cubic meter (µg/m3) annual average, 2012. Source: EPA Office of Air and Radiation&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Traffic Proximity and Volume&lt;/strong&gt;&lt;br /&gt;
+		Count of vehicles per day (average annual daily traffic) at major roads within 500 meters (or nearest one beyond 500 m), divided by distance in meters. Calculated from U.S. Department of Transportation National Transportation Atlas Database, Highway Performance Monitoring System, 2014, retrieved 4/2015.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Lead Paint Indicator (% pre-1960 housing)&lt;/strong&gt;&lt;br /&gt;
+		Percent of housing units built before 1960, as indicator of potential exposure to lead paint. Calculated from the Census Bureau&#039;s American Community Survey 2010-2014.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Proximity to Major Direct Dischargers to Water&lt;/strong&gt;&lt;br /&gt;
+		Count of National Pollution Elimination Discharge System (NPDES) major direct water discharger facilities within 5 km (or nearest one beyond 5 km), each divided by distance in km. Calculated from EPA PCS/ICIS database, retrieved 12/2015.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Proximity National Priority List Sites (NPL)&lt;/strong&gt;&lt;br /&gt;
+		Count of proposed and listed NPL sites within 5 km (or nearest one beyond 5 km), each divided by distance in km. Count excludes deleted sites. Source: Calculated from EPA CERCLIS database, retrieved 11/2015.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Proximity to Risk Management Plan (RMP) Facilities&lt;/strong&gt;&lt;br /&gt;
+		Count of RMP (potential chemical accident management plan) facilities within 5 km (or nearest one beyond 5 km), each divided by distance in km. Calculated from EPA RMP database, retrieved 11/2015.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Proximity to Treatment Storage and Disposal Facilities (TSDF)&lt;/strong&gt;&lt;br /&gt;
+		Count of TSDF (hazardous waste management facilities) within 5 km (or nearest one beyond 5 km), each divided by distance in km. Calculated from EPA RCRAInfo database, retrieved 11/2015.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2 id=&quot;category-primary&quot;&gt;EJ Indexes&lt;/h2&gt;
+
+&lt;ul class=&quot;roomy&quot;&gt;&lt;li&gt;&lt;strong&gt;EJ Index&lt;/strong&gt;&lt;br /&gt;
+		The EJ index is a number that combines environmental and demographic information for a place. There is an EJ Index for each environmental indicator. The EJ Index highlights which block groups contribute the most toward low-income/ minority residents nationwide having a higher environmental indicator score on average than the rest of the US population. To calculate a single EJ Index for one block group, EJSCREEN multiplies the environmental indicator by demographic information. This demographic information includes percent low-income and percent minority (as the Demographic Index), and total population of the block group. This is the formula for the index:&lt;br /&gt;
+		EJ Index = (Environmental Indicator) X (Demographic Index for Block Group – Demographic Index for US) X (Population Count for Block Group)&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 03 Jun 2015 15:07:20 +0000</pubDate>
+ <dc:creator>kolp</dc:creator>
+ <guid isPermaLink="false">87349 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions about EJSCREEN</title>
+    <link>https://www.epa.gov/ejscreen/frequent-questions-about-ejscreen</link>
+    <description>&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#q1&quot;&gt;What is EJSCREEN?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q2&quot;&gt;What is an EJ Index?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q3&quot;&gt;Why is EPA creating an EJ screening tool?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q4&quot;&gt;How does EPA use EJSCREEN?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q5&quot;&gt;Does EPA use any filters as a part of the screening process?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q6&quot;&gt;What are EPA&#039;s expectations for how and when stakeholders and partners use EJSCREEN?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q7&quot;&gt;Can EJSCREEN be used as the basis for an official EPA decision?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q8&quot;&gt;What were the criteria for including the environmental indicators?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q9&quot;&gt;How Do EJSCREEN Results Compare to Other Datasets?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q10&quot;&gt;Why are some datasets older than others?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q12&quot;&gt;Does the tool account for cumulative or synergistic impacts?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q13&quot;&gt;Why do you only consider proximity to a facility and not emissions or risk from that facility?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q14&quot;&gt;Why do only certain types of sites have a proximity measure?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q15&quot;&gt;Why aren&#039;t Toxic Release Inventory (TRI) sites included?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q16&quot;&gt;How does EJSCREEN measure “low-income” and “minority”?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q17&quot;&gt;Why are NATA results and other air quality data (e.g., for ozone and PM) in EJSCREEN presented at the census tract level and not at a more refined scale?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q18&quot;&gt;Why are cancer risks from diesel PM not included in EJ Screen results?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q19&quot;&gt;Can I add my own data into EJSCREEN? Can I add my own boundaries / locations?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q20&quot;&gt;What other limitations does EJSCREEN have?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q21&quot;&gt;What additional supplementary data is available in EJSCREEN outside of the 11 environmental variables?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q23&quot;&gt;How do I cite EJSCREEN?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q24&quot;&gt;Are people living in areas with a high lead indicator, indicating a higher percentage of pre–1960s housing than other block groups, always at high risk of lead hazards?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#q25&quot;&gt;Why do some locations appear to have high environmental indicators or EJ indexes, especially compared to the state, when there are no facilities in the area?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h3 id=&quot;q1&quot;&gt;What is EJSCREEN?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN is an environmental justice screening and mapping tool that utilizes standard and nationally-consistent data to highlight places that may have higher environmental burdens and vulnerable populations. The tool offers a variety of powerful data and mapping capabilities that enable users to access environmental and demographic information, at high geographic resolution, across the entire country; displayed in color-coded maps and standard data reports. These maps and reports show how a selected location compares to the rest of the nation, EPA region or state. The tool also combines environmental and demographic indicators to create EJ indexes.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q2&quot;&gt;What is an EJ Index?&lt;/h3&gt;
+
+&lt;p&gt;An EJ Index is a way of combining demographic information with a single environmental indicator – such as proximity to traffic – that can help identify communities that may have a high combination of environmental burdens and vulnerable populations.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q3&quot;&gt;Why is EPA creating an EJ screening tool?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN helps EPA meet the intent of Executive Order 12898, &quot;Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations,&quot; to focus federal attention on the environmental and human health conditions of minority and low-income populations with the goal of achieving environmental protection for all communities. An important first step to ensuring environmental justice for all people in this country is to identify the potential areas where people are most vulnerable or likely to be exposed to different types of pollution. For this reason, EPA developed EJSCREEN to help aid in efforts to ensure programs, policies and resources are appropriately inclusive and consider the needs of communities most burdened by pollution.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q4&quot;&gt;How does EPA use EJSCREEN?&lt;/h3&gt;
+
+&lt;p&gt;EPA uses EJSCREEN to identify areas that may have higher environmental burdens and vulnerable populations as the Agency develops programs, policies and activities that may affect communities. A few examples of what EJSCREEN supports across the Agency include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Informing outreach and engagement practices;&lt;/li&gt;
+	&lt;li&gt;As an initial screen for voluntary programs, enhanced outreach in permitting, and prioritizing enforcement work;&lt;/li&gt;
+	&lt;li&gt;Developing retrospective reports of EPA work; and&lt;/li&gt;
+	&lt;li&gt;Enhancing place-based activities.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EJSCREEN is not used by EPA staff for any of the following:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;As a means to identify or label an area as an “EJ community;”&lt;/li&gt;
+	&lt;li&gt;To quantify specific risk values for a selected area; or&lt;/li&gt;
+	&lt;li&gt;As the sole basis for EPA decision-making or making a determination regarding the existence or absence of EJ concerns.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q5&quot;&gt;Does EPA use any filters as a part of the screening process?&lt;/h3&gt;
+
+&lt;p&gt;In past screening experience, EPA has found it helpful to establish a suggested Agency starting point for the purpose of identifying geographic areas that may warrant further consideration, analysis or outreach. The use of an initial filter promotes consistency and provides a pragmatic first step for EPA programs and regions when interpreting screening results. For early applications of EJSCREEN, EPA identified the 80th percentile filter as that initial starting point. As EPA gains further experience and insight into the performance of the tool and its applicability for different uses, program offices and regions may opt to designate starting points that are more inclusive or specifically tailored to meet programmatic needs more effectively. Read the EJSCREEN Technical Documentation for more information on this topic.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q6&quot;&gt;What are EPA&#039;s expectations for how and when stakeholders and partners use EJSCREEN?&lt;/h3&gt;
+
+&lt;p&gt;EPA is sharing EJSCREEN with the public in part to be more transparent about how the Agency consider environmental justice in our work. There is no mandate or guidance expressed or implied that regulatory agencies at the tribal, state or local level should use the tool or its underlying data. EPA will work with all stakeholders interested in using EJSCREEN, and encourages all users of the tool to provide feedback to us about their needs and concerns related to the tool.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q7&quot;&gt;Can EJSCREEN be used as the basis for an official EPA decision?&lt;/h3&gt;
+
+&lt;p&gt;No. Consistent with E.O. 12898, EJSCREEN uses environmental and other data sets to help identify areas that may warrant further consideration, analysis, or outreach and to help ensure that they are not overlooked in making decisions based on human health and environmental considerations. However, EJSCREEN is a pre-decisional tool and is not intended or designed to provide definitive determinations about the presence or absence of EJ concerns in any given location.&lt;/p&gt;
+
+&lt;p&gt;In part, this is because EJSCREEN, like any screening tool, has some significant limitations. For example, because of the need to provide national consistency, EJSCREEN considers a limited number of environmental indicators, and therefore excludes some local, state, regional and national data sets that may be important to understanding the EJ characteristics of a given location. Other limitations are discussed in greater detail in the technical documentation. All such relevant data should be considered when it is applicable and available.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q8&quot;&gt;What were the criteria for including the environmental indicators?&lt;/h3&gt;
+
+&lt;p&gt;The environmental indicators included are those for which there are national, publically-available data at a sufficient geographic resolution. Other types of information, either not available at the appropriate spatial resolution (e.g., radon), or not available nationwide (e.g., local health data) could be overlaid on top of EJSCREEN maps by adding the relevant geospatial data layers.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q9&quot;&gt;How Do EJSCREEN Results Compare to Other Datasets?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN is limited in the types of data it can collect because it is a national-level screening tool, and its outputs should be one part of a screening process which also incorporates local knowledge and data such as might be found in other tools. EJSCREEN results are not meant to replace or supersede the use of other federal, state or local tools or their underlying data. Different tools and datasets deploy different methods and timeframes for collecting data, and thus the results should not be compared. For example, the air quality data in EJSCREEN is national in coverage and relies on one approach to combining monitored and modelled data. Different approaches may vary substantially.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q10&quot;&gt;Why are some datasets older than others?&lt;/h3&gt;
+
+&lt;p&gt;EPA is committed to updating EJSCREEN annually as new datasets for existing EJ indexes becomes available. The process for collecting data from across the country, modelling it, and inserting it into EJSCREEN takes time, and therefore EJSCREEN will never be entirely up-to-date. Also, some datasets, like NATA, are updated less frequently. Any national screening tool will reflect a picture of the air quality of a community that is not entirely accurate. This is an inherent characteristic for a screening tool, and thus is one of the reasons it is not used to make EPA regulatory decisions.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q12&quot;&gt;Does the tool account for cumulative or synergistic impacts?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN is a screening tool that offers a way to compare specific places across 11 different environmental indexes that represent different types of impacts. However, the tool is not designed to take into account quantifiable cumulative or synergistic effects.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q13&quot;&gt;Why do you only consider proximity to a facility and not emissions or risk from that facility?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN does include some risk estimates, for example, the National Air Toxics Assessment cancer risk, but these are aggregated risks from many sources that do not represent risk estimates for individual facilities. EJSCREEN also includes some environmental indicators highlighting potential exposure (e.g., ambient concentrations of PM2.5 and ozone (O3)). EJSCREEN uses distance weighted proximity as a proxy for the potential impact of specific types of facilities. Site-specific risk estimates would require much more data and analysis, beyond what could be reasonably be included in a national screening tool.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q14&quot;&gt;Why do only certain types of sites have a proximity measure?&lt;/h3&gt;
+
+&lt;p&gt;The intent of the proximity measures is to include facilities that are important and not covered in another environmental indicator.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Risk Management Plan (RMP) sites are included because of the potential severe effects of an accidental release of a highly hazardous substance into the air.&lt;/li&gt;
+	&lt;li&gt;Treatment Storage and Disposal Facilities are included because they were the focus of much early EJ research and community action.&lt;/li&gt;
+	&lt;li&gt;EPA National Priorities List (NPL)/ Superfund sites are included because of the concerns associated with being in close proximity to an NPL site.&lt;/li&gt;
+	&lt;li&gt;Major direct water dischargers are included because they are the largest point sources that discharge directly to water bodies.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q15&quot;&gt;Why aren&#039;t Toxic Release Inventory (TRI) sites included?&lt;/h3&gt;
+
+&lt;p&gt;Around 60% of TRI facilities emit hazardous air pollutants and would therefore, in most cases, be included in EJSCREEN’s National-Scale Air Toxics Assessment (NATA) environmental indicators. In addition, there is some further overlap between TRI and RMP facilities.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q16&quot;&gt;How does EJSCREEN measure “low-income” and “minority”?&lt;/h3&gt;
+
+&lt;p&gt;Low-income is defined the number or percent of a block group’s population in households where the household income is less than or equal to twice the federal poverty level. Minority is defined as all but Non-Hispanic White Alone.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q17&quot;&gt;Why are NATA results and other air quality data (e.g., for ozone and PM) in EJSCREEN presented at the census tract level and not at a more refined scale?&lt;/h3&gt;
+
+&lt;p&gt;NATA (National Air Toxics Assessment) modeling results illustrate geographic patterns of exposure and potential health risk from air toxics. These results can then inform efforts to prioritize pollutants and geographic areas of interest or to suggest more refined data collection such as monitoring. Ozone and PM air quality concentrations are derived from both ambient monitoring data and from regional-scale modeling.&lt;/p&gt;
+
+&lt;p&gt;Risk information and PM and ozone concentrations are presented at the census tract level rather than the county level so that patterns of relatively lower and higher levels of risk and concentration data within a county can be seen, rather than one result for an entire county. The predicted risks and air quality concentrations are not suited to pinpointing either specific concentration levels or exact locations where higher risks or concentrations may exist but rather to illustrate broader-scale geographic patterns of air quality. The census block results presented by EJSCREEN site are actually census tract values distributed homogeneously across all census blocks within a census tract.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q18&quot;&gt;Why are cancer risks from diesel PM not included in EJ Screen results?&lt;/h3&gt;
+
+&lt;p&gt;The Diesel PM indicator in EJSCREEN measures concentrations, not cancer risk. Cancer risks from diesel PM are not in EJSCREEN because EPA has not developed a carcinogenic potency for this pollutant. EPA will continue to evaluate the feasibility of quantifying cancer risks from diesel exhaust. However, EPA has concluded that diesel exhaust is among the substances that may pose the greatest risk to the US population.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q19&quot;&gt;Can I add my own data into EJSCREEN? Can I add my own boundaries / locations?&lt;/h3&gt;
+
+&lt;p&gt;Any layer that is available through an online service (i.e. EPA’s GeoPlatform or ArcGIS) can be added. EJSCREEN will only display the added layer; it will not integrate the added information into the calculation of the EJ indexes. For example, if you add a data layer that maps impaired water bodies, EJSCREEN will show this layer in addition to other EJSCREEN data. However, it will not provide quantitative information about the layer you added.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q20&quot;&gt;What other limitations does EJSCREEN have?&lt;/h3&gt;
+
+&lt;p&gt;EJSCREEN is a screening tool for pre-decision use only. It can help identify areas that may warrant additional consideration, analysis, or outreach. This screening tool does not provide data on every environmental impact and demographic indicator that may be relevant to a particular location. EJSCREEN outputs should be supplemented with additional information and local knowledge before taking action to address potential EJ concerns Important caveats and uncertainties apply to this screening-level information, so it is essential to understand the limitations on appropriate interpretations and applications of these factors. Please see EJSCREEN documentation for discussion of these issues before using reports.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q21&quot;&gt;What additional supplementary data is available in EJSCREEN outside of the 11 environmental variables?&lt;/h3&gt;
+
+&lt;p&gt;Outside of the twelve environmental indicators, EJSCREEN provides additional environmental data layers, layers for delineating boundaries, and other data on locations of EPA grant recipients. The tool also provides printed reports from selected areas with a wide variety of data from the 2010 and 2000 Census and 2012 American Communities Survey.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q23&quot;&gt;How do I cite EJSCREEN?&lt;/h3&gt;
+
+&lt;p&gt;If you use information from EJSCREEN, please cite the information as follows:&lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;United States Environmental Protection Agency. 2015. EJSCREEN. Retrieved: Enter Month, Day, Year, from url (the url cited should be the exact url you accessed) or www.epa.gov/ejscreen for a general citation. To cite specific data content, please use the citation contained within the relevant metadata.&lt;/p&gt;
+
+&lt;p&gt;To cite specific EJSCREEN publications (e.g., journal articles), please use the appropriate citation. For the EJSCREEN Technical Documentation, please cite as follows (using the relevant year to specify which version of documentation is being cited):&lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;U.S. Environmental Protection Agency (EPA), 2015. EJSCREEN Technical Documentation.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q24&quot;&gt;Are people living in areas with a high lead indicator, indicating a higher percentage of pre–1960s housing than other block groups, always at high risk of lead hazards?&lt;/h3&gt;
+
+&lt;p&gt;No. The lead paint indicator is based solely on the age of the housing stock in a selected block group and highlights homes built prior to 1960 because lead paint was commonplace during that era. The indicator does not, however, take into account any remediation of lead paint which has occurred through government programs to reduce lead in homes, general home renovations or other factors. For this reason, many areas that include government-assisted housing rank high in the EJSCREEN lead paint indicator when in fact, housing that is government-assisted is, on average, significantly more lead safe than unassisted housing from that era.&lt;/p&gt;
+
+&lt;p&gt;Similarly historic neighborhoods often appear in the top percentile of the lead paint indicator despite the fact that these historic homes may be lead safe as a result of remediation. This example highlights how EJSCREEN should be used for screening purposes only and why it is critical to obtain additional information before identifying a concern.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h3 id=&quot;q25&quot;&gt;Why do some locations appear to have high environmental indicators or EJ indexes, especially compared to the state, when there are no facilities in the area?&lt;/h3&gt;
+
+&lt;p&gt;Because EJSCREEN uses percentiles to compare locations, states with no or a very small number of a given type of facility can have extremely high percentiles in certain environmental indicators and their corresponding EJ indexes. This is due to the way EJSCREEN represents ties which is to report the high end of the range. For example, if an entire state only has a couple of hazardous waste facilities then only the block groups within 50 kilometers of that location will receive proximity scores. Therefore all the other block groups in the state would have proximity scores set at zero and be tied at a percentile such as the 0–97th percentile. As a result, EJSCREEN would report those block groups at the 97th percentile and most of the state would appear in the 95–100th percentile, or red on the map, despite the absence of hazardous waste facilities within 50 kilometers of these block groups. EPA is currently reviewing the underlying calculations, how best to communicate these results, and if it is necessary to make changes to this in future iterations of the tool. This happens most commonly in indicators that have a small number of affected areas such as hazardous waste proximity, superfund proximity and the lead paint indicators. It can also happen with the linguistically isolated demographic indicator.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 11 May 2015 20:41:10 +0000</pubDate>
+ <dc:creator>ahill03</dc:creator>
+ <guid isPermaLink="false">83739 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Technical Documentation for EJSCREEN</title>
+    <link>https://www.epa.gov/ejscreen/technical-documentation-ejscreen</link>
+    <description>&lt;p&gt;This draft documentation will be replaced with the final version in July 2016.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-299015&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/ejscreen_technical_document_20160704_draft.pdf&quot; type=&quot;application/pdf; length=1095209&quot; class=&quot;file-link&quot;&gt;EJSCREEN Technical Documentation DRAFT 2016 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(120 pp, 1 MB, 
+  7/04/2016)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    EJSCREEN Technical Documentation DRAFT 2016  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 04 Nov 2014 16:02:24 +0000</pubDate>
+ <dc:creator>mcorrale</dc:creator>
+ <guid isPermaLink="false">66389 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Overview of Environmental Indicators in EJSCREEN</title>
+    <link>https://www.epa.gov/ejscreen/overview-environmental-indicators-ejscreen</link>
+    <description>&lt;p&gt;&lt;span&gt;EJSCREEN provides 11 environmental indicators:&lt;/span&gt;&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;caption&gt;Summary Table of Environmental Indicators and Data Sources&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Key Medium&lt;/th&gt;
+			&lt;th&gt;Indicator&lt;/th&gt;
+			&lt;th&gt;Details&lt;/th&gt;
+			&lt;th&gt;Source&lt;/th&gt;
+			&lt;th&gt;Data Year&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Air&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;National-Scale Air Toxics Assessment (NATA) air toxics cancer risk&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Lifetime cancer risk from inhalation of air toxics&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;&lt;a href=&quot;/national-air-toxics-assessment/2011-nata-assessment-results&quot;&gt;EPA NATA&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;blue&quot; style=&quot;width:72px&quot;&gt;Air&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:90px&quot;&gt;NATA respiratory hazard index&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:198px&quot;&gt;Air toxics respiratory hazard index (ratio of exposure concentration to health-based reference concentration)&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:215px&quot;&gt;&lt;a href=&quot;/national-air-toxics-assessment/2011-nata-assessment-results&quot;&gt;EPA NATA&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:49px&quot;&gt;2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Air&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;NATA diesel PM&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Diesel particulate matter level in air, µg/m&lt;sup&gt;3&lt;/sup&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;&lt;a href=&quot;/national-air-toxics-assessment/2011-nata-assessment-results&quot;&gt;EPA NATA&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;blue&quot; style=&quot;width:72px&quot;&gt;Air&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:90px&quot;&gt;Particulate matter&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:198px&quot;&gt;PM&lt;sub&gt;2.5&lt;/sub&gt; levels in air, µg/m&lt;sup&gt;3&lt;/sup&gt; annual avg.&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:215px&quot;&gt;EPA, Office of Air and Radiation (OAR) fusion of model and monitor data&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:49px&quot;&gt;2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Air&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;Ozone&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Ozone summer seasonal avg. of daily maximum 8-hour concentration in air in parts per billion&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;EPA, OAR fusion of model and monitor data&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;blue&quot; style=&quot;width:72px&quot;&gt;Air/other&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:90px&quot;&gt;Traffic proximity and volume&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:198px&quot;&gt;Count of vehicles (AADT, avg. annual daily traffic) at major roads within 500 meters, divided by distance in meters (not km)&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:215px&quot;&gt;&lt;a href=&quot;http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2014/index.html&quot;&gt;Calculated from 2014 U.S. Department of Transportation (DOT) traffic data, retrieved 2016 &lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:49px&quot;&gt;2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Dust/ lead paint&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;Lead paint indicator&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Percent of housing units built pre-1960, as indicator of potential lead paint exposure&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;&lt;a href=&quot;http://www.census.gov/programs-surveys/acs/news/data-releases/2014/release.html&quot;&gt;Calculated based on Census/American Community Survey (ACS) data, retrieved 2015&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2010-2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;blue&quot; style=&quot;width:72px&quot;&gt;Waste/ air/ water&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:90px&quot;&gt;Proximity to Risk Management Plan (RMP) sites&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:198px&quot;&gt;Count of RMP (potential chemical accident management plan) facilities within 5 km (or nearest one beyond 5 km), each divided by distance in kilometers&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:215px&quot;&gt;&lt;a href=&quot;http://www.rtknet.org/db/rmp&quot;&gt;Calculated from EPA&#039;s RMP database, retrieved 12/01/2015&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:49px&quot;&gt;2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Waste/ air/ water&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;Proximity to Treatment Storage and Disposal Facilities (TSDFs)&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Count of TSDFs (hazardous waste management facilities) within 5 km (or nearest beyond 5 km), each divided by distance in kilometers&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/enviro/facts/rcrainfo/search.html&quot;&gt;Calculated from EPA&#039;s Resource Conservation and Recovery Act (RCRA) Info database, retrieved 08/16/2016&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2016&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;blue&quot; style=&quot;width:72px&quot;&gt;Waste/ air/ water&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:90px&quot;&gt;Proximity to National Priorities List (NPL) sites&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:198px&quot;&gt;Count of proposed or listed NPL - also known as superfund - sites within 5 km (or nearest one beyond 5 km), each divided by distance in kilometers&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:215px&quot;&gt;&lt;a href=&quot;https://cumulis.epa.gov/supercpad/cursites/srchsites.cfm&quot;&gt;Calculated from EPA&#039;s Comprehensive Environmental Response, Compensation and Liability Information System (CERCLIS) database, retrieved 10/30/2015&lt;/a&gt;&lt;/td&gt;
+			&lt;td class=&quot;blue&quot; style=&quot;width:49px&quot;&gt;2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;width:72px&quot;&gt;Water&lt;/td&gt;
+			&lt;td style=&quot;width:90px&quot;&gt;Proximity to major direct water dischargers&lt;/td&gt;
+			&lt;td style=&quot;width:198px&quot;&gt;Count of National Pollutant Discharge Elimination System (NPDES) major direct water discharger facilities within 5 km (or nearest one beyond 5 km), each divided by distance in kilometers&lt;/td&gt;
+			&lt;td style=&quot;width:215px&quot;&gt;&lt;a href=&quot;https://www3.epa.gov/enviro/facts/pcs-icis/search.html&quot;&gt;Calculated from EPA&#039;s Permit Compliance System/ Integrated Compliance Information System (PCS/ICIS) database, retrieved 11/30/2015&lt;/a&gt;&lt;/td&gt;
+			&lt;td style=&quot;width:49px&quot;&gt;2015&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;EJSCREEN’s EJ Indexes also include demographic information that is obtained from the U.S. Census Bureau’s American Community Survey (ACS). The 2016 version of EJSCREEN includes 2010-2014 ACS 5-year summary file data, which is based on 2012 Census boundaries.&lt;/p&gt;
+
+&lt;p&gt;It is important to understand what each of these is measuring or indicating, in order to use EJSCREEN appropriately. There are important caveats and limitations to these screening-level indicators and anyone using EJSCREEN is encouraged to read these carefully.&lt;/p&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;/sites/production/files/2015-05/documents/ejscreen_technical_document_20150505.pdf#page=13&quot;&gt;more information about Environmental Indicators (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(123 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;, including documentation of data sources.&lt;/p&gt;
+
+&lt;p&gt;Some of these environmental indicators quantify proximity to and the numbers of certain types of potential sources of exposure to environmental pollutants, such as nearby hazardous waste sites or traffic. The lead paint indicator indicates the presence of older housing, which often, but not always, indicates the presence of lead paint, and therefore the possibility of exposure. In some cases, the term &quot;exposure&quot; is used very broadly here to refer to the potential for exposure. Others indicators in EJSCREEN are estimates of ambient levels of air pollutants, such as PM&lt;sub&gt;2.5&lt;/sub&gt;, ozone and diesel particulate matter. Still others are actual estimates of air toxics-related cancer risk or a hazard index, which summarizes the ratios of ambient air toxics levels to health-based reference concentrations. In other words, these environmental indicators vary widely in what they indicate.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Oct 2014 20:54:19 +0000</pubDate>
+ <dc:creator>ahill03</dc:creator>
+ <guid isPermaLink="false">65751 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How to Interpret a Standard Report in EJSCREEN</title>
+    <link>https://www.epa.gov/ejscreen/how-interpret-standard-report-ejscreen</link>
+    <description>&lt;div class=&quot;figure image right&quot;&gt;&lt;iframe height=&quot;225&quot; src=&quot;https://www.youtube.com/embed/eZ8-9Mx8UgI&quot; width=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;census&quot;&gt;Block Groups&lt;/h2&gt;
+
+&lt;p&gt;One key output from EJSCREEN is a standard printed report that describes a selected location. &lt;span&gt;Sometimes the report might focus on a single Census &quot;block group.&quot; A block group is an area defined by the Census Bureau that usually has in the range of 600-3,000 people living in it. The US is divided into more than 200,000 block groups.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;buffers&quot;&gt;Buffers&lt;/h2&gt;
+
+&lt;p&gt;More typically, though, an EJSCREEN report will cover a &quot;buffer&quot; area, an area on the map that includes everyone who lives within a certain distance of a point, line or polygon. A point might be a factory seeking an emissions permit, for example, and the report could focus on the demographics and environmental conditions within approximately 1 mile of that factory.&lt;/p&gt;
+
+&lt;p&gt;In EJSCREEN, buffers can be drawn up to 10 miles around a point, line or polygon. If you have selected a geographic point, the tool will apply a buffer around that point. The buffer ring will aggregate appropriate portions of the intersecting block groups, weighted by population, to create a representative set of data for the entire ring area, honoring variation and dispersion of the population in the block groups within it. For each indicator, the result is a population-weighted average, which equals the block group indicator values averaged over all residents who are estimated to be inside the buffer.&lt;/p&gt;
+
+&lt;p&gt;EJSCREEN&#039;s report shows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/ejscreen/environmental-justice-indexes-ejscreen&quot;&gt;All 11 of the EJ Indexes&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/ejscreen/overview-environmental-indicators-ejscreen&quot;&gt;All 11 of the environmental indicators&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/ejscreen/overview-demographic-indicators-ejscreen#demoindex&quot;&gt;The Demographic Index&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/ejscreen/overview-demographic-indicators&quot;&gt;All six of the demographic indicators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The first page of EJSCREEN’s report shows the state, regional and national EJ Indexes for the selected area in tabular form and in a bar chart. &quot;Percentiles&quot; are an important part of EJSCREEN. Every indicator in EJSCREEN is put into perspective by showing its associated percentiles.&lt;/p&gt;
+
+&lt;h2 id=&quot;percentiles&quot;&gt;Percentiles&lt;/h2&gt;
+
+&lt;div class=&quot;box multi highlight right clear-right&quot; style=&quot;width:45%&quot;&gt;
+	&lt;h3 class=&quot;pane-title&quot;&gt;Percentages or Percentiles?&lt;/h3&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;A percentage is an absolute term&lt;/strong&gt;. If you received 80% on a test of one hundred questions you had 80 correct answers.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;A percentile is a relative term&lt;/strong&gt;, and tells you how you have done on the test in comparison to the others who took the test. A percentile of 80 means that you scored equal to or better than 80% of people who took the test.&lt;/p&gt;
+
+		&lt;p&gt;In EJSCREEN, if your results indicate that an area is 48% minority and is at the 69th national percentile, this means that 48% of the area’s population is minority, and that is an equal or higher % minority than where 69% of the US population lives.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Percentiles are a way to see how local residents compare to everyone else in the United States. Instead of just showing numbers out of context, EJSCREEN lets you compare a community to the rest of the state, EPA region and nation, by using percentiles. The national percentile tells you &lt;em&gt;what percent of the US population has an equal or lower value&lt;/em&gt;, meaning less potential for exposure/ risk/ proximity to certain facilities, or a lower percent minority. &lt;/p&gt;
+
+&lt;p&gt;The second page shows a map of the selected area and the third page shows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;11 environmental indicators&lt;/li&gt;
+	&lt;li&gt;Demographic Index&lt;/li&gt;
+	&lt;li&gt;six demographic indicators&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The report includes the state, regional and national percentiles for each of the environmental and demographic indicators and for the demographic index. The state, regional and national averages for each of the environmental indicators and demographic indicators are also included as a reference point.&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Oct 2014 18:41:25 +0000</pubDate>
+ <dc:creator>ahill03</dc:creator>
+ <guid isPermaLink="false">65719 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:56:34, expires @ 2017-01-26 15:56:34, lifetime 12 hours -->

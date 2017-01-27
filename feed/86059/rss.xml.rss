@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/86059/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Sole Source Aquifers for Drinking Water</title>
+    <link>https://www.epa.gov/feed/86059/rss.xml</link>
+    <description>Updated Sole Source Aquifers for Drinking Water content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/86059/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Map of Sole Source Aquifer Locations</title>
+    <link>https://www.epa.gov/dwssa/map-sole-source-aquifer-locations</link>
+    <description>&lt;p&gt;&lt;strong&gt;National Geographic Information Systems (GIS) layer of SSAs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Information on sole source aquifers (SSAs) is widely used in assessments under the National Environmental Policy Act and at the state and local level. A national layer, including all available SSA coverages, is available for use in GIS. This layer includes a total of 89 GIS polygons for SSAs.&lt;/p&gt;
+
+&lt;p&gt;In addition to single SSA designated area polygons, some EPA regional offices have delineated GIS layers for:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Streamflow zones&lt;/li&gt;
+	&lt;li&gt;Aquifer recharge areas&lt;/li&gt;
+	&lt;li&gt;Other features at the land surface important for SSA designations&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The SSA geospatial data set is available through Data.gov for use by government agencies, private organizations, and the public.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://catalog.data.gov/dataset/epa-sole-source-aquifers&quot;&gt;Review the GIS layers, indexes, and the metadata (“data about data”)&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 26 Aug 2015 19:55:12 +0000</pubDate>
+ <dc:creator>cwadling</dc:creator>
+ <guid isPermaLink="false">109021 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sole Source Aquifer Project Review</title>
+    <link>https://www.epa.gov/dwssa/sole-source-aquifer-project-review</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#coord&quot;&gt;Project review coordination&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#steps&quot;&gt;Project review steps&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;Examples of projects EPA reviews&lt;/a&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#excluded&quot;&gt;Projects excluded from review&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#opportunities&quot;&gt;Opportunities for public awareness and participation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#limits&quot;&gt;Limitations of the program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;coord&quot; name=&quot;coord&quot;&gt;&lt;/a&gt;Project review coordination&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Proposed projects for federal financial assistance within the project review area of a designated SSA which have the potential to contaminate the aquifer are subject to EPA review.  Projects are not subject to EPA review if they either:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Lie outside the SSA project review area&lt;/li&gt;
+	&lt;li&gt;Do not receive federal financial assistance&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA may negotiate agreements, sometimes called Memoranda of Understanding (MOUs), with federal agencies that offer financial assistance for projects.  The MOUs list criteria and project types to help the financing agency identify projects that may need SSA review.   &lt;/p&gt;
+
+&lt;p&gt;EPA has established MOUs with the:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;U.S. Federal Highway Administration&lt;/li&gt;
+	&lt;li&gt;U.S. Department of Housing and Urban Development&lt;/li&gt;
+	&lt;li&gt;U.S. Department of Agriculture - Rural Development&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;steps&quot; name=&quot;steps&quot;&gt;&lt;/a&gt;Project review steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Once a project is identified, the financing agency sends project information to the appropriate EPA regional office for review and evaluation. If the evaluation indicates that the project does not have significant potential to contaminate the SSA, EPA notifies the financing agency that the project may continue as planned.&lt;/p&gt;
+
+&lt;p&gt;If there is insufficient information to evaluate the project, EPA will request further information. &lt;/p&gt;
+
+&lt;p&gt;If the project has potential to contaminate the aquifer, EPA will begin negotiations to modify the project. If negotiations are not successful, federal funding can be denied.&lt;/p&gt;
+
+
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;examples&quot; name=&quot;examples&quot;&gt;&lt;/a&gt;Examples of projects EPA reviews&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Examples of types of projects, and their funding agencies, that EPA has reviewed include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Major highway improvement projects: U.S. Department of Transportation (USDOT) Federal Highway Administration (FTA)&lt;/li&gt;
+	&lt;li&gt;New transit centers and park-and-ride lots: USDOT FTA&lt;/li&gt;
+	&lt;li&gt;Public water supply improvements and wastewater treatment facilities: U.S. Department of Agriculture (USDA) Rural Development Authority (RDA)&lt;/li&gt;
+	&lt;li&gt;Housing subdivisions and other building construction projects not served by public water, sewer and storm water drainage systems: U.S. Department of Housing and Urban Development (USHUD) and USDA RDA&lt;/li&gt;
+	&lt;li&gt;Light rail projects: USDOT FTA&lt;/li&gt;
+	&lt;li&gt;Agricultural projects that involve management of animal waste: USDA RDA&lt;/li&gt;
+	&lt;li&gt;Projects funded through Community Development Block Grants: USHUD&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;excluded&quot; name=&quot;excluded&quot;&gt;&lt;/a&gt;Projects excluded from review:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Projects excluded from review under the SSA program include those that are funded:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Entirely by state, local or private entities&lt;/li&gt;
+	&lt;li&gt;Solely with federal funds for federal agencies&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The SSA program applies to federal assistance, but not to direct federal actions. Work performed for or by the federal government is not included among the projects EPA reviews. This includes work on military bases and other federal facilities.&lt;/p&gt;
+
+&lt;p&gt;Projects undertaken within a designated SSA area without federal funds must still comply with all federal, state and local water quality requirements.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;opportunities&quot; name=&quot;opportunities&quot;&gt;&lt;/a&gt;Opportunities for public awareness and participation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The public may participate in the SSA designation decision process by providing written comments to EPA during a formal comment period. If there is significant interest or a request, EPA may hold a public meeting or hearing.&lt;/p&gt;
+
+&lt;p&gt;EPA takes interest in public comment on potential SSA designations.  The Safe Drinking Water Act requires EPA to make decisions on SSA designation based on its analysis of the scientific and economic data presented. &lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;limits&quot; name=&quot;limits&quot;&gt;&lt;/a&gt;Limitations of the SSA program&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sole source aquifer designation provides limited protection of ground water resources which serve as drinking water supplies. The SSA program is not a comprehensive ground water protection program. Protection of ground water resources can best be achieved through an integrated and coordinated combination of federal, state, and local efforts.&lt;/p&gt;
+
+&lt;p&gt;SSAs are determined to be a &quot;sole or principal&quot; source of drinking water.  This does not, however, imply that they are more or less valuable or vulnerable to contamination than other aquifers which EPA has not designated as SSAs.  Many valuable and sensitive aquifers are not designated because no petition was filed or because the aquifier did not qualify as an SSA.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+
+</description>
+     <pubDate>Wed, 26 Aug 2015 17:37:02 +0000</pubDate>
+ <dc:creator>jjollie</dc:creator>
+ <guid isPermaLink="false">108947 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Guidance on Petitioning for Sole Source Aquifer (SSA) Designation </title>
+    <link>https://www.epa.gov/dwssa/guidance-petitioning-sole-source-aquifer-ssa-designation</link>
+    <description>&lt;p&gt;EPA published the Sole Source Aquifer (SSA) Designation Petitioner Guidance in 1987 to assist interested parties in submitting SSA designation petitions to EPA regional offices.&lt;/p&gt;
+
+&lt;p&gt;The guidance provides procedures and criteria for:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Proposing aquifer boundaries&lt;/li&gt;
+	&lt;li&gt;Determining whether an aquifer is the sole or principal source of drinking water&lt;/li&gt;
+	&lt;li&gt;Evaluating alternative sources of drinking water&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000Y00Z.txt&quot;&gt;Read the sole source aquifer designation petitioner guidance.&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;Any individual, corporation, company, association, partnership, state, municipality, or federal agency may petition EPA for SSA designation. A petitioner is responsible for providing EPA with sufficent data and information. EPA may also initiate SSA designations.&lt;/p&gt;
+
+&lt;p&gt;If the petition is approved, EPA publishes a Federal Register notice&lt;span&gt; that:&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;Announces EPA&#039;s decision to designate the aquifer as an SSA&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;Summarizes the basis for the decision&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 26 Aug 2015 17:30:07 +0000</pubDate>
+ <dc:creator>ecorr</dc:creator>
+ <guid isPermaLink="false">108941 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Overview of the Drinking Water Sole Source Aquifer Program</title>
+    <link>https://www.epa.gov/dwssa/overview-drinking-water-sole-source-aquifer-program</link>
+    <description>&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#What_Is_SSA&quot;&gt;What is a sole source aquifer (SSA)?&lt;/a&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#What_Is_SSA_Program&quot;&gt;What is the SSA program?&lt;/a&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#Authority&quot;&gt;EPA’s authority to designate SSAs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;What_Is_SSA&quot; name=&quot;What_Is_SSA&quot;&gt;&lt;/a&gt;What is a sole source aquifer? &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EPA defines a sole source aquifer (SSA) as one where:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;The aquifer supplies at least 50 percent of the drinking water for its service area&lt;/li&gt;
+	&lt;li&gt;There are no reasonably available alternative drinking water sources should the aquifer become contaminated&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;What_Is_SSA_Program&quot; name=&quot;What_Is_SSA_Program&quot;&gt;&lt;/a&gt;What is the SSA program? &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The SSA program enables EPA to designate an aquifer as a sole source of drinking water and establish a review area.  EPA then reviews proposed projects that will both:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Be located within the review area&lt;/li&gt;
+	&lt;li&gt;Receive federal funding&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The review area includes the area overlying the SSA.  It may also include the source areas of streams that flow into the SSA&#039;s recharge zone.&lt;/p&gt;
+
+&lt;p&gt;EPA&#039;s review is intended to ensure that the projects do not contaminate the SSA.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;Authority&quot; name=&quot;Authority&quot;&gt;&lt;/a&gt;EPA’s authority to designate aquifers as sole source&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The SSA program is authorized by Section 1424(e) of the Safe Drinking Water Act of 1974 (Public Law 93-523, 42 U.S.C. 300 et. seq), which states:&lt;/p&gt;
+
+&lt;p&gt;&quot;If the Administrator determines, on his own initiative or upon petition, that an area has an aquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health, he shall publish notice of that determination in the Federal Register.&lt;/p&gt;
+
+&lt;p&gt;After the publication of any such notice, no commitment for federal financial assistance (through a grant, contract, loan guarantee, or otherwise) may be entered into for any project which the Administrator determines may contaminate such aquifer through a recharge zone so as to create a significant hazard to public health, but a commitment for federal assistance may, if authorized under another provision of law, be entered into to plan or design the project to assure that it will not so contaminate the aquifer.”&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 26 Aug 2015 17:21:08 +0000</pubDate>
+ <dc:creator>jjollie</dc:creator>
+ <guid isPermaLink="false">108937 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 16:36:12, expires @ 2017-01-26 04:36:12, lifetime 12 hours -->

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/79229/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Climate Action Benefits Report</title>
+    <link>https://www.epa.gov/feed/79229/rss.xml</link>
+    <description>Updated Climate Action Benefits Report content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/79229/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Frequent Questions about CIRA</title>
+    <link>https://www.epa.gov/cira/frequent-questions-about-cira</link>
+    <description>&lt;h3&gt;General information:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#project&quot;&gt;What is the CIRA project?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#publications&quot;&gt;What are the CIRA publications?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reports&quot;&gt;What are the differences between the 2015 and 2017 reports?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#assessments&quot;&gt;Are the CIRA reports scientific assessments, like the National Climate Assessment?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Methods and Process:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#scenarios&quot;&gt;What scenarios are used in the CIRA project?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#precision&quot;&gt;What is the precision of the results?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#peerreview&quot;&gt;How are the CIRA reports peer reviewed? &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#benefits&quot;&gt;How are the positive effects of climate change on the U.S. considered?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#adaptation&quot;&gt;How does CIRA consider adaptation to climate change?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Interpreting the Results:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#impacts&quot;&gt;Does the CIRA project cover all climate change impacts?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#policy&quot;&gt;Does CIRA estimate avoided impacts from any specific policy, including EPA actions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#mitigation&quot;&gt;Does CIRA consider costs of reducing GHG emissions?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;General Information&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id=&quot;project&quot; name=&quot;project&quot;&gt;&lt;/a&gt;What is the CIRA project?&lt;/h3&gt;
+
+&lt;p&gt;The Climate Change Impacts and Risk Analysis (CIRA) project quantifies physical effects and economic damages under multiple climate change scenarios. The goal of this work is to estimate climate change impacts to multiple U.S. sectors (e.g., human health, infrastructure, and water resources) and what damages may be avoided or reduced under different future global emissions scenarios. Consistent socioeconomic, emissions or concentrations scenarios, and climate inputs facilitate comparison of projected impacts across all sectors in a world with and without global reductions in greenhouse gas emissions. CIRA advances the estimation of climate change damages by bridging the gap between climate modeling and economic effects, presenting both physical and monetized damages. &lt;/p&gt;
+
+&lt;p&gt;The analyses in this project represent an EPA-led collaborative modeling effort that includes analytical teams within the federal government and scientists from a number of academic institutions and consulting firms. The peer-reviewed products estimate specific impacts categorized into six broad sectors: health, infrastructure, electricity, water resources, agriculture, and ecosystems. Importantly, these analyses estimate only some of the impacts of climate change, and are therefore an incomplete picture of the total benefits to the United States of reducing global greenhouse gases (GHGs).&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;publications&quot; name=&quot;publications&quot;&gt;&lt;/a&gt;What are the CIRA publications?&lt;/h3&gt;
+
+&lt;p&gt;There are several components to the CIRA effort, including publications. &lt;/p&gt;
+
+&lt;p&gt;A 2015 report, &lt;a href=&quot;/cira/downloads-cira-report&quot;&gt;&lt;em&gt;Climate Impacts in the United States: Benefits of Global Action&lt;/em&gt;&lt;/a&gt;, summarizes multiple analyses that quantify the physical effects and economic damages of climate change under two global GHG emission scenarios.&lt;/p&gt;
+
+&lt;p&gt;The most recent product is the draft &lt;em&gt;Avoiding and Reducing Long-term Risks of Climate Change: A Technical Report for the Fourth National Climate Assessment&lt;/em&gt;. This draft 2017 Technical Report summarizes and communicates the results of the second phase of modeling under the CIRA project, and is primarily intended to inform the congressionally mandated fourth &lt;a href=&quot;http://nca2014.globalchange.gov/&quot;&gt;National Climate Assessment&lt;/a&gt; (NCA4) of the U.S. Global Change Research Program (USGCRP), which in turn is scheduled for publication in late 2018. The draft 2017 Technical Report is currently undergoing peer review.&lt;/p&gt;
+
+&lt;p&gt;Multiple analyses which form the underlying methods and results of the CIRA project have also been peer reviewed in the scientific literature, including a special issue of &lt;em&gt;Climatic Change&lt;/em&gt; entitled, “&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=252196&quot;&gt;A Multi-Model Framework to Achieve Consistent Evaluation of Climate Change Impacts in the United States&lt;/a&gt;.”&lt;sup&gt;&lt;a href=&quot;#references&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;reports&quot; name=&quot;reports&quot;&gt;&lt;/a&gt;What are the differences between the 2015 and 2017 reports?&lt;/h3&gt;
+
+&lt;p&gt;The results in the 2017 draft Technical Report (&lt;em&gt;Avoiding and Reducing Long-term Risks of Climate Change: A Technical Report for the Fourth National Climate Assessment&lt;/em&gt;) build off the CIRA framework developed for the 2015 report (&lt;a href=&quot;/cira/downloads-cira-report&quot;&gt;&lt;em&gt;Climate Change in the United States: Benefits of Global Action&lt;/em&gt;&lt;/a&gt;).&lt;a href=&quot;#references&quot;&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/a&gt; However, the modeling framework, including underlying assumptions and inputs, has been updated in the 2017 Technical Report to be consistent with USGCRP-recommended scenarios for use in NCA4, such that these CIRA results may more easily serve as inputs to NCA4. As a result of using different scenario frameworks, and alternative or enhanced methodologies for some sectors, differences exist in the magnitude of results reported in 2017 Technical Report compared to those found in the 2015 report.&lt;a href=&quot;#references&quot;&gt;&lt;sup&gt;[3]&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to updating the modeling framework, the 2017 Technical Report expands or enhances several sectoral models and includes multiple new sectoral impacts not included in the 2015 report. The Technical Report also incorporates several additional advancements and improved estimates of the costs, benefits, and effectiveness of adaptation options for several sectors, all of which are outlined in the section on Advancements in the CIRA Framework. Future CIRA work will likely expand the coverage of sectoral impacts, leverage improved economic methods for valuing impacts, explore the effectiveness of adaptation in more sectors, and expand the consideration of how impacts are distributed across different socioeconomic populations.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;assessments&quot; name=&quot;assessments&quot;&gt;&lt;/a&gt;Are the CIRA reports scientific assessments, like the National Climate Assessment?&lt;/h3&gt;
+
+&lt;p&gt;No, there is a difference. Climate change science assessments, such as those by the &lt;a href=&quot;https://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml&quot;&gt;Intergovernmental Panel on Climate Change&lt;/a&gt; (IPCC) and &lt;a href=&quot;http://www.globalchange.gov/browse/reports&quot;&gt;U.S. Global Change Research Program&lt;/a&gt; (USGCRP), look across a larger body of scientific literature to develop consensus conclusions about the state of climate change science. The CIRA project, on the other hand, is narrowly focused analysis designed to answer the targeted question of what the physical and economic damages of climate change will be in the U.S under different climate scenarios.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Methods and Process&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id=&quot;scenarios&quot; name=&quot;scenarios&quot;&gt;&lt;/a&gt;What scenarios are used in the CIRA project?&lt;/h3&gt;
+
+&lt;p&gt;In the 2017 draft Technical Report, the CIRA results presented assess the risks to the U.S. in a future with moderate climate change (lower global atmospheric GHG concentrations, or Representative Concentration Pathway RCP4.5) and a future with severe climate change (higher global atmospheric GHG concentrations, or RCP8.5). As this report is designed to inform the development of NCA4, the selection of scenarios and projections has been made consistent, to the maximum extent possible, with the USGCRP inputs to the forthcoming assessment. These inputs have the benefits of being well-known and commonly used by others in the climate change impacts modeling community.&lt;/p&gt;
+
+&lt;p&gt;The CIRA results presented in the 2015 report also consider two (high and low) emissions scenarios, but these differ from the most recent draft report.&lt;/p&gt;
+
+&lt;p&gt;Importantly, the CIRA scenarios provide illustrations for analytical comparison and do not represent specific policies.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;precision&quot; name=&quot;precision&quot;&gt;&lt;/a&gt;What is the precision of the results?&lt;/h3&gt;
+
+&lt;p&gt;While projecting decades into the future involves uncertainty, the CIRA analyses show a substantial difference between GHG emission scenarios. Using peer-reviewed methods, the estimates in the reports provide insights to the direction and magnitude of climate change impacts and the benefits (avoided impacts) to the U.S. of global GHG reductions. However, none of the estimates reported should be interpreted as definitive predictions of future impacts at a particular place and time. Instead, the intention is to produce estimates of future effects using the best available climate data and methods, which can then be revisited and updated over time as the science and/or modeling continues to advance.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;peerreview&quot; name=&quot;peerreview&quot;&gt;&lt;/a&gt;How are the CIRA reports peer reviewed?&lt;/h3&gt;
+
+&lt;p&gt;Both the 2015 and the draft 2017 CIRA reports build on multiple layers of independent peer review. First, the underlying datasets used throughout the project are established, peer-reviewed sets of information. Second, the methods and results of the underlying climate change impacts analyses are individually peer reviewed in scientific journals, including a special issue of &lt;em&gt;Climatic Change&lt;/em&gt; entitled, “&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=252196&quot;&gt;A Multi-Model Framework to Achieve Consistent Evaluation of Climate Change Impacts in the United States&lt;/a&gt;.”&lt;sup&gt;&lt;a href=&quot;#references&quot;&gt;[4, 5]&lt;/a&gt;&lt;/sup&gt; Finally, the summary reports themselves undergo external, independent peer review to ensure that the content accurately reflects the science, appropriately summarizes the results, and clearly communicates the methods and conclusions of the underlying papers. The draft 2017 report is currently undergoing this independent external peer review process.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;benefits&quot; name=&quot;benefits&quot;&gt;&lt;/a&gt;How are the positive effects of climate change on the U.S. considered?&lt;/h3&gt;
+
+&lt;p&gt;The CIRA analyses evaluate both negative as well as positive effects of climate change. Overall, positive effects are substantially outweighed by the negative effects of unmitigated climate change. For instance, the projected increase in deaths due to more frequent extremely hot days is estimated to be much larger than the projected decrease in deaths due to fewer extremely cold days. &lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;adaptation&quot; name=&quot;adaptation&quot;&gt;&lt;/a&gt;How does CIRA consider adaptation to climate change?&lt;/h3&gt;
+
+&lt;p&gt;The 2017 Technical Report includes analysis of the costs, benefits, and effectiveness of adaptation options for several sectors, including extreme temperature mortality, infrastructure (roads, bridges, and rail), winter recreation, and coastal property. This not only allows for improved estimates of climate change impacts and economic costs, but contributes to the knowledge base to inform responses at national, regional, and local levels. &lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Interpreting the Results&lt;/h2&gt;
+
+&lt;h3&gt;&lt;a id=&quot;impacts&quot; name=&quot;impacts&quot;&gt;&lt;/a&gt;Does the CIRA project cover all climate change impacts?&lt;/h3&gt;
+
+&lt;p&gt;No. The CIRA project describes certain important impacts of climate change, but many others are not included due to data availability and resource constraints. In addition, for some sectors, only part of the impact or damage is included in the estimate. For example, for wildfires, only the costs associated with suppressing them and reducing fuels are included in CIRA, while other damages (e.g., health effects from decreased air quality or water contamination, property damages, or loss of recreational space) are not. The primary geographic focus of CIRA is on the contiguous U.S., with most of the sectoral analyses excluding Hawai’i, Alaska, and the U.S. territories. Lastly, the results do not quantify the additional benefits to air quality and health that would stem from the co-control of traditional air pollutants along with GHGs (both are emitted from many of the same sources). Including these would further increase the benefits by a significant amount.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;policy&quot; name=&quot;policy&quot;&gt;&lt;/a&gt;Does CIRA estimate avoided impacts from any specific policy, including EPA actions?&lt;/h3&gt;
+
+&lt;p&gt;No. The CIRA analyses examine plausible scenarios to illustrate potential impacts and damages of alternative future climates. They do not evaluate any specific domestic or global climate policy. Though the CIRA reports do not make policy recommendations, they are designed to inform strategies to enhance effective resiliency and protect human health, investments, and livelihoods.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id=&quot;mitigation&quot; name=&quot;mitigation&quot;&gt;&lt;/a&gt;Does CIRA consider costs of reducing GHG emissions?&lt;/h3&gt;
+
+&lt;p&gt;No. CIRA does not constitute a cost-benefit assessment of climate policy. The project only addresses analytical gaps focused on the impacts and damages to the U.S. of illustrative climate scenarios. There are multiple policy approaches that could be undertaken to achieve any particular emissions reduction target or concentration pathway, but the CIRA reports do not discuss those approaches nor the costs of implementing any particular policy. There is a robust literature on climate mitigation costs, such as the IPCC’s Working Group III’s contribution to the Fifth Assessment Report: &lt;a href=&quot;http://www.ipcc.ch/report/ar5/wg3/&quot;&gt;&lt;em&gt;Climate Change 2014: Mitigation of Climate Change&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a id=&quot;references&quot; name=&quot;references&quot;&gt;&lt;/a&gt;References&lt;/h2&gt;
+
+&lt;p&gt;1. Martinich, J., J. Reilly, S. Waldhoff, M. Sarofim, and J. McFarland, Eds. 2015. Special Issue on “&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=252196&quot;&gt;A Multi-Model Framework to Achieve Consistent Evaluation of Climate Change Impacts in the United States&lt;/a&gt;.” Climatic Change, 131: 1-181.&lt;/p&gt;
+
+&lt;p&gt;2. EPA. 2015. &lt;a href=&quot;/cira/downloads-cira-report&quot;&gt;&lt;em&gt;Climate Change in the United States: Benefits of Global Action&lt;/em&gt;&lt;/a&gt;. United States Environmental Protection Agency, Office of Atmospheric Programs, EPA 430-R-15-001.v&lt;/p&gt;
+
+&lt;p&gt;3. In addition, damages were presented in $2014 in the 2015 report and are presented in $2015 in the Technical Report.&lt;/p&gt;
+
+&lt;p&gt;4. Martinich, J., J. Reilly, S. Waldhoff, M. Sarofim, and J. McFarland, Eds. 2015. Special Issue on “&lt;a href=&quot;https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=252196&quot;&gt;A Multi-Model Framework to Achieve Consistent Evaluation of Climate Change Impacts in the United States&lt;/a&gt;.” Climatic Change, 131: 1-181.&lt;/p&gt;
+
+&lt;p&gt;5. See also the list of research citations in Section A2 of Appendix A in the 2017 Technical Report and Section B “Literature Underlying the CIRA Project” in the &lt;a href=&quot;/cira/downloads-cira-report&quot;&gt;Technical Appendix of the 2015 CIRA report&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Mon, 09 Jan 2017 15:21:50 +0000</pubDate>
+ <dc:creator>ideluca</dc:creator>
+ <guid isPermaLink="false">168501 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regional Highlights from the CIRA Report</title>
+    <link>https://www.epa.gov/cira/regional-highlights-cira-report</link>
+    <description>&lt;p&gt;This section highlights regional impacts of climate change in the U.S. For each sector, the map presents a region where substantial benefits of global GHG mitigation are projected to occur in the years 2050 or 2100.* Note that the geographic scale at which impacts are quantified in the sectoral analyses vary. For example, some of the analyses calculate impacts for large watersheds, while others use the National Climate Assessment regions. For purposes of highlighting regional impacts, this section approximates the regions.&lt;/p&gt;
+
+&lt;div id=&quot;cira_map&quot;&gt; &lt;/div&gt;
+
+&lt;p&gt;For more information, visit &lt;a href=&quot;/cira&quot;&gt;Climate Change in the United States: Benefits of Global Action&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id=&quot;hidden_map&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;static image of interactive CIRA map&quot; height=&quot;374&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-06/cira_map.png&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 18 Jun 2015 16:20:30 +0000</pubDate>
+ <dc:creator>xcmyers</dc:creator>
+ <guid isPermaLink="false">93097 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Text Version of Climate Action Benefits: National Highlights Table</title>
+    <link>https://www.epa.gov/cira/text-version-climate-action-benefits-national-highlights-table</link>
+    <description>&lt;div&gt; &lt;/div&gt;
+
+&lt;div&gt;
+	&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt; &lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;In the year 2050, global GHG mitigation is projected to result in... &lt;/th&gt;
+				&lt;th scope=&quot;col&quot;&gt;In the year 2100, global GHG mitigation is projected to result in...&lt;/th&gt;
+			&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-health&quot;&gt;&lt;strong&gt;Health&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-air-quality&quot;&gt;Air Quality&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 13,000 fewer deaths from poor air quality, valued at $160 billion.*&lt;/td&gt;
+				&lt;td&gt;An estimated 57,000 fewer deaths from poor air quality, valued at $930 billion.*&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-extreme-temperature&quot;&gt;Extreme Temperature&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 1,700 fewer deaths from extreme heat and cold in 49 major U.S. cities, valued at $21 billion.&lt;/td&gt;
+				&lt;td&gt;An estimated 12,000 fewer deaths from extreme heat and cold in 49 major U.S. cities, valued at $200 billion.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-labor&quot;&gt;Labor&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 360 million labor hours, valued at $18 billion.&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 1.2 billion labor hours, valued at $110 billion.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-water-quality&quot;&gt;Water Quality&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $507-$700 million in avoided damages from poor water quality.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $2.6-$3.0 billion in avoided damages from poor water quality.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-infrastructure&quot;&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-bridges&quot;&gt;Bridges&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 160-960 fewer bridges made structurally vulnerable, valued at $0.12-$1.5 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 720-2,200 fewer bridges made structurally vulnerable, valued at $1.1-$1.6 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-roads&quot;&gt;Roads&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $0.56-$2.3 billion in avoided adaptation costs.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $4.2-$7.4 billion in avoided adaptation costs.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-urban-drainage&quot;&gt;Urban Drainage&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $56 million to $2.9 billion in avoided adaptation costs from the 50-year, 24-hour storm in 50 U.S. cities.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $50 million to $6.4 billion in avoided adaptation costs from the 50-year, 24-hour storm in 50 U.S. cities.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-coastal-property&quot;&gt;Coastal Property&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $0.14 billion in avoided damages and adaptation costs from sea level rise and storm surge.&lt;/td&gt;
+				&lt;td&gt;An estimated $3.1 billion in avoided damages and adaptation costs from sea level rise and storm surge.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-electricity&quot;&gt;&lt;strong&gt;Electricity&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-electricity-demand&quot;&gt;Demand and Supply&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 1.1%-4.0% reduction in energy demand and $10-$34 billion in savings in power system costs.&lt;span style=&quot;vertical-align:baseline&quot;&gt;‡&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;Not estimated.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-water-resources&quot;&gt;&lt;strong&gt;Water Resources&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-inland-flooding&quot;&gt;Inland Flooding&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated change in flooding damages ranging from $260 million in damages to $230 million in avoided damages.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated change in flooding damages ranging from $32 million in damages to $2.5 billion in avoided damages.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-drought&quot;&gt;Drought&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 29%-45% fewer severe and extreme droughts, with corresponding avoided damages to the agriculture sector of approximately $1.2-$1.4 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 40%-59% fewer severe and extreme droughts, with corresponding avoided damages to the agriculture sector of $2.6-$3.1 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-water-supply-and-demand&quot;&gt;Water Supply and Demand&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $3.9-$54 billion in avoided damages due to water shortages.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $11-$180 billion in avoided damages due to water shortages.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-agriculture-and-forestry&quot;&gt;&lt;strong&gt;Agriculture and Forestry&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-market-impacts&quot;&gt;Agriculture&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $1.5-$3.8 billion in avoided damages.&lt;/td&gt;
+				&lt;td&gt;An estimated $6.6-$11 billion in avoided damages.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-market-impacts&quot;&gt;Forestry&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;Estimated damages of $9.5-$9.6 billion. &lt;/td&gt;
+				&lt;td&gt;An estimated $520 million to $1.5 billion in avoided damages. &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;3&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-ecosystems&quot;&gt;&lt;strong&gt;Ecosystems&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-coral-reefs&quot;&gt;Coral Reefs&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 53% of coral in Hawaii, 3.7% in Florida, and 2.8% in Puerto Rico. These avoided losses are valued at $1.4 billion.&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 35% of coral in Hawaii, 1.2% in Florida, and 1.7% in Puerto Rico. These avoided losses are valued at $1.2 billion. &lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-shellfish&quot;&gt;Shellfish&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 11% of the U.S. oyster supply, 12% of the U.S. scallop supply, and 4.6% of the U.S. clam supply, with corresponding consumer benefits of $85 million.&lt;/td&gt;
+				&lt;td&gt;An estimated avoided loss of 34% of the U.S. oyster supply, 37% of the U.S. scallop supply, and 29% of the U.S. clam supply, with corresponding consumer benefits of $380 million.&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-freshwater-fish&quot;&gt;Freshwater Fish&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated change in recreational fishing ranging from $13 million in avoided damages to $3.8 million in damages.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated $95-$280 million in avoided damages associated with recreational fishing.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-wildfire&quot;&gt;Wildfire&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 2.1-2.2 million fewer acres burned and corresponding avoided wildfire response costs of $160-$390 million.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 6.0-7.9 million fewer acres burned and corresponding avoided wildfire response costs of $940 million to $1.4 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/cira/climate-action-benefits-carbon-storage&quot;&gt;Carbon Storage&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 26-78 million fewer metric tons of carbon stored, and corresponding costs of $7.5-$23 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+				&lt;td&gt;An estimated 1-26 million fewer metric tons of carbon stored, and corresponding costs of $880 million to $12 billion.&lt;span style=&quot;vertical-align:baseline&quot;&gt;†&lt;/span&gt;&lt;/td&gt;
+			&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;small&gt;* These results do not reflect the additional benefits to air quality and human health that would stem from the co-control of traditional air pollutants along with GHG emissions.&lt;/small&gt;&lt;/p&gt;
+
+	&lt;p&gt;&lt;small&gt;† For sectors sensitive to changes in precipitation, the estimated range of results is generated using projections from two climate models showing different patterns of future precipitation in the contiguous U.S. The IGSM-CAM model projects a relatively “wetter” future for most of the contiguous U.S. compared to the “drier” MIROC model (see the &lt;a href=&quot;/cira/climate-action-benefits-methods-analysis&quot;&gt;CIRA Framework section&lt;/a&gt; of this report for more information).&lt;/small&gt;&lt;/p&gt;
+
+	&lt;p&gt;&lt;small&gt;‡ Estimated range of benefits from the reduction in demand and system costs resulting from lower temperatures associated with GHG mitigation. The &lt;a href=&quot;/cira/climate-action-benefits-electricity-supply&quot;&gt;Electricity section&lt;/a&gt; in this report presents an analysis that includes the costs to the electric sector of reducing GHG emissions.&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+	&lt;div&gt;
+		&lt;div id=&quot;_com_1&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-key-findings&quot;&gt;See a graphical version of this information ►&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description>
+     <pubDate>Fri, 05 Jun 2015 15:32:44 +0000</pubDate>
+ <dc:creator>xclamie</dc:creator>
+ <guid isPermaLink="false">87739 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Text Version of Climate Action Benefits: Regional Highlights Map</title>
+    <link>https://www.epa.gov/cira/text-version-climate-action-benefits-regional-highlights-map</link>
+    <description>&lt;p&gt;The map shows 18 regional highlights from EPA&#039;s CIRA analysis:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Shellfish: &lt;/strong&gt;Acidification in the Pacific Northwest is already affecting U.S. shellfish harvests. The U.S. supplies of oysters, clams, and scallops are projected to decline 45%, 32%, and 48%, respectively, in the Reference scenario in 2100, compared to 11%, 3%, and 11%, respectively, in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Carbon Storage: &lt;/strong&gt;The Northwest is projected to experience a 6.1% decrease in terrestrial carbon storage in 2100 under the Reference scenario, compared to a 2.4% decrease in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Water Supply and Demand: &lt;/strong&gt;California is projected to incur $4.5 billion in damages in 2100 due to changes in water supply and demand in the Reference scenario. However, climate change under the Mitigation scenario is projected to result in an increase in welfare of $40 million.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Labor:&lt;/strong&gt; In 2100, the Southwest is projected to experience a 3.4% decrease in high-risk labor hours worked in the Reference scenario, compared to a decrease of 0.82% in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Drought: &lt;/strong&gt;In the Southwest, the number of severe and extreme droughts is projected to nearly quadruple by the end of the century in the Reference scenario compared to today. In the Mitigation scenario, the incidence of drought is not projected to change substantially from present day.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Water Quality:&lt;/strong&gt; The Southwest is projected to experience water quality damages of approximately $1.8 billion in 2100 under the Reference scenario, compared to $470 million in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Coral Reefs: &lt;/strong&gt;By the end of the century, Hawaii is projected to lose 98% of its current shallow-water coral in the Reference scenario, compared to 64% in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Wildfire: &lt;/strong&gt;In the Rocky Mountains, an estimated 1.9 million more acres are projected to burn in 2100 under the Reference scenario compared to today. In the Mitigation scenario, an estimated 1.5 million fewer acres are projected to burn compared to today.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Inland Flooding:&lt;/strong&gt; In Texas, projected damages associated with the 100-year flood event are $3.6 billion in 2100 under the Reference scenario, compared to $2.6 billion in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Roads:&lt;/strong&gt; In 2100, the Great Plains region is projected to incur road damages of approximately $3.5 billion in the Reference scenario, compared to $1.1 billion in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Bridges: &lt;/strong&gt;In the Great Lakes region, approximately 520 bridges are projected to be vulnerable in 2100 under the Reference scenario, compared to 65 in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Freshwater Fish: &lt;/strong&gt;Throughout the Appalachians, global GHG mitigation is projected to preserve approximately 70% of habitat for coldwater fish species (e.g., trout) that would otherwise be lost by the end of the century to rising temperatures from unmitigated climate change.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Extreme Temperature: &lt;/strong&gt;Without mitigation, major cities in the Northeast from D.C. to Boston are projected to suffer a combined 2,600 extreme temperature mortalities in 2100, compared to 190 in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Urban Drainage: &lt;/strong&gt;In 2100, major cities analyzed in the Great Plains are estimated to incur $2.1 million per square mile in damages associated with urban drainage systems in the Reference scenario, compared to $750,000 per square mile in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Air Quality: &lt;/strong&gt;In 2100, areas of the Southeast are projected to experience an annual increase in ozone (O3) and fine particulate matter (PM2.5) of 0.7 ppb and 1 μg/m-3, respectively. In the Mitigation scenario, the levels of O3 and PM2.5 are projected to decrease by 120% and 88%, respectively, compared to the Reference.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Coastal Property: &lt;/strong&gt;In 2100, coastal property in the Tampa Bay area is projected to incur $2.8 billion in damages from sea level rise and storm surge in the Reference scenario without adaptation. When adaptation measures are implemented, total costs in 2100 fall to $500 million in the Reference scenario, compared to $450 million in the Mitigation scenario.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Electricity Demand: &lt;/strong&gt;The South Central region is projected to experience a 2.0% to 4.2% increase in electricity demand under the Reference scenario in 2050. In the Mitigation scenario, the projected change in demand ranges from -1.4% to 1.6%.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Agriculture: &lt;/strong&gt;In the Southeast, yields of irrigated soybeans are projected to decrease 23% in 2100 under the Reference scenario. Under the Mitigation scenario, yields are projected to increase 4.7%.&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;
+	&lt;div&gt;
+		&lt;div id=&quot;_com_1&quot;&gt;&lt;a href=&quot;/cira/climate-action-benefits-key-findings&quot;&gt;See a graphical version of this information ►&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description>
+     <pubDate>Thu, 28 May 2015 19:40:34 +0000</pubDate>
+ <dc:creator>JMartini</dc:creator>
+ <guid isPermaLink="false">85887 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Frequent Questions about the CIRA Report</title>
+    <link>https://www.epa.gov/cira/frequent-questions-about-cira-report</link>
+    <description>&lt;h4&gt;General information:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#faq1&quot;&gt;What is CIRA?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq2&quot;&gt;What is new and unique about CIRA?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq3&quot;&gt;Is this an assessment like the National Climate Assessment?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq4&quot;&gt;Does the CIRA report discuss the costs of reducing GHG emissions?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq5&quot;&gt;What emissions scenarios were used in the CIRA project?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;CIRA report process and results:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#faq8&quot;&gt;What is the precision of the results?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq6&quot;&gt;What was the review process for this report—was it peer reviewed?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq7&quot;&gt;Does this report cover all climate change impacts, or all the benefits of mitigation?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq9&quot;&gt;Does the report consider the positive effects of climate change on the U.S.?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Relationship to the Clean Power Plan and other climate policies:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#faq10&quot;&gt;Does this report estimate avoided impacts from the Clean Power Plan or any specific climate change policy?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#faq11&quot;&gt;Why doesn’t the report evaluate the benefits to the U.S. of specific domestic emission reductions, rather than global-scale reductions?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;General Information&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq1&quot; name=&quot;faq1&quot;&gt;&lt;/a&gt;What is CIRA? &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;A new report, &lt;em&gt;Climate Impacts in the United States: Benefits of Global Action&lt;/em&gt;, quantifies the physical effects and economic damages of climate change under two scenarios: a future with significant global action on climate change and a future in which greenhouse gas emissions (GHG) continue to rise. The report is designed to answer the question: What are the benefits to the U.S. of global climate action? These analyses are the product of the Climate Change Impacts and Risk Analysis (CIRA) project, an EPA-led collaborative modeling effort among a number of analytical teams within the federal government and scientists from a number of academic institutions and consulting firms. The peer-reviewed report estimates 20 specific impacts categorized into six broad sectors: health, infrastructure, electricity, water resources, agriculture and forestry, and ecosystems. Importantly, this report analyzes only some of the impacts of climate change, and therefore estimates just a portion of the total benefits of reducing GHGs.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq2&quot; name=&quot;faq2&quot;&gt;&lt;/a&gt;What is new and unique about CIRA?  &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The CIRA project is among the first multi-sector studies to quantify the projected benefits (avoided climate change damages) in the U.S. of global-scale greenhouse gas reductions using a consistent set of assumptions. Consistent socioeconomic, emission, and climate inputs facilitate comparisons across all sectors to understand the basic scale of the difference between a world with and without global climate action. The approach also helps to advance the science by exploring changes in the impacts across key sources of uncertainty.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq3&quot; name=&quot;faq3&quot;&gt;&lt;/a&gt;Is this an assessment like the National Climate Assessment? &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;No. Climate change science assessments, such as those by the Intergovernmental Panel on Climate Change (IPCC) and U.S. Global Change Research Program (USGCRP), look across the scientific literature as a whole to develop consensus conclusions about the state of climate change science. The CIRA project, on the other hand, is narrowly focused and is designed to answer the targeted questions of what the physical and economic damages of climate change will be in the U.S., and how reducing global GHG emissions would reduce or avoid these impacts.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq4&quot; name=&quot;faq4&quot;&gt;&lt;/a&gt;Does the CIRA report discuss the costs of reducing GHG emissions? &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;No. The CIRA report focuses on the benefits to the U.S. of a significant, but illustrative, level of global action on climate change. There are multiple policy approaches that could be undertaken to achieve any particular emissions reduction target, but this report does not discuss those or the costs of implementing a particular policy or policies. There is a robust literature on climate mitigation costs, such as the IPCC’s Working Group III’s contribution to the Fifth Assessment Report:  &lt;a href=&quot;http://www.ipcc.ch/report/ar5/wg3/&quot;&gt;Climate Change 2014: Mitigation of Climate Change&lt;/a&gt;. The CIRA report provides a complementary set of information regarding the benefits of GHG mitigation, but does not constitute a cost-benefit assessment of climate policy.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq5&quot; name=&quot;faq5&quot;&gt;&lt;/a&gt;What emissions scenarios were used in the CIRA project? &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;To allow for a better understanding of the potential benefits of global-scale GHG mitigation, the CIRA results presented in the report consider two emissions scenarios: a business-as-usual future in which GHG emissions continue to increase unchecked, and a mitigation scenario in which global GHG emissions are substantially reduced. This mitigation scenario focuses on a future where the increase in average global temperature is limited to 2° Celsius above preindustrial levels, a goal relevant in international climate discussions. Importantly, the CIRA emissions scenarios provide illustrations for analytical comparison and do not represent specific policies.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;CIRA Report Process and Results &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq8&quot; name=&quot;faq8&quot;&gt;&lt;/a&gt;What is the precision of the results?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;While projecting decades into the future involves uncertainty, this report shows a substantial difference between a world with and without global climate action, making a clear case that acting now is worth it to the U.S. Using peer-reviewed and scientifically rigorous methods, the estimates in the report provide insights to the direction and magnitude of climate change impacts and the benefits (avoided impacts) to the U.S. of global GHG reductions. However, none of the estimates presented in this report should be interpreted as definitive predictions of future impacts at a particular place and time.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq6&quot; name=&quot;faq6&quot;&gt;&lt;/a&gt;What was the review process for this report—was it peer reviewed? &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The CIRA report builds on two layers of peer review. First, the report summarizes more than 35 studies that were individually peer reviewed in scientific journals. These papers describe the underlying methods and results for different aspects of the overall project. Second, the summary report itself then underwent an external, independent peer review to ensure that the contents were appropriately summarizing and communicating the methods and results of the underlying papers.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq7&quot; name=&quot;faq7&quot;&gt;&lt;/a&gt;Does this report cover all climate change impacts, or all the benefits of mitigation?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;No. The report describes some important impacts of climate change, but many others are not included due to data availability and resource constraints. In addition, for some sectors in the report, only part of the impact or damage is included in the estimate. For example, for wildfires, only the costs associated with suppressing them and reducing fuels are included in CIRA, while damages to homes and other impacts of wildfire are not. Impacts occurring in Alaska and outside of U.S. borders are not included since the primary focus of analysis is the contiguous U.S. Lastly, the results do not quantify the additional benefits to air quality and health that would stem from the co-control of traditional air pollutants along with GHGs (both are emitted from many of the same sources). Including these would further increase the benefits by a significant amount.&lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq9&quot; name=&quot;faq9&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;strong&gt;Does the report consider the positive effects of climate change on the U.S.?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes, the analyses described in the report evaluate both negative as well as positive effects of unmitigated climate change. In the report, positive effects are, in general, substantially outweighed by the negative effects of unmitigated climate change within their respective sectors. There are specific examples of this. The projected increase in deaths due to more frequent extremely hot days is estimated to be much larger than the projected decrease in deaths due to fewer extremely cold days. The agricultural and forestry analyses capture both adverse and beneficial effects to crop and timber production. Additionally, the economic damages associated with the contraction of recreational fishing for coldwater species outweighs the potential benefits from an expansion in warmwater fishing.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;strong&gt;Relationship to the Clean Power Plan and Other Climate Policies&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq10&quot; name=&quot;faq10&quot;&gt;&lt;/a&gt;Does this report estimate avoided impacts from the Clean Power Plan or any specific climate change policy?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;No. The report examines how the U.S. would benefit from a significant, but &lt;em&gt;illustrative&lt;/em&gt;, level of action to reduce GHG emissions globally. This report does not evaluate the Clean Power Plan, and should not be interpreted as an evaluation of any specific policy in the U.S. or in other world regions. Benefits of domestic GHG mitigation actions are estimated elsewhere using the &lt;a href=&quot;/climatechange/EPAactivities/economics/scc.html&quot;&gt;social cost of carbon&lt;/a&gt;. The CIRA project complements, but is separate from, those efforts. &lt;/p&gt;
+
+&lt;h3&gt;&lt;strong&gt;&lt;a id=&quot;faq11&quot; name=&quot;faq11&quot;&gt;&lt;/a&gt;Why doesn’t the report evaluate the benefits to the U.S. of specific domestic emission reductions, rather than global-scale reductions?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Slowing and preventing human-induced climate change requires global-scale action; the U.S. must do its part but cannot act alone. Unmitigated climate change is projected to profoundly affect human health, the economy, and the environment in the U.S. The CIRA results demonstrate that near-term global action on climate change can reduce or avoid many of these far-reaching impacts and damages in the U.S.&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/cira/downloads-cira-report&quot;&gt;Download this content as a PDF.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+     <pubDate>Wed, 13 May 2015 20:27:47 +0000</pubDate>
+ <dc:creator>xsgreenb</dc:creator>
+ <guid isPermaLink="false">84147 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Action Benefits: Key Findings</title>
+    <link>https://www.epa.gov/cira/climate-action-benefits-key-findings</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs vertical&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#interpreting&quot;&gt;Interpreting the Results&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#national-highlights&quot;&gt;National Highlights&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#regional-highlights&quot;&gt;Regional Highlights&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;summary&quot;&gt;
+		&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Photo: Man running&quot; height=&quot;150&quot; width=&quot;200&quot; class=&quot;left media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/summary_runningman.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+		&lt;p&gt;Climate change poses significant risks to humans and the environment. The CIRA project quantifies and monetizes the risks of inaction and benefits to the U.S. of global GHG mitigation within six broad sectors (water resources, electricity, infrastructure, health, agriculture and forestry, and ecosystems). Looking across the impact estimates presented in this report, several common themes emerge.&lt;a href=&quot;/cira/notes-and-references-cira-report#2-1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+		 
+
+		&lt;h2&gt;Global GHG Mitigation Reduces the Frequency of Extreme Weather Events and Associated Impacts&lt;/h2&gt;
+
+		&lt;p&gt;Global GHG mitigation is projected to have a substantial effect on reducing the incidence of extreme tem­perature and precipitation events by the end of the century, as well as the impacts to humans and the environ­ment associated with these extreme events.&lt;a href=&quot;/cira/notes-and-references-cira-report#2-2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; For example, by 2100 mitigation is project­ed to avoid 12,000 deaths annually associated with extreme temperatures in 49 U.S. cities, compared to a future with no emission reductions. Inclusion of the entire U.S. population would greatly increase the number of avoided deaths, while accounting for adaptation could reduce this number.&lt;/p&gt;
+
+		&lt;h2&gt;Global GHG Mitigation Avoids Costly Damages in the U.S.&lt;/h2&gt;
+
+		&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg right view-mode-full&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Photo: A boy fishing with adult&quot; height=&quot;150&quot; width=&quot;200&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/summary_fishing.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+		&lt;p&gt;For nearly all sectors analyzed, global GHG mitigation is projected to prevent or substantially reduce adverse impacts in the U.S. this century compared to a future without emission reduc­tions. For many sectors, the projected benefits of mitigation are substantial; for example, in 2100 mitigation is projected to result in cost savings of $4.2-$7.4 billion associated with avoided road maintenance. Global GHG mitigation is also projected to avoid the loss of 230,000-360,000 acres of coldwater fish habitat across the country compared to a future without emissions reductions.&lt;/p&gt;
+
+		&lt;h2&gt;The Benefits of GHG Mitigation Increase over Time&lt;/h2&gt;
+
+		&lt;p&gt;For a large majority of sectors analyzed, the benefits of GHG mitigation are projected to be greater in 2100 than in 2050. In addition, the benefits of GHG mitigation are often not apparent until mid-century. This delay in benefits is consistent with many studies,&lt;a href=&quot;/cira/notes-and-references-cira-report#2-3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; and is attributable to inertia in the climate system. Therefore, decisions we make today can have long-term effects, and delaying action will likely increase the risks of significant and costly impacts in the future.&lt;/p&gt;
+
+		&lt;h2&gt;Adaptation Can Reduce Overall Damages in Certain Sectors&lt;/h2&gt;
+
+		&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Photo of broken pier after hurricane Sandy&quot; height=&quot;150&quot; width=&quot;200&quot; class=&quot;left media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/summary_sandy.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+		&lt;p&gt;Adaptation can substantially reduce certain impacts of climate change regardless of whether future GHG levels are low or high. For example, the estimated damages to coastal property from sea level rise and storm surge in the contiguous U.S. are $5.0 trillion through 2100 (discounted at 3%&lt;a href=&quot;/cira/notes-and-references-cira-report#2-4&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;) in a future without emission reductions. When cost-effective adaptation along the coast is included, the estimated damages are reduced to $810 billion.&lt;/p&gt;
+
+		&lt;h2&gt;Impacts Vary across Time and Space&lt;/h2&gt;
+
+		&lt;p&gt;Important regional changes may be masked when results are presented at the national level. For example, the wildfire analysis reveals that the projected changes in the Southwest and Rocky Mountain regions are the primary drivers of national trends of increasing wildfire activity over time.&lt;/p&gt;
+
+		&lt;p&gt;The temporal scale of climate change impacts is also important. While some impacts are likely to occur gradually over time, others may exhibit threshold (tipping point) responses to climate change, as large changes manifest over a short period of time. For example, high-temperature bleaching events projected to occur by 2025 are estimated to severely affect coral reefs in the Caribbean. Therefore, simply analyzing an impact in one time period (e.g., 2100) may mask important temporal dynamics that are relevant to decision-makers.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;interpreting&quot;&gt;
+		&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg left view-mode-full&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Photo: Dense forest&quot; height=&quot;150&quot; width=&quot;200&quot; class=&quot;left media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/summary-trees.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+		&lt;p&gt;This report presents results from the Climate Change Impacts and Risk Analysis (CIRA) project—a large set of sectoral impact models that quantify and monetize climate change impacts in the U.S., with a primary focus on the contiguous U.S., in futures with and without global greenhouse gas (GHG) mitigation. The CIRA analyses are intended to provide insights about the potential direction and magnitude of climate change impacts and the benefits (avoided impacts) to the U.S. of global emissions reductions. Importantly, this report analyzes only some of the impacts of climate change, and therefore estimates just a portion of the total benefits of reducing GHGs.  In addition, none of the estimates presented in this report should be interpreted as definitive predictions of future impacts at a particular place or time.&lt;/p&gt;
+
+		&lt;p&gt;The CIRA analyses do not evaluate or assume specific mitigation or adaptation policies in the U.S. or in other world regions. Instead, they consider plausible scenarios to illustrate potential benefits of significant GHG emission reductions compared to a business-as-usual future. The results should not be interpreted as supporting any particular domestic or global mitigation policy or target. A wide range of global mitigation scenarios could be modeled in the CIRA framework, and results would likely vary based on the details of a particular policy.&lt;a href=&quot;/cira/notes-and-references-cira-report#2-5&quot;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; For ease of communicating results, this report focuses on a future where the increase in average global temperature is limited to approximately 2°C (3.6°F) above preindustrial levels – a goal relevant to international discussions on GHG emission reductions (&lt;a href=&quot;/cira/climate-action-benefits-methods-analysis&quot;&gt;see the Methods of Analysis page for more information&lt;/a&gt;).&lt;a href=&quot;/cira/notes-and-references-cira-report#2-6&quot;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;This report includes as many climate change impacts as feasible at present, but is not all-inclusive. It is not intended to be as comprehensive as major assessments, such as those conducted by the U.S. Global Change Research Program (USGCRP), which capture a wider range of impacts from the published literature.&lt;a href=&quot;/cira/notes-and-references-cira-report#2-7&quot;&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; By using a consistent set of socioeconomic and climate scenarios, CIRA produces apples-to-apples comparisons of impacts across sectors and regions – something that is not always achieved, or even sought, in the major assessments. Also, the assessments typically do not monetize damages, nor do they focus on quantifying mitigation benefits. CIRA’s ability to estimate how global GHG mitigation may benefit the U.S. by reducing or avoiding climate change impacts helps to fill an important literature and knowledge gap.&lt;/p&gt;
+
+		&lt;p&gt;The CIRA analyses do not serve the same analytical purpose nor use the same methodology as the Social Cost of Carbon, an economic metric quantifying the marginal global benefit of reducing one ton of carbon dioxide.&lt;a href=&quot;/cira/notes-and-references-cira-report#2-8&quot;&gt;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt; In addition, the costs of reducing GHG emissions,&lt;sup&gt;&lt;a href=&quot;/cira/notes-and-references-cira-report#2-9&quot;&gt;9&lt;/a&gt; &lt;/sup&gt;and the health benefits associated with co-reductions in other air pollutants, are well-examined elsewhere in the literature&lt;a href=&quot;/cira/notes-and-references-cira-report#2-10&quot;&gt;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt; and are beyond the scope of this report.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;national-highlights&quot;&gt;
+		&lt;p&gt;This section provides an overview of the national-scale results presented throughout this report. It presents the estimated physical and monetary benefits (avoided impacts) to the U.S. of global GHG mitigation compared to the Reference scenario in the years 2050 and 2100. Although not available for all sectors, cumulative benefits for the entire 21&lt;sup&gt;st&lt;/sup&gt; century would likely be much larger than the annual estimates presented here. In addition, the individual monetized estimates are not aggregated, as only a subset of climate change impacts is quantified in this report, and there are differences in the types of costs being quantified across the sectors. For detailed information on the results, and a summary of the methodologies used, please refer to the &lt;a href=&quot;/cira/climate-action-benefits-results-sector&quot;&gt;Sectors section&lt;/a&gt; of this report.&lt;/p&gt;
+
+		&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;This table describes national highlights from the CIRA report.&quot; height=&quot;1517&quot; width=&quot;928&quot; class=&quot;center media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/national-highlights-web_0.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;a href=&quot;/cira/text-version-climate-action-benefits-national-highlights-table&quot;&gt;View a text version of this diagram ►&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;regional-highlights&quot;&gt;
+		&lt;p&gt;This section highlights regional impacts of climate change in the U.S. For each sector, the map presents a region where substantial benefits of global GHG mitigation are projected to occur in the years 2050 or 2100.* Note that the geographic scale at which impacts are quantified in the sectoral analyses vary. For example, some of the analyses calculate impacts for large watersheds, while others use the National Climate Assessment regions. For purposes of highlighting regional impacts, this section approximates the regions.&lt;/p&gt;
+
+		&lt;div id=&quot;cira_map&quot;&gt; &lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;/cira/text-version-climate-action-benefits-regional-highlights-map&quot;&gt;View a text version of this diagram ►&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</description>
+     <pubDate>Mon, 11 May 2015 22:19:05 +0000</pubDate>
+ <dc:creator>JMartini</dc:creator>
+ <guid isPermaLink="false">83755 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Action Benefits: Carbon Storage</title>
+    <link>https://www.epa.gov/cira/climate-action-benefits-carbon-storage</link>
+    <description>&lt;div class=&quot;figure image right caption&quot; style=&quot;width:448px&quot;&gt;
+	&lt;h3&gt;Figure 1. Carbon Storage Basics&lt;/h3&gt;
+	&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-full&quot; style=&quot;width:658px;&quot;&gt;&lt;img alt=&quot;Infographic showing the basics of the carbon cycle, including photosynthesis, litterfall, sedimentation, combustion, respiration, and decomposition.&quot; title=&quot;Figure 1. Carbon Storage Basics&quot; height=&quot;531&quot; width=&quot;658&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/carbon-storage-fig-1-hires.jpg&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;Terrestrial ecosystems influence the climate system through their important role in the global carbon cycle. These ecosystems capture and store carbon from the atmosphere, thereby reducing its climate impact. However, they can also act as a source, releasing carbon through decomposition and wildfires (Figure 1). Terrestrial ecosystems in the U.S., which include forests, grasslands, and shrublands, are currently a net carbon sink. Today, forests store more than 227 million tons of carbon per year, which offsets approximately 16% of all annual U.S. carbon dioxide emissions from fossil fuel burning.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-47&quot;&gt;&lt;sup&gt;47&lt;/sup&gt;&lt;/a&gt; Forest carbon storage has increased due to net increases in forest area, improved forest management, as well as higher productivity rates and longer growing seasons driven by climate change.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-48&quot;&gt;&lt;sup&gt;48&lt;/sup&gt;&lt;/a&gt; However, climate-driven changes in the distribution of vegetation types, wildfire, pests, and disease are affecting, and will continue to affect, U.S. terrestrial ecosystem carbon storage.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-49&quot;&gt;&lt;sup&gt;49&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#findings&quot;&gt;Key findings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#risks&quot;&gt;Risks of inaction&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reducing&quot;&gt;Reducing impacts through GHG mitigation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#approach&quot;&gt;Approach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Additional information:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cira/climate-action-benefits-ecosystems&quot;&gt;Back to Ecosystems&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cira/downloads-cira-report-individual-sectors&quot;&gt;Download a PDF of this section&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;findings&quot; id=&quot;findings&quot;&gt;&lt;/a&gt;Key Findings&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;Changes in vegetative carbon storage in the contiguous U.S. are highly dependent on the projected future climate, with the magnitude, regional distribution, and directionality of impacts changing over time.&lt;/li&gt;
+	&lt;li&gt;The estimated effect of global GHG mitigation on carbon storage ranges from a decrease in carbon stocks of 0.5 billion metric tons to an increase in carbon stocks of 1.4 billion metric tons by the end of the century, depending on the climate model used. The economic value of these changes in carbon storage ranges from $9 billion in disbenefits to $120 billion in GHG mitigation benefits (both discounted at 3%).&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;risks&quot; id=&quot;risks&quot;&gt;&lt;/a&gt;Risks of Inaction&lt;/h2&gt;
+
+&lt;p&gt;Climate change impacts on terrestrial ecosystem carbon storage under the Reference are on the order of billions of tons of carbon from 2000 to 2100, with some regions showing substantial changes in terrestrial carbon stocks (total amount of carbon in the vegetation). Under the IGSM-CAM climate projections, terrestrial ecosystem storage across the contiguous U.S. is projected to increase 3.4% from 2000 to 2100 (equal to 2.9 billion metric tons),&lt;a href=&quot;/cira/notes-and-references-cira-report#9-50&quot;&gt;&lt;sup&gt;50&lt;/sup&gt;&lt;/a&gt; primarily due to generally warmer, wetter, and CO&lt;sub&gt;2&lt;/sub&gt;-rich future conditions that are favorable to vegetative growth. Much of the national trend is driven by the Rocky Mountains, South, and East regions, which have the largest projected increases in terrestrial ecosystem carbon. However, as shown in Figure 2, there is substantial regional variation, and projections for carbon storage vary greatly depending on the projected future climate. Results using the drier MIROC climate model project net reductions in stored carbon under the Reference in most regions. These results are consistent with the findings of the assessment literature.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-51&quot;&gt;&lt;sup&gt;51&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Figure 2. Projected Impact of Unmitigated Climate Change on Stored Carbon in 2100&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img height=&quot;402&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/carbon-storage-fig2-hires_0.png&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Simulated changes in carbon stocks from the baseline (2000-2009 average) projected by the IGSM-CAM and MIROC climate models are aggregated by U.S. Forest Service Geographic Area Coordination Center region.&lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;/sites/production/files/2015-06/carbon-storage-fig-2-download.png&quot;&gt;download the figure&lt;/a&gt;;&amp;nbsp;&lt;a href=&quot;/sites/production/files/2015-06/carbon-storage-fig-2.csv&quot;&gt;download the data&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;reducing&quot; id=&quot;reducing&quot;&gt;&lt;/a&gt;Reducing Impacts through GHG Mitigation&lt;/h2&gt;
+
+&lt;p&gt;The impacts of GHG mitigation on national terrestrial ecosystem carbon storage are highly dependent upon the projected future climate, with the magnitude and even directionality of impacts varying over time (Figure 3). Across the contiguous U.S., average results across the IGSM-CAM initializations show that GHG mitigation reduces stored carbon compared to the Reference by 0.5 billion metric tons over the course of the century. The economic value of this lost carbon under the Mitigation scenario is an estimated $9.0 billion (discounted at 3%). As shown in Figure 3, carbon stocks under the Mitigation scenario are larger than the Reference in the first half of the century under the IGSM-CAM, but the trend reverses after 2050, as climate conditions under the Reference (generally warmer and wetter) are more favorable for vegetative growth. There is an early savings from the near-term gain in stored carbon of approximately 1.1 billion metric tons, estimated at $170 billion by 2030 (discounted at 3%). However, these initial gains are not large enough to offset projected losses in the second half of the century.&lt;/p&gt;
+
+&lt;p&gt;The projected impacts of climate change on vegetative carbon storage and the effects of GHG mitigation are different when using the relatively drier climate projections from the MIROC model (Figure 3). The MIROC results project a consistent increase in carbon storage benefits when comparing the Mitigation scenario to the Reference, with a carbon stock increase of 1.4 billion metric tons by 2100. The economic value of this carbon gain under the Mitigation scenario is an estimated $120 billion (discounted at 3%). Results using IGSM-CAM projections show much more variability over time than the MIROC results, which is primarily a reflection of the climate projection method.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-52&quot;&gt;&lt;sup&gt;52&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;h3&gt;Figure 3. Projected Impact of Global GHG Mitigation on Carbon Stocks in the Contiguous U.S.&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:658px;&quot;&gt;&lt;img title=&quot;Figure 3. Projected Impact of Global GHG Mitigation on Carbon Stocks in the Contiguous U.S.&quot; height=&quot;403&quot; width=&quot;658&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-05/carbon-storage-fig-3-hires.png&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Estimated change in the size of terrestrial ecosystem carbon stocks under the Mitigation scenario compared to the Reference. Positive values indicate larger carbon stocks under the Mitigation scenario compared to the Reference, and vice versa. The thin lines represent estimated changes in carbon stocks under the different initializations of the IGSM-CAM climate model.&lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;/sites/production/files/2015-06/carbon-storage-fig-3-download.png&quot;&gt;download the figure&lt;/a&gt;; &lt;a href=&quot;/sites/production/files/2015-06/carbon-storage-fig-3.csv&quot;&gt;download the data&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;approach&quot; id=&quot;approach&quot;&gt;&lt;/a&gt;Approach&lt;/h2&gt;
+
+&lt;p&gt;To estimate climate change impacts on terrestrial ecosystem carbon storage, the MC1 dynamic global vegetation model was used to simulate terrestrial vegetative growth and cover (e.g., grasses, shrubs, hard and softwood forests) for the contiguous U.S. from 2000 to 2100.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-53&quot;&gt;&lt;sup&gt;53&lt;/sup&gt;&lt;/a&gt; Vegetative cover estimates from MC1 reflect simulated changes in climate, biogeography, biogeochemistry, and fire dynamics. MC1 was run using the five initializations of the IGSM-CAM climate model for both the Reference and Mitigation scenarios (see the &lt;a href=&quot;/cira/climate-action-benefits-methods-analysis#framework&quot;&gt;Methods of Analysis&lt;/a&gt; section for more information).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-54&quot;&gt;&lt;sup&gt;54&lt;/sup&gt;&lt;/a&gt; The results described in this section represent the average of these initializations. Because IGSM-CAM projects a wetter future for a majority of the nation, MC1 was also run using the MIROC climate model. These drier climate projections for the U.S. were used to capture a broader range of possible precipitation futures under the same GHG emissions scenarios.&lt;/p&gt;
+
+&lt;p&gt;Projected annual changes in terrestrial carbon storage for non-agricultural, non-developed lands across the contiguous U.S. were summarized by scenario and geographic area, and then monetized using the central estimate of the U.S. Government’s updated social cost of carbon (SCC) values for the years 2010–2050, with extrapolation to 2100.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-55&quot;&gt;&lt;sup&gt;55&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This analysis did not consider the effects of future changes in ozone, pests, and disease, which could influence the ability of U.S. terrestrial ecosystems to store carbon.&lt;/p&gt;
+
+
+
+&lt;p&gt;For more information on the CIRA approach and results for carbon storage, please refer to Mills et al. (2014).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-56&quot;&gt;&lt;sup&gt;56&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 11 May 2015 16:37:24 +0000</pubDate>
+ <dc:creator>xsgriffi</dc:creator>
+ <guid isPermaLink="false">83651 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Action Benefits: Wildfire</title>
+    <link>https://www.epa.gov/cira/climate-action-benefits-wildfire</link>
+    <description>&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png right view-mode-full&quot; style=&quot;width:200px;&quot;&gt;&lt;img alt=&quot;Photo: Trees burnt in a wildfire&quot; height=&quot;150&quot; width=&quot;200&quot; class=&quot;right media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-05/subsector_page_6ecosystems_wildfire.png&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;Terrestrial ecosystems in the U.S. provide a wealth of goods and services such as timber, wildlife habitat, erosion management, water filtration, recreation, and aesthetic value. Climate change threatens these ecosystems as heat, drought, and other disturbances bring larger and more frequent wildfires. Wildfires can damage property, disrupt ecosystem services, destroy timber stocks, impair air quality, and result in loss of life.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-29&quot;&gt;&lt;sup&gt;29&lt;/sup&gt;&lt;/a&gt; In the last decade (2004-2013), more than 72 million acres of forest have burned due to wildfires, and the U.S. government has spent in excess of $15 billion on wildfire suppression.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-30&quot;&gt;&lt;sup&gt;30&lt;/sup&gt;&lt;/a&gt; Additionally, wildfires release carbon stored in terrestrial ecosystems, potentially further accelerating climate change.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-31&quot;&gt;&lt;sup&gt;31&lt;/sup&gt;&lt;/a&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;a href=&quot;/cira/notes-and-references-cira-report#9-32&quot;&gt;&lt;sup&gt;32&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;On this page:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#findings&quot;&gt;Key findings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#risks&quot;&gt;Risks of inaction&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reducing&quot;&gt;Reducing impacts through GHG mitigation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#approach&quot;&gt;Approach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Additional information:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cira/climate-action-benefits-ecosystems&quot;&gt;Back to Ecosystems&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cira/downloads-cira-report-individual-sectors&quot;&gt;Download a PDF of this section&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;findings&quot; id=&quot;findings&quot;&gt;&lt;/a&gt;Key Findings&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;Without global GHG mitigation efforts, climate change is projected to dramatically increase the area burned by wildfires across most of the contiguous U.S., especially in the West.&lt;/li&gt;
+	&lt;li&gt;Global GHG mitigation is projected to reduce the cumulative area burned by wildfires over the course of the 21&lt;sup&gt;st&lt;/sup&gt; century by approximately 210-300 million acres compared to the Reference.&lt;/li&gt;
+	&lt;li&gt;Global GHG mitigation avoids an estimated $8.6-$11 billion in wildfire response costs and $3.4 billion in fuel management costs on conservation lands (discounted at 3%) through 2100 compared to the Reference. Other impacts, such as property damage or health effects from decreased air quality, are not estimated, but could have large economic implications.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;risks&quot; id=&quot;risks&quot;&gt;&lt;/a&gt;Risks of Inaction&lt;/h2&gt;
+
+&lt;p&gt;Without GHG mitigation, climate change is projected to dramatically increase the area burned by wildfires across most of the contiguous U.S., a finding that is consistent with the assessment literature.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-33&quot;&gt;&lt;sup&gt;33&lt;/sup&gt;&lt;/a&gt; Under the Reference using the IGSM-CAM climate projections, approximately 5.3 million&lt;a href=&quot;/cira/notes-and-references-cira-report#9-34&quot;&gt;&lt;sup&gt;34&lt;/sup&gt;&lt;/a&gt; more acres&lt;span&gt;—&lt;/span&gt;an area greater than the state of Massachusetts&lt;span&gt;—&lt;/span&gt;are projected to burn each year at the end of the century compared to today. This represents a doubling of acres burned compared to today’s rates.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-35&quot;&gt;&lt;sup&gt;35&lt;/sup&gt;&lt;/a&gt; However, the estimated impacts vary across regions and through time (Figure 1). Consistent with the assessment literature,&lt;a href=&quot;/cira/notes-and-references-cira-report#9-36&quot;&gt;&lt;sup&gt;36&lt;/sup&gt;&lt;/a&gt; the western U.S.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-37&quot;&gt;&lt;sup&gt;37&lt;/sup&gt;&lt;/a&gt; is projected to experience large increases in burned area by the end of the century (an increase of approximately 43%). In particular, the Southwestern region (comprising Arizona, New Mexico, and West Texas) is projected to experience increases of 140% on average.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-38&quot;&gt;&lt;sup&gt;38&lt;/sup&gt;&lt;/a&gt; Wildfire in other regions is not projected to change significantly compared to today, and some regions, such as the Northeast, are estimated under the IGSM-CAM projections to experience decreases in wildfire activity.&lt;/p&gt;
+
+&lt;h3&gt;Figure 1. Projected Impact of Unmitigated Climate Change on Wildfire Activity&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img title=&quot;Figure 1. Projected Impact of Unmitigated Climate Change on Wildfire Activity&quot; height=&quot;407&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-05/wildfire-fig1-hires.png&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Change in average annual acres burned under the Reference scenario by mid-century (2035-2064) and end of century (2085-2114) compared to the historic baseline (2000-2009) using the IGSM-CAM climate model. Acres burned include all vegetation types and are calculated at a cell resolution of 0.5° x 0.5°.&lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;/sites/production/files/2015-06/wildfire-fig-1-download.png&quot;&gt;download the figure&lt;/a&gt;; &lt;a href=&quot;/sites/production/files/2015-06/widlfire-fig-1.csv&quot;&gt;download the data&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;reducing&quot; id=&quot;reducing&quot;&gt;&lt;/a&gt;Reducing Impacts through GHG Mitigation&lt;/h2&gt;
+
+&lt;p&gt;As shown in Figure 2, global GHG mitigation significantly reduces the area burned by wildfire in the U.S. over the course of the 21&lt;sup&gt;st &lt;/sup&gt;century. By 2100, the Mitigation scenario reduces the cumulative area burned by approximately 210-300 million acres, depending on the climate model used. This corresponds to a 13%-14% reduction relative to the Reference. As shown, the combined area of wildfires avoided in the contiguous U.S. due to GHG mitigation is equivalent to two to three times the size of California. These benefits of GHG mitigation largely occur in the West, where approximately 64%-75% of the avoided burned area is located.&lt;/p&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png right view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;Global GHG mitigation is projected to result in 210-300 million fewer acres burned over the course of the 21st century, an area 2-3 times the size of California. This infographic shows the outline of California three times to convey this information.&quot; title=&quot;Benefits of GHG Mitigation &quot; height=&quot;340&quot; width=&quot;448&quot; class=&quot;right media-element file-medium right&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-05/wildfires-infographic-hires.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Nationally, the avoided wildfire due to GHG mitigation corresponds to $11 billion in reduced wildfire response costs and $3.4 billion&lt;a href=&quot;/cira/notes-and-references-cira-report#9-39&quot;&gt;&lt;sup&gt;39&lt;/sup&gt;&lt;/a&gt; in avoided fuel management costs for conservation lands through 2100 (both discounted at 3%). Other economic damages from wildfire that are not estimated in this analysis, such as human health effects from decreased air quality, could have large implications at national and regional scales. These results rely upon climate projections from the IGSM-CAM, which projects a relatively wetter future for most of the U.S. compared to the MIROC climate model (see the &lt;a href=&quot;/cira/climate-action-benefits-methods-analysis#uncertainty&quot;&gt;Levels of Certainty&lt;/a&gt; section of this report for more information). The projected benefits of global GHG mitigation are slightly lower for the drier MIROC model, with wildfire response cost savings estimated at $8.6 billion through 2100 (discounted at 3%).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-40&quot;&gt;&lt;sup&gt;40&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Figure 2. Estimated Acres Burned with and without Global GHG Mitigation&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png center view-mode-medium caption&quot; style=&quot;width:448px;&quot;&gt;&lt;img title=&quot;Figure 2. Estimated Acres Burned with and without Global GHG Mitigation&quot; height=&quot;347&quot; width=&quot;448&quot; class=&quot;center media-element file-medium center&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2015-05/wildfire-fig-2-hires.png&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Estimated acres burned by wildfire in the contiguous U.S. over the course of the 21&lt;sup&gt;st&lt;/sup&gt; century under the Reference and Mitigation scenarios using the IGSM-CAM climate model, with trends shown in bold. The large inter-annual variability reflects simulated periods of fuel accumulation followed by seasons of large wildfire activity.&lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;/sites/production/files/2015-06/wildfire-fig-2-download.png&quot;&gt;download the figure&lt;/a&gt;; &lt;a href=&quot;/sites/production/files/2015-06/wildfire-fig-2.csv&quot;&gt;download the data&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;approach&quot; id=&quot;approach&quot;&gt;&lt;/a&gt;Approach&lt;/h2&gt;
+
+&lt;p&gt;To estimate the effect of climate change on areas burned by wildfires, the CIRA analysis uses the MC1 dynamic global vegetation model. The model simulates future terrestrial ecosystem cover and burned area across the contiguous U.S. in the 21st century. The vegetation model is driven by changes in future climate (e.g., temperature, precipitation, humidity) based on five initializations of the IGSM-CAM climate model for the Reference and Mitigation scenarios.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-41&quot;&gt;&lt;sup&gt;41&lt;/sup&gt;&lt;/a&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;a href=&quot;/cira/notes-and-references-cira-report#9-42&quot;&gt;&lt;sup&gt;42&lt;/sup&gt;&lt;/a&gt; Results presented in this section represent the average of the initializations. Simulations using the drier MIROC model were also performed. Projected changes in fire regime over time are adjusted to account for fire suppression tactics.&lt;/p&gt;
+
+&lt;p&gt;The projected impacts of wildfires are summarized by scenario and geographic area, and then monetized using average wildfire response costs for each region. These costs include the costs associated with labor (e.g., fire crews) and equipment (e.g., helicopters, bulldozers) that are required for fire-fighting efforts.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-43&quot;&gt;&lt;sup&gt;43&lt;/sup&gt;&lt;/a&gt; Using the approach described in Lee et al. (2015),&lt;a href=&quot;/cira/notes-and-references-cira-report#9-44&quot;&gt;&lt;sup&gt;44&lt;/sup&gt;&lt;/a&gt; the analysis also estimates the environmental damages resulting from moderate and severe wildfires on conservation lands (e.g., Forest Service lands, national parks and preserves, and other protected lands) across the contiguous U.S. under the Reference and Mitigation scenarios. To estimate the value of the lost ecosystem services resulting from these wildfires, the analysis quantifies the costs of fuels management needed to offset the injury caused by wildfires. Air quality impacts, property loss, loss of recreation, and the effects of pest infestations (e.g., pine bark beetles) on wildfire activity are additional and important impacts, but are not included in the reported estimates.&lt;/p&gt;
+
+&lt;p&gt;For more information on the CIRA approach and results for wildfires, please refer to Mills et al. (2014)&lt;a href=&quot;/cira/notes-and-references-cira-report#9-45&quot;&gt;&lt;sup&gt;45&lt;/sup&gt;&lt;/a&gt; and Lee et al. (2015).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-46&quot;&gt;&lt;sup&gt;46&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 11 May 2015 16:35:16 +0000</pubDate>
+ <dc:creator>xsgriffi</dc:creator>
+ <guid isPermaLink="false">83649 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Climate Action Benefits: Shellfish</title>
+    <link>https://www.epa.gov/cira/climate-action-benefits-shellfish</link>
+    <description>&lt;p&gt;The ocean absorbs about one quarter of the CO&lt;sub&gt;2&lt;/sub&gt; released into the atmosphere by human activities, primarily from the combustion of fossil fuels. Although the ocean’s ability to absorb CO&lt;sub&gt;2&lt;/sub&gt; prevents atmospheric levels from climbing even higher, measurements made over the last few decades have demonstrated that marine CO&lt;sub&gt;2&lt;/sub&gt; levels have risen, leading to an increase in acidity (Figure 1).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-12&quot;&gt;&lt;sup&gt;12&lt;/sup&gt;&lt;/a&gt; Ocean acidification is projected to adversely affect a number of valuable marine ecosystem services by making it more difficult for many organisms to form shells and skeletons.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-13&quot;&gt;&lt;sup&gt;13&lt;/sup&gt;&lt;/a&gt; Some shellfish are highly vulnerable to ocean acidification&lt;a href=&quot;/cira/notes-and-references-cira-report#9-14&quot;&gt;&lt;sup&gt;14&lt;/sup&gt;&lt;/a&gt; and any impacts to these species are expected to negatively affect the economy. Certain species have high commercial value; for example, each year in the U.S., oysters, clams, and scallops supply 170 million pounds of seafood valued at $400 million.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-15&quot;&gt;&lt;sup&gt;15&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Figure 1. Ocean Acidification Impact Pathway for Shellfish&lt;/h3&gt;
+
+&lt;div&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;img alt=&quot;Infographic showing the impact pathway of ocean acidification, from release of CO2 and other greenhouse gases into the atmosphere to absorption of CO2 emissions into the oceans and resulting impacts on consumers. &quot; height=&quot;609&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-06/shellfish-fig-1-hires_0.png&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+
+
+
+&lt;h4&gt;On this page:&lt;/h4&gt;
+
+
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#findings&quot;&gt;Key findings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#risks&quot;&gt;Risks of inaction&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#reducing&quot;&gt;Reducing impacts through GHG mitigation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#approach&quot;&gt;Approach&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Additional information:&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/cira/climate-action-benefits-ecosystems&quot;&gt;Back to Ecosystems&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/cira/downloads-cira-report-individual-sectors&quot;&gt;Download a PDF of this section&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;findings&quot; id=&quot;findings&quot;&gt;&lt;/a&gt;Key Findings&lt;/h2&gt;
+
+&lt;ol&gt;&lt;li&gt;Without global GHG mitigation, the harvests of some shellfish in the U.S. are projected to decline by 32%-48% by the end of the century due to ocean acidification, though estimated impacts vary by species.&lt;/li&gt;
+	&lt;li&gt;Demand for shellfish is projected to increase through the end of the century with a growing population and rising incomes, exacerbating the economic impacts in this sector.&lt;/li&gt;
+	&lt;li&gt;Global GHG mitigation is projected to avoid $380 million in consumer losses in 2100 compared to the Reference scenario by preventing most of the decreases in the supply of select shellfish and the resulting price increases.&lt;/li&gt;
+&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;risks&quot; id=&quot;risks&quot;&gt;&lt;/a&gt;Risks of Inaction&lt;/h2&gt;
+
+&lt;p&gt;The pace of ocean acidification is accelerating. Since the Industrial Revolution, the average pH of surface ocean waters has fallen by 0.1, representing a nearly 30% increase in acidity.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-16&quot;&gt;&lt;sup&gt;16&lt;/sup&gt;&lt;/a&gt; Under the Reference scenario, ocean acidification is projected to cause pH to drop an additional 0.3, representing a 100% increase in acidity from pre-industrial times. Continued ocean acidification is estimated to reduce the supply of oysters, scallops, and clams in 2100 by 45% (13 million pounds per year), 48% (21 million pounds), and 32% (31 million pounds), respectively (Figure 2). These decreases in supply are projected to result in price increases by 2100 of approximately $2.20 (a 68% increase from 2010), $9.10 (140%), and $1.30 (123%) per pound, respectively, and lead to consumer losses of roughly $480 million per year by the end of the century. These projections are consistent with the findings of the assessment literature, which describe reduced growth and survival of U.S. shellfish stocks due to unmitigated ocean acidification.&lt;a href=&quot;/cira/notes-and-references-cira-report#9-17&quot;&gt;&lt;sup&gt;17&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;reducing&quot; id=&quot;reducing&quot;&gt;&lt;/a&gt;Reducing Impacts through GHG Mitigation&lt;/h2&gt;
+
+&lt;p&gt;Reducing global GHG emissions can mitigate the ecological and economic impacts of ocean acidification. Figure 2 shows how the supplies of oysters, scallops, and clams are projected to fall with ocean acidification under the Reference and Mitigation scenarios. Although supplies are estimated to decrease under both scenarios relative to present-day supplies, the Mitigation scenario avoids a majority of the impacts, particularly for clams. In 2100, global GHG mitigation is projected to avoid the loss of 54 million pounds of oysters, scallops, and clams, or 34% of the present-day U.S. oyster supply, 37% of the scallop supply, and 29% of the clam supply.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 also indicates how the increase in demand and the decrease in supply are estimated to affect prices by 2100 for these shellfish under the two scenarios. Consumers are likely to substitute away from these shellfish as their prices increase, but not entirely, and not without some decrease in satisfaction. The Mitigation scenario keeps prices much closer to current levels, as indicated in Figure 2, resulting in smaller consumer losses in the shellfish market. In 2100, the benefits to shellfish consumers from global GHG emissions reductions under the Mitigation scenario are estimated at $380 million. The cumulative benefits over the century are estimated at $1.9 billion (discounted at 3%).&lt;/p&gt;
+
+&lt;h3&gt;Figure 2. Estimated Impacts on the U.S. Shellfish Industry&lt;/h3&gt;
+
+&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full caption&quot; style=&quot;width:928px;&quot;&gt;&lt;img title=&quot;Figure 2. Estimated Impacts on the U.S. Shellfish Industry&quot; height=&quot;811&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2015-05/shellfish-fig-2-hires.png&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;figcaption&quot;&gt;Projected changes in the supplies and prices of oysters, scallops, and clams through 2100 under the Reference and Mitigation scenarios relative to the base period.&lt;br /&gt;&lt;br /&gt;
+
+&lt;a href=&quot;/sites/production/files/2015-06/shellfish-fig-2-download.png&quot;&gt;download the figure&lt;/a&gt;; &lt;a href=&quot;/sites/production/files/2015-06/shellfish-fig-2.csv&quot;&gt;download the data&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;approach&quot; id=&quot;approach&quot;&gt;&lt;/a&gt;Approach&lt;/h2&gt;
+
+&lt;p&gt;The CIRA analysis models the entire “impact pathway” shown in Figure 1, which can be divided into biophysical and economic components. The biophysical impacts are estimated using the CIRA CO&lt;sub&gt;2&lt;/sub&gt; and sea surface temperature projections from the IGSM-CAM in the CO2SYS model&lt;a href=&quot;/cira/notes-and-references-cira-report#9-18&quot;&gt;&lt;sup&gt;18&lt;/sup&gt;&lt;/a&gt; to simulate seawater chemistry conditions through the 21&lt;sup&gt;st&lt;/sup&gt; century. These conditions are then used to estimate how the growth rates of oysters, scallops, and clams will change over time.&lt;/p&gt;
+
+&lt;p&gt;The economic analysis uses the projected growth rates of these species to estimate changes to the U.S. supply of shellfish. A consumer demand model of the shellfish market, described in Moore (2014),&lt;a href=&quot;/cira/notes-and-references-cira-report#9-19&quot;&gt;&lt;sup&gt;19&lt;/sup&gt;&lt;/a&gt; projects changes in prices and consumer behavior under the Reference and Mitigation scenarios. This model does not estimate producer or supply-side welfare effects, which could also show benefits of mitigation. Comparing the model results under the two scenarios provides an estimate of the benefits to the shellfish market of avoiding significant amounts of CO&lt;sub&gt;2&lt;/sub&gt; from being added to ocean waters. By considering impacts to these three species, this approach estimates just a fraction of the potential economic damages from ocean acidification, but, nonetheless, provides some insight into the benefits of global GHG mitigation.&lt;/p&gt;
+
+&lt;p&gt;In addition, by preventing the loss of shellfish populations, global GHG mitigation would preserve ecosystem services provided by these species (e.g., water filtration). Inclusion of these effects would likely increase the total benefits of GHG mitigation in this sector.&lt;/p&gt;
+
+&lt;p&gt;For more information on the CIRA approach to estimating the economic impacts of ocean acidification in the shellfish market, see Moore (2015).&lt;a href=&quot;/cira/notes-and-references-cira-report#9-20&quot;&gt;&lt;sup&gt;20&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;</description>
+     <pubDate>Mon, 11 May 2015 16:32:13 +0000</pubDate>
+ <dc:creator>xclamie</dc:creator>
+ <guid isPermaLink="false">83643 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 04:53:20, expires @ 2017-01-25 16:53:20, lifetime 12 hours -->

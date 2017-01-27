@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/49469/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Benefits Mapping and Analysis Program (BenMAP)</title>
+    <link>https://www.epa.gov/feed/49469/rss.xml</link>
+    <description>Updated Benefits Mapping and Analysis Program (BenMAP) content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/49469/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>BenMAP 1.0</title>
+    <link>https://www.epa.gov/benmap/benmap-10</link>
+    <description>&lt;p&gt;&lt;strong&gt;BenMAP 1.0&lt;/strong&gt;: The legacy version of BenMAP that was used in developing the regulatory benefits analyses for the Nonroad Diesel and Clean Air Interstate rules. This version of the model is designed for regional and national-scale analyses within the Continental United States, and uses a fixed set of population data and air quality model grid definitions. Download time for this version is significant due to the large databases which support the analyses.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-96679&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-12/ibinstall.zip&quot; type=&quot;application/zip; length=3796270&quot; class=&quot;file-link&quot;&gt;InterBase Installation (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 MB)&lt;/span&gt;&lt;/span&gt;
+  - This is the file to install InterBase. Interbase is the database technology used by BenMAP 1.0, and must be installed prior to the installation of BenMAP 1.0. Run this installer first, selecting all default options, and restart your machine when prompted. Save this file, unzip it, and run it.&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-179537&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/setup.zip&quot; type=&quot;application/zip; length=274770016&quot; class=&quot;file-link&quot;&gt;BenMAP v1.0 (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(275 MB)&lt;/span&gt;&lt;/span&gt;
+- This is the file to install BenMAP 1.0 and the BenMAP 1.0 User Manual. Save this file, unzip it, and run it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-96641&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/benmap1manual.pdf&quot; type=&quot;application/pdf; length=4247784&quot; class=&quot;file-link&quot;&gt;BenMAP 1.0 Manual (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(471 pp, 4 MB, 
+  November 2003)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-96643&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/benmap1factsheet.pdf&quot; type=&quot;application/pdf; length=511449&quot; class=&quot;file-link&quot;&gt;BenMAP 1.0 Fact Sheet - A quick introduction to BenMAP, its uses and capabilities. (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 511 K, 
+  August 2004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-96645&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/benmap1peerreview.pdf&quot; type=&quot;application/pdf; length=372833&quot; class=&quot;file-link&quot;&gt;BenMAP 1.0 Peer Review - The peer review comments on BenMAP Beta 2.0 (now BenMAP 1.0) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(80 pp, 373 K, 
+  March 2004)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-96647&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/benmap1response.pdf&quot; type=&quot;application/pdf; length=152147&quot; class=&quot;file-link&quot;&gt;EPA Response to Peer Review Comments (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 152 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 05 Dec 2014 15:15:47 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">68953 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>BenMAP 4.0</title>
+    <link>https://www.epa.gov/benmap/benmap-40</link>
+    <description>&lt;h2&gt;BenMAP 4.0 (January 2013)&lt;/h2&gt;
+
+&lt;p&gt;This is the legacy version of the BenMAP software. BenMAP v4.0.66 was used for the 2012 PM NAAQS Regulatory Impact Analysis. Both BenMAP v4.0.66 and the current version contain 2010 census data and address a number of bugs. Note that current versions of the configuration and aggregation, pooling and valuation files are not bundled in the installation package and may be downloaded below. Version 4.0.67 is a minor update from v4.0.66 (December 2012), with the only change being the inclusion of the CMAQ 36km grid definition.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-179525&quot; class=&quot;file file-document file-application-x-msdos-program&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/setup_4_0_67.exe&quot; type=&quot;application/x-msdos-program; length=334992009&quot; class=&quot;file-link&quot;&gt;BenMAP v4.0.67 (exe file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(335 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;BenMAP Command Line&lt;/h2&gt;
+
+&lt;p&gt;This scripting tool is useful to analysts who would like to execute a large number of BenMAP runs in succession. Users can define separate scripts for each stage of a BenMAP analysis, including: the creation of air quality grids, the running of the configuration stage, the running of the aggregation, pooling and valuation stage and exporting of results. Included in the download are example scripts. This program must be run through the MS-DOS command prompt. BenMAP Command Line is also bundled in the BenMAP installation package above.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-96671&quot; class=&quot;file file-document file-application-x-msdos-program&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-12/benmap_cmd.exe&quot; type=&quot;application/x-msdos-program; length=6809088&quot; class=&quot;file-link&quot;&gt;BenMAP Command Line (exe file) &lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Configuration Files for BenMAP v4.0 (not compatible with BenMAP-CE)&lt;/h2&gt;
+
+&lt;p&gt;Users can save their health impact analysis options within BenMAP configuration (.cfg) and aggregation, pooling and valuation (.apv) files. Below we provide files that specify the current U.S. EPA-default options for PM, ozone, NO2 and SO2 health impact assessments.  The zip file below contains the cfg and apv files for all of the pollutants.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-96749&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-12/pm25o3no2so2configurations.zip&quot; type=&quot;application/zip; length=6341562&quot; class=&quot;file-link&quot;&gt;Configuration Files for BenMAP v4.0 (not compatible with BenMAP-CE) (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 05 Dec 2014 14:57:39 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">68945 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>BenMAP Community Edition</title>
+    <link>https://www.epa.gov/benmap/benmap-community-edition</link>
+    <description>&lt;p&gt;&lt;strong&gt;BenMAP-Community Edition 1.1&lt;/strong&gt; (March 2015) - This is the current version of the BenMAP software. BenMAP has been completely redeveloped as open source software.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-179461&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/benmapinstaller_1.1.0.zip&quot; type=&quot;application/zip; length=384592999&quot; class=&quot;file-link&quot;&gt;BenMAP-CE v1.1.0 (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(385 MB)&lt;/span&gt;&lt;/span&gt;
+This is the installation package for v1.1 BenMAP-CE program. This build of the program works only on 64-bit versions of the Windows operating system; to determine whether you are running the 32-bit or 64-bit version of Windows, please visit this &lt;a href=&quot;http://support.microsoft.com/kb/827218&quot;&gt;Microsoft site&lt;/a&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;. We will release a 32-bit version of the program later this year. In the interim, please install v1.08 below if you are running 32-bit Windows. If you have installed an earlier version of the program, you will first need to uninstall it. If you modified your BenMAP-CE database and would like to transfer these data to the new version, please see the release notes below. &lt;/li&gt;
+	&lt;li&gt;The BenMAP-CE compatible versions of the
+		&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;file-227033&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-11/ozone_configuration_files_2015_0.zip&quot; type=&quot;application/zip; length=866684&quot; class=&quot;file-link&quot;&gt;EPA default ozone configuration and pooling setup (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 867 K, 
+  November 10, 2015)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+			&lt;li&gt;&lt;span id=&quot;file-96659&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2014-12/pm25_cfgx_and_apvx.zip&quot; type=&quot;application/zip; length=2120837&quot; class=&quot;file-link&quot;&gt;◦EPA default PM2.5 configuration and pooling setup (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 MB)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;The BenMAP-CE Quick Start Guide (see below) will get you up and running on the new BenMAP-CE. To complete the exercises, you will need to download the &lt;span id=&quot;file-117229&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-03/quick_start_data_nov_2014.zip&quot; type=&quot;application/zip; length=9197358&quot; class=&quot;file-link&quot;&gt;BenMAP-CE Quick Start Files&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 9 MB)&lt;/span&gt;&lt;/span&gt;
+Note that we expect this guide to evolve over time as we continue improving BenMAP-CE, so check back periodically for new versions. We are developing an online manual for BenMAP-CE.&lt;/li&gt;
+	&lt;li&gt;To import new data to the tool, please consult the&lt;span id=&quot;file-118929&quot; class=&quot;file file-document file-application-vndopenxmlformats-officedocumentspreadsheetmlsheet&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-03/benmap_import_file_specs_nov2014_1.xlsx&quot; type=&quot;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; length=80962&quot; class=&quot;file-link&quot;&gt;BenMAP-CE Import File Specifications&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 81 K, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+	&lt;li&gt;A set of slides that provide an overview of BenMAP-CE is available below.&lt;/li&gt;
+	&lt;li&gt;BenMAP-CE 1.0.8 known issues are available below.&lt;/li&gt;
+	&lt;li&gt;&lt;span id=&quot;file-179465&quot; class=&quot;file file-document file-application-x-msdos-program&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/benmap_ce_1.0.8_setup.exe&quot; type=&quot;application/x-msdos-program; length=512538913&quot; class=&quot;file-link&quot;&gt;BenMAP-CE v1.0.8 (exe file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(513 MB)&lt;/span&gt;&lt;/span&gt;
+ This is the installation package for v1.08 of the BenMAP-CE program.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;PopGrid&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BenMAP contains U.S. population data matched to a variety of commonly used air quality grids. However, users wishing to run an analysis based on an air quality grid not already defined in BenMAP may need to import a new population file matched to that grid definition. The  &lt;span id=&quot;file-179471&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2015-08/popgridv43_census_2010.zip&quot; type=&quot;application/zip; length=942587999&quot; class=&quot;file-link&quot;&gt;PopGrid program (zip file)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(943 MB)&lt;/span&gt;&lt;/span&gt;
+ allocates the 2010 block-level U.S. Census population to a user-defined grid, creating a population file ready for importation to BenMAP. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-117223&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-03/documents/benmap-ce_quick_start_guide_nov_2014.pdf&quot; type=&quot;application/pdf; length=7378139&quot; class=&quot;file-link&quot;&gt;BenMAP-CE Quick Start Guide (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(34 pp, 7 MB, 
+  November 2014)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-96629&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-12/documents/benmapcedemoslides.pdf&quot; type=&quot;application/pdf; length=14703087&quot; class=&quot;file-link&quot;&gt;Overview of BenMAP-CE (presentation slides) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(55 pp, 15 MB, 
+  October 30, 2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-113441&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-03/documents/benmap-ce_v1.1_release_notes_0.pdf&quot; type=&quot;application/pdf; length=117918&quot; class=&quot;file-link&quot;&gt;BenMAP-CE v1.1 Release Notes (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 118 K, 
+  March 3rd, 2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-113643&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-03/documents/benmap_ce_1.1_known_issues_-_03-04-2015_0.pdf&quot; type=&quot;application/pdf; length=189347&quot; class=&quot;file-link&quot;&gt;BenMAP-CE v1.1 Known Issues (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 189 K, 
+  March 4th, 2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 05 Dec 2014 14:44:07 +0000</pubDate>
+ <dc:creator>nfann</dc:creator>
+ <guid isPermaLink="false">68941 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>BenMAP Downloads</title>
+    <link>https://www.epa.gov/benmap/benmap-downloads</link>
+    <description>&lt;p&gt;Below you will find the current and legacy versions of the environmental Benefits Mapping and Analysis Program. BenMAP-CE is free and open source software, and the source code is available upon request. Please &lt;a href=&quot;/benmap/forms/contact-us-about-benmap&quot;&gt;Contact Us&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;If you would like a copy of the source code.&lt;/li&gt;
+	&lt;li&gt;If you are interested in receiving periodic e-mails from EPA alerting you to a new version of BenMAP.&lt;/li&gt;
+	&lt;li&gt;If you have other questions about the downloads.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Current Version&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/benmap/benmap-community-edition&quot;&gt;BenMAP-Community Edition v1.1&lt;/a&gt; (March 2015) - This is the current version of the BenMAP software. BenMAP has been completely redeveloped as open source software.  Here you will find the current version of the environmental Benefits Mapping and Analysis Program-Community Edition (BenMAP-CE) tool, the configuration files for PM2.5 and ozone, a quick-start guide, an overview of the software and a list of known issues.&lt;/p&gt;
+
+&lt;h2&gt;Legacy Versions&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/benmap/benmap-40&quot;&gt;BenMAP 4.0&lt;/a&gt; (January 2013) - This legacy version of the BenMAP software (BenMAP v4.0.66) was used for the 2012 PM NAAQS Regulatory Impact Analysis. Both BenMAP v4.0.66 and the current version contain 2010 census data and address a number of bugs. Note that current versions of the configuration and aggregation, pooling and valuation files are not bundled in the installation package and may be downloaded separately. Version 4.0.67 is a minor update from v4.0.66 (December 2012), with the only change being the inclusion of the CMAQ 36km grid definition.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/benmap/benmap-10&quot;&gt;BenMAP 1.0&lt;/a&gt; - This legacy version of BenMAP that was used in developing the regulatory benefits analyses for the Nonroad Diesel and Clean Air Interstate rules. This version of the model is designed for regional and national-scale analyses within the continental United States, and uses a fixed set of population data and air quality model grid definitions. Download time for this version is significant due to the large databases which support the analyses.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 28 Oct 2014 19:20:39 +0000</pubDate>
+ <dc:creator>nfann</dc:creator>
+ <guid isPermaLink="false">66127 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>BenMAP-CE Applications: Articles and Presentations</title>
+    <link>https://www.epa.gov/benmap/benmap-ce-applications-articles-and-presentations</link>
+    <description>&lt;p&gt;On this page &lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#articles&quot;&gt;Articles&lt;/a&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#local&quot;&gt;Local- and regional-scale analyses&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#analyses&quot;&gt;Analyses performed outside of the U.S.&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#impacts&quot;&gt;Health impacts of monitored changes in air quality&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#burden&quot;&gt;Health burden of recent and/or future modeled air quality&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#transp&quot;&gt;Transportation-related health impacts&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#reduce&quot;&gt;Reduced-form benefits assessments&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#climate&quot;&gt;Climate assessments&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;#presentations&quot;&gt;Presentations&lt;/a&gt;&lt;a href=&quot;/&quot;&gt; and Webinars&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;articles&quot; id=&quot;articles&quot;&gt;&lt;/a&gt;Articles&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Analysts have used the BenMAP model to answer a variety of policy questions. Below we link to the abstracts of several recent articles in which the authors used BenMAP to estimate air pollution-related health impacts and monetized benefits.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a name=&quot;local&quot; id=&quot;local&quot;&gt;&lt;/a&gt;Local- and regional-scale analyses&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Cohan, Boylan, Marmur and Khan (2007). &lt;a href=&quot;http://link.springer.com/article/10.1007/s00267-006-0228-4&quot;&gt;An Integrated Framework for Multipollutant Air Quality Management and Its Application in Georgia.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Hubbell et al. (2009). &lt;a href=&quot;http://www.springerlink.com/content/b16jx57531877j31/?p=d3f3ce70f0c04a87b69f52472ca5fd1f&amp;amp;pi=3&quot;&gt;Methodological considerations in developing local-scale health impact assessments: balancing national, regional and local data.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Wesson, Fann, Morris, Fox and Hubbell (2010). &lt;a href=&quot;http://www.scgcorp.com/crawebinars/pdfs/Wesson%202010-background%20paper.pdf&quot;&gt;A multi-pollutant, risk-based approach to air quality management: Case study for Detroit.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fann et al. (2011). &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2011.01629.x/abstract&quot;&gt;Maximizing Health Benefits and Minimizing Inequality: Incorporating Local-Scale Data in the Design and Evaluation of Air Quality Policies.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Kheirbek, Wheeler, Walters, Kaas and Matte (2013). &lt;a href=&quot;http://link.springer.com/article/10.1007/s11869-012-0185-4#page-1&quot;&gt;PM2.5 and ozone health impacts and disparities in New York City: sensitivity to spatial and temporal resolution.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Nowak, Hirabayashi, Bodine and Hoehn (2013). &lt;a href=&quot;http://dx.doi.org/10.1016/j.envpol.2013.03.050&quot;&gt;Modeled PM2.5 removal by trees in ten U.S. cities and associated health effects.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;analyses&quot; id=&quot;analyses&quot;&gt;&lt;/a&gt;Analyses performed outside of the U.S.&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Bae and Park (2009). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0048969709007530&quot;&gt;Health benefits of improving air quality in the rapidly aging Korean society.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;He, Lei, Pan, Zhang, Zhang and Chen (2010). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0360544209002710&quot;&gt;Co-benefits from energy policies in China.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Boldo et al. (2011). &lt;a href=&quot;http://www.sciencedirect.com/science?_ob=ArticleURL&amp;amp;_udi=B6V7X-51D894G-1&amp;amp;_user=14684&amp;amp;_coverDate=02/28/2011&amp;amp;_rdoc=1&amp;amp;_fmt=high&amp;amp;_orig=gateway&amp;amp;_origin=gateway&amp;amp;_sort=d&amp;amp;_docanchor=&amp;amp;view=c&amp;amp;_acct=C000001678&amp;amp;_version=1&amp;amp;_urlVersion=0&amp;amp;_userid=14684&amp;amp;md5=4bf6eca08779c2c05a592b64db108cbe&amp;amp;searchtype=a&quot;&gt;Health Impact Assessment of a Reduction in Ambient PM2.5 Levels in Spain.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Chae and Park (2011). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0301421511004204&quot;&gt;Quantifying costs and benefits of integrated environmental strategies of air quality management and greenhouse gas reduction in the Seoul Metropolitan Area.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Sonawane, Patil and Sthi (2012). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S1352231012006449&quot;&gt;Health benefit modelling and optimization of vehicular pollution control strategies.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Nawahda (2013). &lt;a href=&quot;http://link.springer.com/article/10.1007/s11270-013-1508-2&quot;&gt;Reductions of PM2.5 Air Concentrations and Possible Effects on Premature Mortality in Japan.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Boldo et al. (2014). &lt;a href=&quot;http://dx.doi.org/10.1016/j.envres.2013.10.009&quot;&gt;Air Quality Modeling and Mortality Impact of Fine Particles Reduction Policies in Spain.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;impacts&quot; id=&quot;impacts&quot;&gt;&lt;/a&gt;Health impacts of monitored changes in air quality&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Hubbell et al. (2005). &lt;a href=&quot;http://www.jstor.org/pss/3435750&quot;&gt;Health-Related Benefits of Attaining the 8-Hr Ozone Standard.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fann and Risley (2011). &lt;a href=&quot;http://www.springerlink.com/content/3268522412542g82/&quot;&gt;The Public Health Context for PM2.5 and Ozone Air Quality Trends.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Berman et al. (2012). &lt;a href=&quot;http://ehp.niehs.nih.gov/1104851/&quot;&gt;Health Benefits from Large-Scale Ozone Reduction in the United States.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;burden&quot; id=&quot;burden&quot;&gt;&lt;/a&gt;Health burden of recent and/or future modeled air quality&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Fann et al. (2011). &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2011.01630.x/full&quot;&gt;Estimating the National Public Health Burden Associated with PM2.5 and Ozone.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fann, Fulcher and Baker (2013). &lt;a href=&quot;http://pubs.acs.org/doi/full/10.1021/es304831q&quot;&gt;The Recent and Future Health Burden of Air Pollution Apportioned Across U.S. Sectors.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Punger and West (2013). &lt;a href=&quot;http://link.springer.com/article/10.1007/s11869-013-0197-8&quot;&gt;The effect of grid resolution on estimates of the burden of ozone and fine particulate matter on premature mortality in the USA.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Thompson, Saari and Selin (2013). &lt;a href=&quot;http://www.atmos-chem-phys-discuss.net/13/14141/2013/acpd-13-14141-2013.pdf&quot;&gt;Air quality resolution for health impacts assessment: influence of regional characteristics.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;transp&quot; id=&quot;transp&quot;&gt;&lt;/a&gt;Transportation-related health impacts&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Winebrake, Corbett, Green, Lauer and Eyring (2009). &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/es803224q&quot;&gt;Mitigating the Health Impacts of Pollution from Oceangoing Shipping: An Assessment of Low-Sulfur Fuel Mandates.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Grabow et al. (2012). &lt;a href=&quot;http://ehp03.niehs.nih.gov/article/fetchArticle.action?articleURI=info%3Adoi/10.1289/ehp.1103440&quot;&gt;Air Quality and Exercise-Related Health Benefits from Reduced Car Travel in the Midwestern United States.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;von Stackelberg, Buonocore, Bhave and Schwartz (2013). &lt;a href=&quot;http://www.ehjournal.net/content/12/1/19/#ins2&quot;&gt;Public health impacts of secondary particulate formation from aromatic hydrocarbons in gasoline.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;reduce&quot; id=&quot;reduce&quot;&gt;&lt;/a&gt;Reduced-form benefits assessments&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Fann et al. (2009). &lt;a href=&quot;http://www.springerlink.com/content/1381522137744641/&quot;&gt;The influence of location, source, and emission type in estimates of the human health benefits of reducing a ton of air pollution.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fann, Baker and Fulcher (2012). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0160412012001985&quot;&gt;Characterizing the PM2.5-Related Health Benefits of Emission Reductions for 17 Industrial, Area and Mobile Emission Sectors Across the U.S.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Machol and Rizk (2013). &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0160412012000542&quot;&gt;Economic value of U.S. fossil fuel electricity health impacts.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a name=&quot;climate&quot; id=&quot;climate&quot;&gt;&lt;/a&gt;Climate assessments&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Hill, Polasky, Nelson, Tilman, Huo, Ludig, Neumann, Zheng and Bonta (2008). &lt;a href=&quot;http://www.pnas.org/content/106/6/2077.short&quot;&gt;Climate change and health costs of air emissions from biofuels and gasoline.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Tagaris, Liao, DeLucia, Deck, Amar and Russell (2009). &lt;a href=&quot;http://dx.doi.org/10.1021/es803650w&quot;&gt;Potential Impact of Climate Change on Air Pollution-Related Human Health Effects.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Tagaris, Liao, DeLucia, Deck, Amar and Russell (2010). &lt;a href=&quot;http://dx.doi.org/10.3390/ijerph7052222&quot;&gt;Sensitivity of Air Pollution-Induced Premature Mortality to Precursor Emissions under the Influence of Climate Change.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Voorhees et al. (2011). &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/es102820y&quot;&gt;Climate change-related temperature impacts on warm season heat mortality: A proof-of-concept methodology using BenMAP.&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Post, Grambsch, Weaver, Morefield, Huang, Leung, Nolte, Adams, Liang, Zhu and Mahoney (2012).&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556604/&quot;&gt; Variation in Estimated Ozone-Related Health Impacts of Climate Change due to Modeling Choices and Assumptions.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;hr /&gt;&lt;h2&gt;&lt;a name=&quot;presentations&quot; id=&quot;presentations&quot;&gt;&lt;/a&gt;Presentations and Webinars&lt;/h2&gt;
+
+&lt;p&gt;The briefings linked below contain additional background information on the model.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;file-345253&quot; class=&quot;file file-document file-application-zip&quot;&gt;&lt;a href=&quot;/sites/production/files/2017-01/2016-12-15_11.zip&quot; type=&quot;application/zip; length=71371113&quot; class=&quot;file-link&quot;&gt;Recorded BenMAP-CE Webinar&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 71 MB, 
+  December 15, 2011)&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-90153&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/hia_for_benmap_webinar_8.7.13.pdf&quot; type=&quot;application/pdf; length=1262096&quot; class=&quot;file-link&quot;&gt;Estimating Morbidity and Mortality Attributable to Air Pollution in New York City (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 1 MB, 
+  August 2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-90157&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/isee_benmap.pdf&quot; type=&quot;application/pdf; length=2073350&quot; class=&quot;file-link&quot;&gt;Estimating health impacts at the urban scale (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 2 MB, 
+  August 2009)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-90159&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/benmap_global.pdf&quot; type=&quot;application/pdf; length=118704&quot; class=&quot;file-link&quot;&gt;Using EPAs Environmental Benefits Mapping and Analysis Program for Global Health Impacts Analysis (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 119 K, 
+  2008)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-90161&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/sab_benmap_briefing_3-15.pdf&quot; type=&quot;application/pdf; length=2124773&quot; class=&quot;file-link&quot;&gt;BenMAP Presentation to EPA Science Advisory Board (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(28 pp, 2 MB, 
+  March 2007)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-90163&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/benmap_briefing_international.pdf&quot; type=&quot;application/pdf; length=1713526&quot; class=&quot;file-link&quot;&gt;BenMAP Presentation to United Nations (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(29 pp, 2 MB, 
+  May 2007)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 28 Oct 2014 18:37:50 +0000</pubDate>
+ <dc:creator>nfann</dc:creator>
+ <guid isPermaLink="false">66111 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How BenMAP-CE Estimates the Health and Economic Effects of Air Pollution </title>
+    <link>https://www.epa.gov/benmap/how-benmap-ce-estimates-health-and-economic-effects-air-pollution</link>
+    <description>&lt;h2&gt;What are the health impacts associated with poor air quality?&lt;/h2&gt;
+
+&lt;p&gt;The BenMAP-CE tool estimates the number and economic value of heath impacts resulting from changes in air quality - specifically, &lt;a href=&quot;/groundlevelozone&quot;&gt;ground-level ozone&lt;/a&gt; and &lt;a href=&quot;/pm&quot;&gt;fine particles&lt;/a&gt;. Before describing how BenMAP-CE calculates impacts and economic values, it is helpful to first understand how air pollution affects health.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-medium right&quot; style=&quot;width:448px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:720px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2014-10/benmappyramid.png&quot;&gt;&lt;img alt=&quot;Air pollution can cause adverse health outcomes that include premature death, hospital admissions, aggravated asthma and cause you to miss school and work.&quot; height=&quot;540&quot; width=&quot;720&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-10/benmappyramid.png&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/pm&quot;&gt;Fine particles&lt;/a&gt; can enter deep into the lungs and enter the blood stream. Health impacts from particles include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Premature death&lt;/li&gt;
+	&lt;li&gt;Non-fatal heart attacks&lt;/li&gt;
+	&lt;li&gt;Aggravated asthma&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;/groundlevelozone&quot;&gt;Ground-level ozone&lt;/a&gt; is an oxidant that can irritate airways in the lungs. Health impacts form ozone include:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Premature death&lt;/li&gt;
+	&lt;li&gt;Aggravated asthma&lt;/li&gt;
+	&lt;li&gt;Lost days of school&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The pyramid above describes how the incidence, and severity, of fine particle and ozone-related health impacts are related. Health outcomes toward the bottom of the pyramid like asthma attacks and cardiac effects are less severe, and affect a large​r proportion of the population. Impacts toward the tip of the pyramid like hospital admissions and heart attacks are more severe and affect a smaller proportion of the population. BenMAP-CE quantifies those impacts shown in white.&lt;/p&gt;
+
+&lt;h2&gt;How does BenMAP-CE estimate health impacts?&lt;/h2&gt;
+
+&lt;p&gt;A health impact function incorporates four key sources of data: BenMAP-CE uses &quot;health impact functions&quot; that are constructed using information from the published epidemiology literature.&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;modeled or monitored air quality changes;&lt;/li&gt;
+	&lt;li&gt;population;&lt;/li&gt;
+	&lt;li&gt;baseline incidence rates;&lt;/li&gt;
+	&lt;li&gt;an effect estimate.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;The figure below describes the data BenMAP-CE uses to calculate health impacts.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-full center&quot; style=&quot;width:928px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2014-10/healthimpact.png&quot;&gt;&lt;img alt=&quot;The BenMAP-CE program calculates health impacts using air pollution estimates, population data, baseline incidence rates and an effect estimate.&quot; height=&quot;185&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-10/healthimpact.png&quot; title=&quot;BenMAP Health Impact Calculation&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;figure image mode-medium center&quot; style=&quot;width:448px&quot;&gt; &lt;/div&gt;
+
+&lt;h2&gt;How does BenMAP-CE calculate economic values? &lt;/h2&gt;
+
+&lt;p&gt;The program calculates the economic value of air quality change using both “Cost of Illness” and “Willingness to Pay” metrics. The Cost of Illness metric summarizes the expenses that an individual must bear for air pollution-related hospital admissions, visits to the emergency department and other outcomes; this &lt;span&gt;metric includes the value of medical expenses and lost work, but not the value that individuals place on pain and suffering associated with the event. By contrast, Willingness to Pay metrics are understood to account for the direct costs noted above as well as the value that individuals place on pain and suffering, loss of satisfaction and leisure time.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This simple example summarizes the procedure for calculating economic values using these two metrics in BenMAP-CE. Find out more about the assumptions at &lt;a href=&quot;/benmap/benmap-ce-applications-articles-and-presentations&quot;&gt;Applications: Articles and Presentations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;figure image mode-medium center&quot; style=&quot;width:448px&quot;&gt;&lt;span
+    class=&quot;figure image file file-image file-image-png view-mode-full&quot; style=&quot;width:928px;&quot;&gt;&lt;a
+    href=&quot;/sites/production/files/2014-10/econvalues.png&quot;&gt;&lt;img alt=&quot;In this example, we assume that reduced air pollution results in 100 fewer people being admitted to the hospital. If each of these hospital admissions cost $5,000, the total economic value is equal to 100 times $5,000, or $50,000.&quot; height=&quot;439&quot; width=&quot;928&quot; class=&quot;media-element file-full&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/large/public/2014-10/econvalues.png&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Oct 2014 19:38:46 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">65739 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Estimating the Benefit per Ton of Reducing PM2.5 Precursors from 17 Sectors</title>
+    <link>https://www.epa.gov/benmap/estimating-benefit-ton-reducing-pm25-precursors-17-sectors</link>
+    <description>&lt;p&gt;This Technical Support Document details the data, tools and methods that EPA used to calculate the benefit per ton of PM2.5 precursor emissions reduced from 17 industrial, area and mobile emission sectors.&lt;/p&gt;
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-88661&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2014-10/documents/sourceapportionmentbpttsd.pdf&quot; type=&quot;application/pdf; length=3465003&quot; class=&quot;file-link&quot;&gt;Estimating the Benefit per Ton of Reducing PM2.5 Precursors from 17 Sectors (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(107 pp, 3 MB, 
+  January 2013)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 21 Oct 2014 21:11:02 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">65571 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Sector-based PM2.5 Benefit Per Ton Estimates </title>
+    <link>https://www.epa.gov/benmap/sector-based-pm25-benefit-ton-estimates</link>
+    <description>&lt;p&gt;The tables below are updated versions of the tables appearing in &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0160412012001985&quot;&gt;&lt;i&gt;Characterizing the PM2.5-related health benefits of emission reductions for 17 industrial, area and mobile emission sectors across the U.S.&lt;/i&gt;&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;(Fann, Baker and Fulcher 2012). All estimates are in 2010 dollars, reflect the use of a 3% discount rate, and are based on the Krewski et al. (2009) PM2.5 mortality risk estimate. The 2005 estimates are based on 2005 emissions and use population, baseline mortality incidence rate, and income growth projections for 2005. The 2016 estimates are based on 2016 projected emissions and use baseline mortality incidence rate projections for 2015, as this is the closest year for which we have data. The 2016 estimates use population and income growth projections for 2016.&lt;/p&gt;
+
+&lt;p&gt;The methodology is discussed more completely in the Technical Support Document &lt;a href=&quot;/benmap/estimating-benefit-ton-reducing-pm25-precursors-17-sectors&quot;&gt;Estimating the Benefit per Ton of Reducing PM2.5 Precursors from 17 Sectors&lt;/a&gt;, which includes values for 2016, 2020, 2025, and 2030.&lt;/p&gt;
+
+&lt;p&gt;Please &lt;a href=&quot;/benmap/forms/contact-us-about-benmap&quot;&gt;Contact Us&lt;/a&gt; with questions.&lt;/p&gt;
+
+&lt;h2&gt;2005&lt;/h2&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Sector&lt;/th&gt;
+			&lt;th&gt;Direct PM&lt;/th&gt;
+			&lt;th&gt;SO2&lt;/th&gt;
+			&lt;th&gt;NOx&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Aircraft, locomotives and marine vessels&lt;/td&gt;
+			&lt;td&gt;200,000&lt;/td&gt;
+			&lt;td&gt;40,000&lt;/td&gt;
+			&lt;td&gt;4,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Area sources&lt;/td&gt;
+			&lt;td&gt;260,000&lt;/td&gt;
+			&lt;td&gt;33,000&lt;/td&gt;
+			&lt;td&gt;4,700&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cement kilns&lt;/td&gt;
+			&lt;td&gt;260,000&lt;/td&gt;
+			&lt;td&gt;30,000&lt;/td&gt;
+			&lt;td&gt;3,900&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coke ovens&lt;/td&gt;
+			&lt;td&gt;420,000&lt;/td&gt;
+			&lt;td&gt;35,000&lt;/td&gt;
+			&lt;td&gt;5,200&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electric arc furnaces&lt;/td&gt;
+			&lt;td&gt;360,000&lt;/td&gt;
+			&lt;td&gt;61,000&lt;/td&gt;
+			&lt;td&gt;5,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electricity Generating Units&lt;/td&gt;
+			&lt;td&gt;100,000&lt;/td&gt;
+			&lt;td&gt;26,000&lt;/td&gt;
+			&lt;td&gt;3,600&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ferroalloy facilities&lt;/td&gt;
+			&lt;td&gt;230,000&lt;/td&gt;
+			&lt;td&gt;33,000&lt;/td&gt;
+			&lt;td&gt;4,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Industrial point sources&lt;/td&gt;
+			&lt;td&gt;200,000&lt;/td&gt;
+			&lt;td&gt;28,000&lt;/td&gt;
+			&lt;td&gt;3,800&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Integrated iron and steel facilities&lt;/td&gt;
+			&lt;td&gt;430,000&lt;/td&gt;
+			&lt;td&gt;62,000&lt;/td&gt;
+			&lt;td&gt;6,900&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron and Steel&lt;/td&gt;
+			&lt;td&gt;420,000&lt;/td&gt;
+			&lt;td&gt;340,000&lt;/td&gt;
+			&lt;td&gt;10,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-road mobile sources&lt;/td&gt;
+			&lt;td&gt;210,000&lt;/td&gt;
+			&lt;td&gt;23,000&lt;/td&gt;
+			&lt;td&gt;4,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ocean-going vessels&lt;/td&gt;
+			&lt;td&gt;93,000&lt;/td&gt;
+			&lt;td&gt;28,000&lt;/td&gt;
+			&lt;td&gt;1,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;On-road mobile sources&lt;/td&gt;
+			&lt;td&gt;230,000&lt;/td&gt;
+			&lt;td&gt;20,000&lt;/td&gt;
+			&lt;td&gt;4,400&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pulp and paper facilities&lt;/td&gt;
+			&lt;td&gt;110,000&lt;/td&gt;
+			&lt;td&gt;30,000&lt;/td&gt;
+			&lt;td&gt;2,400&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Refineries&lt;/td&gt;
+			&lt;td&gt;270,000&lt;/td&gt;
+			&lt;td&gt;38,000&lt;/td&gt;
+			&lt;td&gt;4,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Residential wood combustion&lt;/td&gt;
+			&lt;td&gt;280,000&lt;/td&gt;
+			&lt;td&gt;86,000&lt;/td&gt;
+			&lt;td&gt;8,400&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Taconite mines&lt;/td&gt;
+			&lt;td&gt;68,000&lt;/td&gt;
+			&lt;td&gt;28,000&lt;/td&gt;
+			&lt;td&gt;4,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;2016&lt;/h2&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Sector&lt;/th&gt;
+			&lt;th&gt;Direct PM&lt;/th&gt;
+			&lt;th&gt;SO2&lt;/th&gt;
+			&lt;th&gt;NOx&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Aircraft, locomotives and marine vessels&lt;/td&gt;
+			&lt;td&gt;240,000&lt;/td&gt;
+			&lt;td&gt;85,000&lt;/td&gt;
+			&lt;td&gt;6,900&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Area sources&lt;/td&gt;
+			&lt;td&gt;320,000&lt;/td&gt;
+			&lt;td&gt;48,000&lt;/td&gt;
+			&lt;td&gt;7,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Cement kilns&lt;/td&gt;
+			&lt;td&gt;350,000&lt;/td&gt;
+			&lt;td&gt;42,000&lt;/td&gt;
+			&lt;td&gt;5,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Coke ovens&lt;/td&gt;
+			&lt;td&gt;450,000&lt;/td&gt;
+			&lt;td&gt;50,000&lt;/td&gt;
+			&lt;td&gt;10,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electric arc furnaces&lt;/td&gt;
+			&lt;td&gt;420,000&lt;/td&gt;
+			&lt;td&gt;78,000&lt;/td&gt;
+			&lt;td&gt;9,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Electricity Generating Units&lt;/td&gt;
+			&lt;td&gt;130,000&lt;/td&gt;
+			&lt;td&gt;35,000&lt;/td&gt;
+			&lt;td&gt;5,200&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ferroalloy facilities&lt;/td&gt;
+			&lt;td&gt;270,000&lt;/td&gt;
+			&lt;td&gt;43,000&lt;/td&gt;
+			&lt;td&gt;4,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Industrial point sources&lt;/td&gt;
+			&lt;td&gt;260,000&lt;/td&gt;
+			&lt;td&gt;39,000&lt;/td&gt;
+			&lt;td&gt;6,100&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Integrated iron and steel facilities&lt;/td&gt;
+			&lt;td&gt;480,000&lt;/td&gt;
+			&lt;td&gt;85,000&lt;/td&gt;
+			&lt;td&gt;13,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Iron and Steel&lt;/td&gt;
+			&lt;td&gt;490,000&lt;/td&gt;
+			&lt;td&gt;400,000&lt;/td&gt;
+			&lt;td&gt;16,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Non-road mobile sources&lt;/td&gt;
+			&lt;td&gt;300,000&lt;/td&gt;
+			&lt;td&gt;43,000&lt;/td&gt;
+			&lt;td&gt;6,600&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ocean-going vessels&lt;/td&gt;
+			&lt;td&gt;45,000&lt;/td&gt;
+			&lt;td&gt;12,000&lt;/td&gt;
+			&lt;td&gt;1,800&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;On-road mobile sources&lt;/td&gt;
+			&lt;td&gt;360,000&lt;/td&gt;
+			&lt;td&gt;19,000&lt;/td&gt;
+			&lt;td&gt;7,300&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pulp and paper facilities&lt;/td&gt;
+			&lt;td&gt;150,000&lt;/td&gt;
+			&lt;td&gt;44,000&lt;/td&gt;
+			&lt;td&gt;3,600&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Refineries&lt;/td&gt;
+			&lt;td&gt;310,000&lt;/td&gt;
+			&lt;td&gt;66,000&lt;/td&gt;
+			&lt;td&gt;6,500&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Residential wood combustion&lt;/td&gt;
+			&lt;td&gt;360,000&lt;/td&gt;
+			&lt;td&gt;97,000&lt;/td&gt;
+			&lt;td&gt;13,000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Taconite mines&lt;/td&gt;
+			&lt;td&gt;81,000&lt;/td&gt;
+			&lt;td&gt;33,000&lt;/td&gt;
+			&lt;td&gt;5,900&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Tue, 21 Oct 2014 20:58:10 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">65565 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Reduced-Form Tools for Calculating PM2.5 Benefits </title>
+    <link>https://www.epa.gov/benmap/reduced-form-tools-calculating-pm25-benefits</link>
+    <description>&lt;p&gt;In situations in which the data needed to specify the BenMAP model is unavailable, reduced-form benefits tools can be used to quantify the expected health impacts of emission or air quality changes. Here we provide three reduced-form tools that enable users to relate changes in the emissions from certain classes of sources of direct or precursor emissions of PM2.5 to monetized health benefits. &lt;!--Also included is a county-level summary of the PM2.5 and ozone-related health impacts avoided as a result of a one &amp;micro;g/m&lt;sup&gt;3&lt;/sup&gt; reduction in annual mean PM2.5 levels or a 1 ppb reduction in average of the summer season daily 8hr maximum ozone levels:--&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/benmap/response-surface-model-rsm-based-benefit-ton-estimates&quot;&gt;&lt;strong&gt;Response Surface Model (RSM)-based Benefit-Per-Ton Estimates&lt;/strong&gt;&lt;/a&gt; - These tables relate changes in directly-emitted PM2.5 and PM2.5 precursors from certain classes of sources to an estimate of the monetized PM2.5-related health benefits. The benefit-per-ton methodology used to derive these values is discussed in &lt;a href=&quot;http://link.springer.com/article/10.1007/s11869-009-0044-0&quot;&gt;Fann, Fulcher and Hubbell (2009)&lt;/a&gt;.&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/benmap/sector-based-pm25-benefit-ton-estimates&quot;&gt;&lt;strong&gt;Sector-based Benefit-Per-Ton Estimates&lt;/strong&gt;&lt;/a&gt; - These tables relate changes in directly-emitted PM2.5 and PM2.5 precursors from specific industrial sectors to an estimate of the monetized PM2.5-related health benefits. The methodology and values are described in &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0160412012001985&quot;&gt;Fann, Baker and Fulcher (2012)&lt;/a&gt; &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;and the Technical Support Document &lt;a href=&quot;/benmap/estimating-benefit-ton-reducing-pm25-precursors-17-sectors&quot;&gt;Estimating the Benefit per Ton of Reducing PM2.5 Precursors from 17 Sectors&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/statelocalclimate/co-benefits-risk-assessment-cobra-screening-model&quot;&gt;&lt;strong&gt;Co-Benefits Risk Assessment Screening Model (COBRA)&lt;/strong&gt;&lt;/a&gt; - This as a screening tool that helps U.S. states estimate the health and economic benefits of clean energy policies and practices.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 21 Oct 2014 20:14:58 +0000</pubDate>
+ <dc:creator>nfann</dc:creator>
+ <guid isPermaLink="false">65557 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:47:59, expires @ 2017-01-26 16:47:59, lifetime 12 hours -->

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/137651/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Sulfur Dioxide (SO2) Pollution</title>
+    <link>https://www.epa.gov/feed/137651/rss.xml</link>
+    <description>Updated Sulfur Dioxide (SO2) Pollution content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/137651/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SO2 Data Requirements Rule State Pathway Notifications</title>
+    <link>https://www.epa.gov/so2-pollution/so2-data-requirements-rule-state-pathway-notifications</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/so2-pollution/final-data-requirements-rule-2010-1-hour-sulfur-dioxide-so2-primary-national-ambient&quot;&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-source-list&quot;&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule Source List&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule State Pathway Notifications&lt;/strong&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Under the SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule (DRR), air agencies were required, by July 1, 2016, to notify EPA of their selected approach for characterizing air quality around each SO&lt;sub&gt;2&lt;/sub&gt; source that is subject to 40 CFR 51.1203. The DRR provided state air agencies with the following four options for meeting the DRR pathway requirement:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Air quality modeling.&lt;/li&gt;
+	&lt;li&gt;Air quality monitoring.&lt;/li&gt;
+	&lt;li&gt;Adopt federally enforceable emission limits for a source to reduce emissions below 2,000 tpy, unless further air quality characterization is required in the judgment of the air agency or EPA.&lt;/li&gt;
+	&lt;li&gt;Submit documentation that a source has permanently shut down by January 13, 2017.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule State Pathway Notifications (July 1st):&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In some cases, in addition to the pathway notifications, the files below include modeling protocols, monitoring plans and/or other information.&lt;/p&gt;
+
+&lt;p&gt;For questions concerning a state’s complete submittal, please contact the regional office associated with the affected state. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-308673&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-08/documents/drr-source-list-working-file-with-drr-notification-pathway.pdf&quot; type=&quot;application/pdf; length=362458&quot; class=&quot;file-link&quot;&gt;DRR State Notification Pathway (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 362 K, 
+  Sep 19, 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301265&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/alabama_source_characterization.pdf&quot; type=&quot;application/pdf; length=1719711&quot; class=&quot;file-link&quot;&gt;Alabama Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301279&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/arizona_source_characterization.pdf&quot; type=&quot;application/pdf; length=70381&quot; class=&quot;file-link&quot;&gt;Arizona Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 70 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301281&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/arkansas_source_characterization.pdf&quot; type=&quot;application/pdf; length=2360096&quot; class=&quot;file-link&quot;&gt;Arkansas Source Characterization Submittal 1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301283&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/arkansas_source_characterization_2.pdf&quot; type=&quot;application/pdf; length=2384716&quot; class=&quot;file-link&quot;&gt;Arkansas Source Characterization Submittal 2 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301287&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/california_source_characterization.pdf&quot; type=&quot;application/pdf; length=683831&quot; class=&quot;file-link&quot;&gt;California Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 684 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301289&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/colorado_source_characterization.pdf&quot; type=&quot;application/pdf; length=987137&quot; class=&quot;file-link&quot;&gt;Colorado Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 987 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301355&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/connecticut_source_characterization.pdf&quot; type=&quot;application/pdf; length=70881&quot; class=&quot;file-link&quot;&gt;Connecticut Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 71 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301361&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/florida_source_characterization.pdf&quot; type=&quot;application/pdf; length=386987&quot; class=&quot;file-link&quot;&gt;Florida Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 387 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301367&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/georgia_source_characterization.pdf&quot; type=&quot;application/pdf; length=99447&quot; class=&quot;file-link&quot;&gt;Georgia Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 99 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301371&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/guam_source_characterization.pdf&quot; type=&quot;application/pdf; length=77510&quot; class=&quot;file-link&quot;&gt;Guam Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 78 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301375&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/hawaii_source_characterization.pdf&quot; type=&quot;application/pdf; length=107726&quot; class=&quot;file-link&quot;&gt;Hawaii Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 108 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301383&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/illinois_source_characterization.pdf&quot; type=&quot;application/pdf; length=288359&quot; class=&quot;file-link&quot;&gt;Illinois Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 288 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301415&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/indiana_source_characterization.pdf&quot; type=&quot;application/pdf; length=8448733&quot; class=&quot;file-link&quot;&gt;Indiana Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(104 pp, 8 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-301419&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/iowa_source_characterization.pdf&quot; type=&quot;application/pdf; length=2580277&quot; class=&quot;file-link&quot;&gt;Iowa Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302469&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/kansas_source_characterization.pdf&quot; type=&quot;application/pdf; length=8564923&quot; class=&quot;file-link&quot;&gt;Kansas Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 9 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302471&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/kentucky_source_characterization.pdf&quot; type=&quot;application/pdf; length=61479&quot; class=&quot;file-link&quot;&gt;Kentucky Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 61 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302475&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/louisiana_source_characterization.pdf&quot; type=&quot;application/pdf; length=11596979&quot; class=&quot;file-link&quot;&gt;Louisiana Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(57 pp, 12 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302477&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/maine_source_characterization.pdf&quot; type=&quot;application/pdf; length=4018780&quot; class=&quot;file-link&quot;&gt;Maine Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 4 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302489&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/maryland_source_characterization.pdf&quot; type=&quot;application/pdf; length=514872&quot; class=&quot;file-link&quot;&gt;Maryland Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 515 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302493&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/michigan_source_characterization.pdf&quot; type=&quot;application/pdf; length=63194&quot; class=&quot;file-link&quot;&gt;Michigan Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 63 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302495&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/minnesota_source_characterization.pdf&quot; type=&quot;application/pdf; length=1039343&quot; class=&quot;file-link&quot;&gt;Minnesota Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302499&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/mississippi_source_characterization.pdf&quot; type=&quot;application/pdf; length=108002&quot; class=&quot;file-link&quot;&gt;Mississippi Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 108 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302501&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/missouri_source_characterization.pdf&quot; type=&quot;application/pdf; length=1191399&quot; class=&quot;file-link&quot;&gt;Missouri Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-302503&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/montana_source_characterization.pdf&quot; type=&quot;application/pdf; length=614965&quot; class=&quot;file-link&quot;&gt;Montana Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 615 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303877&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/navajo_nation_source_characterization.pdf&quot; type=&quot;application/pdf; length=999405&quot; class=&quot;file-link&quot;&gt;Navajo Nation Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 999 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303879&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/nebraska_source_characterization.pdf&quot; type=&quot;application/pdf; length=143627&quot; class=&quot;file-link&quot;&gt;Nebraska Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 144 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303881&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/nevada_source_characterization.pdf&quot; type=&quot;application/pdf; length=92084&quot; class=&quot;file-link&quot;&gt;Nevada Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 92 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303883&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/new_hampshire_source_characterization.pdf&quot; type=&quot;application/pdf; length=354130&quot; class=&quot;file-link&quot;&gt;New Hampshire Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 354 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303885&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/new_mexico_source_characterization.pdf&quot; type=&quot;application/pdf; length=237154&quot; class=&quot;file-link&quot;&gt;New Mexico Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 237 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303887&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/new_york_source_characterization.pdf&quot; type=&quot;application/pdf; length=1302991&quot; class=&quot;file-link&quot;&gt;New York Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303889&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/north_carolina_source_characterization.pdf&quot; type=&quot;application/pdf; length=155728&quot; class=&quot;file-link&quot;&gt;North Carolina Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 156 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303891&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/north_dakota_source_characterization.pdf&quot; type=&quot;application/pdf; length=85349&quot; class=&quot;file-link&quot;&gt;North Dakota Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 85 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303905&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/ohio_source_characterization.pdf&quot; type=&quot;application/pdf; length=8758796&quot; class=&quot;file-link&quot;&gt;Ohio Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 9 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303907&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/oklahoma_source_characterization.pdf&quot; type=&quot;application/pdf; length=1116461&quot; class=&quot;file-link&quot;&gt;Oklahoma Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303909&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/oregon_source_characterization.pdf&quot; type=&quot;application/pdf; length=67590&quot; class=&quot;file-link&quot;&gt;Oregon Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 68 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303911&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/pennsylvania_source_characterization.pdf&quot; type=&quot;application/pdf; length=1420139&quot; class=&quot;file-link&quot;&gt;Pennsylvania Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303913&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/puerto_rico_source_characterization.pdf&quot; type=&quot;application/pdf; length=1033050&quot; class=&quot;file-link&quot;&gt;Puerto Rico Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303915&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/south_carolina_source_characterization.pdf&quot; type=&quot;application/pdf; length=991207&quot; class=&quot;file-link&quot;&gt;South Carolina Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 991 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303917&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/tennessee_source_characterization.pdf&quot; type=&quot;application/pdf; length=309464&quot; class=&quot;file-link&quot;&gt;Tennessee Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 309 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303919&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/texas_source_characterization.pdf&quot; type=&quot;application/pdf; length=74095&quot; class=&quot;file-link&quot;&gt;Texas Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 74 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303921&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/utah_source_characterization.pdf&quot; type=&quot;application/pdf; length=95262&quot; class=&quot;file-link&quot;&gt;Utah Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 95 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303923&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/virginia_source_characterization.pdf&quot; type=&quot;application/pdf; length=695939&quot; class=&quot;file-link&quot;&gt;Virginia Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 696 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303925&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/washington_source_characterization.pdf&quot; type=&quot;application/pdf; length=449867&quot; class=&quot;file-link&quot;&gt;Washington Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 450 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303927&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/west_virginia_source_characterization.pdf&quot; type=&quot;application/pdf; length=403794&quot; class=&quot;file-link&quot;&gt;West Virginia Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 404 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303929&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/wisconsin_source_characterization_list.pdf&quot; type=&quot;application/pdf; length=634753&quot; class=&quot;file-link&quot;&gt;Wisconsin Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 635 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-303931&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-07/documents/wyoming_source_characterization.pdf&quot; type=&quot;application/pdf; length=2366373&quot; class=&quot;file-link&quot;&gt;Wyoming Source Characterization Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(6 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Fri, 08 Jul 2016 19:55:05 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">154425 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Fact Sheets and Additional Information Regarding the 2012 Decision to Retain the Secondary NAAQS for Nitrogen Dioxide and Sulfur Dioxide</title>
+    <link>https://www.epa.gov/so2-pollution/fact-sheets-and-additional-information-regarding-2012-decision-retain-secondary-naaqs</link>
+    <description>&lt;p&gt;On April 3, 2012, EPA decided to retain the current secondary national ambient air quality standard (NAAQS) for nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) and sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;).&lt;/p&gt;
+
+&lt;p&gt;This page contains a fact sheet and a presentation describing that action.&lt;/p&gt;
+
+&lt;p&gt;For more information, visit the &lt;a href=&quot;/so2-pollution/secondary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide-no2-and-sulfur&quot;&gt;2012 NO&lt;sub&gt;2&lt;/sub&gt; and SO&lt;sub&gt;2&lt;/sub&gt; NAAQS&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297075&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/20120320factsheet_secondary_standards.pdf&quot; type=&quot;application/pdf; length=81999&quot; class=&quot;file-link&quot;&gt;Fact Sheet: Final Revisions to the Secondary National Ambient Air Quality Standards (NAAQS) for Oxides of Nitrogen and Sulfur (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 82 K, 
+  March 20, 2012)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This fact sheet provides an overview of the secondary NAAQS for oxides of nitrogen and sulfur.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297721&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/noxsoxnaaqsproposaljuly2011.pdf&quot; type=&quot;application/pdf; length=461478&quot; class=&quot;file-link&quot;&gt;July 2011 Proposed Revisions to the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen and Oxides of Sulfur: Overview (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 461 K, 
+  July 12, 2011)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    This presentation provides an overview of the Secondary NAAQS for oxides of nitrogen and sulfur.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 27 Jun 2016 14:58:45 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">153271 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Secondary National Ambient Air Quality Standards (NAAQS) for Nitrogen Dioxide (NO2) and Sulfur Dioxide (SO2)</title>
+    <link>https://www.epa.gov/so2-pollution/secondary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide-no2-and-sulfur</link>
+    <description></description>
+     <pubDate>Mon, 27 Jun 2016 14:44:32 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">153267 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>SO2 Nonattainment Area SIP Requirements</title>
+    <link>https://www.epa.gov/so2-pollution/so2-nonattainment-area-sip-requirements</link>
+    <description>&lt;p&gt;&lt;strong&gt;SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; (1971) Area Requirements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; Nonattainment NSR&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; SIP&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; SIP - Primary Standard&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; SIP - Secondary Standard&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; (2010) Area Requirements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; Attainment Demonstration&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; Contingency Measures&lt;br /&gt;
+	Emission Inventory&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; Nonattainment NSR&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; RACM/RACT&lt;br /&gt;
+	SO&lt;span style=&quot;vertical-align:text-bottom&quot;&gt;2&lt;/span&gt; RFP&lt;/p&gt;
+
+&lt;hr /&gt;&lt;div&gt;See the nonattainment state and national reports for the status of state submissions to meet these requirements, and EPA&#039;s actions on the submissions:&lt;/div&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/reports/map_s.html&quot;&gt;Status of SIP requirements, listed by state&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www3.epa.gov/airquality/urbanair/sipstatus/reports/idx_en.html&quot;&gt;National status of state SIP requirements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Thu, 23 Jun 2016 19:51:25 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">153157 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Table of Historical Sulfur Dioxide National Ambient Air Quality Standards (NAAQS)</title>
+    <link>https://www.epa.gov/so2-pollution/table-historical-sulfur-dioxide-national-ambient-air-quality-standards-naaqs</link>
+    <description>&lt;table summary=&quot;primary and secondary standards rulemaking history&quot;&gt;&lt;caption&gt;History of the National Ambient Air Quality Standards for SO&lt;sub&gt;2&lt;/sub&gt; From 1971-2012&lt;/caption&gt;
+	&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Final Rule/Decision&lt;/th&gt;
+			&lt;th&gt;Primary/ Secondary&lt;/th&gt;
+			&lt;th&gt;Indicator &lt;a href=&quot;#1&quot;&gt;&lt;sup&gt;(1)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Averaging Time&lt;/th&gt;
+			&lt;th&gt;Level &lt;a href=&quot;#2&quot;&gt;&lt;sup&gt;(2)&lt;/sup&gt;&lt;/a&gt;&lt;/th&gt;
+			&lt;th&gt;Form&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&quot;4&quot;&gt;
+				&lt;p&gt;1971&lt;/p&gt;
+
+				&lt;p&gt;36 FR 8186&lt;br /&gt;
+					Apr 30, 1971&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;Primary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td rowspan=&quot;4&quot;&gt;
+				&lt;p&gt;SO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;24-Hour&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.14 ppm&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Not to be exceeded more than once per year&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Annual&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.03 ppm&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Annual arithmetic average&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;Secondary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;3-Hour&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.5 ppm&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Not to be exceeded more than once per year&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;Annual &lt;a href=&quot;#3&quot;&gt;&lt;sup&gt;(3)&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;0.02 ppm&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Annual arithmetic average&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1973&lt;/p&gt;
+
+				&lt;p&gt;38 FR 25678&lt;br /&gt;
+					Sept 14, 1973&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Secondary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Secondary 3-hour SO&lt;sub&gt;2&lt;/sub&gt; standard retained, without revision; secondary annual SO&lt;sub&gt;2&lt;/sub&gt; standard revoked.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;1996&lt;/p&gt;
+
+				&lt;p&gt;61 FR 25566&lt;br /&gt;
+					May 22, 1996&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Primary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Existing primary SO&lt;sub&gt;2&lt;/sub&gt; standards retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;2010&lt;/p&gt;
+
+				&lt;p&gt;75 FR 35520&lt;br /&gt;
+					Jun 22, 2010 &lt;a href=&quot;#4&quot;&gt;&lt;sup&gt;(4)&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td rowspan=&quot;2&quot;&gt;
+				&lt;p&gt;Primary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;SO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;1-hour&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;75 ppb&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;99th percentile, averaged over 3 years &lt;a href=&quot;#5&quot;&gt;&lt;sup&gt;(5)&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Primary annual and 24-hour SO&lt;sub&gt;2&lt;/sub&gt; standards revoked.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;2012&lt;/p&gt;
+
+				&lt;p&gt;&lt;a href=&quot;http://www.gpo.gov/fdsys/pkg/FR-2012-04-03/pdf/2012-7679.pdf&quot;&gt;77 FR 20218&lt;br /&gt;
+					April 3, 2012&lt;/a&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;Secondary&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;Existing secondary SO&lt;sub&gt;2&lt;/sub&gt; standard (3-hour average) retained, without revision.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p id=&quot;1&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 1&quot; id=&quot;footnote 1&quot;&gt;&lt;/a&gt;(1)&lt;/sup&gt;&lt;small&gt;SO&lt;sub&gt;2&lt;/sub&gt; = sulfur dioxide&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;2&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 2&quot; id=&quot;footnote 2&quot;&gt;&lt;/a&gt;(2)&lt;/sup&gt;&lt;small&gt; Units of measure are in parts per million (ppm) and parts per billion (ppb).&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;3&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 3&quot; id=&quot;footnote 3&quot;&gt;&lt;/a&gt;(3)&lt;/sup&gt;&lt;small&gt;The 1971 final rule also included a secondary 24-hour SO&lt;sub&gt;2&lt;/sub&gt; standard of 0.1 ppm, maximum 24-hour concentration not to be exceeded more than once per year, as a guide to be used in assessing implementation plans to achieve the annual standard.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;4&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 4&quot; id=&quot;footnote 4&quot;&gt;&lt;/a&gt;(4)&lt;/sup&gt;&lt;small&gt;The 1-hour SO&lt;sub&gt;2&lt;/sub&gt; standard added in 2010 is a primary standard. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p id=&quot;5&quot;&gt;&lt;sup&gt;&lt;a name=&quot;footnote 5&quot; id=&quot;footnote 5&quot;&gt;&lt;/a&gt;(5)&lt;/sup&gt;&lt;small&gt;The form of the 1-hour standard is the 3-year average of the 99th percentile of the yearly distribution of 1-hour daily maximum SO&lt;sub&gt;2&lt;/sub&gt; concentrations.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/so2-pollution/setting-and-reviewing-standards-control-so2-pollution&quot;&gt;Learn more about setting and reviewing standards to control SO&lt;sub&gt;2&lt;/sub&gt; pollution.&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 23 Jun 2016 13:34:23 +0000</pubDate>
+ <dc:creator>smays</dc:creator>
+ <guid isPermaLink="false">153089 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>SO2 Data Requirements Rule Source List</title>
+    <link>https://www.epa.gov/so2-pollution/so2-data-requirements-rule-source-list</link>
+    <description>&lt;div class=&quot;box multi related-info right&quot;&gt;
+	&lt;h2 class=&quot;pane-title&quot;&gt;Related Information&lt;/h2&gt;
+
+	&lt;div class=&quot;pane-content&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/so2-pollution/final-data-requirements-rule-2010-1-hour-sulfur-dioxide-so2-primary-national-ambient&quot;&gt;SO&lt;span style=&quot;vertical-align:baseline&quot;&gt;2&lt;/span&gt; Data Requirements Rule&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule Source List&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-pathway-notifications&quot;&gt;SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule State Pathway Notifications&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The SO&lt;sub&gt;2&lt;/sub&gt; Data Requirements Rule (DRR) states that air agencies must, at a minimum, identify and characterize air quality around SO&lt;sub&gt;2&lt;/sub&gt; sources that emit 2,000 tons per year (tpy) or more of SO&lt;sub&gt;2&lt;/sub&gt; and submit a list of sources to EPA by January 15, 2016 based on the most recently available annual emissions data.  &lt;/p&gt;
+
+&lt;p&gt;To help identify maximum 1-hour SO&lt;sub&gt;2 &lt;/sub&gt;concentrations in ambient air, the SO&lt;sub&gt;2&lt;/sub&gt; (sulfur dioxide) the DRR provides air agencies the option to:&lt;/p&gt;
+
+&lt;p&gt;1) to provide data to characterize current ambient SO&lt;sub&gt;2&lt;/sub&gt; air quality through modeling or monitoring in areas with large sources of SO&lt;sub&gt;2&lt;/sub&gt;; or&lt;/p&gt;
+
+&lt;p&gt;2) to establish federally enforceable emission limits for a source that ensures that the source will emit less than 2,000 tpy of SO&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+
+&lt;h2&gt;State List Submittals and EPA Responses (January 15, 2016):&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-1&quot;&gt;Region 1&lt;/a&gt; (Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-2&quot;&gt;Region 2&lt;/a&gt; (New Jersey, New York, Puerto Rico)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-3&quot;&gt;Region 3&lt;/a&gt; (Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, West Virginia)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-4&quot;&gt;Region 4&lt;/a&gt; (Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-5&quot;&gt;Region 5&lt;/a&gt; (Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-6&quot;&gt;Region 6&lt;/a&gt; (Arkansas, Louisiana, New Mexico, Oklahoma, Texas)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-7&quot;&gt;Region 7&lt;/a&gt; (Iowa, Kansas, Missouri, Nebraska)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-8&quot;&gt;Region 8&lt;/a&gt; (Colorado, Montana, North Dakota, South Dakaota, Utah, Wyoming)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-9&quot;&gt;Region 9&lt;/a&gt; (Arizona, California, Hawaii, Nevada, Pacific Islands)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-10&quot;&gt;Region 10&lt;/a&gt; (Alaska, Idaho, Oregon, Washington)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;* List of sources to be addressed under the Data Requirements Rule. Includes both sources listed by the state or tribe and sources listed by EPA. This list was posted on April 13, 2016, and was amended on May 24, 2016, to remove a source in the state of Texas, and was amended on June 28, 2016, to remove two sources in the state of Minnesota. The letters from Texas and from Minnesota to EPA requesting removal of these sources, and EPA’s responses, are posted in the Data Requirements Rule (DRR) Source List PDF below. &lt;/p&gt;
+
+
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295913&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/drr-source-list-epa.pdf&quot; type=&quot;application/pdf; length=347326&quot; class=&quot;file-link&quot;&gt;Data Requirements Rule (DRR) Source List (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 347 K, 
+  06/23/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 22 Jun 2016 14:49:18 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">152971 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>SO2 Data Requirements Rule State Source List Submittals - Region 10</title>
+    <link>https://www.epa.gov/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-10</link>
+    <description>&lt;p&gt;Lists submitted by states in EPA Region 10 identifying sources to be characterized under the sulfur dioxide (S02) Data Requirements Rule (DRR) and EPA&#039;s responses.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-source-list&quot;&gt;SO2 Data Requirements Rule Source List&lt;/a&gt; for the complete list of sources compiled by EPA.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295853&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ak.pdf&quot; type=&quot;application/pdf; length=311427&quot; class=&quot;file-link&quot;&gt;Alaska Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 311 K, 
+  01/12/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295855&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ak-response.pdf&quot; type=&quot;application/pdf; length=393041&quot; class=&quot;file-link&quot;&gt;EPA Response to Alaska Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 393 K, 
+  03/22/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295839&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/id.pdf&quot; type=&quot;application/pdf; length=889131&quot; class=&quot;file-link&quot;&gt;Idaho Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 889 K, 
+  01/13/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295841&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/id-response.pdf&quot; type=&quot;application/pdf; length=350253&quot; class=&quot;file-link&quot;&gt;EPA Response to Idaho Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 350 K, 
+  03/16/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295843&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/or.pdf&quot; type=&quot;application/pdf; length=321950&quot; class=&quot;file-link&quot;&gt;Oregon Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 322 K, 
+  01/12/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295845&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/or-response.pdf&quot; type=&quot;application/pdf; length=549320&quot; class=&quot;file-link&quot;&gt;EPA Response to Oregon Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 549 K, 
+  03/16/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295847&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/wa.pdf&quot; type=&quot;application/pdf; length=373205&quot; class=&quot;file-link&quot;&gt;Washington Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 373 K, 
+  01/22/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295851&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/wa-response.pdf&quot; type=&quot;application/pdf; length=557415&quot; class=&quot;file-link&quot;&gt;EPA Response to Washington Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 557 K, 
+  03/21/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 22 Jun 2016 13:30:18 +0000</pubDate>
+ <dc:creator>mbanta</dc:creator>
+ <guid isPermaLink="false">152947 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Technical Assistance Documents for Implementing the 2010 Sulfur Dioxide Standard</title>
+    <link>https://www.epa.gov/so2-pollution/technical-assistance-documents-implementing-2010-sulfur-dioxide-standard</link>
+    <description>&lt;p&gt;EPA is making available two updated draft documents that provide technical assistance for states implementing the 2010 health-based, sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) standard.  These documents provide technical advice on the use of modeling and monitoring to determine if an area meets the 2010 SO&lt;sub&gt;2&lt;/sub&gt; air quality standard.&lt;/p&gt;
+
+&lt;p&gt;For more information see &lt;a href=&quot;/so2-pollution/sulfur-dioxide-state-implementation-plan-sip-checklist-guide&quot;&gt;Sulfur Dioxide State Implementation Plan (SIP) Checklist Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295771&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/so2modelingtad.pdf&quot; type=&quot;application/pdf; length=1465537&quot; class=&quot;file-link&quot;&gt;Sulfur Dioxide (SO2) National Ambient Air Quality Standards Designations Modeling Technical Assistance Document (August 2016 DRAFT) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(72 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295775&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/so2monitoringtad.pdf&quot; type=&quot;application/pdf; length=3308369&quot; class=&quot;file-link&quot;&gt;Source-Oriented Sulfur Dioxide (SO2) Monitoring Technical Assistance Document (February 2016 Draft) (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 21 Jun 2016 21:01:41 +0000</pubDate>
+ <dc:creator>rcopland</dc:creator>
+ <guid isPermaLink="false">152931 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>SO2 Data Requirements Rule State Source List Submittals - Region 9</title>
+    <link>https://www.epa.gov/so2-pollution/so2-data-requirements-rule-state-source-list-submittals-region-9</link>
+    <description>&lt;p&gt;List from states in EPA Region 9 identifying sources to be characterized under the sulfur dioxide (S02) Data Requirements Rule (DRR) and EPA&#039;s responses. &lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;/so2-pollution/so2-data-requirements-rule-source-list&quot;&gt;SO2 Data Requirements Rule Source List&lt;/a&gt; for the complete list of sources compiled by EPA.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-295749&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/az.pdf&quot; type=&quot;application/pdf; length=96696&quot; class=&quot;file-link&quot;&gt;Arizona Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 97 K, 
+  01/15/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295753&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/az-response.pdf&quot; type=&quot;application/pdf; length=1035776&quot; class=&quot;file-link&quot;&gt;EPA Response to Arizona Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 1 MB, 
+  03/18/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295757&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ca.pdf&quot; type=&quot;application/pdf; length=1897429&quot; class=&quot;file-link&quot;&gt;California Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 2 MB, 
+  12/17/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295759&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ca-response.pdf&quot; type=&quot;application/pdf; length=1271291&quot; class=&quot;file-link&quot;&gt;EPA Response to California Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 1 MB, 
+  03/18/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295773&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/guam.pdf&quot; type=&quot;application/pdf; length=763245&quot; class=&quot;file-link&quot;&gt;Guam Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 763 K, 
+  01/15/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295777&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/guam-response.pdf&quot; type=&quot;application/pdf; length=946466&quot; class=&quot;file-link&quot;&gt;EPA Response to Guam Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 946 K, 
+  03/18/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295767&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/hi.pdf&quot; type=&quot;application/pdf; length=23680288&quot; class=&quot;file-link&quot;&gt;Hawaii Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(275 pp, 24 MB, 
+  01/08/2015)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295769&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/hi-response.pdf&quot; type=&quot;application/pdf; length=947401&quot; class=&quot;file-link&quot;&gt;EPA Response to Hawaii Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 947 K, 
+  03/18/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295761&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/nv.pdf&quot; type=&quot;application/pdf; length=463862&quot; class=&quot;file-link&quot;&gt;Nevada Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 464 K, 
+  01/13/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-295765&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/nv-response.pdf&quot; type=&quot;application/pdf; length=1049823&quot; class=&quot;file-link&quot;&gt;EPA Response to Nevada Source List Submittal (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 1 MB, 
+  03/18/2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 21 Jun 2016 20:45:00 +0000</pubDate>
+ <dc:creator>mbanta</dc:creator>
+ <guid isPermaLink="false">152929 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 18:06:38, expires @ 2017-01-26 06:06:38, lifetime 12 hours -->

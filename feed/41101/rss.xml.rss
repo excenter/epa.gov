@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/41101/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Risk Assessment</title>
+    <link>https://www.epa.gov/feed/41101/rss.xml</link>
+    <description>Updated Risk Assessment content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/41101/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Regional Screening Levels (RSLs) - Generic Tables (May 2016) (TR=1E-06 THQ=0.1)</title>
+    <link>https://www.epa.gov/risk/regional-screening-levels-rsls-generic-tables-may-2016-tr1e-06-thq01</link>
+    <description>&lt;p&gt;All tables are presented with target cancer risk (TR) of 1E-06.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297629&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/master_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=483277&quot; class=&quot;file-link&quot;&gt;Summary Table TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 483 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297635&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ressoil_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=475054&quot; class=&quot;file-link&quot;&gt;Resident Soil TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 475 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297639&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/indsoil_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=473578&quot; class=&quot;file-link&quot;&gt;Composite Worker Soil TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 474 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297641&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/resair_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=540290&quot; class=&quot;file-link&quot;&gt;Resident Air TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 540 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297645&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/indair_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=564126&quot; class=&quot;file-link&quot;&gt;Composite Worker Air TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 564 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297649&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/restap_sl_table_01run_may2016_0.pdf&quot; type=&quot;application/pdf; length=475114&quot; class=&quot;file-link&quot;&gt;Resident Tapwater TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 475 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297659&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/soil2gw_sl_table_01run_may2016_1.pdf&quot; type=&quot;application/pdf; length=401407&quot; class=&quot;file-link&quot;&gt;Resident Soil to Groundwater TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 401 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297655&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/params_sl_table_01run_may2016.pdf&quot; type=&quot;application/pdf; length=272637&quot; class=&quot;file-link&quot;&gt;Chemical Specific Parameters TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 273 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297663&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/composite_sl_table_01run_may2016.pdf&quot; type=&quot;application/pdf; length=2842538&quot; class=&quot;file-link&quot;&gt;Composite Table (Every Table) TR=1E-06 and THQ=0.1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(82 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 28 Jun 2016 18:15:13 +0000</pubDate>
+ <dc:creator>CUebele</dc:creator>
+ <guid isPermaLink="false">153501 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regional Screening Levels (RSLs) - Generic Tables (May 2016) (TR=1E-06 THQ=1.0)</title>
+    <link>https://www.epa.gov/risk/regional-screening-levels-rsls-generic-tables-may-2016-tr1e-06-thq10</link>
+    <description>&lt;p&gt;All tables are presented with target cancer risk (TR) of 1E-06.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297455&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/master_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=484076&quot; class=&quot;file-link&quot;&gt;Summary Table 	TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 484 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297457&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/ressoil_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=458787&quot; class=&quot;file-link&quot;&gt;Resident Soil TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 459 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297461&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/indsoil_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=465954&quot; class=&quot;file-link&quot;&gt;Composite Worker Soil TR=1E-06 and THQ=1.0	 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 466 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297473&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/resair_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=561719&quot; class=&quot;file-link&quot;&gt;Resident Air TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 562 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297487&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/indair_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=549241&quot; class=&quot;file-link&quot;&gt;Composite Worker Air TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 549 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297491&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/restap_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=466960&quot; class=&quot;file-link&quot;&gt;Resident Tapwater TR=1E-06 and THQ=1.0	 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 467 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297497&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/soil2gw_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=374779&quot; class=&quot;file-link&quot;&gt;Resident Soil to Groundwater TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 375 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297499&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/params_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=272639&quot; class=&quot;file-link&quot;&gt;Chemical Specific Parameters TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 273 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-297515&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/composite_sl_table_run_may2016.pdf&quot; type=&quot;application/pdf; length=2827912&quot; class=&quot;file-link&quot;&gt;Composite Table (Every Table) TR=1E-06 and THQ=1.0 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(82 pp, 3 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Tue, 28 Jun 2016 15:37:12 +0000</pubDate>
+ <dc:creator>CUebele</dc:creator>
+ <guid isPermaLink="false">153441 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Global Change Research Program Products and Publications</title>
+    <link>https://www.epa.gov/risk/global-change-research-program-products-and-publications</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;2016&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;2015-2010&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;2009-1997&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;div id=&quot;tab1&quot;&gt;Some content on this page requires JavaScript in order to be viewed. If you wish to view content on this page, you must have JavaScript enabled.&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;div id=&quot;tab2&quot;&gt;Some content on this page requires JavaScript in order to be viewed. If you wish to view content on this page, you must have JavaScript enabled.&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;div id=&quot;tab3&quot;&gt;Some content on this page requires JavaScript in order to be viewed. If you wish to view content on this page, you must have JavaScript enabled.&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 03 Jun 2016 10:59:52 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">151053 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regional Removal Management Levels for Chemicals (RMLs) - HQ1 PDFs (May 2016)</title>
+    <link>https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls-hq1-pdfs-may-2016</link>
+    <description>&lt;h3&gt;PDF files 10&lt;sup&gt;-4&lt;/sup&gt; risk level for carcinogens or a Hazard Quotient (HQ) of 1 for non-carcinogens&lt;/h3&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-287967&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/summary_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=757388&quot; class=&quot;file-link&quot;&gt; Summary Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 757 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287969&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/residential_soil_supporting_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=711973&quot; class=&quot;file-link&quot;&gt;Residential Soil Supporting Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 712 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287973&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/industrial_soil_supporting_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=738262&quot; class=&quot;file-link&quot;&gt;Industrial Soil Supporting Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 738 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287975&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/residential_tapwater_supporting_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=710593&quot; class=&quot;file-link&quot;&gt;Residential Tapwater Supporting Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(15 pp, 711 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287977&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/chemical_parameters_supporting_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=215473&quot; class=&quot;file-link&quot;&gt;Chemical Parameters Supporting Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 215 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287979&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/composite_table_hq1_may_2016.pdf&quot; type=&quot;application/pdf; length=2660213&quot; class=&quot;file-link&quot;&gt;Composite Table HQ1 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(68 pp, 3 MB, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 25 May 2016 15:18:01 +0000</pubDate>
+ <dc:creator>CUebele</dc:creator>
+ <guid isPermaLink="false">150421 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Regional Removal Management Levels for Chemicals (RMLs) - HQ3 PDFs (May 2016)</title>
+    <link>https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls-hq3-pdfs-may-2016</link>
+    <description>&lt;h3&gt;PDF files 10&lt;span style=&quot;vertical-align:baseline&quot;&gt;-4&lt;/span&gt; risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens&lt;/h3&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-287815&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/summary_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=824091&quot; class=&quot;file-link&quot;&gt;Summary Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(16 pp, 824 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287823&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/residential_soil_supporting_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=640512&quot; class=&quot;file-link&quot;&gt;Residential Soil Supporting Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(13 pp, 641 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287827&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/industrial_soil_supporting_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=671984&quot; class=&quot;file-link&quot;&gt;Industrial Soil Supporting Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 672 K, 
+  May 2016)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287829&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/residential_tapwater_supporting_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=691395&quot; class=&quot;file-link&quot;&gt;Residential Tapwater Supporting Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 691 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287833&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/chemical_parameters_supporting_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=224212&quot; class=&quot;file-link&quot;&gt;Chemical Parameters Supporting Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 224 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;span id=&quot;file-287837&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-05/documents/composite_table_hq3_may_2016.pdf&quot; type=&quot;application/pdf; length=2437216&quot; class=&quot;file-link&quot;&gt;Composite Table HQ3 (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(65 pp, 2 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 25 May 2016 13:17:02 +0000</pubDate>
+ <dc:creator>CUebele</dc:creator>
+ <guid isPermaLink="false">150375 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>How to subscribe to the Human Health Risk Assessment Bulletin</title>
+    <link>https://www.epa.gov/risk/how-subscribe-human-health-risk-assessment-bulletin</link>
+    <description>&lt;ul class=&quot;menu tabs&quot;&gt;&lt;li class=&quot;menu-item&quot;&gt;&lt;a class=&quot;menu-link&quot; href=&quot;/risk/forms/contact-us-about-risk-assessment&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;menu-item active&quot;&gt;&lt;a class=&quot;menu-link active&quot; href=&quot;/risk/how-subscribe-human-health-risk-assessment-bulletin&quot;&gt;Subscribe to the HHRA bulletin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;STAYING CONNECTED: If you would like to receive notifications of human health risk assessment announcements, please sign up to be on the HHRA mailing list.&lt;/h2&gt;
+
+
+
+&lt;p&gt;1. Click on the link below to connect to the GovDelivery listserve website:&lt;/p&gt;
+
+&lt;p class=&quot;indented&quot;&gt;&lt;a href=&quot;https://public.govdelivery.com/accounts/USEPAORD/subscriber/new?topic_id=USEPAORD_8&quot;&gt;https://public.govdelivery.com/accounts/USEPAORD/subscriber/new?topic_id=USEPAORD_8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2. Once you are in this site you will automatically be enrolled in the HHRA mailing list. You can then click through additional options to join other EPA mailing lists topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt; We encourage you to join this list to learn more about these other EPA programs. If you like to tweet, then follow HHRA on the &lt;/span&gt;&lt;a href=&quot;http://twitter.com/EPAresearch&quot;&gt;EPA Research Twitter account&lt;/a&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;
+</description>
+     <pubDate>Mon, 23 May 2016 15:56:27 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">150215 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Receive Notifications of Regional Screening Level Updates</title>
+    <link>https://www.epa.gov/risk/forms/receive-notifications-regional-screening-level-updates</link>
+    <description>&lt;p&gt;Enter your contact information below to receive notifications when new releases are available.&lt;/p&gt;
+</description>
+     <pubDate>Tue, 05 Jan 2016 21:11:35 +0000</pubDate>
+ <dc:creator>wdalebou</dc:creator>
+ <guid isPermaLink="false">131081 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>FAQs About Update of Standard Default Exposure Factors</title>
+    <link>https://www.epa.gov/risk/faqs-about-update-standard-default-exposure-factors</link>
+    <description>&lt;p&gt;This guidance supersedes and replaces certain portions of OSWER Directive 9285 .6-03.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-226535&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/faqs_expf_directive_2015_sept.pdf&quot; type=&quot;application/pdf; length=186224&quot; class=&quot;file-link&quot;&gt;FAQs About Update of Standard Default Exposure Factors (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(4 pp, 186 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 09 Nov 2015 15:47:17 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">125423 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Update of Standard Default Exposure Factors</title>
+    <link>https://www.epa.gov/risk/update-standard-default-exposure-factors</link>
+    <description>&lt;p&gt;This page contains a list of frequent questions and answers about OSWER directive 9285.6-03.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-226533&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2015-11/documents/oswer_directive_9200.1-120_exposurefactors_corrected2.pdf&quot; type=&quot;application/pdf; length=1143236&quot; class=&quot;file-link&quot;&gt;Update of Standard Default Exposure Factors (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(7 pp, 1 MB)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Mon, 09 Nov 2015 15:47:16 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">125421 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 04:38:53, expires @ 2017-01-26 16:38:53, lifetime 12 hours -->

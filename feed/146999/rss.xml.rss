@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/146999/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Citizen Science</title>
+    <link>https://www.epa.gov/feed/146999/rss.xml</link>
+    <description>Updated Citizen Science content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/146999/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Integrating Citizen Science at EPA</title>
+    <link>https://www.epa.gov/citizen-science/integrating-citizen-science-epa</link>
+    <description>&lt;h2&gt;Advisory group provides advice and recommendations on EPA citizen science &lt;/h2&gt;
+
+&lt;p&gt;On December 13, 2016, the &lt;a href=&quot;/faca/nacept&quot;&gt;National Advisory Council For Environmental Policy and Technology (NACEPT)&lt;/a&gt; transmitted a report to the EPA Administrator highlighting the transformative potential of citizen science for environmental protection. NACEPT assessed EPA&#039;s approach to citizen science in the context of current activities and recommends that the Agency proactively and fully integrate citizen science into the work of EPA. The Council recommends that EPA embrace citizen science as a core tenet of environmental protection; invest in citizen science for communities, partners, and the Agency; enable the use of citizen science data at the Agency; and integrate citizen science into the full range of work at EPA.&lt;/p&gt;
+
+&lt;p&gt;The full NACEPT report can be found &lt;a href=&quot;/faca/nacept-2016-report-environmental-protection-belongs-public-vision-citizen-science-epa&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <pubDate>Wed, 13 Jul 2016 15:53:04 +0000</pubDate>
+ <dc:creator>jkuang</dc:creator>
+ <guid isPermaLink="false">154739 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Quality Assurance Project Plan for Citizen Science Projects</title>
+    <link>https://www.epa.gov/citizen-science/quality-assurance-project-plan-citizen-science-projects</link>
+    <description>&lt;h2&gt;Quality Assurance Project Plan (QAPP)&lt;/h2&gt;
+
+&lt;p&gt;The QAPP documents the project planning process and serves as a blueprint for how your project will run. It provides the: who, what, when where, why and how of the project. A QAPP is necessary whenever you produce or collect environmental data. &lt;/p&gt;
+
+&lt;h3&gt;When is a QAPP needed?&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;For every project that collects or uses environmental data&lt;/li&gt;
+	&lt;li&gt;If you want others to consider using your data&lt;/li&gt;
+	&lt;li&gt;For all projects funded by EPA that involve collection and/or use of environmental data&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A QAPP aims to ensure the credibility of information collected or used by citizen scientists. A QAPP should be incorporated into all environmental data collection and use projects. The QAPP should describe specific goals and quality objectives for the project. A QAPP is especially important if you want others to consider using your information.&lt;/p&gt;
+
+&lt;p&gt;A QAPP can help to ensure that data collected will be used for its intended purpose. If you hope to influence a decision, research the organization&#039;s data quality requirements. An organization may require a specific type of data for decision-making. However, the organization may accept other types of data as supporting information. &lt;/p&gt;
+
+&lt;p&gt;There are a wide range of citizen science projects from educational to academic research or regulatory development. Similarly, a QAPP could range from a few pages to a longer, formal document. A standardized QAPP will not work for all citizen science projects. A “graded approach” allows you to determine the appropriate level of detail for the specific project. The graded approach applies to the level of detail to be documented in the QAPP based on the complexity of the project and the intended use of the data. It is a common sense approach that not all decisions require environmental data of the same quality, such as those for screening, or for educational purposes.&lt;/p&gt;
+
+&lt;p&gt;Although a QAPP is a great tool to outline your project timeline, goals, and specifics, it is not required. For example, if you would like your data to be considered screening level, a QAPP would aid in explaining how the data was obtained and the level of quality assurance applied. However, if you would like your data to be used for educational purposes only within your immediate community, a QAPP may not be needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The following links provide further guidance on quality assurance for citizen science projects:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://epa.gov/grants/implementation-quality-assurance-requirements-organizations-receiving-epa-financial&quot;&gt;Quality assurance requirements for organizations receiving EPA financial assistance&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=20004MVO.txt&quot;&gt;The Volunteer Monitor’s Guide to Quality Assurance Project Plans (EPA 841-B-96-003)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/ttn/amtic/qalist.html&quot;&gt;Quality Assurance Guidance Documents for Air Monitoring&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/quality/overview-epa-quality-system-environmental-data-and-technology&quot;&gt;EPA&#039;s Quality System for Environmental Data and Technology&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/citizen-science/quality-assurance-template-citizen-science-projects&quot;&gt;QAPP template for citizen science projects&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 211 K)&lt;/span&gt; This QAPP template was created specifically for EPA Region 2 (New Jersey, New York, Puerto Rico, the U.S. Virgin Islands, and eight tribal nations) projects. However, you may feel free to use it as a guidance for any citizen science projects.&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 13 Jul 2016 15:19:41 +0000</pubDate>
+ <dc:creator>jkuang</dc:creator>
+ <guid isPermaLink="false">154729 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Citizen Science Water Monitoring Equipment Resources</title>
+    <link>https://www.epa.gov/citizen-science/citizen-science-water-monitoring-equipment-resources</link>
+    <description>&lt;p&gt;This document provides examples of water sampling equipment commonly used in citizen science projects.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297973&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/citizen_science_water_monitoring_fact_sheet.pdf&quot; type=&quot;application/pdf; length=313679&quot; class=&quot;file-link&quot;&gt;Citizen Science Water Monitoring Equipment Resources (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 314 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 29 Jun 2016 15:54:28 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">153697 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Citizen Science Air Monitoring Equipment Resources</title>
+    <link>https://www.epa.gov/citizen-science/citizen-science-air-monitoring-equipment-resources</link>
+    <description>&lt;p&gt;This document provides a general description of several different types of air monitoring and sampling equipment that have been used in citizen science projects.&lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297959&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/citizen_science_air_monitoring_fact_sheet.pdf&quot; type=&quot;application/pdf; length=199629&quot; class=&quot;file-link&quot;&gt;Citizen Science Air Monitoring Equipment Resources (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 200 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 29 Jun 2016 15:42:20 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">153689 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Citizen Science Project/Study Design: Basic Elements to Consider</title>
+    <link>https://www.epa.gov/citizen-science/citizen-science-projectstudy-design-basic-elements-consider</link>
+    <description>&lt;p&gt;Before beginning a citizen science project, review guidance on basic elements to consider in project design: &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-297943&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/citizen_science_project_study_design.pdf&quot; type=&quot;application/pdf; length=230980&quot; class=&quot;file-link&quot;&gt;Citizen Science Project/Study Design: Basic Elements to Consider (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(1 pg, 231 K)&lt;/span&gt;
+  &lt;div class=&quot;field field-name-field-document-description field-type-text field-label-hidden&quot;&gt;
+    Guidance on developing and designing environmental citizen science projects.  &lt;/div&gt;
+&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Wed, 29 Jun 2016 15:25:09 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">153671 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Quality Assurance Template for Citizen Science Projects</title>
+    <link>https://www.epa.gov/citizen-science/quality-assurance-template-citizen-science-projects</link>
+    <description>&lt;p&gt;This document provides guidance and a sample template for creating a quality assurance project plan (QAPP) for citizen science projects. &lt;/p&gt;
+
+&lt;ul class=&quot;field field-name-field-file field-type-file field-label-hidden&quot;&gt;
+
+      &lt;li&gt;
+      &lt;span id=&quot;file-296645&quot; class=&quot;file file-document file-application-pdf&quot;&gt;&lt;a href=&quot;https://www.epa.gov/sites/production/files/2016-06/documents/quality_assurance_template_for_citizen_science.pdf&quot; type=&quot;application/pdf; length=211283&quot; class=&quot;file-link&quot;&gt;Quality Assurance Template for Citizen Science Projects (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 211 K)&lt;/span&gt;&lt;/span&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+     <pubDate>Thu, 23 Jun 2016 13:05:11 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">153079 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Interested in Collecting Data about an Environmental Concern in Your Community?</title>
+    <link>https://www.epa.gov/citizen-science/interested-collecting-data-about-environmental-concern-your-community</link>
+    <description>&lt;p&gt;Citizen science can advance environmental protection by helping communities understand environmental problems and collect quality data. In some cases, EPA provides tools and technical expertise to communities to better understand local problems and advocate for improved environmental health. Often, communities with environmental concerns will collaborate with nonprofit organizations and academic researchers. &lt;/p&gt;
+
+&lt;p&gt;Successful projects gather best practices and carefully design projects so that the data are as useful as possible. This can include the preparation of a &lt;a href=&quot;/citizen-science/quality-assurance-project-plan-citizen-science-projects&quot;&gt;Quality Assurance Project Plan (QAPP)&lt;/a&gt;. Many organizations have resources to assist with project design and best practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a title=&quot;EPA&#039;s External Link Disclaimer&quot; class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.birds.cornell.edu/citscitoolkit/toolkit&quot;&gt;Citizen Science Central Toolkit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://govlabacademy.org/&quot;&gt;Designing a Social Change Project (GovLab Academy)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://seagrant.noaa.gov/SeaGrantSearch/TabId/526/ArtMID/3568/ArticleID/506/Community-Based-Monitoring-of-Alaskas-Coastal-and-Ocean-Environment.aspx&quot;&gt;Community-Based Monitoring of Alaska&#039;s Coastal and Ocean Environment: Best Practices for Linking Alaska Citizens with Science&lt;/a&gt;. Though directed at Alaska programs, much of the information is relevant to programs in other areas as well.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.ucl.ac.uk/excites&quot;&gt;Extreme Citizen Science: ExCiteS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EPA is working to better understand how to increase the impact of knowledge and data from citizen science projects, including guidance on the Agency&#039;s response to data indicating an environmental concern.&lt;/p&gt;
+
+&lt;h2&gt;Air&lt;/h2&gt;
+
+&lt;p&gt;Recognizing that members of the public want to learn more about local air quality, EPA scientists are collaborating with technology developers and with federal, state, international, and nongovernmental organizations on the potential use of emerging technologies to meet a wide range of air quality monitoring needs. EPA now has a website, the &lt;a href=&quot;/air-research/air-sensor-toolbox-citizen-scientists&quot;&gt;Air Sensor Toolbox for Citizen Scientists&lt;/a&gt;, with information and guidance on new, low-cost, portable technologies for measuring air quality. In 2015, EPA hosted (and recorded) a training workshop, the &lt;a href=&quot;/air-research/community-air-monitoring-training&quot;&gt;Community Air Monitoring Training&lt;/a&gt;, to share tools and best practices. &lt;/p&gt;
+
+&lt;p&gt;Citizen science air monitoring projects can take place indoors or outdoors. Examples of air pollutants examined by citizen scientists include &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;volatile organic compounds&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; /&gt;&lt;em&gt;volatile organic compounds&lt;/em&gt;Any organic compound which evaporates readily to the atmosphere. VOCs contribute significantly to photochemical smog production and certain health problems.&lt;/span&gt;&lt;/a&gt; (VOCs), &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;particulate matter&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; /&gt;&lt;em&gt;particulate matter&lt;/em&gt;Particles in the air, such as dust, dirt, soot, smoke, and droplets. Small particles (PM-10 or PM-2.5) have significant effects on human health. Particulate matter is one of the six &quot;criteria&quot; pollutants for which EPA has established national ambient air quality standards.&lt;/span&gt;&lt;/a&gt; (PM), &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;ozone&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; /&gt;&lt;em&gt;ozone&lt;/em&gt;A gas that results from complex chemical reactions between nitrogen dioxide and volatile organic compounds; the major component of smog. Ozone at the ground level is one of the six &quot;criteria&quot; pollutants for which EPA has established national ambient air quality standards.&lt;/span&gt;&lt;/a&gt; (O2), and &lt;a class=&quot;termlookup-tooltip&quot; href=&quot;#self&quot; occurrence=&quot;1&quot;&gt;nitrogen dioxide&lt;span class=&quot;termlookup-custom&quot;&gt;&lt;img width=&quot;48&quot; height=&quot;48&quot; alt=&quot;Help&quot; src=&quot;/sites/all/modules/custom/add_definitions/images/add_definitions_icon_popup_help.png&quot; /&gt;&lt;em&gt;nitrogen dioxide&lt;/em&gt;A chemical that results from nitric oxide combining with oxygen in the atmosphere; a major component of photochemical smog. One of the six &quot;criteria&quot; pollutants for which EPA has set national ambient air quality standards.&lt;/span&gt;&lt;/a&gt; (NO2). Citizen scientists interested in testing these or any other pollutants should review the following links:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li class=&quot;indented&quot;&gt;&lt;a href=&quot;/haps&quot;&gt;Hazardous Air Pollutants&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/ttn/amtic/qalist.html&quot;&gt;Quality Assurance Guidance Documents for Air Monitoring&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/citizen-science/citizen-science-air-monitoring-equipment-resources&quot;&gt;Citizen Science Air Monitoring Equipment Resources (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 199 K)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Water&lt;/h2&gt;
+
+&lt;p&gt;Citizen science data on waterbodies increases decision making capability and builds awareness about water pollution problems. Citizen scientists monitor the characteristics of waterbodies, and make observations on habitat and diversity of species present. Volunteers also participate in restoration and stewardship of waterbodies through the removal of debris and invasive species.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/citizen-science/citizen-science-water-monitoring-equipment-resources&quot;&gt;Citizen Science Water Monitoring Equipment Resources (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(1 pp, 313 K)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Fri, 13 May 2016 18:42:34 +0000</pubDate>
+ <dc:creator>jkuang</dc:creator>
+ <guid isPermaLink="false">149577 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Additional Resources for Citizen Science - Environmental Protection</title>
+    <link>https://www.epa.gov/citizen-science/additional-resources-citizen-science-environmental-protection</link>
+    <description>&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/home/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;General&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www3.epa.gov/enviro/myenviro/&quot;&gt;MyEnvironment&lt;/a&gt;: Gathers data from EPA and other resources by your area code – includes MyWater, MyAir, MyHealth, MyEnergy and MyCommunity&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://developer.epa.gov/category/apps/?appSearch=citizen+science&quot;&gt;Green Apps&lt;/a&gt;: Over 290 apps to help you understand and protect the environment&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.grants.gov&quot;&gt;Grants.gov&lt;/a&gt;: An overview of the process to apply for federal grants&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.nemi.gov/methods/browse_methods/&quot;&gt;National Environmental Methods Index (NEMI)&lt;/a&gt;: Searchable collection of environmental analysis methods&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Recent Workshops and Webinars&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://epa.gov/air-research/community-air-monitoring-training&quot;&gt;Community Air Monitoring Training - July 9, 2015&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://blog.epa.gov/blog/2016/04/citizen-science-environmental-outreach-and-water-quality/&quot;&gt;Protecting the Anacostia Watershed – A Workshop on Water Quality Standards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;Air&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/EPAresearch/air-sensor-science-and-education/1&quot;&gt;Air Sensor Science and Education&lt;/a&gt;: Slideshow on empowering students, citizen scientists, and communities using air sensor science&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/learn-issues/learn-about-air&quot;&gt;EPA Basic Air Information Page&lt;/a&gt;: Introduction to air pollution&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/haps&quot;&gt;EPA Hazardous Air Pollutants Page&lt;/a&gt;: Basic introduction to hazardous air pollutants&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/ttn/amtic/qalist.html&quot;&gt;EPA Quality Assurance Guidance Documents for Air Monitoring&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.airnow.gov/&quot;&gt;AirNow&lt;/a&gt;: Provides the public with easy access to national air quality information &lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;Water&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/learn-issues/learn-about-water&quot;&gt;EPA Headquarters Water Page&lt;/a&gt;: Information on everything water&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/watershedacademy&quot;&gt;EPA Watershed Academy&lt;/a&gt;: Training and information on implementing watershed approaches&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/wqc/biological-water-quality-criteria&quot;&gt;Biological Water Quality Criteria Page&lt;/a&gt;: Information about the health of aquatic ecosystems&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/nep&quot;&gt;National Estuary Program&lt;/a&gt;: A network of voluntary community-based programs that safeguard the health of coastal ecosystems &lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/wetlands/volunteer-monitoring-protect-wetlands&quot;&gt;Volunteer Wetland Monitoring: An Introduction and Resource Guide&lt;/a&gt;: Introduction to volunteer wetland monitoring, including handbooks and manuals&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://acwi.gov/monitoring/&quot;&gt;National Water Quality Monitoring Council&lt;/a&gt;: A forum to improve the Nation&#039;s water quality through partnerships and increased understanding and stewardship &lt;/li&gt;
+	&lt;li&gt;EPA Regional Equipment Loan Programs: Lending programs assist communities with citizen science monitoring projects. Currently, programs operate in US EPA Region 1 and Region 2 for water monitoring only. Please &lt;a href=&quot;/citizen-science/forms/contact-us-about-citizen-science&quot;&gt;contact us&lt;/a&gt; for more information.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;Soil&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/sites/production/files/2015-09/documents/bf_urban_ag.pdf&quot;&gt;Brownfields and Urban Agriculture: Interim Guidelines for Safe Gardening Practices (PDF)&lt;/a&gt;: Outlining the range of issues to be addressed to safely grow food on former Brownfields sites.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;strong&gt;Quality Assurance&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/quality/overview-epa-quality-system-environmental-data-and-technology&quot;&gt;EPA&#039;s Quality System for Environmental Data and Technology&lt;/a&gt;: Ensuring that environmental data are of sufficient quantity and quality to support the data&#039;s intended use. The system also applies to grantees, and other recipients of financial assistance from EPA&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/citizen-science/quality-assurance-template-citizen-science-projects&quot;&gt;Quality Assurance Project Plan template for Citizen Science Projects (PDF)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(24 pp, 211 K)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Wed, 20 Apr 2016 19:45:01 +0000</pubDate>
+ <dc:creator>jkuang</dc:creator>
+ <guid isPermaLink="false">147131 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Citizen Science Grants and Other Funding Opportunities</title>
+    <link>https://www.epa.gov/citizen-science/citizen-science-grants-and-other-funding-opportunities</link>
+    <description>&lt;p&gt;Citizen science projects may be able to obtain funding through the following federal options:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/grants&quot;&gt;EPA Grants&lt;/a&gt;: Learn about current funding opportunities available through EPA&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/research-grants&quot;&gt;EPA Research Grants&lt;/a&gt;: Explore research funding opportunities through EPA&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.grants.gov&quot;&gt;Grants.gov&lt;/a&gt;: Find out about available grants from multiple federal agencies nationwide&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.fs.fed.us/working-with-us/grants&quot;&gt;USDA US Forest Service&lt;/a&gt;: Supports projects focusing on management of the nation’s water resources; engaging youth in conservation stewardship; promoting healthy, active lifestyles; and serving communities&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Outside organizations who also offer grants:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer&quot;&gt;The following links exit the site &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.knightfoundation.org/what-we-fund/&quot;&gt;Knight Foundation&lt;/a&gt;: Funds projects that foster innovation, communities and the arts to create informed and engaged communities&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.toyota-global.com/sustainability/environment/blessings_of_nature/ecogrant/&quot;&gt;Toyota&lt;/a&gt;: Supports international, national and local programs focusing in environment, education and safety&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.nsf.gov/funding/&quot;&gt;National Science Foundation&lt;/a&gt;: Provides funding in many areas, including environmental research and education&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.nfwf.org/Pages/default.aspx&quot;&gt;National Fish and Wildlife Foundation&lt;/a&gt;: Will fund projects aiming to sustain, restore, and enhance the nation’s fish, wildlife, and plants and their habitats&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.conservationfund.org/&quot;&gt;The Conservation Fund&lt;/a&gt;: National funding opportunities to enhance rural communities&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://earthwatch.org/scientific-research/apply-for-funding&quot;&gt;Earthwatch Institute&lt;/a&gt;: Provides citizen scientist and financial support to research projects addressing urgent global needs all over the world&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.bushfoundation.org/grants/community-innovation-grants&quot;&gt;The Bush Foundation&lt;/a&gt;: Community Innovation Grants support communities to use problem-solving processes that lead to more effective, equitable and sustainable solutions&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.sloan.org/about-the-foundation/&quot;&gt;Alfred P. Sloan Foundation&lt;/a&gt;: Interested in projects that it expects will result in a strong benefit to society, and for which funding from the private sector, the government, or other foundations is not widely available.  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: The above lists are by no means comprehensive. If you are aware of other grant opportunities for citizen science and would like to see them listed here, please contact us.&lt;/em&gt;&lt;/p&gt;
+</description>
+     <pubDate>Wed, 20 Apr 2016 19:40:55 +0000</pubDate>
+ <dc:creator>rjgraham</dc:creator>
+ <guid isPermaLink="false">147123 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-26 03:53:58, expires @ 2017-01-26 15:53:58, lifetime 12 hours -->

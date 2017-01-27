@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/feed/19069/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>IRIS</title>
+    <link>https://www.epa.gov/feed/19069/rss.xml</link>
+    <description>Updated IRIS content from the US Environmental Protection Agency</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/feed/19069/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Supporting Documents for Trimethylbenzenes</title>
+    <link>https://www.epa.gov/iris/supporting-documents-trimethylbenzenes</link>
+    <description>&lt;p&gt;This page includes supporting documents to the IRIS chemical trimethylbenezenes.&lt;/p&gt;
+
+&lt;p&gt;EPA is announcing the release of the final IRIS Executive Summary for Trimethylbenzenes and an accompanying toxicological review have been added to the IRIS website.  This assessment implements many of the recommendations provided by the National Academy of Sciences and features a new streamlined document structure that is more transparent with respect to the methods used and better articulates how decisions were made.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=529098&quot;&gt;IRIS Toxicological Review of Trimethylbenzenes (2016 Final Report)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(105 pp, 3 Mb, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=529099&quot;&gt;IRIS Toxicological Review of Trimethylbenzenes (2016 Final Report) - Supporting Information&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(347 pp, 9 Mb, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=529097&quot;&gt;IRIS Toxicological Review of Trimethylbenzenes (2016 Final Report) - Executive Summary&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 331 Kb, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The assessment for trimethylbenzenes contains data on three individual isomers:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1039&quot;&gt;Assessment of 1,2,3-TMB, CASRN 526-73-8&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1037&quot;&gt;Assessment of 1,2,4-TMB, CASRN 95-63-6&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1038&quot;&gt;Assessment of 1,3,5-TMB, CASRN 108-67-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+     <pubDate>Tue, 06 Sep 2016 13:16:28 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">159345 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>List of Pesticides Archived on the IRIS Database (July 2016)</title>
+    <link>https://www.epa.gov/iris/list-pesticides-archived-iris-database-july-2016</link>
+    <description>&lt;p&gt;In July 2016, EPA archived the following list of 51 chemical assessments. Learn more about these and other &lt;a href=&quot;/iris/recent-developments-iris-program&quot;&gt;recent developments in the IRIS Program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table class=&quot;tablesorter&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;Substance Name&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;CASRN&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Last Significant IRIS Revision&lt;/th&gt;
+			&lt;th scope=&quot;col&quot;&gt;Last Significant OPP Revision&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=33&quot;&gt;4-(2, 4 - Dichlorophenoxy) butyric acid (2,4-DB)(2,4-DBA)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;94-82-6&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;07/20/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=354&quot;&gt;Acephate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;30560-19-1&lt;/td&gt;
+			&lt;td&gt;05/01/1989&lt;/td&gt;
+			&lt;td&gt;10/14/1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=207&quot;&gt;Amdro (hydramethylnon)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;67485-29-4&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;05/21/2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=284&quot;&gt;Asulam&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;3337-71-1&lt;/td&gt;
+			&lt;td&gt;06/30/1988&lt;/td&gt;
+			&lt;td&gt;02/28/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=131&quot;&gt;Bayleton (triadimefon)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;43121-43-3&lt;/td&gt;
+			&lt;td&gt;03/01/1988&lt;/td&gt;
+			&lt;td&gt;08/03/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=133&quot;&gt;Benefin (benfluralin)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;1861-40-1&lt;/td&gt;
+			&lt;td&gt;03/31/1988&lt;/td&gt;
+			&lt;td&gt;10/03/2003&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=211&quot;&gt;Bidrin (dicrotophos)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;141-66-2&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;11/07/2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=289&quot;&gt;Bromoxynil&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;1689-84-5&lt;/td&gt;
+			&lt;td&gt;06/30/1988&lt;/td&gt;
+			&lt;td&gt;04/20/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=138&quot;&gt;Bromoxynil octanoate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;1689-99-2&lt;/td&gt;
+			&lt;td&gt;09/07/1988&lt;/td&gt;
+			&lt;td&gt;04/20/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=406&quot;&gt;Chlorimuron-ethyl&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;90982-32-4&lt;/td&gt;
+			&lt;td&gt;11/01/1989&lt;/td&gt;
+			&lt;td&gt;09/14/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=283&quot;&gt;Chlorpropham&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;101-21-3&lt;/td&gt;
+			&lt;td&gt;06/30/1998&lt;/td&gt;
+			&lt;td&gt;07/10/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=27&quot;&gt;Chlorsulfuron&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;64902-72-3&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;07/18/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=279&quot;&gt;Cyhalothrin/Karate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;68085-85-8&lt;/td&gt;
+			&lt;td&gt;06/30/1988&lt;/td&gt;
+			&lt;td&gt;09/12/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=380&quot;&gt;Cypermethrin&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;52315-07-8&lt;/td&gt;
+			&lt;td&gt;03/01/1989&lt;/td&gt;
+			&lt;td&gt;11/29/2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=220&quot;&gt;Cyromazine&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;66215-27-8&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;08/20/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=336&quot;&gt;Difenzoquat methyl sulfate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;43222-48-6&lt;/td&gt;
+			&lt;td&gt;08/22/1988&lt;/td&gt;
+			&lt;td&gt;02/07/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=43&quot;&gt;Dimethipin&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;55290-64-7&lt;/td&gt;
+			&lt;td&gt;08/22/1988&lt;/td&gt;
+			&lt;td&gt;08/26/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=44&quot;&gt;Dimethoate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;60-51-5&lt;/td&gt;
+			&lt;td&gt;08/22/1988&lt;/td&gt;
+			&lt;td&gt;01/31/2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=48&quot;&gt;Diphenylamine&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;122-39-4&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;08/08/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=234&quot;&gt;Dodine&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;2439-10-3&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;01/24/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=383&quot;&gt;Flurprimidol&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;56425-91-3&lt;/td&gt;
+			&lt;td&gt;07/01/1989&lt;/td&gt;
+			&lt;td&gt;12/01/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=394&quot;&gt;Flutolanil&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;66332-96-5&lt;/td&gt;
+			&lt;td&gt;05/01/1990&lt;/td&gt;
+			&lt;td&gt;10/13/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=242&quot;&gt;Folpet&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;133-07-3&lt;/td&gt;
+			&lt;td&gt;03/01/1991&lt;/td&gt;
+			&lt;td&gt;04/26/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=348&quot;&gt;Fomesafen&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;72178-02-0&lt;/td&gt;
+			&lt;td&gt;10/01/1993&lt;/td&gt;
+			&lt;td&gt;02/19/2010&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=159&quot;&gt;Fosetyl-Al&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;39148-24-8&lt;/td&gt;
+			&lt;td&gt;08/22/1988&lt;/td&gt;
+			&lt;td&gt;08/24/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=247&quot;&gt;Glufosinate-ammonium&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;77182-82-2&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;07/25/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=337&quot;&gt;Harmony (thifensulfuron methyl) &lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;79277-27-3&lt;/td&gt;
+			&lt;td&gt;09/26/1988&lt;/td&gt;
+			&lt;td&gt;06/01/2012&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=168&quot;&gt;Imazalil&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;35554-44-0&lt;/td&gt;
+			&lt;td&gt;03/31/1987&lt;/td&gt;
+			&lt;td&gt;02/07/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=280&quot;&gt;Lactofen&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;77501-63-4&lt;/td&gt;
+			&lt;td&gt;06/30/1988&lt;/td&gt;
+			&lt;td&gt;04/30/2007&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=170&quot;&gt;Linuron&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;330-55-2&lt;/td&gt;
+			&lt;td&gt;08/01/1989&lt;/td&gt;
+			&lt;td&gt;04/17/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=325&quot;&gt;MCPB acid (4-(2-Methyl-4-chlorophenoxy) butyric acid / IRIS)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;94-81-5&lt;/td&gt;
+			&lt;td&gt;09/26/1988&lt;/td&gt;
+			&lt;td&gt;06/08/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=367&quot;&gt;Merphos oxide (tribufos)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;78-48-8&lt;/td&gt;
+			&lt;td&gt;11/01/1992&lt;/td&gt;
+			&lt;td&gt;06/26/2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=341&quot;&gt;Methidathion&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;950-37-8&lt;/td&gt;
+			&lt;td&gt;05/01/1989&lt;/td&gt;
+			&lt;td&gt;11/08/1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=384&quot;&gt;Napropamide&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;15299-99-7&lt;/td&gt;
+			&lt;td&gt;07/01/1989&lt;/td&gt;
+			&lt;td&gt;07/07/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=82&quot;&gt;Norflurazon&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;27314-13-2&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;12/20/2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=299&quot;&gt;NuStar (flusilazole)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;85509-19-9&lt;/td&gt;
+			&lt;td&gt;09/26/1988&lt;/td&gt;
+			&lt;td&gt;05/30/2006&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=83&quot;&gt;Oryzalin&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;19044-88-3&lt;/td&gt;
+			&lt;td&gt;07/01/1989&lt;/td&gt;
+			&lt;td&gt;05/18/2004&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=84&quot;&gt;Oxyfluorfen&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;42874-03-3&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;04/29/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=292&quot;&gt;Pendimethalin&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;40487-42-1&lt;/td&gt;
+			&lt;td&gt;06/30/1988&lt;/td&gt;
+			&lt;td&gt;06/30/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=477&quot;&gt;Phenmedipham&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;13684-63-4&lt;/td&gt;
+			&lt;td&gt;06/01/1990&lt;/td&gt;
+			&lt;td&gt;02/28/2005&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=257&quot;&gt;Pirimiphos-methyl&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;29232-93-7&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;07/13/1999&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=258&quot;&gt;Prometryn&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;7287-19-6&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;08/05/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=296&quot;&gt;Propargite&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;2312-35-8&lt;/td&gt;
+			&lt;td&gt;05/01/1990&lt;/td&gt;
+			&lt;td&gt;09/13/2001&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=282&quot;&gt;Propiconazole&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;60207-90-1&lt;/td&gt;
+			&lt;td&gt;08/22/1988&lt;/td&gt;
+			&lt;td&gt;02/27/2013&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=439&quot;&gt;Pursuit (imazethapyr)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;81335-77-5&lt;/td&gt;
+			&lt;td&gt;01/01/1990&lt;/td&gt;
+			&lt;td&gt;04/23/2002&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=190&quot;&gt;Sethoxydim&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;74051-80-2&lt;/td&gt;
+			&lt;td&gt;11/01/1989&lt;/td&gt;
+			&lt;td&gt;06/02/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=237&quot;&gt;S-Ethyl dipropylthiocarbamate (EPTC - Ethyl dipropylthiocarbamate)&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;759-94-4&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;06/14/2011&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=117&quot;&gt;Thiophanate-methyl&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;23564-05-8&lt;/td&gt;
+			&lt;td&gt;03/01/1988&lt;/td&gt;
+			&lt;td&gt;06/24/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=267&quot;&gt;Thiram&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;137-26-8&lt;/td&gt;
+			&lt;td&gt;09/30/1987&lt;/td&gt;
+			&lt;td&gt;06/09/2009&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=195&quot;&gt;Triallate&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;2303-17-5&lt;/td&gt;
+			&lt;td&gt;08/01/1990&lt;/td&gt;
+			&lt;td&gt;12/8/2008&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=126&quot;&gt;Vinclozolin&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;50471-44-8&lt;/td&gt;
+			&lt;td&gt;01/31/1987&lt;/td&gt;
+			&lt;td&gt;05/12/2000&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+     <pubDate>Mon, 11 Jul 2016 17:59:02 +0000</pubDate>
+ <dc:creator>patrick_campbell</dc:creator>
+ <guid isPermaLink="false">154505 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>IRIS Public Science Meeting (Oct 2016)</title>
+    <link>https://www.epa.gov/iris/iris-public-science-meeting-oct-2016</link>
+    <description>&lt;p&gt;&lt;span class=&quot;warning&quot;&gt;UPDATE: EPA has posted the final agenda from the October 26, 2016 IRIS Public Science Meeting. The formal 60-day public comment period announced via Federal Register Notice on the public comment draft of the IRIS assessment of ETBE and related documents closed on October 31, 2016.&lt;/span&gt;&lt;/p&gt;
+
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Meeting Details&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Meeting Materials&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;Meeting Objective&lt;/h2&gt;
+
+		&lt;p&gt;At IRIS Public Science Meetings, the IRIS Program encourages the scientific community and the public to participate in discussions on IRIS draft assessment materials. The scientific information and perspectives from the meeting will be considered as assessments progress.&lt;/p&gt;
+
+		&lt;p&gt;At this meeting, the IRIS Program is inviting public discussion on the following draft assessment material(s):&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Ethyl Tertiary Butyl Ether (ETBE): draft assessment for public comment&lt;/strong&gt;.&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Dates&lt;/h2&gt;
+
+		&lt;p&gt;The meeting was held on &lt;strong&gt;October 26, 2016&lt;/strong&gt;.&lt;/p&gt;
+
+		&lt;h2&gt;Meeting Agenda&lt;/h2&gt;
+
+		&lt;p&gt;&lt;ins data-date=&quot;2016,10,17&quot;&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=529708&quot;&gt;Final meeting agenda for the October 26, 2016 IRIS Public Science Meeting&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(2 pp, 298 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/ins&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;Ethyl Tertiary Butyl Ether (ETBE) Key Science Topics and Materials&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;&lt;a id=&quot;etbe&quot; name=&quot;etbe&quot;&gt;&lt;/a&gt;Assessment Manager: Keith Salazar&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528998&quot;&gt;IRIS Toxicological Review of Ethyl Tertiary Butyl Ether (Public Comment Draft)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(155 pp, 3 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528999&quot;&gt;Supplemental Information on the IRIS Toxicological Review of Ethyl Tertiary Butyl Ether (Public Comment Draft)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(162 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=529007&quot;&gt;Draft peer review charge for reviewers&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 360 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=527920&quot;&gt;Tables of evidence pertaining to kidney effects in animals exposed to ETBE&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1376&quot;&gt;Primary literature search references sorted by author (ETBE)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(dynamic literature link - generated by HERO)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;Provide comments on these materials in the &lt;a href=&quot;http://www.regulations.gov/#!docketDetail;D=EPA-HQ-ORD-2009-0229&quot;&gt;ETBE docket at EPA-HQ-ORD-2009-0229&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/articles/2016/09/01/2016-21005/public-comment-draft-for-the-integrated-risk-information-system-iris-assessment-of-ethyl-tertiary&quot;&gt;Federal Register Notice: Sep 1, 2016&lt;/a&gt; announced the availability of the public comment draft for a 60-day public comment period.&lt;/li&gt;
+		&lt;/ul&gt;&lt;h3&gt;&lt;small&gt;NOTE:&lt;/small&gt;&lt;/h3&gt;
+
+		&lt;p&gt;&lt;small&gt;&lt;em&gt;In June 2016, EPA convened a public science meeting to discuss the public comment draft of tert-butanol during which time EPA received written and oral comments on the physiological-based pharmacokinetic (PBPK) model and the interpretation of renal effects pertinent to both the tert-butanol and ethyl tertiary butyl ether (ETBE) IRIS assessments. These comments are being reviewed by EPA and any necessary revisions will be incorporated into both assessments prior to external peer review.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+		&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;
+						&lt;p&gt;&lt;strong&gt;Key Science Topics&lt;/strong&gt;&lt;/p&gt;
+					&lt;/th&gt;
+				&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;1. Liver tumor modes of action&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Lifetime inhalation exposure to ETBE increased liver adenomas and carcinomas in male F344 rats. Data are available suggesting that ETBE may activate PPAR, PXR, and/or CAR pathways all of which increase cell proliferation, hypertrophy, and clonal expansion of preneoplastic foci in the liver. Determining the relative contribution of each pathway on tumor development is problematic. In addition, there is uncertainty on the relevance of PPAR-induced tumors to human risk assessment (Guyton et al., 2009; Corton et al., 2014). Acetaldehyde, a metabolite of ETBE, is considered by other agencies to be carcinogenic. Aldh2 deficiency enhanced ETBE-induced genotoxicity in hepatocytes and leukocytes from exposed mice; but while suggestive, the available data overall are inadequate to establish acetaldehyde-mediated mutagenicity as a MOA for ETBE-induced liver tumors.  EPA found that the database was inadequate to draw any conclusions regarding a liver MOA.&lt;/p&gt;
+
+						&lt;p&gt;The public comment draft of the Toxicological Review for ethyl tertiary butyl ether presents a synthesis of the liver effects in Section 1.2.2 and further evaluation of carcinogenicity is provided in Section 1.3.2.&lt;/p&gt;
+
+						&lt;p&gt;&lt;em&gt;The IRIS program is seeking discussion on PPAR, PXR, CAR, and acetaldehyde as possible modes of action for ETBE-induced liver tumors.&lt;/em&gt;&lt;/p&gt;
+
+						&lt;p&gt;&lt;strong&gt;&lt;em&gt;Related References:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;ul&gt;&lt;li&gt;Guyton, KZ; Chiu, WA; Bateson, TF; Jinot, J; Scott, CS; Brown, RC; Caldwell, JC. (2009). A reexamination of the PPAR-alpha activation mode of action as a basis for assessing human cancer risks of environmental contaminants [Review]. Environ Health Perspect 117: 1664-1672. http://dx.doi.org/10.1289/ehp.0900758&lt;/li&gt;
+							&lt;li&gt;Corton, JC; Cunningham, ML; Hummer, BT; Lau, C; Meek, B; Peters, JM; Popp, JA; Rhomberg, L; Seed, J; Klaunig, JE. (2014). Mode of action framework analysis for receptor-mediated toxicity: The peroxisome proliferator-activated receptor alpha (PPARα) as a case study [Review]. Crit Rev Toxicol 44: 1-49. http://dx.doi.org/10.3109/10408444.2013.835784&lt;/li&gt;
+						&lt;/ul&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;2. The potential for increased susceptibility to toxic effects resulting from a decreased rate of acetaldehyde clearance in the liver&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Acetaldehyde, a metabolite of ETBE, is considered carcinogenic by other agencies. Acetaldehyde is metabolized by the enzyme ALDH2 and studies in &lt;em&gt;Aldh2&lt;/em&gt; knockout mice have demonstrated increased genotoxicity, centrilobular hypertrophy, and alterations to reproductive tissue compared with wild-type controls following ETBE exposure.  Furthermore, one-half of East Asian populations possess a virtually inactive form of ALDH2*2 which is associated with slow metabolism of acetaldehyde and extended exposure to the compound. Analyses have shown that acetaldehyde produced as a result of ethanol metabolism contribute to human carcinogenesis in the upper aerodigestive tract and esophagus following ethanol exposure. Altogether, these data provide plausibility that reduced ALDH2 activity produces more severe health effects than in organisms with functional ALDH2.&lt;/p&gt;
+
+						&lt;p&gt;The public comment draft of the Toxicological Review for ethyl tertiary butyl ether presents a synthesis of the acetaldehyde-mediated liver effects and genotoxicity in Section 1.2.2 and a summary in Section 1.3.3.&lt;/p&gt;
+
+						&lt;p&gt;&lt;em&gt;The IRIS program is seeking discussion on the increased susceptibility of cancer and noncancer effects due to reduced ALDH2 activity in humans and animal models.&lt;/em&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+						&lt;p&gt;&lt;strong&gt;3. Use of 2-stage carcinogenicity bioassays&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p&gt;Lifetime inhalation, but not oral, ETBE exposure has been associated with increased liver adenomas and carcinomas in male F344 rats. Toxicokinetic analysis comparing oral and inhalation exposures from these studies on the basis of metabolized dose of ETBE or &lt;em&gt;tert-&lt;/em&gt;butanol (a metabolite of ETBE) indicated that these studies yielded comparable internal concentrations which suggests that the lack of carcinogenic effects via oral exposure is not likely due to a difference in administered dose. Notably, subchronic oral ETBE exposure increased 2-stage mutagen-initiated carcinogenesis in several tissues, including the liver. The 2-stage initiation-promotion bioassays were decisive in extending the weight of evidence descriptor to the oral route.&lt;/p&gt;
+
+						&lt;p&gt;The public comment draft of the Toxicological Review for ethyl tertiary butyl ether presents a summary of the carcinogenic evidence in the liver in Section 1.3.2.&lt;/p&gt;
+
+						&lt;p&gt;&lt;em&gt;The IRIS program&lt;/em&gt; &lt;em&gt;is seeking public discussion on the use of 2-stage bioassays for assessing carcinogenicity hazard.&lt;/em&gt;&lt;/p&gt;
+					&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 03 Jun 2016 19:03:06 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">151149 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>IRIS Public Meeting Logistics</title>
+    <link>https://www.epa.gov/iris/iris-public-meeting-logistics</link>
+    <description>&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Attending in Person&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Attend via Webinar&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-3&quot;&gt;Participation Details&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;div class=&quot;row cols-2&quot;&gt;
+			&lt;div class=&quot;col size-2of3&quot;&gt;
+				&lt;h2&gt;Attending in Person&lt;/h2&gt;
+
+				&lt;p&gt;The IRIS public science meetings are held in the EPA Conference Center which is located at &lt;strong&gt;One Potomac Yard&lt;/strong&gt; (South Tower Building) on the 1st floor. The street address is &lt;strong&gt;2777 South Crystal Drive, Arlington, Virginia 22202&lt;/strong&gt; (see map).&lt;/p&gt;
+
+				&lt;p&gt;Only individuals registered for in-person attendance will be allowed into the EPA building to attend these events.&lt;/p&gt;
+
+				&lt;h3&gt;EPA Facility Access:&lt;/h3&gt;
+
+				&lt;p&gt;To enter the facility, you must check in at the guard’s desk (no more than 1 hour before the meeting) in the building lobby with your photo identification. Effective July 21, 2014, under the REAL ID Act requirements, not all state-issued driver’s licenses are acceptable as photo ID for security purposes. In EPA headquarters buildings (including the Potomac Yard buildings), driver’s licenses from the following states/territory, which do not comply with the REAL ID Act, will not be accepted as a photo ID.  Visitors from these states/territory must present other forms of ID to be permitted entry. Visit the &lt;a href=&quot;http://www.dhs.gov/real-id-enforcement-brief&quot;&gt;REAL ID website&lt;/a&gt; for more information.&lt;/p&gt;
+
+				&lt;p&gt;Note: Please allow 10-20 minutes extra time to go through security.&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col size-1of3&quot;&gt;
+				&lt;div class=&quot;box special&quot;&gt;
+					&lt;div class=&quot;pane-content&quot;&gt;&lt;iframe height=&quot;350px&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.2972391176363!2d-77.05294648410334!3d38.84855255742593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b72c88a24c39%3A0x68e9870e42bd2c96!2s2777+Crystal+Dr%2C+Arlington%2C+VA+22202!5e0!3m2!1sen!2sus!4v1448285950315&quot; width=&quot;600px&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;div class=&quot;box multi related-info right&quot;&gt;
+			&lt;h2 class=&quot;pane-title&quot;&gt;Webinar Information&lt;/h2&gt;
+
+			&lt;div class=&quot;pane-content&quot;&gt;
+				&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://epawebconferencing.acms.com/irispsm&quot;&gt;Access to the live webinar for the IRIS Public Science Meetings&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;h2&gt;Attending via Webinar&lt;/h2&gt;
+
+		&lt;p&gt;To participate remotely by webinar you will need:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;A &lt;strong&gt;computer&lt;/strong&gt; with an internet connection. Adobe Flash is required.&lt;/li&gt;
+			&lt;li&gt;A &lt;strong&gt;speaker/headphones or telephone&lt;/strong&gt;. Audio will be available through the webinar, and also through a teleconference line if you wish to listen by phone or want to make a comment.&lt;/li&gt;
+			&lt;li&gt;The &lt;strong&gt;webinar URL&lt;/strong&gt; and teleconference details will be e-mailed to registered participants of this meeting.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;The webinar room will be opened 30 minutes prior to the workshop for testing and set up. If you are dialing in, the teleconference line will be opened 10 minutes before the start of the workshop.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Software Specifications:&lt;/strong&gt; EPA uses Adobe Connect with integrated video, screen sharing, and sound capabilities. If this is your first online event using this software, then you should follow the steps below to set up your computer in advance.&lt;/p&gt;
+
+		&lt;ol&gt;&lt;li&gt;First run the test by visiting&lt;a href=&quot;http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm&quot;&gt;http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm&lt;/a&gt;. If you fail any portion of the test, please follow the instructions to resolve your problem. If you cannot resolve the issue, then contact your PC support specialists for assistance.&lt;/li&gt;
+			&lt;li&gt;Once you are at the login screen for the webinar, you can enter the meeting using the guest option. Please identify yourself by supplying your first and last name and organization and/or affiliation. For example, &quot;Jane Doe - GSA.&quot; EPA employees should use their registered names to enter the meeting room.&lt;/li&gt;
+			&lt;li&gt;After completing step 2, just click the button &quot;Enter Room&quot; to join the meeting.&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;Questions:&lt;/strong&gt; If you are having technical issues in the webinar, you can use the chat window to address the meeting host. If you have a question for the speaker you &lt;strong&gt;must&lt;/strong&gt; use the &quot;ask a question&quot; box to notify the meeting facilitator that you have a question. Once an opportunity is available your question will be addressed.&lt;/p&gt;
+
+		&lt;p&gt;For any additional questions, please email &lt;a href=&quot;mailto:EPA_IRIS@icfi.com?subject=Question%20from%20the%20EPA%20Registration%20Site&quot;&gt;EPA_IRIS@icfi.com&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-3&quot;&gt;
+		&lt;h2&gt;Participation Details&lt;/h2&gt;
+
+		&lt;p&gt;&lt;strong&gt;Public participation.&lt;/strong&gt; The IRIS Program uses a meeting format intended to promote public discussion which emphasizes conversational exchanges over presentations. We would like to hear the full range of scientific perspectives during these discussions. Accordingly, we request that no more than two individuals from the same organization register as discussants on any particular topic. We also ask that discussants limit the number of slides used, and rely on them mainly to present concepts and data via figures and tables. After the discussants have had a turn, all meeting participants will be invited to join the discussion.&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Submitting written comments:&lt;/strong&gt; You may provide comments or additional information on the materials provided by using the chemical docket as specified on each meeting announcement.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Submitting studies:&lt;/strong&gt; If you are aware of published studies that may provide new or additional data for this assessment, we ask that you submit them to the chemical specific docket.&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Comments during the meeting:&lt;/strong&gt; Both remote attendees and individuals attending in person are invited to make comments and ask questions during this meeting. Additional time will be given to address as many questions as possible after EPA subject matter experts and discussants have spoken.&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Disclosures for discussants and commenters.&lt;/strong&gt; To promote transparency, it is requested that persons submitting written or oral comments or participating as discussants on key science topics disclose: (1) The nature of any financial relationships (e.g., consulting agreements, expert witness support, or research funding) they may have with any organization(s) or entities having an interest in the assessment or issues under discussion; and (2) The extent to which their comments were reviewed by an interested party prior to submission.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Disclosures for submitting study results.&lt;/strong&gt; If results or analyses of scientific research are submitted or presented, it is requested that the following information be provided where available: (1) Identification of the funding source(s) and sponsoring organization(s) of the research; (2) The extent to which the research findings were reviewed by an interested party prior to publication or submission, and identification of any such parties; and (3) The nature of any financial relationships between investigators who conducted the research and any organization(s) or entities having an interest in the assessment or issues under discussion.&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Making submitted materials available to the public.&lt;/strong&gt; To provide a reasonable opportunity for all stakeholders to participate in a thoughtful public dialogue on the science topics, and to help ensure they have enough time to adequately prepare prior to the meeting, EPA would like to make all comments and meeting visual aids available to the public prior to the meeting. Therefore, meeting participants are requested to submit these materials to the individual chemical docket and to &lt;a href=&quot;mailto:EPA_IRIS@icfi.com&quot;&gt;EPA_IRIS@icfi.com&lt;/a&gt; in advance of the IRIS public meeting. Materials submitted to the docket will become available to the public shortly after submission. To provide time for all participants to prepare to contribute to the dialogue, the latest date to submit materials to the docket is &lt;strong&gt;1 week before the meeting &lt;/strong&gt;for all summary visual aids to be used during the meeting.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Fri, 03 Jun 2016 16:32:06 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">151119 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>IRIS Public Science Meeting (June 2016)</title>
+    <link>https://www.epa.gov/iris/iris-public-science-meeting-june-2016</link>
+    <description>&lt;p&gt;&lt;span class=&quot;warning&quot;&gt;UPDATE: EPA hosted a public science meeting on June 29-30, 2016 to discuss the draft IRIS Toxicological Review of tert-Butyl Alcohol (tert-Butanol) and assessment materials related to the draft IRIS Toxicological Review of Benzo[a]pyrene (BaP).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;At the June meeting, the following draft assessment materials were discussed:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;IRIS Toxicological Review of &lt;em&gt;tert&lt;/em&gt;-Butyl Alcohol (Public Comment Draft)&lt;/li&gt;
+	&lt;li&gt;Benzo[a]pyrene (BaP): Potential approaches to estimate the risk of skin cancer following dermal exposure.&lt;/li&gt;
+&lt;/ul&gt;&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Meeting Details&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Meeting Materials: &lt;em&gt;tert&lt;/em&gt;-Butanol&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2a&quot;&gt;Meeting Materials: BaP&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;h2&gt;Meeting Objective&lt;/h2&gt;
+
+		&lt;p&gt;IRIS hosts public science meetings to allow the public the opportunity to provide input and participate in discussions about the draft IRIS assessment for tert-butanol and related materials to the BaP assessment [see Meeting Materials tabs].&lt;/p&gt;
+
+		&lt;h2&gt;Dates&lt;/h2&gt;
+
+		&lt;p&gt;The meeting was held on &lt;strong&gt;June 29-30, 2016&lt;/strong&gt;.&lt;/p&gt;
+
+		&lt;h2&gt;Location&lt;/h2&gt;
+
+		&lt;p&gt;The meeting was held at the EPA Conference Center at 2777 South Crystal Drive, Arlington, Virginia 22202. The meeting was also available by webinar/teleconference for remote participants.&lt;/p&gt;
+
+		&lt;h2&gt;Meeting Agenda&lt;/h2&gt;
+
+		&lt;p&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528443&quot;&gt;Final meeting agenda&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 633 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;) [Last Update Jun 22, 2016]&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;&lt;em&gt;tert&lt;/em&gt;-butyl Alcohol (&lt;em&gt;tert&lt;/em&gt;-Butanol) Meeting Materials&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528030&quot;&gt;IRIS Toxicological Review of &lt;em&gt;tert-&lt;/em&gt;Butanol (Public Comment Draft)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(140 pp, 3 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528031&quot;&gt;Supplemental Information on the IRIS Toxicological Review of &lt;em&gt;tert&lt;/em&gt;-Butanol (Public Comment Draft)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(107 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=528032&quot;&gt;Public comment draft of the peer review charge for reviewers&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(5 pp, 174 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=527920&quot;&gt;Tables of evidence pertaining to kidney effects in animals exposed to ETBE&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(18 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://hero.epa.gov/hero/index.cfm/project/page/project_id/1543&quot;&gt;All references sorted by author (&lt;em&gt;tert&lt;/em&gt;-butanol)&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(dynamic literature link - generated by HERO)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://hero.epa.gov/hero/index.cfm?action=litflow.viewProject&amp;amp;project_id=1543&quot;&gt;Literature selection process for &lt;em&gt;tert&lt;/em&gt;-butanol&lt;/a&gt;&lt;span class=&quot;fileinfo&quot;&gt;(generated by HERO)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;Provide comments on these materials in the &lt;em&gt;tert&lt;/em&gt;-butanol docket at &lt;a href=&quot;https://www.regulations.gov/#!docketDetail;D=EPA-HQ-ORD-2013-0111&quot;&gt;EPA-HQ-ORD-2013-0111&lt;/a&gt;.&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.federalregister.gov/articles/2016/05/16/2016-11264/public-comment-draft-for-the-integrated-risk-information-system-iris-assessment-of-tert-butyl&quot;&gt;Federal Register Notice: May 16, 2016&lt;/a&gt; announcing the availability of the public comment draft of &lt;em&gt;tert&lt;/em&gt;-butanol and the 60-day public comment period.&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Key Science Topics&lt;/h2&gt;
+
+		&lt;ol&gt;&lt;li&gt;
+				&lt;p&gt;&lt;strong&gt;Science Topic 1: Mode of action for thyroid follicular cell tumors&lt;/strong&gt;&lt;br /&gt;
+					Lifetime oral exposure to &lt;em&gt;tert&lt;/em&gt;-butyl alcohol (&lt;em&gt;tert&lt;/em&gt;-butanol) has been associated with increased thyroid follicular cell adenomas in female B6C3F1 mice and increased thyroid follicular cell adenomas and carcinomas in male B6C3F1 mice (NTP, 1995). An antithyroid MOA has been evaluated for the thyroid tumors observed following &lt;em&gt;tert&lt;/em&gt;-butanol exposure in mice. This MOA involves increased clearance of thyroid hormones by the liver, which may cause continual secretion of TSH by the pituitary, leading to follicular cell hyperplasia and tumors (U.S. EPA, 1998a). EPA conducted an MOA analysis and found that the available database was inadequate to draw any conclusions regarding an antithyroid MOA.&lt;br /&gt;&lt;br /&gt;
+					The public comment draft of the Toxicological Review for &lt;em&gt;tert&lt;/em&gt;-butyl Alcohol (&lt;em&gt;tert&lt;/em&gt;-Butanol) discusses the synthesis of thyroid effects in Section 1.2.2. Further evaluation of carcinogenicity is provided in Section 1.3.2.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The IRIS Program is seeking public discussion on this or other possible modes of action and their relevance to the observed thyroid effects.&lt;/em&gt;&lt;/p&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;p&gt;&lt;strong&gt;Science Topic 2: Disentangling mechanisms of kidney toxicity and carcinogenicity.&lt;/strong&gt;&lt;br /&gt;&lt;em&gt;tert&lt;/em&gt;-Butanol is a metabolite of ethyl tertiary butyl ether (ETBE) and has been shown to mediate several kidney effects observed following ETBE exposure (Salazar et al., 2015), thus both chemical databases (i.e., &lt;em&gt;tert&lt;/em&gt;-butanol and ETBE) provide information relevant to understanding the mechanisms underlying kidney toxicity and carcinogenicity. Reported effects following &lt;em&gt;tert&lt;/em&gt;-butanol and ETBE exposure include changes in kidney weight, histopathological endpoints, and serum markers of kidney toxicity. α&lt;sub&gt;2u&lt;/sub&gt;-Globulin was detected in the hyaline droplets of male rats following &lt;em&gt;tert&lt;/em&gt;-butanol and ETBE exposure. While &lt;em&gt;tert&lt;/em&gt;-butanol meets the criteria to indicate that an α&lt;sub&gt;2u&lt;/sub&gt;-globulin process is operating and some of the kidney effects are not relevant to humans, the data were insufficient to conclude that α&lt;sub&gt;2u&lt;/sub&gt;-globulin nephropathy is the sole contributor to &lt;em&gt;tert&lt;/em&gt;-butanol-induced renal tumors; ETBE did not induce renal tumors. The observed renal effects in male and female rats following exposure to &lt;em&gt;tert&lt;/em&gt;-butanol and ETBE are also associated with chronic progressive nephropathy (CPN). Several of the CPN pathological effects are similar to, and can obscure the lesions characteristic of, α&lt;sub&gt;2u&lt;/sub&gt;-globulin-related hyaline droplet nephropathy (Webb et al., 1990). Additionally, CPN effects can be exacerbated by both chemical exposure as well as renal effects of α&lt;sub&gt;2u&lt;/sub&gt;-globulin accumulation (U.S. EPA, 1991). The underlying mechanisms regulating CPN and its exacerbation are not well understood. For example, there is no scientific consensus on the role of CPN in rat kidney carcinogenesis (Melnick et al., 2012; Hard et al., 2013; Hard et al., 2009).&lt;br /&gt;&lt;br /&gt;
+					The public comment draft of the IRIS Toxicological Review for &lt;em&gt;tert&lt;/em&gt;-butyl Alcohol (&lt;em&gt;tert&lt;/em&gt;-Butanol) presents a summary of kidney toxicity and carcinogenicity evidence in Section 1.2.1 with additional discussion in Section 1.3.2. Because ETBE induces similar effects, all kidney evidence tables and figures from the Toxicological Review for ETBE are also being released to supplement the discussion.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The IRIS Program is seeking discussion on the roles that α&lt;sub&gt;2u&lt;/sub&gt;-globulin nephropathy and CPN play in the observed kidney toxicity and carcinogenicity of tert-butanol.&lt;/em&gt;&lt;/p&gt;
+			&lt;/li&gt;
+		&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;References&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;small&gt;Hard, GC; Johnson, KJ; Cohen, SM. (2009). A comparison of rat chronic progressive nephropathy with human renal disease-implications for human risk assessment [Review]. Crit Rev Toxicol 39: 332-346. &lt;a href=&quot;https://dx.doi.org/10.1080/10408440802368642&quot;&gt;https://dx.doi.org/10.1080/10408440802368642&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Hard, GC; Banton, MI; Bretzlaff, RS; et al. (2013). Consideration of rat chronic progressive nephropathy in regulatory evaluations for carcinogenicity. Toxicol  Sci 132: 268-275. &lt;a href=&quot;https://dx.doi.org/10.1093/toxsci/kfs305&quot; target=&quot;_blank&quot;&gt;10.1093/toxsci/kfs305&lt;/a&gt; &lt;/small&gt;&lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Melnick, R; Burns, K; Ward, J; Huff, J. (2012). Chemically Exacerbated Chronic Progressive Nephropathy Not Associated with Renal Tubule Tumor Induction in Rats: An Evaluation Based on 60 Carcinogenicity Studies by the National Toxicology Program. Toxicol Sci 128: 346-356. &lt;a href=&quot;https://dx.doi.org/10.1093/toxsci/kfs156&quot;&gt;https://dx.doi.org/10.1093/toxsci/kfs156&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;&lt;span&gt;National Toxicology Program (NTP). (1995). Toxicology and carcinogenesis studies of t-butyl alcohol (CAS no 75-65-0) in F344/N rats and B6C3F1 mice (Drinking water studies). NTPTR436. National Toxicology Program. Research Triangle Park: NC. 305 pp.&lt;/span&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Salazar, KD; Brinkerhoff, CJ; Lee, JS; Chiu, WA. (2015). Development and application of a rat PBPK model to elucidate kidney and liver effects induced by ETBE and &lt;em&gt;tert&lt;/em&gt;-butanol. Toxicol Appl Pharmacol 288: 439-452. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26341290&quot;&gt;https://www.ncbi.nlm.nih.gov/pubmed/26341290&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;U.S. EPA (U.S. Environmental Protection Agency). (1991). Alpha-2u-globulin: Association with chemically induced renal toxicity and neoplasia in the male rat. (EPA/625/3-91/019F). Washington, DC: U.S. Environmental Protection Agency, National Center for Environmental Assessment. &lt;a href=&quot;https://ntrl.ntis.gov/NTRL/dashboard/searchResults.xhtml?searchQuery=PB92143668&quot;&gt;https://ntrl.ntis.gov/NTRL/dashboard/searchResults.xhtml?searchQuery=PB92143668&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;&lt;a href=&quot;https://hero.epa.gov/index.cfm?action=search.view&amp;amp;reference_id=30018&quot; target=&quot;External&quot;&gt;U.S. EPA&lt;/a&gt; (U.S. Environmental Protection Agency). &lt;a href=&quot;https://hero.epa.gov/index.cfm?action=search.view&amp;amp;reference_id=30018&quot;&gt;(1998a). Assessment of thyroid follicular cell tumors [EPA Report]&lt;/a&gt;. (EPA/630/R-97/002). Washington, DC.&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Webb, DR; Kanerva, RL; Hysell, DK; Alden, CL; Lehman-McKeeman, LD. (1990). Assessment of the subchronic oral toxicity of d-limonene in dogs. Food and Chem Toxicol 28: 669-675.&lt;/small&gt; &lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Notes&lt;/h2&gt;
+
+		&lt;p&gt;In 2013, the IRIS Program began to host public science meetings to seek input from the public and to foster scientific discussion of draft materials for IRIS assessments under development.&lt;/p&gt;
+
+		&lt;p&gt;For this public comment draft, the IRIS Program has identified two science topics where further public discussion will aid in revising the draft assessment and submitting it for peer review.&lt;/p&gt;
+
+		&lt;p&gt;The public is invited to provide written comments on these and other science topics specific to this draft assessment. In addition, there will be an opportunity to provide oral comments during a separate session at the meeting.&lt;/p&gt;
+
+		&lt;h2&gt;Providing Comments&lt;/h2&gt;
+
+		&lt;p&gt;Provide comments on the key science topics in the &lt;a href=&quot;https://www.regulations.gov/#!docketDetail;D=EPA-HQ-ORD-2013-0111&quot;&gt;&lt;em&gt;tert&lt;/em&gt;-butanol docket at EPA-HQ-ORD-2013-0111&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;h2&gt;Previously Released Materials&lt;/h2&gt;
+
+		&lt;p&gt;Materials previously released for this assessment may be found on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=1036&quot;&gt;&lt;em&gt;tert&lt;/em&gt;-butanol chemical landing page&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2a&quot;&gt;
+		&lt;h2&gt;Benzo[a]pyrene (BaP)&lt;/h2&gt;
+
+		&lt;h3&gt;Background&lt;/h3&gt;
+
+		&lt;p&gt;Benzo[a]pyrene, or BaP, causes skin cancer in mice following dermal exposure; in fact, dermal exposure studies of other chemicals often use benzo[a]pyrene as a positive control for carcinogenicity. Humans are dermally exposed to benzo[a]pyrene through contaminated soil and sediment, and the EPA’s program and regional offices have expressed a need for toxicity values for dermally active chemicals, such as benzo[a]pyrene. To meet this EPA need, in September 2014 the EPA released a draft IRIS Toxicological Review of Benzo[a]pyrene that included an approach for estimating the risk of skin cancer following dermal exposure. This was the first time a health agency has developed and proposed a solution to this problem.&lt;/p&gt;
+
+		&lt;p&gt;In April 2016, the EPA’s Science Advisory Board Chemical Assessment Advisory Committee (SAB CAAC) released their peer-review advice on the 2014 draft IRIS Benzo[a]pyrene assessment. Their report made several recommendations, including that the extrapolation from mice to humans be supported by a more coherent, logical structure. They also recommended that skin cancer risk be modeled as a function of absorbed dose rather than applied dose of benzo[a]pyrene.&lt;/p&gt;
+
+		&lt;p&gt;The IRIS Program is initiating a public science discussion on this topic in order to obtain a broad range of scientific perspectives on how to approach this problem.&lt;/p&gt;
+
+		&lt;h3&gt;&lt;strong&gt;Data for estimating lifetime risks from skin cancer in mice following dermal exposure&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;p&gt;The EPA’s 2014 draft IRIS Toxicological Review of Benzo[a]pyrene reviewed the known carcinogenicity studies of benzo[a]pyrene administered to mice via dermal exposure. After excluding less than lifetime studies, studies that did not test multiple doses of benzo[a]pyrene, and studies only with dose levels inducing 90−100% incidence of tumors, 10 studies remained (see Table 1-16 of the 2014 draft IRIS Benzo[a]pyrene assessment for information on the design and results of these studies).&lt;/p&gt;
+
+		&lt;h3&gt;&lt;strong&gt;Proposed conceptual framework&lt;/strong&gt;&lt;/h3&gt;
+
+		&lt;p&gt;The challenge of estimating the potential risk of human skin cancer from dermal exposure to benzo[a]pyrene can be broken down into several steps:&lt;/p&gt;
+
+		&lt;ol&gt;&lt;li&gt;Determine the appropriate units for expressing absorbed dose.&lt;/li&gt;
+			&lt;li&gt;Develop a model of absorbed dose as a function of the experimental exposure regimen in mice.&lt;/li&gt;
+			&lt;li&gt;Scale absorbed dose between mouse skin and human skin.&lt;/li&gt;
+			&lt;li&gt;Model the incidence of skin tumors in mice as a function of absorbed dose, scaled to humans.&lt;/li&gt;
+		&lt;/ol&gt;&lt;p&gt;&lt;span
+    class=&quot;figure image file file-image file-image-jpeg view-mode-medium&quot; style=&quot;width:448px;&quot;&gt;&lt;img alt=&quot;This diagram shows the process for deriving a dermal slope factor from skin tumors in mice.&quot; height=&quot;226&quot; width=&quot;448&quot; class=&quot;media-element file-medium&quot; typeof=&quot;foaf:Image&quot; src=&quot;/sites/production/files/styles/medium/public/2016-04/bap_proposed_concept_framework.jpg&quot; title=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;h2&gt;Key Science Topics&lt;/h2&gt;
+
+		&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Determining appropriate dose-metrics for expressing absorbed BaP dose.&lt;/strong&gt;&lt;br /&gt;
+				The CAAC noted that both total mass of benzo[a]pyrene and mass per unit of skin area have been used as dose metrics in previous publications (Knafla et al., 2011; 2006; Hussain et al., 1998; LaGoy and Quirk; 1994; Sullivan et al., 1991), and that “there does not appear to be any empirical data available to inform a choice between these two dose metrics or to select another.” Whichever dose metric is selected, it will need to be paired with an appropriate exposure equation for estimating an average daily dose of benzo[a]pyrene absorbed into human skin (an example equation can be found on p. G-14 of the supplemental information for the 2014 draft IRIS Benzo[a]pyrene assessment).&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The IRIS Program is seeking public input on points that are important to consider and would be informative in selecting a dose metric.&lt;/em&gt;&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Modeling absorbed dose as a function of exposure parameters.&lt;/strong&gt;&lt;br /&gt;
+				The CAAC noted that for the mouse study used to derive the dermal slope factor, applied dose closely approximates absorbed dose. The CAAC described conditions where this would be the case: the mass of the chemical is too small to cover completely the application area, the time between dose applications is long, and metabolism in the viable epidermis (the target tissue) is not saturated. In experimental studies where applied dose does not closely approximate absorbed dose, it would be important to estimate the absorbed dose from the exposure parameters in the study.&lt;br /&gt;
+				 &lt;br /&gt;
+				The CAAC also recommended that for subsequent use of the dermal slope factor to estimate the human cancer risk from an environmental exposure, the cancer risk should be estimated from the absorbed dose, and that the absorbed dose should be estimated from the exposure scenario.&lt;br /&gt;&lt;br /&gt;
+				Thus, there are recommendations to estimate absorbed dose both for an experimental exposure regimen in mice and for an environmental exposure scenario for humans.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The IRIS Program is seeking public input on factors to consider in developing a model of absorbed dose of benzo[a]pyrene as a function of the parameters of applied dose.&lt;/em&gt;&lt;br /&gt;
+				 &lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;Scaling absorbed dose between mouse skin and human skin. &lt;/strong&gt;&lt;br /&gt;
+				After consideration of limitations in the available toxicokinetic data, EPA selected allometric scaling (i.e., body-weight&lt;sup&gt;3/4&lt;/sup&gt;) and presented alternative approaches in the supplemental information for the 2014 draft IRIS benzo[a]pyrene assessment (see Appendix E). The CAAC noted that the science is uncertain for choosing the best approach for scaling absorbed dose from mouse skin to human skin. It is unknown whether whole-body toxicokinetics using allometric scaling is the most appropriate model within the skin compartment. The CAAC recommended consideration of thickness of the viable epidermis and metabolic rates in this tissue.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;The IRIS Program is seeking public input on factors, with particular attention to quantitative factors, to better inform a scaling approach from mouse skin to human skin.&lt;/em&gt;&lt;/li&gt;
+		&lt;/ol&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+
+		&lt;h2&gt;References&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;small&gt;Hussain, M; Rae, J; Gilman, A; Kauss, P. (1998). Lifetime health risk assessment from exposure of recreational users to polycyclic aromatic hydrocarbons. Arch Environ Contam Toxicol 28 35: 527-531.&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Knafla, A; Petrovic, S; Richardson, M; Campbell, J; Rowat, C. (2011). Development and 3 application of a skin cancer slope factor for exposures to benzo[a]pyrene in soil. Regul 4 Toxicol Pharmacol 59: 101-110. &lt;a href=&quot;https://dx.doi.org/10.1016/j.yrtph.2010.09.011&quot;&gt;https://dx.doi.org/10.1016/j.yrtph.2010.09.011&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Knafla, A; Phillipps, KA; Brecher, RW; Petrovic, S; Richardson, M. (2006). Development of a dermal cancer slope factor for benzo[a]pyrene [Review]. Regul Toxicol Pharmacol 45: 7 159-168. &lt;a href=&quot;https://dx.doi.org/10.1016/j.yrtph.2006.02.008&quot;&gt;https://dx.doi.org/10.1016/j.yrtph.2006.02.008&lt;/a&gt;. &lt;a class=&quot;exit-disclaimer&quot; href=&quot;/home/exit-epa&quot; title=&quot;EPA&#039;s External Link Disclaimer&quot;&gt;Exit&lt;/a&gt;&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;LaGoy, PK; Quirk, TC. (1994). Establishing generic remediation goals for the polycyclic aromatic hydrocarbons: Critical issues [Review]. Environ Health Perspect 102: 348-352.&lt;/small&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;small&gt;Sullivan, MJ; Miller, CJ; Custance, SR. (1991). A risk assessment for crude oil in residential surface soils. In EJ Calabrese; PT Kostecki (Eds.), Hydrocarbon contaminated soils, v I: remediation techniques, environmental fate, risk assessment, analytical methodologies, regulatory considerations. Chelsea, MI: Lewis Publishers, Inc.&lt;/small&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Notes&lt;/h2&gt;
+
+		&lt;p&gt;In 2013, the IRIS Program began to host public science meetings to seek input from the public and to foster scientific discussion of draft materials for IRIS assessments under development.&lt;/p&gt;
+
+		&lt;p&gt;The IRIS Program is proposing three science topics where further public discussion will aid in revising its approach to estimating the risk for skin cancer following dermal exposure to benzo[a]pyrene. In the future, the revised approach will be submitted for public comment and peer review.&lt;/p&gt;
+
+		&lt;h2&gt;Providing Comments&lt;/h2&gt;
+
+		&lt;p&gt;Provide comments on the key science topics in the &lt;a href=&quot;https://www.regulations.gov/#!docketDetail;D=EPA-HQ-ORD-2011-0391&quot;&gt;BaP docket at EPA-HQ-ORD-2011-0391&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;h2&gt;Previously Released Materials&lt;/h2&gt;
+
+		&lt;p&gt;Related materials may be found on the &lt;a href=&quot;https://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=136&quot;&gt;benzo[a]pyrene chemical landing page&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p&gt;In addition, the final SAB peer review report may be found at: &lt;a href=&quot;https://yosemite.epa.gov/sab/sabproduct.nsf/RSSRecentHappeningsBOARD/26101E8AEBFE646985257F8C006FEE81/$File/EPA-SAB-16-003+Unsigned.pdf&quot;&gt;SAB CAAC Review – Draft Toxicological Review of Benzo[a]pyrene&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(97 pp, 785 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Mon, 21 Mar 2016 19:36:05 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">140857 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Supporting Documents for Vanadium Pentoxide</title>
+    <link>https://www.epa.gov/iris/supporting-documents-vanadium-pentoxide</link>
+    <description>&lt;p&gt;This Web page includes supporting documents to the IRIS chemical vanadium pentoxide.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526327&quot;&gt;Status of the reassessment of vanadium pentoxide, December 2015&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 109 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt;
+		This status summary describes the reassessment development process for vanadium pentoxide, and documents the decision to evaluate vanadium pentoxide toxicity along with other vanadium-containing compounds.   The status summary also provides information on vanadium pentoxide toxicity and links to other assessments and studies provided by national and international health agencies.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=125&quot;&gt;Assessment of Vanadium pentoxide, CASRN 1314-62-1&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 15 Dec 2015 15:28:33 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">129597 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Supporting Documents for Formaldehyde</title>
+    <link>https://www.epa.gov/iris/supporting-documents-formaldehyde</link>
+    <description>&lt;h2&gt;Other Related Documents&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;disclaimer pdf&quot;&gt;You will need Adobe Reader to view some of the files on this page. See &lt;a href=&quot;/webguide/pdf-files&quot;&gt;EPA’s About PDF page&lt;/a&gt; to learn more.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Supporting documents for the assessment of formaldehyde:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100V0GR.txt&quot;&gt;600R86011 Expert Review of Pharmacokinetic Data: Formaldehyde&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100MNKZ.txt&quot;&gt;600R13001 Developing a Reference Material for Formaldehyde Emissions Testing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30003U7Y.txt&quot;&gt;600S390005 Development and Validation of a Test Method for Formaldehyde Emissions. Project Summary&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30003UE4.txt&quot;&gt;600S390052 A Chamber and Modeling Study to Assess the Photochemistry of Formaldehyde. Project Summary&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000TT86.txt&quot;&gt;600S483031 Laboratory Evaluation Of An Impinger Collection-ion Chromatographic Source Test Method For Formaldehyde&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30003UFG.txt&quot;&gt;600S390088 Development of Real-Time Monitors for Gaseous Formaldehyde&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=30003UWO.txt&quot;&gt;600S890052 Evaluation of Emission Factors for Formaldehyde from Certain Wood Processing Operations&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100K3FT.txt&quot;&gt;600R11201 Environmental Technology Verification Report Certek Inc. 1414RH Formaldehyde Generator/Neutralizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=419&quot;&gt;IRIS Assessment of Formaldehyde, CASRN 50-00-0&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Thu, 29 Oct 2015 17:39:48 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">123631 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>IRISTrack</title>
+    <link>https://www.epa.gov/iris/iristrack</link>
+    <description>&lt;p&gt;[UPDATE: June 2015] The redesigned IRIS website, expected in fall 2015,will provide schedules that reflect the enhanced assessment development process. In the interim, this table reports the status and next steps for many assessments in progress. This table will be updated periodically until the new website is online.&lt;/p&gt;
+
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;
+				
+			&lt;/td&gt;
+			&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;IRIS Assessment Status&lt;/strong&gt;&lt;br /&gt;
+					June 2015 - &lt;small&gt;date of last update Jun 12, 2015&lt;/small&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt; &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Legend:&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;1a.&lt;/strong&gt; Release problem formulation materials, &lt;strong&gt;1b.&lt;/strong&gt; Public meeting, &lt;strong&gt;1c.&lt;/strong&gt; Release preliminary materials, &lt;strong&gt;1d.&lt;/strong&gt; Public meeting, &lt;strong&gt;2.&lt;/strong&gt; Agency review, &lt;strong&gt;3.&lt;/strong&gt;Interagency science consultation, &lt;strong&gt;4a.&lt;/strong&gt; Release public comment draft, &lt;strong&gt;4b.&lt;/strong&gt; Public meeting, &lt;strong&gt;4c.&lt;/strong&gt; Release peer review draft, &lt;strong&gt;4d.&lt;/strong&gt; Public peer review meeting, &lt;strong&gt;5.&lt;/strong&gt;Revise assessment, &lt;strong&gt;6.&lt;/strong&gt; Final agency review/interagency science discussion,&lt;strong&gt; 7. &lt;/strong&gt;Post final assessment&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;
+				&lt;p&gt;&lt;strong&gt;Assessment&lt;/strong&gt;&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th&gt;
+				&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/p&gt;
+			&lt;/th&gt;
+			&lt;th colspan=&quot;2&quot;&gt;
+				&lt;p&gt;&lt;strong&gt;Next Step&lt;/strong&gt;&lt;/p&gt;
+			&lt;/th&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Acrylonitrile&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=198583&quot;&gt;assessment was previously released for public comment&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;in June 2011. &lt;strong&gt;(Step 4a)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release public comment draft: &lt;/strong&gt;A revised assessment will repeat agency review and interagency science consultation before being released for additional public comment and scheduled for discussion at an IRIS public science meeting. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Ammonia&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=200305&quot;&gt;assessment was previously released for public comment&lt;/a&gt; (Step 4a) in June 2012 and revised based on the comments received.  The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=254524&quot;&gt;revised assessment was released for external peer review&lt;/a&gt; in August 2013 by EPA’s Science Advisory Board (SAB) Chemical Assessment Advisory Committee (CAAC). The SAB CAAC held a public, independent peer review meeting on July 14-16, 2014 and public teleconferences to discuss the draft SAB CAAC report on December 17 and 19, 2014.  The chartered SAB held a public quality review teleconference to review the draft SAB CAAC report on June 8, 2015. &lt;strong&gt; (Step 4d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 5 Revise Assessment:&lt;/strong&gt; Receive final peer review report from the SAB in 2015.  The subsequent schedule will be released after the IRIS Program evaluates the final report and its recommendations for the assessment.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Arsenic, inorganic&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=309710&quot;&gt;Scoping and problem formulation materials for inorganic arsenic&lt;/a&gt; were released for public comment and discussed at a public workshop in January 2013.  Preliminary materials, including a draft assessment development plan (ADP), were submitted to the NRC for review in May 2013. The NRC released their interim report, Critical Aspects of EPA’s IRIS Assessment of Inorganic Arsenic, in November 2013. &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=309710&quot;&gt;Preliminary materials&lt;/a&gt; were released for public comment in April 2014 and discussed at an IRIS public science meeting on June 25-27, 2014. &lt;strong&gt;(Step 1d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2. Agency review:&lt;/strong&gt; Before Agency review, the EPA will release a revised Assessment Development Plan in Summer 2015.  Two public webinars will be conducted in Summer 2015; one on the ADP and another on dose-response.  The draft assessment will be developed according to NRC recommendations and submitted for Agency review. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Benzo[a]pyrene (BaP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=66193&quot;&gt;assessment was previously released for public comment&lt;/a&gt; in August 2013 and was revised based on the comments received.  The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=280022&quot;&gt;revised assessment was released for external peer review&lt;/a&gt; by EPA’s SAB CAAC in September 2014.  The SAB CAAC held a public, independent peer review meeting on April 15-17, 2015.&lt;strong&gt;(Step 4d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 5 Revise Assessment:&lt;/strong&gt; Receive final peer review report from the SAB.  The SAB CAAC is scheduled to hold public teleconferences to discuss the draft final peer review report on August 21, 2015 and September 2, 2015, which will be followed by a public quality review teleconference by the chartered SAB. The subsequent schedule will be released after the IRIS Program evaluates the final report and its recommendations for the assessment.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;n&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;-Butanol&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=200321&quot;&gt;assessment was previously released for public comment&lt;/a&gt; in August 2011 and is currently undergoing revisions based on public comments. &lt;strong&gt;(Step 4)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release public comment draft: &lt;/strong&gt;A revised assessment will repeat Agency review and interagency science consultation before being released for additional public comment and scheduled for discussion at an IRIS public science meeting. &lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;&lt;em&gt;t&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;-Butanol&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=200307&quot;&gt;Preliminary materials for TBA&lt;/a&gt; were released for public comment in July 2013 and discussed at an IRIS public science meeting on December 12-13, 2013. The draft assessment completed Agency review and is currently being revised in response to comments received during interagency science consultation. &lt;strong&gt;(Step 3)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release Public Comment Draft:&lt;/strong&gt; Summer of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Butyl benzyl phthalate (BBP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=138285&quot;&gt;Preliminary materials for BBP&lt;/a&gt; were released for public comment in December 2014 and discussed at an IRIS public science meeting on February 25-26, 2015. &lt;strong&gt;(Step 1d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency review: &lt;/strong&gt;This assessment is undergoing draft development and will be submitted to Agency review&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Chromium VI&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=298810&quot;&gt;Scoping, problem formulation&lt;/a&gt;, and &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=298830&quot;&gt;preliminary materials&lt;/a&gt; were released for public comment and discussed at IRIS public science meetings on June 25-27, 2014 and October 29-30, 2014.  &lt;strong&gt;(Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review:&lt;/strong&gt; This assessment is undergoing draft development and will be submitted to Agency review.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Dibutyl phthalate (DBP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=245171&quot;&gt;Preliminary materials for DBP&lt;/a&gt; were released for public comment and discussed at an IRIS public science meeting on February 25-26, 2015.&lt;strong&gt; (Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review: &lt;/strong&gt;This assessment is undergoing draft development and will be submitted to Agency review&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Diethyl phthalate (DEP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=272399&quot;&gt;Scoping and preliminary materials for DEP&lt;/a&gt; were release for public comment in March 2014 and discussed at an IRIS public science meeting on April 23, 2014. &lt;strong&gt;(Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review:&lt;/strong&gt; This assessment is undergoing draft development and will be submitted to Agency review&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Diisobutyl phthalate (DIBP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=298811&quot;&gt;Preliminary materials DIBP&lt;/a&gt; were released for public comment and discussed at an IRIS public science meeting on February 25-26, 2015.&lt;strong&gt; (Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review:&lt;/strong&gt; This assessment is undergoing draft development and will be submitted to Agency review.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Diisononyl phthalate (DINP)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=237476&quot;&gt;Preliminary materials for DINP&lt;/a&gt; were released in September 2014 for public comment and discussed at an IRIS public science meeting on October 29-30, 2014. &lt;strong&gt;(Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review:&lt;/strong&gt; This assessment is undergoing draft development and will be submitted to Agency review&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Ethyl tertiary butyl ether (ETBE)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=253754&quot;&gt;Preliminary materials for ETBE&lt;/a&gt; were released for&lt;strong&gt; &lt;/strong&gt;public comment in July 2013&lt;strong&gt; &lt;/strong&gt;and discussed at an IRIS public science meeting on December 12-13, 2013. The draft assessment completed Agency review and is currently being revised in response to comments received during interagency science consultation. &lt;strong&gt;(Step 3)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release Public Comment Draft:&lt;/strong&gt; Summer of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Ethylbenzene&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=308400&quot;&gt;Scoping and problem formulation materials&lt;/a&gt; were released July 2014 and discussed at an IRIS public science meeting on September 3-4, 2014.&lt;strong&gt; (Step 1b)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 1c Release Preliminary Materials: &lt;/strong&gt;Summer/Fall of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Ethylene oxide &lt;br /&gt;
+					(cancer)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;EPA obtained public comment on an external review draft of the assessment in 2006 and completed a peer review by an SAB panel in 2007. The revised assessment was released for additional public comment in July 2013. A IRIS public science meeting was held in December 2013 and a &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=282012&quot;&gt;revised assessment was released for additional SAB CAAC review in August 2014&lt;/a&gt;. The SAB CAAC held a public, independent peer review meeting on November 18-20, 2014.  The chartered SAB held a public quality review teleconference to review the draft SAB report on June 8, 2015. &lt;strong&gt; (Step 4d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 5 Revise Assessment:&lt;/strong&gt; Receive final peer review report from the SAB.  The subsequent schedule will be released after the IRIS Program evaluates the final report and its recommendations for the assessment.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Formaldehyde&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=223614&quot;&gt;assessment was previously released for public comment and external peer review&lt;/a&gt; by the National Academy of Sciences (NAS) in June 2010.  The final NAS peer review report was released in May 2011.  EPA held a &lt;a href=&quot;/iris/formaldehyde-workshop&quot;&gt;public workshop on April 30, 2014 - May 1, 2014&lt;/a&gt; to discuss scientific issues related to inhalation exposure to formaldehyde.&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release public comment draft:&lt;/strong&gt; A revised assessment is under development to address the 2011 NAS peer review recommendations. A revised assessment will repeat Agency review and interagency science consultation before being released for additional public comment and scheduled for discussion at a future IRIS public science meeting. The revised assessment will undergo peer review by EPA’s SAB CAAC.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Hexabromocyclododecane (HBCD)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=236365&quot;&gt;Scoping and preliminary materials&lt;/a&gt; were released for public comment in March 2014 and discussed at an IRIS public science meeting on April 23, 2014. &lt;strong&gt;(Step 1)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 2 Agency Review:&lt;/strong&gt; This assessment is undergoing draft development and will be submitted to Agency review&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=176619&quot;&gt;Preliminary materials for RDX&lt;/a&gt; were released for public comment in July 2013 and discussed at an IRIS public science meeting on December 12-13, 2013. The draft assessment completed Agency review and is currently being revised in response to comments received during interagency science consultation. &lt;strong&gt;(Step 3)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release Public Comment Draft:&lt;/strong&gt; Summer/Fall of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Naphthalene&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=309638&quot;&gt;Scoping and problem formulation materials&lt;/a&gt; were released in July 2014 and discussed at an IRIS public science meeting on September 3-4, 2014. &lt;strong&gt;(Step 1b)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 1c Release Preliminary Materials: &lt;/strong&gt; Summer/Fall of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Polychlorinated biphenyls (PCBs) noncancer&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=309645&quot;&gt;Scoping and problem formulation materials&lt;/a&gt; were released for public comment in April 2015. &lt;strong&gt; (Step 1a)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 1b Public meeting:&lt;/strong&gt;  Scoping and problem formulation materials will be discussed at the June 17-18, 2015 IRIS public science meeting.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Polycyclic aromatic hydrocarbon mixtures (relative potency factors)&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt; EPA obtained public comment on an &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=194584&quot;&gt;external review draft of the assessment in February 2010&lt;/a&gt; and completed a peer review by a SAB panel in March 2011. The assessment is currently undergoing revision based on public comments and the recommendation of the SAB.  &lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 4a Release public comment draft: &lt;/strong&gt;A revised assessment will repeat Agency review and interagency science consultation before being released for additional public comment and scheduled for discussion at an IRIS public science meeting. The revised assessment will undergo peer review by EPA’s SAB CAAC.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;1,2,4-, 1,3,5- and 1,2,3-&lt;br /&gt;
+					Trimethylbenzenes&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The assessment was previously released for public comment in June 2012 and revised based on the comments received.  The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=254525&quot;&gt;revised assessment was released for external peer review in August 2013&lt;/a&gt; by EPAs Science Advisory Board (SAB) Chemical Assessment Advisory Committee (CAAC). The SAB CAAC held a public, independent peer review meeting on June 17-19, 2014 and public teleconferences to discuss the draft SAB CAAC report on November 5, 2014 and January 29, 2015.  The chartered SAB held a public quality review teleconference to review the draft SAB CAAC report on June 8, 2015. &lt;strong&gt;(Step 4d)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 5 Revise Assessment:&lt;/strong&gt; Receive final peer review report from the SAB in 2015.  The subsequent schedule will be released after the IRIS Program evaluates the final report and its recommendations for the assessment.&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+				&lt;p&gt;&lt;strong&gt;Vanadium pentoxide&lt;/strong&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;The &lt;a href=&quot;http://cfpub.epa.gov/ncea/iris_drafts/recordisplay.cfm?deid=236587&quot;&gt;assessment for vanadium pentoxide&lt;/a&gt; has undergone public comment and external peer review.  The assessment has been revised taking into consideration the public comments and in accordance with the recommendations of the final peer review report. The revised assessment is currently undergoing final agency/interagency science discussion. &lt;strong&gt;(Step 6)&lt;/strong&gt;&lt;/td&gt;
+			&lt;td colspan=&quot;2&quot;&gt;&lt;strong&gt;Step 7 Post Final Assessment:&lt;/strong&gt; Fall of 2015.&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 20 Oct 2015 12:03:13 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">121735 at https://www.epa.gov</guid>
+  </item>
+  <item>
+    <title>Advancing Systematic Review Workshop (December 2015) </title>
+    <link>https://www.epa.gov/iris/advancing-systematic-review-workshop-december-2015</link>
+    <description>&lt;p&gt;The purpose of the workshop is to examine developments and applications of methods for the identification and evaluation of different types of evidence (epidemiology, animal toxicology, and mechanistic) for use in chemical assessments.&lt;/p&gt;
+
+&lt;div id=&quot;tabs&quot;&gt;
+	&lt;ul class=&quot;tabs&quot; id=&quot;tabsnav&quot;&gt;&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-1&quot;&gt;Workshop Details&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;menu-internal&quot; href=&quot;#tab-2&quot;&gt;Workshop Materials&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;div id=&quot;tab-1&quot;&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#when&quot;&gt;Dates&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#where&quot;&gt;Location&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;#background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;EPA is developing and implementing a systematic review process within the IRIS Program to increase the transparency and clarity related to identifying and evaluating evidence and drawing conclusions in ongoing and future assessments. This workshop will serve as a follow-up to two previously held systematic review workshops held in &lt;a href=&quot;/iris/systematic-review-workshop-august-2013&quot;&gt;August 2013&lt;/a&gt; and &lt;a href=&quot;/iris/workshop-discuss-nrc-2014-recommendations-iris&quot;&gt;October 2014&lt;/a&gt;. The August 2013 workshop examined the state-of-the-science of systematic review methodology, focusing on recent developments as the methodology has expanded outside the arena of evidence based medicine. The October 2014 workshop focused on recommendations in the &lt;a href=&quot;/iris/iris-and-national-research-council-nrc&quot;&gt;May 2014 National Research Council report&lt;/a&gt; related to systematic review and evaluation of the risk of bias, integration of evidence streams, and combining quantitative results from multiple studies.&lt;/p&gt;
+
+		&lt;p&gt;The December 2015 workshop examined developments and applications of methods for the identification and evaluation of different types of evidence (epidemiology, animal toxicology, and mechanistic). Two sessions were held: (1) From Theory to Practice: Lessons Learned From the Evaluation of Studies of Chemical Exposure, and (2) Systematic Review Relating to Mechanistic Data: What is Really Needed, and How can it be Efficiently Applied? This workshop built on some of the sessions from the previous workshops and further addressed the practical application of systematic review methodologies to specific elements of IRIS assessments.&lt;/p&gt;
+
+		&lt;p&gt;The December 2015 workshop includes presentations and discussions by scientific experts in areas pertaining to systematic review. The workshop was structured to include an opportunity for comments, questions, and engagement from stakeholders and members of the public.&lt;/p&gt;
+
+		&lt;p&gt;To promote transparency, speakers were requested to disclose: (1) The nature of any financial relationships they may have with any organization(s) or entities having an interest in issues under discussion (e.g., consulting agreements, expert witness support, or research funding); and (2) The extent to which their comments were reviewed by an interested party.&lt;/p&gt;
+
+		&lt;h2 id=&quot;when&quot;&gt;Dates&lt;/h2&gt;
+
+		&lt;p&gt;The workshop was held on December 16 - 17, 2015.&lt;/p&gt;
+
+		&lt;h2 id=&quot;where&quot;&gt;Location&lt;/h2&gt;
+
+		&lt;p&gt;The meeting was held in the EPA Conference Center at 2777 South Crystal Drive, Arlington, Virginia 22202. The meeting was also available by webinar.&lt;/p&gt;
+
+		&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+		&lt;p&gt;The purpose of the workshop was to examine recent developments and applications of methods for the identification and evaluation of different types of evidence (epidemiology, animal toxicology, and mechanistic). Two sessions were held: (1) From Theory to Practice: Lessons Learned From the Evaluation of Studies of Chemical Exposure, and (2) Systematic Review Relating to Mechanistic Data: What is Really Needed, and How can it be Efficiently Applied?&lt;/p&gt;
+
+		&lt;h3&gt;Session 1: From Theory to Practice: Lessons Learned From the Evaluation of Studies of Chemical Exposure&lt;/h3&gt;
+
+		&lt;p&gt;Considerable efforts have been undertaken to develop and refine systematic review methods that address the scope, purpose, and designs of studies examining potential health effects or toxicities from exposure to environmental chemicals. Much of this work has built upon the methods and resources of the Cochrane Collaboration, such as recently-released methods designed specifically for the assessment of risk of bias in non-randomized studies of interventions (ACROBAT-NRSI). This session will use the ACROBAT-NRSI as a starting point to examine developments in methods used to evaluate studies. Discussion topics:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;In what ways do the differences between evaluating “interventions” and evaluating “exposures” necessitate different approaches to assessing bias?&lt;/li&gt;
+			&lt;li&gt;What insights can be drawn from the experience of various groups using or adapting ACROBAT-NRSI?&lt;/li&gt;
+			&lt;li&gt;Does &quot;risk of bias&quot;, as currently conceptualized and used, adequately encompass the breadth of issues needed for evaluation of studies of chemical exposures in observational epidemiology and in animal toxicology studies? If not, what approaches can be used to appropriately expand the focus?&lt;/li&gt;
+		&lt;/ul&gt;&lt;h3&gt;Session 2: Systematic Review Relating to Mechanistic Data: What is Really Needed, and How can it be Efficiently Applied?&lt;/h3&gt;
+
+		&lt;p&gt;Evaluations of the potential mechanisms underlying the toxic effects of chemicals can lend support to determinations of hazard in humans. Approaches to the comprehensive and systematic identification and evaluation of mechanistic data that ensure efficiency and transparency in this process are currently being considered. This is a particular challenge for in vitro studies, given their heterogeneity and, in many cases, the large number of studies/assays. This session will examine approaches to sorting, screening, and evaluating mechanistic evidence, drawing upon use of key characteristics of carcinogens as an organizing principle. Discussion topics:&lt;/p&gt;
+
+		&lt;ul&gt;&lt;li&gt;What methods can be used to prioritize the relevant mechanistic studies that will most directly address questions on mechanistic events and pathways, i.e., mode of action?&lt;/li&gt;
+			&lt;li&gt;What is the utility of evaluating in vitro studies for bias and what approaches are available?&lt;/li&gt;
+			&lt;li&gt;Can the model of using key characteristics of carcinogens as an organizing principle be used for mechanistic evidence for other hazards (e.g., neurotoxicity, reproductive and developmental toxicity)?&lt;/li&gt;
+			&lt;li&gt;Are there frameworks or approaches such as adverse outcome pathways (AOPs) that may be useful for prioritizing the most relevant mechanistic studies for addressing questions on mechanistic events and pathways, i.e., mode of action for cancer and noncancer effects?&lt;/li&gt;
+		&lt;/ul&gt;&lt;p&gt;Comments on the workshop may be submitted to &lt;a href=&quot;mailto:EPA_Sys-Review@icfi.com&quot;&gt;EPA_Sys-Review@icfi.com&lt;/a&gt;.&lt;/p&gt;
+
+		&lt;p class=&quot;pagetop&quot;&gt;&lt;a href=&quot;#main-content&quot;&gt;Top of Page&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div id=&quot;tab-2&quot;&gt;
+		&lt;h2&gt;Final Agenda&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;ins&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526435&quot;&gt;Advanced Systematic Review Workshop (Dec 2015) (PDF)&lt;/a&gt;&lt;/ins&gt;&lt;span class=&quot;fileinfo&quot;&gt;(3 pp, 452 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;.&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Session 1: Presentations&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526737&quot;&gt;Session 1: A Tool for Evaluating Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I): Development and Applications (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(36 pp, 388 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526738&quot;&gt;Session 1: Applicability of ROBINS-I to Studies of Environmental Exposures (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 252 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526739&quot;&gt;Session 1: Risk of Bias and Causality Assessments (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(17pp, 314 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526740&quot;&gt;Session 1: Adaptation of Risk of Bias Assessment for Environmental Exposures: The IRIS Experience (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 636 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526741&quot;&gt;Session 1: Methods Development for Bias Assessment of Environmental Exposures for Male Reproductive Outcomes (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 119 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526742&quot;&gt;Session 1: Methods Development for Measurement of Environmental Exposures of Diabetes and Diabetes-Related Outcomes (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(11 pp, 334 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526743&quot;&gt;Session 1: Methods Development for Assessment of Environmental Exposures for Pregnancy Outcomes (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(9 pp, 43 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526744&quot;&gt;Session 1: Developing and Testing Study Evaluation Methods (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(10 pp, 37 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526745&quot;&gt;Session 1: Lessons Learned for the Navigation Guide: Risk of Bias Tools for Exposure Metrics in Epidemiology Studies (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(30 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526746&quot;&gt;Session 1: The Navigation Guide Systematic Review Methodology: Evaluating Neurodevelopmental Outcomes (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(32 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526747&quot;&gt;Session 1: Lessons Learned in Protocol Development and Implementation of Multi-Endpoint Systematic Reviews (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(37 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;h2&gt;Session 2: Presentations&lt;/h2&gt;
+
+		&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526748&quot;&gt;Session 2: Advancing Systematic Review Relating to Mechanistic Data (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(19 pp, 878 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526749&quot;&gt;Session 2: Approaches for Considering Mechanistic Information in Systematic Reviews (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(12 pp, 256 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526750&quot;&gt;Session 2: Extending a Risk-of-Bias Approach to Address &lt;em&gt;in Vitro &lt;/em&gt;Studies (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(14 pp, 538 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526751&quot;&gt;Session 2: Improving Systematic Review and Usability of NexGen/High Throughput Data in Studies of Chemical Toxicity Using Aops (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(35 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526752&quot;&gt;Session 2: Key Characteristics of Carcinogens as a Basis for Organizing Data on Mechanisms of Carcinogenesis (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(17 pp, 974 K, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526753&quot;&gt;Session 2: Systematic Identification of the Mechanistic Evidence for Cancer Hazard Assessment: Experience of the IARC Monographs Programme (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(25 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526754&quot;&gt;Session 2: Epigenetic Alterations Induced By Genotoxic Occupational and Environmental Human Chemical Carcinogens: A Systematic Literature Review (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(20 pp, 5 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526755&quot;&gt;Session 2: Adverse Outcome Pathway as An Integrating Framework for Systematic Review (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526756&quot;&gt;Session 2: Examination of Human Relevance of Anti-Androgenic Effects Observed Following Exposure to Dibutyl Phthalate (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(23 pp, 1 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526757&quot;&gt;Session 2: Noncancer MOA Decision Points: Examples from the Draft Formaldehyde Inhalation Assessment of Respiratory Tract Effects (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(22 pp, 2 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;http://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=526758&quot;&gt;Session 2: Evidence-Based Methodologies in Toxicology: Application to Test Methods Comparison (PDF)&lt;/a&gt; &lt;span class=&quot;fileinfo&quot;&gt;(38 pp, 15 MB, &lt;a href=&quot;/home/pdf-files&quot;&gt;About PDF&lt;/a&gt;)&lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <pubDate>Wed, 14 Oct 2015 21:10:13 +0000</pubDate>
+ <dc:creator>mjohns05</dc:creator>
+ <guid isPermaLink="false">121151 at https://www.epa.gov</guid>
+  </item>
+  </channel>
+</rss>
