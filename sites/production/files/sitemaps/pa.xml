@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/pa/additional-documents-pertaining-city-pf-wilkes-barre-pennsylvania-public-notice</loc>
+  <lastmod>2016-12-23T07:44:19Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pa/epa-reviews-cleanup-enterprise-ave-philadelphia-pa-pad980552913</loc>
+  <lastmod>2017-01-20T06:52:16Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pa/epa-reviews-cleanup-hranica-landfill-buffalo-township-pa-pad980508618</loc>
+  <lastmod>2017-01-20T06:41:32Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pa/epa-seeks-public-comments-borit-asbestos-superfund-site-proposed-remedial-action-plan-ambler-pa</loc>
+  <lastmod>2017-01-11T11:48:43Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pa/list-superfund-sites-pennsylvania</loc>
+  <lastmod>2016-09-29T11:33:39Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pa/notice-intent-assess-administrative-penalty-and-opportunity-public-comment-city-wilkes-barre</loc>
+  <lastmod>2017-01-11T08:12:24Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

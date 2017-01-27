@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/enviro/greenhouse-gas-search-user-guide</loc>
+  <lastmod>2016-09-27T14:42:06Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/enviro/greenhouse-gas-subpart-w-model-centrifugal-compressors</loc>
+  <lastmod>2016-09-27T13:41:43Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/enviro/greenhouse-gas-subpart-w-model-eor-hydrocarbon-liquids-dissolved-co2</loc>
+  <lastmod>2016-09-27T13:43:15Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/enviro/greenhouse-gas-subpart-w-model-eor-injection-pump-blowdown</loc>
+  <lastmod>2016-09-27T13:44:59Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/enviro/igms-construction-grants-overview</loc>
+  <lastmod>2016-09-27T14:43:30Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

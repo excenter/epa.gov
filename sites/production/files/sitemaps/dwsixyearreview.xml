@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/dwsixyearreview/discussion-about-potential-distribution-system-problems</loc>
+  <lastmod>2016-09-29T11:37:39Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/dwsixyearreview/distribution-system-white-papers</loc>
+  <lastmod>2016-09-29T11:36:43Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/dwsixyearreview/drinking-water-distribution-systems</loc>
+  <lastmod>2016-12-13T12:35:08Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/dwsixyearreview/long-term-2-enhanced-surface-water-treatment-lt2-rule-round-1-source-water</loc>
+  <lastmod>2016-04-29T12:17:45Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

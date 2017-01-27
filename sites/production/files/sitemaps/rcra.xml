@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/rcra/community-options-safe-needle-disposal</loc>
+  <lastmod>2017-01-12T12:44:28Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/rcra/medical-waste</loc>
+  <lastmod>2017-01-17T11:33:06Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/rcra/model-guidelines-state-medical-waste-management</loc>
+  <lastmod>2017-01-12T12:44:46Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/rcra/protect-yourself-protect-others-safe-options-home-needle-disposal</loc>
+  <lastmod>2017-01-12T12:44:38Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

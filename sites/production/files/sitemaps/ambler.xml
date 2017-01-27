@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-april-12-2017</loc>
+  <lastmod>2017-01-06T12:54:46Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-august-3-2017</loc>
+  <lastmod>2017-01-06T12:59:26Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-december-6-2017</loc>
+  <lastmod>2017-01-06T13:03:56Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-december-7-2016</loc>
+  <lastmod>2016-12-01T14:02:01Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-february-1-2017</loc>
+  <lastmod>2017-01-06T12:51:03Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-june-7-2017</loc>
+  <lastmod>2017-01-06T12:57:00Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/ambler/borit-cag-meeting-october-4-2017</loc>
+  <lastmod>2017-01-06T13:00:57Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

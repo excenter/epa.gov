@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/pesticide-advisory-committees-and-regulatory-partners/ppdc-comparative-safety-statements-or-logos</loc>
+  <lastmod>2016-12-07T09:36:38Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pesticide-advisory-committees-and-regulatory-partners/ppdc-pollinator-protection-workgroup-3</loc>
+  <lastmod>2016-12-05T11:31:33Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/pesticide-advisory-committees-and-regulatory-partners/pria-process-improvement-workgroup</loc>
+  <lastmod>2016-12-07T15:07:45Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

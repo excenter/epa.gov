@@ -1,0 +1,55 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+
+		<script type="text/javascript">
+			var imgs1 = new Array("cbwr_v2_files/01_RESILIENCE.png", "cbwr_v2_files/02_EDT.png", "cbwr_v2_files/03_CREAT.png",
+"cbwr_v2_files/04_DROUGHT.png", "cbwr_v2_files/05_VSAT.png");
+			
+			var lnks1 = new Array("https://www.epa.gov/waterutilityresponse/hazard-mitigation-natural-disasters","http://www.epa.gov/waterutilityresponse/drought-response-and-recovery-water-utilities","https://www.epa.gov/crwu/build-climate-resilience-your-utility",
+"http://www.epa.gov/waterutilityresponse/drought-response-and-recovery-water-utilities",
+"https://www.epa.gov/waterriskassessment/conduct-drinking-water-or-wastewater-utility-risk-assessment");
+			
+			var alt1 = new Array("Improve your water utility's resilience to natural disasters","Prepare for water contamination with the exercise development toolbox","Strengthen your water utility with a powerful climate tool","Thirsty for Solutions? Use EPA's Drought Guide for Water Utilities", "Protect your community. Assess your utility's risk with VSAT");
+			
+			var currentAd1 = 0;
+			
+			var imgCt1 = 5;
+			
+			function cycle1() {
+			  if (currentAd1 == imgCt1) {
+			    currentAd1 = 0;
+			  }
+			
+			var banner1 = document.getElementById('adBanner1');
+			
+			var link1 = document.getElementById('adLink1');
+			  banner1.src=imgs1[currentAd1]
+			  banner1.alt=alt1[currentAd1]
+			  document.getElementById('adLink1').href=lnks1[currentAd1]
+			  currentAd1++;
+			}
+			 
+			window.setInterval("cycle1()",7 * 1000);
+
+		</script>
+		<style type="text/css">#widget {margin: 0; width: 200px; height: 136px; border: 1px solid rgb(32,101,168);}
+		    	#info {width: 13px; height: 17px; position: absolute; left: 194px; top: 124px; z-index: 1000;}
+		    	#widget_footer {width: 66px; height: 26px; position: absolute; left: 14px; top: 116px; z-index: 1000;}   
+		</style>
+
+	</head>
+
+
+	<body>
+
+		<div id="widget">
+			<a href="http://www.epa.gov/waterqualitysurveillance/water-quality-surveillance-and-response-system-fact-sheet-and-primer" http:="" www.epa.gov="" waterqualitysurveillance="" water-quality-surveillance-and-response-system-fact-sheet-and-primer","http:="" communitywaterresilience="" water-utility-public-awareness-kit""="" id="adLink1" target="_top"><img alt="Improve your water utility's resilience to natural disasters" src="https://www.epa.gov/sites/production/files/widgets/cbwr_v2_files/01_RESILIENCE.png" id="adBanner1"></a>
+
+			<a id="info" href="https://developer.epa.gov/?s=utility+preparednes" target="_top" title="Widget information"><img src="https://www.epa.gov/sites/production/files/widgets/cbwr_v2_files/information_symbol_a.png"></a>
+
+		   	<a id="widget_footer" href="http://www.epa.gov/" target="_top" title="EPA.gov"><img src="https://www.epa.gov/sites/production/files/widgets/cbwr_v2_files/epa_a.png"></a>
+		</div>
+
+	
+
+</body></html>

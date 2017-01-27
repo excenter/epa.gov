@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.epa.gov/fedfac/federal-facilities-institutional-controls-ics</loc>
+  <lastmod>2016-03-15T09:37:27Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/federal-facilities-library</loc>
+  <lastmod>2016-06-06T08:19:24Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/fiscal-year-2011-national-priorities-list-program-snapshot</loc>
+  <lastmod>2016-03-15T09:30:16Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/guidance-epa-concurrence-identification-uncontaminated-parcels-under-cercla-section-120-h4</loc>
+  <lastmod>2016-03-15T09:28:40Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/memorandum-understanding-between-dod-doe-doi-and-epa-support-epas-national-environmental</loc>
+  <lastmod>2014-04-01T12:41:31Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/overview-executive-orders-affecting-federal-facilities</loc>
+  <lastmod>2016-09-06T07:57:49Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/publication-rifs-timetables-and-deadlines-federal-facilities</loc>
+  <lastmod>2016-03-15T09:37:48Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.epa.gov/fedfac/transmittal-policy-towards-landowners-and-transferees-federal-facilities</loc>
+  <lastmod>2016-03-15T09:28:22Z</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
