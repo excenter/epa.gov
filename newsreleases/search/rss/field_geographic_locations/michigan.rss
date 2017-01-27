@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/michigan?filter=" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA news releases</title>
+    <link>https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/michigan?filter=</link>
+    <description>News releases for EPA</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/michigan" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EPA Amends Emergency Order on Flint Drinking Water</title>
+    <link>https://www.epa.gov/newsreleases/epa-amends-emergency-order-flint-drinking-water</link>
+    <description>CHICAGO  -- U.S. Environmental Protection Agency today announced an amendment to update its January 2016 Safe Drinking Water Act emergency order to the state of Michigan, the Michigan Department of Environmental Quality and the city of Flint.</description>
+     <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
+ <dc:creator>Region 05</dc:creator>
+ <guid isPermaLink="true">https://www.epa.gov/newsreleases/epa-amends-emergency-order-flint-drinking-water</guid>
+  </item>
+  <item>
+    <title>Cleanup of PCB-Contaminated Sediment Begins Near Otsego Township Dam in Michigan</title>
+    <link>https://www.epa.gov/newsreleases/cleanup-pcb-contaminated-sediment-begins-near-otsego-township-dam-michigan-0</link>
+    <description>For Immediate Release: No. 16-OPA030</description>
+     <pubDate>Fri, 05 Aug 2016 00:00:00 -0400</pubDate>
+ <dc:creator>Region 05</dc:creator>
+ <guid isPermaLink="true">https://www.epa.gov/newsreleases/cleanup-pcb-contaminated-sediment-begins-near-otsego-township-dam-michigan-0</guid>
+  </item>
+  <item>
+    <title>EPA, DEQ and City of Flint Recommend Flushing Water to Speed Recovery of System</title>
+    <link>https://www.epa.gov/newsreleases/epa-deq-and-city-flint-recommend-flushing-water-speed-recovery-system</link>
+    <description>FLINT, MI – The U.S. Environmental Protection Agency, in coordination with the State of Michigan Department of Environmental Quality and the City of Flint, is recommending Flint residents run the water in their homes and businesses to aid in the recovery of the Flint drinking water system.</description>
+     <pubDate>Sat, 16 Apr 2016 00:00:00 -0400</pubDate>
+ <dc:creator>Region 05</dc:creator>
+ <guid isPermaLink="true">https://www.epa.gov/newsreleases/epa-deq-and-city-flint-recommend-flushing-water-speed-recovery-system</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 18:13:36, expires @ 2017-01-26 06:13:36, lifetime 12 hours -->

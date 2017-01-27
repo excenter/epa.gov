@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/rocky-mountains?filter=" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>EPA news releases</title>
+    <link>https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/rocky-mountains?filter=</link>
+    <description>News releases for EPA</description>
+    <language>en</language>
+     <atom:link href="https://www.epa.gov/newsreleases/search/rss/field_geographic_locations/rocky-mountains" rel="self" type="application/rss+xml" />
+      <item>
+    <title>EPA Settles with Syngenta Crop Protection, LLC for alleged Multi-Regional Violations of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA)</title>
+    <link>https://www.epa.gov/newsreleases/epa-settles-syngenta-crop-protection-llc-alleged-multi-regional-violations-federal</link>
+    <description>ATLANTA – The U.S. Environmental Protection Agency (EPA) today announced a multi-region settlement with Syngenta Crop Protection, LLC (Syngenta) in Greensboro, N.C., for alleged violations of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).</description>
+     <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
+ <dc:creator>Region 04</dc:creator>
+ <guid isPermaLink="true">https://www.epa.gov/newsreleases/epa-settles-syngenta-crop-protection-llc-alleged-multi-regional-violations-federal</guid>
+  </item>
+  </channel>
+</rss>
+
+<!-- Page cached by Boost @ 2017-01-25 17:35:52, expires @ 2017-01-26 05:35:52, lifetime 12 hours -->
